@@ -1,0 +1,16 @@
+node_modules
+dist
+.astro
+
+# OS / tooling
+.DS_Store
+.playwright-cli
+output
+
+# internal — keep local, do not publish
+*site-pack*/
+STATUS.md
+LOCAL_OVERRIDE.md
+CLAUDE.md
+AGENTS.md
+.claude/

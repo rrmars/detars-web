@@ -1,0 +1,22 @@
+---
+import Home from "@/components/Home.astro";
+import Base from "@/layouts/Base.astro";
+import { homeCopy } from "@/lib/home-copy";
+
+const locale = "en" as const;
+const t = homeCopy[locale];
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "DeTars",
+    applicationCategory: "BusinessApplication",
+    operatingSystem: "macOS, Windows",
+    description: t.metaDescription
+  }
+];
+---
+
+<Base locale={locale} route="/" title={t.metaTitle} description={t.metaDescription} ogTitle="DeTars" jsonLd={jsonLd}>
+  <Home locale={locale} />
+</Base>

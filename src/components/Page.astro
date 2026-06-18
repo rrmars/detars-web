@@ -1,0 +1,108 @@
+---
+import type { PageContent } from "@/lib/pages";
+import { withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale; content: PageContent };
+const { locale, content } = Astro.props;
+const answerLabel = locale === "zh" ? "一句话" : "In short";
+---
+
+<section class="page-head shell">
+  <div class="reveal">
+    <span class="kicker">{content.kicker}</span>
+    <h1 set:html={content.h1} />
+    <div class="answer-card">
+      <span class="lab">{answerLabel}</span>
+      <p set:html={content.answer} />
+    </div>
+  </div>
+</section>
+
+<section class="band shell" style="padding-top:40px;">
+  {content.sections.map((s) => (
+    <div class="sec reveal">
+      <h2 set:html={s.h2} />
+      {s.intro && <p class="sec-intro" set:html={s.intro} />}
+      {s.blocks.map((b) => {
+        if (b.type === "p") return <p class="sec-p" set:html={b.html} />;
+        if (b.type === "list") return <ul class="sec-list">{b.items.map((i) => <li set:html={i} />)}</ul>;
+        if (b.type === "cards")
+          return (
+            <div class="cards">
+              {b.items.map((c) => (
+                <div class="card">
+                  {c.tag && <span class="tag" set:html={c.tag} />}
+                  <h3 set:html={c.title} />
+                  <p set:html={c.body} />
+                </div>
+              ))}
+            </div>
+          );
+        if (b.type === "tiles")
+          return (
+            <div class="tiles">
+              {b.items.map((tl) => (
+                <div class="tile">
+                  <h3 set:html={tl.title} />
+                  <p set:html={tl.sub} />
+                  {tl.note && <span class="note" set:html={tl.note} />}
+                </div>
+              ))}
+            </div>
+          );
+        if (b.type === "faq")
+          return (
+            <div class="faq">
+              {b.items.map((f) => (
+                <details>
+                  <summary set:html={f.q} />
+                  <p set:html={f.a} />
+                </details>
+              ))}
+            </div>
+          );
+        return null;
+      })}
+    </div>
+  ))}
+
+  {content.cta && (
+    <div class="reveal" style="margin-top:56px;">
+      <a class="btn-primary" href={withLocale(locale, content.cta.route)} set:html={content.cta.label} />
+    </div>
+  )}
+</section>
+
+<style>
+  .sec { max-width: 760px; margin-top: 44px; }
+  .sec h2 { font-weight: 700; font-size: clamp(24px, 2.8vw, 36px); letter-spacing: -0.02em; }
+  .sec h2 :global(.o) { color: var(--accent2); }
+  .sec-intro { margin-top: 14px; font-size: 18px; line-height: 1.7; color: var(--text); max-width: 60ch; }
+  .sec-p { margin-top: 16px; font-size: 16.5px; line-height: 1.75; color: var(--muted); max-width: 62ch; }
+  .sec-p :global(b) { color: var(--text); font-weight: 500; }
+  .sec-list { margin-top: 16px; padding-left: 0; list-style: none; max-width: 62ch; }
+  .sec-list li { position: relative; padding-left: 22px; margin-top: 10px; font-size: 16px; line-height: 1.7; color: var(--muted); }
+  .sec-list li::before { content: ""; position: absolute; left: 0; top: 11px; width: 7px; height: 7px; border-radius: 2px; background: var(--accent); }
+  .sec-list li :global(b) { color: var(--text); font-weight: 500; }
+
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 22px; max-width: 100%; }
+  .card { border: 1px solid var(--line); border-radius: 16px; background: rgba(255, 255, 255, 0.025); padding: 22px; }
+  .card .tag { font-family: var(--sg); font-size: 11.5px; letter-spacing: 0.04em; color: var(--accent2); }
+  .card h3 { margin-top: 8px; font-size: 18px; font-weight: 600; }
+  .card p { margin-top: 8px; font-size: 14.5px; line-height: 1.65; color: var(--muted); }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 22px; }
+  .tile { border: 1px solid var(--line2); border-radius: 18px; background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.012)); padding: 28px; }
+  .tile h3 { font-family: var(--sg); font-size: 22px; font-weight: 700; }
+  .tile p { margin-top: 8px; font-size: 14.5px; color: var(--muted); line-height: 1.6; }
+  .tile .note { display: inline-block; margin-top: 14px; font-size: 12.5px; color: var(--accent2); font-family: var(--mono); }
+
+  .faq { margin-top: 18px; max-width: 760px; border-top: 1px solid var(--line); }
+  .faq details { border-bottom: 1px solid var(--line); padding: 6px 0; }
+  .faq summary { cursor: pointer; list-style: none; padding: 16px 0; font-size: 17px; font-weight: 500; color: var(--text); position: relative; padding-right: 30px; }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary::after { content: "+"; position: absolute; right: 4px; top: 14px; color: var(--accent2); font-size: 20px; transition: transform 0.2s; }
+  .faq details[open] summary::after { content: "−"; }
+  .faq p { padding: 0 0 18px; font-size: 16px; line-height: 1.7; color: var(--muted); max-width: 64ch; }
+  .faq p :global(b) { color: var(--text); font-weight: 500; }
+</style>

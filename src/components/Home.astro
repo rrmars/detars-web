@@ -1,0 +1,282 @@
+---
+import { homeCopy } from "@/lib/home-copy";
+import { withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale };
+const { locale } = Astro.props;
+const t = homeCopy[locale];
+const dl = (route: string) => withLocale(locale, route);
+---
+
+<!-- HERO -->
+<section class="hero shell">
+  <span class="eyebrow"><span class="p"></span>{t.heroEyebrow}</span>
+  <h1 set:html={t.heroH1} />
+  <p class="sub" set:html={t.heroSub} />
+  <div class="actions" style="justify-content:center;margin-top:40px;">
+    <a class="btn-primary" href={dl("/download")}>{t.heroPrimary}</a>
+    <a class="btn-ghost" href="#live">{t.heroSecondary}</a>
+  </div>
+  <div class="proof">
+    {t.proof.map((p) => (<div class="it"><span class="n">{p.n}</span><span class="l">{p.l}</span></div>))}
+  </div>
+  <p class="verify">{t.verify}</p>
+</section>
+
+<!-- HOOK -->
+<section class="band shell hook">
+  <div class="reveal">
+    <span class="kicker">{t.hookKicker}</span>
+    <h2 set:html={t.hookH2} />
+    <p set:html={t.hookP} />
+  </div>
+</section>
+
+<!-- LIVING WITH IT -->
+<section class="band shell live" id="live" style="padding-top:30px;">
+  <div class="reveal">
+    <span class="kicker">{t.liveKicker}</span>
+    <h2 set:html={t.liveH2} />
+  </div>
+  <div class="live-grid reveal">
+    <div class="rail" id="rail">
+      {t.steps.map((s, i) => (
+        <div class="step" data-i={i + 1}>
+          <div class="num">{i + 1}</div>
+          <div><div class="st">{s.st}</div><div class="sd" set:html={s.sd} /></div>
+        </div>
+      ))}
+    </div>
+    <div class="phone" id="phone" data-phase="0">
+      <div class="ph-head">
+        <div class="pk"><span class="av" id="ph-av">{t.scenarios[0].av}</span><span id="ph-pack">{t.scenarios[0].pack}</span></div>
+        <span class="via" id="ph-via">via {t.scenarios[0].via}</span>
+      </div>
+      <div class="ph-body">
+        <div class="bubble" id="ph-input">{t.scenarios[0].input}</div>
+        <div class="work"><span class="dots"><i></i><i></i><i></i></span><span id="ph-work">{t.scenarios[0].work}</span></div>
+        <div class="result"><div class="rt" id="ph-result">{t.scenarios[0].result}</div><div class="rm" id="ph-meta">detars · {t.scenarios[0].meta}</div></div>
+      </div>
+      <div class="ph-foot">{t.phoneFoot}</div>
+    </div>
+  </div>
+  <script type="application/json" id="scenarios-data" is:inline set:html={JSON.stringify(t.scenarios)} />
+</section>
+
+<!-- CORRIDOR -->
+<section class="band shell" id="corridor" style="padding-top:40px;">
+  <div class="reveal" style="margin-bottom:10px;"><span class="kicker">{t.corridorKicker}</span></div>
+  {t.scenes.map((sc) => (
+    <div class="scene reveal">
+      <div class="scene-copy">
+        <div class="idx">{sc.idx}</div>
+        <h3>{sc.h3}</h3>
+        <p class="story" set:html={sc.story} />
+      </div>
+      <div class="scene-visual">
+        <div class="evidence">
+          <div class="ev-head"><span>{sc.head}</span><span class="lab">{sc.lab}</span></div>
+          <div class="ev-body">{sc.body.map((line) => (<div set:html={line} />))}</div>
+          <div class="ev-foot" set:html={sc.foot} />
+        </div>
+      </div>
+    </div>
+  ))}
+</section>
+
+<!-- BOMB -->
+<section class="band shell bomb" id="proof-bomb">
+  <div class="reveal">
+    <div class="big" id="home-counter">0</div>
+    <div class="cap">{t.bombCap}</div>
+    <h2 set:html={t.bombH2} />
+    <p set:html={t.bombP} />
+  </div>
+</section>
+
+<!-- CLOSE -->
+<section class="band shell close" id="close">
+  <div class="reveal">
+    <h2 set:html={t.closeH2} />
+    <p set:html={t.closeP} />
+    <div class="actions" style="justify-content:center;margin-top:38px;">
+      <a class="btn-primary" href={dl("/download")}>{t.closePrimary}</a>
+      <a class="btn-ghost" href={dl("/proof")}>{t.closeSecondary}</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero { text-align: center; padding: 104px 0 110px; display: flex; flex-direction: column; align-items: center; }
+  .hero h1 { margin: 28px 0 0; font-weight: 900; font-size: clamp(50px, 7vw, 102px); line-height: 0.98; letter-spacing: -0.03em; }
+  .hero .sub { margin: 28px auto 0; max-width: 38ch; font-size: 18px; line-height: 1.72; color: #cdc6bf; font-weight: 300; }
+  .hero .sub :global(b) { color: var(--text); font-weight: 500; }
+  .proof { display: flex; margin-top: 62px; border: 1px solid var(--line); border-radius: 16px; overflow: hidden; background: rgba(255, 255, 255, 0.025); }
+  .proof .it { padding: 20px 32px; display: flex; flex-direction: column; gap: 5px; border-right: 1px solid var(--line); }
+  .proof .it:last-child { border-right: none; }
+  .proof .n { font-family: var(--sg); font-size: 25px; font-weight: 700; color: var(--accent2); letter-spacing: -0.01em; }
+  .proof .l { font-size: 12.5px; color: var(--muted); }
+  .verify { margin-top: 18px; font-size: 12.5px; color: var(--faint); }
+  html.motion .hero > * { opacity: 0; transform: translateY(20px); }
+  html.motion body.home-loaded .hero > * { opacity: 1; transform: none; transition: opacity 0.9s var(--ease), transform 0.9s var(--ease); }
+  html.motion body.home-loaded .hero > *:nth-child(2) { transition-delay: 0.12s; }
+  html.motion body.home-loaded .hero > *:nth-child(3) { transition-delay: 0.24s; }
+  html.motion body.home-loaded .hero > *:nth-child(4) { transition-delay: 0.36s; }
+  html.motion body.home-loaded .hero > *:nth-child(5) { transition-delay: 0.5s; }
+  html.motion body.home-loaded .hero > *:nth-child(6) { transition-delay: 0.62s; }
+
+  .hook h2 { font-weight: 700; font-size: clamp(30px, 4vw, 52px); line-height: 1.18; letter-spacing: -0.02em; max-width: 18ch; margin: 22px 0 0; }
+  .hook p { margin: 24px 0 0; max-width: 46ch; font-size: 18px; line-height: 1.7; color: var(--muted); }
+  .hook p :global(b) { color: var(--text); font-weight: 500; }
+
+  .live h2 { font-weight: 700; font-size: clamp(28px, 3.6vw, 46px); line-height: 1.16; letter-spacing: -0.02em; max-width: 20ch; margin: 20px 0 0; }
+  .live-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; margin-top: 54px; }
+  .rail { display: flex; flex-direction: column; gap: 8px; }
+  .step { display: flex; gap: 16px; padding: 18px 20px; border: 1px solid var(--line); border-radius: 15px; transition: 0.45s var(--ease); background: rgba(255, 255, 255, 0.012); }
+  .step.on { border-color: rgba(255, 106, 61, 0.5); background: linear-gradient(100deg, rgba(255, 106, 61, 0.12), transparent); }
+  .step .num { font-family: var(--sg); font-weight: 700; font-size: 15px; color: var(--faint); width: 26px; height: 26px; border-radius: 8px; border: 1px solid var(--line2); display: grid; place-items: center; flex-shrink: 0; transition: 0.45s; }
+  .step.on .num { color: #1b0f08; background: linear-gradient(140deg, var(--accent), var(--accent2)); border-color: transparent; }
+  .step .st { font-size: 16.5px; font-weight: 500; }
+  .step .sd { font-size: 13.5px; color: var(--muted); margin-top: 3px; }
+  .step .sd :global(b) { color: var(--accent2); font-weight: 500; }
+  .phone { justify-self: center; width: 100%; max-width: 392px; height: 468px; border: 1px solid var(--line2); border-radius: 26px; background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.012)); backdrop-filter: blur(8px); box-shadow: 0 40px 90px rgba(0, 0, 0, 0.55); display: flex; flex-direction: column; overflow: hidden; }
+  .ph-head { display: flex; align-items: center; justify-content: space-between; padding: 16px 18px; border-bottom: 1px solid var(--line); }
+  .ph-head .pk { display: flex; align-items: center; gap: 10px; font-weight: 500; font-size: 15px; }
+  .ph-head .av { width: 30px; height: 30px; border-radius: 9px; background: #1c2230; display: grid; place-items: center; font-size: 15px; border: 1px solid var(--line2); }
+  .ph-head .via { font-family: var(--mono); font-size: 11px; color: var(--faint); }
+  .ph-body { flex: 1; padding: 18px; display: flex; flex-direction: column; gap: 12px; justify-content: flex-end; }
+  .bubble { align-self: flex-end; max-width: 80%; background: linear-gradient(140deg, var(--accent), var(--accent2)); color: #1b0f08; font-size: 14.5px; line-height: 1.5; padding: 11px 15px; border-radius: 16px 16px 4px 16px; opacity: 0; transform: translateY(10px) scale(0.96); }
+  .work { align-self: flex-start; display: flex; align-items: center; gap: 11px; font-size: 13.5px; color: var(--muted); background: rgba(255, 255, 255, 0.04); border: 1px solid var(--line); padding: 10px 14px; border-radius: 14px; opacity: 0; transform: translateY(10px); }
+  .work .dots { display: inline-flex; gap: 4px; }
+  .work .dots i { width: 6px; height: 6px; border-radius: 50%; background: var(--accent2); animation: blink 1.1s infinite; }
+  .work .dots i:nth-child(2) { animation-delay: 0.18s; }
+  .work .dots i:nth-child(3) { animation-delay: 0.36s; }
+  @keyframes blink { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+  .result { align-self: flex-start; max-width: 88%; background: rgba(70, 211, 154, 0.08); border: 1px solid rgba(70, 211, 154, 0.32); padding: 13px 15px; border-radius: 4px 16px 16px 16px; opacity: 0; transform: translateY(10px); }
+  .result .rt { font-size: 14.5px; font-weight: 500; line-height: 1.5; }
+  .result .rm { font-size: 12px; color: var(--faint); margin-top: 5px; font-family: var(--mono); }
+  .phone[data-phase="1"] .bubble, .phone[data-phase="2"] .bubble, .phone[data-phase="3"] .bubble { opacity: 1; transform: none; transition: 0.5s var(--ease); }
+  .phone[data-phase="2"] .work, .phone[data-phase="3"] .work { opacity: 1; transform: none; transition: 0.5s var(--ease); }
+  .phone[data-phase="3"] .result { opacity: 1; transform: none; transition: 0.55s var(--ease); }
+  html:not(.motion) .bubble, html:not(.motion) .work, html:not(.motion) .result { opacity: 1; transform: none; }
+  .ph-foot { padding: 11px 16px; border-top: 1px solid var(--line); font-size: 11.5px; color: var(--faint); text-align: center; }
+
+  .scene { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; padding: 54px 0; border-top: 1px solid var(--line); }
+  .scene:nth-child(even) .scene-visual { order: -1; }
+  .scene .idx { font-family: var(--sg); font-size: 14px; color: var(--accent); font-weight: 600; letter-spacing: 0.04em; }
+  .scene h3 { font-weight: 700; font-size: clamp(26px, 3vw, 38px); line-height: 1.14; letter-spacing: -0.02em; margin: 14px 0 0; }
+  .scene .story { margin: 18px 0 0; font-size: 16.5px; line-height: 1.74; color: var(--muted); }
+  .scene .story :global(b) { color: var(--text); font-weight: 500; }
+  .scene-visual { display: flex; justify-content: center; }
+  .evidence { width: 100%; max-width: 420px; border: 1px solid var(--line2); border-radius: 18px; background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.015)); backdrop-filter: blur(6px); box-shadow: 0 36px 80px rgba(0, 0, 0, 0.5); overflow: hidden; transition: transform 0.3s ease; }
+  .evidence:hover { transform: translateY(-4px); }
+  .ev-head { display: flex; align-items: center; justify-content: space-between; padding: 14px 18px; border-bottom: 1px solid var(--line); font-family: var(--mono); font-size: 12px; color: var(--faint); }
+  .ev-head .lab { color: var(--accent2); }
+  .ev-body { padding: 18px; font-family: var(--mono); font-size: 13px; line-height: 1.85; color: var(--muted); }
+  .ev-body :global(.ok) { color: var(--green); }
+  .ev-body :global(.hl) { color: var(--accent2); }
+  .ev-body :global(.dim) { color: var(--faint); }
+  html.motion .evidence .ev-body > div { opacity: 0; transform: translateY(5px); }
+  html.motion .evidence.play .ev-body > div { animation: logline 0.45s var(--ease) forwards; }
+  html.motion .evidence.play .ev-body > div:nth-child(1) { animation-delay: 0.05s; }
+  html.motion .evidence.play .ev-body > div:nth-child(2) { animation-delay: 0.22s; }
+  html.motion .evidence.play .ev-body > div:nth-child(3) { animation-delay: 0.39s; }
+  html.motion .evidence.play .ev-body > div:nth-child(4) { animation-delay: 0.56s; }
+  html.motion .evidence.play .ev-body > div:nth-child(5) { animation-delay: 0.73s; }
+  @keyframes logline { to { opacity: 1; transform: none; } }
+  .ev-foot { padding: 13px 18px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--faint); line-height: 1.5; }
+  .ev-foot :global(b) { color: var(--accent2); font-weight: 500; }
+
+  .bomb { text-align: center; }
+  .bomb .big { font-family: var(--sg); font-weight: 700; font-size: clamp(58px, 9vw, 140px); line-height: 1; letter-spacing: -0.03em; background: linear-gradient(100deg, var(--accent) 5%, #fff 55%, var(--accent2) 98%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .bomb .cap { margin-top: 10px; font-family: var(--sg); font-size: 15px; letter-spacing: 0.05em; color: var(--muted); }
+  .bomb h2 { margin: 30px auto 0; max-width: 22ch; font-weight: 700; font-size: clamp(26px, 3.4vw, 42px); line-height: 1.22; letter-spacing: -0.02em; }
+  .bomb p { margin: 20px auto 0; max-width: 42ch; font-size: 16.5px; line-height: 1.7; color: var(--muted); }
+
+  .close { text-align: center; border-top: 1px solid var(--line); }
+  .close h2 { font-weight: 900; font-size: clamp(34px, 5vw, 68px); line-height: 1.08; letter-spacing: -0.03em; max-width: 16ch; margin: 0 auto; }
+  .close p { margin: 26px auto 0; max-width: 40ch; font-size: 18px; line-height: 1.7; color: var(--muted); }
+
+  @media (max-width: 860px) {
+    .hero { padding: 56px 0 64px; }
+    .proof { flex-direction: column; }
+    .proof .it { border-right: none; border-bottom: 1px solid var(--line); }
+    .live-grid { grid-template-columns: 1fr; gap: 36px; }
+    .phone { order: -1; }
+    .scene { grid-template-columns: 1fr; gap: 30px; }
+    .scene:nth-child(even) .scene-visual { order: 0; }
+  }
+</style>
+
+<script is:inline>
+  (() => {
+    const motion = document.documentElement.classList.contains("motion");
+    const ready = () => document.body.classList.add("home-loaded");
+    if (document.readyState === "complete") ready();
+    else addEventListener("load", ready);
+    requestAnimationFrame(ready);
+
+    // evidence log-typing
+    if (motion && "IntersectionObserver" in window) {
+      const eio = new IntersectionObserver(
+        (es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("play"); eio.unobserve(e.target); } }),
+        { threshold: 0.4 }
+      );
+      document.querySelectorAll(".evidence").forEach((el) => eio.observe(el));
+    }
+
+    // count-up
+    const counter = document.getElementById("home-counter");
+    if (counter) {
+      const fmt = new Intl.NumberFormat("en-US");
+      let done = false;
+      const run = () => {
+        if (done) return; done = true;
+        if (!motion) { counter.textContent = fmt.format(1170000); return; }
+        const target = 1170000, dur = 1700, t0 = performance.now();
+        const step = (now) => {
+          const p = Math.min(1, (now - t0) / dur), e = 1 - Math.pow(1 - p, 3);
+          counter.textContent = fmt.format(Math.round(target * e));
+          if (p < 1) requestAnimationFrame(step);
+        };
+        requestAnimationFrame(step);
+      };
+      if ("IntersectionObserver" in window) {
+        new IntersectionObserver((es) => es.forEach((e) => e.isIntersecting && run()), { threshold: 0.5 }).observe(counter);
+      } else run();
+    }
+
+    // scenario showcase
+    const phone = document.getElementById("phone");
+    const dataEl = document.getElementById("scenarios-data");
+    if (phone && dataEl) {
+      const scenarios = JSON.parse(dataEl.textContent || "[]");
+      const rail = document.getElementById("rail");
+      const setStep = (n) => rail && rail.querySelectorAll(".step").forEach((s) => s.classList.toggle("on", +s.dataset.i === n));
+      const paint = (s) => {
+        document.getElementById("ph-av").textContent = s.av;
+        document.getElementById("ph-pack").textContent = s.pack;
+        document.getElementById("ph-via").textContent = "via " + s.via;
+        document.getElementById("ph-meta").textContent = "detars · " + s.meta;
+        document.getElementById("ph-input").textContent = s.input;
+        document.getElementById("ph-work").textContent = s.work;
+        document.getElementById("ph-result").textContent = s.result;
+      };
+      let si = 0, timers = [];
+      const clear = () => { timers.forEach(clearTimeout); timers = []; };
+      const cycle = () => {
+        clear(); paint(scenarios[si]);
+        phone.dataset.phase = "0"; setStep(0);
+        timers.push(setTimeout(() => { phone.dataset.phase = "1"; setStep(1); }, 250));
+        timers.push(setTimeout(() => { phone.dataset.phase = "2"; setStep(2); }, 1500));
+        timers.push(setTimeout(() => { phone.dataset.phase = "3"; setStep(3); }, 3000));
+        timers.push(setTimeout(() => { si = (si + 1) % scenarios.length; cycle(); }, 5400));
+      };
+      if (!motion) { phone.dataset.phase = "3"; setStep(3); }
+      else if ("IntersectionObserver" in window) {
+        let started = false;
+        new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting && !started) { started = true; cycle(); } }), { threshold: 0.3 }).observe(phone);
+      } else cycle();
+    }
+  })();
+</script>

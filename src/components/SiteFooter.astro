@@ -1,0 +1,32 @@
+---
+import { footerGroups } from "@/lib/nav";
+import { withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale };
+const { locale } = Astro.props;
+const tagline = locale === "zh" ? "你拥有的,不是租的" : "Yours, not rented";
+---
+
+<footer class="site-footer">
+  <div class="shell" style="display:grid;grid-template-columns:1.4fr repeat(3,1fr);gap:32px;padding:48px 0 8px;">
+    <div>
+      <a class="brand" href={withLocale(locale, "/")}><span class="mark"><span></span></span> De<span class="dot">Tars</span></a>
+      <p style="margin-top:14px;font-size:13.5px;color:var(--muted);max-width:26ch;line-height:1.6;">
+        {locale === "zh" ? "永久的第三方终端伙伴。" : "Your permanent third-party terminal."}
+      </p>
+    </div>
+    {
+      footerGroups.map((group) => (
+        <div>
+          <p style="font-family:var(--sg);font-size:12px;letter-spacing:0.1em;text-transform:uppercase;color:var(--faint);">{group.title[locale]}</p>
+          <div class="ft-links" style="flex-direction:column;gap:10px;margin-top:14px;font-size:14px;color:var(--muted);">
+            {group.items.map((item) => <a href={withLocale(locale, item.route)}>{item.label[locale]}</a>)}
+          </div>
+        </div>
+      ))
+    }
+  </div>
+  <div class="shell ft" style="border-top:1px solid var(--line);margin-top:28px;">
+    <span>© 2026 DeTars · {tagline}</span>
+  </div>
+</footer>

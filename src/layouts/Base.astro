@@ -1,0 +1,135 @@
+---
+import SiteFooter from "@/components/SiteFooter.astro";
+import SiteHeader from "@/components/SiteHeader.astro";
+import {
+  hreflangMap,
+  localeHtmlLang,
+  locales,
+  ogLocaleMap,
+  siteName,
+  toAbsoluteUrl,
+  withLocale,
+  type Locale
+} from "@/lib/site";
+import "@/styles/global.css";
+
+type Props = {
+  locale: Locale;
+  route: string;
+  title: string;
+  description: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  jsonLd?: Record<string, unknown>[];
+};
+
+const { locale, route, title, description, ogTitle, ogDescription, jsonLd = [] } = Astro.props;
+
+const canonicalUrl = toAbsoluteUrl(withLocale(locale, route));
+const alternates = locales.map((entry) => ({
+  hrefLang: hreflangMap[entry],
+  href: toAbsoluteUrl(withLocale(entry, route))
+}));
+
+const baseLd = [
+  { "@context": "https://schema.org", "@type": "Organization", name: siteName, url: toAbsoluteUrl("/"), description },
+  { "@context": "https://schema.org", "@type": "WebSite", name: siteName, url: toAbsoluteUrl("/") },
+  ...jsonLd
+];
+---
+
+<!doctype html>
+<html lang={localeHtmlLang[locale]} class="motion">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="generator" content={siteName} />
+    <meta name="theme-color" content="#070504" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="canonical" href={canonicalUrl} />
+    {alternates.map((a) => <link rel="alternate" hreflang={a.hrefLang} href={a.href} />)}
+    <link rel="alternate" hreflang="x-default" href={toAbsoluteUrl(withLocale("en", route))} />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Noto+Sans+SC:wght@300;400;500;700;900&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={ogTitle ?? title} />
+    <meta property="og:description" content={ogDescription ?? description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content={ogLocaleMap[locale]} />
+    {locales.filter((e) => e !== locale).map((e) => <meta property="og:locale:alternate" content={ogLocaleMap[e]} />)}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={ogTitle ?? title} />
+    <meta name="twitter:description" content={ogDescription ?? description} />
+
+    <script is:inline>
+      try {
+        if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+          document.documentElement.classList.remove("motion");
+        }
+      } catch {}
+    </script>
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(baseLd)} />
+  </head>
+  <body data-locale={locale} data-route={route}>
+    <div class="progress" id="scroll-progress"></div>
+    <div class="glow" id="ambient-glow"></div>
+    <div class="gridbg"></div>
+    <SiteHeader locale={locale} route={route} />
+    <main>
+      <slot />
+    </main>
+    <SiteFooter locale={locale} />
+
+    <script is:inline>
+      (() => {
+        const prog = document.getElementById("scroll-progress");
+        const glow = document.getElementById("ambient-glow");
+        const root = document.documentElement;
+        const motion = root.classList.contains("motion");
+
+        if (prog) {
+          const onScroll = () => {
+            const max = root.scrollHeight - root.clientHeight || 1;
+            prog.style.width = (root.scrollTop / max) * 100 + "%";
+          };
+          addEventListener("scroll", onScroll, { passive: true });
+          onScroll();
+        }
+
+        if (motion && glow) {
+          addEventListener("mousemove", (e) => {
+            const x = e.clientX / innerWidth - 0.5;
+            const y = e.clientY / innerHeight - 0.5;
+            glow.style.transform = `translate(${x * 22}px, ${y * 22}px)`;
+          });
+        }
+
+        const items = document.querySelectorAll(".reveal");
+        if (!motion || !("IntersectionObserver" in window)) {
+          items.forEach((el) => el.classList.add("in"));
+        } else {
+          const io = new IntersectionObserver(
+            (es) =>
+              es.forEach((e) => {
+                if (e.isIntersecting) {
+                  e.target.classList.add("in");
+                  io.unobserve(e.target);
+                }
+              }),
+            { threshold: 0.16, rootMargin: "0px 0px -8% 0px" }
+          );
+          items.forEach((el) => io.observe(el));
+        }
+      })();
+    </script>
+  </body>
+</html>

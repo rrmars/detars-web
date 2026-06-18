@@ -1,0 +1,50 @@
+---
+import { ctaLabel, navItems } from "@/lib/nav";
+import { localeToggleLabel, locales, withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale; route: string };
+const { locale, route } = Astro.props;
+---
+
+<header class="site-header" id="site-header">
+  <div class="shell hd">
+    <a class="brand" href={withLocale(locale, "/")} aria-label="DeTars home">
+      <span class="mark"><span></span></span> De<span class="dot">Tars</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      {
+        navItems.map((item) => (
+          <a href={withLocale(locale, item.route)} aria-current={route === item.route ? "page" : undefined}>
+            {item.label[locale]}
+          </a>
+        ))
+      }
+    </nav>
+    <div class="hd-right">
+      <div class="lang" role="group" aria-label="Language">
+        {
+          locales.map((entry) => (
+            <a
+              href={withLocale(entry, route)}
+              class={entry === locale ? "on" : ""}
+              hreflang={entry === "zh" ? "zh-Hans" : "en"}
+              aria-current={entry === locale ? "true" : undefined}
+            >
+              {localeToggleLabel[entry]}
+            </a>
+          ))
+        }
+      </div>
+      <a class="cta" href={withLocale(locale, "/download")}>{ctaLabel[locale]}</a>
+    </div>
+  </div>
+</header>
+<script is:inline>
+  (() => {
+    const h = document.getElementById("site-header");
+    if (!h) return;
+    const onScroll = () => h.classList.toggle("scrolled", window.scrollY > 20);
+    addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+  })();
+</script>

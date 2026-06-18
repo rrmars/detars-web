@@ -1,0 +1,24 @@
+---
+import Base from "@/layouts/Base.astro";
+import { withLocale } from "@/lib/site";
+---
+
+<Base
+  locale="en"
+  route="/404"
+  title="Not found | DeTars"
+  description="That page doesn't exist. Head back to DeTars."
+>
+  <section class="band shell" style="text-align:center;padding:140px 0;">
+    <p class="eyebrow" style="justify-content:center;"><span class="p"></span>404</p>
+    <h1 style="font-weight:900;font-size:clamp(40px,6vw,80px);letter-spacing:-0.03em;margin-top:22px;">
+      Nothing here<span class="o">.</span>
+    </h1>
+    <p style="margin:22px auto 0;max-width:34ch;color:var(--muted);font-size:18px;line-height:1.7;">
+      The page you were looking for moved or never existed.
+    </p>
+    <div class="actions" style="justify-content:center;margin-top:36px;">
+      <a class="btn-primary" href={withLocale("en", "/")}>Back home →</a>
+    </div>
+  </section>
+</Base>

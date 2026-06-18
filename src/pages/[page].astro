@@ -1,0 +1,18 @@
+---
+import PageView from "@/components/Page.astro";
+import Base from "@/layouts/Base.astro";
+import { faqJsonLd, getPage, pageRoutes, type PageKey } from "@/lib/pages";
+
+export function getStaticPaths() {
+  return pageRoutes.map((page) => ({ params: { page } }));
+}
+
+const locale = "en" as const;
+const key = Astro.params.page as PageKey;
+const content = getPage(locale, key);
+const ld = faqJsonLd(content);
+---
+
+<Base locale={locale} route={`/${key}`} title={content.title} description={content.description} jsonLd={ld ? [ld] : []}>
+  <PageView locale={locale} content={content} />
+</Base>
