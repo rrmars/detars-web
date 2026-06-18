@@ -79,6 +79,20 @@ export const pagesEn: Record<PageKey, PageContent> = {
         ]
       },
       {
+        h2: "And it <span class='o'>evolves itself</span>",
+        intro: "Reliability isn't tuned once — it compounds. Three flywheels make every version harder to beat.",
+        blocks: [
+          {
+            type: "list",
+            items: [
+              "<b>Self-hardening.</b> It hunts its own mistakes and turns each into permanent regression coverage — so every version is harder to break than the last. Reliability you can't buy, only accrue.",
+              "<b>Self-optimizing memory.</b> It continually reorganizes and prunes its own memory system so recall stays sharp as it grows — while what it remembers <i>about you</i> still needs your nod.",
+              "<b>Self-extending.</b> When a task needs a capability it doesn't have, it generates, installs, and manages its own tools and skills — growing new abilities autonomously, without waiting on a release."
+            ]
+          }
+        ]
+      },
+      {
         h2: "Underneath: the engineering that holds it up",
         intro: "You don't need the details — but each one is verifiable, even if the implementation is core IP we don't publish.",
         blocks: [
@@ -87,6 +101,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
             items: [
               "Database-grade write discipline so a team of agents never overwrites each other's work.",
               "Content-fingerprinted evidence: an unread or altered source can't be cited.",
+              "Caching-aware routing keeps the model's KV / prompt cache hot — repeated context isn't billed twice, so long tasks cost far fewer tokens, and the bill drops as model prices do.",
               "Million-word material pre-digested into an index before the model reads a word.",
               "A conserved budget ledger, so it can't grant itself infinite scope or spend.",
               "A read-only second mind that reviews the run mid-flight and feeds corrections back.",
@@ -144,7 +159,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>It learns you (eat-memory).</b> Every finished task settles into memory you reviewed, stored as files on your disk, reused across packs. Switching platforms means losing your accumulation. <i>(Honest: the core loop is live; auto-authoring new skills is proposed, not self-installed.)</i>",
+              "<b>It learns you (eat-memory).</b> Every finished task settles into memory you reviewed, stored as files on your disk, reused across packs. It even generates, installs, and manages its own skills as needs arise — so the platform keeps extending itself. Switching platforms means losing all of that accumulation.",
               "<b>Local voice (it's yours).</b> Listen, think, speak, remember — on-device, offline, private, un-revocable. <i>(Honest: the full local loop runs in v1; always-on ambient companionship is roadmap.)</i>"
             ]
           }
@@ -264,7 +279,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>Economics flipped.</b> Token prices fall, but agent loops multiply usage — whoever gets consumer-agent unit economics right takes the category. Big platforms structurally can't follow without eating their own margins.",
+              "<b>Economics flipped.</b> Token prices fall, but agent loops multiply usage — whoever gets consumer-agent unit economics right takes the category. DeTars keeps the bill down with caching-aware routing (a high KV/prompt-cache hit rate, so repeated context isn't paid for twice). Big platforms structurally can't follow without eating their own margins.",
               "<b>Sovereignty went mainstream.</b> Revoked products and tightening regulation turned 'your AI can't be bricked' from a geek feature into a mass concern.",
               "<b>Models became commodities.</b> With interop protocols settling, the open question is who owns the user-side terminal. That seat is still empty."
             ]
