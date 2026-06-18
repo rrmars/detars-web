@@ -1,0 +1,88 @@
+---
+import { formatDate, type Report } from "@/lib/research";
+import type { Locale } from "@/lib/site";
+import { render } from "astro:content";
+
+type Props = { locale: Locale; entry: Report };
+const { locale, entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const t = {
+  kicker: locale === "zh" ? "研究" : "Research",
+  tldr: locale === "zh" ? "摘要" : "TL;DR",
+  sealed: locale === "zh" ? "证据封印 · 独立复审" : "Evidence-sealed · peer-reviewed",
+  sources: locale === "zh" ? "来源" : "Sources",
+  questions: locale === "zh" ? "常见问题" : "Questions",
+  by: locale === "zh" ? "由 DeTars 内容调研 pack 生成,并经其证据封印与独立复审。" : "Produced by the DeTars research pack, evidence-sealed and peer-reviewed."
+};
+---
+
+<article class="report shell">
+  <div class="report-head">
+    <span class="kicker">{t.kicker}</span>
+    <h1>{d.title}</h1>
+    <p class="meta">
+      <span>{d.author}</span>
+      <span>·</span>
+      <span>{formatDate(d.publishedAt, locale)}</span>
+      {d.reviewed && (<><span>·</span><span class="sealed">{t.sealed}</span></>)}
+    </p>
+    {d.tldr && (
+      <div class="answer-card">
+        <span class="lab">{t.tldr}</span>
+        <p>{d.tldr}</p>
+      </div>
+    )}
+  </div>
+
+  <div class="prose report-body">
+    <Content />
+  </div>
+
+  {d.sources.length > 0 && (
+    <div class="report-sources">
+      <h2>{t.sources}</h2>
+      <ul>
+        {d.sources.map((s) => (
+          <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.title}</a>{s.hash && <code>sha256: {s.hash}</code>}</li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {d.faq.length > 0 && (
+    <div class="report-faq">
+      <h2>{t.questions}</h2>
+      {d.faq.map((f) => (
+        <details><summary>{f.q}</summary><p>{f.a}</p></details>
+      ))}
+    </div>
+  )}
+
+  <p class="report-foot">{t.by}</p>
+</article>
+
+<style>
+  .report { max-width: 760px; }
+  .report-head { padding: 84px 0 10px; }
+  .report-head h1 { font-weight: 900; font-size: clamp(32px, 4.4vw, 56px); line-height: 1.08; letter-spacing: -0.03em; margin-top: 20px; }
+  .report-head .meta { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; font-size: 13.5px; color: var(--faint); font-family: var(--sg); }
+  .report-head .meta .sealed { color: var(--accent2); }
+  .report-body { margin-top: 40px; }
+  .report-body :global(h2) { font-weight: 700; font-size: clamp(22px, 2.6vw, 30px); letter-spacing: -0.02em; margin: 44px 0 0; }
+  .report-body :global(h3) { font-weight: 600; font-size: 19px; margin: 30px 0 0; }
+  .report-body :global(p) { margin: 16px 0 0; font-size: 17px; line-height: 1.78; color: var(--muted); }
+  .report-body :global(p b), .report-body :global(li b) { color: var(--text); font-weight: 500; }
+  .report-body :global(ul) { margin: 16px 0 0; padding-left: 22px; }
+  .report-body :global(li) { font-size: 16.5px; line-height: 1.7; color: var(--muted); margin-top: 8px; }
+  .report-sources, .report-faq { margin-top: 48px; border-top: 1px solid var(--line); padding-top: 24px; }
+  .report-sources h2, .report-faq h2 { font-family: var(--sg); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--faint); }
+  .report-sources ul { margin-top: 14px; padding-left: 0; list-style: none; }
+  .report-sources li { margin-top: 10px; font-size: 15px; }
+  .report-sources a { color: var(--accent2); }
+  .report-sources code { display: block; font-family: var(--mono); font-size: 12px; color: var(--faint); margin-top: 2px; }
+  .report-faq details { border-bottom: 1px solid var(--line); padding: 4px 0; }
+  .report-faq summary { cursor: pointer; padding: 14px 0; font-size: 16.5px; font-weight: 500; color: var(--text); }
+  .report-faq p { padding: 0 0 16px; font-size: 15.5px; line-height: 1.7; color: var(--muted); }
+  .report-foot { margin-top: 40px; font-size: 13px; color: var(--faint); font-style: italic; }
+</style>

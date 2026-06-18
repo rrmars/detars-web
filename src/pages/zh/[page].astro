@@ -4,7 +4,7 @@ import Base from "@/layouts/Base.astro";
 import { faqJsonLd, getPage, pageRoutes, type PageKey } from "@/lib/pages";
 
 export function getStaticPaths() {
-  return pageRoutes.map((page) => ({ params: { page } }));
+  return pageRoutes.filter((page) => page !== "research").map((page) => ({ params: { page } }));
 }
 
 const locale = "zh" as const;

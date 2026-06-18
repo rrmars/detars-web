@@ -1,0 +1,61 @@
+---
+import { getPage } from "@/lib/pages";
+import { formatDate, getReports, reportSlug } from "@/lib/research";
+import { withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale };
+const { locale } = Astro.props;
+const content = getPage(locale, "research");
+const reports = await getReports(locale);
+const answerLabel = locale === "zh" ? "一句话" : "In short";
+const listLabel = locale === "zh" ? "报告" : "Reports";
+---
+
+<section class="page-head shell">
+  <div class="reveal">
+    <span class="kicker">{content.kicker}</span>
+    <h1 set:html={content.h1} />
+    <div class="answer-card">
+      <span class="lab">{answerLabel}</span>
+      <p set:html={content.answer} />
+    </div>
+  </div>
+</section>
+
+<section class="band shell" style="padding-top:40px;">
+  {reports.length > 0 && (
+    <div class="reveal" style="margin-bottom:40px;">
+      <h2 class="ri-h2">{listLabel}</h2>
+      <div class="ri-list">
+        {reports.map((entry) => (
+          <a class="ri-item" href={withLocale(locale, `/research/${reportSlug(entry)}`)}>
+            <span class="ri-date">{formatDate(entry.data.publishedAt, locale)}</span>
+            <h3>{entry.data.title}</h3>
+            <p>{entry.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+
+  {content.sections.map((s) => (
+    <div class="sec reveal">
+      <h2 set:html={s.h2} />
+      {s.blocks.map((b) => (b.type === "p" ? <p class="sec-p" set:html={b.html} /> : null))}
+    </div>
+  ))}
+</section>
+
+<style>
+  .ri-h2 { font-family: var(--sg); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--faint); }
+  .ri-list { margin-top: 18px; display: flex; flex-direction: column; gap: 14px; max-width: 760px; }
+  .ri-item { display: block; border: 1px solid var(--line); border-radius: 16px; background: rgba(255, 255, 255, 0.025); padding: 22px 24px; transition: border-color 0.2s, transform 0.2s; }
+  .ri-item:hover { border-color: var(--line2); transform: translateY(-2px); }
+  .ri-date { font-family: var(--sg); font-size: 12.5px; color: var(--accent2); }
+  .ri-item h3 { margin-top: 8px; font-size: 20px; font-weight: 600; letter-spacing: -0.01em; }
+  .ri-item p { margin-top: 8px; font-size: 15px; line-height: 1.6; color: var(--muted); }
+  .sec { max-width: 760px; margin-top: 44px; }
+  .sec h2 { font-weight: 700; font-size: clamp(22px, 2.6vw, 32px); letter-spacing: -0.02em; }
+  .sec-p { margin-top: 16px; font-size: 16.5px; line-height: 1.75; color: var(--muted); max-width: 62ch; }
+  .sec-p :global(b) { color: var(--text); font-weight: 500; }
+</style>

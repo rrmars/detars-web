@@ -1,0 +1,38 @@
+---
+import Report from "@/components/Report.astro";
+import Base from "@/layouts/Base.astro";
+import { getReports, reportSlug } from "@/lib/research";
+
+export async function getStaticPaths() {
+  const reports = await getReports("zh");
+  return reports.map((entry) => ({ params: { slug: reportSlug(entry) }, props: { entry } }));
+}
+
+const locale = "zh" as const;
+const { entry } = Astro.props;
+const d = entry.data;
+const route = `/research/${reportSlug(entry)}`;
+
+const jsonLd: Record<string, unknown>[] = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: d.title,
+    description: d.description,
+    datePublished: d.publishedAt.toISOString(),
+    dateModified: (d.updatedAt ?? d.publishedAt).toISOString(),
+    author: { "@type": "Organization", name: d.author }
+  }
+];
+if (d.faq.length > 0) {
+  jsonLd.push({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: d.faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } }))
+  });
+}
+---
+
+<Base locale={locale} route={route} title={`${d.title} | DeTars`} description={d.description} jsonLd={jsonLd}>
+  <Report locale={locale} entry={entry} />
+</Base>
