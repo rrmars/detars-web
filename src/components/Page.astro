@@ -41,13 +41,21 @@ const answerLabel = locale === "zh" ? "一句话" : "In short";
         if (b.type === "tiles")
           return (
             <div class="tiles">
-              {b.items.map((tl) => (
-                <div class="tile">
-                  <h3 set:html={tl.title} />
-                  <p set:html={tl.sub} />
-                  {tl.note && <span class="note" set:html={tl.note} />}
-                </div>
-              ))}
+              {b.items.map((tl) =>
+                tl.href ? (
+                  <a class="tile tile--link" href={tl.href}>
+                    <h3 set:html={tl.title} />
+                    <p set:html={tl.sub} />
+                    <span class="note note--dl">↓ {tl.note}</span>
+                  </a>
+                ) : (
+                  <div class="tile">
+                    <h3 set:html={tl.title} />
+                    <p set:html={tl.sub} />
+                    {tl.note && <span class="note" set:html={tl.note} />}
+                  </div>
+                )
+              )}
             </div>
           );
         if (b.type === "faq")
@@ -96,6 +104,9 @@ const answerLabel = locale === "zh" ? "一句话" : "In short";
   .tile h3 { font-family: var(--sg); font-size: 22px; font-weight: 700; }
   .tile p { margin-top: 8px; font-size: 14.5px; color: var(--muted); line-height: 1.6; }
   .tile .note { display: inline-block; margin-top: 14px; font-size: 12.5px; color: var(--accent2); font-family: var(--mono); }
+  .tile--link { display: block; transition: border-color 0.2s, transform 0.2s; }
+  .tile--link:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .tile--link .note--dl { color: var(--accent); font-weight: 500; }
 
   .faq { margin-top: 18px; max-width: 760px; border-top: 1px solid var(--line); }
   .faq details { border-bottom: 1px solid var(--line); padding: 6px 0; }

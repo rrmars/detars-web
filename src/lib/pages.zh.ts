@@ -1,3 +1,4 @@
+import { RELEASED, assets, dl } from "@/lib/download";
 import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesZh: Record<PageKey, PageContent> = {
@@ -195,8 +196,9 @@ export const pagesZh: Record<PageKey, PageContent> = {
           {
             type: "tiles",
             items: [
-              { title: "macOS", sub: "Apple 芯片与 Intel。", note: "即将开放" },
-              { title: "Windows", sub: "引导式安装。", note: "即将开放" }
+              { title: "macOS", sub: "Apple 芯片(M 系列)。", note: RELEASED ? "下载 .dmg" : "即将开放", href: RELEASED ? dl(assets.macArm) : undefined },
+              { title: "macOS", sub: "Intel。", note: RELEASED ? "下载 .dmg" : "即将开放", href: RELEASED ? dl(assets.macIntel) : undefined },
+              { title: "Windows", sub: "Windows 10/11(x64)。", note: RELEASED ? "下载 .exe" : "即将开放", href: RELEASED ? dl(assets.win) : undefined }
             ]
           }
         ]

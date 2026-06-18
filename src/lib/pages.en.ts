@@ -1,3 +1,4 @@
+import { RELEASED, assets, dl } from "@/lib/download";
 import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesEn: Record<PageKey, PageContent> = {
@@ -200,8 +201,9 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "tiles",
             items: [
-              { title: "macOS", sub: "Apple silicon & Intel.", note: "coming soon" },
-              { title: "Windows", sub: "Guided setup.", note: "coming soon" }
+              { title: "macOS", sub: "Apple silicon (M-series).", note: RELEASED ? "Download .dmg" : "coming soon", href: RELEASED ? dl(assets.macArm) : undefined },
+              { title: "macOS", sub: "Intel.", note: RELEASED ? "Download .dmg" : "coming soon", href: RELEASED ? dl(assets.macIntel) : undefined },
+              { title: "Windows", sub: "Windows 10/11 (x64).", note: RELEASED ? "Download .exe" : "coming soon", href: RELEASED ? dl(assets.win) : undefined }
             ]
           }
         ]

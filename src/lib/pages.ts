@@ -6,7 +6,7 @@ export type Block =
   | { type: "p"; html: string }
   | { type: "list"; items: string[] }
   | { type: "cards"; items: { title: string; body: string; tag?: string }[] }
-  | { type: "tiles"; items: { title: string; sub: string; note?: string }[] }
+  | { type: "tiles"; items: { title: string; sub: string; note?: string; href?: string }[] }
   | { type: "faq"; items: { q: string; a: string }[] };
 
 export type Section = { h2: string; intro?: string; blocks: Block[] };
