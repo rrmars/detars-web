@@ -107,16 +107,6 @@ export const pagesZh: Record<PageKey, PageContent> = {
             ]
           }
         ]
-      },
-      {
-        h2: "关于 OpenClaw / Hermes 的诚实话",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "他们最强的「单个聪明 agent」,只是 DeTars 最内层的一环。外面这几层——会带队、能恢复、不能假装、可溯源、自纠错——他们架构里没有位置。论单个 agent 的编程手感,Hermes 仍成熟,其最佳实践 DeTars 已吸收。我们赢在<b>「靠得住」的架构上限</b>。"
-          }
-        ]
       }
     ],
     cta: { label: "看证据 →", route: "/proof" }

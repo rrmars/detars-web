@@ -49,7 +49,7 @@ const en: HomeCopy = {
   ],
   verify: "· Every number here is countable in the codebase — not slide-deck rhetoric",
   hookKicker: "Why now",
-  hookH2: "Today's AI is a brilliant but <span class='o'>unreliable</span> intern.",
+  hookH2: "Today's model is a brilliant but <span class='o'>unreliable</span> intern.",
   hookP:
     "Dazzling in flashes — but it forgets, fakes completion, and crashes halfway. Nobody hands real work to something unreliable. <b>DeTars turns it into a team you trust with the real thing.</b>",
   liveKicker: "Living with it",
@@ -129,6 +129,37 @@ const en: HomeCopy = {
         "<span class='ok'>✓ works offline · nothing uploaded</span>"
       ],
       foot: "<b>Real:</b> memory and identity are files on your disk — sovereignty baked into the architecture."
+    },
+    {
+      idx: "05",
+      h3: "It evolves itself",
+      story:
+        "It hunts its own bugs into permanent regression coverage, reorganizes its own memory, and — when a task needs a capability it lacks — generates, installs, and manages its own tools and skills. <b>Every version is harder to beat than the last.</b>",
+      head: "evolution.log",
+      lab: "auto",
+      body: [
+        "<span class='hl'>regression</span> +1 case sealed",
+        "<span class='ok'>↳</span> memory reindexed",
+        "<span class='hl'>skill</span> needed: pdf-extract",
+        "<span class='ok'>↳ generated · installed · ✓</span>",
+        "<span class='dim'>every version harder to break</span>"
+      ],
+      foot: "<b>Real:</b> reliability that compounds — and new abilities it grows on its own."
+    },
+    {
+      idx: "06",
+      h3: "It doesn't burn your budget",
+      story:
+        "Long unattended tasks usually mean huge bills. DeTars routes to keep the model's KV / prompt cache hot, so repeated context isn't paid for twice — <b>far fewer tokens per task, and cheaper as model prices fall.</b> Let it run all night without watching the meter.",
+      head: "routing.cache",
+      lab: "live",
+      body: [
+        "<span class='dim'>context</span> 184k tokens",
+        "<span class='ok'>↳ prompt cache · hit</span>",
+        "billed → new tokens only",
+        "<span class='dim'>repeat context: not re-billed</span>"
+      ],
+      foot: "<b>Real:</b> caching-aware routing — fewer tokens billed, no runaway bills."
     }
   ],
   bombCap: "lines of working code · written by its own engine",
@@ -158,7 +189,7 @@ const zh: HomeCopy = {
   ],
   verify: "· 这些数字都能当场在代码库里数出来,不是 PPT 上的修辞",
   hookKicker: "为什么是现在",
-  hookH2: "今天的 AI,像个聪明但<span class='o'>靠不住</span>的实习生。",
+  hookH2: "今天的模型,像个聪明但<span class='o'>靠不住</span>的实习生。",
   hookP:
     "灵光一闪很惊艳,但它会忘事、会假装做完、会半路崩掉。没人敢把真活交给靠不住的东西。<b>DeTars 把它变成一支你敢把真活交出去的团队。</b>",
   liveKicker: "怎么和它一起生活",
@@ -238,6 +269,37 @@ const zh: HomeCopy = {
         "<span class='ok'>✓ 离线可用 · 一字不上传</span>"
       ],
       foot: "<b>底气:</b>记忆与身份是你磁盘上的文件,主权写死在架构里。"
+    },
+    {
+      idx: "05",
+      h3: "它会自我进化",
+      story:
+        "它把自己的 bug 抓成永久回归覆盖,自我重组记忆;当任务需要它没有的能力时,自动生成、安装、管理自己的 Tool 和 Skill。<b>每个版本都比上一版更难被打败。</b>",
+      head: "evolution.log",
+      lab: "自动",
+      body: [
+        "<span class='hl'>回归</span> 新增 1 例,已封印",
+        "<span class='ok'>↳</span> 记忆已重建索引",
+        "<span class='hl'>技能</span> 需要:pdf-extract",
+        "<span class='ok'>↳ 已生成 · 已安装 · ✓</span>",
+        "<span class='dim'>每个版本更难被难倒</span>"
+      ],
+      foot: "<b>底气:</b>可靠性会复利,能力它自己长。"
+    },
+    {
+      idx: "06",
+      h3: "它不烧你的钱",
+      story:
+        "长时间无人值守的任务,通常意味着天价账单。DeTars 通过路由让模型的 KV / 提示缓存保持高命中,重复上下文不重复计费——<b>每个任务少烧很多 token,模型越降价越便宜。</b>挂着跑一整夜,也不用盯着账单。",
+      head: "routing.cache",
+      lab: "实时",
+      body: [
+        "<span class='dim'>上下文</span> 18.4 万 tokens",
+        "<span class='ok'>↳ 提示缓存 · 命中</span>",
+        "计费 → 仅新增 token",
+        "<span class='dim'>重复上下文:不重复计费</span>"
+      ],
+      foot: "<b>底气:</b>缓存感知路由——少计费,不会失控烧钱。"
     }
   ],
   bombCap: "行能跑的代码 · 出自它自己的引擎",

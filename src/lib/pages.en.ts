@@ -110,16 +110,6 @@ export const pagesEn: Record<PageKey, PageContent> = {
             ]
           }
         ]
-      },
-      {
-        h2: "The honest line on OpenClaw / Hermes",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "Their strongest single smart agent is only DeTars's innermost layer. The layers around it — running a team, recovering, not faking, staying auditable, self-correcting — have no place in their architecture. On raw single-agent coding feel, Hermes is mature, and its best practices are already absorbed here. We win on the <b>reliability ceiling</b>."
-          }
-        ]
       }
     ],
     cta: { label: "See the proof →", route: "/proof" }
