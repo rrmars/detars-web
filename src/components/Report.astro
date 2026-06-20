@@ -7,13 +7,21 @@ type Props = { locale: Locale; entry: Report };
 const { locale, entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
+const packMade = d.generatedBy === "pack:research";
+const sealed = !!d.reviewed?.sealedCitations;
 const t = {
   kicker: locale === "zh" ? "研究" : "Research",
   tldr: locale === "zh" ? "摘要" : "TL;DR",
   sealed: locale === "zh" ? "证据封印 · 独立复审" : "Evidence-sealed · peer-reviewed",
   sources: locale === "zh" ? "来源" : "Sources",
   questions: locale === "zh" ? "常见问题" : "Questions",
-  by: locale === "zh" ? "由 DeTars 内容调研 pack 生成,并经其证据封印与独立复审。" : "Produced by the DeTars research pack, evidence-sealed and peer-reviewed."
+  by: packMade
+    ? locale === "zh"
+      ? "由 DeTars 内容调研 pack 生成,并经其证据封印与独立复审。"
+      : "Produced by the DeTars research pack, evidence-sealed and peer-reviewed."
+    : locale === "zh"
+      ? "由 DeTars 团队撰写并核实;来源见下。"
+      : "Written and fact-checked by the DeTars team. Sources below."
 };
 ---
 
@@ -25,7 +33,7 @@ const t = {
       <span>{d.author}</span>
       <span>·</span>
       <span>{formatDate(d.publishedAt, locale)}</span>
-      {d.reviewed && (<><span>·</span><span class="sealed">{t.sealed}</span></>)}
+      {sealed && (<><span>·</span><span class="sealed">{t.sealed}</span></>)}
     </p>
     {d.tldr && (
       <div class="answer-card">
