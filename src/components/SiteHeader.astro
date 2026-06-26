@@ -1,6 +1,6 @@
 ---
 import { ctaLabel, navItems } from "@/lib/nav";
-import { localeToggleLabel, locales, withLocale, type Locale } from "@/lib/site";
+import { hreflangMap, localeLabels, locales, withLocale, type Locale } from "@/lib/site";
 
 type Props = { locale: Locale; route: string };
 const { locale, route } = Astro.props;
@@ -21,20 +21,27 @@ const { locale, route } = Astro.props;
       }
     </nav>
     <div class="hd-right">
-      <div class="lang" role="group" aria-label="Language">
-        {
-          locales.map((entry) => (
-            <a
-              href={withLocale(entry, route)}
-              class={entry === locale ? "on" : ""}
-              hreflang={entry === "zh" ? "zh-Hans" : "en"}
-              aria-current={entry === locale ? "true" : undefined}
-            >
-              {localeToggleLabel[entry]}
-            </a>
-          ))
-        }
-      </div>
+      <details class="lang-menu">
+        <summary aria-label="Language" title="Language">
+          <span class="globe" aria-hidden="true">◍</span>
+          <span>{localeLabels[locale]}</span>
+          <span class="chev" aria-hidden="true">▾</span>
+        </summary>
+        <div class="lang-pop">
+          {
+            locales.map((entry) => (
+              <a
+                href={withLocale(entry, route)}
+                class={entry === locale ? "on" : ""}
+                hreflang={hreflangMap[entry]}
+                aria-current={entry === locale ? "true" : undefined}
+              >
+                {localeLabels[entry]}
+              </a>
+            ))
+          }
+        </div>
+      </details>
       <a class="cta" href={withLocale(locale, "/download")}>{ctaLabel[locale]}</a>
     </div>
   </div>
@@ -46,5 +53,22 @@ const { locale, route } = Astro.props;
     const onScroll = () => h.classList.toggle("scrolled", window.scrollY > 20);
     addEventListener("scroll", onScroll, { passive: true });
     onScroll();
+    document.addEventListener("click", (e) => {
+      document.querySelectorAll("details.lang-menu[open]").forEach((d) => {
+        if (!d.contains(e.target)) d.removeAttribute("open");
+      });
+    });
   })();
 </script>
+<style>
+  .lang-menu { position: relative; }
+  .lang-menu > summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 7px; font-family: var(--sg); font-size: 13px; color: var(--muted); border: 1px solid var(--line); border-radius: 9px; padding: 7px 11px; transition: border-color 0.2s, color 0.2s; white-space: nowrap; }
+  .lang-menu > summary::-webkit-details-marker { display: none; }
+  .lang-menu[open] > summary, .lang-menu > summary:hover { color: var(--text); border-color: var(--line2); }
+  .lang-menu .globe { color: var(--accent2); }
+  .lang-menu .chev { font-size: 9px; opacity: 0.7; }
+  .lang-pop { position: absolute; right: 0; top: calc(100% + 8px); min-width: 168px; background: rgba(14, 11, 9, 0.97); backdrop-filter: blur(14px); border: 1px solid var(--line2); border-radius: 12px; padding: 6px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5); z-index: 50; }
+  .lang-pop a { font-size: 14px; color: var(--muted); padding: 9px 12px; border-radius: 8px; transition: background 0.15s, color 0.15s; }
+  .lang-pop a:hover { background: rgba(255, 255, 255, 0.05); color: var(--text); }
+  .lang-pop a.on { color: var(--accent2); background: rgba(255, 106, 61, 0.1); }
+</style>

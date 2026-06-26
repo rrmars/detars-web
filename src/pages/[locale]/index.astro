@@ -1,0 +1,27 @@
+---
+import Home from "@/components/Home.astro";
+import Base from "@/layouts/Base.astro";
+import { homeCopy } from "@/lib/home-copy";
+import { localeSegment, nonDefaultLocales, type Locale } from "@/lib/site";
+
+export function getStaticPaths() {
+  return nonDefaultLocales.map((loc) => ({ params: { locale: localeSegment[loc] }, props: { loc } }));
+}
+
+const { loc } = Astro.props as { loc: Locale };
+const t = homeCopy[loc];
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "DeTars",
+    applicationCategory: "BusinessApplication",
+    operatingSystem: "macOS, Windows",
+    description: t.metaDescription
+  }
+];
+---
+
+<Base locale={loc} route="/" title={t.metaTitle} description={t.metaDescription} ogTitle="DeTars" jsonLd={jsonLd}>
+  <Home locale={loc} />
+</Base>

@@ -1,10 +1,11 @@
 ---
 import { footerGroups } from "@/lib/nav";
 import { withLocale, type Locale } from "@/lib/site";
+import { t } from "@/lib/ui-labels";
 
 type Props = { locale: Locale };
 const { locale } = Astro.props;
-const tagline = locale === "zh" ? "你拥有的,不是租的" : "Yours, not rented";
+const tagline = t("footerTagline", locale);
 ---
 
 <footer class="site-footer">
@@ -12,7 +13,7 @@ const tagline = locale === "zh" ? "你拥有的,不是租的" : "Yours, not rent
     <div>
       <a class="brand" href={withLocale(locale, "/")}><span class="mark"><span></span></span> De<span class="dot">Tars</span></a>
       <p style="margin-top:14px;font-size:13.5px;color:var(--muted);max-width:26ch;line-height:1.6;">
-        {locale === "zh" ? "永久的第三方终端伙伴。" : "Your permanent third-party terminal."}
+        {t("footerSub", locale)}
       </p>
     </div>
     {

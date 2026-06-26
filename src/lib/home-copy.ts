@@ -1,3 +1,7 @@
+import { homeEs } from "@/lib/home/es";
+import { homeFr } from "@/lib/home/fr";
+import { homeJa } from "@/lib/home/ja";
+import { homeZhHant } from "@/lib/home/zh-hant";
 import type { Locale } from "@/lib/site";
 
 export type Scenario = { av: string; pack: string; via: string; meta: string; input: string; work: string; result: string };
@@ -312,4 +316,4 @@ const zh: HomeCopy = {
   closeSecondary: "读它的技术故事"
 };
 
-export const homeCopy: Record<Locale, HomeCopy> = { en, zh };
+export const homeCopy: Record<Locale, HomeCopy> = { en, zh, "zh-Hant": homeZhHant, ja: homeJa, fr: homeFr, es: homeEs };

@@ -1,10 +1,11 @@
 ---
 import type { PageContent } from "@/lib/pages";
 import { withLocale, type Locale } from "@/lib/site";
+import { t } from "@/lib/ui-labels";
 
 type Props = { locale: Locale; content: PageContent };
 const { locale, content } = Astro.props;
-const answerLabel = locale === "zh" ? "一句话" : "In short";
+const answerLabel = t("answerShort", locale);
 ---
 
 <section class="page-head shell">

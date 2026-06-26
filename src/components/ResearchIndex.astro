@@ -2,13 +2,14 @@
 import { getPage } from "@/lib/pages";
 import { formatDate, getReports, reportSlug } from "@/lib/research";
 import { withLocale, type Locale } from "@/lib/site";
+import { t } from "@/lib/ui-labels";
 
 type Props = { locale: Locale };
 const { locale } = Astro.props;
 const content = getPage(locale, "research");
 const reports = await getReports(locale);
-const answerLabel = locale === "zh" ? "一句话" : "In short";
-const listLabel = locale === "zh" ? "报告" : "Reports";
+const answerLabel = t("answerShort", locale);
+const listLabel = t("reports", locale);
 ---
 
 <section class="page-head shell">

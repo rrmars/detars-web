@@ -2,17 +2,22 @@
 import Report from "@/components/Report.astro";
 import Base from "@/layouts/Base.astro";
 import { getReports, reportSlug } from "@/lib/research";
+import { localeSegment, nonDefaultLocales, type Locale } from "@/lib/site";
 
 export async function getStaticPaths() {
-  const reports = await getReports("zh");
-  return reports.map((entry) => ({ params: { slug: reportSlug(entry) }, props: { entry } }));
+  const paths: { params: { locale: string; slug: string }; props: { loc: Locale; entry: Awaited<ReturnType<typeof getReports>>[number] } }[] = [];
+  for (const loc of nonDefaultLocales) {
+    const reports = await getReports(loc);
+    for (const entry of reports) {
+      paths.push({ params: { locale: localeSegment[loc], slug: reportSlug(entry) }, props: { loc, entry } });
+    }
+  }
+  return paths;
 }
 
-const locale = "zh" as const;
-const { entry } = Astro.props;
+const { loc, entry } = Astro.props;
 const d = entry.data;
 const route = `/research/${reportSlug(entry)}`;
-
 const jsonLd: Record<string, unknown>[] = [
   {
     "@context": "https://schema.org",
@@ -33,6 +38,6 @@ if (d.faq.length > 0) {
 }
 ---
 
-<Base locale={locale} route={route} title={`${d.title} | DeTars`} description={d.description} jsonLd={jsonLd}>
-  <Report locale={locale} entry={entry} />
+<Base locale={loc} route={route} title={`${d.title} | DeTars`} description={d.description} jsonLd={jsonLd}>
+  <Report locale={loc} entry={entry} />
 </Base>

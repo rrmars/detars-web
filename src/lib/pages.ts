@@ -1,6 +1,10 @@
 import type { Locale } from "@/lib/site";
 import { pagesEn } from "@/lib/pages.en";
+import { pagesEs } from "@/lib/pages.es";
+import { pagesFr } from "@/lib/pages.fr";
+import { pagesJa } from "@/lib/pages.ja";
 import { pagesZh } from "@/lib/pages.zh";
+import { pagesZhHant } from "@/lib/pages.zh-hant";
 
 export type Block =
   | { type: "p"; html: string }
@@ -35,7 +39,14 @@ export const pageRoutes = [
 
 export type PageKey = (typeof pageRoutes)[number];
 
-const data: Record<Locale, Record<PageKey, PageContent>> = { en: pagesEn, zh: pagesZh };
+const data: Record<Locale, Record<PageKey, PageContent>> = {
+  en: pagesEn,
+  zh: pagesZh,
+  "zh-Hant": pagesZhHant,
+  ja: pagesJa,
+  fr: pagesFr,
+  es: pagesEs
+};
 
 export function getPage(locale: Locale, key: PageKey): PageContent {
   return data[locale][key];

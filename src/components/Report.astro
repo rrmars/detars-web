@@ -1,6 +1,7 @@
 ---
 import { formatDate, type Report } from "@/lib/research";
 import type { Locale } from "@/lib/site";
+import { t as label } from "@/lib/ui-labels";
 import { render } from "astro:content";
 
 type Props = { locale: Locale; entry: Report };
@@ -10,18 +11,12 @@ const d = entry.data;
 const packMade = d.generatedBy === "pack:research";
 const sealed = !!d.reviewed?.sealedCitations;
 const t = {
-  kicker: locale === "zh" ? "研究" : "Research",
-  tldr: locale === "zh" ? "摘要" : "TL;DR",
-  sealed: locale === "zh" ? "证据封印 · 独立复审" : "Evidence-sealed · peer-reviewed",
-  sources: locale === "zh" ? "来源" : "Sources",
-  questions: locale === "zh" ? "常见问题" : "Questions",
-  by: packMade
-    ? locale === "zh"
-      ? "由 DeTars 内容调研 pack 生成,并经其证据封印与独立复审。"
-      : "Produced by the DeTars research pack, evidence-sealed and peer-reviewed."
-    : locale === "zh"
-      ? "由 DeTars 团队撰写并核实;来源见下。"
-      : "Written and fact-checked by the DeTars team. Sources below."
+  kicker: label("researchKicker", locale),
+  tldr: label("tldr", locale),
+  sealed: label("sealed", locale),
+  sources: label("sources", locale),
+  questions: label("questions", locale),
+  by: label(packMade ? "byPack" : "byEditorial", locale)
 };
 ---
 

@@ -1,46 +1,68 @@
-export const locales = ["en", "zh"] as const;
+export const locales = ["en", "zh", "zh-Hant", "ja", "fr", "es"] as const;
 
 export type Locale = (typeof locales)[number];
 
 export const defaultLocale: Locale = "en";
 
-export const localeLabels: Record<Locale, string> = {
-  en: "English",
-  zh: "中文"
+// URL path segment per locale (English lives at the root).
+export const localeSegment: Record<Locale, string> = {
+  en: "",
+  zh: "zh",
+  "zh-Hant": "zh-hant",
+  ja: "ja",
+  fr: "fr",
+  es: "es"
 };
 
-export const localeToggleLabel: Record<Locale, string> = {
-  en: "EN",
-  zh: "中"
+// Full names shown in the language switcher.
+export const localeLabels: Record<Locale, string> = {
+  en: "English",
+  zh: "简体中文",
+  "zh-Hant": "繁體中文",
+  ja: "日本語",
+  fr: "Français",
+  es: "Español"
 };
 
 export const localeHtmlLang: Record<Locale, string> = {
   en: "en",
-  zh: "zh-Hans"
+  zh: "zh-Hans",
+  "zh-Hant": "zh-Hant",
+  ja: "ja",
+  fr: "fr",
+  es: "es"
 };
 
 export const hreflangMap: Record<Locale, string> = {
   en: "en",
-  zh: "zh-Hans"
+  zh: "zh-Hans",
+  "zh-Hant": "zh-Hant",
+  ja: "ja",
+  fr: "fr",
+  es: "es"
 };
 
 export const ogLocaleMap: Record<Locale, string> = {
   en: "en_US",
-  zh: "zh_CN"
+  zh: "zh_CN",
+  "zh-Hant": "zh_TW",
+  ja: "ja_JP",
+  fr: "fr_FR",
+  es: "es_ES"
 };
+
+// Non-English locales, used for [locale] dynamic getStaticPaths.
+export const nonDefaultLocales = locales.filter((l) => l !== "en");
 
 export const siteName = "DeTars";
 
 export function withLocale(locale: Locale, route: string): string {
+  const seg = localeSegment[locale];
   const clean = route === "/" ? "" : route;
-  if (locale === "en") {
+  if (!seg) {
     return clean || "/";
   }
-  return `/zh${clean}`;
-}
-
-export function otherLocale(locale: Locale): Locale {
-  return locale === "en" ? "zh" : "en";
+  return `/${seg}${clean}`;
 }
 
 export function getSiteUrl(): URL {

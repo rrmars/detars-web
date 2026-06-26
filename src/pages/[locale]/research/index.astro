@@ -1,0 +1,17 @@
+---
+import ResearchIndex from "@/components/ResearchIndex.astro";
+import Base from "@/layouts/Base.astro";
+import { getPage } from "@/lib/pages";
+import { localeSegment, nonDefaultLocales, type Locale } from "@/lib/site";
+
+export function getStaticPaths() {
+  return nonDefaultLocales.map((loc) => ({ params: { locale: localeSegment[loc] }, props: { loc } }));
+}
+
+const { loc } = Astro.props as { loc: Locale };
+const c = getPage(loc, "research");
+---
+
+<Base locale={loc} route="/research" title={c.title} description={c.description}>
+  <ResearchIndex locale={loc} />
+</Base>
