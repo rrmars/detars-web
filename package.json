@@ -5,9 +5,10 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "npm run check:model-tiers && astro build",
     "preview": "astro preview",
-    "check": "astro check"
+    "check": "npm run check:model-tiers && astro check",
+    "check:model-tiers": "node scripts/validate-model-tiers.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",
