@@ -1,4 +1,4 @@
-import { RELEASED, assets, dl } from "@/lib/download";
+import { assets, availability, dl } from "@/lib/download";
 import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesFr: Record<PageKey, PageContent> = {
@@ -60,7 +60,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
     kicker: "Pourquoi vous pouvez lui faire confiance",
     h1: "La fiabilité, <span class='o'>inscrite dans l'architecture.</span>",
     answer:
-      "L'IA d'aujourd'hui est un stagiaire brillant mais peu fiable. DeTars la rend digne de confiance grâce à six propriétés structurelles — pas des promesses, mais des mécanismes que vous pouvez vérifier.",
+      "Le modèle d'aujourd'hui est un stagiaire brillant mais peu fiable. DeTars le rend digne de confiance grâce à six propriétés structurelles — pas des promesses, mais des mécanismes que vous pouvez vérifier.",
     sections: [
       {
         h2: "Les six",
@@ -206,9 +206,9 @@ export const pagesFr: Record<PageKey, PageContent> = {
           {
             type: "tiles",
             items: [
-              { title: "macOS", sub: "Puce Apple (série M).", note: RELEASED ? "Télécharger le .dmg" : "bientôt disponible", href: RELEASED ? dl(assets.macArm) : undefined },
-              { title: "macOS", sub: "Intel.", note: RELEASED ? "Télécharger le .dmg" : "bientôt disponible", href: RELEASED ? dl(assets.macIntel) : undefined },
-              { title: "Windows", sub: "Windows 10/11 (x64).", note: RELEASED ? "Télécharger le .exe" : "bientôt disponible", href: RELEASED ? dl(assets.win) : undefined }
+              { title: "macOS", sub: "Puce Apple (série M).", note: availability.macArm ? "Télécharger le .dmg" : "bientôt disponible", href: availability.macArm ? dl(assets.macArm) : undefined },
+              { title: "macOS", sub: "Intel.", note: availability.macIntel ? "Télécharger le .dmg" : "bientôt disponible", href: availability.macIntel ? dl(assets.macIntel) : undefined },
+              { title: "Windows", sub: "Windows 10/11 (x64).", note: availability.win ? "Télécharger le .exe" : "bientôt disponible", href: availability.win ? dl(assets.win) : undefined }
             ]
           }
         ]

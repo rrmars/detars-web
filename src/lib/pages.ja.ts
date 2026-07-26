@@ -1,4 +1,4 @@
-import { RELEASED, assets, dl } from "@/lib/download";
+import { assets, availability, dl } from "@/lib/download";
 import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesJa: Record<PageKey, PageContent> = {
@@ -60,7 +60,7 @@ export const pagesJa: Record<PageKey, PageContent> = {
     kicker: "なぜ、信頼できるのか",
     h1: "信頼性は、<span class='o'>アーキテクチャに組み込まれている。</span>",
     answer:
-      "今日のAIは、優秀だが頼りにならないインターンだ。DeTarsはそれを、6つの構造的な性質によって信頼できるものにする——約束ではなく、あなたが検証できるメカニズムだ。",
+      "今日のモデルは、優秀だが頼りにならないインターンだ。DeTarsはそれを、6つの構造的な性質によって信頼できるものにする——約束ではなく、あなたが検証できるメカニズムだ。",
     sections: [
       {
         h2: "6つ",
@@ -206,9 +206,9 @@ export const pagesJa: Record<PageKey, PageContent> = {
           {
             type: "tiles",
             items: [
-              { title: "macOS", sub: "Appleシリコン（Mシリーズ）。", note: RELEASED ? ".dmgをダウンロード" : "近日公開", href: RELEASED ? dl(assets.macArm) : undefined },
-              { title: "macOS", sub: "Intel。", note: RELEASED ? ".dmgをダウンロード" : "近日公開", href: RELEASED ? dl(assets.macIntel) : undefined },
-              { title: "Windows", sub: "Windows 10/11（x64）。", note: RELEASED ? ".exeをダウンロード" : "近日公開", href: RELEASED ? dl(assets.win) : undefined }
+              { title: "macOS", sub: "Appleシリコン（Mシリーズ）。", note: availability.macArm ? ".dmgをダウンロード" : "近日公開", href: availability.macArm ? dl(assets.macArm) : undefined },
+              { title: "macOS", sub: "Intel。", note: availability.macIntel ? ".dmgをダウンロード" : "近日公開", href: availability.macIntel ? dl(assets.macIntel) : undefined },
+              { title: "Windows", sub: "Windows 10/11（x64）。", note: availability.win ? ".exeをダウンロード" : "近日公開", href: availability.win ? dl(assets.win) : undefined }
             ]
           }
         ]

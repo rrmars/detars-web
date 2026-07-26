@@ -1,4 +1,4 @@
-import { RELEASED, assets, dl } from "@/lib/download";
+import { assets, availability, dl } from "@/lib/download";
 import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesEs: Record<PageKey, PageContent> = {
@@ -60,7 +60,7 @@ export const pagesEs: Record<PageKey, PageContent> = {
     kicker: "Por qué puedes confiar en ella",
     h1: "Fiabilidad, <span class='o'>incorporada a la arquitectura.</span>",
     answer:
-      "La IA de hoy es un becario brillante pero poco fiable. DeTars la vuelve digna de confianza mediante seis propiedades estructurales — no promesas, sino mecanismos que puedes verificar.",
+      "El modelo de hoy es un becario brillante pero poco fiable. DeTars lo vuelve digno de confianza mediante seis propiedades estructurales — no promesas, sino mecanismos que puedes verificar.",
     sections: [
       {
         h2: "Las seis",
@@ -206,9 +206,9 @@ export const pagesEs: Record<PageKey, PageContent> = {
           {
             type: "tiles",
             items: [
-              { title: "macOS", sub: "Apple silicon (serie M).", note: RELEASED ? "Descargar .dmg" : "próximamente", href: RELEASED ? dl(assets.macArm) : undefined },
-              { title: "macOS", sub: "Intel.", note: RELEASED ? "Descargar .dmg" : "próximamente", href: RELEASED ? dl(assets.macIntel) : undefined },
-              { title: "Windows", sub: "Windows 10/11 (x64).", note: RELEASED ? "Descargar .exe" : "próximamente", href: RELEASED ? dl(assets.win) : undefined }
+              { title: "macOS", sub: "Apple silicon (serie M).", note: availability.macArm ? "Descargar .dmg" : "próximamente", href: availability.macArm ? dl(assets.macArm) : undefined },
+              { title: "macOS", sub: "Intel.", note: availability.macIntel ? "Descargar .dmg" : "próximamente", href: availability.macIntel ? dl(assets.macIntel) : undefined },
+              { title: "Windows", sub: "Windows 10/11 (x64).", note: availability.win ? "Descargar .exe" : "próximamente", href: availability.win ? dl(assets.win) : undefined }
             ]
           }
         ]

@@ -1,4 +1,4 @@
-import { RELEASED, assets, dl } from "@/lib/download";
+import { assets, availability, dl } from "@/lib/download";
 import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesZh: Record<PageKey, PageContent> = {
@@ -57,7 +57,7 @@ export const pagesZh: Record<PageKey, PageContent> = {
     description: "DeTars 把聪明但靠不住的 AI,变成一支你敢把真活交出去的团队:会自己想、打不垮、不能骗你、有免疫系统、是你的、不被绑架。",
     kicker: "它凭什么靠得住",
     h1: "可靠,<span class='o'>写死在架构里。</span>",
-    answer: "今天的 AI 像个聪明但靠不住的实习生。DeTars 用六条结构性能力让它值得托付——不是口头承诺,是可以当场验证的机制。",
+    answer: "今天的模型像个聪明但靠不住的实习生。DeTars 用六条结构性能力让它值得托付——不是口头承诺,是可以当场验证的机制。",
     sections: [
       {
         h2: "六件事",
@@ -201,9 +201,9 @@ export const pagesZh: Record<PageKey, PageContent> = {
           {
             type: "tiles",
             items: [
-              { title: "macOS", sub: "Apple 芯片(M 系列)。", note: RELEASED ? "下载 .dmg" : "即将开放", href: RELEASED ? dl(assets.macArm) : undefined },
-              { title: "macOS", sub: "Intel。", note: RELEASED ? "下载 .dmg" : "即将开放", href: RELEASED ? dl(assets.macIntel) : undefined },
-              { title: "Windows", sub: "Windows 10/11(x64)。", note: RELEASED ? "下载 .exe" : "即将开放", href: RELEASED ? dl(assets.win) : undefined }
+              { title: "macOS", sub: "Apple 芯片(M 系列)。", note: availability.macArm ? "下载 .dmg" : "即将开放", href: availability.macArm ? dl(assets.macArm) : undefined },
+              { title: "macOS", sub: "Intel。", note: availability.macIntel ? "下载 .dmg" : "即将开放", href: availability.macIntel ? dl(assets.macIntel) : undefined },
+              { title: "Windows", sub: "Windows 10/11(x64)。", note: availability.win ? "下载 .exe" : "即将开放", href: availability.win ? dl(assets.win) : undefined }
             ]
           }
         ]

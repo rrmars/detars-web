@@ -1,4 +1,4 @@
-import { RELEASED, assets, dl } from "@/lib/download";
+import { assets, availability, dl } from "@/lib/download";
 import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesEn: Record<PageKey, PageContent> = {
@@ -60,7 +60,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
     kicker: "Why you can trust it",
     h1: "Reliability, <span class='o'>built into the architecture.</span>",
     answer:
-      "Today's AI is a brilliant but unreliable intern. DeTars makes it trustworthy through six structural properties — not promises, but mechanisms you can verify.",
+      "Today's model is a brilliant but unreliable intern. DeTars makes it trustworthy through six structural properties — not promises, but mechanisms you can verify.",
     sections: [
       {
         h2: "The six",
@@ -206,9 +206,9 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "tiles",
             items: [
-              { title: "macOS", sub: "Apple silicon (M-series).", note: RELEASED ? "Download .dmg" : "coming soon", href: RELEASED ? dl(assets.macArm) : undefined },
-              { title: "macOS", sub: "Intel.", note: RELEASED ? "Download .dmg" : "coming soon", href: RELEASED ? dl(assets.macIntel) : undefined },
-              { title: "Windows", sub: "Windows 10/11 (x64).", note: RELEASED ? "Download .exe" : "coming soon", href: RELEASED ? dl(assets.win) : undefined }
+              { title: "macOS", sub: "Apple silicon (M-series).", note: availability.macArm ? "Download .dmg" : "coming soon", href: availability.macArm ? dl(assets.macArm) : undefined },
+              { title: "macOS", sub: "Intel.", note: availability.macIntel ? "Download .dmg" : "coming soon", href: availability.macIntel ? dl(assets.macIntel) : undefined },
+              { title: "Windows", sub: "Windows 10/11 (x64).", note: availability.win ? "Download .exe" : "coming soon", href: availability.win ? dl(assets.win) : undefined }
             ]
           }
         ]
