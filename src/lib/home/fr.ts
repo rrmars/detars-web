@@ -1,29 +1,28 @@
 import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeFr: HomeCopy = {
-  metaTitle: "DeTars | L'IA qui s'est écrite elle-même",
+  metaTitle: "DeTars | Lancez-lui une ligne. Elle fait le reste.",
   metaDescription:
-    "DeTars est une équipe d'IA privée qui vous appartient : elle raisonne, tourne pendant des heures, se relève après une panne, ne peut pas simuler une tâche finie, et vit sur votre machine. Ses 1,17 million de lignes ont été écrites par son propre moteur.",
+    "Pour le travail personnel qui prend plus d'une conversation : confiez un objectif à DeTars depuis une messagerie que vous utilisez déjà, elle travaille seule pendant des heures, puis revient avec un résultat fini.",
   heroEyebrow: "Votre IA personnelle qui abat du vrai travail",
-  heroH1: "Elle <span class='grad'>s'est écrite elle-même.</span>",
-  heroSub:
-    "Les <b>1,17 million de lignes</b> de DeTars — qui tournent sur votre propre machine — ont été écrites par son propre moteur. Une IA peu fiable ne peut pas bâtir une copie fonctionnelle d'elle-même. <b>C'est pour ça que vous pouvez lui confier du vrai travail.</b>",
-  heroPrimary: "Commencer →",
+  heroH1: "Lancez une ligne à DeTars. <span class='grad'>Elle fait le reste.</span>",
+  heroSub: "Pour le travail personnel qui prend plus d'une conversation.",
+  heroPrimary: "Commencer par un objectif →",
   heroSecondary: "Voyez-la travailler pour vous",
   proof: [
-    { n: "1,170,000", l: "lignes · écrites par elle-même" },
+    { n: "Des heures", l: "sans surveillance · même toute la nuit" },
     { n: "~50", l: "modèles de pointe · à changer quand vous voulez" },
-    { n: "100%", l: "la mémoire reste sur votre disque" }
+    { n: "100%", l: "ce qu'elle sait reste sur votre machine" }
   ],
-  verify: "· Chaque chiffre ici se compte dans le code source — pas de la rhétorique de slide",
+  verify: "· Tout ce qui est affirmé ici se vérifie sur votre propre machine — pas de la rhétorique de slide",
   hookKicker: "Pourquoi maintenant",
   hookH2: "Le modèle d'aujourd'hui : un stagiaire brillant mais <span class='o'>peu fiable</span>.",
   hookP:
     "Éblouissant par éclairs — mais il oublie, simule l'achèvement, et plante à mi-chemin. Personne ne confie du vrai travail à quelque chose de peu fiable. <b>DeTars en fait une équipe à qui vous confiez les vraies choses.</b>",
   liveKicker: "Vivre avec",
-  liveH2: "Lancez-lui une ligne. <span class='o'>Elle fait le reste pour vous.</span>",
+  liveH2: "Vous envoyez une ligne. <span class='o'>Elle revient, le travail fini.</span>",
   steps: [
-    { st: "Une entrée, d'où vous voulez", sd: "Feishu / Slack / Telegram / WeChat — une ligne ou une photo" },
+    { st: "Une entrée, d'où vous voulez", sd: "Telegram / Slack / Feishu — une ligne ou une photo (WeChat : texte seul)" },
     { st: "Elle tourne en arrière-plan", sd: "Des heures, voire toute la nuit — vous n'avez pas à la surveiller" },
     { st: "Elle revient vers vous", sd: "<b>Elle vit pour vous — pas l'inverse.</b>" }
   ],
@@ -130,10 +129,10 @@ export const homeFr: HomeCopy = {
       foot: "<b>Du concret :</b> un routage conscient du cache — moins de tokens facturés, pas de facture qui s'emballe."
     }
   ],
-  bombCap: "lignes de code fonctionnel · écrites par son propre moteur",
+  bombCap: "lignes de code maison · comptées le 7 juin 2026",
   bombH2: "On ne dit pas seulement qu'elle sait faire du travail dur — <span class='o'>elle s'est produite elle-même.</span>",
   bombP:
-    "Une IA peu fiable ne peut pas écrire 1,17 M de lignes de code fonctionnel. Le produit lui-même est la preuve ultime de ce dont il est capable — et le chiffre se compte dans le code source, sur-le-champ.",
+    "Au <b>7 juin 2026</b>, le code de DeTars comptait <b>1 175 104 lignes réparties sur 4 889 fichiers .ts/.tsx maison</b> suivis par git — dépendances vendorisées et fichiers .d.ts générés exclus, et le runtime vendorisé, compté à part, n'est pas ajouté. La limite honnête : ce code a été écrit <b>via le propre agent harness de DeTars, sous la direction d'humains</b> — pas par une IA laissée seule. Un moteur peu fiable ne produit pas une application de cette taille qui tourne vraiment — et le chiffre se recompte dans le code source, sur-le-champ.",
   closeH2: "DeTars est votre terminal tiers permanent.<br><span class='grad'>Le vôtre, pas loué.</span>",
   closeP: "Une équipe d'IA privée qui vous appartient — toujours active, pilotable depuis n'importe quelle fenêtre de chat, et qui revient vers vous d'elle-même.",
   closePrimary: "Possédez-la sur votre machine →",

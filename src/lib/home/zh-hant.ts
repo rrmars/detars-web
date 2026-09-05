@@ -1,29 +1,28 @@
 import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeZhHant: HomeCopy = {
-  metaTitle: "DeTars | 自己寫出了自己的 AI",
+  metaTitle: "DeTars | 一句話甩給它,剩下的它替你跑完",
   metaDescription:
-    "DeTars 是一支你擁有的私人 AI 團隊——會自己拆解、能掛著跑一整夜、出錯能復原、不能假裝做完、就住在你電腦裡。它這 117 萬行程式碼,是它自己的引擎寫出來的。",
+    "那些一次對話做不完的私人事務,交給 DeTars:從你常用的聊天軟體甩一句話過去,它自己跑上好幾小時,做完帶著成品回來找你。",
   heroEyebrow: "會自己幹活的私人 AI",
-  heroH1: "它,<span class='grad'>親手寫出了自己。</span>",
-  heroSub:
-    "DeTars 這 <b>117 萬行</b>、能在你電腦上跑的軟體,出自它自己的引擎。一個靠不住的 AI,寫不出能跑的自己——<b>所以你敢把真正的活交給它。</b>",
-  heroPrimary: "免費開始 →",
+  heroH1: "一句話甩給 DeTars,<span class='grad'>剩下的它替你跑完。</span>",
+  heroSub: "那些一次對話做不完的私人事務,交給它。",
+  heroPrimary: "從一個目標開始 →",
   heroSecondary: "看它怎麼陪你做事",
   proof: [
-    { n: "1,170,000", l: "行程式碼 · 由它自己寫成" },
+    { n: "好幾小時", l: "無人看顧 · 掛著跑一整夜" },
     { n: "~50", l: "個前沿模型 · 隨用隨切" },
-    { n: "100%", l: "記憶在你自己的硬碟上" }
+    { n: "100%", l: "它知道的一切都留在你電腦上" }
   ],
-  verify: "· 這些數字都能當場在程式碼庫裡數出來,不是簡報上的修辭",
+  verify: "· 這裡每一條,你都能在自己電腦上驗證,不是簡報上的修辭",
   hookKicker: "為什麼是現在",
   hookH2: "今天的模型,像個聰明但<span class='o'>靠不住</span>的實習生。",
   hookP:
     "靈光一閃很驚豔,但它會忘事、會假裝做完、會半路當掉。沒人敢把真正的活交給靠不住的東西。<b>DeTars 把它變成一支你敢把真正的活交出去的團隊。</b>",
   liveKicker: "怎麼和它一起生活",
-  liveH2: "一句話甩給它,剩下的<span class='o'>它替你跑完。</span>",
+  liveH2: "你甩過去一句話,<span class='o'>它做完回來找你。</span>",
   steps: [
-    { st: "輸入來自任何地方", sd: "飛書 / Slack / Telegram / 微信,一句話或一張圖" },
+    { st: "輸入來自任何地方", sd: "Telegram / Slack / 飛書,一句話或一張圖(微信為純文字)" },
     { st: "它在後台替你長跑", sd: "幾小時、甚至一整夜,不用你盯著" },
     { st: "做完主動回來找你", sd: "<b>替你活著,不是等你伺候它。</b>" }
   ],
@@ -130,10 +129,10 @@ export const homeZhHant: HomeCopy = {
       foot: "<b>底氣:</b>快取感知路由——少計費,不會失控燒錢。"
     }
   ],
-  bombCap: "行能跑的程式碼 · 出自它自己的引擎",
+  bombCap: "行首方程式碼 · 統計於 2026 年 6 月 7 日",
   bombH2: "我們不是「說」它能幹硬活——<span class='o'>它幹出了它自己。</span>",
   bombP:
-    "一個靠不住的 AI,寫不出 117 萬行能跑的程式碼。產品本身,就是產品能力最極致的證明——這個數字,你可以當場讓工程師在程式碼庫裡數出來。",
+    "截至 <b>2026 年 6 月 7 日</b>,DeTars 自己的程式碼庫裡有 <b>1,175,104 行、4,889 個首方 .ts/.tsx 檔案</b>(git 追蹤,不含 vendor 相依套件,不含產生的 .d.ts,也沒有把另計的 vendor runtime 加進來)。誠實的限定是:這些程式碼是<b>在 DeTars 自己的 agent harness 下、由人主導寫出來的</b>,不是無人看顧的 AI 自己跑出來的。一個靠不住的引擎,產不出這個體量還能跑的軟體——而這個數字可以當場在程式碼庫裡數出來。",
   closeH2: "DeTars 是永久的第三方終端夥伴。<br><span class='grad'>你擁有的,不是租的。</span>",
   closeP: "一支你擁有的、永遠在線、隨時能在任何聊天視窗指揮、還會主動回來找你的私人 AI 團隊。",
   closePrimary: "在你的電腦上擁有它 →",

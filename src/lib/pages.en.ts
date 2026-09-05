@@ -18,9 +18,23 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>Input from anywhere.</b> A line or a photo via Feishu, Slack, Telegram, or WeChat — no new app to learn.",
+              "<b>Input from anywhere.</b> A line or a photo from a chat app you already use — Telegram, Slack, Feishu, or WeChat. No new app to learn.",
               "<b>It runs in the background.</b> It plans, spins up specialists, and works for hours without you babysitting it.",
               "<b>It comes back to you.</b> When the work is done — or when it genuinely needs a decision — it pings you."
+            ]
+          }
+        ]
+      },
+      {
+        h2: "Not every channel is the same",
+        intro: "The work is identical wherever you send it from. How much you can do <i>inside</i> the chat is not.",
+        blocks: [
+          {
+            type: "list",
+            items: [
+              "<b>Telegram, Slack, Feishu — the fuller experience.</b> Where the channel supports it, approvals and choices come back as native buttons and cards, and voice notes can be sent and received.",
+              "<b>WeChat — text fallback.</b> Same work, same results, delivered as plain text. Interaction is more limited: you answer in words rather than tapping a card, and rich or voice replies fall back to text.",
+              "<b>Nothing depends on the rich UI.</b> Every prompt DeTars sends has a plain-text form, so a text-only channel never blocks a task."
             ]
           }
         ]

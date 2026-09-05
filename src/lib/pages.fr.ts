@@ -18,9 +18,23 @@ export const pagesFr: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>Une entrée, d'où vous voulez.</b> Une ligne ou une photo via Feishu, Slack, Telegram ou WeChat — aucune nouvelle appli à apprendre.",
+              "<b>Une entrée, d'où vous voulez.</b> Une ligne ou une photo depuis une messagerie que vous utilisez déjà — Telegram, Slack, Feishu ou WeChat. Aucune nouvelle appli à apprendre.",
               "<b>Elle tourne en arrière-plan.</b> Elle planifie, mobilise des spécialistes, et travaille des heures sans que vous la surveilliez.",
               "<b>Elle revient vers vous.</b> Quand le travail est fini — ou quand elle a vraiment besoin d'une décision — elle vous fait signe."
+            ]
+          }
+        ]
+      },
+      {
+        h2: "Les canaux ne se valent pas tous",
+        intro: "Le travail est le même quel que soit le canal. Ce que vous pouvez faire <i>dans</i> la conversation, non.",
+        blocks: [
+          {
+            type: "list",
+            items: [
+              "<b>Telegram, Slack, Feishu — l'expérience la plus complète.</b> Là où le canal le permet, les validations et les choix reviennent sous forme de boutons et de cartes natifs, et les messages vocaux passent dans les deux sens.",
+              "<b>WeChat — repli en texte.</b> Même travail, mêmes résultats, mais livrés en texte brut. L'interaction est plus limitée : vous répondez avec des mots au lieu de toucher une carte, et les réponses riches ou vocales retombent en texte.",
+              "<b>Rien ne dépend de l'interface riche.</b> Chaque demande de DeTars existe aussi en texte brut : un canal texte seul ne bloque jamais une tâche."
             ]
           }
         ]

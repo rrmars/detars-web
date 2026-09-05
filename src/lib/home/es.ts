@@ -1,29 +1,28 @@
 import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeEs: HomeCopy = {
-  metaTitle: "DeTars | La IA que se escribió a sí misma",
+  metaTitle: "DeTars | Lánzale una línea. Hace el resto.",
   metaDescription:
-    "DeTars es un equipo de IA privado que tú posees: razona, trabaja durante horas, se recupera de los fallos, no puede fingir que terminó y vive en tu propia máquina. Su propio motor escribió sus 1,17 millones de líneas.",
+    "Para el trabajo personal que no cabe en una sola conversación: dale un objetivo a DeTars desde una app de chat que ya usas, trabaja sola durante horas y vuelve con un resultado terminado.",
   heroEyebrow: "Tu propia IA que hace el trabajo de verdad",
-  heroH1: "Se <span class='grad'>escribió a sí misma.</span>",
-  heroSub:
-    "Los <b>1,17 millones de líneas</b> de DeTars — que corren en tu propia máquina — los escribió su propio motor. Una IA poco fiable no puede construir una copia funcional de sí misma. <b>Por eso puedes confiarle trabajo de verdad.</b>",
-  heroPrimary: "Empieza gratis →",
+  heroH1: "Lánzale una línea a DeTars. <span class='grad'>Hace el resto.</span>",
+  heroSub: "Para el trabajo personal que no cabe en una sola conversación.",
+  heroPrimary: "Empieza por un objetivo →",
   heroSecondary: "Mira cómo trabaja para ti",
   proof: [
-    { n: "1,170,000", l: "líneas · escritas por sí misma" },
+    { n: "Horas", l: "sin vigilancia · incluso toda la noche" },
     { n: "~50", l: "modelos de frontera · cambia cuando quieras" },
-    { n: "100%", l: "la memoria se queda en tu disco" }
+    { n: "100%", l: "lo que sabe se queda en tu máquina" }
   ],
-  verify: "· Cada cifra de aquí se puede contar en el código — no es retórica de presentación",
+  verify: "· Todo lo que se afirma aquí puedes comprobarlo en tu propia máquina — no es retórica de presentación",
   hookKicker: "Por qué ahora",
   hookH2: "El modelo de hoy es un becario brillante pero <span class='o'>poco fiable</span>.",
   hookP:
     "Deslumbrante a ratos, pero olvida, finge que terminó y se cae a mitad de camino. Nadie le confía trabajo real a algo poco fiable. <b>DeTars lo convierte en un equipo al que sí le confías lo importante.</b>",
   liveKicker: "Convivir con ella",
-  liveH2: "Lánzale una línea. <span class='o'>Hace el resto por ti.</span>",
+  liveH2: "Le mandas una línea. <span class='o'>Vuelve con el trabajo hecho.</span>",
   steps: [
-    { st: "Entrada desde cualquier sitio", sd: "Feishu / Slack / Telegram / WeChat — una línea o una foto" },
+    { st: "Entrada desde cualquier sitio", sd: "Telegram / Slack / Feishu — una línea o una foto (WeChat: solo texto)" },
     { st: "Trabaja en segundo plano", sd: "Horas, incluso toda la noche — sin que la vigiles" },
     { st: "Vuelve a ti", sd: "<b>Vive por ti, no al revés.</b>" }
   ],
@@ -130,10 +129,10 @@ export const homeEs: HomeCopy = {
       foot: "<b>Real:</b> enrutamiento consciente de la caché — menos tokens facturados, sin facturas desbocadas."
     }
   ],
-  bombCap: "líneas de código funcional · escritas por su propio motor",
+  bombCap: "líneas de código propio · contadas el 7 de junio de 2026",
   bombH2: "No solo decimos que puede con el trabajo duro — <span class='o'>se produjo a sí misma.</span>",
   bombP:
-    "Una IA poco fiable no puede escribir 1,17 millones de líneas de código funcional. El propio producto es la prueba definitiva de lo que puede hacer — y la cifra se puede contar en el código, en el acto.",
+    "A <b>7 de junio de 2026</b>, el código de DeTars sumaba <b>1.175.104 líneas en 4.889 archivos .ts/.tsx propios</b> bajo git — excluidas las dependencias vendorizadas y los .d.ts generados, y sin sumar el runtime vendorizado, que se cuenta aparte. El matiz honesto: ese código se escribió <b>con el propio agent harness de DeTars y bajo dirección humana</b>, no por una IA dejada sola. Un motor poco fiable no produce una aplicación de este tamaño que además funcione — y la cifra se puede volver a contar en el código, en el acto.",
   closeH2: "DeTars es tu terminal de terceros permanente.<br><span class='grad'>Tuya, no alquilada.</span>",
   closeP: "Un equipo de IA privado que tú posees — siempre activo, comandable desde cualquier ventana de chat, y que vuelve a ti por sí solo.",
   closePrimary: "Tenla en tu máquina →",

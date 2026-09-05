@@ -37,29 +37,28 @@ export type HomeCopy = {
 };
 
 const en: HomeCopy = {
-  metaTitle: "DeTars | The AI that wrote itself",
+  metaTitle: "DeTars | Toss it one line. It runs the rest.",
   metaDescription:
-    "DeTars is a private AI team you own — it reasons, runs for hours, recovers from failure, can't fake completion, and lives on your machine. Its 1.17M lines were written by its own engine.",
+    "For the personal work that takes more than one chat: hand DeTars a goal from a chat app you already use, it works on its own for hours, then comes back with a finished result.",
   heroEyebrow: "Your own AI that gets real work done",
-  heroH1: "It <span class='grad'>wrote itself.</span>",
-  heroSub:
-    "All <b>1.17 million lines</b> of DeTars — running on your own machine — were written by its own engine. An unreliable AI can't build a working copy of itself. <b>That's why you can trust it with real work.</b>",
-  heroPrimary: "Get started →",
+  heroH1: "Toss DeTars one line. <span class='grad'>It runs the rest.</span>",
+  heroSub: "For the personal work that takes more than one chat.",
+  heroPrimary: "Start with a goal →",
   heroSecondary: "See it work for you",
   proof: [
-    { n: "1,170,000", l: "lines · written by itself" },
+    { n: "Hours", l: "it works unattended · even overnight" },
     { n: "~50", l: "frontier models · switch anytime" },
-    { n: "100%", l: "memory stays on your disk" }
+    { n: "100%", l: "what it knows stays on your machine" }
   ],
-  verify: "· Every number here is countable in the codebase — not slide-deck rhetoric",
+  verify: "· Every claim here is one you can check on your own machine — not slide-deck rhetoric",
   hookKicker: "Why now",
   hookH2: "Today's model is a brilliant but <span class='o'>unreliable</span> intern.",
   hookP:
     "Dazzling in flashes — but it forgets, fakes completion, and crashes halfway. Nobody hands real work to something unreliable. <b>DeTars turns it into a team you trust with the real thing.</b>",
   liveKicker: "Living with it",
-  liveH2: "Toss it one line. <span class='o'>It runs the rest for you.</span>",
+  liveH2: "You send one line. <span class='o'>It comes back done.</span>",
   steps: [
-    { st: "Input from anywhere", sd: "Feishu / Slack / Telegram / WeChat — one line or one photo" },
+    { st: "Input from anywhere", sd: "Telegram / Slack / Feishu — one line or one photo (WeChat: text only)" },
     { st: "It runs in the background", sd: "Hours, even all night — you don't babysit it" },
     { st: "It comes back to you", sd: "<b>It lives for you — not the other way around.</b>" }
   ],
@@ -166,10 +165,10 @@ const en: HomeCopy = {
       foot: "<b>Real:</b> caching-aware routing — fewer tokens billed, no runaway bills."
     }
   ],
-  bombCap: "lines of working code · written by its own engine",
+  bombCap: "lines of first-party code · counted 7 June 2026",
   bombH2: "We don't just say it can do hard work — <span class='o'>it produced itself.</span>",
   bombP:
-    "An unreliable AI can't write 1.17M lines of working code. The product itself is the ultimate proof of what it can do — and the number is countable in the codebase, on the spot.",
+    "As of <b>7 June 2026</b>, DeTars' own codebase held <b>1,175,104 lines across 4,889 first-party .ts/.tsx files</b> under git — vendored dependencies and generated .d.ts files excluded, and not added to the separate vendored runtime. The honest qualification: that code was written <b>through DeTars' own agent harness, human-directed</b> — not by an AI left running alone. An unreliable engine doesn't get you a working app of that size, and the count is reproducible in the codebase on the spot.",
   closeH2: "DeTars is your permanent third-party terminal.<br><span class='grad'>Yours, not rented.</span>",
   closeP: "A private AI team you own — always on, commandable from any chat window, and one that comes back to you on its own.",
   closePrimary: "Own it on your machine →",
@@ -177,29 +176,28 @@ const en: HomeCopy = {
 };
 
 const zh: HomeCopy = {
-  metaTitle: "DeTars | 自己写出了自己的 AI",
+  metaTitle: "DeTars | 一句话甩给它,剩下的它替你跑完",
   metaDescription:
-    "DeTars 是一支你拥有的私人 AI 团队——会自己拆解、能挂着跑一整夜、出错能恢复、不能假装做完、住在你电脑里。它这 117 万行代码,是它自己的引擎写出来的。",
+    "那些一次对话做不完的私人事务,交给 DeTars:从你常用的聊天软件甩一句话过去,它自己跑上几小时,做完带着成品回来找你。",
   heroEyebrow: "会自己干活的私人 AI",
-  heroH1: "它,<span class='grad'>亲手写出了自己。</span>",
-  heroSub:
-    "DeTars 这 <b>117 万行</b>、能在你电脑上跑的应用,出自它自己的引擎。一个靠不住的 AI,写不出能跑的自己——<b>所以你敢把真活交给它。</b>",
-  heroPrimary: "免费开始 →",
+  heroH1: "一句话甩给 DeTars,<span class='grad'>剩下的它替你跑完。</span>",
+  heroSub: "那些一次对话做不完的私人事务,交给它。",
+  heroPrimary: "从一个目标开始 →",
   heroSecondary: "看它怎么陪你做事",
   proof: [
-    { n: "1,170,000", l: "行代码 · 由它自己写成" },
+    { n: "几小时", l: "无人值守 · 挂着跑一整夜" },
     { n: "~50", l: "个前沿模型 · 随用随切" },
-    { n: "100%", l: "记忆在你自己的硬盘上" }
+    { n: "100%", l: "它知道的一切都留在你电脑上" }
   ],
-  verify: "· 这些数字都能当场在代码库里数出来,不是 PPT 上的修辞",
+  verify: "· 这里每一条,你都能在自己电脑上验证,不是 PPT 上的修辞",
   hookKicker: "为什么是现在",
   hookH2: "今天的模型,像个聪明但<span class='o'>靠不住</span>的实习生。",
   hookP:
     "灵光一闪很惊艳,但它会忘事、会假装做完、会半路崩掉。没人敢把真活交给靠不住的东西。<b>DeTars 把它变成一支你敢把真活交出去的团队。</b>",
   liveKicker: "怎么和它一起生活",
-  liveH2: "一句话甩给它,剩下的<span class='o'>它替你跑完。</span>",
+  liveH2: "你甩过去一句话,<span class='o'>它做完回来找你。</span>",
   steps: [
-    { st: "输入来自任何地方", sd: "飞书 / Slack / Telegram / 微信,一句话或一张图" },
+    { st: "输入来自任何地方", sd: "Telegram / Slack / 飞书,一句话或一张图(微信为纯文本)" },
     { st: "它在后台替你长跑", sd: "几小时、甚至一整夜,不用你盯着" },
     { st: "做完主动回来找你", sd: "<b>替你活着,不是等你伺候它。</b>" }
   ],
@@ -306,10 +304,10 @@ const zh: HomeCopy = {
       foot: "<b>底气:</b>缓存感知路由——少计费,不会失控烧钱。"
     }
   ],
-  bombCap: "行能跑的代码 · 出自它自己的引擎",
+  bombCap: "行首方代码 · 统计于 2026 年 6 月 7 日",
   bombH2: "我们不是“说”它能干硬活——<span class='o'>它干出了它自己。</span>",
   bombP:
-    "一个靠不住的 AI,写不出 117 万行能跑的代码。产品本身,就是产品能力最极致的证明——这个数字,你可以当场让工程师在代码库里数出来。",
+    "截至 <b>2026 年 6 月 7 日</b>,DeTars 自己的代码库里有 <b>1,175,104 行、4,889 个首方 .ts/.tsx 文件</b>(git 跟踪,不含 vendor 依赖,不含生成的 .d.ts,也没有把另算的 vendor runtime 加进来)。诚实的限定是:这些代码是<b>在 DeTars 自己的 agent harness 下、由人主导写出来的</b>,不是无人值守的 AI 自己跑出来的。一个靠不住的引擎,产不出这个体量还能跑的应用——而这个数字可以当场在代码库里数出来。",
   closeH2: "DeTars 是永久的第三方终端伙伴。<br><span class='grad'>你拥有的,不是租的。</span>",
   closeP: "一支你拥有的、永远在线、随时能在任何聊天窗口指挥、还会主动回来找你的私人 AI 团队。",
   closePrimary: "在你的电脑上拥有它 →",

@@ -18,9 +18,23 @@ export const pagesEs: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>Entrada desde cualquier sitio.</b> Una línea o una foto vía Feishu, Slack, Telegram o WeChat — sin ninguna app nueva que aprender.",
+              "<b>Entrada desde cualquier sitio.</b> Una línea o una foto desde una app de chat que ya usas — Telegram, Slack, Feishu o WeChat. Sin ninguna app nueva que aprender.",
               "<b>Trabaja en segundo plano.</b> Planifica, despliega especialistas y trabaja durante horas sin que la vigiles.",
               "<b>Vuelve a ti.</b> Cuando el trabajo está hecho — o cuando de verdad necesita una decisión — te avisa."
+            ]
+          }
+        ]
+      },
+      {
+        h2: "No todos los canales son iguales",
+        intro: "El trabajo es el mismo desde donde lo mandes. Lo que puedes hacer <i>dentro</i> del chat, no.",
+        blocks: [
+          {
+            type: "list",
+            items: [
+              "<b>Telegram, Slack, Feishu — la experiencia más completa.</b> Donde el canal lo permite, las aprobaciones y las opciones vuelven como botones y tarjetas nativas, y los mensajes de voz van en ambos sentidos.",
+              "<b>WeChat — respaldo en texto.</b> El mismo trabajo y los mismos resultados, entregados como texto plano. La interacción es más limitada: respondes con palabras en vez de tocar una tarjeta, y las respuestas ricas o de voz caen a texto.",
+              "<b>Nada depende de la interfaz rica.</b> Cada confirmación que envía DeTars tiene forma de texto plano, así que un canal de solo texto nunca bloquea una tarea."
             ]
           }
         ]

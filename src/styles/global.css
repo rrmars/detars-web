@@ -67,8 +67,7 @@ section.band { padding: 96px 0; position: relative; z-index: 2; }
 .site-header.scrolled { border-color: var(--line); background: rgba(7, 5, 4, 0.82); }
 .hd { display: flex; align-items: center; justify-content: space-between; height: 74px; }
 .brand { display: flex; align-items: center; gap: 12px; font-family: var(--sg); font-weight: 700; font-size: 20px; letter-spacing: -0.01em; }
-.brand .mark { width: 32px; height: 32px; border-radius: 10px; background: #1c2230; display: grid; place-items: center; border: 1px solid rgba(255, 255, 255, 0.12); }
-.brand .mark span { width: 13px; height: 13px; border-radius: 4px; background: linear-gradient(140deg, var(--accent), var(--accent2)); box-shadow: 0 0 12px rgba(255, 106, 61, 0.6); }
+.brand .mark { width: 32px; height: 32px; border-radius: 10px; display: block; border: 1px solid rgba(255, 255, 255, 0.12); }
 .brand .dot { color: var(--accent); }
 .site-nav { display: flex; gap: 30px; font-size: 14.5px; color: var(--muted); }
 .site-nav a { transition: color 0.2s; }
