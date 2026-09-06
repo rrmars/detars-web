@@ -67,7 +67,11 @@ section.band { padding: 96px 0; position: relative; z-index: 2; }
 .site-header.scrolled { border-color: var(--line); background: rgba(7, 5, 4, 0.82); }
 .hd { display: flex; align-items: center; justify-content: space-between; height: 74px; }
 .brand { display: flex; align-items: center; gap: 12px; font-family: var(--sg); font-weight: 700; font-size: 20px; letter-spacing: -0.01em; }
-.brand .mark { width: 32px; height: 32px; border-radius: 10px; display: block; border: 1px solid rgba(255, 255, 255, 0.12); }
+/* The mark is the whole app figure on its own light ground, so the tile is the
+   artwork's edge, not a crop: a squircle-ish 22% radius reads as the same icon
+   the user has in their dock. */
+.brand .mark { width: 36px; height: 36px; border-radius: 8px; display: block; border: 1px solid rgba(255, 255, 255, 0.12); }
+.site-footer .brand .mark { width: 30px; height: 30px; border-radius: 7px; }
 .brand .dot { color: var(--accent); }
 .site-nav { display: flex; gap: 30px; font-size: 14.5px; color: var(--muted); }
 .site-nav a { transition: color 0.2s; }
