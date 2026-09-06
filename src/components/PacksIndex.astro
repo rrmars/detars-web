@@ -1,0 +1,122 @@
+---
+import { packRoute, packs } from "@/lib/packs/catalog";
+import { getPacksCopy } from "@/lib/packs/copy";
+import { withLocale, type Locale } from "@/lib/site";
+import { t } from "@/lib/ui-labels";
+
+type Props = { locale: Locale };
+const { locale } = Astro.props;
+const copy = getPacksCopy(locale);
+const { index, ui } = copy;
+const answerLabel = t("answerShort", locale);
+---
+
+<section class="page-head shell">
+  <div class="reveal">
+    <span class="kicker">{index.kicker}</span>
+    <h1 set:html={index.h1} />
+    <div class="answer-card">
+      <span class="lab">{answerLabel}</span>
+      <p set:html={index.answer} />
+    </div>
+  </div>
+</section>
+
+<section class="band shell" style="padding-top:44px;">
+  <div class="sec reveal">
+    <h2 set:html={index.gridH2} />
+    <p class="sec-intro" set:html={index.gridIntro} />
+  </div>
+
+  <div class="pack-grid reveal">
+    {
+      packs.map((p) => {
+        const c = copy.packs[p.key];
+        return (
+          <a class="pcard" href={withLocale(locale, packRoute(p.slug))} style={`--h:${p.hue}`}>
+            <div class="pcard-top">
+              <span class="glyph" aria-hidden="true">{p.glyph}</span>
+              <span class={`st st--${p.status}`}>{ui.statusLabels[p.status]}</span>
+            </div>
+            <h3>{c.name}</h3>
+            <p class="tag">{c.tagline}</p>
+            <ul class="chips">{c.chips.map((chip) => <li>{chip}</li>)}</ul>
+            <span class="go" aria-hidden="true">→</span>
+          </a>
+        );
+      })
+    }
+  </div>
+</section>
+
+<section class="band shell" style="padding-top:0;">
+  <div class="sec reveal">
+    <h2 set:html={index.moatsH2} />
+    <ul class="sec-list">{index.moats.map((m) => <li set:html={m} />)}</ul>
+  </div>
+
+  <div class="sec reveal">
+    <h2 set:html={index.familyH2} />
+    <p class="sec-intro" set:html={index.familyIntro} />
+    <div class="fam">
+      {
+        index.family.map((f) => (
+          <div class="fam-it">
+            <h3 set:html={f.title} />
+            <p set:html={f.body} />
+          </div>
+        ))
+      }
+    </div>
+  </div>
+
+  <div class="reveal" style="margin-top:56px;">
+    <a class="btn-primary" href={withLocale(locale, "/download")} set:html={index.ctaLabel} />
+  </div>
+</section>
+
+<style>
+  .sec { max-width: 760px; margin-top: 48px; }
+  .sec h2 { font-weight: 700; font-size: clamp(24px, 2.8vw, 36px); letter-spacing: -0.02em; }
+  .sec h2 :global(.o) { color: var(--accent2); }
+  .sec-intro { margin-top: 14px; font-size: 17px; line-height: 1.7; color: var(--muted); max-width: 60ch; }
+  .sec-list { margin-top: 18px; padding-left: 0; list-style: none; max-width: 66ch; }
+  .sec-list li { position: relative; padding-left: 22px; margin-top: 14px; font-size: 16px; line-height: 1.75; color: var(--muted); }
+  .sec-list li::before { content: ""; position: absolute; left: 0; top: 11px; width: 7px; height: 7px; border-radius: 2px; background: var(--accent); }
+  .sec-list li :global(b) { color: var(--text); font-weight: 500; }
+
+  .pack-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(268px, 1fr)); gap: 16px; margin-top: 30px; }
+  .pcard {
+    position: relative; display: flex; flex-direction: column; padding: 24px 24px 22px;
+    border: 1px solid var(--line); border-radius: 18px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.012));
+    transition: border-color 0.24s var(--ease), transform 0.24s var(--ease), background 0.24s var(--ease);
+  }
+  .pcard:hover { border-color: hsl(var(--h) 70% 62% / 0.45); transform: translateY(-3px); background: linear-gradient(180deg, hsl(var(--h) 70% 60% / 0.08), rgba(255, 255, 255, 0.012)); }
+  .pcard-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .glyph {
+    width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center;
+    font-size: 19px; line-height: 1; color: hsl(var(--h) 78% 74%);
+    background: hsl(var(--h) 62% 52% / 0.14); border: 1px solid hsl(var(--h) 62% 62% / 0.26);
+  }
+  .st { font-family: var(--sg); font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; padding: 5px 9px; border-radius: 999px; white-space: nowrap; }
+  .st--live { color: var(--green); background: rgba(70, 211, 154, 0.1); border: 1px solid rgba(70, 211, 154, 0.28); }
+  .st--polishing { color: var(--accent2); background: rgba(255, 106, 61, 0.1); border: 1px solid rgba(255, 106, 61, 0.3); }
+  .st--new { color: #d3c2ff; background: rgba(160, 130, 255, 0.11); border: 1px solid rgba(160, 130, 255, 0.32); }
+  .pcard h3 { margin-top: 18px; font-family: var(--sg); font-size: 21px; font-weight: 700; letter-spacing: -0.01em; }
+  .pcard .tag { margin-top: 9px; font-size: 14.5px; line-height: 1.6; color: var(--muted); }
+  .chips { list-style: none; padding: 0; margin: 16px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .chips li { font-size: 11.5px; line-height: 1.5; color: var(--faint); border: 1px solid var(--line); border-radius: 7px; padding: 4px 8px; }
+  /* in flow, pushed to the bottom-right, so a long chip can use the full card width */
+  .pcard .go { margin-top: auto; padding-top: 16px; align-self: flex-end; color: var(--faint); font-size: 16px; line-height: 1; transition: color 0.24s, transform 0.24s var(--ease); }
+  .pcard:hover .go { color: hsl(var(--h) 78% 74%); transform: translateX(3px); }
+
+  .fam { display: grid; grid-template-columns: 1fr; gap: 0; margin-top: 22px; border-top: 1px solid var(--line); }
+  .fam-it { padding: 22px 0; border-bottom: 1px solid var(--line); }
+  .fam-it h3 { font-family: var(--sg); font-size: 17px; font-weight: 600; color: var(--text); }
+  .fam-it p { margin-top: 8px; font-size: 15px; line-height: 1.7; color: var(--muted); max-width: 62ch; }
+
+  @media (max-width: 620px) {
+    .pack-grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -46,7 +46,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
             type: "cards",
             items: [
               { tag: "Pet Care", title: "📷 A photo of your dog", body: "Send a snapshot; get a funny short video plus ready-to-post captions." },
-              { tag: "Investing", title: "💡 A stock you heard about", body: "Mention it once; it keeps watching and comes back when something moves. Trading is code-locked." },
+              { tag: "Investing", title: "💡 A stock you heard about", body: "Mention it once; it keeps watching and comes back when something moves. It has no broker connection and no order tool." },
               { tag: "Voiceover", title: "🎙️ A talking-head clip", body: "Film on the go; get an edited cut with subtitles — your real voice kept, not replaced by TTS." },
               { tag: "Research", title: "🔍 Something you overheard", body: "One line; get a sourced report and ongoing tracking on the topic." }
             ]
@@ -127,50 +127,6 @@ export const pagesEn: Record<PageKey, PageContent> = {
       }
     ],
     cta: { label: "See the proof →", route: "/proof" }
-  },
-
-  packs: {
-    title: "DeTars Packs | An app store for a team of experts",
-    description:
-      "Packs are vertical apps that run on the same reliable engine and on memory you own. Pet care and investing are live; more are in build. The more packs, the thicker your memory.",
-    kicker: "An app store of experts",
-    h1: "One reliable engine. <span class='o'>Many experts.</span>",
-    answer:
-      "Packs aren't eight isolated features — they're the first apps in a store. The same reliable engine spins up a new pack in weeks, and every pack runs on the canonical memory you own. The more packs you use, the thicker your memory and the faster the platform compounds.",
-    sections: [
-      {
-        h2: "Where it stands today — honestly",
-        intro: "We show live capability plainly and the roadmap as roadmap. We don't call roadmap done.",
-        blocks: [
-          {
-            type: "cards",
-            items: [
-              { tag: "🟢 Live", title: "Pet Care", body: "Record OCR, 36 health red-line alerts with authoritative sources, visit prep, growth journal + monthly report. 245/245 tests." },
-              { tag: "🟢 Live", title: "Investing", body: "Personal research: evidence checks, logic-drift review, decision trails. SEC / Yahoo / FRED / NewsAPI. Trading is code-locked off." },
-              { tag: "🟡 In build", title: "Research", body: "Deep sourced reports + scripts + fact-checking, with heavy retrieval engines." },
-              { tag: "🟡 In build", title: "AI Video", body: "Storyboard → image → clip → voice → score → export." },
-              { tag: "🟡 In build", title: "Voiceover", body: "Edit-by-text talking-head editing that keeps the real human voice." },
-              { tag: "🟡 In build", title: "Audiobook", body: "Multi-voice, 90%+ automated, overnight rendering." },
-              { tag: "⚪ Roadmap", title: "Coding (Dev)", body: "Pro coding workflow — backed by the engine that wrote itself." },
-              { tag: "⚪ Roadmap", title: "More", body: "Companion, agent evaluation, everyday cleanup, and beyond." }
-            ]
-          }
-        ]
-      },
-      {
-        h2: "Two compounding moats",
-        blocks: [
-          {
-            type: "list",
-            items: [
-              "<b>It learns you (eat-memory).</b> Every finished task settles into memory you reviewed, stored as files on your disk, reused across packs. It even generates, installs, and manages its own skills as needs arise — so the platform keeps extending itself. Switching platforms means losing all of that accumulation.",
-              "<b>Local voice (it's yours).</b> Listen, think, speak, remember — on-device, offline, private, un-revocable. <i>(Honest: the full local loop runs in v1; always-on ambient companionship is roadmap.)</i>"
-            ]
-          }
-        ]
-      }
-    ],
-    cta: { label: "Download DeTars →", route: "/download" }
   },
 
   proof: {
@@ -260,7 +216,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
               { q: "Does it just wrap OpenAI/Anthropic? You die when they cut prices.", a: "Price cuts already happened — and they help us. Per-token price falls ~10× while agent loops push usage ~100×, so the consumer-agent bill rises. Caching-aware routing + provider-agnostic + local cooperation is the moat, and it gets more valuable as prices drop." },
               { q: "Local-sovereignty AI is a graveyard (Rewind, Humane, Pi).", a: "Fair. Our difference: we don't sell 'local' as a feature, we sell a reliable private AI team as the experience — sovereignty is a byproduct. And brick events plus regulation are moving the market from 1% geeks toward the mainstream." },
               { q: "Is my data private?", a: "Memory and identity are files on your disk; new memories need your confirmation. The full local voice loop runs on-device in v1. Honest boundary: always-on ambient companionship is still roadmap." },
-              { q: "Is the investing pack giving financial advice / trading?", a: "No. It does personal research with evidence checks and decision trails. Trading is locked off at the code layer — it cannot place an order." },
+              { q: "Is the investing pack giving financial advice / trading?", a: "No. It does personal research with evidence checks and decision trails. It cannot place an order, because there is no broker integration anywhere in the product, no order tool, and nowhere to put brokerage credentials." },
               { q: "Why will 2026 be different when 2025's 'year of agents' wasn't?", a: "We don't bet on a single year; we bet on the decade. 2025 didn't break out because reliability, unit economics, and trust weren't there. Those are exactly what DeTars solves." }
             ]
           }
@@ -317,9 +273,9 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>2026-06 · Pet Care live.</b> Record OCR, 36 sourced health red-lines, growth journal + monthly report; 245/245 tests.",
-              "<b>2026-06 · Investing live.</b> Evidence checks, logic-drift review, decision trails; trading code-locked off.",
-              "<b>In build.</b> Research, AI Video, Voiceover, Audiobook packs on the same engine."
+              "<b>2026-06 · Pet Care live.</b> Record OCR, 36 sourced health red-lines, growth journal + monthly report.",
+              "<b>2026-06 · Investing live.</b> Evidence checks, logic-drift review, decision trails; no broker connection, no order tool.",
+              "<b>Now.</b> Eight packs have a page of their own — investing, destiny, research, coding, talking-head editing, AI video, summon, pet care — and each page ends with what that pack cannot do."
             ]
           }
         ]

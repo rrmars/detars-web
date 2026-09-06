@@ -28,7 +28,7 @@ export const homeFr: HomeCopy = {
   ],
   scenarios: [
     { av: "📷", pack: "Pet Care", via: "Telegram", meta: "pack: pet-care", input: "Une photo de mon chien, prise et envoyée comme ça", work: "montage · rédaction des légendes", result: "✓ Vidéo courte et marrante + légendes sociales prêtes" },
-    { av: "💡", pack: "Investing", via: "Slack", meta: "pack: equity · verrouillé par le code, aucun ordre", input: "Un tuyau boursier glissé en passant, juste une question", work: "suivi · vérification des preuves", result: "🔔 Revenue : mouvement inhabituel — on en parle ?" },
+    { av: "💡", pack: "Investing", via: "Slack", meta: "pack: equity · aucun courtier, aucun outil d’ordre", input: "Un tuyau boursier glissé en passant, juste une question", work: "suivi · vérification des preuves", result: "🔔 Revenue : mouvement inhabituel — on en parle ?" },
     { av: "🎙️", pack: "Voiceover", via: "Feishu", meta: "pack: talking-head", input: "Un plan face caméra filmé sur le pouce", work: "montage auto · sous-titres", result: "✓ Montage final exporté — votre vraie voix conservée" },
     { av: "🔍", pack: "Research", via: "WeChat", meta: "pack: research", input: "Un truc intéressant entendu, lancé en une ligne", work: "creuse pendant des heures · recoupe", result: "✓ Rapport sourcé + suivi continu" }
   ],

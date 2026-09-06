@@ -46,7 +46,7 @@ export const pagesEs: Record<PageKey, PageContent> = {
             type: "cards",
             items: [
               { tag: "Cuidado de mascotas", title: "📷 Una foto de tu perro", body: "Envía una instantánea; recibe un vídeo corto divertido más textos listos para publicar." },
-              { tag: "Inversión", title: "💡 Una acción de la que oíste hablar", body: "Menciónala una vez; sigue vigilando y vuelve cuando algo se mueve. Operar está bloqueado por código." },
+              { tag: "Inversión", title: "💡 Una acción de la que oíste hablar", body: "Menciónala una vez; sigue vigilando y vuelve cuando algo se mueve. No hay ningún bróker conectado ni herramienta para enviar órdenes." },
               { tag: "Locución", title: "🎙️ Un clip a cámara", body: "Graba sobre la marcha; recibe un montaje con subtítulos — con tu voz real, no reemplazada por TTS." },
               { tag: "Investigación", title: "🔍 Algo que escuchaste de pasada", body: "Una línea; recibe un informe con fuentes y seguimiento continuo del tema." }
             ]
@@ -127,50 +127,6 @@ export const pagesEs: Record<PageKey, PageContent> = {
       }
     ],
     cta: { label: "Mira la prueba →", route: "/proof" }
-  },
-
-  packs: {
-    title: "DeTars Packs | Una tienda de apps de un equipo de expertos",
-    description:
-      "Los packs son apps verticales que corren sobre el mismo motor fiable y sobre una memoria que tú posees. Cuidado de mascotas e inversión están activos; hay más en construcción. Cuantos más packs, más densa tu memoria.",
-    kicker: "Una tienda de apps de expertos",
-    h1: "Un motor fiable. <span class='o'>Muchos expertos.</span>",
-    answer:
-      "Los packs no son ocho funciones aisladas — son las primeras apps de una tienda. El mismo motor fiable despliega un pack nuevo en semanas, y cada pack corre sobre la memoria canónica que tú posees. Cuantos más packs uses, más densa tu memoria y más rápido se acumula la plataforma.",
-    sections: [
-      {
-        h2: "Dónde está hoy — con honestidad",
-        intro: "Mostramos la capacidad activa con claridad y la hoja de ruta como hoja de ruta. No llamamos «terminado» a lo que es hoja de ruta.",
-        blocks: [
-          {
-            type: "cards",
-            items: [
-              { tag: "🟢 Activo", title: "Cuidado de mascotas", body: "OCR de historiales, 36 alertas de líneas rojas de salud con fuentes autorizadas, preparación de visitas, diario de crecimiento + informe mensual. 245/245 tests." },
-              { tag: "🟢 Activo", title: "Inversión", body: "Investigación personal: verificación de evidencias, revisión de desvíos de lógica, registros de decisiones. SEC / Yahoo / FRED / NewsAPI. Operar está bloqueado por código." },
-              { tag: "🟡 En construcción", title: "Investigación", body: "Informes profundos con fuentes + guiones + verificación de datos, con potentes motores de recuperación." },
-              { tag: "🟡 En construcción", title: "Vídeo con IA", body: "Storyboard → imagen → clip → voz → banda sonora → exportar." },
-              { tag: "🟡 En construcción", title: "Locución", body: "Edición a cámara por texto que conserva la voz humana real." },
-              { tag: "🟡 En construcción", title: "Audiolibro", body: "Multivoz, más del 90% automatizado, renderizado de noche." },
-              { tag: "⚪ Hoja de ruta", title: "Programación (Dev)", body: "Flujo de programación profesional — respaldado por el motor que se escribió a sí mismo." },
-              { tag: "⚪ Hoja de ruta", title: "Más", body: "Compañía, evaluación de agentes, orden del día a día y mucho más." }
-            ]
-          }
-        ]
-      },
-      {
-        h2: "Dos fosos que se acumulan",
-        blocks: [
-          {
-            type: "list",
-            items: [
-              "<b>Te aprende (eat-memory).</b> Cada tarea terminada se asienta en una memoria que revisaste, guardada como archivos en tu disco, reutilizada entre packs. Incluso genera, instala y gestiona sus propias skills según surgen las necesidades — así la plataforma se sigue extendiendo. Cambiar de plataforma significa perder toda esa acumulación.",
-              "<b>Voz local (es tuya).</b> Escuchar, pensar, hablar, recordar — en el dispositivo, sin conexión, privado, irrevocable. <i>(Con honestidad: el bucle local completo corre en la v1; la compañía ambiental siempre activa está en la hoja de ruta.)</i>"
-            ]
-          }
-        ]
-      }
-    ],
-    cta: { label: "Descarga DeTars →", route: "/download" }
   },
 
   proof: {
@@ -317,9 +273,9 @@ export const pagesEs: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>2026-06 · Cuidado de mascotas activo.</b> OCR de historiales, 36 líneas rojas de salud con fuentes, diario de crecimiento + informe mensual; 245/245 tests.",
-              "<b>2026-06 · Inversión activo.</b> Verificación de evidencias, revisión de desvíos de lógica, registros de decisiones; operar bloqueado por código.",
-              "<b>En construcción.</b> Los packs de Investigación, Vídeo con IA, Locución y Audiolibro sobre el mismo motor."
+              "<b>2026-06 · Cuidado de mascotas activo.</b> OCR de historiales, 36 líneas rojas de salud con fuentes, diario de crecimiento + informe mensual.",
+              "<b>2026-06 · Inversión activo.</b> Verificación de evidencias, revisión de desvíos de lógica, registros de decisiones; sin bróker conectado y sin herramienta de órdenes.",
+              "<b>Ahora.</b> Ocho packs tienen su propia página — Inversión, Destino, Investigación, Programación, edición de locución, Vídeo con IA, Invocación y Mascotas — y cada página termina con lo que ese pack no puede hacer."
             ]
           }
         ]

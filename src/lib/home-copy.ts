@@ -64,7 +64,7 @@ const en: HomeCopy = {
   ],
   scenarios: [
     { av: "📷", pack: "Pet Care", via: "Telegram", meta: "pack: pet-care", input: "Snapped a photo of my dog and sent it over", work: "editing · writing captions", result: "✓ Funny short video + social captions ready" },
-    { av: "💡", pack: "Investing", via: "Slack", meta: "pack: equity · code-locked, no trading", input: "Heard a stock tip and just asked offhand", work: "tracking · checking evidence", result: "🔔 Came back: unusual move — want to talk?" },
+    { av: "💡", pack: "Investing", via: "Slack", meta: "pack: equity · no broker, no order tool", input: "Heard a stock tip and just asked offhand", work: "tracking · checking evidence", result: "🔔 Came back: unusual move — want to talk?" },
     { av: "🎙️", pack: "Voiceover", via: "Feishu", meta: "pack: talking-head", input: "Filmed a talking-head clip on the go", work: "auto-editing · subtitles", result: "✓ Final cut exported — your real voice kept" },
     { av: "🔍", pack: "Research", via: "WeChat", meta: "pack: research", input: "Heard something interesting, fired off one line", work: "digging for hours · cross-checking", result: "✓ Sourced report + ongoing tracking" }
   ],
@@ -203,7 +203,7 @@ const zh: HomeCopy = {
   ],
   scenarios: [
     { av: "📷", pack: "宠物管家", via: "Telegram", meta: "pack: pet-care", input: "出门拍了张狗子的照片,丢给它", work: "后台剪辑 · 配文案", result: "✓ 搞笑短视频 + 小红书 / Ins 文案已生成" },
-    { av: "💡", pack: "投资助手", via: "Slack", meta: "pack: equity · 代码层硬禁下单", input: "听人提了一支股票,随口问了一句", work: "持续盯盘 · 证据巡检", result: "🔔 主动回来:有异动,要不要聊聊?" },
+    { av: "💡", pack: "投资助手", via: "Slack", meta: "pack: equity · 没接券商,没有下单工具", input: "听人提了一支股票,随口问了一句", work: "持续盯盘 · 证据巡检", result: "🔔 主动回来:有异动,要不要聊聊?" },
     { av: "🎙️", pack: "口播数字人", via: "飞书", meta: "pack: talking-head", input: "在外拍了段口播,发给它", work: "自动剪辑 · 配字幕", result: "✓ 成片已导出,真人原声没被替换" },
     { av: "🔍", pack: "内容调研", via: "微信", meta: "pack: research", input: "路上听到个有意思的事,一句话甩过去", work: "深挖几小时 · 交叉核对", result: "✓ 带出处的报告 + 后续持续追踪" }
   ],

@@ -46,7 +46,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
             type: "cards",
             items: [
               { tag: "Pet Care", title: "📷 Une photo de votre chien", body: "Envoyez un cliché ; recevez une vidéo courte et marrante plus des légendes prêtes à publier." },
-              { tag: "Investing", title: "💡 Une action dont vous avez entendu parler", body: "Mentionnez-la une fois ; elle continue de surveiller et revient dès qu'il se passe quelque chose. Le trading est verrouillé par le code." },
+              { tag: "Investing", title: "💡 Une action dont vous avez entendu parler", body: "Mentionnez-la une fois ; elle continue de surveiller et revient dès qu'il se passe quelque chose. Aucun courtier n'est connecté et aucun outil de passage d'ordre n'existe." },
               { tag: "Voiceover", title: "🎙️ Un plan face caméra", body: "Filmez sur le pouce ; recevez un montage avec sous-titres — votre vraie voix conservée, pas remplacée par une synthèse vocale." },
               { tag: "Research", title: "🔍 Quelque chose entendu au passage", body: "Une ligne ; recevez un rapport sourcé et un suivi continu du sujet." }
             ]
@@ -127,50 +127,6 @@ export const pagesFr: Record<PageKey, PageContent> = {
       }
     ],
     cta: { label: "Voir la preuve →", route: "/proof" }
-  },
-
-  packs: {
-    title: "DeTars Packs | Un app store pour une équipe d'experts",
-    description:
-      "Les Packs sont des applis verticales qui tournent sur le même moteur fiable et sur une mémoire qui vous appartient. Pet Care et Investing sont en service ; d'autres sont en construction. Plus il y a de packs, plus votre mémoire s'épaissit.",
-    kicker: "Un app store d'experts",
-    h1: "Un seul moteur fiable. <span class='o'>De nombreux experts.</span>",
-    answer:
-      "Les Packs ne sont pas huit fonctions isolées — ce sont les premières applis d'un store. Le même moteur fiable fait émerger un nouveau pack en quelques semaines, et chaque pack tourne sur la mémoire canonique qui vous appartient. Plus vous utilisez de packs, plus votre mémoire s'épaissit et plus la plateforme se cumule vite.",
-    sections: [
-      {
-        h2: "Où en sommes-nous aujourd'hui — en toute honnêteté",
-        intro: "Nous montrons les capacités en service telles quelles, et la feuille de route comme feuille de route. Nous ne présentons pas la feuille de route comme acquise.",
-        blocks: [
-          {
-            type: "cards",
-            items: [
-              { tag: "🟢 En service", title: "Pet Care", body: "OCR de carnet, 36 alertes santé en zone rouge avec sources autorisées, préparation des visites, journal de croissance + rapport mensuel. 245/245 tests." },
-              { tag: "🟢 En service", title: "Investing", body: "Recherche personnelle : vérification des preuves, revue des dérives de logique, traçabilité des décisions. SEC / Yahoo / FRED / NewsAPI. Le trading est verrouillé par le code." },
-              { tag: "🟡 En construction", title: "Research", body: "Rapports sourcés en profondeur + scripts + vérification des faits, avec de puissants moteurs de récupération." },
-              { tag: "🟡 En construction", title: "AI Video", body: "Storyboard → image → clip → voix → musique → export." },
-              { tag: "🟡 En construction", title: "Voiceover", body: "Montage face caméra piloté par le texte, qui conserve la vraie voix humaine." },
-              { tag: "🟡 En construction", title: "Audiobook", body: "Multi-voix, automatisé à plus de 90 %, rendu de nuit." },
-              { tag: "⚪ Feuille de route", title: "Coding (Dev)", body: "Un flux de codage pro — adossé au moteur qui s'est écrit lui-même." },
-              { tag: "⚪ Feuille de route", title: "Et plus", body: "Compagnon, évaluation d'agents, rangement du quotidien, et au-delà." }
-            ]
-          }
-        ]
-      },
-      {
-        h2: "Deux fossés qui se cumulent",
-        blocks: [
-          {
-            type: "list",
-            items: [
-              "<b>Elle vous apprend (eat-memory).</b> Chaque tâche finie se dépose dans une mémoire que vous avez relue, stockée sous forme de fichiers sur votre disque, réutilisée d'un pack à l'autre. Elle génère, installe et gère même ses propres compétences au gré des besoins — la plateforme ne cesse de s'étendre. Changer de plateforme, c'est perdre toute cette accumulation.",
-              "<b>Voix locale (elle est à vous).</b> Écouter, penser, parler, se souvenir — sur l'appareil, hors ligne, privé, irrévocable. <i>(En toute honnêteté : la boucle vocale locale complète tourne en v1 ; la présence ambiante permanente est sur la feuille de route.)</i>"
-            ]
-          }
-        ]
-      }
-    ],
-    cta: { label: "Télécharger DeTars →", route: "/download" }
   },
 
   proof: {
@@ -260,7 +216,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
               { q: "Ça ne fait qu'envelopper OpenAI/Anthropic ? Vous mourez quand ils baissent les prix.", a: "Les baisses de prix ont déjà eu lieu — et elles nous aident. Le prix par token chute d'environ 10× tandis que les boucles d'agents poussent l'usage d'environ 100×, donc la facture de l'agent grand public augmente. Le routage conscient du cache + l'agnosticisme fournisseur + la coopération locale sont le fossé, et il prend de la valeur à mesure que les prix baissent." },
               { q: "L'IA à souveraineté locale est un cimetière (Rewind, Humane, Pi).", a: "C'est juste. Notre différence : nous ne vendons pas le « local » comme une fonctionnalité, nous vendons une équipe d'IA privée et fiable comme expérience — la souveraineté est un sous-produit. Et les épisodes de blocage, ajoutés à la régulation, font passer le marché des 1 % de geeks vers le grand public." },
               { q: "Mes données sont-elles privées ?", a: "Mémoire et identité sont des fichiers sur votre disque ; les nouvelles mémoires passent par votre confirmation. La boucle vocale locale complète tourne sur l'appareil en v1. Limite honnête : la présence ambiante permanente est encore sur la feuille de route." },
-              { q: "Le pack Investing donne-t-il des conseils financiers / fait-il du trading ?", a: "Non. Il fait de la recherche personnelle, avec vérification des preuves et traçabilité des décisions. Le trading est verrouillé au niveau du code — il ne peut pas passer d'ordre." },
+              { q: "Le pack Investing donne-t-il des conseils financiers / fait-il du trading ?", a: "Non. Il fait de la recherche personnelle, avec vérification des preuves et traçabilité des décisions. Il ne peut pas passer d'ordre : il n'existe nulle part dans le produit d'intégration de courtier, d'outil d'ordre, ni d'endroit où saisir des identifiants de courtage." },
               { q: "Pourquoi 2026 serait différente, alors que « l'année des agents » de 2025 ne l'a pas été ?", a: "Nous ne misons pas sur une seule année ; nous misons sur la décennie. 2025 n'a pas décollé parce que la fiabilité, l'économie unitaire et la confiance n'étaient pas au rendez-vous. C'est exactement ce que DeTars résout." }
             ]
           }
@@ -317,9 +273,9 @@ export const pagesFr: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>2026-06 · Pet Care en service.</b> OCR de carnet, 36 zones rouges santé sourcées, journal de croissance + rapport mensuel ; 245/245 tests.",
-              "<b>2026-06 · Investing en service.</b> Vérification des preuves, revue des dérives de logique, traçabilité des décisions ; trading verrouillé par le code.",
-              "<b>En construction.</b> Les packs Research, AI Video, Voiceover, Audiobook sur le même moteur."
+              "<b>2026-06 · Pet Care en service.</b> OCR de carnet, 36 zones rouges santé sourcées, journal de croissance + rapport mensuel.",
+              "<b>2026-06 · Investing en service.</b> Vérification des preuves, revue des dérives de logique, traçabilité des décisions ; aucun courtier connecté, aucun outil d’ordre.",
+              "<b>Maintenant.</b> Huit packs ont leur propre page — Investing, Destiny, Research, Coding, montage talking-head, AI Video, Summon, Pet Care — et chaque page se termine par ce que ce pack ne sait pas faire."
             ]
           }
         ]

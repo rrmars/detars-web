@@ -1,0 +1,66 @@
+---
+// Home-page rail for the pack store. Deliberately shows every pack rather than a
+// curated three: the point of the section is that there are a lot of them and
+// they share one engine.
+import { packRoute, packs, packsRoute } from "@/lib/packs/catalog";
+import { getPacksCopy } from "@/lib/packs/copy";
+import { withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale };
+const { locale } = Astro.props;
+const copy = getPacksCopy(locale);
+const ui = copy.ui;
+---
+
+<section class="band shell hpacks" id="packs" style="padding-top:34px;">
+  <div class="reveal">
+    <span class="kicker">{ui.homeKicker}</span>
+    <h2 set:html={ui.homeH2} />
+    <p class="hp-lede" set:html={ui.homeP} />
+  </div>
+
+  <div class="hp-grid reveal">
+    {
+      packs.map((p) => {
+        const c = copy.packs[p.key];
+        return (
+          <a class="hp" href={withLocale(locale, packRoute(p.slug))} style={`--h:${p.hue}`}>
+            <span class="hp-glyph" aria-hidden="true">{p.glyph}</span>
+            <span class="hp-nm">{c.name}</span>
+            <span class="hp-tag">{c.tagline}</span>
+            <span class={`hp-st hp-st--${p.status}`}>{ui.statusLabels[p.status]}</span>
+          </a>
+        );
+      })
+    }
+  </div>
+
+  <div class="reveal" style="margin-top:30px;">
+    <a class="btn-ghost" href={withLocale(locale, packsRoute)}>{ui.homeCta}</a>
+  </div>
+</section>
+
+<style>
+  .hpacks h2 { font-weight: 700; font-size: clamp(28px, 3.6vw, 46px); line-height: 1.16; letter-spacing: -0.02em; max-width: 20ch; margin: 20px 0 0; }
+  .hpacks h2 :global(.o) { color: var(--accent2); }
+  .hp-lede { margin-top: 22px; max-width: 56ch; font-size: 17px; line-height: 1.72; color: var(--muted); }
+  .hp-lede :global(b) { color: var(--text); font-weight: 500; }
+
+  .hp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(222px, 1fr)); gap: 12px; margin-top: 40px; }
+  .hp {
+    position: relative; display: flex; flex-direction: column; gap: 8px; padding: 18px 18px 16px;
+    border: 1px solid var(--line); border-radius: 15px; background: rgba(255, 255, 255, 0.022);
+    transition: border-color 0.24s var(--ease), transform 0.24s var(--ease), background 0.24s var(--ease);
+  }
+  .hp:hover { border-color: hsl(var(--h) 70% 62% / 0.45); background: hsl(var(--h) 70% 60% / 0.07); transform: translateY(-2px); }
+  .hp-glyph {
+    width: 32px; height: 32px; border-radius: 10px; display: grid; place-items: center; font-size: 15px; line-height: 1;
+    color: hsl(var(--h) 78% 74%); background: hsl(var(--h) 62% 52% / 0.14); border: 1px solid hsl(var(--h) 62% 62% / 0.26);
+  }
+  .hp-nm { font-family: var(--sg); font-size: 16px; font-weight: 600; }
+  .hp-tag { font-size: 12.5px; line-height: 1.55; color: var(--muted); }
+  .hp-st { margin-top: 4px; font-family: var(--sg); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--faint); }
+  .hp-st--live { color: rgba(70, 211, 154, 0.85); }
+  .hp-st--polishing { color: rgba(255, 178, 122, 0.85); }
+  .hp-st--new { color: rgba(211, 194, 255, 0.85); }
+</style>

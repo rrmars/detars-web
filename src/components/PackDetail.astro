@@ -1,0 +1,187 @@
+---
+import { nextPack, packRoute, packsRoute, type PackMeta } from "@/lib/packs/catalog";
+import { getPacksCopy } from "@/lib/packs/copy";
+import { withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale; meta: PackMeta };
+const { locale, meta } = Astro.props;
+const copy = getPacksCopy(locale);
+const c = copy.packs[meta.key];
+const ui = copy.ui;
+const next = nextPack(meta.slug);
+const nextName = copy.packs[next.key].name;
+---
+
+<article class="pack" style={`--h:${meta.hue}`}>
+  <section class="page-head shell">
+    <div class="reveal">
+      <a class="back" href={withLocale(locale, packsRoute)}>← {ui.backLabel}</a>
+      <div class="ident">
+        <span class="glyph" aria-hidden="true">{meta.glyph}</span>
+        <div>
+          <div class="row">
+            <span class="nm">{c.name}</span>
+            <span class={`st st--${meta.status}`}>{ui.statusLabels[meta.status]}</span>
+          </div>
+          <p class="tag">{c.tagline}</p>
+        </div>
+      </div>
+      <h1 set:html={c.h1} />
+      <p class="lede" set:html={c.answer} />
+      <div class="stats">
+        {c.stats.map((s) => (<div class="it"><span class="n">{s.n}</span><span class="l">{s.l}</span></div>))}
+      </div>
+    </div>
+  </section>
+
+  <section class="band shell" style="padding-top:34px;">
+    <div class="io reveal">
+      <div class="io-col">
+        <span class="io-lab">{ui.sendLabel}</span>
+        <p set:html={c.youSend} />
+      </div>
+      <div class="io-arrow" aria-hidden="true">→</div>
+      <div class="io-col io-col--out">
+        <span class="io-lab">{ui.getLabel}</span>
+        <p set:html={c.youGet} />
+      </div>
+    </div>
+
+    <div class="sec reveal">
+      <h2 set:html={ui.insideH2} />
+    </div>
+    <div class="feats reveal">
+      {
+        c.features.map((f) => (
+          <div class="feat">
+            <h3 set:html={f.title} />
+            <p set:html={f.body} />
+          </div>
+        ))
+      }
+    </div>
+
+    <div class="proof-wrap reveal">
+      <div class="proof-copy">
+        <h2 set:html={ui.proofH2} />
+        <p set:html={c.proofNote} />
+      </div>
+      <div class="evidence">
+        <div class="ev-head"><span>{c.proof.head}</span><span class="lab">{c.proof.lab}</span></div>
+        <div class="ev-body">{c.proof.body.map((line) => (<div set:html={line} />))}</div>
+      </div>
+    </div>
+
+    <div class="sec reveal">
+      <h2 set:html={ui.honestH2} />
+      <p class="sec-intro" set:html={ui.honestIntro} />
+      <ul class="honest">{c.honest.map((h) => <li set:html={h} />)}</ul>
+    </div>
+
+    <div class="foot reveal">
+      <a class="btn-primary" href={withLocale(locale, "/download")} set:html={ui.ctaLabel} />
+      <a class="next" href={withLocale(locale, packRoute(next.slug))} style={`--h:${next.hue}`}>
+        <span class="nx-lab">{ui.nextLabel}</span>
+        <span class="nx-nm"><span class="nx-glyph" aria-hidden="true">{next.glyph}</span>{nextName} →</span>
+      </a>
+    </div>
+  </section>
+</article>
+
+<style>
+  .back { font-size: 13.5px; color: var(--faint); transition: color 0.2s; }
+  .back:hover { color: var(--accent2); }
+
+  .ident { display: flex; align-items: center; gap: 16px; margin-top: 26px; }
+  .glyph {
+    width: 54px; height: 54px; border-radius: 16px; display: grid; place-items: center; flex-shrink: 0;
+    font-size: 25px; line-height: 1; color: hsl(var(--h) 78% 74%);
+    background: hsl(var(--h) 62% 52% / 0.14); border: 1px solid hsl(var(--h) 62% 62% / 0.28);
+  }
+  .ident .row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .ident .nm { font-family: var(--sg); font-size: 19px; font-weight: 700; }
+  .ident .tag { margin-top: 5px; font-size: 14.5px; color: var(--muted); line-height: 1.55; max-width: 52ch; }
+  .st { font-family: var(--sg); font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; padding: 4px 9px; border-radius: 999px; white-space: nowrap; }
+  .st--live { color: var(--green); background: rgba(70, 211, 154, 0.1); border: 1px solid rgba(70, 211, 154, 0.28); }
+  .st--polishing { color: var(--accent2); background: rgba(255, 106, 61, 0.1); border: 1px solid rgba(255, 106, 61, 0.3); }
+  .st--new { color: #d3c2ff; background: rgba(160, 130, 255, 0.11); border: 1px solid rgba(160, 130, 255, 0.32); }
+
+  .pack h1 { margin-top: 30px; font-weight: 800; font-size: clamp(34px, 5vw, 62px); line-height: 1.06; letter-spacing: -0.03em; max-width: 18ch; }
+  .pack h1 :global(.o) { color: var(--accent2); }
+  .lede { margin-top: 24px; max-width: 58ch; font-size: 17.5px; line-height: 1.75; color: var(--muted); }
+  .lede :global(b) { color: var(--text); font-weight: 500; }
+
+  .stats { display: flex; flex-wrap: wrap; margin-top: 38px; border: 1px solid var(--line); border-radius: 16px; overflow: hidden; background: rgba(255, 255, 255, 0.025); }
+  .stats .it { flex: 1 1 190px; padding: 18px 24px; display: flex; flex-direction: column; gap: 5px; border-right: 1px solid var(--line); }
+  .stats .it:last-child { border-right: none; }
+  .stats .n { font-family: var(--sg); font-size: 22px; font-weight: 700; color: hsl(var(--h) 78% 76%); letter-spacing: -0.01em; }
+  .stats .l { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+
+  .io { display: grid; grid-template-columns: 1fr auto 1fr; gap: 24px; align-items: stretch; margin-top: 30px; }
+  .io-col { border: 1px solid var(--line); border-radius: 16px; padding: 22px 24px; background: rgba(255, 255, 255, 0.02); }
+  .io-col--out { border-color: hsl(var(--h) 62% 62% / 0.26); background: hsl(var(--h) 62% 52% / 0.06); }
+  .io-lab { font-family: var(--sg); font-size: 11.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); }
+  .io-col p { margin-top: 10px; font-size: 15.5px; line-height: 1.7; color: var(--muted); }
+  .io-arrow { align-self: center; color: var(--faint); font-size: 18px; }
+
+  .sec { max-width: 760px; margin-top: 56px; }
+  .sec h2 { font-weight: 700; font-size: clamp(24px, 2.8vw, 34px); letter-spacing: -0.02em; }
+  .sec-intro { margin-top: 12px; font-size: 16px; line-height: 1.7; color: var(--muted); max-width: 58ch; }
+
+  .feats { display: grid; grid-template-columns: repeat(auto-fit, minmax(268px, 1fr)); gap: 16px; margin-top: 24px; }
+  .feat { border: 1px solid var(--line); border-radius: 16px; background: rgba(255, 255, 255, 0.022); padding: 22px; }
+  .feat h3 { font-size: 17px; font-weight: 600; line-height: 1.4; }
+  .feat p { margin-top: 9px; font-size: 14.5px; line-height: 1.7; color: var(--muted); }
+
+  .proof-wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; margin-top: 66px; padding-top: 44px; border-top: 1px solid var(--line); }
+  .proof-copy h2 { font-weight: 700; font-size: clamp(24px, 2.8vw, 34px); letter-spacing: -0.02em; }
+  .proof-copy p { margin-top: 16px; font-size: 16px; line-height: 1.75; color: var(--muted); }
+  .proof-copy p :global(b) { color: var(--text); font-weight: 500; }
+  .evidence { border: 1px solid var(--line2); border-radius: 18px; background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.015)); box-shadow: 0 30px 70px rgba(0, 0, 0, 0.45); overflow: hidden; }
+  .ev-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 13px 18px; border-bottom: 1px solid var(--line); font-family: var(--mono); font-size: 12px; color: var(--faint); }
+  .ev-head .lab { color: var(--accent2); }
+  .ev-body { padding: 18px; font-family: var(--mono); font-size: 12.5px; line-height: 1.95; color: var(--muted); overflow-x: auto; }
+  .ev-body :global(.ok) { color: var(--green); }
+  .ev-body :global(.hl) { color: var(--accent2); }
+  .ev-body :global(.dim) { color: var(--faint); }
+  html.motion .evidence .ev-body > div { opacity: 0; transform: translateY(5px); }
+  html.motion .evidence.play .ev-body > div { animation: packline 0.45s var(--ease) forwards; }
+  html.motion .evidence.play .ev-body > div:nth-child(1) { animation-delay: 0.05s; }
+  html.motion .evidence.play .ev-body > div:nth-child(2) { animation-delay: 0.22s; }
+  html.motion .evidence.play .ev-body > div:nth-child(3) { animation-delay: 0.39s; }
+  html.motion .evidence.play .ev-body > div:nth-child(4) { animation-delay: 0.56s; }
+  html.motion .evidence.play .ev-body > div:nth-child(5) { animation-delay: 0.73s; }
+  @keyframes packline { to { opacity: 1; transform: none; } }
+
+  .honest { list-style: none; padding: 0; margin: 22px 0 0; max-width: 66ch; border-top: 1px solid var(--line); }
+  .honest li { padding: 18px 0 18px 26px; border-bottom: 1px solid var(--line); font-size: 15.5px; line-height: 1.75; color: var(--muted); position: relative; }
+  .honest li::before { content: "—"; position: absolute; left: 0; top: 18px; color: var(--faint); }
+  .honest li :global(b) { color: var(--text); font-weight: 500; }
+
+  .foot { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-top: 56px; }
+  .next { display: flex; flex-direction: column; gap: 4px; text-align: right; transition: transform 0.2s var(--ease); }
+  .next:hover { transform: translateX(3px); }
+  .nx-lab { font-family: var(--sg); font-size: 11.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint); }
+  .nx-nm { font-size: 17px; font-weight: 500; color: var(--text); display: inline-flex; align-items: center; gap: 8px; }
+  .nx-glyph { color: hsl(var(--h) 78% 74%); }
+
+  @media (max-width: 860px) {
+    .io { grid-template-columns: 1fr; gap: 12px; }
+    .io-arrow { transform: rotate(90deg); justify-self: center; }
+    .proof-wrap { grid-template-columns: 1fr; gap: 30px; }
+    .foot { flex-direction: column; align-items: flex-start; }
+    .next { text-align: left; }
+  }
+</style>
+
+<script is:inline>
+  (() => {
+    if (!document.documentElement.classList.contains("motion")) return;
+    if (!("IntersectionObserver" in window)) return;
+    const io = new IntersectionObserver(
+      (es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("play"); io.unobserve(e.target); } }),
+      { threshold: 0.4 }
+    );
+    document.querySelectorAll(".evidence").forEach((el) => io.observe(el));
+  })();
+</script>

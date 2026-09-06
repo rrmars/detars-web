@@ -1,0 +1,18 @@
+---
+import PackDetail from "@/components/PackDetail.astro";
+import Base from "@/layouts/Base.astro";
+import { packRoute, packs, type PackMeta } from "@/lib/packs/catalog";
+import { getPacksCopy } from "@/lib/packs/copy";
+
+export function getStaticPaths() {
+  return packs.map((meta) => ({ params: { slug: meta.slug }, props: { meta } }));
+}
+
+const locale = "en" as const;
+const { meta } = Astro.props as { meta: PackMeta };
+const c = getPacksCopy(locale).packs[meta.key];
+---
+
+<Base locale={locale} route={packRoute(meta.slug)} title={c.metaTitle} description={c.metaDescription}>
+  <PackDetail locale={locale} meta={meta} />
+</Base>

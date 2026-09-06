@@ -28,7 +28,7 @@ export const homeJa: HomeCopy = {
   ],
   scenarios: [
     { av: "📷", pack: "ペットケア", via: "Telegram", meta: "pack: pet-care", input: "愛犬の写真を撮って、送っただけ", work: "編集 · キャプション作成", result: "✓ 面白いショート動画 + SNSキャプション完成" },
-    { av: "💡", pack: "投資", via: "Slack", meta: "pack: equity · コードで売買を禁止", input: "ある銘柄の話を聞いて、ふと尋ねただけ", work: "監視 · 証拠チェック", result: "🔔 戻ってきた：異常な動き——話す？" },
+    { av: "💡", pack: "投資", via: "Slack", meta: "pack: equity · 証券会社未接続・発注機能なし", input: "ある銘柄の話を聞いて、ふと尋ねただけ", work: "監視 · 証拠チェック", result: "🔔 戻ってきた：異常な動き——話す？" },
     { av: "🎙️", pack: "ナレーション", via: "Feishu", meta: "pack: talking-head", input: "出先でトーク動画を撮影", work: "自動編集 · 字幕付け", result: "✓ 完成版を書き出し——あなたの本物の声のまま" },
     { av: "🔍", pack: "リサーチ", via: "WeChat", meta: "pack: research", input: "気になる話を耳にして、一行投げた", work: "数時間かけて深掘り · 相互検証", result: "✓ 出典付きレポート + 継続追跡" }
   ],

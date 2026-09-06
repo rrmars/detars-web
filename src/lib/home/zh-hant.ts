@@ -28,7 +28,7 @@ export const homeZhHant: HomeCopy = {
   ],
   scenarios: [
     { av: "📷", pack: "寵物管家", via: "Telegram", meta: "pack: pet-care", input: "出門拍了張狗狗的照片,丟給它", work: "後台剪輯 · 配文案", result: "✓ 搞笑短影片 + 社群貼文文案已生成" },
-    { av: "💡", pack: "投資助手", via: "Slack", meta: "pack: equity · 程式碼層硬禁下單", input: "聽人提了一支股票,隨口問了一句", work: "持續盯盤 · 證據巡檢", result: "🔔 主動回來:有異動,要不要聊聊?" },
+    { av: "💡", pack: "投資助手", via: "Slack", meta: "pack: equity · 沒接券商,沒有下單工具", input: "聽人提了一支股票,隨口問了一句", work: "持續盯盤 · 證據巡檢", result: "🔔 主動回來:有異動,要不要聊聊?" },
     { av: "🎙️", pack: "口播數位人", via: "飛書", meta: "pack: talking-head", input: "在外拍了段口播,傳給它", work: "自動剪輯 · 配字幕", result: "✓ 成片已匯出,真人原聲沒被替換" },
     { av: "🔍", pack: "內容調研", via: "微信", meta: "pack: research", input: "路上聽到件有意思的事,一句話甩過去", work: "深挖幾小時 · 交叉核對", result: "✓ 帶出處的報告 + 後續持續追蹤" }
   ],

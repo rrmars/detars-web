@@ -1,0 +1,13 @@
+---
+import PacksIndex from "@/components/PacksIndex.astro";
+import Base from "@/layouts/Base.astro";
+import { packsRoute } from "@/lib/packs/catalog";
+import { getPacksCopy } from "@/lib/packs/copy";
+
+const locale = "en" as const;
+const { index } = getPacksCopy(locale);
+---
+
+<Base locale={locale} route={packsRoute} title={index.metaTitle} description={index.metaDescription}>
+  <PacksIndex locale={locale} />
+</Base>

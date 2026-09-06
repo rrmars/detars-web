@@ -28,7 +28,7 @@ export const homeEs: HomeCopy = {
   ],
   scenarios: [
     { av: "📷", pack: "Cuidado de mascotas", via: "Telegram", meta: "pack: pet-care", input: "Hice una foto a mi perro y se la envié", work: "edición · redacción de textos", result: "✓ Vídeo corto divertido + textos para redes listos" },
-    { av: "💡", pack: "Inversión", via: "Slack", meta: "pack: equity · bloqueado por código, sin operar", input: "Oí un dato sobre una acción y pregunté de pasada", work: "seguimiento · verificación de evidencias", result: "🔔 Volvió: movimiento inusual — ¿lo hablamos?" },
+    { av: "💡", pack: "Inversión", via: "Slack", meta: "pack: equity · sin bróker, sin herramienta de órdenes", input: "Oí un dato sobre una acción y pregunté de pasada", work: "seguimiento · verificación de evidencias", result: "🔔 Volvió: movimiento inusual — ¿lo hablamos?" },
     { av: "🎙️", pack: "Locución", via: "Feishu", meta: "pack: talking-head", input: "Grabé un clip a cámara sobre la marcha", work: "edición automática · subtítulos", result: "✓ Montaje final exportado — con tu voz real" },
     { av: "🔍", pack: "Investigación", via: "WeChat", meta: "pack: research", input: "Oí algo interesante y le solté una línea", work: "indagando durante horas · contrastando", result: "✓ Informe con fuentes + seguimiento continuo" }
   ],

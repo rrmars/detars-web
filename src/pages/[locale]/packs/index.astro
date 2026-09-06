@@ -1,0 +1,18 @@
+---
+import PacksIndex from "@/components/PacksIndex.astro";
+import Base from "@/layouts/Base.astro";
+import { packsRoute } from "@/lib/packs/catalog";
+import { getPacksCopy } from "@/lib/packs/copy";
+import { localeSegment, nonDefaultLocales, type Locale } from "@/lib/site";
+
+export function getStaticPaths() {
+  return nonDefaultLocales.map((loc) => ({ params: { locale: localeSegment[loc] }, props: { loc } }));
+}
+
+const { loc } = Astro.props as { loc: Locale };
+const { index } = getPacksCopy(loc);
+---
+
+<Base locale={loc} route={packsRoute} title={index.metaTitle} description={index.metaDescription}>
+  <PacksIndex locale={loc} />
+</Base>
