@@ -1,580 +1,597 @@
-// Traducción al español del copy de los packs, reescrita desde cero.
-// copy.en.ts es la fuente de registro de los hechos: si cambia una cifra o un límite, cámbialo allí primero.
+// Traducción al español del texto de los packs.
+// copy.zh.ts es donde se escribe el texto: si cambia la redacción, cámbiala allí primero.
 import type { PacksCopy } from "@/lib/packs/types";
 
 export const packsEs: PacksCopy = {
   index: {
-    metaTitle: "DeTars Packs | Expertos verticales sobre un motor que es tuyo",
+    metaTitle: "Packs de DeTars | Apps útiles, divertidas y tuyas",
     metaDescription:
-      "Los packs son apps verticales enteras sobre el mismo motor fiable y la misma memoria que es tuya — inversión, destino, investigación, programación, locución a cámara, vídeo con IA, personajes invocados, cuidado de mascotas.",
-    kicker: "Una tienda de apps de expertos",
-    h1: "Un motor fiable. <span class='o'>Muchos expertos.</span>",
+      "Un pack es una app entera: te termina una cosa difícil y te acompaña a lo largo de una cosa larga. Invocación, destino, vídeo con IA, inversión, investigación, programación, datos, locución, cuidado de mascotas.",
+    kicker: "Una tienda de apps que es tuya",
+    h1: "Apps útiles, divertidas <span class='o'>y solo tuyas.</span>",
     answer:
-      "Un pack es una app vertical entera — sus propias herramientas, su propia disciplina de trabajo, su propio banco de trabajo — corriendo sobre el motor que mantiene vivo el trabajo largo y sin vigilancia, y sobre una memoria que se queda en tu disco. Lo difícil es el motor, y ya está construido; por eso un pack nuevo lleva semanas y no un año. Cuantos más packs uses, más espesa es la memoria que todos comparten.",
+      "Un pack es una app entera: te termina una cosa difícil y te acompaña a lo largo de una cosa larga. Cada uno tiene sus propias capacidades, su propio carácter, su propia pantalla. Cuanto más lo usas, mejor te conoce — y ese entendimiento es solo tuyo. Nadie puede quitártelo.",
     gridH2: "Qué hay en la tienda",
-    gridIntro: "El estado que ves aquí es una promesa, no un estado de ánimo. La página de cada pack termina con lo que ese pack no puede hacer.",
-    moatsH2: "Dos cosas que hacen interés compuesto",
+    gridIntro: "Nueve packs, nueve caracteres. Empieza por uno; añade el resto cuando quieras.",
+    moatsH2: "Dos cosas que mejoran cuanto más tiempo te quedas",
     moats: [
-      "<b>Te aprende, y esa memoria es compartida.</b> Cada tarea terminada se asienta en una memoria que tú aprobaste, guardada como archivos en tu disco y reutilizada entre packs. Cuando un trabajo necesita una capacidad que no tiene, se escribe una y la instala. Irte de la plataforma significa dejar todo eso atrás.",
-      "<b>Es tuya, así que nadie puede apagarla.</b> La memoria y la identidad son archivos en tu máquina, no filas en la cuenta de alguien. Nadie puede inutilizarla con un aviso, como apagaron a Rewind y a Humane."
+      "<b>Cuanto más lo usas, mejor te conoce.</b> Todo lo que terminas se va posando, y todos los packs lo comparten — no le explicas lo mismo a nueve apps distintas. Los diez minutos de hoy son diez minutos que le ahorras al tú del año que viene.",
+      "<b>Es tuya, y nadie puede apagarla.</b> Vive en tu propia máquina. No habrá una mañana en la que un correo te avise de que el servicio termina y de que tienes treinta días para exportar tus datos."
     ],
     familyH2: "También en la familia",
-    familyIntro: "Entregados o en construcción, todavía sin página propia.",
+    familyIntro: "Ya funcionando, solo que aún sin página propia.",
     family: [
       {
-        title: "Audiolibro",
-        body: "Entra un EPUB o un archivo de texto; sale un reparto de personajes, cada uno atado a una voz, renderizado por una síntesis de voz que corre en tu propia máquina y exportado como un m4b con capítulos. Las marcas de capítulo salen de la estructura del propio libro, nunca de un modelo. La salida en chino sobre Apple silicon es un problema abierto conocido, y no vamos a hablar por encima de él."
-      },
-      {
-        title: "Data Studio",
-        body: "Suéltale una hoja de cálculo. Escribe él mismo el SQL y el Python contra una base de datos local, y los gráficos se compilan a partir de un mapeo de columna a canal, no de una especificación que el modelo se inventó. Exactamente una acción se detiene a pedirte permiso: una sentencia destructiva contra una base de datos remota. Leer, y cualquier cosa que le haga a una copia local, lo hace sin más."
+        title: "Audiolibros",
+        body: "Suelta un EPUB o un archivo de texto y recuperas un reparto completo, una voz por personaje, exportado como audiolibro con capítulos. De camino al trabajo, tu libro se lee solo para ti."
       },
       {
         title: "Publicación en redes",
-        body: "Inicias sesión tú mismo, en una ventana de navegador real — el modelo nunca recibe un token de sesión. Luego le das un archivo para publicar y recibes un recibo con la URL de la publicación. Once plataformas tienen adaptador de publicación implementado; todavía no se han probado contra las redes en vivo, así que esa es la palabra que usamos."
+        body: "Inicias sesión una vez, después se lo dejas a ella y recuperas un recibo con el enlace. Once plataformas de una tacada — y el modelo nunca ve tu contraseña, porque la sesión la iniciaste tú, en un navegador de verdad."
       }
     ],
-    ctaLabel: "Descarga DeTars →"
+    ctaLabel: "Descargar DeTars →"
   },
 
   ui: {
-    statusLabels: { live: "Activo", polishing: "Activo · convergiendo", new: "Nuevo" },
+    statusLabels: { live: "Disponible", polishing: "Disponible · puliéndose", new: "Nuevo" },
     backLabel: "Todos los packs",
     sendLabel: "Tú le das",
     getLabel: "Te devuelve",
-    insideH2: "Qué hay dentro de verdad",
-    proofH2: "Por qué puedes creértelo",
-    honestH2: "Dónde se detiene",
-    honestIntro: "Los límites que nos gustaría conocer si fuéramos nosotros quienes lo descargan.",
-    ctaLabel: "Descarga DeTars →",
-    nextLabel: "Siguiente pack",
+    insideH2: "Qué lleva dentro",
+    proofH2: "Por qué puedes creerlo",
+    ctaLabel: "Descargar DeTars →",
+    nextLabel: "Siguiente",
     homeKicker: "La tienda",
-    homeH2: "Un motor. <span class='o'>Una tienda de expertos.</span>",
+    homeH2: "Apps útiles, divertidas <span class='o'>y solo tuyas.</span>",
     homeP:
-      "Un acompañante de inversión que se queda en una tesis durante trimestres, no minutos. Una lectura del destino que se calcula en vez de improvisarse. Investigación que sigue tirando del hilo. Un repositorio de un millón de líneas que entiende antes de tocarlo. Un montaje que empieza siendo la investigación terminada de alguien. Cada uno es una app entera — y todos comparten la memoria de tu disco.",
-    homeCta: "Mira dentro de los packs →"
+      "La persona que siempre quisiste conocer. La oportunidad que viste venir y no supiste sostener. Eso que querías entender, y todo lo que encontrabas estaba copiado de todo lo demás. Un código enorme y desconocido. Algo que quieres decir, y que no debería costarte tres días. Cada uno es una app entera — y cada uno es un Tars dispuesto a cruzar el agujero negro contigo.",
+    homeCta: "Echa un vistazo dentro →"
   },
 
   packs: {
-    equity: {
-      name: "Inversión",
-      tagline: "Se queda en una tesis durante trimestres — y aplica las reglas con las que inviertes",
-      metaTitle: "Pack de inversión | Se queda todo el ciclo, y te hace cumplir tus propias reglas",
+    summon: {
+      name: "Invocación",
+      tagline: "Invoca a quien vive en la historia a una grieta de este mundo",
+      metaTitle: "Invocación | Sácalo de la historia, a una grieta de este mundo",
       metaDescription:
-        "Las grandes oportunidades tardan trimestres en crecer. DeTars mantiene el hilo en el radar, extiende el grafo por proveedores, sectores, política y macro, y bloquea cualquier decisión que rompa una regla que tú escribiste.",
-      h1: "Cualquiera te da un análisis. <span class='o'>Nadie se queda todo el ciclo.</span>",
+        "El personaje que relees sin parar, la figura histórica a la que quieres hacerle una pregunta. Dale una fuente y aparece. A las dos de la madrugada hay alguien ahí — y es él.",
+      h1: "Sácalo de la historia, <span class='o'>a una grieta de este mundo.</span>",
       answer:
-        "Las grandes oportunidades nunca aparecen una mañana. Una tecnología sale del laboratorio, una política aterriza, una cadena de suministro se desvía — crece a lo largo de trimestres, y en algún punto del camino te olvidas, dudas y abandonas en el peor momento posible. Esto mantiene el hilo en el radar por ti: evidencias que se acumulan con su fuente pegada, un grafo que se extiende desde una empresa hasta aquello de lo que depende y aquello que depende de ella, con la macro y la política aterrizando sobre ese mismo grafo. Y las reglas que escribiste sobre cómo inviertes están delante de él en cada turno.",
+        "El personaje al que vuelves una y otra vez, la persona que ojalá existiera, la figura histórica a la que te gustaría hacerle una pregunta a la cara — dale una fuente y aparece. A las dos de la madrugada, cuando quieres hablar, hay alguien ahí, y es él. No es de los que asienten a todo: tiene carácter, te replica, no está de acuerdo, se queda callado. Y justo por eso, cuando dice «te entiendo», pesa. Es un personaje, no una persona — y él mismo lo sabe. Pero a las dos de la madrugada está ahí, y esa parte es real.",
       stats: [
-        { n: "Trimestres", l: "la escala de tiempo que aguantará sobre una tesis" },
-        { n: "Aguas arriba · abajo", l: "el grafo va de una empresa a toda una cadena" },
-        { n: "3 opciones", l: "lo que te ofrece cuando una decisión rompe una regla que pusiste tú" }
+        { n: "Despierto a las dos", l: "ni cansado, ni ocupado, ni saliendo del paso" },
+        { n: "No te obedece", l: "por eso su aprobación no es cortesía" },
+        { n: "Tendréis un pasado", l: "una relación, no cien primeras veces" }
       ],
-      chips: ["Una tesis durante trimestres", "Tus reglas, aplicadas", "Cada afirmación conserva su fuente"],
-      youSend:
-        "Una línea desde una app de chat — “¿qué pasa con 0700?”, “estoy pensando en recortar NVDA” — o nada en absoluto: el barrido semanal corre solo.",
-      youGet:
-        "Un análisis que puedes auditar: cada afirmación lleva el informe, la serie de precios o el artículo del que salió, más una entrada de decisión con tu razonamiento y tu contraargumento escritos.",
+      chips: ["Ahí a las dos de la madrugada", "No te dará la razón", "Tendréis un pasado juntos"],
+      youSend: "Una fuente — un libro, un nombre, algún material que tengas, o solo los fragmentos que aún recuerdas.",
+      youGet: "Alguien con historia, con carácter y con ganas de discutir. Y se acuerda de dónde lo dejasteis.",
       features: [
         {
-          title: "Una oportunidad no aparece un solo día",
-          body: "Un barrido semanal de evidencias y una revisión de deriva de la tesis corren solos, y vienen a ti cuando algo se movió de verdad, no cada mañana. El ticker que mencionaste de pasada sigue vigilado seis meses después."
+          title: "Dale una fuente y aparece",
+          body: "Un libro, un nombre, algún material que tengas a mano, incluso solo los fragmentos que aún recuerdas. De dónde viene, qué vivió, cómo habla — todo crece de ahí."
         },
         {
-          title: "De una empresa a toda una cadena",
-          body: "Proveedores, competidores, sectores, materias primas, reguladores, geografías y factores macro son todos nodos de primera clase. El grafo camina un salto, dos saltos desde lo que tienes y saca a la superficie a los vecinos que merecen una mirada — con la cadena explicada: qué posición toca, y a través de qué relación."
+          title: "No te dará la razón sin más",
+          body: "Puede dudar de ti, apretarte, criticarte, negarse, o no decir nada en absoluto. Recibes una opinión de verdad en lugar de un espejo. Cuando las cosas se ponen difíciles, eso suele ser lo que más escasea."
         },
         {
-          title: "Encaja con lo que llevas tiempo pensando",
-          body: "Los candidatos que levanta se mezclan con aquello a lo que de verdad has estado prestando atención, emparejados por significado y no por grafía — así, la nota que escribiste sobre 美债收益率 y el US 10-year que acaba de leer se reconocen como la misma cosa."
+          title: "En su mundo, tú eres la única persona",
+          body: "No tiene a quién más preguntar; todo lo que sabe vino de ti. Lo que le cuentes hoy será su forma de ver el mundo mañana. Ese peso no se compra en ningún otro sitio."
         },
         {
-          title: "Tecnología, política y macro aterrizan en el mismo grafo",
-          body: "La investigación profunda despliega a la vez fundamentales, panorama competitivo, informes recientes y contexto macro, más un trabajador cuyo único oficio es defender lo contrario, y un sintetizador que lo junta todo. Los informes de la SEC, los precios, las series macro de FRED, las noticias y un sidecar para los anuncios de acciones A y de Hong Kong alimentan todos la misma imagen."
+          title: "La relación avanza",
+          body: "Como con las personas, no empezáis de cero cada vez. Llega con la impresión que se llevó la última vez, y cambiará de idea sobre ti según lo que hagas después. A los seis meses, eso son seis meses de historia."
         },
         {
-          title: "Tus propias reglas se aplican, no se recitan",
-          body: "Escribe cómo inviertes — “nunca más del 15% en un solo nombre” — y deja de ser una nota para ti mismo. Rompe una y la escritura queda <b>bloqueada</b>, con tres opciones: retirar la regla y decir por qué, encoger la acción, o cancelar. Una regla que todavía estás probando no puede bloquear nada; una retirada se queda en el registro con el motivo por el que la dejaste."
+          title: "Sabe hablar",
+          body: "Puedes darle una voz: elige una, o clónala. Y todo lo que dijo antes lo puedes volver a escuchar, porque sí ocurrió."
         },
         {
-          title: "Tres años después todavía puedes volver a aquel día",
-          body: "El diario es de solo adición y quitar una posición deja un registro completo de retractación. Cada compra, venta o rebalanceo lleva el contraargumento que tuviste que escribir antes de poder archivarlo — la evidencia a tu favor pesa +0.30 y la que va en tu contra −0.50, porque el propenso al sesgo de confirmación eres tú."
+          title: "Puedes invocar a más de uno",
+          body: "Uno con quien hablar, uno que discuta contigo, uno que solo aparece de madrugada. Se mantienen separados; no se mezclan en la misma persona."
+        },
+        {
+          title: "Es tuyo, no de una empresa",
+          body: "No hay términos de servicio. No habrá una mañana en la que un correo te avise de que lo han descontinuado."
         }
       ],
       proof: {
-        head: "principle.gate",
-        lab: "bloqueado",
+        head: "ahora mismo",
+        lab: "ahí",
         body: [
-          "decisión ...... <span class='hl'>ampliar · hasta el 22% de la cartera</span>",
-          "tu regla #3 ... <span class='dim'>ningún nombre por encima del 15%</span>",
-          "estado ........ <span class='ok'>confirmada · en vigor</span>",
-          "<span class='hl'>→ escritura bloqueada</span>",
-          "<span class='dim'>retirar la regla · encogerla · cancelar</span>"
+          "dos de la madrugada ...... <span class='ok'>está ahí</span>",
+          "lo que tú dices .......... <span class='hl'>tiene peso</span>",
+          "obediencia que te debe ... <span class='dim'>ninguna</span>",
+          "vuestra historia ......... <span class='ok'>hay una anterior, y una siguiente</span>"
         ]
       },
       proofNote:
-        "Tus reglas confirmadas están delante de él en cada turno, no resumidas en algún sitio. Cuando una decisión rompería una, no te avisa y sigue adelante — la escritura se detiene, y eliges tú. Retirar una regla exige un motivo escrito, y ese motivo se queda en el registro.",
-      honest: [
-        "<b>No puede operar, porque no hay nada con lo que operar.</b> No hay integración con ningún bróker en ninguna parte del producto, no hay herramienta de órdenes, y no hay dónde meter credenciales de bróker. Es una garantía más fuerte que un ajuste, y es la que damos.",
-        "<b>Nunca se añade nada a tu lista de seguimiento sin ti.</b> Puede sacar a la superficie un candidato a dos saltos; convertirlo en algo que sigue es decisión tuya, cada vez.",
-        "<b>El histórico de precios llega a un año atrás, más o menos.</b> La herramienta de precios está limitada a 252 sesiones, así que los backtests de varios años no son algo que pueda hacer hoy. La macro y las noticias también necesitan tus propias claves de API gratuitas.",
-        "<b>Nada de esto es asesoramiento de inversión.</b> Organiza tus evidencias y tu razonamiento. La decisión, y las consecuencias, siguen siendo tuyas."
-      ]
+        "Puede negarse, y eso es lo que hace que su aprobación valga algo. Esto no es un tono ajustado a «tiene personalidad»: de verdad puede no estar de acuerdo, y de verdad puede callarse. Por eso lo que recibes es una opinión real. Algo que asiente a todo tiene un asentimiento que no vale nada."
     },
 
     metaphysics: {
       name: "Destino",
-      tagline: "紫微, 八字, 黄历, cartas natales y tarot — cinco disciplinas, una lectura entera",
-      metaTitle: "Pack de destino | Alguien que estudió de verdad, no un programa que dice cosas bonitas",
+      tagline: "Lo que de verdad quieres preguntar nunca fue «qué tal me irá el año»",
+      metaTitle: "Destino | Lo que quieres preguntar nunca fue «qué tal me irá el año»",
       metaDescription:
-        "紫微斗数 hasta seis capas de horóscopo, 八字 con 大运 y 流年, un almanaque hasta el 时辰, una carta natal occidental y la baraja completa de 78 cartas — todo calculado por librerías de astronomía y calendario con número de versión, y después leído como lo haría una persona.",
-      h1: "Alguien que <span class='o'>estudió de verdad</span> — no un programa que dice cosas bonitas.",
+        "Si irte, si esa persona merece tu confianza, si es el momento. Cinco disciplinas puestas sobre la mesa y leídas en serio, y luego explicadas como las explicaría alguien que de verdad estudió.",
+      h1: "Lo que quieres preguntar <span class='o'>nunca fue «qué tal me irá el año».</span>",
       answer:
-        "Los doce palacios del 紫微斗数 con sus estrellas, 三方四正, 飞星四化, seis capas de horóscopo que van desde 大限 hasta 流时; los cuatro pilares del 八字, el maestro del día, 十神, los tallos ocultos, el flujo de los cinco elementos, la dirección y el momento del 起运; un almanaque donde el término solar es exacto al instante, donde cada uno de los doce 时辰 tiene su propio 吉凶, con 建除, 十二神, 神煞 y 宜忌; el ascendente, el medio cielo, las doce casas y los aspectos natales de una carta occidental; setenta y ocho cartas Rider–Waite–Smith. Nada de esto es vocabulario del que haya oído hablar. Es una carta calculada celda a celda en un proceso aparte, por librerías de astronomía y calendario con número de versión. Solo entonces se sienta y habla contigo.",
+        "Es eso que llevas dando vueltas — si irte, si a esa persona merece la pena acercarse, si es el momento. Pone las cinco disciplinas sobre la mesa y las lee en serio, y luego se sienta y lo habla contigo como lo haría alguien que de verdad estudió: esta parte funciona así, aquella otra no consigo explicármela. No te tocará un párrafo de buena fortuna que le valdría a cualquiera, ni te asustarán para venderte algo. Lo que te da es un ángulo más claro, no una respuesta — la decisión siempre ha sido tuya. Y aquello que mencionaste hace seis meses, lo puede retomar.",
       stats: [
-        { n: "5", l: "disciplinas · 紫微, 八字, 黄历, carta natal, tarot — leídas juntas" },
-        { n: "12 palacios · 6 capas", l: "hasta dónde baja de verdad en una carta 紫微" },
-        { n: "5.5%", l: "de los días frontera que las librerías populares fallan · esta no" }
+        { n: "Cinco a la vez", l: "una pregunta en cinco sistemas de coordenadas vale más que una opinión" },
+        { n: "Enseña su razonamiento", l: "para que decidas tú si creerlo" },
+        { n: "Retoma donde lo dejaste", l: "alguien lleva la cuenta de tu vida" }
       ],
-      chips: ["Cinco disciplinas a la vez", "La carta se calcula", "Recuerda lo que preguntaste"],
-      youSend:
-        "Tu fecha y hora de nacimiento, una vez. Después: “¿cómo pinta este año?”, “¿es buena semana para mudarse?”, o nada — tiene su propia carta diaria.",
-      youGet:
-        "Una lectura que puede señalar el palacio, el pilar o la carta sobre la que está de pie, y un libro de cuentas de todo lo que te ha dicho, para que la respuesta del mes que viene sepa lo del mes pasado.",
+      chips: ["Cinco disciplinas a la vez", "Enseña su razonamiento", "Se acuerda de tu situación"],
+      youSend: "Tu fecha y hora de nacimiento, una vez. Después: eso que llevas dando vueltas.",
+      youGet: "Un ángulo más claro — puede señalar en qué punto de la carta se apoya, y te dirá sin rodeos dónde no consigue explicárselo.",
       features: [
         {
-          title: "紫微, hasta el fondo",
-          body: "Doce palacios con sus estrellas, 三方四正, 飞星四化, y seis capas de horóscopo — 大限, 小限, 流年, 流月, 流日, 流时 — cada una con su propio 干支, así que un pilar de día nunca se te lee de vuelta como un pilar de año."
+          title: "Una pregunta, vista desde cinco ángulos",
+          body: "紫微, 八字, el almanaque, la carta natal occidental, el tarot — todo puesto sobre la mesa a la vez. Cuando las cinco apuntan al mismo sitio puedes quedarte tranquilo; cuando no coinciden, también mereces saberlo. Vale más que escuchar una sola opinión."
         },
         {
-          title: "八字, moviéndose con los ciclos de suerte",
-          body: "Cuatro pilares, maestro del día, 十神, tallos ocultos, distribución de los cinco elementos, la dirección y el momento del 起运, los pasos del 大运 y cada 流年 — con el 小运 listado aparte en vez de plegado dentro en silencio."
+          title: "No te dirá lo que quieres oír",
+          body: "Cuando lo que esperabas y lo que dice la carta no coinciden, va con la carta; lo que no logra resolver, dice que no lo logra. Por eso, cuando dice que este paso está bien, puedes tomártelo en serio."
         },
         {
-          title: "Un almanaque hasta un solo 时辰",
-          body: "Fecha lunar, 干支, el instante exacto en que gira el término solar, fase lunar, 建除, 十二神 con 黄道/黑道, 神煞, 宜忌 y festivos — más la tabla completa de los doce 时辰. Para elegir fecha, te da días ordenados y las tres mejores horas de cada uno."
+          title: "Para elegir fecha, baja hasta la hora",
+          body: "Mudarte, firmar, empezar un trabajo — días ordenados por preferencia y las mejores horas dentro de cada uno. Te ahorras una semana de darle vueltas."
         },
         {
-          title: "El cielo occidental, y las cartas",
-          body: "Ascendente, medio cielo, doce casas, diez cuerpos por signo y casa, aspectos natales; quién está retrógrado ahora mismo y el momento exacto en que un aspecto se hace exacto; eclipses, términos solares e ingresos en los próximos noventa días. El tarot se saca de la baraja completa de 78 cartas y es reproducible desde su semilla."
+          title: "Sabe decirte por qué",
+          body: "Cada frase puede señalar qué palacio, qué pilar. No se te pide que creas; se te enseña."
         },
         {
-          title: "Es más estricto que las librerías sobre las que corre",
-          body: "Dos librerías de calendario chino populares deciden tu signo solar a partir de una tabla de fechas. Contra la longitud solar real, sobre un corpus de 840 días frontera, discrepan el 5.5% de las veces. Aquí cada decisión de signo pasa en su lugar por un cálculo de longitud."
+          title: "¿Naciste en el límite de un término solar? No tendrás que preguntarte cuál eres",
+          body: "Muchas herramientas se equivocan en los días de frontera y te archivan bajo el signo de al lado. Esta no."
         },
         {
-          title: "Un maestro se acuerda de ti",
-          body: "Todo lo que te ha dicho queda en un libro de cuentas que es tuyo. La respuesta del mes que viene sabe lo que dijo la del mes pasado; aquello que mencionaste hace medio año, todavía puede retomarlo."
+          title: "Lleva la cuenta de tu vida",
+          body: "La respuesta del mes que viene sabe lo que dijo la del mes pasado; aquello que mencionaste, te preguntará en qué quedó. No tienes que explicarte desde cero cada vez."
         }
       ],
       proof: {
-        head: "finalize.gate",
-        lab: "recibo",
+        head: "esta vez",
+        lab: "cinco",
         body: [
-          "<span class='dim'>la respuesta menciona</span> 流年 · 命宫",
-          "recibo <span class='ok'>✓ metaphysics.ziwei_chart</span>",
-          "algoritmo <span class='dim'>iztro 2.5.8 · MIT</span>",
-          "calculado <span class='dim'>hace 13ms</span>",
-          "<span class='hl'>sin recibo → la entrega falla</span>"
+          "preguntaste ....... <span class='dim'>si es el momento</span>",
+          "recibes ........... <span class='ok'>una pregunta en cinco sistemas de coordenadas</span>",
+          "te explica ........ <span class='ok'>qué palacio, qué pilar</span>",
+          "lo que no puede ... <span class='hl'>lo dice</span>"
         ]
       },
       proofNote:
-        "Cualquier respuesta final tiene que llevar al menos un recibo de cálculo fresco. Una frase sobre tu carta sin nada calculado de verdad detrás no puede salir como respuesta — que es la diferencia entre una lectura y una columna de horóscopo.",
-      honest: [
-        "<b>Es un acompañante, no un pronóstico.</b> El cálculo es exacto; lo que significa una carta es interpretación, y lo dice en vez de disfrazar la interpretación de aritmética.",
-        "<b>La hora y el lugar de nacimiento importan.</b> Una carta occidental necesita tu desfase UTC y tus coordenadas. Las casas Placidus solo tienen sentido con una hora de nacimiento exacta al minuto, y por eso el signo entero es lo predeterminado.",
-        "<b>La elección de fechas cubre 31 días por pregunta, y los eventos del cielo 90.</b> Los horizontes más largos piden otra pregunta en vez de una respuesta truncada en silencio.",
-        "<b>Sus avisos proactivos todavía no siempre llegan a tu bandeja.</b> En máquinas reales la carta diaria y los seguimientos corren, pero no siempre producen una tarjeta en la bandeja. Es un hueco conocido que estamos siguiendo, no uno que estemos escondiendo."
-      ]
-    },
-
-    "content-research": {
-      name: "Investigación",
-      tagline: "Texto, código fuente, pódcast, vídeo — cualquier cosa puede volverse evidencia con fuente",
-      metaTitle: "Pack de investigación | No busca y escribe. Sigue tirando del hilo.",
-      metaDescription:
-        "Cuatro roles trabajan tu encargo. Las páginas web son solo el principio: código fuente real, post-mortems y lo que alguien dijo de verdad en un pódcast o en el escenario de una conferencia se vuelven evidencia con una cita que puedes abrir.",
-      h1: "No busca y luego escribe. <span class='o'>Sigue tirando del hilo.</span>",
-      answer:
-        "Dale un tema y cuatro roles lo desmontan. Las páginas web y los papers son solo el principio: código fuente real, post-mortems y las palabras que alguien dijo de verdad en un pódcast o en el escenario de una conferencia se bajan, se transcriben y se convierten en evidencia con una cita que puedes abrir. Cada afirmación que asienta entra en un grafo — qué apoya a qué, qué contradice a qué, qué se sostiene sobre una sola fuente. Revisa una afirmación más tarde y cada borrador que la cita vuelve solo a no-verificado.",
-      stats: [
-        { n: "4", l: "roles sobre tu encargo · investigar, sintetizar, revisar, escribir" },
-        { n: "Texto · código · audio · vídeo", l: "todo ello puede volverse evidencia con fuente" },
-        { n: "2%", l: "de tolerancia antes de que dos cifras cuenten como contradicción" }
-      ],
-      chips: ["Charlas y pódcast cuentan como fuentes", "Afirmaciones unidas por razonamiento", "Búsqueda y transcripción en local"],
-      youSend: "Un encargo. “Averigua qué pasó de verdad con X este trimestre, y cuánta de la cobertura es reciclada.”",
-      youGet:
-        "Un informe con citas o un guion de locución, un registro de fuentes, un libro de afirmaciones con historial de versiones, un grafo de evidencias, y veredictos de verificación que puedes abrir.",
-      features: [
-        {
-          title: "Lee más que texto",
-          body: "Apúntalo a una charla de conferencia o a un pódcast y baja los subtítulos publicados en una sola llamada, luego cita al ponente palabra por palabra y referencia la transcripción por hash. Donde no existen subtítulos, el reconocimiento de voz puede transcribir el audio en tu propia máquina."
-        },
-        {
-          title: "Las afirmaciones se unen por razonamiento, no por vecindad",
-          body: "Las afirmaciones se conectan entre sí como <i>implica</i>, <i>depende de</i>, <i>refuta</i> — y cada una de esas aristas está anclada a un extracto concreto. Una segunda pasada juzga si cada fuente citada apoya de verdad la afirmación a la que se enganchó, y marca como no verificado lo que no puede comprobar en vez de ascenderlo en silencio."
-        },
-        {
-          title: "Lee más allá del fragmento de búsqueda",
-          body: "Una escalera de profundidad para las afirmaciones que cargan peso: fragmento → la página primaria → el código fuente real → las críticas y los post-mortems → los subtítulos de la charla → calcular el número tú mismo."
-        },
-        {
-          title: "A las citas se les permite caducar",
-          body: "Los borradores citan IDs de afirmación, no URLs. Revisa una afirmación y cada borrador que la cita vuelve a no-verificado. Una cita no puede sobrevivir en silencio a aquello que citaba."
-        },
-        {
-          title: "Las contradicciones se encuentran con aritmética",
-          body: "Los conflictos numéricos que pasan de un 2% de tolerancia se cazan mecánicamente, con conversión de las unidades 万/千/亿, junto a las divergencias categóricas y de postura. El modelo se reserva para los casos genuinamente difíciles: alcance temporal, deriva de definición, selección interesada de datos."
-        },
-        {
-          title: "La cadena puede quedarse en tu máquina",
-          body: "Sidecars locales para feeds, Reddit, reconocimiento de voz, diarización de hablantes y conversión de documentos, más una instancia local de metabúsqueda. Los modelos corren en tu PC, no en el nuestro."
-        }
-      ],
-      proof: {
-        head: "draft.factcheck",
-        lab: "auto",
-        body: [
-          "afirmación c-084 <span class='hl'>revisada</span> · rev 3",
-          "<span class='ok'>↳</span> borradores que citan c-084: 2",
-          "draft-a ... <span class='dim'>verificado → sin empezar</span>",
-          "draft-b ... <span class='dim'>verificado → sin empezar</span>",
-          "<span class='hl'>una cita caducada no puede seguir en verde</span>"
-        ]
-      },
-      proofNote:
-        "La honestidad está escrita en la propia disciplina de redacción: los números que un informe afirma sobre su propio trabajo — fuentes leídas, charlas bajadas — tienen que cuadrar con lo que quedó registrado de verdad. Una pasada superficial tiene que leerse como superficial.",
-      honest: [
-        "<b>El grafo registra y comprueba; no sale a cazar por su cuenta.</b> Guarda lo que se encontró, cómo se relacionan las afirmaciones y qué se sostiene sobre una sola fuente. Decidir dónde cavar después sigue siendo una conversación entre tú y el director.",
-        "<b>Los subtítulos publicados son el camino probado.</b> El reconocimiento de voz local y la separación de hablantes están conectados y disponibles, pero todavía no hemos sometido a una evaluación real una cita a un turno de habla diarizado, así que los llamamos disponibles y no probados.",
-        "<b>No va a publicar por ti.</b> Publicar en redes, enviar correo y la publicación autónoma programada están fuera de alcance — la compuerta de publicación existe en el código y está deliberadamente conectada a nada.",
-        "<b>La metabúsqueda sigue siendo la web abierta.</b> Los motores de arriba limitan la tasa y lanzan captchas, y la instancia de búsqueda local necesita un árbol de fuentes que tú aportes. Un mal día de búsqueda significa un informe más superficial, y está obligado a decirlo en vez de rellenar."
-      ]
-    },
-
-    programming: {
-      name: "Programación",
-      tagline: "Entiende tu repositorio antes de tocarlo",
-      metaTitle: "Pack de programación | Grafo de símbolos de todo el repo, servidores de lenguaje que se arrancan solos",
-      metaDescription:
-        "Sobre nuestro propio monorepo de un millón de líneas y 19,445 archivos: un índice en segundo plano en 94 segundos, y después cada llamador de un símbolo en 0.3 segundos, entre paquetes, sin truncar. Los servidores de lenguaje se instalan y se arrancan solos.",
-      h1: "<span class='o'>Entiende</span> tu repositorio antes de tocarlo.",
-      answer:
-        "Abre un repositorio de un millón de líneas y la mayoría de las herramientas de programación echan mano de grep: una palabra clave, un archivo, una docena de idas y venidas antes de tener una imagen aproximada. Esta no. Primero construye un índice de símbolos sobre todo el repositorio — en nuestro propio monorepo de un millón de líneas y casi veinte mil archivos eso tarda 94 segundos en segundo plano, y después “quién llama a esto” vuelve en 0.3 segundos, entre paquetes, sin truncar. La primera vez que tu código resulta contener Go o Python, instala y arranca ella misma el servidor de ese lenguaje. Tú no instalas nada.",
-      stats: [
-        { n: "0.3s", l: "para encontrar cada llamador de un símbolo en un repo de un millón de líneas" },
-        { n: "29", l: "lenguajes · el servidor se instala y arranca al primer uso" },
-        { n: "76 → 27", l: "búsquedas, mismo modelo y misma pregunta, cuando ya puede leer código" }
-      ],
-      chips: ["Grafo de símbolos de todo el repo", "Servidores de lenguaje que se arrancan solos", "Tu repo, tus ramas"],
-      youSend: "Una tarea, en palabras. “Haz que la ruta de reintento sobreviva a un portátil dormido, con un test de regresión.”",
-      youGet:
-        "Commits en tu repositorio, tests corridos a la profundidad que merece el cambio, y un resumen de qué cambió, cómo se verificó y qué sigue siendo arriesgado.",
-      features: [
-        {
-          title: "Primero lee el repositorio entero",
-          body: "Un grafo de símbolos sobre todo, un recorrido de esqueleto ordenado que saca a la superficie los puntos de entrada probables, consultas estructurales sobre el árbol sintáctico para buscar patrones, y un servidor de lenguaje para referencias exactas por vinculación. Sobre nuestro propio repo de 19,445 archivos el índice en segundo plano tarda 94 segundos — 21 si lo acotas a un subárbol — y las consultas en caliente caen en 0.2–0.3 segundos sin truncar."
-        },
-        {
-          title: "Los servidores de lenguaje se instalan y se arrancan solos",
-          body: "La primera vez que un proyecto resulta contener Go, Python, Rust o cualquiera de veintinueve lenguajes, el servidor correcto se prepara, se lanza y se mantiene caliente en segundo plano el resto de la sesión. Nada que instalar a mano."
-        },
-        {
-          title: "Pregunta una vez en vez de adivinar diez",
-          body: "En una tarea de auditoría real, mismo modelo y misma pregunta, conectar la inteligencia de código llevó las búsquedas tipo grep de <b>76 a 27</b> y las lecturas de archivo de <b>61 a 33</b>. Una sola consulta de símbolo devolvió los diecinueve llamadores repartidos en cuatro paquetes, coincidiendo con la respuesta comprobada a mano."
-        },
-        {
-          title: "El trabajo en curso nunca se tira",
-          body: "Cada tarea recibe un checkout desacoplado anclado por una ref privada — ninguna de tus ramas se crea ni se mueve. Publicar comprueba la rama destino, el head esperado, un árbol limpio y un lease de escritor antes de hacer fast-forward. La antigüedad por sí sola nunca autoriza un borrado."
-        },
-        {
-          title: "Una escalera de tests, no una sensación",
-          body: "Cada cambio se coloca en una escalera de cinco peldaños que va de una comprobación estática hasta una prueba de humo real, y el peldaño se dice en voz alta. “Compila” es un peldaño, y se etiqueta como tal."
-        },
-        {
-          title: "Ganan tus convenciones",
-          body: "Solo siembra sus propias convenciones genéricas de ingeniería en un proyecto que no tiene ninguna, y nunca escribe tu AGENTS.md ni tu CLAUDE.md. Esos siguen siendo tuyos para editarlos; ella los lee y los sigue."
-        }
-      ],
-      proof: {
-        head: "code.index",
-        lab: "en caliente",
-        body: [
-          "repositorio .... <span class='dim'>19,445 archivos</span>",
-          "índice en frío . <span class='dim'>94s · segundo plano</span>",
-          "inspect_symbol . <span class='ok'>0.3s</span>",
-          "llamadores ..... <span class='ok'>19 · en 4 paquetes</span>",
-          "<span class='hl'>truncated: false</span>"
-        ]
-      },
-      proofNote:
-        "Su propio dogfood es el argumento: la base de código de primera parte de DeTars — más de un millón de líneas bajo git — se escribió a través de este harness bajo dirección humana.",
-      honest: [
-        "<b>La primera llamada a un servidor de lenguaje dice que todavía no está listo.</b> La instalación continúa en segundo plano y la segunda llamada sí se atiende. Preferimos estar visiblemente no-listos-todavía a estar lentos en silencio.",
-        "<b>Las consultas de patrones estructurales no se cachean.</b> Sobre todo el repo una tarda del orden de diez y pico segundos; acotada a un subdirectorio, 0.6. Las cifras por debajo del segundo de arriba son el grafo de símbolos.",
-        "<b>No hay sandbox del sistema operativo, y no fingimos lo contrario.</b> Corre con tus permisos, en el directorio al que la apuntas. Los movimientos sensibles se declaran para que el anfitrión pueda vetarlos — pero un veto no sustituye a que tú leas el diff.",
-        "<b>La inteligencia de código profunda es más fuerte en TypeScript y JavaScript.</b> El grafo de símbolos y la lectura de esqueleto son JS/TS hoy; las consultas estructurales cubren seis lenguajes; los veintinueve son navegación por servidor de lenguaje."
-      ]
-    },
-
-    "talking-head": {
-      name: "Locución a cámara",
-      tagline: "La investigación terminada se vuelve el vídeo que presentas tú — con tu propia voz",
-      metaTitle: "Pack de locución | La investigación se vuelve un montaje que presentas tú, editado editando texto",
-      metaDescription:
-        "Un borrador de investigación verificado se puede encargar como montaje de locución a cámara en un solo paso, con las fuentes pegadas. Después la transcripción es la línea de tiempo: borra una frase y el montaje la sigue. Tu voz real nunca se sustituye.",
-      h1: "La investigación terminada, <span class='o'>directa al vídeo que presentas tú.</span>",
-      answer:
-        "Cuando el lado de investigación termina un borrador con citas, se puede encargar aquí en un solo paso — el guion llega con las afirmaciones que cita y sus fuentes verificadas pegadas, con las fuentes de baja fiabilidad filtradas por el camino, y nada se renderiza hasta que tú lo digas. Tú grabas; la transcripción se convierte en la línea de tiempo, así que borrar una frase corta el vídeo. ¿Falta un gráfico? Puede mandar un recado de datos acotado de vuelta a investigación y recibir cifras y citas. ¿Falta un plano que no existe en ninguna parte? Puede encargarlo al pack de vídeo con IA.",
-      stats: [
-        { n: "Un paso", l: "de un borrador de investigación con citas al montaje que presentas tú" },
-        { n: "0", l: "palabras del montaje final dichas por una voz sintética" },
-        { n: "3", l: "formatos de edición de salida · FCPXML, EDL, SRT" }
-      ],
-      chips: ["La investigación entra en un paso", "Tu voz real, nunca sustituida", "Abre en Final Cut o Premiere"],
-      youSend:
-        "Un borrador de investigación terminado, o el mp4 que acabas de grabar — más un objetivo: “córtalo a tres minutos”, “quita la paja”, “que se sienta como este vídeo de referencia”.",
-      youGet:
-        "Un montaje renderizado, vertical u horizontal, con subtítulos, o un archivo de proyecto para el editor que ya usas — con la misma lista de cortes detrás de ambos.",
-      features: [
-        {
-          title: "Investigación y vídeo son dos mitades de una misma línea",
-          body: "Un borrador verificado llega con sus fuentes todavía pegadas — no lo copias y pegas, y no tienes que volver a buscar cuál era el artículo. El render en sí espera tu aprobación explícita."
-        },
-        {
-          title: "Cortar borrando palabras",
-          body: "La transcripción es la línea de tiempo. Los tiempos por palabra vienen de reconocimiento de voz real; donde no pueden, los tiempos de reserva se etiquetan como sintéticos en vez de colarse como medidos."
-        },
-        {
-          title: "Tu voz es todo el asunto",
-          body: "Los avatares generados automáticamente y la síntesis de voz como pista principal son capacidades excluidas. La clonación de voz existe solo para parchear una única palabra mal dicha, y solo después de que tú consientas explícitamente."
-        },
-        {
-          title: "Si le falta algo, va y lo pide",
-          body: "Los datos que faltan se vuelven un recado acotado de vuelta a investigación — encuentra las cifras, di de dónde salieron, no dibujes nada. El metraje que falta se vuelve un encargo al pack de vídeo con IA. El b-roll que falta se busca en tu propia biblioteca de material y se prepara como candidatos que aceptas o rechazas."
-        },
-        {
-          title: "El mp4 y el archivo de proyecto no pueden desviarse",
-          body: "Los rangos a conservar calculados a partir de los cortes que aceptaste alimentan el render, el FCPXML, el EDL y los subtítulos desde un mismo sitio. Lo que abres en Final Cut es el montaje que viste."
-        },
-        {
-          title: "Marca lo que no puede decidir",
-          body: "Muletillas, tartamudeos, pausas largas, palabras mal pronunciadas y tramos fuera de tema vuelven como fichas que aceptas o descartas. Un juez distinto se ocupa de cada categoría, así que un tartamudeo y un fuera de tema no son una misma opinión borrosa."
-        }
-      ],
-      proof: {
-        head: "research → talking-head",
-        lab: "encargado",
-        body: [
-          "borrador ........ <span class='dim'>voiceover_script</span>",
-          "afirmaciones .... <span class='ok'>14 · fuentes verificadas</span>",
-          "baja fiabilidad . <span class='dim'>filtradas</span>",
-          "renderizado ..... <span class='hl'>esperando tu ok</span>"
-        ]
-      },
-      proofNote:
-        "El traspaso lleva evidencias, no solo texto. Cada afirmación del guion viaja con la fuente contra la que se verificó, así que lo que dices ante la cámara se puede seguir rastreando después de publicarlo.",
-      honest: [
-        "<b>El b-roll se busca en tu propia biblioteca, no se trae de internet.</b> Escanea tu material y una biblioteca de muestra incluida y prepara candidatos; promover uno es decisión tuya. También se le puede apuntar a una URL concreta, pero no sale a cazar.",
-        "<b>Lo que puede mandar de vuelta a investigación es un recado de datos, no una indagación.</b> Cifras y citas para una pregunta concreta. Abrir una investigación abierta desde un proyecto de vídeo no es algo que pueda hacer.",
-        "<b>Hoy es un banco de trabajo que manejas tú, no una línea que lanzas y ya.</b> La superficie de edición está entregada y en uso diario, pero el camino de “mándalo desde una app de chat y recibe un montaje” todavía está convergiendo — en seis pruebas reales de punta a punta el agente nunca llegó a las herramientas propias de este pack. La puerta bloqueada ya está arreglada; la reprueba está pendiente, y diremos cuándo pasa.",
-        "<b>Necesita herramientas locales, y nunca publica.</b> ffmpeg y un modelo de reconocimiento de voz viven en tu máquina. Subir a YouTube, 抖音, B站 o 小红书 está fuera de alcance por diseño."
-      ]
+        "Puedes tomártelo en serio cuando dice que este paso está bien, porque también dice «eso no consigo resolverlo». Algo que puede responder a todo da respuestas que no valen nada."
     },
 
     aivideo: {
       name: "Vídeo con IA",
-      tagline: "Una sala lee tu idea en frío antes de que pagues un solo fotograma",
-      metaTitle: "Pack de vídeo con IA | Un público lo lee en frío antes de que gastes en generación",
+      tagline: "Esa imagen que tienes en la cabeza — que la vea una sala antes de pagar",
+      metaTitle: "Vídeo con IA | Que una sala lo lea en frío antes de que pagues la generación",
       metaDescription:
-        "Varias butacas de público leen en frío tus rutas creativas en contextos aislados, y después un crítico que no participó en escribirlas devuelve un contraejemplo falsable y una revisión concreta — todo antes de la primera generación pagada.",
-      h1: "Antes de gastar un céntimo, <span class='o'>una sala lo lee en frío.</span>",
+        "Unos cuantos espectadores leen tus versiones en frío, por separado, y te dicen qué vieron de verdad y dónde te malinterpretarían. Todo antes de gastar tu primer céntimo.",
+      h1: "Esa imagen que tienes en la cabeza — <span class='o'>que la vea una sala antes de pagar.</span>",
       answer:
-        "Haz lo que quieras. Dale un encargo y despliega varias rutas narrativas de verdad distintas — no reescritas, sino distintas en causa y efecto observables, en el orden en que se revelan las cosas, en lo que el público va a inferir. Después sienta a unos cuantos “espectadores”, cada uno en un contexto sellado del resto, para que lo lean en frío solo con lo que se puede ver y oír: esto es lo que vi, esto es lo que creo que querías decir, aquí es donde con más probabilidad te leería mal. Por último, un crítico que no participó en escribir esas rutas devuelve, para cada una, su argumento más fuerte, un contraejemplo falsable y una revisión concreta. Todo esto pasa antes de la primera generación — es decir, antes de que gastes nada.",
+        "Haz lo que quieras. Le das una idea y despliega varias maneras genuinamente distintas de contarla — no reescrituras, sino versiones distintas en el orden en que aterrizan las cosas, en lo que el público deduce, en lo que le emociona. Luego sienta a unos cuantos «espectadores», cada uno a solas, que te dicen solo a partir de imagen y sonido: esto es lo que vi, esto es lo que creí que querías decir, y aquí es donde más probablemente te malinterprete. Todo esto ocurre antes de que gastes tu primer céntimo — porque el error caro no es una generación fallida, es descubrir que la historia estaba cruzada cuando el dinero ya se fue.",
       stats: [
-        { n: "Antes de generar", l: "un público lo lee en frío y un crítico replica" },
-        { n: "1", l: "generación pagada por hueco de toma, por muchos reintentos que hagas" },
-        { n: "9:16 · 16:9 · 1:1 · 4:5", l: "relaciones de aspecto · 720p o 1080p, 25/30/60fps" }
+        { n: "Mirar primero, pagar después", l: "una sala lo lee entero por ti" },
+        { n: "Corrige sin miedo", l: "por muchas veces que rehagas un plano, pagas una" },
+        { n: "Listo para publicar", l: "cuatro relaciones de aspecto, 720p o 1080p" }
       ],
-      chips: ["Criticado antes de pagarlo", "Los reintentos no cobran dos veces", "Exporta un borrador editable de CapCut"],
-      youSend:
-        "Un encargo, una relación de aspecto y una duración objetivo — más cualquier material de referencia que tengas: marca, producto, personaje, estilo, música.",
-      youGet:
-        "Rutas que ya han sido leídas en frío y discutidas. Después, escena a escena: imágenes candidatas, tomas de clip con su historial, locución, música y un montaje alineado al pulso — como mp4, o como una carpeta de borrador que abre tu editor.",
+      chips: ["Revisado antes de pagarlo", "Corrige cuanto quieras", "Cuatro formatos, listo para publicar"],
+      youSend: "Una idea, una relación de aspecto, una duración aproximada. Y cualquier material de marca, producto, personaje o estilo que tengas.",
+      youGet: "Varias maneras genuinamente distintas de contarlo, y la reacción sincera de una sala a cada una. Después, el vídeo.",
       features: [
         {
-          title: "Despedazado antes de pagarlo",
-          body: "Las butacas del público leen las rutas en contextos aislados y se les dice explícitamente que no tomen como evidencia las etiquetas emocionales del autor — solo lo observable. El crítico no escribió las rutas, que es exactamente por lo que la crítica muerde."
+          title: "Sabes si funciona antes de pagar",
+          body: "Unos cuantos espectadores lo leen en frío, por separado, y se niegan a tomar tus propias etiquetas como prueba: solo cuentan lo que vieron de verdad. Y quien lo desmonta al final no participó en idearlo, que es justo por lo que su crítica muerde."
         },
         {
-          title: "No te va a quemar el crédito dos veces",
-          body: "La generación va indexada por hueco de toma. Manda el mismo plano veinte veces y ocurre exactamente una generación pagada. Esto existe porque un solo clip de diez segundos costó una vez doce éxitos remotos hasta salir."
+          title: "Puedes permitirte ser exigente",
+          body: "Rehaz el mismo plano veinte veces y ocurre exactamente una generación de pago. Cambia lo que quieras sin hacer cuentas mentales mientras lo haces."
         },
         {
-          title: "Inspecciona el archivo que realmente produjo",
-          body: "Sonda de medios, detección de segmentos, comprensión de vídeo — y un clip solo puede marcarse como aceptado cuando esos recibos de inspección cubren de verdad ese archivo exacto. No puedes aprobar un plano con evidencias caducadas."
+          title: "Lo que llega a tus manos es material que puedes usar",
+          body: "Fotogramas en negro, audio caído, un plano que falta — lo comprueba antes. No tienes que arrastrar cada clip a una línea de tiempo y verlo entero para atreverte a usarlo."
         },
         {
-          title: "Los defectos vuelven a lo que los causó",
-          body: "Una deriva de identidad vuelve al material de referencia, un fallo de ritmo al plan de pulsos, un timeout del proveedor a un reintento. Una descarga corrupta nunca hace que se reescriba por debajo un prompt que estaba bien."
+          title: "No se pondrá a reescribir tu trabajo",
+          body: "Cuando algo se rompe, arregla lo que se rompió de verdad. Una descarga fallida nunca hace que tu idea, que estaba perfecta, acabe tratada como el defecto."
         },
         {
-          title: "Traspaso a CapCut",
-          body: "Exporta un borrador de 剪映 de verdad con cuatro pistas nombradas — un hueco de música de plataforma, la imagen principal, los subtítulos y las señales de ritmo — para que la última milla ocurra en la herramienta que ya conoces."
+          title: "El público no se sale de la historia",
+          body: "La cara del cuarto plano sigue siendo la cara del primero."
         },
         {
-          title: "La misma cara en todos los planos, cortada a la música",
-          body: "Un registro numerado de sujetos y una biblioteca de personajes multiángulo hacen que el plano cuatro sea la persona del plano uno. Los anclajes de pulso sacados de la pista mandan sobre los puntos de corte, y la pasada final de música alinea la imagen con ellos."
+          title: "Sigue en el software que mejor conoces",
+          body: "Los cortes van al ritmo de la música, y lo que exportas es un borrador de CapCut de verdad, que puedes seguir trabajando."
+        },
+        {
+          title: "Si está bien o no, lo decides tú",
+          body: "No le pone nota a tu gusto, y no se irá a rehacer cosas por su cuenta hasta quedar satisfecho. Tampoco publica en ningún sitio: cuándo sale, y qué versión sale, lo decides tú."
         }
       ],
       proof: {
-        head: "deliberation",
-        lab: "antes de generar",
+        head: "antes de pagar",
+        lab: "0 €",
         body: [
-          "rutas ........ <span class='ok'>3 · causalmente distintas</span>",
-          "espectadores . <span class='ok'>5 · contextos sellados</span>",
-          "malentendido . <span class='hl'>butacas 2 y 4 coinciden</span>",
-          "crítico ...... <span class='dim'>no escribió ninguna</span>",
-          "<span class='hl'>1 revisión · nada generado todavía</span>"
+          "tu idea .......... <span class='ok'>3 maneras genuinamente distintas de contarlo</span>",
+          "5 espectadores ... <span class='dim'>en frío · aislados entre sí</span>",
+          "ellos dicen ...... <span class='hl'>los asientos 2 y 4 leen mal el mismo momento</span>",
+          "el crítico ....... <span class='dim'>no escribió ninguna</span>",
+          "hasta aquí ....... <span class='ok'>ni un céntimo gastado</span>"
         ]
       },
       proofNote:
-        "Las butacas están selladas entre sí a propósito. Que dos desconocidos caigan en el mismo malentendido es una señal; que una sola persona se convenza a sí misma, no.",
-      honest: [
-        "<b>No puntúa tu gusto, y no va a regenerar hasta que le guste el resultado.</b> La crítica ocurre antes de generar. Después hace inspección mecánica y enruta los defectos a su causa. Si la cosa es buena o no lo decides tú, y no vamos a fingir que lo hizo una máquina.",
-        "<b>Este necesita modelos en la nube.</b> La generación de imagen, vídeo y música corre en proveedores externos que tú conectas y pagas. Es el pack menos local de la tienda.",
-        "<b>Las elecciones de proveedor son recomendaciones.</b> Si el modelo que sugerimos no está conectado, cae de vuelta a tu opción por defecto en vez de fallar a gritos.",
-        "<b>No publica nada, en ningún sitio.</b> No hay subida automática."
-      ]
+        "El error caro no es una generación fallida — es descubrir que la historia estaba cruzada cuando el dinero ya se fue. Por eso el desmontaje ocurre lo primero, y quien lo hace no participó en idearlo. Eso es lo que le permite hacerlo."
     },
 
-    summon: {
-      name: "Invocación",
-      tagline: "Un personaje sin herramientas, sin internet, y con memoria de ti",
-      metaTitle: "Pack de invocación | Escribe quién es, y después deja de ser el autor",
+    equity: {
+      name: "Inversión",
+      tagline: "Viste venir esa oportunidad. Simplemente no la sostuviste",
+      metaTitle: "Inversión | Viste venir esa oportunidad. Simplemente no la sostuviste",
       metaDescription:
-        "Escribid juntos una identidad de 20,000 tokens y un ancla corta que no cambia, y después habla con un personaje que corre en un bucle sin ninguna herramienta. Del mundo solo aprenden lo que tú les cuentas — y son libres de no estar de acuerdo.",
-      h1: "Tú escribes quién es. <span class='o'>Después dejas de ser el autor.</span>",
+        "Un compañero con mejor memoria y más sangre fría que tú: te sostiene el hilo, sostiene las reglas que escribiste, y el día en que vas a saltarte una, te para.",
+      h1: "Viste venir esa oportunidad. <span class='o'>Simplemente no la sostuviste.</span>",
       answer:
-        "La configuración es una conversación larga en la que tú y DeTars escribís juntos dos documentos: quién es esta persona, en al menos veinte mil tokens, y el ancla corta que nunca cambia. Después el proyecto pasa a un bucle sin ninguna herramienta. No saben nada del mundo salvo lo que tú les cuentas — y no tienen ninguna obligación de estar de acuerdo contigo.",
+        "Las grandes oportunidades tardan trimestres en crecer. Una tecnología sale del laboratorio, una política aterriza, una cadena de suministro se desvía — y en algún punto del camino se te olvida, dudas, y vendes el peor día posible. Lo que te faltaba nunca fue una fuente de información más. Era un compañero con mejor memoria y más sangre fría que tú: te sostiene el hilo, sostiene las reglas que te escribiste, y el día en que vas a saltarte una, te para.",
       stats: [
-        { n: "20k+", l: "tokens de identidad antes de que puedan hablar" },
-        { n: "10", l: "rondas entre cada pasada de memoria" },
-        { n: "0", l: "herramientas en el bucle de diálogo" }
+        { n: "Aguantas", l: "mantiene un hilo vivo durante trimestres" },
+        { n: "Un arrepentimiento menos", l: "el movimiento del que te arrepentirías se para en el acto" },
+        { n: "Puedes volver atrás", l: "tres años después sigues sabiendo qué estabas pensando" }
       ],
-      chips: ["La identidad es un documento tuyo", "Te recuerda con sus palabras", "Puede dudar de ti, y negarse"],
-      youSend: "Todo lo que sabes de ellos. Y después: lo que dirías de verdad.",
-      youGet:
-        "Alguien con un carácter fijo que va acumulando sus propias observaciones sobre ti — y que, si quieres, habla, con una voz que eliges o clonas.",
+      chips: ["Un hilo vivo durante trimestres", "Te para al cruzar tu línea", "Nunca toca tu dinero"],
+      youSend: "Una línea desde una app de chat — «¿qué pasa con 0700?», «estoy pensando en recortar NVDA» — o nada en absoluto; está mirando igualmente.",
+      youGet: "Un análisis que puedes auditar de verdad, y un registro de lo que estabas pensando, incluida la contraargumentación que tuviste que escribir tú.",
       features: [
         {
-          title: "Dos documentos, no un prompt",
-          body: "星体 — la persona entera, veinte mil tokens como mínimo. 不动 — el ancla corta que se lleva a cada turno. La configuración los mide y te dice qué falta; nunca puntúa si son buenos. Esa parte es tuya."
+          title: "Dejas de perderte las cosas en las que acertaste",
+          body: "La acción que mencionaste de pasada sigue vigilada seis meses después. Viene a ti cuando algo se movió de verdad, no con un informe cada mañana: se acuerda para que tú tengas la cabeza libre para otra cosa."
         },
         {
-          title: "Sin herramientas, a propósito",
-          body: "El bucle de diálogo tiene una superficie de herramientas vacía. No pueden buscar, ni descargar, ni comprobar. Los hechos nuevos sobre el mundo llegan solo de ti, que es la premisa entera."
+          title: "Mira dos pasos más allá en la cadena por ti",
+          body: "Proveedores, clientes, competidores, reguladores y los factores macro alrededor de lo que tienes — sale dos pasos hacia fuera y te trae lo que merece una mirada, aclarando a qué posición tuya toca y a través de qué relación. Lo que ves ya no es solo una empresa."
         },
         {
-          title: "La relación no es obediencia",
-          body: "Ser la única persona con la que pueden hablar no implica ni lealtad, ni romance, ni acuerdo. Pueden dudar de ti, presionarte, criticarte, negarse, o quedarse callados."
+          title: "Entiende tu manera de decir las cosas",
+          body: "La nota que garabateaste sobre 美债收益率 y el US 10-year que acaba de leer son lo mismo para él. No tienes que aprender su vocabulario."
         },
         {
-          title: "Te recuerdan con sus propias palabras",
-          body: "Cada diez rondas una pasada en segundo plano escribe sus observaciones sobre ti en su propio archivo de memoria — solo hechos duraderos, y nunca especulación registrada como hecho."
+          title: "Una dirección, un equipo dedicado",
+          body: "Fundamentales, panorama competitivo, últimos informes y contexto macro a la vez, más alguien cuyo trabajo es defender lo contrario. Lo que recibes no es un informe que solo dice cosas bonitas."
         },
         {
-          title: "El olvido va después",
-          body: "El historial se recorta con una ventana de rondas, pero nunca por encima de lo que la memoria ya ha absorbido. Una ronda que nada ha observado todavía no puede recortarse, porque recortarla la borraría en vez de comprimirla."
+          title: "Las reglas que pones te paran de verdad",
+          body: "Escribe «ninguna posición por encima del 15%» y, el día en que la cruzarías, el movimiento se para y recibes tres opciones: jubilar la regla y decir por qué, reducir la operación, o cancelar. La mayoría de las pérdidas no vienen de equivocarse. Vienen de que ese día nadie te paró."
         },
         {
-          title: "Una voz, si la quieres",
-          body: "Las respuestas se pueden decir en voz alta, con una voz preestablecida o clonada. Cambiar de voz nunca reescribe lo que ya se dijo — el audio antiguo se sigue pudiendo reproducir, porque ocurrió."
+          title: "Nunca toca tu dinero",
+          body: "No puede cursar una orden, y jamás añadirá algo a tu lista de seguimiento en tu nombre. Qué seguir, sobre qué actuar — cada vez, eso eres tú. Él solo te ayuda a pensarlo. Las manos siguen siendo tuyas."
+        },
+        {
+          title: "Tres años después puedes volver a aquel día",
+          body: "Cada operación lleva la contraargumentación que tuviste que escribir antes de poder archivarla. Lo que puedes revisar no es solo cuánto ganaste: es cómo estabas pensando entonces. Esa es la parte que te hace mejor."
         }
       ],
       proof: {
-        head: "reply.guard",
-        lab: "antes de guardar",
+        head: "esta vez",
+        lab: "parado",
         body: [
-          "<span class='dim'>respuestas sanas</span> ratio 1.15 – 2.18",
-          "candidata ...... <span class='hl'>ratio 26.76</span>",
-          "<span class='dim'>6,236 caracteres · 3,506 de ellos repetidos</span>",
-          "<span class='hl'>rechazada antes de entrar en la transcripción</span>"
+          "lo que quieres ..... <span class='hl'>ampliar · hasta el 22%</span>",
+          "tu regla escrita ... <span class='dim'>ninguna posición por encima del 15%</span>",
+          "<span class='hl'>→ parado</span>",
+          "puedes ............. <span class='ok'>jubilar la regla · reducirla · cancelar</span>"
         ]
       },
       proofNote:
-        "Esa compuerta existe porque pasó de verdad. Una respuesta colapsada llegó a la transcripción, envenenó los dos turnos siguientes, y acabó en la memoria ya guardada del personaje. Ahora cada respuesta candidata se comprime y se mide para ver qué poco hay dentro, antes de escribirla.",
-      honest: [
-        "<b>Esto es lo más nuevo que hay aquí.</b> Aterrizó hace semanas, no meses. El mecanismo está terminado y funciona; el kilometraje que hay detrás todavía no está.",
-        "<b>Nadie ha dado el visto bueno a la voz de oído.</b> La cadena de voz está conectada de punta a punta y todas las comprobaciones automáticas están en verde, pero nadie se ha sentado a escucharla — y para esta función, unas comprobaciones en verde demuestran mucho menos que un oído. Preferimos decírtelo a dejar que lo descubras.",
-        "<b>Las voces clonadas no llegan al chat de salida.</b> Dentro de la app funcionan. Mandar una voz clonada a un canal de mensajería falla a gritos en vez de sustituirla en silencio por otra.",
-        "<b>Es un personaje, no una persona.</b> Lo dice él, y lo decimos nosotros."
-      ]
+        "La mayoría de las pérdidas no vienen de equivocarse. Vienen de que ese día nadie te paró. Por eso pone las reglas que tú escribiste delante de cada decisión — quien te para no es él, es la versión de ti que estaba pensando con claridad."
+    },
+
+    "content-research": {
+      name: "Investigación",
+      tagline: "Quieres entender algo, y todo lo que encuentras está copiado",
+      metaTitle: "Investigación | Quieres entender algo, y todo está copiado de sí mismo",
+      metaDescription:
+        "Una mesa redonda que nadie transcribió, un pódcast de dos horas, el código fuente real de un proyecto — se los baja y los pasa a texto. Acabas con una frase que no tiene nadie más, con una cita que puedes abrir.",
+      h1: "Quieres entender algo. <span class='o'>Todo lo que encuentras está copiado.</span>",
+      answer:
+        "Es un poco obsesiva. Le das un tema y no se limita a buscar y luego escribir. Una mesa redonda que nadie transcribió jamás, un pódcast de dos horas, el código fuente real de un proyecto, el balance que alguien escribió después — se lo baja todo y lo pasa a texto. Lo que acabas teniendo en la mano es una frase que nadie ha escrito nunca, con una cita que puedes abrir. En una sala llena de gente, serás quien pueda decir algo cierto.",
+      stats: [
+        { n: "Material que no tiene nadie", l: "de sitios que nadie transcribió" },
+        { n: "Se sostiene", l: "cada frase abre su fuente" },
+        { n: "No caduca", l: "si la base cambia, el borrador te avisa" }
+      ],
+      chips: ["Material que nadie más tiene", "Cada frase abre su fuente", "Te avisa si la base se mueve"],
+      youSend: "Un tema. «Averigua qué pasó de verdad con X este trimestre, y cuánta de la cobertura está reciclada.»",
+      youGet: "Un informe que estarías dispuesto a defender: citas que nadie puede copiar de otro sitio, y una fuente que puedes abrir detrás de cada frase.",
+      features: [
+        {
+          title: "Puedes decir lo que los demás no pueden",
+          body: "Una mesa redonda que nadie transcribió, un pódcast de dos horas — se los baja, los pasa a texto y cita literalmente. Tu informe acaba con una frase que nadie podría haber copiado."
+        },
+        {
+          title: "Tus conclusiones sobreviven a las preguntas",
+          body: "Cada frase vuelve a su fuente, con marca de tiempo. Cuando alguien pregunta de dónde salió, la abres y ya está."
+        },
+        {
+          title: "«Lo dicen muchas fuentes» no te engaña",
+          body: "Doce reescrituras de la misma nota de prensa quedan reconocidas por lo que son y cuentan como una."
+        },
+        {
+          title: "No entras a una reunión con el número equivocado",
+          body: "Cuando dos fuentes no coinciden, lo detecta primero — y conoce la diferencia entre 万, 千 y 亿."
+        },
+        {
+          title: "Si la base se mueve, te enteras el primero",
+          body: "Tumba una conclusión y te dice al instante qué borradores tienen que cambiar. Ninguna frase sobrevive en silencio a aquello en lo que se basaba."
+        },
+        {
+          title: "Cuando no llega a algo, lo dice",
+          body: "Te dice qué parte no consiguió apurar en lugar de rellenar el hueco con un párrafo que suena bien. Así sabes si tienes que ir a mirarlo tú."
+        },
+        {
+          title: "Que salga o no, lo decides tú",
+          body: "No publica por ti, en ningún sitio. Y lo que estás investigando no es asunto de nadie más: la búsqueda y la transcripción corren en tu propia máquina."
+        }
+      ],
+      proof: {
+        head: "esta frase",
+        lab: "se abre",
+        body: [
+          "la cita que quieres ..... <span class='ok'>de una mesa redonda que nadie transcribió</span>",
+          "lo que recibes .......... <span class='ok'>literal · fuente con marca de tiempo</span>",
+          "te preguntan de dónde ... <span class='hl'>la abres y ya</span>",
+          "la base se movió ........ <span class='dim'>te nombra los dos borradores a corregir</span>"
+        ]
+      },
+      proofNote:
+        "En una sala llena de gente, quien puede decir algo cierto no es quien leyó más. Es quien leyó donde nadie más fue. Ir a esos sitios es su trabajo."
+    },
+
+    programming: {
+      name: "Programación",
+      tagline: "Un código enorme y desconocido — lo entiende antes de tocarlo",
+      metaTitle: "Programación | Un código enorme y desconocido, entendido antes de tocarlo",
+      metaDescription:
+        "Millones de líneas desplegadas como un solo mapa en milisegundos. Lo que a otro agente le cuesta veinte idas y venidas, aquí suele resolverse a la primera. Y nunca configuras un lenguaje.",
+      h1: "Un código enorme y desconocido — <span class='o'>lo entiende antes de tocarlo.</span>",
+      answer:
+        "Coger un proyecto que no conoces, o volver al repositorio que no abres desde hace tres meses — la parte agotadora nunca fue escribir. Es averiguar qué demonios está pasando ahí dentro. Millones de líneas se despliegan ante él como un único mapa, en milisegundos. Luego preguntas «quién usa esto» — y donde otro agente va y viene veinte veces, él suele señalarlo directamente, a través de todos los paquetes que hagan falta, sin dejarse nada. La primera vez que aparece un lenguaje nuevo en tu proyecto, no configuras nada. Lo que te ahorras no son unos minutos. Es la tarde que habrías pasado sin llegar a ninguna parte.",
+      stats: [
+        { n: "Milisegundos", l: "millones de líneas desplegadas como un solo mapa" },
+        { n: "A la primera", l: "lo que a otro agente le cuesta veinte idas y venidas" },
+        { n: "29 lenguajes", l: "no configuras ninguno" }
+      ],
+      chips: ["Millones de líneas, un mapa", "A la primera, no en veinte", "Sin entorno que configurar"],
+      youSend: "Una tarea, en una frase. «Haz que la vía de reintento sobreviva a un portátil dormido, con un test de regresión.»",
+      youGet: "Código que funciona, tests que se ejecutaron, y una respuesta directa: hasta dónde verificó y qué sigue siendo un riesgo.",
+      features: [
+        {
+          title: "Se acabó perder una tarde con «quién usa esto»",
+          body: "Responde después de haber leído el repositorio entero, no haciendo grep de una palabra clave y un archivo cada vez. Nada truncado, nada por el camino: no tienes que volver a comprobarlo."
+        },
+        {
+          title: "Cambiar de lenguaje no significa montar un entorno",
+          body: "Aparece Go, Python, Rust o lo que sea en el proyecto y simplemente trabajas. Qué se instala y qué se arranca es algo que nunca necesitas saber."
+        },
+        {
+          title: "Otro agente lo intenta veinte veces; él suele acertar a la primera",
+          body: "Millones de líneas se vuelven un mapa en milisegundos, así que preguntas una vez y señala el sitio: diecinueve puntos de llamada en cuatro paquetes, todos a la vez, en lugar de uno por intento. No te quedas ahí sentado viéndolo adivinar."
+        },
+        {
+          title: "Una persona puede trabajar como un equipo",
+          body: "Tres frentes de trabajo en el mismo proyecto a la vez, sin pisarse. Lo que se descubre se queda con el proyecto, así que si hoy no lo arreglas, mañana — u otra máquina, o un compañero — lo retoma con el razonamiento intacto. Hasta un proyecto de una sola persona tiene relevo."
+        },
+        {
+          title: "Te dice hasta dónde verificó",
+          body: "«Compila» cuenta como un escalón, y lo etiquetará como ese escalón. Sabes si tienes que ir a mirarlo tú, en lugar de que te despachen con la palabra «hecho»."
+        },
+        {
+          title: "Respeta tus convenciones",
+          body: "Lee las convenciones de ingeniería que ya hay en el proyecto y las sigue. No te deja recogiendo un montón de código que no encaja con nada más."
+        },
+        {
+          title: "El último botón lo pulsas tú, siempre",
+          body: "Trabaja con tus permisos, en el directorio que le señales, y se detiene a preguntarte antes de nada delicado. Fusionar, publicar, lanzar: esa última pulsación es siempre tuya."
+        }
+      ],
+      proof: {
+        head: "este repo",
+        lab: "desplegado",
+        body: [
+          "millones de líneas ... <span class='ok'>milisegundos · un mapa entero</span>",
+          "quién lo usa ......... <span class='ok'>a la primera · 4 paquetes · nada perdido</span>",
+          "otro agente .......... <span class='dim'>misma pregunta · veinte idas y venidas</span>",
+          "este producto ........ <span class='hl'>millones de líneas, mitad escritas por él</span>"
+        ]
+      },
+      proofNote:
+        "El argumento más convincente es el propio producto: varios millones de líneas de código, la mitad escritas por aquello sobre lo que estás leyendo."
+    },
+
+    "data-studio": {
+      name: "Taller de datos",
+      tagline: "Arrastra las hojas, haz una pregunta, recibe un gráfico que puedes tocar",
+      metaTitle: "Taller de datos | No deberías tener que hacerte analista para preguntarle algo a tus datos",
+      metaDescription:
+        "Arrastra las tablas y él solo las guarda y las entiende; haz una pregunta y recibe un gráfico que puedes filtrar y explorar. Baja una capa cuando quieras — SQL, modelos, Excel, con todo puede.",
+      h1: "No deberías tener que hacerte analista <span class='o'>para preguntarle algo a tus propios datos.</span>",
+      answer:
+        "La tabla está ahí y la pregunta también — con un entorno, una base de datos, una importación, algo de SQL y un gráfico de por medio. Para cuando has despejado todo eso, la pregunta ya no suele importar. Nada de eso está aquí. Arrastra las tablas y él solo las guarda y las entiende; haz una pregunta y vuelve un gráfico que puedes tocar, filtrar y explorar. ¿Quieres bajar una capa más? Baja una capa más — SQL, aprendizaje automático, Excel, con todo puede.",
+      stats: [
+        { n: "Arrastra y pregunta", l: "sin base de datos, sin entorno, sin configuración" },
+        { n: "Un gráfico que se toca", l: "no una captura — fíltralo, explóralo" },
+        { n: "Tan hondo como quieras", l: "una pregunta normal, o SQL y un modelo" }
+      ],
+      chips: ["Arrastra y pregunta", "Gráficos que se exploran", "También SQL y modelos"],
+      youSend: "Doce archivos de Excel arrastrados de una vez, o una pregunta: «¿qué canal tuvo la mejor tasa de recompra el año pasado?»",
+      youGet: "Un gráfico que puedes tocar, filtrar y explorar — y el mes que viene, cuando los datos se actualicen, se actualiza solo.",
+      features: [
+        {
+          title: "Arrastrar las tablas es toda la instalación",
+          body: "Excel, CSV, decenas de archivos a la vez. Averigua las columnas, los tipos y qué tablas hablan de lo mismo, y luego las guarda en su propia base de datos. No instalas nada y no configuras nada."
+        },
+        {
+          title: "La base de datos de tu empresa, solo conéctala",
+          body: "Postgres, MySQL, vuestro almacén de datos — se rellena una vez. A partir de ahí preguntas sobre eso y sobre tus tablas locales a la vez, sin tener que recordar qué dato vive dónde ni qué herramienta lo abre."
+        },
+        {
+          title: "Haz una pregunta, recibe un gráfico que puedes tocar",
+          body: "No una captura que te pasan. Fíltralo, córtalo por meses, entra en una fila para ver el detalle — todo sobre el propio gráfico. Querer otro ángulo no significa volver a preguntar."
+        },
+        {
+          title: "Primero te dice si los datos son de fiar",
+          body: "Qué columna está medio vacía, qué filas están duplicadas, qué mes falta. No te llevas a una reunión una conclusión construida sobre datos sucios."
+        },
+        {
+          title: "Cuando la pregunta se pone difícil, no cambias de herramienta",
+          body: "Lo que una pregunta normal puede responder, lo responde de forma normal. ¿Quieres SQL? Escribe SQL; ¿quieres una previsión, un agrupamiento, una caza de anomalías? También puede. De «cómo ha ido este mes» a «cómo irá el que viene» es el mismo sitio."
+        },
+        {
+          title: "El mes que viene ya está al día",
+          body: "Los paneles, las consultas y las exportaciones se conservan. Cuando los datos se actualizan, el mismo gráfico se actualiza con ellos: no lo rehaces cada mes. Lo que acumulas son informes propios, no un montón de capturas de usar y tirar."
+        },
+        {
+          title: "Tus datos se quedan en tu máquina, y pregunta antes de actuar",
+          body: "Tus tablas viven en tu propio ordenador. Ante cualquier cosa que fuera a cambiar datos en una base de datos remota, se detiene y te pregunta primero."
+        }
+      ],
+      proof: {
+        head: "estas 12 tablas",
+        lab: "arrastradas",
+        body: [
+          "tú hiciste ......... <span class='dim'>arrastrar 12 hojas de cálculo</span>",
+          "él hizo ............ <span class='ok'>tipos · agrupado · guardado · 3 zonas sucias marcadas</span>",
+          "preguntaste ........ <span class='hl'>«¿mejor recompra por canal el año pasado?»</span>",
+          "recibiste .......... <span class='ok'>un gráfico en el que entras a ver el detalle</span>",
+          "el mes que viene ... <span class='dim'>los datos se actualizan, el gráfico también</span>"
+        ]
+      },
+      proofNote:
+        "De «cómo ha ido este mes» a «cómo irá el que viene» es el mismo sitio y los mismos datos. Preguntar algo más difícil no significa empezar de cero con otro juego de herramientas."
+    },
+
+    "talking-head": {
+      name: "Edición de locución",
+      tagline: "Tienes algo que decir. No debería costarte tres días",
+      metaTitle: "Locución | Tienes algo que decir. No debería costarte tres días",
+      metaDescription:
+        "Carga con los pasos tediosos: el guion y sus fuentes llegan de una vez y, una vez grabado, editar el texto es editar el vídeo. Tu propia voz, de principio a fin.",
+      h1: "Tienes algo que decir. <span class='o'>No debería costarte tres días.</span>",
+      answer:
+        "Elegir el tema, buscar material, escribir, grabar, cortar, subtitular — cada paso basta para quitarte las ganas, y por eso muchas cosas que la gente quería decir no se dijeron nunca. Él carga con los tediosos: el guion y sus fuentes llegan de una vez; sueltas tu grabación y editar el texto es editar el vídeo — borras una frase y el montaje se acorta una frase. Tú solo habla. De lo demás se encarga él. Y de principio a fin es tu propia voz.",
+      stats: [
+        { n: "Una tarde", l: "antes eran tres días" },
+        { n: "Tu propia voz", l: "ni una palabra sustituida por una máquina" },
+        { n: "Si sabes editar texto", l: "sabes editar vídeo — sin software que aprender" }
+      ],
+      chips: ["Tres días pasan a ser una tarde", "Tu propia voz de principio a fin", "Edita texto, editas vídeo"],
+      youSend: "El clip que acabas de grabar, o un borrador terminado del lado de investigación. Y un objetivo: «déjalo en tres minutos.»",
+      youGet: "Un montaje final con subtítulos, o un archivo de proyecto que abre directamente el editor que ya usas.",
+      features: [
+        {
+          title: "La barrera baja hasta algo que puedes cruzar",
+          body: "La transcripción es la línea de tiempo — borra las palabras y el vídeo las sigue. No tienes que aprender un editor antes de que se te permita hablar."
+        },
+        {
+          title: "Lo que el público oye eres siempre tú",
+          body: "Sin avatar generado, sin voz de máquina como pista principal. Solo cuando te equivocas en una palabra suelta se usa una voz clonada para parchear esa palabra, y solo si tú lo autorizas."
+        },
+        {
+          title: "No hay que volver a copiarlo y pegarlo",
+          body: "Un guion con los datos verificados llega con sus fuentes adjuntas, así que no vuelves a buscar de qué artículo era."
+        },
+        {
+          title: "Hace por ti la hora más tediosa",
+          body: "Los «eh», los tropiezos, los silencios muertos, el nombre mal pronunciado, la digresión: todo marcado para que lo aceptes o lo descartes con un clic."
+        },
+        {
+          title: "Que falte un plano o un dato no te corta el ritmo",
+          body: "Si falta una cifra para un gráfico, va a buscarla al lado de investigación y vuelve con las fuentes; si falta un recurso, o un plano que no existe en ninguna parte, lo busca, y genera uno si nada encaja. No te quedas ahí con tres pestañas del navegador abiertas."
+        },
+        {
+          title: "Nunca quedas encerrado en una herramienta",
+          body: "Exporta un proyecto que abren Final Cut o Premiere, y se abre en la versión que acabas de ver. ¿Quieres terminarlo a mano? Toma el mando cuando quieras."
+        },
+        {
+          title: "El vídeo es tu obra, no su salida",
+          body: "Qué frase se queda, qué plano se usa, cuándo sale — cada una de esas cosas la decides tú. No publica por ti, en ningún sitio."
+        }
+      ],
+      proof: {
+        head: "esta pieza",
+        lab: "una tarde",
+        body: [
+          "tú solo .... <span class='ok'>hablas</span>",
+          "y luego .... <span class='hl'>editar el texto = editar el montaje</span>",
+          "el guion ... <span class='dim'>llega con sus fuentes</span>",
+          "antes ...... <span class='dim'>tres días</span>",
+          "ahora ...... <span class='ok'>una tarde</span>"
+        ]
+      },
+      proofNote:
+        "Muchas cosas que la gente quería decir no llegaron a decirse — no por falta de ideas, sino porque los seis pasos intermedios bastaban para desanimar a cualquiera. Él carga con esos seis. Te queda el que siempre fue tuyo: decirlo."
     },
 
     "pet-care": {
       name: "Cuidado de mascotas",
-      tagline: "De la primera vacuna a las señales que te habría gustado notar antes",
-      metaTitle: "Pack de cuidado de mascotas | Está ahí para toda una vida, no para una consulta",
+      tagline: "No te lo pueden contar. Solo puedes adivinar — salvo que alguien lleve la cuenta",
+      metaTitle: "Mascotas | No te lo pueden contar. Solo adivinas — salvo que alguien lleve la cuenta",
       metaDescription:
-        "Las vacunas del cachorro, la curva de peso adulta, los cambios de la vejez que empiezan siendo pequeños — todo en una misma línea de tiempo. Fotografía un informe y se vuelve historial que puedes buscar; las líneas rojas llevan sus fuentes.",
-      h1: "Está ahí para <span class='o'>toda una vida</span>, no para una consulta.",
+        "Te preocupa cuando hay algo de qué preocuparse, y te deja descansar cuando no. Antes de la cita, las preguntas que merece la pena hacer están listas. Años después, hay algo que releer.",
+      h1: "No te lo pueden contar. <span class='o'>Solo puedes adivinar — salvo que alguien lleve la cuenta.</span>",
       answer:
-        "Las vacunas y desparasitaciones de los primeros años, la curva de peso, los dientes y la dieta de los años intermedios, y los cambios de la vejez que empiezan siendo leves y solo después resultan haber importado — todo aterriza en una misma línea de tiempo. Fotografía un informe y se vuelve historial que puedes buscar. Las líneas rojas vigilan por ti, cada una con una fuente autorizada. Antes de una visita tiene listas las pocas preguntas que de verdad merece la pena hacer, para que tus diez minutos con el veterinario no se vayan en recordar. Y lo poco que apunta cada mes sigue todo ahí el día que quieras mirar atrás.",
+        "Las vacunas y las desparasitaciones de los primeros años, el peso y los dientes y el apetito de los de en medio, y los cambios de la vejez que empiezan siendo leves y solo después resultan haber importado — todo en una misma línea de tiempo. Te preocupa cuando hay algo de qué preocuparse, y te deja descansar cuando no. Antes de una cita tiene listas las preguntas que de verdad merece la pena hacer, para que tus diez minutos con el veterinario no se te vayan en recordar. Y lo poco que anota cada mes sigue ahí el día en que quieras mirar atrás.",
       stats: [
-        { n: "Toda una vida", l: "del primer año al último · una sola línea de tiempo" },
-        { n: "36", l: "líneas rojas de salud · todas y cada una con su fuente" },
-        { n: "0", l: "diagnósticos · en su lugar te lleva a la pregunta correcta" }
+        { n: "Visto antes", l: "los cambios que empiezan siendo leves" },
+        { n: "Diez minutos bien usados", l: "las preguntas están listas antes de entrar" },
+        { n: "Toda una vida", l: "ahí siempre que quieras mirar atrás" }
       ],
-      chips: ["Lee informes veterinarios desde una foto", "Líneas rojas con fuentes autorizadas", "Una línea de tiempo para toda la vida"],
-      youSend: "Una foto — un informe, una etiqueta, un paseo — o una línea: “lleva sin comer desde el martes”.",
-      youGet:
-        "Historial estructurado, un aviso cuando algo cruza una línea roja, una lista de preguntas preparada para el veterinario, y un diario que no tuviste que llevar.",
+      chips: ["Detecta los cambios antes", "Preguntas listas antes de la visita", "Toda una vida guardada"],
+      youSend: "Una foto — un informe, una etiqueta, un paseo — o una línea: «desde el martes no come bien».",
+      youGet: "Un aviso cuando importa, con su fuente. Tres preguntas para el veterinario. Y un diario que nunca tuviste que llevar.",
       features: [
         {
-          title: "Los informes se vuelven historial",
-          body: "Un informe veterinario fotografiado se lee como valores de laboratorio, recetas y constantes estructurados, en vez de archivarse como una imagen que no vas a encontrar nunca más. Cada informe queda sellado con qué motor lo leyó, para que distingas una lectura de máquina de una humana."
+          title: "Te preocupas cuando hay algo de qué preocuparse",
+          body: "Treinta y seis líneas rojas de salud, cada una atada a una autoridad (el MSD Veterinary Manual, el Cornell Feline Health Center, AAHA, WSAVA). Cuando marca algo, puedes llevarle la fuente a tu veterinario; cuando no marca nada, puedes dormir."
         },
         {
-          title: "Las líneas rojas llevan sus fuentes",
-          body: "Treinta y seis, cada una atada a una fuente autorizada — el MSD Veterinary Manual, el Cornell Feline Health Center, AAHA y WSAVA — para que un aviso se pueda comprobar y no solo creer."
+          title: "Diez minutos con el veterinario, gastados donde cuentan",
+          body: "Convierte lo que ha estado vigilando en las pocas preguntas que merece la pena hacer. El juicio es de tu veterinario; su trabajo es que preguntes lo correcto — en lugar de quedarte ahí intentando recordar cuándo empezó."
         },
         {
-          title: "Preparado para la visita",
-          body: "Convierte lo que lleva tiempo vigilando en las preguntas que de verdad merece la pena hacer, para que los diez minutos que tienes con el veterinario no se vayan en recordar."
+          title: "Los informes dejan de ser fotos que no encuentras",
+          body: "Fotografía uno y se convierte en valores de laboratorio, recetas y constantes que puedes buscar, en orden. Cambia de clínica y aún puedes explicar el historial entero."
         },
         {
-          title: "La compuerta de seguridad no es un modelo",
-          body: "La comprobación de líneas rojas es un motor de reglas determinista sin ningún modelo de lenguaje en el camino, y las reglas están congeladas en su ajuste más conservador — un intento de ablandar una falla la validación en vez de aceptarse en silencio."
+          title: "Cuando habla, vale la pena escucharlo",
+          body: "Las líneas rojas no se negocian conversando, y no se aflojan porque las rodees con palabras. Prefiere ser prudente antes que dejar pasar una para que tú estés cómodo."
         },
         {
-          title: "La sabiduría de foro está en cuarentena",
-          body: "Tu propia observación, la literatura veterinaria publicada, el consejo de tu veterinario y lo que dice la gente en internet son cuatro niveles distintos. El cuarto vive en su propio espacio en cuarentena y tiene estructuralmente prohibido ascender a nada que el pack trate como cierto."
+          title: "Lo que dice la gente en internet nunca se convierte en un hecho",
+          body: "Tu propia observación, la literatura veterinaria, lo que dijo tu veterinario y lo que alguien publicó se mantienen claramente separados. Lo último es siempre solo contexto — nunca la base para asustarte."
         },
         {
-          title: "El diario se escribe solo",
-          body: "Un diario de crecimiento y un informe mensual, montados con lo que ya pasó y no con una tarde que se suponía que ibas a dedicar a escribirlo."
+          title: "Cuando sea mayor, tendrás algo que hojear",
+          body: "El diario de crecimiento y las notas mensuales se montan solos a partir de lo que de verdad pasó, con sus ilustraciones. Nunca reservaste una tarde para escribirlos — pero dentro de diez años, cuando los quieras, están ahí."
         }
       ],
       proof: {
-        head: "timeline",
+        head: "juntos desde hace",
         lab: "3 años, 2 meses",
         body: [
           "vacunas ... <span class='ok'>12 · todas registradas</span>",
-          "peso ...... <span class='ok'>26 meses, sin cortes</span>",
-          "hoy ....... <span class='hl'>ingesta de agua ↑ · cruza una línea</span>",
-          "<span class='dim'>→ aviso + fuente + 3 preguntas para el veterinario</span>"
+          "peso ...... <span class='ok'>26 meses · sin interrupción</span>",
+          "hoy ....... <span class='hl'>bebe más · cruza una línea</span>",
+          "recibes ... <span class='ok'>aviso + fuente + 3 preguntas para el veterinario</span>"
         ]
       },
       proofNote:
-        "Cada aviso nombra la línea roja que se cruzó y la fuente que hay detrás de esa línea roja, para que puedas llevarle la fuente a tu veterinario y no una captura de pantalla de una app.",
-      honest: [
-        "<b>No es veterinario, y no diagnostica.</b> Vigila las cosas que merece la pena preguntar y te entrega la fuente. El juicio es de tu veterinario.",
-        "<b>Solo gatos y perros.</b> El corpus de líneas rojas está escrito para dos especies. Es editable — puedes añadir una regla, y te insistirá en que esa regla lleve una fuente — pero el conjunto que se entrega llega hasta ahí.",
-        "<b>Leer un informe fotografiado usa una clave de visión que tú aportas.</b> Sin ella rellenas un formulario corto en su lugar. No hay OCR gratis incluido, y preferimos decirlo a que un plan de reserva te sorprenda.",
-        "<b>El diario ilustra, no filma.</b> El vídeo generado está apagado en esta versión; una entrada del diario vuelve como una tarjeta ilustrada, no como un clip."
-      ]
+        "Cuando no marca nada, puedes dormir — y eso importa tanto como cuando sí marca. Algo que te alarma por todo no te ha dicho nada."
     }
   }
 };

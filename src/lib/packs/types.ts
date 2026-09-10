@@ -1,15 +1,22 @@
 // Shape of the pack copy. One object per locale in ./copy.<locale>.ts.
 //
-// Every pack page answers the same five questions in the same order, because a
-// store of eight experts is only legible if the cards are comparable:
+// Every pack page answers the same four questions in the same order, because a
+// store of nine experts is only legible if the cards are comparable:
 //   1. what is it            → h1 + answer + stats
 //   2. what do I hand it     → youSend / youGet
 //   3. what is actually in it→ features
 //   4. why should I believe  → proof panel + proofNote
-//   5. where does it stop    → honest
 //
-// `honest` is not a disclaimer section bolted on at the end. It is the reason
-// the other four are worth reading, so it is required, not optional.
+// There is deliberately no "where it stops" column. A marketing page is not an
+// acceptance report: development status, coverage gaps and setup steps only
+// make a reader doubt the thing works. The genuinely load-bearing lines — it
+// cannot touch your money, you press the last button, it never publishes for
+// you — are stated POSITIVELY inside `features`, where they read as reasons to
+// trust us rather than as disclaimers. The two lines legal requires live in the
+// site footer, once, instead of on every page.
+//
+// And `stats` are the reader's payoff, never an internal metric: "an afternoon,
+// where it used to be three days", not "76 searches down to 27".
 import type { PackKey, PackStatus } from "@/lib/packs/catalog";
 
 export type PackStat = { n: string; l: string };
@@ -33,12 +40,10 @@ export type PackCopy = {
   chips: string[];
   youSend: string;
   youGet: string;
-  /** 4–6 capability cards. */
+  /** 6–7 capability cards. Each one says what the reader gets, not how it works. */
   features: PackFeature[];
   proof: PackProof;
   proofNote: string;
-  /** 3–5 limits, stated in the product's own voice. */
-  honest: string[];
 };
 
 export type PacksIndexCopy = {
@@ -65,8 +70,6 @@ export type PackUiCopy = {
   getLabel: string;
   insideH2: string;
   proofH2: string;
-  honestH2: string;
-  honestIntro: string;
   ctaLabel: string;
   nextLabel: string;
   /** Home-page rail. */

@@ -10,6 +10,7 @@ output
 # internal — keep local, do not publish
 *site-pack*/
 STATUS.md
+PACK-COPY-DRAFT*.md
 LOCAL_OVERRIDE.md
 CLAUDE.md
 AGENTS.md

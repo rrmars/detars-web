@@ -58,6 +58,14 @@ export const ui: Record<string, L> = {
     fr: "La page que vous cherchiez a été déplacée ou n'a jamais existé.",
     es: "La página que buscabas se movió o nunca existió."
   },
+  legalNote: {
+    en: "The investing pack provides information and records, not investment advice. The pet pack does not diagnose and is not a substitute for a licensed vet.",
+    zh: "投资陪伴提供的是信息与记录,不构成投资建议。宠物管家不提供诊断,不能替代执业兽医。",
+    "zh-Hant": "投資陪伴提供的是資訊與記錄,不構成投資建議。寵物管家不提供診斷,不能替代執業獸醫。",
+    ja: "投資packが提供するのは情報と記録であり、投資助言ではありません。ペットpackは診断を行わず、獣医師の代わりにはなりません。",
+    fr: "Le pack Investissement fournit de l'information et des archives, pas des conseils en investissement. Le pack animalier ne pose pas de diagnostic et ne remplace pas un vétérinaire.",
+    es: "El pack de inversión ofrece información y registros, no asesoramiento financiero. El pack de mascotas no diagnostica ni sustituye a un veterinario."
+  },
   backHome: { en: "Back home →", zh: "回首页 →", "zh-Hant": "回首頁 →", ja: "ホームへ →", fr: "Accueil →", es: "Inicio →" }
 };
 

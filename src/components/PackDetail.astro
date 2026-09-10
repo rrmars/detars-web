@@ -72,12 +72,6 @@ const nextName = copy.packs[next.key].name;
       </div>
     </div>
 
-    <div class="sec reveal">
-      <h2 set:html={ui.honestH2} />
-      <p class="sec-intro" set:html={ui.honestIntro} />
-      <ul class="honest">{c.honest.map((h) => <li set:html={h} />)}</ul>
-    </div>
-
     <div class="foot reveal">
       <a class="btn-primary" href={withLocale(locale, "/download")} set:html={ui.ctaLabel} />
       <a class="next" href={withLocale(locale, packRoute(next.slug))} style={`--h:${next.hue}`}>
@@ -153,12 +147,7 @@ const nextName = copy.packs[next.key].name;
   html.motion .evidence.play .ev-body > div:nth-child(5) { animation-delay: 0.73s; }
   @keyframes packline { to { opacity: 1; transform: none; } }
 
-  .honest { list-style: none; padding: 0; margin: 22px 0 0; max-width: 66ch; border-top: 1px solid var(--line); }
-  .honest li { padding: 18px 0 18px 26px; border-bottom: 1px solid var(--line); font-size: 15.5px; line-height: 1.75; color: var(--muted); position: relative; }
-  .honest li::before { content: "—"; position: absolute; left: 0; top: 18px; color: var(--faint); }
-  .honest li :global(b) { color: var(--text); font-weight: 500; }
-
-  .foot { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-top: 56px; }
+  .foot { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-top: 72px; }
   .next { display: flex; flex-direction: column; gap: 4px; text-align: right; transition: transform 0.2s var(--ease); }
   .next:hover { transform: translateX(3px); }
   .nx-lab { font-family: var(--sg); font-size: 11.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint); }
