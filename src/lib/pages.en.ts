@@ -87,7 +87,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
               "<b>It can't fake it.</b> &lsquo;Done&rsquo; is a receipt that must be honored: delivered, evidence-backed, peer-reviewed. Every citation is sealed by content hash — change one character and it's instantly void.",
               "<b>It has an immune system.</b> It hunts its own mistakes and turns each into permanent regression coverage. It has twice caught bugs in its own self-checking tools.",
               "<b>It's yours.</b> It lives on your machine; what it remembers needs your nod and lives as files on your disk. No one can brick it the way Rewind or Humane bricked their users.",
-              "<b>It isn't captured.</b> It routes each job to whichever brain fits — frontier US/China models or a local model on your laptop, ~50 to switch between. The engine is its own, not a wrapper on someone's API."
+              "<b>It isn't captured.</b> It routes each job to whichever brain fits — every major model, US or Chinese, or a local one on your laptop — switch whenever you like. The engine is its own, not a wrapper on someone's API."
             ]
           }
         ]
@@ -190,7 +190,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
             type: "list",
             items: [
               "A private AI team that runs locally and remembers you.",
-              "~50 frontier and local models to switch between — no lock-in.",
+              "Every major model, plus local ones, switchable at any time — no lock-in.",
               "Memory stored as files on your disk; nothing forced to a server."
             ]
           }

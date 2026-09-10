@@ -87,7 +87,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
               "<b>Elle ne peut pas faire semblant.</b> &lsquo;Terminé&rsquo; est un reçu qui doit être honoré : livré, étayé par des preuves, revu par les pairs. Chaque citation est scellée par un hash de contenu — changez un seul caractère et elle est aussitôt invalidée.",
               "<b>Elle a un système immunitaire.</b> Elle traque ses propres erreurs et fait de chacune une couverture de non-régression permanente. Elle a déjà, par deux fois, débusqué des bugs dans ses propres outils d'auto-vérification.",
               "<b>Elle est à vous.</b> Elle vit sur votre machine ; ce qu'elle retient passe par votre accord et existe sous forme de fichiers sur votre disque. Personne ne peut la bloquer comme Rewind ou Humane ont bloqué leurs utilisateurs.",
-              "<b>Elle n'est pas captive.</b> Elle dirige chaque tâche vers le cerveau le mieux adapté — modèles de pointe US/Chine ou un modèle local sur votre portable, ~50 entre lesquels basculer. Le moteur est le sien, pas une surcouche sur l'API d'un tiers."
+              "<b>Elle n'est pas captive.</b> Elle dirige chaque tâche vers le cerveau le mieux adapté — tous les grands modèles, américains ou chinois, ou un modèle local sur votre portable — vous basculez quand vous voulez. Le moteur est le sien, pas une surcouche sur l'API d'un tiers."
             ]
           }
         ]
@@ -190,7 +190,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
             type: "list",
             items: [
               "Une équipe d'IA privée qui tourne en local et se souvient de vous.",
-              "~50 modèles de pointe et locaux entre lesquels basculer — aucun verrouillage.",
+              "Tous les grands modèles, plus les modèles locaux, interchangeables à tout moment — aucun verrouillage.",
               "Une mémoire stockée sous forme de fichiers sur votre disque ; rien n'est forcé vers un serveur."
             ]
           }

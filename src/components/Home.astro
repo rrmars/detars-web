@@ -236,9 +236,11 @@ const dl = (route: string) => withLocale(locale, route);
       let done = false;
       const run = () => {
         if (done) return; done = true;
-        // First-party .ts/.tsx lines under git as of 2026-06-07 (see bombP copy).
-        if (!motion) { counter.textContent = fmt.format(1175104); return; }
-        const target = 1175104, dur = 1700, t0 = performance.now();
+        // First-party .ts/.tsx lines in the product repo. Half of them were
+        // written by the product itself — that is the claim bombP makes, and
+        // this counter is the evidence for it, so keep the two in step.
+        if (!motion) { counter.textContent = fmt.format(2547657); return; }
+        const target = 2547657, dur = 1700, t0 = performance.now();
         const step = (now) => {
           const p = Math.min(1, (now - t0) / dur), e = 1 - Math.pow(1 - p, 3);
           counter.textContent = fmt.format(Math.round(target * e));

@@ -11,7 +11,7 @@ export const homeFr: HomeCopy = {
   heroSecondary: "Voyez-la travailler pour vous",
   proof: [
     { n: "Des heures", l: "sans surveillance · même toute la nuit" },
-    { n: "~50", l: "modèles de pointe · à changer quand vous voulez" },
+    { n: "Tous", l: "les grands modèles · à changer quand vous voulez" },
     { n: "100%", l: "ce qu'elle sait reste sur votre machine" }
   ],
   verify: "· Tout ce qui est affirmé ici se vérifie sur votre propre machine — pas de la rhétorique de slide",
@@ -129,10 +129,10 @@ export const homeFr: HomeCopy = {
       foot: "<b>Du concret :</b> un routage conscient du cache — moins de tokens facturés, pas de facture qui s'emballe."
     }
   ],
-  bombCap: "lignes de code maison · comptées le 7 juin 2026",
+  bombCap: "lignes de code · écrites en six mois",
   bombH2: "On ne dit pas seulement qu'elle sait faire du travail dur — <span class='o'>elle s'est produite elle-même.</span>",
   bombP:
-    "Au <b>7 juin 2026</b>, le code de DeTars comptait <b>1 175 104 lignes réparties sur 4 889 fichiers .ts/.tsx maison</b> suivis par git — dépendances vendorisées et fichiers .d.ts générés exclus, et le runtime vendorisé, compté à part, n'est pas ajouté. La limite honnête : ce code a été écrit <b>via le propre agent harness de DeTars, sous la direction d'humains</b> — pas par une IA laissée seule. Un moteur peu fiable ne produit pas une application de cette taille qui tourne vraiment — et le chiffre se recompte dans le code source, sur-le-champ.",
+    "Plusieurs millions de lignes de code, et <b>la moitié a été écrite par le produit lui-même</b>. <b>C'est à la fois une application et le sol sur lequel vous êtes.</b> Ce que vous construisez dessus cette année ne sera pas rayé l'année prochaine parce qu'une autre entreprise l'aura emporté.",
   closeH2: "DeTars est votre terminal tiers permanent.<br><span class='grad'>Le vôtre, pas loué.</span>",
   closeP: "Une équipe d'IA privée qui vous appartient — toujours active, pilotable depuis n'importe quelle fenêtre de chat, et qui revient vers vous d'elle-même.",
   closePrimary: "Possédez-la sur votre machine →",

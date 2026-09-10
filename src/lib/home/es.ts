@@ -11,7 +11,7 @@ export const homeEs: HomeCopy = {
   heroSecondary: "Mira cómo trabaja para ti",
   proof: [
     { n: "Horas", l: "sin vigilancia · incluso toda la noche" },
-    { n: "~50", l: "modelos de frontera · cambia cuando quieras" },
+    { n: "Todos", l: "los modelos principales · cambia cuando quieras" },
     { n: "100%", l: "lo que sabe se queda en tu máquina" }
   ],
   verify: "· Todo lo que se afirma aquí puedes comprobarlo en tu propia máquina — no es retórica de presentación",
@@ -129,10 +129,10 @@ export const homeEs: HomeCopy = {
       foot: "<b>Real:</b> enrutamiento consciente de la caché — menos tokens facturados, sin facturas desbocadas."
     }
   ],
-  bombCap: "líneas de código propio · contadas el 7 de junio de 2026",
+  bombCap: "líneas de código · escritas en seis meses",
   bombH2: "No solo decimos que puede con el trabajo duro — <span class='o'>se produjo a sí misma.</span>",
   bombP:
-    "A <b>7 de junio de 2026</b>, el código de DeTars sumaba <b>1.175.104 líneas en 4.889 archivos .ts/.tsx propios</b> bajo git — excluidas las dependencias vendorizadas y los .d.ts generados, y sin sumar el runtime vendorizado, que se cuenta aparte. El matiz honesto: ese código se escribió <b>con el propio agent harness de DeTars y bajo dirección humana</b>, no por una IA dejada sola. Un motor poco fiable no produce una aplicación de este tamaño que además funcione — y la cifra se puede volver a contar en el código, en el acto.",
+    "Varios millones de líneas de código, y <b>la mitad la escribió el propio producto</b>. <b>Es a la vez una aplicación y el suelo que pisas.</b> Lo que construyas encima este año no quedará descartado el próximo porque haya ganado otra empresa.",
   closeH2: "DeTars es tu terminal de terceros permanente.<br><span class='grad'>Tuya, no alquilada.</span>",
   closeP: "Un equipo de IA privado que tú posees — siempre activo, comandable desde cualquier ventana de chat, y que vuelve a ti por sí solo.",
   closePrimary: "Tenla en tu máquina →",

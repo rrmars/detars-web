@@ -87,7 +87,7 @@ export const pagesEs: Record<PageKey, PageContent> = {
               "<b>No puede fingir.</b> &lsquo;Listo&rsquo; es un recibo que debe cumplirse: entregado, respaldado por evidencias, revisado por pares. Cada cita queda sellada por hash de contenido — cambia un solo carácter y queda anulada al instante.",
               "<b>Tiene un sistema inmunitario.</b> Caza sus propios errores y convierte cada uno en cobertura de regresión permanente. Ya ha detectado dos veces fallos en sus propias herramientas de autoverificación.",
               "<b>Es tuya.</b> Vive en tu máquina; lo que recuerda necesita tu visto bueno y vive como archivos en tu disco. Nadie puede inutilizarla como Rewind o Humane inutilizaron a sus usuarios.",
-              "<b>No está capturada.</b> Enruta cada tarea al cerebro que mejor encaje — modelos de frontera de EE. UU./China o un modelo local en tu portátil, ~50 entre los que cambiar. El motor es propio, no un envoltorio sobre la API de alguien."
+              "<b>No está capturada.</b> Enruta cada tarea al cerebro que mejor encaje — todos los modelos principales, de EE. UU. o de China, o uno local en tu portátil — cambias cuando quieras. El motor es propio, no un envoltorio sobre la API de alguien."
             ]
           }
         ]
@@ -190,7 +190,7 @@ export const pagesEs: Record<PageKey, PageContent> = {
             type: "list",
             items: [
               "Un equipo de IA privado que corre en local y te recuerda.",
-              "~50 modelos de frontera y locales entre los que cambiar — sin ataduras.",
+              "Todos los modelos principales, más los locales, intercambiables en cualquier momento — sin ataduras.",
               "Memoria guardada como archivos en tu disco; nada forzado a un servidor."
             ]
           }

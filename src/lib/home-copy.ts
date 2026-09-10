@@ -47,7 +47,7 @@ const en: HomeCopy = {
   heroSecondary: "See it work for you",
   proof: [
     { n: "Hours", l: "it works unattended · even overnight" },
-    { n: "~50", l: "frontier models · switch anytime" },
+    { n: "All", l: "the major models · switch anytime" },
     { n: "100%", l: "what it knows stays on your machine" }
   ],
   verify: "· Every claim here is one you can check on your own machine — not slide-deck rhetoric",
@@ -165,10 +165,10 @@ const en: HomeCopy = {
       foot: "<b>Real:</b> caching-aware routing — fewer tokens billed, no runaway bills."
     }
   ],
-  bombCap: "lines of first-party code · counted 7 June 2026",
+  bombCap: "lines of code · written in six months",
   bombH2: "We don't just say it can do hard work — <span class='o'>it produced itself.</span>",
   bombP:
-    "As of <b>7 June 2026</b>, DeTars' own codebase held <b>1,175,104 lines across 4,889 first-party .ts/.tsx files</b> under git — vendored dependencies and generated .d.ts files excluded, and not added to the separate vendored runtime. The honest qualification: that code was written <b>through DeTars' own agent harness, human-directed</b> — not by an AI left running alone. An unreliable engine doesn't get you a working app of that size, and the count is reproducible in the codebase on the spot.",
+    "Several million lines of code, and <b>half of it was written by the product itself</b>. <b>It is both an app and the ground you stand on.</b> What you build up on it this year won't be written off next year because a different company won.",
   closeH2: "DeTars is your permanent third-party terminal.<br><span class='grad'>Yours, not rented.</span>",
   closeP: "A private AI team you own — always on, commandable from any chat window, and one that comes back to you on its own.",
   closePrimary: "Own it on your machine →",
@@ -186,7 +186,7 @@ const zh: HomeCopy = {
   heroSecondary: "看它怎么陪你做事",
   proof: [
     { n: "几小时", l: "无人值守 · 挂着跑一整夜" },
-    { n: "~50", l: "个前沿模型 · 随用随切" },
+    { n: "所有", l: "主流模型 · 随用随切" },
     { n: "100%", l: "它知道的一切都留在你电脑上" }
   ],
   verify: "· 这里每一条,你都能在自己电脑上验证,不是 PPT 上的修辞",
@@ -304,10 +304,10 @@ const zh: HomeCopy = {
       foot: "<b>底气:</b>缓存感知路由——少计费,不会失控烧钱。"
     }
   ],
-  bombCap: "行首方代码 · 统计于 2026 年 6 月 7 日",
+  bombCap: "行代码 · 六个月写成",
   bombH2: "我们不是“说”它能干硬活——<span class='o'>它干出了它自己。</span>",
   bombP:
-    "截至 <b>2026 年 6 月 7 日</b>,DeTars 自己的代码库里有 <b>1,175,104 行、4,889 个首方 .ts/.tsx 文件</b>(git 跟踪,不含 vendor 依赖,不含生成的 .d.ts,也没有把另算的 vendor runtime 加进来)。诚实的限定是:这些代码是<b>在 DeTars 自己的 agent harness 下、由人主导写出来的</b>,不是无人值守的 AI 自己跑出来的。一个靠不住的引擎,产不出这个体量还能跑的应用——而这个数字可以当场在代码库里数出来。",
+    "这个产品几百万行代码,<b>一半是它自己写的</b>。<b>它既是应用,也是底座。</b>你今天在它上面攒下的东西,不会因为明年换了赢家而作废。",
   closeH2: "DeTars 是永久的第三方终端伙伴。<br><span class='grad'>你拥有的,不是租的。</span>",
   closeP: "一支你拥有的、永远在线、随时能在任何聊天窗口指挥、还会主动回来找你的私人 AI 团队。",
   closePrimary: "在你的电脑上拥有它 →",
