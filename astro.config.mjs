@@ -3,7 +3,8 @@ import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
   site: process.env.SITE_URL || "https://detars.xyz",
-  integrations: [sitemap()],
+  // /pay is the Paddle checkout landing page: never in the sitemap (it is also noindex).
+  integrations: [sitemap({ filter: (page) => !/\/pay\/?$/.test(new URL(page).pathname) })],
   output: "static",
   trailingSlash: "ignore",
   vite: {
