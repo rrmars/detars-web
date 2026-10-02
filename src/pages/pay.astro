@@ -1,0 +1,209 @@
+---
+// Paddle default payment link for DeTars credits (see src/lib/paddle.ts).
+// Standalone page: not localized, not indexed, excluded from the sitemap.
+import "@/styles/global.css";
+import { PADDLE_CLIENT_TOKEN, PADDLE_JS_URL, paddleEnvironment } from "@/lib/paddle";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="referrer" content="strict-origin" />
+    <title>DeTars — Checkout</title>
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+  </head>
+  <body class="pay">
+    <main class="pay-card" aria-live="polite">
+      <a class="pay-brand" href="/">
+        <img src="/brand/detars-mark.png" width="32" height="32" alt="" /> De<span class="dot">Tars</span>
+      </a>
+      <h1 id="pay-title">DeTars credits</h1>
+      <p id="pay-status" class="pay-status">…</p>
+      <div class="pay-actions">
+        <button id="pay-open" type="button" class="pay-btn" hidden></button>
+      </div>
+      <p id="pay-note" class="pay-note"></p>
+    </main>
+
+    <script
+      is:inline
+      define:vars={{ token: PADDLE_CLIENT_TOKEN, environment: paddleEnvironment, paddleJsUrl: PADDLE_JS_URL }}
+    >
+      (() => {
+        const zh = /^zh\b/i.test(navigator.language || "");
+        document.documentElement.lang = zh ? "zh-CN" : "en";
+        const t = zh
+          ? {
+              title: "购买 DeTars 积分",
+              loading: "正在打开付款窗口…",
+              missing: "这个页面用于完成 DeTars 积分付款，请从 DeTars App 内发起购买。",
+              open: "打开付款窗口",
+              closed: "付款窗口已关闭，尚未付款。",
+              done: "付款成功。积分通常在几秒内到账，请回到 DeTars App 查看余额。",
+              error: "付款窗口加载失败，请稍后重试；如多次失败，请在 App 内重新发起购买。",
+              scriptError: "无法加载付款组件，请检查网络后刷新页面。",
+              note: "付款由 Paddle 处理。DeTars 积分仅能在 DeTars App 内使用，不可转让，不可兑现。",
+              sandbox: "（测试环境：不会产生真实扣款）"
+            }
+          : {
+              title: "Buy DeTars credits",
+              loading: "Opening checkout…",
+              missing: "This page completes a DeTars credits purchase. Please start your purchase from the DeTars app.",
+              open: "Open checkout",
+              closed: "Checkout was closed before payment.",
+              done: "Payment received. Credits usually arrive within seconds — check your balance in the DeTars app.",
+              error: "Checkout could not be loaded. Please try again, or start a new purchase from the app.",
+              scriptError: "The payment component could not be loaded. Check your connection and reload.",
+              note: "Payments are processed by Paddle. DeTars credits can only be used in the DeTars app; they are non-transferable and not redeemable for cash.",
+              sandbox: "(Test environment — no real charge)"
+            };
+
+        const $ = (id) => document.getElementById(id);
+        const status = $("pay-status");
+        const openBtn = $("pay-open");
+        $("pay-title").textContent = t.title;
+        $("pay-note").textContent = environment === "sandbox" ? `${t.note} ${t.sandbox}` : t.note;
+        openBtn.textContent = t.open;
+
+        const setStatus = (text, tone) => {
+          status.textContent = text;
+          status.dataset.tone = tone || "";
+        };
+
+        // Only accept a well-formed Paddle transaction id; anything else is ignored.
+        const raw = new URLSearchParams(location.search).get("_ptxn");
+        const transactionId = raw && /^txn_[a-z0-9]{10,64}$/.test(raw) ? raw : null;
+        if (!transactionId) {
+          setStatus(t.missing);
+          return;
+        }
+
+        let completed = false;
+        const openCheckout = () => {
+          openBtn.hidden = true;
+          setStatus(t.loading);
+          window.Paddle.Checkout.open({ transactionId });
+        };
+        openBtn.addEventListener("click", openCheckout);
+
+        const script = document.createElement("script");
+        script.src = paddleJsUrl;
+        script.async = true;
+        script.onerror = () => setStatus(t.scriptError, "error");
+        script.onload = () => {
+          try {
+            if (environment === "sandbox") window.Paddle.Environment.set("sandbox");
+            window.Paddle.Initialize({
+              token,
+              checkout: { settings: { displayMode: "overlay", theme: "dark", locale: zh ? "zh-Hans" : "en" } },
+              eventCallback: (event) => {
+                switch (event && event.name) {
+                  case "checkout.completed":
+                    completed = true;
+                    openBtn.hidden = true;
+                    setStatus(t.done, "ok");
+                    break;
+                  case "checkout.closed":
+                    if (!completed) {
+                      setStatus(t.closed);
+                      openBtn.hidden = false;
+                    }
+                    break;
+                  case "checkout.error":
+                    setStatus(t.error, "error");
+                    openBtn.hidden = false;
+                    break;
+                }
+              }
+            });
+            // Paddle.js opens the checkout for `_ptxn` by itself; offer a manual
+            // button in case the overlay was blocked or dismissed early.
+            setStatus(t.loading);
+            setTimeout(() => {
+              if (!completed && status.dataset.tone !== "ok") openBtn.hidden = false;
+            }, 4000);
+          } catch {
+            setStatus(t.error, "error");
+            openBtn.hidden = false;
+          }
+        };
+        document.head.appendChild(script);
+      })();
+    </script>
+
+    <style>
+      body.pay {
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 24px 16px;
+        background: var(--bg);
+        color: var(--text);
+      }
+      .pay-card {
+        width: min(520px, 100%);
+        border: 1px solid var(--line2);
+        border-radius: 20px;
+        padding: 32px 28px;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.012));
+      }
+      .pay-brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        font-family: var(--sg);
+        font-weight: 700;
+        font-size: 20px;
+        color: var(--text);
+        text-decoration: none;
+      }
+      .pay-brand .dot {
+        color: var(--accent);
+      }
+      .pay-card h1 {
+        margin-top: 24px;
+        font-size: 26px;
+        font-weight: 700;
+        letter-spacing: -0.01em;
+      }
+      .pay-status {
+        margin-top: 14px;
+        font-size: 16px;
+        line-height: 1.7;
+        color: var(--muted);
+      }
+      .pay-status[data-tone="ok"] {
+        color: var(--green);
+      }
+      .pay-status[data-tone="error"] {
+        color: var(--accent2);
+      }
+      .pay-actions {
+        margin-top: 20px;
+      }
+      .pay-btn {
+        border: 0;
+        border-radius: 999px;
+        padding: 12px 22px;
+        font: inherit;
+        font-weight: 600;
+        color: #170b05;
+        background: var(--accent);
+        cursor: pointer;
+      }
+      .pay-btn:focus-visible {
+        outline: 2px solid var(--accent2);
+        outline-offset: 3px;
+      }
+      .pay-note {
+        margin-top: 24px;
+        font-size: 13px;
+        line-height: 1.6;
+        color: var(--faint);
+      }
+    </style>
+  </body>
+</html>
