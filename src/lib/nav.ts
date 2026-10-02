@@ -1,6 +1,19 @@
-import type { Locale } from "@/lib/site";
+import { SUPPORT_EMAIL } from "@/lib/legal";
+import { withLocale, type Locale } from "@/lib/site";
 
 export type NavItem = { route: string; label: Record<Locale, string> };
+
+/** Footer links: a site route (localized) or an absolute href such as mailto:. */
+export type FooterItem = NavItem | { href: string; label: Record<Locale, string> };
+
+const sameEverywhere = (label: string): Record<Locale, string> => ({
+  en: label,
+  zh: label,
+  "zh-Hant": label,
+  ja: label,
+  fr: label,
+  es: label
+});
 
 export const navItems: NavItem[] = [
   { route: "/how-it-works", label: { en: "How it works", zh: "怎么用", "zh-Hant": "怎麼用", ja: "使い方", fr: "Fonctionnement", es: "Cómo funciona" } },
@@ -19,7 +32,7 @@ export const ctaLabel: Record<Locale, string> = {
   es: "Empezar"
 };
 
-export const footerGroups: { title: Record<Locale, string>; items: NavItem[] }[] = [
+export const footerGroups: { title: Record<Locale, string>; items: FooterItem[] }[] = [
   {
     title: { en: "Product", zh: "产品", "zh-Hant": "產品", ja: "プロダクト", fr: "Produit", es: "Producto" },
     items: [
@@ -43,5 +56,18 @@ export const footerGroups: { title: Record<Locale, string>; items: NavItem[] }[]
       { route: "/faq", label: { en: "FAQ", zh: "常见问题", "zh-Hant": "常見問題", ja: "FAQ", fr: "FAQ", es: "Preguntas" } },
       { route: "/updates", label: { en: "Updates", zh: "更新", "zh-Hant": "更新", ja: "アップデート", fr: "Nouveautés", es: "Novedades" } }
     ]
+  },
+  {
+    title: { en: "Legal", zh: "法律", "zh-Hant": "法律", ja: "法的情報", fr: "Mentions légales", es: "Legal" },
+    items: [
+      { route: "/pricing", label: { en: "Pricing", zh: "价格", "zh-Hant": "價格", ja: "料金", fr: "Tarifs", es: "Precios" } },
+      { route: "/terms", label: { en: "Terms", zh: "服务条款", "zh-Hant": "服務條款", ja: "利用規約", fr: "Conditions", es: "Términos" } },
+      { route: "/privacy", label: { en: "Privacy", zh: "隐私政策", "zh-Hant": "隱私政策", ja: "プライバシー", fr: "Confidentialité", es: "Privacidad" } },
+      { route: "/refund", label: { en: "Refunds", zh: "退款政策", "zh-Hant": "退款政策", ja: "返金ポリシー", fr: "Remboursements", es: "Reembolsos" } },
+      { href: `mailto:${SUPPORT_EMAIL}`, label: sameEverywhere(SUPPORT_EMAIL) }
+    ]
   }
 ];
+
+export const footerHref = (locale: Locale, item: FooterItem): string =>
+  "href" in item ? item.href : withLocale(locale, item.route);

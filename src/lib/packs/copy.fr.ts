@@ -94,7 +94,7 @@ export const packsFr: PacksCopy = {
         },
         {
           title: "Il vous appartient, pas à une entreprise",
-          body: "Il n’y a pas de conditions d’utilisation. Il n’y aura pas de matin où un e-mail vous annonce qu’il a été arrêté."
+          body: "Aucune entreprise ne peut l’éteindre. Il n’y aura pas de matin où un e-mail vous annonce qu’il a été arrêté."
         }
       ],
       proof: {
