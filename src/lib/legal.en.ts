@@ -2,6 +2,7 @@ import {
   CREDITS_PER_USD,
   LEGAL_UPDATED,
   PADDLE_BUYER_TERMS_URL,
+  caps,
   creditPacks,
   mailto,
   type Href,
@@ -41,7 +42,8 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
               items: [
                 `<b>1 USD = ${CREDITS_PER_USD} credits.</b> Every pack is priced at the same rate.`,
                 "<b>Tax included.</b> Prices are in US dollars and already include any sales tax or VAT, which Paddle works out at checkout.",
-                "<b>Credits never expire.</b> Credits you buy stay in your account until you use them."
+                "<b>Credits never expire.</b> Credits you buy stay in your account until you use them.",
+                "<b>Packs and prices may change.</b> The packs above are the ones currently on sale."
               ]
             }
           ]
@@ -95,43 +97,50 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
 
     terms: {
       title: "Terms of Service | DeTars",
-      description: "The terms for using the DeTars app, DeTars accounts and DeTars credits.",
+      description:
+        "The terms that govern your use of the DeTars app, DeTars accounts, DeTars credits, the official-model service and this website.",
       kicker: "Legal",
       h1: "Terms of Service",
       doc: true,
       updated: LEGAL_UPDATED.en,
       answer:
-        "Use DeTars lawfully and don’t abuse the service. Credits are prepaid usage for DeTars’s official models inside the app: they never expire and are not money. Paddle handles payments. AI output can be wrong, so check what matters.",
+        "These terms govern your use of DeTars. Credits are prepaid usage for DeTars’s official models inside the app: purchased credits do not expire, and they have no cash value. Payments are processed by Paddle as Merchant of Record. The Services and AI output are provided as is, and these terms are governed by the laws of the Cayman Islands.",
       sections: [
         {
-          h2: "1. About these terms",
+          h2: "1. Agreement",
+          id: "agreement",
           blocks: [
             {
               type: "p",
-              html: `These terms are an agreement between you and DeTars (“DeTars”, “we”, “us”). They cover the DeTars app, DeTars accounts, DeTars credits and the official-model service, and this website. By using any of them you agree to these terms. If you do not agree, please do not use DeTars. Questions: ${mailto}.`
+              html: `These Terms of Service (“Terms”) are an agreement between you and DeTars (“DeTars”, “we”, “us” or “our”). They govern your access to and use of the DeTars app, DeTars accounts, DeTars credits, the official-model service and this website (together, the “Services”).`
+            },
+            {
+              type: "p",
+              html: "By accessing or using the Services, you agree to these Terms. If you do not agree to these Terms, you must not access or use the Services."
             }
           ]
         },
         {
-          h2: "2. What DeTars is",
+          h2: "2. The Services",
           blocks: [
             {
               type: "p",
               html:
-                "DeTars is a desktop AI assistant app for macOS and Windows that runs on your own computer. You can use it with your own API keys from 20+ model providers, at no charge from us; your use of those providers is governed by your agreement with them. Optionally, you can buy DeTars credits to use DeTars’s official models inside the app without managing your own keys."
+                "DeTars is a desktop AI assistant app for macOS and Windows that runs on your own computer. You may use it with your own API keys from 20+ model providers, at no charge from us; your use of those providers is governed by your agreement with them. Optionally, you may buy DeTars credits to use DeTars’s official models inside the app without managing your own keys."
             }
           ]
         },
         {
-          h2: "3. Your account",
+          h2: "3. Eligibility and accounts",
           id: "account",
           blocks: [
             {
               type: "list",
               items: [
-                "You sign in with Google, through our identity provider Auth0 (Okta). You need an account to buy or use credits.",
-                "You must be at least 16 years old to use DeTars. DeTars is not directed at children.",
-                "Keep your Google account secure. You are responsible for what happens under your DeTars account."
+                "You must be at least 16 years old to use the Services. The Services are not directed at children.",
+                "You sign in with Google, through our identity provider Auth0 (Okta). An account is required to buy or use credits.",
+                "You must provide accurate information to us, including when you create an account or contact us.",
+                "You are responsible for all activity that occurs under your DeTars account, and for keeping your Google account secure."
               ]
             }
           ]
@@ -144,12 +153,12 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
               type: "list",
               items: [
                 `Credits are sold in packs. 1 USD = ${CREDITS_PER_USD} credits. Current packs are listed on our ${link("/pricing", "pricing page")}.`,
-                "Credits are used per request, according to the model’s token usage. The app shows what each request cost.",
-                "We may change the list of official models and their rates. Changes never apply to requests that have already completed.",
-                "Credits can be used only inside the DeTars app, for DeTars’s official models.",
-                "Credits are not money. They have no cash value and cannot be withdrawn, transferred, resold or exchanged. They are tied to your DeTars account.",
+                "Credits are consumed per request, according to the model’s token usage. The app shows the cost of each request.",
+                "We may change credit packs, prices, the official models and their rates at any time at our discretion. Changes never apply to requests that have already completed.",
+                "Credits may be used only inside the DeTars app, for DeTars’s official models.",
+                "Credits are not money. They have no cash value and cannot be withdrawn, transferred, resold or exchanged. They are bound to your DeTars account.",
                 "<b>Purchased credits do not expire.</b>",
-                "If we ever discontinue the official-model service, we will tell you at least 30 days in advance, by email and in the app."
+                "If we discontinue the official-model service, we will notify you at least 30 days in advance, by email and in the app."
               ]
             }
           ]
@@ -162,118 +171,251 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
               type: "list",
               items: [
                 "Paddle.com is the Merchant of Record and reseller for all purchases. Paddle processes your payment and handles sales tax and VAT, invoices and refunds.",
-                `When you buy credits, ${buyerTerms} also apply to the purchase.`,
+                `${buyerTerms} apply to every purchase of credits, in addition to these Terms.`,
                 "Prices are in US dollars and include applicable sales tax or VAT, which Paddle calculates at checkout.",
-                "Purchases start in the DeTars app, which opens a Paddle checkout. We never see or store your card number.",
-                "To prevent fraud, we may limit purchases on new accounts."
+                "Purchases are initiated in the DeTars app, which opens a Paddle checkout. We never see or store your full card number.",
+                "We may limit purchases, for example on new accounts or to prevent fraud.",
+                "We may refuse or cancel any order at our discretion, for example where we suspect fraud. If we cancel an order before the credits are delivered, the payment will be refunded."
               ]
             }
           ]
         },
         {
           h2: "6. Refunds and chargebacks",
+          id: "refunds",
           blocks: [
             {
               type: "p",
-              html: `A credit pack whose credits are completely unused can be refunded in full within 14 days of purchase. Our ${link("/refund", "Refund Policy")} explains how. If a payment is charged back or reversed, we remove the related credits and may suspend the account.`
+              html: `Except as set out in our ${link("/refund", "Refund Policy")} or where required by law, all payments are non-refundable.`
+            },
+            {
+              type: "p",
+              html:
+                "If a payment is charged back or otherwise reversed, we will remove the related credits from your account, and we may suspend your account and dispute the chargeback."
             }
           ]
         },
         {
           h2: "7. Acceptable use",
           id: "acceptable-use",
-          intro: "Don’t use DeTars to:",
+          intro: "You must not, and must not attempt to:",
           blocks: [
             {
               type: "list",
               items: [
-                "create, store or share illegal content, or do anything illegal;",
+                "use the Services to create, store or share unlawful content, or to engage in any unlawful activity;",
                 "extract, proxy or resell access to the official models or our API;",
-                "get around rate limits, purchase limits or other limits of the service;",
-                "attack, probe, overload or disrupt the service or other users;",
-                "break the usage policies of the model providers behind the official models."
+                "circumvent rate limits, purchase limits or any other limits of the Services;",
+                "attack, probe, overload or disrupt the Services, or interfere with other users’ use of them;",
+                "reverse engineer the official-model service, or circumvent its security or authentication measures;",
+                "use the official-model service to develop AI models that compete with the official models;",
+                "use the Services in violation of the usage policies of the model providers behind the official models."
               ]
             }
           ]
         },
         {
-          h2: "8. AI output",
+          h2: "8. Inputs and outputs",
+          id: "content",
           blocks: [
             {
               type: "p",
               html:
-                "AI models make mistakes. Output can be inaccurate, incomplete or out of date, and you are responsible for how you use it. Check anything important before you rely on it. The investing pack provides information and records, not investment advice. The pet pack does not diagnose and is not a substitute for a licensed vet."
+                "In these Terms, “Inputs” means the prompts and other content you submit through the Services, and “Outputs” means the content generated in response."
+            },
+            {
+              type: "list",
+              items: [
+                "You retain any rights you have in your Inputs. You authorize us to process and transmit your Inputs as needed to provide the Services, for example to pass them to the model provider that generates the response.",
+                "As between you and DeTars, we assign to you any right, title and interest we may have in Outputs.",
+                "You are responsible for having all rights necessary for your Inputs, and for your use of Outputs.",
+                "Outputs may not be unique. Other users may receive similar or identical Outputs, and your rights do not extend to them."
+              ]
             }
           ]
         },
         {
-          h2: "9. Your data",
+          h2: "9. Feedback",
           blocks: [
             {
               type: "p",
-              html: `Our ${link("/privacy", "Privacy Policy")} explains what data we process and why.`
+              html:
+                "If you send us feedback or suggestions about the Services, we may use them freely, for any purpose, without any obligation or compensation to you."
             }
           ]
         },
         {
-          h2: "10. Suspension and termination",
+          h2: "10. Third-party services",
+          blocks: [
+            {
+              type: "p",
+              html:
+                "The Services interact with services operated by third parties, including OpenRouter and the model providers behind the official models, chat apps such as Telegram, and the providers you use with your own API keys. Your use of those services is governed by their own terms and policies. We are not responsible for third-party services, their availability or their content."
+            }
+          ]
+        },
+        {
+          h2: "11. AI output",
+          blocks: [
+            {
+              type: "p",
+              html:
+                "AI models make mistakes. Outputs may be inaccurate, incomplete or out of date, and you are solely responsible for your use of them. You should independently verify any important information before relying on it."
+            },
+            {
+              type: "p",
+              html:
+                "The investing pack provides information and records only and does not constitute investment advice. The pet pack does not provide diagnoses and is not a substitute for a licensed veterinarian."
+            }
+          ]
+        },
+        {
+          h2: "12. Privacy",
+          blocks: [
+            {
+              type: "p",
+              html: `Our ${link("/privacy", "Privacy Policy")} describes how we collect, use and share personal data in connection with the Services.`
+            }
+          ]
+        },
+        {
+          h2: "13. Changes to the Services",
+          blocks: [
+            {
+              type: "p",
+              html:
+                "We may modify, suspend or discontinue any part of the Services, including features, official models and their rates, at any time at our discretion. If we discontinue the official-model service, we will give you at least 30 days’ notice, by email and in the app."
+            }
+          ]
+        },
+        {
+          h2: "14. Suspension and termination",
           id: "suspension",
           blocks: [
             {
               type: "p",
               html:
-                "We may suspend or close an account for fraud, abuse, chargebacks, or a breach of these terms or of the model providers’ usage policies. You can stop using DeTars at any time; to delete your account, email us."
-            }
-          ]
-        },
-        {
-          h2: "11. Changes to the service",
-          blocks: [
-            {
-              type: "p",
-              html:
-                "DeTars is changing all the time. We may add, change or remove features, official models and rates. If we discontinue the official-model service, we will give at least 30 days’ notice, by email and in the app."
-            }
-          ]
-        },
-        {
-          h2: "12. Disclaimer",
-          blocks: [
-            {
-              type: "p",
-              html:
-                "DeTars is provided “as is” and “as available”. As far as the law allows, we make no promises beyond those in these terms: we don’t guarantee that DeTars will be uninterrupted, error-free or fit for a particular purpose, or that its output will be accurate."
-            }
-          ]
-        },
-        {
-          h2: "13. Limitation of liability",
-          blocks: [
-            {
-              type: "p",
-              html:
-                "As far as the law allows, we are not liable for indirect or consequential losses, such as lost profits, lost data or business interruption. Our total liability to you for any claim relating to DeTars is limited to the amount you paid us in the 12 months before the claim."
+                "We may suspend or terminate your access to all or part of the Services at any time, with or without notice, if we believe that you have breached these Terms or the usage policies of the model providers behind the official models; in cases of fraud, abuse or chargebacks; where necessary to comply with law; or to protect the Services or other users."
             },
             {
               type: "p",
               html:
-                "Nothing in these terms limits liability that cannot be limited by law, or takes away rights you have as a consumer under the law where you live."
+                "If we terminate your account because you breached these Terms, any unused credits are forfeited, to the extent permitted by law."
+            },
+            {
+              type: "p",
+              html: `You may stop using the Services at any time. To delete your account, email ${mailto}.`
+            },
+            {
+              type: "p",
+              html:
+                "Provisions of these Terms that by their nature should survive termination will survive, including those on refunds, inputs and outputs, disclaimers, limitation of liability, indemnification and governing law."
             }
           ]
         },
         {
-          h2: "14. Changes to these terms",
+          h2: "15. Disclaimer of warranties",
+          id: "disclaimer",
+          blocks: [
+            {
+              type: "p",
+              html: caps(
+                "TO THE FULLEST EXTENT PERMITTED BY LAW, THE SERVICES AND ALL OUTPUTS ARE PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY. DETARS DISCLAIMS ALL WARRANTIES, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND ACCURACY, AND ANY WARRANTY THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE."
+              )
+            }
+          ]
+        },
+        {
+          h2: "16. Limitation of liability",
+          id: "liability",
+          blocks: [
+            {
+              type: "p",
+              html: caps(
+                "TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL DETARS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA OR GOODWILL, ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, EVEN IF DETARS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+              )
+            },
+            {
+              type: "p",
+              html: caps(
+                "TO THE FULLEST EXTENT PERMITTED BY LAW, DETARS’S TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS WILL NOT EXCEED THE GREATER OF (A) THE AMOUNTS YOU PAID FOR THE SERVICES, INCLUDING THROUGH PADDLE, IN THE SIX MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM, AND (B) USD 100."
+              )
+            },
+            {
+              type: "p",
+              html:
+                "Nothing in these Terms excludes or limits any liability that cannot be excluded or limited by law, or deprives you of rights you have as a consumer under the law of the country where you live."
+            }
+          ]
+        },
+        {
+          h2: "17. Indemnification",
           blocks: [
             {
               type: "p",
               html:
-                "We may update these terms. We will post the new version here and change the date at the top. If you keep using DeTars after a change takes effect, the updated terms apply."
+                "To the extent permitted by law, you will indemnify and hold harmless DeTars from and against any claims, losses, liabilities, damages, costs and expenses (including reasonable legal fees) arising out of or relating to your breach of these Terms, your misuse of the Services, your Inputs, or your violation of any law or the rights of any third party."
             }
           ]
         },
         {
-          h2: "15. Contact",
-          blocks: [{ type: "p", html: `Email ${mailto}.` }]
+          h2: "18. Governing law and disputes",
+          id: "governing-law",
+          blocks: [
+            {
+              type: "p",
+              html:
+                "These Terms, and any dispute or claim arising out of or relating to them or the Services, are governed by the laws of the Cayman Islands. The courts of the Cayman Islands have exclusive jurisdiction over any such dispute or claim."
+            },
+            {
+              type: "p",
+              html: `Before filing a claim, you agree to contact us at ${mailto} and to try to resolve the dispute informally for 30 days.`
+            },
+            {
+              type: "p",
+              html:
+                "If you are a consumer, nothing in this section deprives you of the protection of the mandatory provisions of the law of your country of residence, or of any right to bring proceedings in the courts of that country where the law gives you that right."
+            }
+          ]
+        },
+        {
+          h2: "19. Force majeure",
+          blocks: [
+            {
+              type: "p",
+              html:
+                "We are not liable for any delay or failure to perform caused by events beyond our reasonable control, including natural disasters, epidemics, war, terrorism, civil unrest, labor disputes, acts of government, cyberattacks, and failures of the internet, utilities, hosting providers or model providers."
+            }
+          ]
+        },
+        {
+          h2: "20. General",
+          blocks: [
+            {
+              type: "list",
+              items: [
+                `<b>Entire agreement.</b> These Terms, together with our ${link("/privacy", "Privacy Policy")}, our ${link("/refund", "Refund Policy")} and, for purchases, ${buyerTerms}, are the entire agreement between you and DeTars regarding the Services.`,
+                "<b>Severability.</b> If any provision of these Terms is held invalid or unenforceable, that provision will be enforced to the maximum extent permissible, and the remaining provisions will remain in full force and effect.",
+                "<b>No waiver.</b> Our failure to enforce any provision of these Terms is not a waiver of our right to enforce it later.",
+                "<b>Assignment.</b> We may assign or transfer these Terms, in whole or in part, without your consent. You may not assign or transfer these Terms without our prior written consent.",
+                "<b>Language.</b> These Terms are written in English. If a translation conflicts with the English version, the English version governs."
+              ]
+            }
+          ]
+        },
+        {
+          h2: "21. Changes to these Terms",
+          blocks: [
+            {
+              type: "p",
+              html:
+                "We may revise these Terms from time to time at our discretion. We will post the revised Terms on this page and update the date at the top. If a change is material, we will give you notice by reasonable means, such as by email or in the app. By continuing to use the Services after the revised Terms take effect, you accept them."
+            }
+          ]
+        },
+        {
+          h2: "22. Contact",
+          blocks: [{ type: "p", html: `Questions about these Terms can be sent to ${mailto}.` }]
         }
       ]
     },
@@ -281,57 +423,57 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
     privacy: {
       title: "Privacy Policy | DeTars",
       description:
-        "What data DeTars processes, why, who helps us process it, and how to access or delete it. Your conversations stay on your device; we don't sell personal data.",
+        "What personal data DeTars processes, why, who helps us process it, and how to access or delete it. Your conversations stay on your device, and we do not sell personal data.",
       kicker: "Legal",
       h1: "Privacy Policy",
       doc: true,
       updated: LEGAL_UPDATED.en,
       answer:
-        "The DeTars app keeps your conversations and memory on your own device. To run accounts, credits and the official models we process a small amount of data: your account details, device keys, usage and order records. We do not store the content of your prompts or responses on our servers, and we do not sell personal data.",
+        "The DeTars app keeps your conversations and memory on your own device. To operate accounts, credits and the official models, we process limited personal data: account details, device keys, usage records and order records. We do not store the content of your prompts or responses in our databases, and we do not sell personal data.",
       sections: [
         {
           h2: "1. Who we are",
           blocks: [
             {
               type: "p",
-              html: `DeTars (“we”, “us”) is responsible for the data described here. This policy covers the DeTars app, DeTars accounts, DeTars credits and the official-model service, and this website. Contact: ${mailto}.`
+              html: `DeTars (“DeTars”, “we”, “us” or “our”) is responsible for the personal data described in this Privacy Policy. This policy applies to the DeTars app, DeTars accounts, DeTars credits, the official-model service and this website (together, the “Services”). You can contact us at ${mailto}.`
             }
           ]
         },
         {
-          h2: "2. What stays on your device",
+          h2: "2. Data that stays on your device",
           id: "local",
           blocks: [
             {
               type: "p",
               html:
-                "DeTars runs on your computer. Your conversations, the memory it builds and the files it works with are kept on your own disk, and new memories need your confirmation before they are saved. You can delete them from your device at any time."
+                "The DeTars app runs on your computer. Your conversations, the memory the app builds and the files it works with are stored on your own disk, and new memories require your confirmation before they are saved. You may delete them from your device at any time."
             },
             {
               type: "p",
               html:
-                "Two things do leave your device. When the app sends a request to an AI model, the content of that request goes to the model’s provider (section 4). And if you talk to DeTars through a chat app such as Telegram, Slack, Feishu or WeChat, those messages pass through that app’s service, under its own privacy policy."
+                "Two kinds of data leave your device. When the app sends a request to an AI model, the content of that request is sent to the model’s provider (see section 4). If you communicate with DeTars through a chat app such as Telegram, Slack, Feishu or WeChat, those messages pass through that app’s service and are subject to its own privacy policy."
             }
           ]
         },
         {
-          h2: "3. What we process on our servers",
+          h2: "3. Data we process on our servers",
           id: "data",
           blocks: [
             {
               type: "list",
               items: [
-                "<b>Account data</b> from Google sign-in: your email address, your name, and your account identifier.",
-                "<b>Device data:</b> a device identifier and the device’s public key, used to verify that requests are signed by your device, plus basic details the app reports when a device is registered (such as the device name, operating system and version, and processor type).",
-                "<b>Usage records</b> for the official models: timestamp, model, token counts and credits charged for each request.",
-                "<b>Order and payment records:</b> order ID, pack, amount and status. We never receive or store your full card number. Paddle’s payment notifications, which we keep with the order, can include limited details such as the card type, its last four digits and expiry date, and the cardholder name.",
-                "<b>Support emails</b> you send us, and our replies."
+                "<b>Account data</b> from Google sign-in: your email address, your name and your account identifier.",
+                "<b>Device data:</b> a device identifier and the device’s public key, used to verify that requests are signed by your device, together with basic details the app reports when a device is registered (such as the device name, operating system and version, and processor type).",
+                "<b>Usage records</b> for the official models: the timestamp, model, token counts and credits charged for each request.",
+                "<b>Order and payment records:</b> order ID, pack, amount and status. We never receive or store your full card number. Paddle’s payment notifications, which we retain with the order, may include limited details such as the card type, the last four digits and expiry date of the card, and the cardholder name.",
+                "<b>Support communications:</b> emails you send us, and our replies."
               ]
             },
             {
               type: "p",
               html:
-                "We use this data to provide your account, verify devices, run and bill the official models, process orders and refunds, prevent fraud and abuse, and answer support requests."
+                "We use this data to provide your account, verify devices, operate and bill the official models, process orders and refunds, prevent fraud and abuse, and respond to support requests."
             }
           ]
         },
@@ -342,17 +484,22 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
             {
               type: "p",
               html:
-                "<b>When you use DeTars’s official models, we do not store the content of your prompts or responses on our servers.</b> They pass through our gateway to OpenRouter and the underlying model provider to generate the response, under those providers’ policies."
+                "<b>When you use DeTars’s official models, we do not store the content of your prompts or responses in our databases.</b> They pass through our gateway to OpenRouter and the underlying model provider to generate the response, under those providers’ policies."
             },
             {
               type: "p",
               html:
-                "Our gateway keeps operational logs to keep the service running. They record things like request IDs, account or device IDs, error codes and timings, not your conversations. In rare failure cases, such as a provider returning a malformed reply or an error message, a short excerpt of what the provider returned (a few hundred characters at most) can end up in an error log. To help OpenRouter prevent abuse, we send it a pseudonymous identifier derived from your account, never your email or name."
+                "Like most online services, we keep operational and security logs to run, secure and troubleshoot the Services. These logs may incidentally contain limited portions of request or response data, for example when a provider returns an error. We keep logs only for as long as needed for these purposes."
             },
             {
               type: "p",
               html:
-                "If you use your own API keys instead, your requests go to the provider you configured, under your agreement with that provider. They do not use DeTars credits or our official-model gateway."
+                "To help OpenRouter prevent abuse, we send it a pseudonymous identifier derived from your account, never your email address or name."
+            },
+            {
+              type: "p",
+              html:
+                "If you use your own API keys instead, your requests go to the provider you configured, under your agreement with that provider. Those requests do not use DeTars credits or our official-model gateway."
             }
           ]
         },
@@ -362,7 +509,7 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
             {
               type: "p",
               html:
-                "Paddle is the Merchant of Record for DeTars credits. Paddle collects your payment details, email and billing information at checkout and processes them under its own privacy policy. We tell Paddle which DeTars account an order belongs to, using an internal account ID, and Paddle tells us when an order is paid, refunded or charged back."
+                "Paddle is the Merchant of Record for DeTars credits. Paddle collects your payment details, email address and billing information at checkout and processes them under its own privacy policy. We tell Paddle which DeTars account an order belongs to, using an internal account ID, and Paddle notifies us when an order is paid, refunded or charged back."
             }
           ]
         },
@@ -373,14 +520,15 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
             {
               type: "p",
               html:
-                "This website uses no analytics and no tracking cookies. It is hosted on GitHub Pages, which may log technical data such as your IP address to serve and protect the site. Pages load fonts from Google Fonts, so your browser requests them from Google’s servers. The checkout page at <code>/pay</code> loads Paddle’s checkout, which sets its own cookies."
+                "This website uses no analytics and no tracking cookies. It is hosted on GitHub Pages, which may log technical data such as your IP address in order to serve and protect the site. Pages load fonts from Google Fonts, so your browser requests them from Google’s servers. The checkout page at <code>/pay</code> loads Paddle’s checkout, which sets its own cookies."
             }
           ]
         },
         {
-          h2: "7. Service providers",
+          h2: "7. Service providers and disclosures",
           id: "processors",
-          intro: "We use these providers to run DeTars. Each receives only what it needs for its job.",
+          intro:
+            "We use the following service providers to operate the Services. We share personal data with them only as needed to provide the Services, subject to their terms and data protection commitments.",
           blocks: [
             {
               type: "list",
@@ -396,107 +544,144 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
             {
               type: "p",
               html:
-                "These providers may process data in countries other than yours, including the United States. We may also disclose data where the law requires it, or to protect DeTars and its users from fraud or abuse."
+                "These providers may process personal data in countries other than your own, including the United States. We may also disclose personal data where required by law, or to protect DeTars and its users from fraud or abuse."
             }
           ]
         },
         {
-          h2: "8. How long we keep data",
+          h2: "8. Legal bases",
+          id: "legal-bases",
+          intro: "If the GDPR or the UK GDPR applies to you, we rely on the following legal bases to process your personal data:",
+          blocks: [
+            {
+              type: "list",
+              items: [
+                "<b>Performance of our contract with you:</b> to provide your account, your credits and the official models.",
+                "<b>Legitimate interests:</b> to secure the Services, prevent fraud and abuse, and improve the Services using operational data, not your conversations.",
+                "<b>Legal obligations:</b> to keep tax and accounting records.",
+                "<b>Consent:</b> where we ask for it. You may withdraw your consent at any time."
+              ]
+            }
+          ]
+        },
+        {
+          h2: "9. Data retention",
           blocks: [
             {
               type: "list",
               items: [
                 "Account and device data: for as long as your account exists.",
                 "Order and payment records: for as long as tax and accounting law requires.",
-                "Usage records: for as long as we need them for billing and support."
+                "Usage records: for as long as we need them for billing and support.",
+                "Operational and security logs: only for as long as needed to run, secure and troubleshoot the Services."
               ]
             }
           ]
         },
         {
-          h2: "9. Your rights",
+          h2: "10. Your rights",
           id: "rights",
           blocks: [
             {
               type: "p",
-              html: `Depending on where you live, laws such as the GDPR, the UK GDPR and the CCPA give you rights over your personal data: to access it, correct it, delete it, get a copy of it, and object to or restrict how we use it. To make a request, email ${mailto}, ideally from the address you sign in with. We may need to confirm it is you, and we will answer within the time the law requires. If we delete your account, we still keep order records for as long as the law requires. You can also complain to your local data protection authority.`
+              html: `Depending on where you live, laws such as the GDPR, the UK GDPR and the CCPA give you rights over your personal data, including the right to access, correct or delete it, to receive a copy of it, and to object to or restrict its processing. To exercise these rights, email ${mailto}, preferably from the address you sign in with. We may need to verify your identity, and we will respond within the time required by law. If your account is deleted, we will continue to retain order records for as long as the law requires. You also have the right to lodge a complaint with your local data protection authority.`
             }
           ]
         },
         {
-          h2: "10. We don’t sell your data",
+          h2: "11. No sale of personal data",
           blocks: [
             {
               type: "p",
-              html: "We do not sell personal data, and we do not share it for advertising."
+              html: "We do not sell personal data, and we do not share personal data for advertising purposes."
             }
           ]
         },
         {
-          h2: "11. Children",
+          h2: "12. Children",
           blocks: [
             {
               type: "p",
-              html: `DeTars is for people aged 16 and over and is not directed at children. If you believe a child has given us personal data, email ${mailto} and we will delete it.`
+              html: `The Services are intended for people aged 16 and over and are not directed at children. If you believe that a child has provided us with personal data, please contact ${mailto} and we will delete it.`
             }
           ]
         },
         {
-          h2: "12. Security",
+          h2: "13. Security",
           blocks: [
             {
               type: "p",
               html:
-                "Connections to our services are encrypted, your device proves its identity with its own key, and access to our systems is restricted. No system is perfectly secure, but we work to protect your data and will tell you if a breach affects you where the law requires it."
+                "We use reasonable technical and organizational measures designed to protect personal data. Connections to our services are encrypted, each device proves its identity with its own key, and access to our systems is restricted. However, no method of transmission or storage is completely secure. Where the law requires, we will notify you of a personal data breach that affects you."
             }
           ]
         },
         {
-          h2: "13. Changes to this policy",
+          h2: "14. Changes to this policy",
           blocks: [
             {
               type: "p",
-              html: "We may update this policy. We will post the new version here and change the date at the top."
+              html:
+                "We may update this Privacy Policy from time to time. We will post the updated policy on this page with a new date at the top. If a change is material, we will give you notice by reasonable means, such as by email or in the app."
             }
           ]
         },
         {
-          h2: "14. Contact",
-          blocks: [{ type: "p", html: `Email ${mailto}.` }]
+          h2: "15. Contact",
+          blocks: [{ type: "p", html: `Questions about this Privacy Policy or our handling of personal data can be sent to ${mailto}.` }]
         }
       ]
     },
 
     refund: {
       title: "Refund Policy | DeTars",
-      description: "Unused DeTars credit packs can be refunded in full within 14 days of purchase. How to ask, and what happens next.",
+      description:
+        "DeTars purchases are final, except that a credit pack whose credits are completely unused can be refunded in full within 14 days of purchase.",
       kicker: "Legal",
       h1: "Refund Policy",
       doc: true,
       updated: LEGAL_UPDATED.en,
-      answer: `If you haven’t used any credits from a pack, you can get a full refund within 14 days of buying it. Email ${mailto} with your account email and order ID.`,
+      answer: `All purchases are final, except that a credit pack whose credits are completely unused can be refunded in full within 14 days of purchase. To request a refund, email ${mailto} with your account email address and order ID.`,
       sections: [
         {
-          h2: "1. Full refund for unused packs",
+          h2: "1. General",
+          blocks: [
+            {
+              type: "p",
+              html: "Except as set out in this policy or where required by law, all purchases are final and non-refundable."
+            }
+          ]
+        },
+        {
+          h2: "2. Unused credit packs",
           blocks: [
             {
               type: "p",
               html:
-                "Within <b>14 days</b> of purchase, a credit pack whose credits are <b>completely unused</b> gets a full refund."
+                "A credit pack whose credits are <b>completely unused</b> is eligible for a full refund if you request it within <b>14 days</b> of purchase."
             }
           ]
         },
         {
-          h2: "2. Packs that have been used",
+          h2: "3. Used credit packs",
           blocks: [
             {
               type: "p",
-              html: "Once any credits from a pack have been used, that pack is not refundable, except where the law requires a refund."
+              html: "Once any credits from a pack have been used, that pack is not refundable, except where required by law."
             }
           ]
         },
         {
-          h2: "3. How to ask for a refund",
+          h2: "4. Cancelled orders",
+          blocks: [
+            {
+              type: "p",
+              html: `If we cancel an order before the credits are delivered, as described in our ${link("/terms", "Terms of Service")}, the payment will be refunded.`
+            }
+          ]
+        },
+        {
+          h2: "5. How to request a refund",
           blocks: [
             {
               type: "p",
@@ -505,37 +690,52 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
           ]
         },
         {
-          h2: "4. What happens next",
+          h2: "6. Discretionary refunds",
           blocks: [
             {
               type: "p",
               html:
-                "Approved refunds go back to your original payment method through Paddle, our Merchant of Record. The refunded credits are removed from your account. How long the money takes to arrive depends on your bank or card issuer."
+                "We may, at our discretion, grant refunds in other cases. Doing so does not oblige us to grant a refund in any other case."
             }
           ]
         },
         {
-          h2: "5. Chargebacks",
+          h2: "7. How refunds are processed",
           blocks: [
             {
               type: "p",
               html:
-                "If something is wrong, please contact us first. If a payment is charged back or reversed, we remove the related credits from your account and may suspend the account."
+                "Approved refunds are issued through Paddle, our Merchant of Record, to your original payment method. The refunded credits are removed from your account. The time it takes for the funds to arrive depends on your bank or card issuer."
             }
           ]
         },
         {
-          h2: "6. Your statutory rights",
+          h2: "8. Chargebacks",
           blocks: [
             {
               type: "p",
-              html: `Nothing in this policy limits your rights as a consumer under the law where you live. ${buyerTerms} also apply to your purchase, and our ${link("/terms", "Terms of Service")} cover credits in general.`
+              html:
+                "If you have a problem with a purchase, please contact us before disputing the payment with your bank or card issuer. If a payment is charged back or otherwise reversed, we will remove the related credits from your account, and we may suspend your account and dispute the chargeback."
             }
           ]
         },
         {
-          h2: "7. Contact",
-          blocks: [{ type: "p", html: `Email ${mailto}. Please include your order ID so we can find your purchase quickly.` }]
+          h2: "9. Your statutory rights",
+          blocks: [
+            {
+              type: "p",
+              html: `Nothing in this policy affects your statutory rights as a consumer under the law of the country where you live. ${buyerTerms} also apply to your purchase, and our ${link("/terms", "Terms of Service")} govern credits generally.`
+            }
+          ]
+        },
+        {
+          h2: "10. Contact",
+          blocks: [
+            {
+              type: "p",
+              html: `Questions about this policy can be sent to ${mailto}. Please include your order ID so that we can locate your purchase.`
+            }
+          ]
         }
       ]
     }

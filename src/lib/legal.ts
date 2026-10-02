@@ -35,6 +35,9 @@ export type Href = (route: string) => string;
 
 export const mailto = `<a href="mailto:${SUPPORT_EMAIL}">${SUPPORT_EMAIL}</a>`;
 
+/** Wraps an ALL-CAPS legal paragraph (disclaimers) so Page.astro can set it for readability. */
+export const caps = (html: string) => `<span class="caps">${html}</span>`;
+
 /** Shown above the English text on the locales that have no translation. */
 export const legalFallbackNotice: Record<LegalFallbackLocale, (zhHref: string) => string> = {
   "zh-Hant": (zhHref) =>
