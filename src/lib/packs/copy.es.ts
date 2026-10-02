@@ -94,7 +94,7 @@ export const packsEs: PacksCopy = {
         },
         {
           title: "Es tuyo, no de una empresa",
-          body: "No hay términos de servicio. No habrá una mañana en la que un correo te avise de que lo han descontinuado."
+          body: "Ninguna empresa puede apagarlo. No habrá una mañana en la que un correo te avise de que lo han descontinuado."
         }
       ],
       proof: {

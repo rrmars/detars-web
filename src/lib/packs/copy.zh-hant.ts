@@ -94,7 +94,7 @@ export const packsZhHant: PacksCopy = {
         },
         {
           title: "他屬於你,不屬於任何一家公司",
-          body: "沒有服務條款。不會有哪天早上一封郵件通知你:他下線了。"
+          body: "沒有哪家公司能把他關掉。不會有哪天早上一封郵件通知你:他下線了。"
         }
       ],
       proof: {

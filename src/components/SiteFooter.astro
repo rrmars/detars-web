@@ -1,5 +1,5 @@
 ---
-import { footerGroups } from "@/lib/nav";
+import { footerGroups, footerHref } from "@/lib/nav";
 import { withLocale, type Locale } from "@/lib/site";
 import { t } from "@/lib/ui-labels";
 
@@ -9,8 +9,8 @@ const tagline = t("footerTagline", locale);
 ---
 
 <footer class="site-footer">
-  <div class="shell" style="display:grid;grid-template-columns:1.4fr repeat(3,1fr);gap:32px;padding:48px 0 8px;">
-    <div>
+  <div class="shell ft-grid">
+    <div class="ft-brand">
       <a class="brand" href={withLocale(locale, "/")}><img class="mark" src="/brand/detars-mark.png" width="30" height="30" alt="" decoding="async" loading="lazy" /> De<span class="dot">Tars</span></a>
       <p style="margin-top:14px;font-size:13.5px;color:var(--muted);max-width:26ch;line-height:1.6;">
         {t("footerSub", locale)}
@@ -21,7 +21,7 @@ const tagline = t("footerTagline", locale);
         <div>
           <p style="font-family:var(--sg);font-size:12px;letter-spacing:0.1em;text-transform:uppercase;color:var(--faint);">{group.title[locale]}</p>
           <div class="ft-links" style="flex-direction:column;gap:10px;margin-top:14px;font-size:14px;color:var(--muted);">
-            {group.items.map((item) => <a href={withLocale(locale, item.route)}>{item.label[locale]}</a>)}
+            {group.items.map((item) => <a href={footerHref(locale, item)}>{item.label[locale]}</a>)}
           </div>
         </div>
       ))
@@ -34,3 +34,12 @@ const tagline = t("footerTagline", locale);
     <p style="font-size:11.5px;line-height:1.7;color:var(--faint);max-width:78ch;">{t("legalNote", locale)}</p>
   </div>
 </footer>
+
+<style>
+  .ft-grid { display: grid; grid-template-columns: 1.4fr repeat(4, 1fr); gap: 32px; padding: 48px 0 8px; }
+  .ft-grid a { overflow-wrap: anywhere; }
+  @media (max-width: 960px) {
+    .ft-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px 24px; }
+    .ft-brand { grid-column: 1 / -1; }
+  }
+</style>

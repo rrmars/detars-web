@@ -8,10 +8,12 @@ const { locale, content } = Astro.props;
 const answerLabel = t("answerShort", locale);
 ---
 
-<section class="page-head shell">
+<section class="page-head shell" lang={content.lang}>
   <div class="reveal">
     <span class="kicker">{content.kicker}</span>
     <h1 set:html={content.h1} />
+    {content.updated && <p class="updated">{content.updated}</p>}
+    {content.notice && <p class="notice" set:html={content.notice} />}
     <div class="answer-card">
       <span class="lab">{answerLabel}</span>
       <p set:html={content.answer} />
@@ -19,9 +21,9 @@ const answerLabel = t("answerShort", locale);
   </div>
 </section>
 
-<section class="band shell" style="padding-top:40px;">
+<section class:list={["band shell", { doc: content.doc }]} style="padding-top:40px;" lang={content.lang}>
   {content.sections.map((s) => (
-    <div class="sec reveal">
+    <div class="sec reveal" id={s.id}>
       <h2 set:html={s.h2} />
       {s.intro && <p class="sec-intro" set:html={s.intro} />}
       {s.blocks.map((b) => {
@@ -59,6 +61,22 @@ const answerLabel = t("answerShort", locale);
               )}
             </div>
           );
+        if (b.type === "table")
+          return (
+            <div class="tbl-wrap">
+              <table class="tbl">
+                {b.caption && <caption class="sr-only">{b.caption}</caption>}
+                <thead>
+                  <tr>{b.head.map((h) => <th scope="col" set:html={h} />)}</tr>
+                </thead>
+                <tbody>
+                  {b.rows.map((row) => (
+                    <tr>{row.map((cell, i) => (i === 0 ? <th scope="row" set:html={cell} /> : <td set:html={cell} />))}</tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          );
         if (b.type === "faq")
           return (
             <div class="faq">
@@ -83,7 +101,10 @@ const answerLabel = t("answerShort", locale);
 </section>
 
 <style>
-  .sec { max-width: 760px; margin-top: 44px; }
+  .updated { margin-top: 18px; font-family: var(--mono); font-size: 13px; color: var(--faint); }
+  .notice { margin-top: 12px; max-width: 64ch; font-size: 14px; line-height: 1.65; color: var(--muted); border-left: 2px solid var(--accent); padding: 2px 0 2px 12px; }
+
+  .sec { max-width: 760px; margin-top: 44px; scroll-margin-top: 96px; }
   .sec h2 { font-weight: 700; font-size: clamp(24px, 2.8vw, 36px); letter-spacing: -0.02em; }
   .sec h2 :global(.o) { color: var(--accent2); }
   .sec-intro { margin-top: 14px; font-size: 18px; line-height: 1.7; color: var(--text); max-width: 60ch; }
@@ -108,6 +129,37 @@ const answerLabel = t("answerShort", locale);
   .tile--link { display: block; transition: border-color 0.2s, transform 0.2s; }
   .tile--link:hover { border-color: var(--accent); transform: translateY(-2px); }
   .tile--link .note--dl { color: var(--accent); font-weight: 500; }
+
+  /* in-copy links (legal pages): tiles and buttons keep their own styles */
+  .notice :global(a),
+  .answer-card :global(a),
+  .sec-intro :global(a),
+  .sec-p :global(a),
+  .sec-list :global(a),
+  .faq p :global(a) { color: var(--accent2); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; overflow-wrap: anywhere; }
+  .notice :global(a:hover),
+  .answer-card :global(a:hover),
+  .sec-intro :global(a:hover),
+  .sec-p :global(a:hover),
+  .sec-list :global(a:hover),
+  .faq p :global(a:hover) { color: var(--text); }
+  .sec-p :global(code) { font-family: var(--mono); font-size: 0.9em; color: var(--text); }
+  /* ALL-CAPS legal paragraphs (disclaimers): a touch smaller and tracked so they stay readable */
+  .sec-p :global(.caps) { font-size: 0.92em; letter-spacing: 0.015em; line-height: 1.7; overflow-wrap: break-word; }
+
+  /* long-form documents: quieter headings, tighter rhythm */
+  .doc .sec { margin-top: 40px; }
+  .doc .sec h2 { font-size: clamp(20px, 2vw, 25px); letter-spacing: -0.01em; }
+  .doc .sec-intro { font-size: 16.5px; color: var(--muted); }
+
+  .tbl-wrap { margin-top: 22px; max-width: 560px; border: 1px solid var(--line2); border-radius: 16px; overflow: hidden; background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.012)); }
+  .tbl { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+  .tbl th, .tbl td { padding: 15px 22px; text-align: left; border-top: 1px solid var(--line); }
+  .tbl thead th { border-top: 0; font-family: var(--sg); font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent2); }
+  .tbl tbody th { font-family: var(--sg); font-size: 22px; font-weight: 700; color: var(--text); }
+  .tbl td { font-family: var(--mono); font-size: 16px; color: var(--muted); }
+  .tbl thead th:last-child, .tbl td:last-child { text-align: right; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 
   .faq { margin-top: 18px; max-width: 760px; border-top: 1px solid var(--line); }
   .faq details { border-bottom: 1px solid var(--line); padding: 6px 0; }

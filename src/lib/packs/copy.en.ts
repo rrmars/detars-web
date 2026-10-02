@@ -105,7 +105,7 @@ export const packsEn: PacksCopy = {
         },
         {
           title: "They belong to you, not to a company",
-          body: "There are no terms of service. There will be no morning when an email tells you they have been discontinued."
+          body: "No company can switch them off. There will be no morning when an email tells you they have been discontinued."
         }
       ],
       proof: {

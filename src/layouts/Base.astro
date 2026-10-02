@@ -21,12 +21,26 @@ type Props = {
   ogTitle?: string;
   ogDescription?: string;
   jsonLd?: Record<string, unknown>[];
+  /** Point the canonical URL at another locale when this page duplicates it. */
+  canonicalLocale?: Locale;
+  /** Locales listed as hreflang alternates (default: all). */
+  alternateLocales?: readonly Locale[];
 };
 
-const { locale, route, title, description, ogTitle, ogDescription, jsonLd = [] } = Astro.props;
+const {
+  locale,
+  route,
+  title,
+  description,
+  ogTitle,
+  ogDescription,
+  jsonLd = [],
+  canonicalLocale = locale,
+  alternateLocales = locales
+} = Astro.props;
 
-const canonicalUrl = toAbsoluteUrl(withLocale(locale, route));
-const alternates = locales.map((entry) => ({
+const canonicalUrl = toAbsoluteUrl(withLocale(canonicalLocale, route));
+const alternates = alternateLocales.map((entry) => ({
   hrefLang: hreflangMap[entry],
   href: toAbsoluteUrl(withLocale(entry, route))
 }));

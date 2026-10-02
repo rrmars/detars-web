@@ -1,4 +1,7 @@
-import type { Locale } from "@/lib/site";
+import { legalEn } from "@/lib/legal.en";
+import { legalZh } from "@/lib/legal.zh";
+import { legalFallbackNotice, legalLocales, legalRoutes, type LegalFallbackLocale, type LegalKey } from "@/lib/legal";
+import { withLocale, type Locale } from "@/lib/site";
 import { pagesEn } from "@/lib/pages.en";
 import { pagesEs } from "@/lib/pages.es";
 import { pagesFr } from "@/lib/pages.fr";
@@ -11,9 +14,10 @@ export type Block =
   | { type: "list"; items: string[] }
   | { type: "cards"; items: { title: string; body: string; tag?: string }[] }
   | { type: "tiles"; items: { title: string; sub: string; note?: string; href?: string }[] }
-  | { type: "faq"; items: { q: string; a: string }[] };
+  | { type: "faq"; items: { q: string; a: string }[] }
+  | { type: "table"; head: string[]; rows: string[][]; caption?: string };
 
-export type Section = { h2: string; intro?: string; blocks: Block[] };
+export type Section = { h2: string; id?: string; intro?: string; blocks: Block[] };
 
 export type PageContent = {
   title: string;
@@ -23,6 +27,18 @@ export type PageContent = {
   answer: string;
   sections: Section[];
   cta?: { label: string; route: string };
+  /** Long-form document (legal pages): quieter section headings. */
+  doc?: boolean;
+  /** e.g. "Last updated: …", shown under the title. */
+  updated?: string;
+  /** Short note shown under the title (translation status). HTML. */
+  notice?: string;
+  /** Language of the copy when it differs from the page locale. */
+  lang?: string;
+  /** Canonical locale when this copy duplicates another locale's page. */
+  canonicalLocale?: Locale;
+  /** Restricts hreflang alternates to the locales that have their own copy. */
+  alternateLocales?: readonly Locale[];
 };
 
 export const pageRoutes = [
@@ -38,6 +54,12 @@ export const pageRoutes = [
 
 export type PageKey = (typeof pageRoutes)[number];
 
+export { legalRoutes, type LegalKey };
+
+/** Every route rendered by [page].astro and [locale]/[page].astro. */
+export const allPageRoutes = [...pageRoutes, ...legalRoutes] as const;
+export type AnyPageKey = PageKey | LegalKey;
+
 const data: Record<Locale, Record<PageKey, PageContent>> = {
   en: pagesEn,
   zh: pagesZh,
@@ -47,7 +69,20 @@ const data: Record<Locale, Record<PageKey, PageContent>> = {
   es: pagesEs
 };
 
-export function getPage(locale: Locale, key: PageKey): PageContent {
+const isLegalKey = (key: AnyPageKey): key is LegalKey => (legalRoutes as readonly string[]).includes(key);
+
+function getLegalPage(locale: Locale, key: LegalKey): PageContent {
+  const href = (route: string) => withLocale(locale, route);
+  const seo = { alternateLocales: legalLocales };
+  if (locale === "en") return { ...legalEn(href)[key], ...seo };
+  if (locale === "zh") return { ...legalZh(href)[key], ...seo };
+  // No translation: English text under this locale's chrome, canonical to English.
+  const notice = legalFallbackNotice[locale as LegalFallbackLocale](withLocale("zh", `/${key}`));
+  return { ...legalEn(href)[key], ...seo, notice, lang: "en", canonicalLocale: "en" };
+}
+
+export function getPage(locale: Locale, key: AnyPageKey): PageContent {
+  if (isLegalKey(key)) return getLegalPage(locale, key);
   return data[locale][key];
 }
 
