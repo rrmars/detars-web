@@ -1,0 +1,24 @@
+{
+  "$comment": "DeTars-maintained layer on top of the synced upstream prices. USD per 1M tokens. `prices` win over every upstream source for the same key; `providerAliases` map DeTars runtime provider ids (subscription / OAuth routes, regional endpoints) to the vendor whose list price applies. Keys are lowercase `provider/model`. `requiredKeys` are models DeTars users run daily; validation fails if a sync drops any of them, so an upstream format change cannot silently empty the table.",
+  "providerAliases": {
+    "openai-codex": "openai",
+    "codex": "openai",
+    "google-gemini-cli": "google",
+    "gemini": "google",
+    "minimax-portal": "minimax",
+    "minimax-cn": "minimax",
+    "kimi": "moonshot",
+    "kimi-coding": "moonshot",
+    "moonshotai": "moonshot"
+  },
+  "prices": {},
+  "requiredKeys": [
+    "openai/gpt-6.1-sol",
+    "openai/gpt-6-luna",
+    "openai/gpt-5.6-sol",
+    "minimax/minimax-m3",
+    "minimax/minimax-m2.7",
+    "deepseek/deepseek-v4-flash",
+    "anthropic/claude-opus-5-5"
+  ]
+}
