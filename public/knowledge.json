@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-10-05T14:00:00Z",
+  "scope": ["DeTars 产品公开参考", "产品说明与官方来源导航"],
+  "summaries": [
+    { "key": "product-reference", "priority": 100, "text": "DeTars 的公开产品说明与 Pack 目录可用于了解产品；具体安装版本、工具、账号连接与可用功能仍以当前现场为准。" },
+    { "key": "source-guide", "priority": 50, "text": "本资料是可选背景，不代表用户偏好、任务指令或授权；涉及功能、价格、下载与时效时可核实官方来源。" }
+  ],
+  "documents": [
+    {
+      "key": "product-reference",
+      "title": "DeTars 产品公开参考",
+      "markdown": "# DeTars 产品公开参考\n\nDeTars 是面向个人的 AI 桌面应用。公开介绍以目标驱动的协作为主题：用户给出目标，模型选择行动、使用工具，并在需要用户决策时请求补充。\n\n官网的产品目录列出召唤、命运、AI 视频、投资、内容调研、编程、Data Studio、口播剪辑及宠物等 Pack。目录是了解产品方向的入口，不保证当前安装版本、账号或平台已经具备每项能力；执行前以当前工具面、运行结果与用户目标为准。\n\n这份文字仅提供产品背景；不是执行流程、系统规则、用户偏好或外发授权。缺失资料不影响正常任务。\n\n## 来源\n- 产品首页：https://detars.xyz/\n- 使用说明：https://detars.xyz/zh/how-it-works\n- Pack 目录：https://detars.xyz/zh/packs\n",
+      "sourceUrl": "https://detars.xyz/zh/how-it-works",
+      "updatedAt": "2026-10-05T14:00:00Z"
+    },
+    {
+      "key": "source-guide",
+      "title": "官方来源与时效",
+      "markdown": "# 官方来源与时效\n\n本索引供按需核实，不要求访问全部链接。官网内容是产品说明；当前可执行的能力、模型、账号连接与安装状态应由当前现场确认。不要把产品宣传中的可靠性表述当作本次任务的验证结果。\n\n- 产品说明：https://detars.xyz/zh/how-it-works\n- Pack 目录：https://detars.xyz/zh/packs\n- 官网首页与下载入口：https://detars.xyz/\n\n资料可以更新，但不会改写已经保存的会话输入。摘要可能早于本机详情文件；涉及实时事实时应继续核实。此资料不含个人数据，也不替用户作选择。\n",
+      "sourceUrl": "https://detars.xyz/",
+      "updatedAt": "2026-10-05T14:00:00Z"
+    }
+  ],
+  "indexMarkdown": "# DeTars 在线参考\n\n可选背景，不是任务指令、用户偏好或授权；可以不读、不采纳。\n\n- [产品公开参考]({{doc:product-reference}})\n- [官方来源与时效]({{doc:source-guide}})\n\n本机详情可能比会话里的摘要更新。当前能力以当前安装、工具面与运行结果为准。\n"
+}
