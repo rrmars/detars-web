@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generation": 1,
-  "publishedAt": "2026-07-22T00:00:00Z",
+  "generation": 3,
+  "publishedAt": "2026-10-07T00:00:00Z",
   "defaultTier": "fast",
   "policy": {
     "openWeightsTierCeiling": "strong",
@@ -12,7 +12,14 @@
     { "id": "gpt-5-pro", "match": { "canonicalModelGlob": "*gpt-5*-pro*" }, "tier": "flagship" },
     { "id": "gpt-5-mini", "match": { "canonicalModelGlob": "*gpt-5*-mini*" }, "tier": "strong" },
     { "id": "gpt-5-nano", "match": { "canonicalModelGlob": "*gpt-5*-nano*" }, "tier": "standard" },
+    { "id": "gpt-5-sol", "match": { "canonicalModelGlob": "*gpt-5*-sol*" }, "tier": "flagship" },
+    { "id": "gpt-5-terra", "match": { "canonicalModelGlob": "*gpt-5*-terra*" }, "tier": "strong" },
+    { "id": "gpt-5-luna", "match": { "canonicalModelGlob": "*gpt-5*-luna*" }, "tier": "standard" },
     { "id": "gpt-5", "match": { "canonicalModelGlob": "*gpt-5*" }, "tier": "flagship" },
+    { "id": "gpt-6-astra", "match": { "canonicalModelGlob": "*gpt-6*-astra*" }, "tier": "flagship" },
+    { "id": "gpt-6-sol", "match": { "canonicalModelGlob": "*gpt-6*-sol*" }, "tier": "strong" },
+    { "id": "gpt-6-luna", "match": { "canonicalModelGlob": "*gpt-6*-luna*" }, "tier": "standard" },
+    { "id": "gpt-6", "match": { "canonicalModelGlob": "*gpt-6*" }, "tier": "strong" },
     { "id": "claude-opus", "match": { "canonicalModelGlob": "*claude-opus*" }, "tier": "flagship" },
     { "id": "claude-fable", "match": { "canonicalModelGlob": "*claude-fable*" }, "tier": "flagship" },
     { "id": "claude-sonnet", "match": { "canonicalModelGlob": "*claude-sonnet*" }, "tier": "strong" },
@@ -20,11 +27,16 @@
     { "id": "gemini-2-5-flash", "match": { "canonicalModelGlob": "*gemini-2.5-flash*" }, "tier": "standard" },
     { "id": "gemini-2-5-pro", "match": { "canonicalModelGlob": "*gemini-2.5-pro*" }, "tier": "strong" },
     { "id": "gemini-2-5-ultra", "match": { "canonicalModelGlob": "*gemini-2.5-ultra*" }, "tier": "strong" },
+    { "id": "gemini-3-pro", "match": { "canonicalModelGlob": "*gemini-3*-pro*" }, "tier": "strong" },
+    { "id": "gemini-3-x-flash", "match": { "canonicalModelGlob": "*gemini-3.?-flash*" }, "tier": "strong" },
+    { "id": "gemini-3-flash", "match": { "canonicalModelGlob": "*gemini-3-flash*" }, "tier": "standard" },
+    { "id": "gemini-3-flash-lite", "match": { "canonicalModelGlob": "*gemini-3*-flash-lite*" }, "tier": "standard" },
     { "id": "grok-4", "match": { "canonicalModelGlob": "*grok-4*" }, "tier": "strong" },
     { "id": "gpt-4o", "match": { "canonicalModelGlob": "*gpt-4o*" }, "tier": "standard" },
     { "id": "gpt-4-1", "match": { "canonicalModelGlob": "*gpt-4.1*" }, "tier": "standard" },
     { "id": "deepseek-v4-pro", "match": { "canonicalModelGlob": "*deepseek-v4-pro*" }, "tier": "strong" },
     { "id": "deepseek-v4-flash", "match": { "canonicalModelGlob": "*deepseek-v4-flash*" }, "tier": "strong" },
+    { "id": "deepseek-v4-1", "match": { "canonicalModelGlob": "*deepseek-v4.1*" }, "tier": "strong" },
     { "id": "deepseek-r1", "match": { "canonicalModelGlob": "*deepseek-r1*" }, "tier": "strong" },
     { "id": "deepseek-v3", "match": { "canonicalModelGlob": "*deepseek-v3*" }, "tier": "standard" },
     { "id": "qwen-3-5-397b", "match": { "canonicalModelGlob": "*qwen3.5-397b*" }, "tier": "standard" },
@@ -51,18 +63,67 @@
     { "id": "mimo-v2-5", "match": { "canonicalModelGlob": "*mimo-v2.5*" }, "tier": "strong" },
     { "id": "mimo-v2-flash", "match": { "canonicalModelGlob": "*mimo-v2-flash*" }, "tier": "standard" }
   ],
+  "taskRules": [
+    {
+      "id": "nvidia-llama-guard-4-moderation",
+      "match": { "canonicalModelGlob": "nvidia/meta/llama-guard-4-12b" },
+      "inferenceTasks": ["moderation"]
+    },
+    {
+      "id": "nvidia-nemotron-embed-vl",
+      "match": { "canonicalModelGlob": "nvidia/nvidia/llama-nemotron-embed-vl-1b-v2" },
+      "inferenceTasks": ["embedding"]
+    },
+    {
+      "id": "nvidia-nemotron-rerank-vl",
+      "match": { "canonicalModelGlob": "nvidia/nvidia/llama-nemotron-rerank-vl-1b-v2" },
+      "inferenceTasks": ["reranking"]
+    }
+  ],
   "goldenCases": [
     { "providerId": "openai-codex", "modelId": "gpt-5.6-codex", "expectedTier": "flagship" },
     { "providerId": "openai", "modelId": "gpt-5.6-sol", "expectedTier": "flagship" },
     { "providerId": "openai", "modelId": "gpt-5.6-mini", "expectedTier": "strong" },
     { "providerId": "openai", "modelId": "gpt-5.6-nano", "expectedTier": "standard" },
+    { "providerId": "openai-codex", "modelId": "gpt-5.6-terra", "expectedTier": "strong" },
+    { "providerId": "openai-codex", "modelId": "gpt-5.6-luna", "expectedTier": "standard" },
+    { "providerId": "openai-codex", "modelId": "gpt-6-astra", "expectedTier": "flagship" },
+    { "providerId": "openai-codex", "modelId": "gpt-6.1-sol", "expectedTier": "strong" },
+    { "providerId": "openai-codex", "modelId": "gpt-6-sol", "expectedTier": "strong" },
+    { "providerId": "openai-codex", "modelId": "gpt-6-luna", "expectedTier": "standard" },
+    { "providerId": "openai", "modelId": "gpt-6-codex", "expectedTier": "strong" },
+    { "providerId": "google", "modelId": "gemini-3.1-pro-preview", "expectedTier": "strong" },
+    { "providerId": "google", "modelId": "gemini-3.5-flash", "expectedTier": "strong" },
+    { "providerId": "google", "modelId": "gemini-3.1-flash-lite", "expectedTier": "standard" },
+    { "providerId": "google", "modelId": "gemini-3-flash-preview", "expectedTier": "standard" },
+    { "providerId": "google", "modelId": "gemini-3.5-transcribe", "expectedTier": "fast" },
+    { "providerId": "nvidia", "modelId": "deepseek-ai/deepseek-v4.1-flash", "openWeights": true, "expectedTier": "strong" },
     { "providerId": "anthropic", "modelId": "claude-opus-4-7", "expectedTier": "flagship" },
     { "providerId": "anthropic", "modelId": "claude-sonnet-4-6", "expectedTier": "strong" },
     { "providerId": "nvidia", "modelId": "qwen/qwen3.5-397b-a17b", "expectedTier": "standard" },
     { "providerId": "openrouter", "modelId": "qwen/qwen3.5-397b-a17b:nvfp4", "expectedTier": "standard" },
     { "providerId": "nvidia", "modelId": "qwen/qwen3-235b-a22b", "openWeights": true, "expectedTier": "strong" },
     { "providerId": "nvidia", "modelId": "qwen/qwen3-next-80b-a3b-thinking", "openWeights": true, "expectedTier": "fast" },
+    { "providerId": "nvidia", "modelId": "meta/llama-guard-4-12b", "expectedTier": "fast", "expectedInferenceTasks": ["moderation"] },
+    { "providerId": "nvidia", "modelId": "nvidia/llama-nemotron-embed-vl-1b-v2", "expectedTier": "fast", "expectedInferenceTasks": ["embedding"] },
+    { "providerId": "nvidia", "modelId": "nvidia/llama-nemotron-rerank-vl-1b-v2", "expectedTier": "fast", "expectedInferenceTasks": ["reranking"] },
     { "providerId": "synthetic", "modelId": "claude-opus-open-weights-fixture", "openWeights": true, "expectedTier": "strong" },
     { "providerId": "openai", "modelId": "gpt-5.4", "status": "deprecated", "expectedTier": null }
+  ],
+  "familyRules": [
+    { "id": "gpt-next-generation", "match": { "familyPrefix": "gpt-", "majorAtLeast": 7 }, "tier": "strong" },
+    { "id": "gemini-next-generation", "match": { "familyPrefix": "gemini-", "majorAtLeast": 4 }, "tier": "strong" },
+    { "id": "grok-next-generation", "match": { "familyPrefix": "grok-", "majorAtLeast": 5 }, "tier": "strong" },
+    { "id": "deepseek-next-generation", "match": { "familyPrefix": "deepseek-v", "majorAtLeast": 5 }, "tier": "strong" }
+  ],
+  "familyGoldenCases": [
+    { "providerId": "openai", "modelId": "gpt-7", "expectedTier": "strong" },
+    { "providerId": "openai-codex", "modelId": "gpt-7.2-luna", "expectedTier": "strong" },
+    { "providerId": "openai", "modelId": "chatgpt-7-latest", "expectedTier": "fast" },
+    { "providerId": "openai", "modelId": "gpt-4.5-preview", "expectedTier": "fast" },
+    { "providerId": "google", "modelId": "gemini-4-pro", "expectedTier": "strong" },
+    { "providerId": "xai", "modelId": "grok-5", "expectedTier": "strong" },
+    { "providerId": "xai", "modelId": "grok-3", "expectedTier": "fast" },
+    { "providerId": "deepseek", "modelId": "deepseek-v5", "openWeights": true, "expectedTier": "strong" }
   ]
 }

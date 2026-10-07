@@ -83,7 +83,38 @@ const validateCatalog = (raw) => {
     return { id, tier: rule.tier, glob, specificity: literalLength(glob), regex: compileGlob(glob) };
   });
 
-  return { ...value, policy, rules };
+  const familyPrefixes = new Set();
+  const familyRules = (value.familyRules ?? []).map((item, index) => {
+    if (!Array.isArray(value.familyRules)) fail("familyRules must be an array");
+    const rule = assertRecord(item, `familyRules[${index}]`);
+    const id = assertString(rule.id, `familyRules[${index}].id`);
+    if (ids.has(id)) fail(`duplicate rule id: ${id}`);
+    ids.add(id);
+    if (!TIER_INDEX.has(rule.tier)) fail(`rule ${id} has invalid tier`);
+    const match = assertRecord(rule.match, `familyRules[${index}].match`);
+    const prefix = assertString(match.familyPrefix, `familyRules[${index}].match.familyPrefix`).toLowerCase();
+    if (!/^[a-z][a-z0-9.-]*[a-z.-]$/.test(prefix)) fail(`familyRules[${index}].match.familyPrefix is invalid`);
+    if (!Number.isSafeInteger(match.majorAtLeast) || match.majorAtLeast < 1) {
+      fail(`familyRules[${index}].match.majorAtLeast must be a positive integer`);
+    }
+    if (familyPrefixes.has(prefix)) fail(`two family rules for "${prefix}"`);
+    familyPrefixes.add(prefix);
+    const pattern = new RegExp(`(?:^|[^a-z0-9])${prefix.replace(/[.\\-]/g, "\\$&")}(\\d+)(?!\\d)`, "i");
+    return { id, tier: rule.tier, prefixLength: prefix.length, majorAtLeast: match.majorAtLeast, pattern };
+  });
+
+  return { ...value, policy, rules, familyRules };
+};
+
+// Mirrors the desktop matcher: family rules apply only when no glob rule matched.
+const resolveFamilyTier = (catalog, identity) => {
+  let best = null;
+  for (const rule of catalog.familyRules) {
+    const major = rule.pattern.exec(identity)?.[1];
+    if (major === undefined || Number(major) < rule.majorAtLeast) continue;
+    if (!best || rule.prefixLength > best.prefixLength) best = rule;
+  }
+  return best?.tier ?? null;
 };
 
 const resolveTier = (catalog, testCase) => {
@@ -95,7 +126,7 @@ const resolveTier = (catalog, testCase) => {
   if (matches.length > 1 && matches[0].specificity === matches[1].specificity && matches[0].tier !== matches[1].tier) {
     fail(`ambiguous runtime match for ${identity}: ${matches[0].id}, ${matches[1].id}`);
   }
-  let tier = matches[0]?.tier ?? catalog.defaultTier;
+  let tier = matches[0]?.tier ?? resolveFamilyTier(catalog, identity) ?? catalog.defaultTier;
   if (testCase.openWeights === true) tier = capTier(tier, catalog.policy.openWeightsTierCeiling);
   return tier;
 };
@@ -104,7 +135,8 @@ const fileUrl = new URL("../public/model-tiers.json", import.meta.url);
 const raw = JSON.parse(await readFile(fileUrl, "utf8"));
 const catalog = validateCatalog(raw);
 
-for (const [index, testCaseRaw] of catalog.goldenCases.entries()) {
+const allGoldenCases = [...catalog.goldenCases, ...(catalog.familyGoldenCases ?? [])];
+for (const [index, testCaseRaw] of allGoldenCases.entries()) {
   const testCase = assertRecord(testCaseRaw, `goldenCases[${index}]`);
   assertString(testCase.providerId, `goldenCases[${index}].providerId`);
   if (testCase.expectedTier !== null && !TIER_INDEX.has(testCase.expectedTier)) {
@@ -116,4 +148,4 @@ for (const [index, testCaseRaw] of catalog.goldenCases.entries()) {
   }
 }
 
-process.stdout.write(`model-tiers.json valid: generation=${catalog.generation}, rules=${catalog.rules.length}, goldenCases=${catalog.goldenCases.length}\n`);
+process.stdout.write(`model-tiers.json valid: generation=${catalog.generation}, rules=${catalog.rules.length}, familyRules=${catalog.familyRules.length}, goldenCases=${allGoldenCases.length}\n`);
