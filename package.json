@@ -8,10 +8,11 @@
     "build": "npm run check:knowledge && npm run check:model-tiers && npm run check:model-pricing && astro build",
     "preview": "astro preview",
     "check": "npm run check:knowledge && npm run check:model-tiers && npm run check:model-pricing && astro check",
-    "check:knowledge": "node scripts/validate-knowledge.mjs",
+    "check:knowledge": "node scripts/validate-knowledge.mjs && node scripts/build-knowledge-skills.mjs --check",
     "check:model-tiers": "node scripts/validate-model-tiers.mjs",
     "check:model-pricing": "node scripts/validate-model-pricing.mjs",
-    "sync:model-pricing": "node scripts/sync-model-pricing.mjs && node scripts/validate-model-pricing.mjs"
+    "sync:model-pricing": "node scripts/sync-model-pricing.mjs && node scripts/validate-model-pricing.mjs",
+    "sync:knowledge-skills": "node scripts/build-knowledge-skills.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",

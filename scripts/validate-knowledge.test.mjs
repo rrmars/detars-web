@@ -21,3 +21,10 @@ test("reject unsafe, missing, duplicate, malformed Unicode, oversized and unknow
   ]) assert.throws(() => validateKnowledge(bad));
   assert.throws(() => validateKnowledge(value, 256 * 1024 + 1));
 });
+test("agrees with the app decoder on every shared Bundle v1 case", async () => {
+  const { cases } = JSON.parse(await readFile(new URL("./fixtures/online-knowledge-bundle-cases.json", import.meta.url), "utf8"));
+  for (const c of cases) {
+    if (c.valid) assert.doesNotThrow(() => validateKnowledge(c.bundle), c.name);
+    else assert.throws(() => validateKnowledge(c.bundle), undefined, c.name);
+  }
+});

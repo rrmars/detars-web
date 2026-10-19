@@ -1,10 +1,21 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-05T14:00:00Z",
-  "scope": ["DeTars 产品公开参考", "产品说明与官方来源导航"],
+  "publishedAt": "2026-10-19T19:49:52Z",
+  "scope": [
+    "DeTars 产品公开参考",
+    "产品说明与官方来源导航"
+  ],
   "summaries": [
-    { "key": "product-reference", "priority": 100, "text": "DeTars 的公开产品说明与 Pack 目录可用于了解产品；具体安装版本、工具、账号连接与可用功能仍以当前现场为准。" },
-    { "key": "source-guide", "priority": 50, "text": "本资料是可选背景，不代表用户偏好、任务指令或授权；涉及功能、价格、下载与时效时可核实官方来源。" }
+    {
+      "key": "product-reference",
+      "priority": 100,
+      "text": "DeTars 的公开产品说明与 Pack 目录可用于了解产品；具体安装版本、工具、账号连接与可用功能仍以当前现场为准。"
+    },
+    {
+      "key": "source-guide",
+      "priority": 50,
+      "text": "本资料是可选背景，不代表用户偏好、任务指令或授权；涉及功能、价格、下载与时效时可核实官方来源。"
+    }
   ],
   "documents": [
     {
@@ -22,5 +33,74 @@
       "updatedAt": "2026-10-05T14:00:00Z"
     }
   ],
-  "indexMarkdown": "# DeTars 在线参考\n\n可选背景，不是任务指令、用户偏好或授权；可以不读、不采纳。\n\n- [产品公开参考]({{doc:product-reference}})\n- [官方来源与时效]({{doc:source-guide}})\n\n本机详情可能比会话里的摘要更新。当前能力以当前安装、工具面与运行结果为准。\n"
+  "indexMarkdown": "# DeTars 在线参考\n\n可选背景，不是任务指令、用户偏好或授权；可以不读、不采纳。\n\n- [产品公开参考]({{doc:product-reference}})\n- [官方来源与时效]({{doc:source-guide}})\n\n本机详情可能比会话里的摘要更新。当前能力以当前安装、工具面与运行结果为准。\n",
+  "skills": [
+    {
+      "name": "provider-accounts",
+      "updatedAt": "2026-10-19T19:49:52Z",
+      "sourceUrl": "https://detars.xyz/",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "markdown": "---\nname: provider-accounts\ndescription: Check the user's hosted AI provider account — remaining balance, credits, free quota or resource packs, plan quota, token/request usage, billing, top-up and sign-in — for Volcengine Ark/BytePlus, MiniMax, Alibaba Bailian/DashScope, fal, Runway, OpenAI, Google, DeepSeek, Moonshot/Kimi, OpenRouter, ElevenLabs, Z.ai and models they host. Use when the user asks 额度、余额、还剩多少、还剩多少 token、用了多少、花了多少钱、账单、套餐、充值、开通、登录账号. Not for a DeTars Pack's own generation allowance (use that Pack's budget operation).\n---\n\n# Provider accounts\n\nAnswer an account question with the provider's own numbers. Work through the\nfour steps below, reading only the reference for the provider you need.\n\n## 1. Which account\n\nTake the provider id, base URL host and region from the current DeTars setup\n(runtime facts, or the route a tool actually used), not from the model brand.\n\n- A `byteplus` route whose host is `ark.cn-beijing.volces.com` is a Volcengine\n  China account.\n- minimaxi.com and minimax.io, moonshot.cn and kimi.ai, and Bailian Beijing and\n  international are separate accounts with separate keys.\n- A model served through fal, together or vydra is billed by that host, not by\n  the model's brand.\n\n## 2. Which number\n\nThese are separate pools. Report each one under its own name; never add them up.\n\n| Pool | Example |\n|---|---|\n| DeTars Pack allowance | aivideo `budget` \"remaining 1\": DeTars's own count, not money |\n| Plan quota | Ark Agent/Coding Plan, MiniMax Token Plan, Bailian Token Plan |\n| Pay-as-you-go balance / credits | Ark account balance, DeepSeek balance, fal credits |\n| Free quota / resource packs | Ark free quota per model |\n| Usage (tokens / requests) | delayed aggregates (Ark: 5–30 min) |\n| Billing (money owed) | usually settled the next day |\n\nThe `usage` returned by one generation is what that call consumed, not what is\nleft.\n\n## 3. Which identity\n\n| Kind | Providers | How |\n|---|---|---|\n| Same inference key | MiniMax, Runway, DeepSeek, Moonshot, ElevenLabs, OpenRouter `/key`, Z.ai | Reuse the key DeTars already holds, without reading it: `detars infer provider exec --provider <id> --env <VAR> -- <command>`. The child reads the key from that environment variable. |\n| Separate sign-in | Ark (`arkcli auth login`), Bailian (`bl auth login --console`) | Run the vendor CLI login yourself; it opens a browser or prints a link |\n| Admin / management key | OpenAI admin key, fal admin key, OpenRouter `/credits` | Tell the user which console page creates it and where to put it; never ask them to paste a key into chat |\n| Console only | Google, Replicate, Kling direct | Open the console with the browser tool (try `import_signins` first) |\n\nWhen a reference says a query needs a separate identity, don't retry with the\ninference key. An auth error there is expected, not a sign of a broken key.\n\nSome vendor CLIs ship official agent Skills: arkcli, mmx and bl, plus Runway's\nskills. Installing the CLI also installs those Skills; afterwards, read the\nrelevant one by its absolute path for detail. Installing can also write into the\nuser's other agents' skill folders (arkcli writes `~/.agents/skills` and\n`~/.claude/skills`). Mention that in your reply.\n\n## 4. Reply for a non-technical user\n\n- Lead with the numbers: pool name, amount, unit, as-of time and any delay.\n- When a sign-in is needed, start it yourself and ask for exactly one action,\n  for example: \"我已打开火山登录页，请在弹出的窗口扫码 / 点确认，好了回我一句\".\n  Give a raw command only if the user asked for one, or every automatic path\n  failed.\n- Say what you could not see and why, for example \"账单要明天才出\".\n\n## References\n\nEach file starts with the date it was last checked against official sources.\n\n- [Volcengine Ark](references/ark.md), including `byteplus` routes on China hosts\n- [BytePlus ModelArk international](references/byteplus.md)\n- [MiniMax](references/minimax.md)\n- [Alibaba Bailian / DashScope](references/bailian.md)\n- [fal](references/fal.md)\n- [Runway](references/runway.md)\n- [OpenAI](references/openai.md)\n- [Google Gemini / Veo](references/google.md)\n- [DeepSeek](references/deepseek.md)\n- [Moonshot / Kimi](references/moonshot.md)\n- [OpenRouter](references/openrouter.md)\n- [ElevenLabs](references/elevenlabs.md)\n- [Z.ai](references/zai.md)\n- [Hosted models: Kling, Replicate, Luma and others](references/hosted-models.md)\n"
+        },
+        {
+          "path": "references/ark.md",
+          "markdown": "# Volcengine Ark (火山方舟)\n\nChecked 2026-10-20 against arkcli 1.0.40 (`arkcli usage balance --help`) and its\nofficial skills `arkcli-usage`, `arkcli-billing` and `arkcli-auth`.\n\nApplies to DeTars provider `volcengine`, and to a `byteplus` route whose host is\n`ark.cn-beijing.volces.com` (a China account despite the id).\n\n## Identity: control plane, not ARK_API_KEY\n\nBalance, usage and billing go through the control plane. They need a\nVolcengine sign-in (SSO, giving STS credentials). `ARK_API_KEY` and arkcli's\n`--api-key` only cover inference. The AK/SK login channel is closed in arkcli\n1.0.40.\n\n- Install: `npm i -g @volcengine/ark-cli` (or run once through\n  `npx --yes @volcengine/ark-cli <args>`). Its postinstall runs\n  `arkcli +connect --refresh`, which installs about 26 official `arkcli-*`\n  Skills into `~/.agents/skills` and `~/.claude/skills`. Tell the user.\n- Check: `arkcli auth status`. \"not configured\" means no sign-in yet.\n- Sign in from an agent (non-TTY), two steps:\n  1. `arkcli auth login --no-browser` prints JSON with `authorize_url`. Open that\n     URL for the user, in the browser tool or by handing it over. They sign in on\n     any device and copy the base64 code the page shows.\n  2. `arkcli auth login --no-browser --code <code>` finishes the login.\n  Both flags belong to `auth login` itself, not to `volc-sso`. If `ve` (volcengine\n  CLI ≥ 1.0.45) is already logged in, an interactive `arkcli auth login` can\n  reuse that session.\n\n## Queries\n\n| Question | Command | Notes |\n|---|---|---|\n| Free quota / resource packs left | `arkcli usage balance --type free-quota [--modality LLM\\|ComputerVision\\|Audio\\|Embedding\\|Router] [--model <name>] --format json` | Video models are `ComputerVision`; `--modality` takes no aliases |\n| Agent / Coding Plan quota | `arkcli usage balance --type plan [--product agent-plan\\|coding-plan\\|agent-plan-team\\|coding-plan-team]` | Same data as `arkcli usage plan` |\n| Media asset library capacity | `arkcli usage balance --type media-asset` | |\n| Tokens / requests used | `arkcli usage stats --start <YYYY-MM-DD> --mine` | 5–30 min delay; read `arkcli-usage/references/arkcli-usage-stats.md` first |\n| Money actually owed | `arkcli billing list --start <YYYY-MM>` | Settled T+1; read `arkcli-billing` first |\n\nEach official skill says to read its reference before running these commands.\nDo that once the CLI is installed. Speech models (TTS/ASR) have no usage or\nbalance query in arkcli.\n\nConsole for humans: <https://console.volcengine.com/ark/region:cn-beijing/overview>\n"
+        },
+        {
+          "path": "references/bailian.md",
+          "markdown": "# Alibaba Bailian / DashScope (阿里云百炼)\n\nChecked 2026-10-20 against `modelstudioai/cli` (npm `bailian-cli` 2.4.0; README and\n`packages/commands/src/commands/usage/*.ts`).\n\nDeTars providers `qwen` and `alibaba` (env `QWEN_API_KEY`, `MODELSTUDIO_API_KEY`,\n`DASHSCOPE_API_KEY`).\n\n## Identity: console sign-in, not the API key\n\nEvery `bl usage` command needs a console OAuth sign-in. An API key\n(`bl auth login --api-key`) does not cover usage queries. AK/SK is only needed for\nToken Plan seat administration.\n\n- Sign in: `bl auth login --console`; international accounts add\n  `--console-site international`. It opens a browser sign-in; the user only\n  confirms there.\n- `bl skill init` installs Bailian's official Skills. The official installer also\n  installs them automatically. Tell the user.\n\n## Queries\n\n| Question | Command |\n|---|---|\n| Free quota per model | `bl usage free [--model <name>]` |\n| Usage summary | `bl usage summary` |\n| Usage statistics | `bl usage stats` |\n| Token Plan quota | `bl usage token-plan` |\n| Coding Plan quota | `bl usage coding-plan` |\n\nBeijing and international are separate accounts.\n"
+        },
+        {
+          "path": "references/byteplus.md",
+          "markdown": "# BytePlus ModelArk (international)\n\nChecked 2026-10-20. Not verified: an account balance or usage API, and an\ninternational arkcli build. The arkcli checked here is the China build\n(`arkcli-volc`).\n\n- First confirm the host. A DeTars `byteplus` route on `ark.cn-beijing.volces.com`\n  is a Volcengine China account; use [ark](ark.md).\n- On `ark.ap-southeast.bytepluses.com`, use the BytePlus console's billing pages\n  in the browser tool (try `import_signins` first). Say plainly that no API path\n  was verified.\n- `byteplus-sa/ark-mcp` covers generation tasks and storage, not balance.\n"
+        },
+        {
+          "path": "references/deepseek.md",
+          "markdown": "# DeepSeek\n\nChecked 2026-10-20 against <https://api-docs.deepseek.com/api/get-user-balance>.\n\nDeTars provider `deepseek` (env `DEEPSEEK_API_KEY`).\n\n- Identity: the same API key (Bearer).\n- Balance: `GET https://api.deepseek.com/user/balance` returns `is_available`\n  and `balance_infos[]` (total, granted and topped-up balance; CNY or USD).\n- Run it as\n  `detars infer provider exec --provider deepseek --env DEEPSEEK_API_KEY -- python3 <script>`.\n"
+        },
+        {
+          "path": "references/elevenlabs.md",
+          "markdown": "# ElevenLabs\n\nChecked 2026-10-20 against\n<https://elevenlabs.io/docs/api-reference/user/subscription/get>.\n\nDeTars provider `elevenlabs` (TTS).\n\n- Characters: `GET https://api.elevenlabs.io/v1/user/subscription` returns\n  `character_count`, `character_limit` and `next_character_count_reset_unix`.\n- Identity: most likely the same API key in the `xi-api-key` header. The page\n  does not state its permission scope (not verified).\n"
+        },
+        {
+          "path": "references/fal.md",
+          "markdown": "# fal\n\nChecked 2026-10-20 against <https://fal.ai/docs/platform-apis/v1/account/billing>.\n\nDeTars provider `fal` (image and video).\n\n- Balance: `GET https://api.fal.ai/v1/account/billing?expand=credits` returns\n  `credits.current_balance` and currency.\n- Identity: an **admin-scoped** key (`Authorization: Key <ADMIN_KEY>`). Whether\n  an ordinary inference `FAL_KEY` is accepted is not verified. If it is rejected,\n  that is expected: tell the user an admin key is needed and where fal's\n  dashboard creates one, or open the fal billing dashboard in the browser tool.\n- Neither `fal-ai-community-skills` nor `genmedia-cli` has a billing command.\n- Models from other brands (Kling, Wan, …) that run on fal are billed here.\n"
+        },
+        {
+          "path": "references/google.md",
+          "markdown": "# Google Gemini / Veo / Lyria\n\nChecked 2026-10-20 (secondary sources). Not verified: a public API for remaining\nquota or balance.\n\nDeTars providers `google` and `google-gemini-cli`.\n\n- Rate limits and usage: Google AI Studio's usage and rate-limit pages. Money:\n  Google Cloud Console → Billing. Use the browser tool with `import_signins`.\n- `google-gemini-cli` sign-ins have a plan quota that OpenClaw reads through an\n  internal endpoint. It is not a public API; don't call it by hand.\n"
+        },
+        {
+          "path": "references/hosted-models.md",
+          "markdown": "# Hosted models: Kling, Replicate, Luma and others\n\nChecked 2026-10-20.\n\nDeTars has no direct provider for Kling, Replicate, Luma or SiliconFlow. When one\nof their models runs through fal, together or vydra, the bill and balance belong\nto that host; use its reference ([fal](fal.md)).\n\n- Kling: the official OAuth MCP (`klingai-dev/openclaw-plugin`) has a\n  `query_membership_and_credits` tool returning `availableRemainCredits`. That is\n  the Kling account's membership credits, possibly not the same pool as API\n  resource packs (not verified). A direct-API account endpoint is not verified.\n- Replicate: the API has no balance or billing endpoint (`GET /v1/account`\n  returns identity only). Use the Replicate dashboard.\n- SiliconFlow (if the user has a key outside DeTars):\n  `GET https://api.siliconflow.cn/v1/user/info` (`.com` internationally) returns\n  `balance`, `chargeBalance` and `totalBalance` with the same key. Only seen in a\n  docs summary; not directly verified.\n"
+        },
+        {
+          "path": "references/minimax.md",
+          "markdown": "# MiniMax\n\nChecked 2026-10-20 against MiniMax's official CLI `mmx-cli` source (MiniMax-AI/cli\n@a965e72: `src/client/endpoints.ts`, `src/commands/quota/show.ts`) and OpenClaw's\n`provider-usage.fetch.minimax.ts`.\n\nDeTars providers `minimax` and `minimax-portal` (`minimax-cn` is an alias).\nInference key env: `MINIMAX_API_KEY`.\n\n## Identity: same key\n\nThe inference key works (Bearer). Regions are separate accounts: mmx uses\n`https://api.minimax.io` (global) and `https://api.minimax.cn` (cn). Use the host\nDeTars's minimax provider actually uses.\n\n## Two pools, picked by key type\n\n| Key | Endpoint (relative to the base host) | Returns |\n|---|---|---|\n| Pay-as-you-go secret key (`sk-api-…`) | `GET /account/query_balance` | available / cash / voucher / credit / owed balance |\n| Token / Coding Plan key or portal OAuth | `GET /v1/token_plan/remains` | per-model plan remains |\n\nReport the two pools separately.\n\n## Ways to run it\n\n- With the DeTars key, write a small HTTP script that reads `MINIMAX_API_KEY`\n  from its environment, and run it as\n  `detars infer provider exec --provider minimax --env MINIMAX_API_KEY -- python3 <script>`.\n  `mmx` reads its key from `--api-key` or its own config file, not from that\n  environment variable at query time. Don't put the key in argv.\n- If the user already set up `mmx` (`npm i -g mmx-cli`, then `mmx auth login`),\n  `mmx quota show` does the same selection. The CLI ships an official skill\n  (`skill/SKILL.md`); `MiniMax-AI/skills` has more.\n"
+        },
+        {
+          "path": "references/moonshot.md",
+          "markdown": "# Moonshot / Kimi\n\nChecked 2026-10-20 against <https://platform.kimi.com/docs/api/balance>.\n\nDeTars provider `moonshot` (env `MOONSHOT_API_KEY`). `kimi-coding` (Kimi Code\nplan) is a different product; whether it shares this balance is not verified.\n\n- Identity: the same API key (Bearer).\n- Balance (China platform): `GET https://api.moonshot.cn/v1/users/me/balance`\n  returns available, voucher and cash balance in CNY.\n- The international platform (platform.kimi.ai) has separate keys; its balance\n  host is not verified.\n- Console: <https://platform.kimi.com> (moved from platform.moonshot.cn).\n"
+        },
+        {
+          "path": "references/openai.md",
+          "markdown": "# OpenAI\n\nChecked 2026-10-20 against the OpenAI Admin APIs guide and usage reference\n(developers.openai.com).\n\nDeTars provider `openai`. `openai-codex` is a ChatGPT sign-in, not an API\naccount.\n\n- Usage: `GET /v1/organization/usage/completions` (and other usage types).\n  Costs: `GET /v1/organization/costs`.\n- Identity: an **admin key** (`sk-admin-…`) created by an organization owner.\n  An ordinary API key is rejected, and ChatGPT workspace admin keys don't work\n  here.\n- No credit-balance API was found (not verified as absent). For the remaining\n  balance, open the platform billing page in the browser tool.\n- `openai-codex` plan limits are not an OpenAI API balance; don't mix them up.\n"
+        },
+        {
+          "path": "references/openrouter.md",
+          "markdown": "# OpenRouter\n\nChecked 2026-10-20 against <https://openrouter.ai/docs/api-reference/get-credits>\nand the limits page.\n\nDeTars provider `openrouter` (env `OPENROUTER_API_KEY`).\n\n| Question | Endpoint | Identity |\n|---|---|---|\n| This key's limit, remaining limit and usage (daily, weekly, monthly, all time) | `GET https://openrouter.ai/api/v1/key` | the ordinary key (partly verified) |\n| Account total credits and total usage | `GET https://openrouter.ai/api/v1/credits` | **management key** only; others get 403 |\n\nA per-key limit is not the account balance; report them separately.\n"
+        },
+        {
+          "path": "references/runway.md",
+          "markdown": "# Runway\n\nChecked 2026-10-20 against Runway's official API skills (`runwayml/skills`,\n`rw-check-org-details`).\n\nDeTars provider `runway` (env `RUNWAYML_API_SECRET`).\n\n- Identity: the same API secret.\n- Credits and limits: `GET https://api.dev.runwayml.com/v1/organization` with\n  header `X-Runway-Version: 2024-11-06`. It returns `creditBalance`, tier limits\n  and today's usage. Credit history: `POST /v1/organization/usage`. With the\n  SDK: `client.organization.retrieve()`.\n- Run it as\n  `detars infer provider exec --provider runway --env RUNWAYML_API_SECRET -- node <script>`.\n- Console: <https://dev.runwayml.com>\n"
+        },
+        {
+          "path": "references/zai.md",
+          "markdown": "# Z.ai / Zhipu\n\nChecked 2026-10-20. No balance API appears in the bigmodel.cn docs index.\n\nDeTars provider `zai` (env `ZAI_API_KEY`).\n\n- Coding Plan quota: OpenClaw reads\n  `https://api.z.ai/api/monitor/usage/quota/limit` with the same key. That\n  endpoint is only seen in OpenClaw's source, not in public docs; say so when you\n  use it.\n- For money, use the console billing page in the browser tool.\n"
+        }
+      ]
+    }
+  ]
 }

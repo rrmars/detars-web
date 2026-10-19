@@ -31,11 +31,40 @@ export function validateKnowledge(value, rawBytes = Buffer.byteLength(JSON.strin
     return k;
   });
   if (replaced.includes("{{")) fail();
+  validateSkills(value.skills, keys, fail);
   return value;
+}
+
+// Optional official Skills (Markdown only). Mirrors decodeOnlineKnowledgeSkills in the app.
+function validateSkills(skills, documentKeys, fail) {
+  if (skills === undefined) return;
+  const text = (v, max) => typeof v === "string" && v.trim() && !v.includes("\0") && Buffer.byteLength(v) <= max && Buffer.from(v).toString("utf8") === v;
+  const date = v => text(v, 64) && Number.isFinite(Date.parse(v));
+  const filePath = /^(?:SKILL\.md|references\/[a-z0-9]+(?:-[a-z0-9]+)*\.md)$/;
+  if (!Array.isArray(skills) || skills.length > 16) fail();
+  const names = new Set();
+  for (const s of skills) {
+    if (!s || typeof s !== "object" || typeof s.name !== "string" || s.name.length > 64 ||
+      !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s.name) || names.has(s.name) || documentKeys.has(s.name) ||
+      !date(s.updatedAt) || !text(s.sourceUrl, 2048) || !Array.isArray(s.files) ||
+      s.files.length < 1 || s.files.length > 24) fail();
+    const url = new URL(s.sourceUrl);
+    if (!["http:", "https:"].includes(url.protocol) || url.username || url.password) fail();
+    const paths = new Set();
+    for (const f of s.files) {
+      if (!f || typeof f.path !== "string" || !filePath.test(f.path) || paths.has(f.path) || !text(f.markdown, 64 * 1024)) fail();
+      paths.add(f.path);
+    }
+    const main = s.files.find(f => f.path === "SKILL.md");
+    const front = main && /^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/.exec(main.markdown);
+    const declared = front && /^name:[ \t]*["']?([^"'\r\n]+?)["']?[ \t]*$/m.exec(front[1])?.[1];
+    if (declared !== s.name || !/^description:[ \t]*\S/m.test(front[1])) fail();
+    names.add(s.name);
+  }
 }
 export async function main() {
   const bytes = await readFile(new URL("../public/knowledge.json", import.meta.url));
   const value = validateKnowledge(JSON.parse(new TextDecoder("utf-8", {fatal:true}).decode(bytes)), bytes.length);
-  console.log(`knowledge.json valid: documents=${value.documents.length}, summaries=${value.summaries.length}, bytes=${bytes.length}`);
+  console.log(`knowledge.json valid: documents=${value.documents.length}, summaries=${value.summaries.length}, skills=${value.skills?.length ?? 0}, bytes=${bytes.length}`);
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) await main();
