@@ -34,8 +34,13 @@ Volcengine sign-in (SSO, giving STS credentials). `ARK_API_KEY` and arkcli's
 | Free quota / resource packs left | `arkcli usage balance --type free-quota [--modality LLM\|ComputerVision\|Audio\|Embedding\|Router] [--model <name>] --format json` | Video models are `ComputerVision`; `--modality` takes no aliases |
 | Agent / Coding Plan quota | `arkcli usage balance --type plan [--product agent-plan\|coding-plan\|agent-plan-team\|coding-plan-team]` | Same data as `arkcli usage plan` |
 | Media asset library capacity | `arkcli usage balance --type media-asset` | |
-| Tokens / requests used | `arkcli usage stats --start <YYYY-MM-DD> --mine` | 5–30 min delay; read `arkcli-usage/references/arkcli-usage-stats.md` first |
-| Money actually owed | `arkcli billing list --start <YYYY-MM>` | Settled T+1; read `arkcli-billing` first |
+| Tokens / requests used | `arkcli usage stats --start <YYYY-MM-DD> --mine` | 5–30 min delay; read `arkcli-usage/references/arkcli-usage-stats.md` first. A root account has no sub-user identity: drop `--mine` when it says so |
+| Money actually owed | `arkcli billing list --start <YYYY-MM>` | Settled T+1; read `arkcli-billing` first. Needs split billing enabled on the account; otherwise say so and point to the console's billing center |
+
+The account's CNY cash balance is not exposed by arkcli 1.0.40 (there is no
+`billing balance`); for that, open the console's billing center. A free-quota row
+in state `Unavailable` means the model is not activated yet, not that its quota
+is used up.
 
 Each official skill says to read its reference before running these commands.
 Do that once the CLI is installed. Speech models (TTS/ASR) have no usage or
