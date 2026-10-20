@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generation": 3,
-  "publishedAt": "2026-10-07T00:00:00Z",
+  "generation": 4,
+  "publishedAt": "2026-10-20T00:00:00Z",
   "defaultTier": "fast",
   "policy": {
     "openWeightsTierCeiling": "strong",
@@ -17,6 +17,7 @@
     { "id": "gpt-5-luna", "match": { "canonicalModelGlob": "*gpt-5*-luna*" }, "tier": "standard" },
     { "id": "gpt-5", "match": { "canonicalModelGlob": "*gpt-5*" }, "tier": "flagship" },
     { "id": "gpt-6-astra", "match": { "canonicalModelGlob": "*gpt-6*-astra*" }, "tier": "flagship" },
+    { "id": "gpt-6-1-sol", "match": { "canonicalModelGlob": "*gpt-6.1*-sol*" }, "tier": "flagship" },
     { "id": "gpt-6-sol", "match": { "canonicalModelGlob": "*gpt-6*-sol*" }, "tier": "strong" },
     { "id": "gpt-6-luna", "match": { "canonicalModelGlob": "*gpt-6*-luna*" }, "tier": "standard" },
     { "id": "gpt-6", "match": { "canonicalModelGlob": "*gpt-6*" }, "tier": "strong" },
@@ -88,7 +89,7 @@
     { "providerId": "openai-codex", "modelId": "gpt-5.6-terra", "expectedTier": "strong" },
     { "providerId": "openai-codex", "modelId": "gpt-5.6-luna", "expectedTier": "standard" },
     { "providerId": "openai-codex", "modelId": "gpt-6-astra", "expectedTier": "flagship" },
-    { "providerId": "openai-codex", "modelId": "gpt-6.1-sol", "expectedTier": "strong" },
+    { "providerId": "openai-codex", "modelId": "gpt-6.1-sol", "expectedTier": "flagship" },
     { "providerId": "openai-codex", "modelId": "gpt-6-sol", "expectedTier": "strong" },
     { "providerId": "openai-codex", "modelId": "gpt-6-luna", "expectedTier": "standard" },
     { "providerId": "openai", "modelId": "gpt-6-codex", "expectedTier": "strong" },
