@@ -1,0 +1,29 @@
+{
+  "$comment": "Advisory snapshot of DeTars factory skills/ directory names, checked 2026-10-25. Refresh when factory Skills change. An installed App may carry another snapshot; collisions warn only. No private-repository access is needed at build time.",
+  "names": [
+    "agent-summoner",
+    "apple-clock-app",
+    "apple-music-app",
+    "apple-numbers-app",
+    "bid-document",
+    "blender-desktop-app",
+    "colleague-skill",
+    "data-animation",
+    "detars-rescue",
+    "docx",
+    "download-sources",
+    "findmy-app",
+    "iphone-mirroring-app",
+    "memory-migration",
+    "migrate-openclaw",
+    "notion-desktop-app",
+    "pdf",
+    "pptx",
+    "research-sources",
+    "slack-desktop-app",
+    "spotify-desktop-app",
+    "video-provider-reference",
+    "web-access",
+    "xlsx"
+  ]
+}

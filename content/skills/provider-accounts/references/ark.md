@@ -13,6 +13,10 @@ Volcengine sign-in (SSO, giving STS credentials). `ARK_API_KEY` and arkcli's
 `--api-key` only cover inference. The AK/SK login channel is closed in arkcli
 1.0.40.
 
+The supported balance and usage queries below use the control plane, not the
+Ark inference host. Do not guess balance or usage paths on that inference host
+or probe them with `ARK_API_KEY`.
+
 - Install: `npm i -g @volcengine/ark-cli` (or run once through
   `npx --yes @volcengine/ark-cli <args>`). Its postinstall runs
   `arkcli +connect --refresh`, which installs about 26 official `arkcli-*`

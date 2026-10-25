@@ -40,17 +40,24 @@ left.
 
 | Kind | Providers | How |
 |---|---|---|
-| Same inference key | MiniMax, Runway, DeepSeek, Moonshot, ElevenLabs, OpenRouter `/key`, Z.ai | Reuse the key DeTars already holds, without reading it: `detars infer provider exec --provider <id> --env <VAR> -- <command>`. The child reads the key from that environment variable. |
+| Same inference key | MiniMax, Runway, DeepSeek, Moonshot, OpenRouter `/key`, Z.ai; ElevenLabs likely (permission scope not verified) | Reuse the key DeTars already holds, without reading it: `detars infer provider exec --provider <id> --env <VAR> -- <command>`. The child reads the key from that environment variable. |
 | Separate sign-in | Ark (`arkcli auth login`), Bailian (`bl auth login --console`) | Run the vendor CLI login yourself; it opens a browser or prints a link |
-| Admin / management key | OpenAI admin key, fal admin key, OpenRouter `/credits` | Tell the user which console page creates it and where to put it; never ask them to paste a key into chat |
+| Specific account permission | fal `billing:usage:read` (included in BILLING, READONLY and FULL key presets) | Reuse the configured key through `detars infer provider exec` if it has that permission; otherwise open the key settings for the user |
+| Admin / management key | OpenAI admin key, OpenRouter `/credits` | Tell the user which console page creates it and where to put it; never ask them to paste a key into chat |
 | Console only | Google, Replicate, Kling direct | Open the console with the browser tool (try `import_signins` first) |
 
 When a reference says a query needs a separate identity, don't retry with the
 inference key. An auth error there is expected, not a sign of a broken key.
 
-Some vendor CLIs ship official agent Skills: arkcli, mmx and bl, plus Runway's
-skills. Installing the CLI also installs those Skills; afterwards, read the
-relevant one by its absolute path for detail. Installing can also write into the
+Do not read vendor credential or configuration files (for example `~/.arkcli/`
+or `~/.volc/`) to extract keys, and never put a literal key in a command. For
+same-key queries, use `detars infer provider exec`; the child script reads the
+injected environment variable without printing it.
+
+Some vendor CLIs ship or install official agent Skills: arkcli, mmx and bl,
+plus Runway's skills. Follow the provider reference's install/init step, then
+check where the Skills were installed and read the relevant one by its absolute
+path for detail. Installing can also write into the
 user's other agents' skill folders (arkcli writes `~/.agents/skills` and
 `~/.claude/skills`). Mention that in your reply.
 

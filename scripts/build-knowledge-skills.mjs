@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, readFile, realpath, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { validateKnowledge } from "./validate-knowledge.mjs";
@@ -10,15 +10,23 @@ const contentDir = path.join(root, "content", "skills");
 const bundlePath = path.join(root, "public", "knowledge.json");
 const SOURCE_URL = "https://detars.xyz/";
 
+async function readDirectory(dir) {
+  try { return await readdir(dir, { withFileTypes: true }); }
+  catch (error) {
+    if (error.code === "ENOENT") return [];
+    throw error;
+  }
+}
+
 async function listMarkdown(dir) {
-  return (await readdir(dir, { withFileTypes: true }).catch(() => []))
+  return (await readDirectory(dir))
     .filter((entry) => entry.isFile() && entry.name.endsWith(".md"))
     .map((entry) => entry.name)
     .sort();
 }
 
 export async function readSkillSources() {
-  const names = (await readdir(contentDir, { withFileTypes: true }).catch(() => []))
+  const names = (await readDirectory(contentDir))
     .filter((entry) => entry.isDirectory())
     .map((entry) => entry.name)
     .sort();
@@ -40,6 +48,19 @@ export async function main(args = process.argv.slice(2)) {
   const check = args.includes("--check");
   const bundle = JSON.parse(await readFile(bundlePath, "utf8"));
   const sources = await readSkillSources();
+  let factoryNames = [];
+  try {
+    const snapshot = JSON.parse(await readFile(new URL("./factory-skill-names.json", import.meta.url), "utf8"));
+    if (!Array.isArray(snapshot.names) || !snapshot.names.every(name => typeof name === "string")) throw new Error("expected names array");
+    factoryNames = snapshot.names;
+  } catch (error) {
+    console.warn(`Factory name snapshot unavailable (${error.code ?? error.message}); collision hints were not checked. Bundle validation continues.`);
+  }
+  for (const { name } of sources) {
+    if (factoryNames.includes(name)) {
+      console.warn(`Online Skill ${name} also appears in the factory snapshot; an installed App's factory copy may take precedence. This is a warning, not a publish restriction.`);
+    }
+  }
   const previous = new Map((bundle.skills ?? []).map((skill) => [skill.name, skill]));
   const now = new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
   let changed = sources.length !== previous.size;
@@ -66,7 +87,7 @@ export async function main(args = process.argv.slice(2)) {
   console.log(`knowledge skills written: ${skills.map((s) => s.name).join(", ") || "none"}; bytes=${Buffer.byteLength(text)}`);
 }
 
-if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(await realpath(path.resolve(process.argv[1]))).href) {
   main().catch((error) => {
     console.error(error);
     process.exitCode = 1;

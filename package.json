@@ -4,6 +4,7 @@
   "type": "module",
   "version": "0.1.0",
   "scripts": {
+    "test": "node --test scripts/*.test.mjs",
     "dev": "astro dev",
     "build": "npm run check:knowledge && npm run check:model-tiers && npm run check:model-pricing && astro build",
     "preview": "astro preview",
@@ -19,7 +20,8 @@
     "@fontsource/ibm-plex-mono": "^5.2.7",
     "@fontsource/manrope": "^5.2.8",
     "@fontsource/space-grotesk": "^5.2.10",
-    "astro": "^6.0.3"
+    "astro": "^6.0.3",
+    "yaml": "2.9.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.7",

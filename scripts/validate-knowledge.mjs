@@ -1,6 +1,7 @@
-import { readFile } from "node:fs/promises";
+import { readFile, realpath } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import path from "node:path";
+import YAML from "yaml";
 
 // Standalone publisher mirror of the desktop Bundle v1 contract. No private repo dependency.
 export function validateKnowledge(value, rawBytes = Buffer.byteLength(JSON.stringify(value))) {
@@ -43,6 +44,7 @@ function validateSkills(skills, documentKeys, fail) {
   const filePath = /^(?:SKILL\.md|references\/[a-z0-9]+(?:-[a-z0-9]+)*\.md)$/;
   if (!Array.isArray(skills) || skills.length > 16) fail();
   const names = new Set();
+  let descriptionBytes = 0;
   for (const s of skills) {
     if (!s || typeof s !== "object" || typeof s.name !== "string" || s.name.length > 64 ||
       !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s.name) || names.has(s.name) || documentKeys.has(s.name) ||
@@ -57,8 +59,12 @@ function validateSkills(skills, documentKeys, fail) {
     }
     const main = s.files.find(f => f.path === "SKILL.md");
     const front = main && /^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/.exec(main.markdown);
-    const declared = front && /^name:[ \t]*["']?([^"'\r\n]+?)["']?[ \t]*$/m.exec(front[1])?.[1];
-    if (declared !== s.name || !/^description:[ \t]*\S/m.test(front[1])) fail();
+    let metadata;
+    try { metadata = front && YAML.parse(front[1], { maxAliasCount: 0 }); }
+    catch { fail(); }
+    if (metadata?.name !== s.name || typeof metadata.description !== "string" || !metadata.description.trim()) fail();
+    descriptionBytes += Buffer.byteLength(metadata.description);
+    if (descriptionBytes > 4096) fail();
     names.add(s.name);
   }
 }
@@ -67,4 +73,4 @@ export async function main() {
   const value = validateKnowledge(JSON.parse(new TextDecoder("utf-8", {fatal:true}).decode(bytes)), bytes.length);
   console.log(`knowledge.json valid: documents=${value.documents.length}, summaries=${value.summaries.length}, skills=${value.skills?.length ?? 0}, bytes=${bytes.length}`);
 }
-if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) await main();
+if (process.argv[1] && import.meta.url === pathToFileURL(await realpath(path.resolve(process.argv[1]))).href) await main();

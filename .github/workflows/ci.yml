@@ -20,6 +20,8 @@ jobs:
           cache: npm
       - name: Install
         run: npm ci
+      - name: Tests (including shared Bundle v1 cases)
+        run: npm test
       - name: Type / content check
         run: npm run check
       - name: Build (validates research frontmatter schema)
