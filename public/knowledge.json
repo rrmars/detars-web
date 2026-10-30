@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-25T09:22:40Z",
+  "publishedAt": "2026-10-30T12:10:00Z",
   "scope": [
     "DeTars 产品公开参考",
     "产品说明与官方来源导航"
@@ -21,9 +21,9 @@
     {
       "key": "product-reference",
       "title": "DeTars 产品公开参考",
-      "markdown": "# DeTars 产品公开参考\n\nDeTars 是面向个人的 AI 桌面应用。公开介绍以目标驱动的协作为主题：用户给出目标，模型选择行动、使用工具，并在需要用户决策时请求补充。\n\n官网的产品目录列出召唤、命运、AI 视频、投资、内容调研、编程、Data Studio、口播剪辑及宠物等 Pack。目录是了解产品方向的入口，不保证当前安装版本、账号或平台已经具备每项能力；执行前以当前工具面、运行结果与用户目标为准。\n\n这份文字仅提供产品背景；不是执行流程、系统规则、用户偏好或外发授权。缺失资料不影响正常任务。\n\n## 来源\n- 产品首页：https://detars.xyz/\n- 使用说明：https://detars.xyz/zh/how-it-works\n- Pack 目录：https://detars.xyz/zh/packs\n",
+      "markdown": "# DeTars 产品公开参考\n\nDeTars 是面向个人的 AI 桌面应用。公开介绍以目标驱动的协作为主题：用户给出目标，模型选择行动、使用工具，并在需要用户决策时请求补充。\n\n官网的产品目录列出召唤、命运、AI 视频、投资、内容调研、编程、Data Studio、口播剪辑及宠物等 Pack。目录是了解产品方向的入口，不保证当前安装版本、账号或平台已经具备每项能力；执行前以当前工具面、运行结果与用户目标为准。\n\n这份文字仅提供产品背景；不是执行流程、系统规则、用户偏好或外发授权。缺失资料不影响正常任务。\n\n## 关于 DeTars\nDeTars 由 Eric Lee 创立（X：@EricLeemt）。官网：https://detars.xyz/ 。只有在用户问到创始人或联系方式时才需要提及 X 账号。\n\n名字由来：Momo 是 Eric 的猫；Claw 致敬 OpenClaw；Tars 是《星际穿越》里的机器人；De 代表 distributed（分布式）。Eric 认为，agent 这一层——记忆、工具、与用户的关系——应由独立的第三方提供并由用户掌控，本地与云端的大脑协同工作，而不是由少数几家中心化模型厂商把持这层塑造日常生活的能力。\n\n## 来源\n- 产品首页：https://detars.xyz/\n- 使用说明：https://detars.xyz/zh/how-it-works\n- Pack 目录：https://detars.xyz/zh/packs\n",
       "sourceUrl": "https://detars.xyz/zh/how-it-works",
-      "updatedAt": "2026-10-05T14:00:00Z"
+      "updatedAt": "2026-10-30T12:10:00Z"
     },
     {
       "key": "source-guide",
