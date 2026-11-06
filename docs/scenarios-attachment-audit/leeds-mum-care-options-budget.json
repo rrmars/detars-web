@@ -1,0 +1,24 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "18c689fb37f27bb621e06057e4e3ab333f95f4c71e95bab632e1d7c158d407f9",
+  "sourceListLink": "../w7-leeds-elderly-care-costs/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "e8da5eaf494eb5fd13c15deb3cbab4b628e133478637ee1a0fe6de87f09db135",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-leeds-elderly-care-costs/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 2,
+  "slug": "leeds-mum-care-options-budget",
+  "translationKey": "leeds-mum-care-options-budget",
+  "sources": [
+    {
+      "title": "NHS: recovery/reablement after a fall",
+      "url": "https://www.nhs.uk/social-care-and-support/care-after-a-hospital-stay/care-to-support-recovery-after-leaving-hospital-or-after-a-fall-injury-or-illness/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Helping Hands Leeds",
+      "url": "https://www.helpinghandshomecare.co.uk/our-locations/leeds/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Anchor: Berkeley Court, Leeds",
+      "url": "https://www.anchor.org.uk/our-properties/berkeley-court-leeds",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: cost of adult social care services",
+      "url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds Homes: Extra Care",
+      "url": "https://www.leedshomes.org.uk/content/Information/ExtraCare",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Care UK: Seacroft Green key facts",
+      "url": "https://www.careuk.com/getattachment/e16c7276-b7bd-4ae2-8398-c9ecd9020cf6/11196-Key-facts-FY26Q4-web-Seacroft-Green.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: 2026/27 commissioned fee decision",
+      "url": "https://democracy.leeds.gov.uk/ieDecisionDetails.aspx?ID=58601",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NHS: financial assessment",
+      "url": "https://www.nhs.uk/social-care-and-support/help-from-social-services-and-charities/financial-assessment-means-test/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DHSC: social care charging circular",
+      "url": "https://www.gov.uk/government/publications/social-care-charging-for-local-authorities-2026-to-2027/social-care-charging-for-care-and-support-2026-to-2027-local-authority-circular",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: home-care means test",
+      "url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-and-support/how-we-look-at-your-money",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Charging regulations, Schedule 2",
+      "url": "https://www.legislation.gov.uk/uksi/2014/2672/schedule/2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: care-home means test",
+      "url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes/how-we-look-at-your-money",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: deferred payment agreements",
+      "url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes/deferred-payment-agreements",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Choice of Accommodation Regulations, regulation 5",
+      "url": "https://www.legislation.gov.uk/uksi/2014/2670/regulation/5/made",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Care and Support statutory guidance, Annex A paragraph 12",
+      "url": "https://www.gov.uk/government/publications/care-act-2014-supporting-implementation/care-and-support-statutory-guidance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HM Treasury: charging-reform cancellation",
+      "url": "https://www.gov.uk/government/speeches/chancellor-statement-on-public-spending-inheritance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SI2026/1028",
+      "url": "https://www.legislation.gov.uk/uksi/2026/1028/made",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: Attendance Allowance rates",
+      "url": "https://www.gov.uk/attendance-allowance/what-youll-get",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: Attendance Allowance eligibility",
+      "url": "https://www.gov.uk/attendance-allowance/eligibility",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: care-home benefits changes",
+      "url": "https://www.gov.uk/going-into-care-home-benefits",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Age UK factsheet 34: Attendance Allowance",
+      "url": "https://www.ageuk.org.uk/siteassets/documents/factsheets/fs34_attendance_allowance_fcs.pdf?epslanguage=en-GB",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: Pension Credit eligibility",
+      "url": "https://www.gov.uk/pension-credit/eligibility",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: Pension Credit amounts",
+      "url": "https://www.gov.uk/pension-credit/what-youll-get",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: Pension Credit technical guide",
+      "url": "https://www.gov.uk/government/publications/pension-credit-technical-guidance/a-detailed-guide-to-pension-credit-for-advisers-and-others",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: single person discount",
+      "url": "https://www.leeds.gov.uk/council-tax/discounts-and-exemptions/single-person",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: Council Tax Support",
+      "url": "https://www.leeds.gov.uk/council-tax/discounts-and-exemptions/council-tax-support",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: disability-related Council Tax reductions",
+      "url": "https://www.leeds.gov.uk/council-tax/discounts-and-exemptions/discounts-for-disabled-people",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: empty properties",
+      "url": "https://www.leeds.gov.uk/council-tax/discounts-and-exemptions/empty-properties/discounts-and-exemptions-for-empty-properties",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: Carer’s Allowance eligibility",
+      "url": "https://www.gov.uk/carers-allowance/eligibility",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DWP: effect of Carer’s Allowance",
+      "url": "https://www.gov.uk/carers-allowance/effect-on-other-benefits",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NHS: Continuing Healthcare",
+      "url": "https://www.nhs.uk/social-care-and-support/money-work-and-benefits/nhs-continuing-healthcare/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NHS: funded nursing care",
+      "url": "https://www.nhs.uk/social-care-and-support/money-work-and-benefits/nhs-funded-nursing-care/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds: carer’s assessment and contacts",
+      "url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK: lasting powers of attorney",
+      "url": "https://www.gov.uk/power-of-attorney",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CQC: what good care looks like",
+      "url": "https://www.cqc.org.uk/care-services/what-expect-good-care-service",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "opening_savings": {
+      "label": "Supplied opening savings; countability requires assessment",
+      "value": 38000,
+      "unit": "GBP",
+      "display": "£38,000"
+    },
+    "upper_care_capital_limit": {
+      "label": "2026/27 upper countable-capital limit; not automatic free-care eligibility",
+      "value": 23250,
+      "unit": "GBP",
+      "display": "£23,250"
+    },
+    "home_year_end_savings": {
+      "label": "A: constant-price first-year savings, no AA and assumed household costs",
+      "value": 23412.8,
+      "unit": "GBP",
+      "display": "£23,412.80"
+    },
+    "extra_care_year_end_savings": {
+      "label": "B: constant-price first-year cash; retained former house assumed countable",
+      "value": 15263.44,
+      "unit": "GBP",
+      "display": "£15,263.44"
+    },
+    "residential_year_one_gap": {
+      "label": "C: first-year spending gap after pension, before property-backed funding",
+      "value": 54140,
+      "unit": "GBP",
+      "display": "£54,140"
+    },
+    "fnc_standard_weekly": {
+      "label": "Standard FNC from 1 April 2026 paid to nursing home if eligible; not assumed net fee reduction",
+      "value": 267.68,
+      "unit": "GBP_per_week",
+      "display": "£267.68"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original source register explicitly records all cited sources accessed on 2026-11-06. This authoring reused retained evidence only; no external research or refresh. 2026/27 rules and September 2026 provider tariff are not promised for all of 2027. January 2027 DPA interest and 2027/28 upratings remain unconfirmed.",
+  "uncertainties": [
+    "Supplied age, savings, calendar-month pension and house value are not independently verified. Needs, safe gaps between visits, benefit onset, countable capital and income composition require personal assessment.",
+    "Helping Hands and Anchor starting prices are undated pages checked on the recorded research date, not personal quotes, market averages or confirmed vacancies. Council typical service prices are not private or commissioned residential/nursing contract tiers; exact council tiers remain unverified.",
+    "Extra-care housing requires assessment, allocation, vacancies and care-hours capacity. The former house is assumed empty, retained and countable in B. Housing-benefit disregards need separate checking; move, furnishing and deposits are extra.",
+    "Constant-price budgets assume 52 weeks per year and weekly times 52 divided by 12 for an average month, not a date-specific daily invoice forecast. Household budgets and old-house carrying costs are assumptions. No AA, Pension Credit, CHC, rental income, interest, mortgage or debt included in baseline.",
+    "Capital threshold is a funding-review point, not an entitlement guarantee. Occupied home, qualifying-relative disregard and conditional 12-week property disregard are separate. Starting cash exceeds the limit; no automatic free 12-week care period is assumed.",
+    "DPA is a secured repayable loan subject to eligibility, sufficient equity, security, authority and provider agreement. Conditional GBP 39,390 debt is a cash-flow identity including personal/empty-house spending through the total gap, not a loan offer; actual retained income and deferrable amount need assessment. Interest and fees are excluded from that illustration.",
+    "No old GBP 86,000 cap or GBP 100,000 upper limit is applied. No replacement 2027 cap confirmed by retained evidence. January 2027 DPA interest and April 2027 benefits/provider charges require checking.",
+    "AA needs are normally required for six months before entitlement; onset unknown, hypothetical months 7-12 are not a promised award date. Publicly funded care-home maintenance differs from FNC-only self-funding or repayable DPA advances. Specific Age UK guidance supports continued AA in the latter cases; confirm actual arrangement. Independent original reviewer could not retrieve Age UK PDF, while original author recorded reading relevant pages.",
+    "Pension Credit nil calculation assumes all savings count, no extra eligible housing costs/additions and stated pension income. Both Guarantee Credit and Savings Credit considered; it is not an award decision. Paid carer benefit can affect severe-disability addition, not AA itself.",
+    "CHC requires primary-health-need assessment; Checklist is not an award. FNC goes directly to a nursing home and advertised FNC-inclusive tariff does not establish resident net liability. No double subtraction or automatic nursing need assumed.",
+    "Original research disclosed tool-selected managed research/search-plain/browser-render routes whose clean-session status was not certified. No intentional personal-account use, sign-ins, claims or contacts were reported. This new guide used filesystem evidence only.",
+    "No distinct Chinese-speaking audience was established for this specific English council/provider and adult-child planning scenario; English only is intentional. No inter-language numeric, date, URL or table-cell comparison applies because no Chinese page was authored."
+  ],
+  "editingContract": "English-only local draft with five source-supported FAQs. All cited external URLs registered with original source-specific access date. Semantic figures, source hashes and stage2-relative document links retained. No stars, Review or AggregateRating; no source refresh, build, publication or contact.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "An English-speaking adult child working full time and living two hours away, planning assessed care and funding for an 82-year-old mother living alone in Leeds; no distinct Chinese-speaking audience established.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

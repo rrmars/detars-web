@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 2,
+  "slug": "local-text-to-speech-five-tool-test",
+  "translationKey": "local-text-to-speech-five-tool-test",
+  "sources": [
+    {
+      "title": "publisher model card",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M/raw/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "wrapper licence",
+      "url": "https://raw.githubusercontent.com/thewh1teagle/kokoro-onnx/main/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Lessac model card",
+      "url": "https://huggingface.co/rhasspy/piper-voices/raw/main/en/en_US/lessac/medium/MODEL_CARD",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "research-only dataset agreement",
+      "url": "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "voice repository metadata",
+      "url": "https://huggingface.co/rhasspy/piper-voices/raw/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "macOS Tahoe licence",
+      "url": "https://www.apple.com/legal/sla/docs/macOSTahoe.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "applicable agreements can differ",
+      "url": "https://www.apple.com/legal/sla/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "distribution terms",
+      "url": "https://raw.githubusercontent.com/festvox/flite/v2.2/COPYING",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "bundled SLT voice notice",
+      "url": "https://raw.githubusercontent.com/festvox/flite/v2.2/lang/cmu_us_slt/cmu_us_slt.c",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "distribution licence",
+      "url": "https://raw.githubusercontent.com/espeak-ng/espeak-ng/1.52.0/COPYING",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "voice catalogue",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M/raw/main/VOICES.md",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "successful_outputs": {
+      "label": "Successful local synthesis outputs across all tool/script pairs",
+      "value": 25,
+      "unit": "WAV_outputs",
+      "display": "25"
+    },
+    "kokoro_normalized_pooled_wer": {
+      "label": "Kokoro pooled normalized WER via local English Whisper; not human naturalness",
+      "value": 0.83,
+      "unit": "percent_word_error_rate",
+      "display": "0.83%"
+    },
+    "kokoro_generation_total": {
+      "label": "Kokoro total wall generation time including separate process starts",
+      "value": 72.47,
+      "unit": "seconds",
+      "display": "72.47"
+    },
+    "kokoro_audio_total": {
+      "label": "Kokoro generated audio duration across all scripts",
+      "value": 89,
+      "unit": "seconds",
+      "display": "89.00"
+    },
+    "kokoro_peak_tree_rss": {
+      "label": "Largest sampled Kokoro process-tree RSS, not whole-machine unified memory",
+      "value": 1048.5,
+      "unit": "MiB_sampled_process_tree_RSS",
+      "display": "1048.5"
+    },
+    "kokoro_aggregate_rtf": {
+      "label": "Kokoro total generation time divided by total generated audio",
+      "value": 0.814,
+      "unit": "real_time_factor",
+      "display": "0.814"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original hands-on measurement and public-source research were recorded on 2026-11-06. All cited URLs inherit that recorded access date from sources.md and its dated research appendix. Localization on 2026-11-06 did not refresh sources, rerun synthesis or audition audio.",
+  "uncertainties": [
+    "No human audition or cloud listening assessment. Naturalness, tone, emotion and human comprehension are unassessed; WER measures a TTS-plus-ASR pipeline, not perceptual quality.",
+    "Only five short original English scripts and one tested voice per engine. Catalogue Mandarin availability does not validate Chinese or non-English operation in this exact wrapper.",
+    "Tested Piper Lessac model rights are ambiguous: global MIT metadata conflicts with the exact card linking research-only dataset terms. Dataset terms alone do not determine all trained-model/output rights.",
+    "Apple Tahoe English page 3 section 2F restricts original system-voice content to personal noncommercial use and excludes public sharing, nonprofit publishing and commercial contexts; accompanying installation terms may differ.",
+    "One pass per tool/script on a shared Apple M2. Timings include process/model startup and may reflect caches and concurrent workloads. CPU ONNX only; no controlled throughput or uncertainty estimate.",
+    "RSS sampled every 20 ms can miss peaks and is not unified-memory pressure. say can use a pre-existing OS daemon outside the measured child tree; its RSS is incomplete.",
+    "Whisper small.en executable upstream revision is unverified; binary hash recorded by original test. Raw/normalized WER can hide or penalize pronunciation differences; low or zero WER does not prove meaning or emotion.",
+    "Installer syntax checked only; helper smoke-tested with existing dependencies/assets, not a full fresh-install rerun. Tested model-files-v1.0 export differs from newer exports with similar filenames.",
+    "No new external research, package installs, model execution, media uploads, publication or contact for this guide."
+  ],
+  "editingContract": "Complete en/zh drafts with identical date-normalized numeric and URL multiplicity and corresponding table-cell numeric parity. All 25 measured tool/script rows retain report-level performance, both RSS measures, bytes, sample rate and raw/normalized WER. No ratings or review markup. Original stage2-relative document links retained.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "English- and Chinese-speaking local-tool users choosing offline narration on a Mac; the English-only hands-on test does not validate Chinese synthesis.",
+    "zh": "为 Mac 选择离线配音工具的英语和中文读者；本次纯英语实测不验证中文合成质量。"
+  },
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

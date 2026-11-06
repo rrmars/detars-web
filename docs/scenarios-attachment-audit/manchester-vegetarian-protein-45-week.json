@@ -1,0 +1,28 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "aa34c94e3fefac0d0393f954e4a9e180d282d3fd8a92111c89a2587e57daef2f",
+  "sourceListLink": "../w7-manchester-vegetarian-protein-meal-prep/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "0c19816beee6970e170e9d7488d1458fea866f75aade4c81167f8b4d4555d6cb",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-manchester-vegetarian-protein-meal-prep/meal-plan.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-manchester-vegetarian-protein-meal-prep/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

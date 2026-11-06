@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 2,
+  "slug": "manchester-vegetarian-protein-45-week",
+  "translationKey": "manchester-vegetarian-protein-45-week",
+  "sources": [
+    {
+      "title": "Tesco Scottish porridge oats",
+      "url": "https://www.tesco.com/shop/en-GB/products/254853776?isSub=true",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Creamfields semi-skimmed UHT milk",
+      "url": "https://www.tesco.com/shop/en-GB/products/299914279?redirectIfUnavailable=true",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesco medium free-range eggs",
+      "url": "https://www.tesco.com/shop/en-GB/products/260298462",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H.W. Nevill’s wholemeal bread",
+      "url": "https://www.tesco.com/shop/en-GB/products/299045558",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesco crunchy peanut butter; older indexed price, freshness unconfirmed",
+      "url": "https://www.tesco.com/shop/en-GB/products/264769567",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesco 0% fat Greek-style yoghurt, nutrition and opening instructions",
+      "url": "https://www.tesco.com/shop/en-GB/products/303631204",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesco loose bananas",
+      "url": "https://www.tesco.com/shop/en-GB/products/275280804?redirectIfUnavailable=true",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Grower Harvest long-grain rice; cooked label and dry-serving conversion",
+      "url": "https://www.tesco.com/shop/en-GB/products/300843799",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Creamfields vegetarian mature white cheddar",
+      "url": "https://www.tesco.com/shop/en-GB/products/302676607",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesco vegetable oil, rapeseed; gram-basis energy",
+      "url": "https://www.tesco.com/shop/en-GB/products/254918067",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi Worldwide Foods dry red split lentils, price only",
+      "url": "https://www.aldi.co.uk/product/worldwide-foods-red-lentils-000000000000336258",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi Everyday Essentials chopped tomatoes",
+      "url": "https://www.aldi.co.uk/product/everyday-essentials-chopped-tomatoes-in-tomato-juice-000000000000278702",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi Four Seasons kidney beans; check actual drained weight",
+      "url": "https://www.aldi.co.uk/product/four-seasons-red-kidney-beans-in-water-000000000000284569",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi Nature’s Pick brown onions",
+      "url": "https://www.aldi.co.uk/product/nature-s-pick-brown-onions-000000000000339777",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi Nature’s Pick carrots",
+      "url": "https://www.aldi.co.uk/product/nature-s-pick-carrots-000000000000339791",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi medium curry powder",
+      "url": "https://www.aldi.co.uk/product/ready-set-cook-medium-curry-powder-000000000336690001",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FSA student guide to food safety and hygiene",
+      "url": "https://www.gov.uk/government/publications/student-guide-to-food-safety-and-hygiene/student-guide-to-food-safety-and-hygiene",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FSA chilling, freezing and defrosting guidance",
+      "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FSA home food fact checker, rice safety",
+      "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CoFID 2021 composition workbook; generic food entries",
+      "url": "https://assets.publishing.service.gov.uk/media/60538b91e90e07527df82ae4/McCance_Widdowsons_Composition_of_Foods_Integrated_Dataset_2021..xlsx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesco Finest authentic 0% Greek yoghurt",
+      "url": "https://www.tesco.com/shop/en-GB/products/320543444",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi tofu price and conflicting pack sizes",
+      "url": "https://www.aldi.co.uk/product/plant-menu-organic-super-firm-tofu-000000000513086001",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aldi same-product tofu nutrition",
+      "url": "https://www.aldi.co.uk/product/plant-menu-organic-tofu-000000000513086001",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesco East End soya chunks, dry nutrition",
+      "url": "https://www.tesco.com/shop/en-GB/products/267783936",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Grocefully secondary-only soya price",
+      "url": "https://www.grocefully.com/uk/explore/types/soya",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Decathlon UK marketplace indexed PhD plant powder price",
+      "url": "https://www.decathlon.co.uk/p/mp/phd-nutrition/phd-smart-protein-plant-500g-strawberry-eiweisse-veganes-eiweiss/_/R-p-d96225dc-7e59-49d0-9c7b-af1d159526f9?fl=Strawberry",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Holland and Barrett plant powder protein; calorie conflict unresolved",
+      "url": "https://www.hollandandbarrett.com/shop/product/phd-smart-protein-plant-strawberry-60043261",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "weekly_food_budget": {
+      "label": "Requested weekly food budget, excluding travel, delivery, fuel and equipment",
+      "value": 45,
+      "unit": "GBP",
+      "display": "£45"
+    },
+    "whole_pack_checkout": {
+      "label": "Combined Tesco and Aldi whole-pack cash, including Saturday yoghurt",
+      "value": 23.65,
+      "unit": "GBP",
+      "display": "£23.65"
+    },
+    "food_used_this_week": {
+      "label": "Allocated used-food cost, not whole-pack cash",
+      "value": 16.86,
+      "unit": "GBP",
+      "display": "£16.86"
+    },
+    "weekly_budget_headroom": {
+      "label": "Requested food budget less the whole-pack basket",
+      "value": 21.35,
+      "unit": "GBP",
+      "display": "£21.35"
+    },
+    "mean_daily_protein": {
+      "label": "Rounded mean daily protein from the unmodified base menu",
+      "value": 125,
+      "unit": "g_per_day",
+      "display": "125 g"
+    },
+    "mean_daily_energy": {
+      "label": "Rounded mean daily energy, not a personalised recommendation",
+      "value": 2598,
+      "unit": "kcal_per_day",
+      "display": "2,598"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original research and source access are recorded as 2026-11-06; January 2027 is the intended start, not a quote date. Localization on 2026-11-06 used retained material only. Older indexed peanut-butter content remains freshness-unconfirmed; an access date is not a content-refresh date.",
+  "uncertainties": [
+    "One combined basket, not two full competing baskets. National online listings do not confirm Manchester stock or local checkout. Delivery, travel, equipment and cooking fuel are excluded.",
+    "Early research used existing managed/research browser sessions with clean/sign-in state unverified; one Aldi session showed Lincoln. Later six-core-price Aldi checks used a fresh context. No clean-session-only history is claimed.",
+    "The source HTML currently has a different hash from the older HTML hash quoted in independent-check.md. This record hashes the bytes actually read. The workbook hash agrees with the latest follow-up; no historical HTML verification is claimed for this guide.",
+    "Freezer allowance of 4–5 litres, sauce/bread volume and the two-hour cooking slot are estimates, not measured capacity or a timed kitchen test. Smaller Sunday batches require about 30–40 extra midweek minutes.",
+    "Cooling within 1–2 hours, chilled leftovers within 48 hours from cooking, full thawing followed by use within 24 hours, and single thorough reheating remain required. Tuesday may need freezing too, increasing space demand. Rice uses its shorter storage limits and is cooked fresh in this plan.",
+    "Selected yoghurt has a five-day opening limit and is not suitable for freezing. Use-by dates still apply. Milk and cheddar returned storage paragraphs do not establish numerical after-opening life.",
+    "Energy/protein are estimates, not individual requirements or nutritional-completeness certification. Allergens are milk, egg, wheat/gluten and peanut. No cooking nutrient-loss adjustment is included.",
+    "Banana two-thirds edible yield, onion 90% yield, carrot 95% yield and oil density 0.92g/ml are unconfirmed purchasing assumptions. Generic CoFID nutrition is explicit for banana, lentils, beans, onions and carrots. Rice dry equivalent is derived from its cooked-serving footnote.",
+    "Tofu pack size conflicts at 180g/200g. Soya price is secondary-only. Powder price is indexed, delivery may apply, and exact calories conflict; none of these provisional alternatives is included in the base menu.",
+    "Workbook quantities and serving counts must stay aligned with the daily assignments. This task inspected formulas and caches and independently recomputed the base totals; it did not recalculate, edit or render the source workbook."
+  ],
+  "editingContract": "English-only local draft for a Manchester ovo-lacto vegetarian student; no distinct Chinese-speaking audience established. Preserve whole-pack versus used-cost distinctions, full base shopping list and daily schedule, safe storage, nutritional limits, and provisional comparisons. Four source-supported FAQs. Normal original stage2-relative workbook/source links. No ratings, new build, publication, website-repository edits or external refresh.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A Manchester-based ovo-lacto vegetarian student, represented by a 21-year-old training four times weekly, planning a January 2027 week around 120g daily protein and a £45 food budget; no distinct Chinese-language audience established.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

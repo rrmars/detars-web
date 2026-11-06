@@ -14,13 +14,13 @@ export const domains = [
 ];
 // First matching rule wins. Existing persisted choices always win on subsequent imports.
 export const rules = [
-  ['ai-tools', /(?:local-(?:speech|upscalers)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review)/],
+  ['ai-tools', /(?:text-to-speech|local-(?:speech|upscalers)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review)/],
   ['study', /(?:masters|study-abroad|english-test)/],
   ['careers', /(?:job-search|job-offer|backend-job|remote-design|germany-vs-canada)/],
   ['visas', /(?:working-holiday|retirement|visa|entry-visa)/],
   ['housing', /(?:rent(?:al|ing)?(?:-|$)|home-buying|buying-(?:property|apartment))/],
-  ['family', /(?:health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move)/],
-  ['business', /(?:candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing)/],
+  ['family', /(?:care-options|rescue-dog|vegetarian|health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move)/],
+  ['business', /(?:freelance-designer|candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing)/],
   ['buying', /(?:air-purifier|laptop|phone|headphones|robot-vacuum|used-car|ebike|running-watch)/],
   ['living', /(?:first-30-days|move-with|one-month|cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian)/],
   ['travel', /(?:itinerary|road-trip|days?|nights?|weekend|autumn|cherry-blossom)/],

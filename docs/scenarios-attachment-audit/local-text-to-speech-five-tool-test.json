@@ -1,0 +1,75 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "0dc96370d1cc81e3bddfc2db958b708e185b082d5e485a8c88ec8d872fe01b03",
+  "sourceListLink": "../w7-local-tts-test/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "20cd1979611d54882d5d97039b63ec4d153223ff14a6762dfc09711909a8b59c",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-local-tts-test/evidence/independent-wer.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w7-local-tts-test/scripts.txt",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/results.csv",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/install-winner.sh",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/narrate.py",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "afbc423cbd278c28b385dbda6b54587ad9bc71b13d031f151be399fca075e30a",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-local-tts-test/evidence/independent-wer.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w7-local-tts-test/scripts.txt",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/results.csv",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/install-winner.sh",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-local-tts-test/narrate.py",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

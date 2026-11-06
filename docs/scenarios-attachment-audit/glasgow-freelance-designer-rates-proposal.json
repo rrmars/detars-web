@@ -1,0 +1,36 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "85feb6f970bcdc385d22cd2f08fe1bee13a47642d16faaadb2f48b8e0918f961",
+  "sourceListLink": "../w7-glasgow-freelance-designer-pricing/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "edaa43de06b41a30237ffec09dcb44e6f62c96b9cbf0752126c3a3956d3e6dc9",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-glasgow-freelance-designer-pricing/day-rate-calculator.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-glasgow-freelance-designer-pricing/brand-identity-contract-template.docx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-glasgow-freelance-designer-pricing/brand-identity-contract-template.docx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-glasgow-freelance-designer-pricing/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 2,
+  "slug": "sydney-rescue-dog-first-year-budget",
+  "translationKey": "sydney-rescue-dog-first-year-budget",
+  "sources": [
+    {
+      "title": "standard pet application",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/form-to-apply-to-keep-a-pet-a-rental-property",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NSW Fair Trading guidance",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rules/pets-rentals",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "change from October 2, 2026",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/news/changes-to-rental-laws",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RSPCA NSW",
+      "url": "https://www.rspcansw.org.au/adoption-or-foster/adoption-process/adoption-fees/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Stormy",
+      "url": "https://sydneydogsandcatshome.org/animal/storm/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Franklin",
+      "url": "https://sydneydogsandcatshome.org/animal/franklin/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Adoption inclusions",
+      "url": "https://sydneydogsandcatshome.org/adopt/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bunny",
+      "url": "https://www.awlnsw.com.au/animal/a3gMo0000003jj7IAA/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Asher",
+      "url": "https://www.doggierescue.com/dogs/asher/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "usual range",
+      "url": "https://www.doggierescue.com/how-to-adopt/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FAQ, updated October 6, 2026",
+      "url": "https://sydneydogsandcatshome.org/about-us/faq-page/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "adoption process",
+      "url": "https://www.awlnsw.com.au/adopt/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NSW microchipping guidance",
+      "url": "https://www.olg.nsw.gov.au/pets/nsw-pet-registry/owners/microchipping",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Published registration fees",
+      "url": "https://www.petregistry.olg.nsw.gov.au/pets/nsw-pet-registry/registration-and-permit-fees/pet-registration-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "additional non-desexed-dog fee",
+      "url": "https://www.petregistry.olg.nsw.gov.au/pets/nsw-pet-registry/registration-and-permit-fees/non-desexed-cat-and-dog-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "food price example",
+      "url": "https://thepetfoodwarehouse.com.au/products/advance-adult-dog-medium-breed-healthy-weight-chicken.js",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "parasite product",
+      "url": "https://www.mooeys.com.au/nexgard-spectra-15-1-30kg-6pk/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Anzac Parade Vet",
+      "url": "https://www.anzacparadevet.com.au/pricing-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dr Paws Lane Cove",
+      "url": "https://lcvet.com.au/pricing/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Paws & Think Life Skills",
+      "url": "https://www.pawsandthink.com.au/group-training",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "published 2026 examples",
+      "url": "https://www.knose.com.au/blog/how-pet-insurance-quotes-work/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.knose.com.au/faqs-and-resources/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hairy Poppins",
+      "url": "https://www.hairypoppins.com.au/sydney-inner-west-c20ii",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dog Haus",
+      "url": "https://doghaus.au/dog-day-care-inner-west-sydney/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Spoilt Rotten Dogs",
+      "url": "https://www.spoiltrottendogs.com.au/dogdaycare",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kip Marrickville",
+      "url": "https://kip.com.au/locations/marrickville/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Norman's profile",
+      "url": "https://sydneydogsandcatshome.org/animal/norman-2/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RSPCA guidance, updated September 6, 2022",
+      "url": "https://kb.rspca.org.au/categories/companion-animals/dogs/behaviour/what-can-i-do-if-my-dog-is-anxious-when-im-not-at-home",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Inner West Council's exercise-area guidance",
+      "url": "https://www.innerwest.nsw.gov.au/dogs/dog-exercise-areas",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RSPCA NSW",
+      "url": "https://www.rspcansw.org.au/adoption-or-foster/become-a-foster-carer/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Sydney Dogs & Cats Home",
+      "url": "https://sydneydogsandcatshome.org/foster-carer-faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AWL NSW",
+      "url": "https://www.awlnsw.com.au/foster-care/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Monika's DoggieRescue",
+      "url": "https://www.doggierescue.com/about-foster-caring/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "staggered_daycare_first_year": {
+      "label": "First-year allocation with one weekly daycare day for 48 weeks, emergency reserve excluded",
+      "value": 9123.61,
+      "unit": "AUD",
+      "display": "$9,123.61"
+    },
+    "staggered_daycare_ongoing": {
+      "label": "Ongoing annual allocation with same care and unchanged prices",
+      "value": 7593.61,
+      "unit": "AUD_per_year",
+      "display": "$7,593.61"
+    },
+    "first_year_monthly_saving_target": {
+      "label": "Rounded first-year monthly target with chosen 10% headroom; separate reserve required",
+      "value": 850,
+      "unit": "AUD_per_month",
+      "display": "$850"
+    },
+    "ongoing_monthly_saving_target": {
+      "label": "Rounded ongoing monthly target with chosen 10% headroom",
+      "value": 700,
+      "unit": "AUD_per_month",
+      "display": "$700"
+    },
+    "separate_emergency_cash_target": {
+      "label": "Starting liquid emergency reserve; not a spending forecast or a vet-bill ceiling",
+      "value": 3000,
+      "unit": "AUD",
+      "display": "$3,000"
+    },
+    "three_daycare_first_year": {
+      "label": "First-year allocation with three shared office days requiring daycare",
+      "value": 15363.61,
+      "unit": "AUD",
+      "display": "$15,363.61"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original research and cited source access recorded on 2026-11-06. Localization on 2026-11-06 used retained material only: no external research, source refresh or confirmed 2027 prices. RSPCA anxiety guidance was updated 2022-09-06; SDCH FAQ was updated 2026-10-06. Access dates do not establish publication dates; undated tariffs remain undated.",
+  "uncertainties": [
+    "Household income, debt, savings and surplus unknown; no unconditional affordability conclusion. Emergency cash is outside annual allocations and monthly targets.",
+    "48 paid-care weeks assume owner leave or another arrangement for the rest. A $500 backup pot is not a four-week boarding quote. Walk-only scenarios require proven individual alone-time tolerance; daycare is not suitable for every dog.",
+    "Dog Haus day limited to eight hours; daycare transport and extra-hour prices unavailable and excluded. Kip introductory rate is not a recurring tariff. Provider capacity and 2027 prices unconfirmed.",
+    "Insurance examples come from one insurer, only one in Sydney. Cover endpoints cannot be matched, fee inclusion uncertain, and the $1,200 premium is an allowance. Actual eligibility, exclusions and premium need checking; routine care is separate.",
+    "Rental rules follow retained Fair Trading guidance, not independently inspected legislation. Existing-tenancy 28-day challenge and new-tenancy 21-day temporary-presence deadlines are distinct. Actual landlord and required strata permissions remain unresolved.",
+    "Individual adoption fees and animal availability may change. Bunny, Asher, Stormy and Norman are cost/suitability examples, not matches recommended for this couple. Adult does not mean toilet-trained or comfortable alone.",
+    "Nil-fee lifetime registration depends on rescue eligibility and is not exemption from registration. Included implantation is assumed, not a universal free microchip tariff.",
+    "Food quantity and parasite products are costing examples, not feeding or medicine advice. Current vaccination history, individual diet, parasite coverage, dental needs and behaviour care can change the budget.",
+    "Fostering is not necessarily free, short or a guaranteed route to adoption. Some food/vet-payment terms remain unconfirmed; Monika requires refundable deposit and may need months to a year.",
+    "Original public-source research had automatic existing managed-browser fallbacks, with cleanliness not independently certified. Failed later fetches do not replace earlier successful retrievals. No external lookup or browser was used for this new guide."
+  ],
+  "editingContract": "English-only scenario draft with source-supported FAQ. No bilingual numeric/date/URL or table-cell parity claim applies because no Chinese page was authored. No ratings, Review or AggregateRating. Source-run files and shared inventory/build files unchanged; no build or publication.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Sydney renter couples planning an adult rescue dog, using a Marrickville two-bedroom apartment and two three-office-day schedules; no distinct Chinese-speaking audience was established.",
+  "localeDecision": "English only: this is a specific NSW tenancy, local-care and household-budget scenario; no specific Chinese-speaking audience was supplied or established. Chinese was not added speculatively.",
+  "budgetModel": {
+    "as_of": "2026-11-06",
+    "currency": "AUD",
+    "setup": [
+      [
+        "Bed / washable bedding",
+        100
+      ],
+      [
+        "Harness, lead, collar and ID tag",
+        100
+      ],
+      [
+        "Bowls / feeding enrichment",
+        50
+      ],
+      [
+        "Removable gate / safe resting area",
+        100
+      ],
+      [
+        "Brush, nail care, cleaning starter kit and toys",
+        100
+      ]
+    ],
+    "rows": [
+      {
+        "item": "Adoption allowance",
+        "year1": "600",
+        "year2": "0",
+        "basis": "Allowance; replace with chosen dog’s published fee. Includes desexing/microchip if supplied by rescue."
+      },
+      {
+        "item": "Set-up kit",
+        "year1": "450",
+        "year2": "0",
+        "basis": "Allowance: Bed / washable bedding $100.00, Harness, lead, collar and ID tag $100.00, Bowls / feeding enrichment $50.00, Removable gate / safe resting area $100.00, Brush, nail care, cleaning starter kit and toys $100.00."
+      },
+      {
+        "item": "Lifetime registration / microchip",
+        "year1": "0",
+        "year2": "0",
+        "basis": "Eligible desexed rescue registration $0; chip included. Confirm eligible organisation and completed transfer."
+      },
+      {
+        "item": "Dry food",
+        "year1": "1304.91",
+        "year2": "1304.91",
+        "basis": "Example: 9 × 13kg bags at $144.99. Illustrative 300g/day needs 109.5kg; 9 bags provide117kg. Actual ration/diet vet-directed. [FOOD]"
+      },
+      {
+        "item": "Treats / enrichment refills",
+        "year1": "180",
+        "year2": "180",
+        "basis": "Allowance: $15 ×12; do not add unlimited treats to food ration."
+      },
+      {
+        "item": "Parasite prevention",
+        "year1": "297.70",
+        "year2": "297.70",
+        "basis": "2 six-packs at $128.85 = $257.70 + $40 allowance for vet-directed extra worm coverage. Not a prescription. [PARASITE]"
+      },
+      {
+        "item": "Routine vet / vaccinations",
+        "year1": "391",
+        "year2": "391",
+        "basis": "2 × $120 standard consultations + one $151 C5 visit INCLUDING its consult; no duplicate consult on vaccination day. Assumes annual booster needed; vet checks records. [VET]"
+      },
+      {
+        "item": "Insurance premium allowance",
+        "year1": "1200",
+        "year2": "1200",
+        "basis": "Allowance $100 ×12, not your quote; published examples below. No wellness plan added. [INSURANCE]"
+      },
+      {
+        "item": "Training",
+        "year1": "360",
+        "year2": "180",
+        "basis": "Year1 Paws & Think adult Life Skills course $360; year2 $180 saving allowance for refreshers/private advice (not a quoted course). [TRAINING]"
+      },
+      {
+        "item": "Grooming / nail care",
+        "year1": "180",
+        "year2": "180",
+        "basis": "Allowance $15 ×12 for short-coated dog; professional clipping coats can cost more."
+      },
+      {
+        "item": "Bags, cleaning, replacements, local transport/freight",
+        "year1": "240",
+        "year2": "240",
+        "basis": "Allowance $20 ×12; no vehicle purchase assumed."
+      },
+      {
+        "item": "Holiday / backup care saving pot",
+        "year1": "500",
+        "year2": "500",
+        "basis": "Allowance, not a boarding quote. Could be inadequate for long trips; price actual dates separately."
+      },
+      {
+        "item": "Future end-of-tenancy cleaning saving pot",
+        "year1": "300",
+        "year2": "0",
+        "basis": "Allowance, not a cleaning quote or pet bond. First-year saving for possible carpet cleaning/fumigation. Keep ring-fenced if unspent; future replenishment depends on use."
+      }
+    ],
+    "base1": "6003.61",
+    "base2": "4473.61",
+    "weeks": 48,
+    "reserve": 3000,
+    "headroom_rate": "0.10",
+    "scenarios": [
+      {
+        "name": "Staggered + one 30-minute walk",
+        "days": 1,
+        "unit": 30,
+        "care": "1440",
+        "year1": "7443.61",
+        "year2": "5913.61",
+        "month1": "620.30",
+        "month2": "492.80",
+        "year1_with_10pct": "8187.97"
+      },
+      {
+        "name": "Staggered + one daycare day",
+        "days": 1,
+        "unit": 65,
+        "care": "3120",
+        "year1": "9123.61",
+        "year2": "7593.61",
+        "month1": "760.30",
+        "month2": "632.80",
+        "year1_with_10pct": "10035.97"
+      },
+      {
+        "name": "Same office days + three walks",
+        "days": 3,
+        "unit": 30,
+        "care": "4320",
+        "year1": "10323.61",
+        "year2": "8793.61",
+        "month1": "860.30",
+        "month2": "732.80",
+        "year1_with_10pct": "11355.97"
+      },
+      {
+        "name": "Same office days + three daycare days",
+        "days": 3,
+        "unit": 65,
+        "care": "9360",
+        "year1": "15363.61",
+        "year2": "13833.61",
+        "month1": "1280.30",
+        "month2": "1152.80",
+        "year1_with_10pct": "16899.97"
+      }
+    ]
+  },
+  "domain": "family",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

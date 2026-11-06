@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 2,
+  "slug": "glasgow-freelance-designer-rates-proposal",
+  "translationKey": "glasgow-freelance-designer-rates-proposal",
+  "sources": [
+    {
+      "title": "HMRC: Expenses if you are self-employed",
+      "url": "https://www.gov.uk/expenses-if-youre-self-employed",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK: Scottish Income Tax current rates, 2026/27",
+      "url": "https://www.gov.uk/scottish-income-tax",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Personal Allowance taper above £100,000",
+      "url": "https://www.gov.uk/income-tax-rates/income-over-100000",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Self-employed National Insurance rates, 2026/27",
+      "url": "https://www.gov.uk/self-employed-national-insurance-rates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "YunoJuno: Design Contractor Rates, 2026 report using 2024–25 platform data",
+      "url": "https://www.yunojuno.com/freelancer-rates-report/design-contractor-rates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Represent Salary Survey 2026, public PDF",
+      "url": "https://cdn.sanity.io/files/xxdq7tke/production/aec01f0a238d0cd69d1a96bbb27128669fe0caa7.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Major Players: The Creative Industries Census, April 2026",
+      "url": "https://www.majorplayers.co.uk/the-creative-industries-census",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Intellectual Property Office: Ownership of copyright works",
+      "url": "https://www.gov.uk/guidance/ownership-of-copyright-works",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Copyright, Designs and Patents Act 1988, section 90",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/90",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Unfair Contract Terms Act 1977, Scottish breach-of-duty provisions, section 16",
+      "url": "https://www.legislation.gov.uk/ukpga/1977/50/section/16",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Unfair Contract Terms Act 1977, Scottish standard-form provisions, section 17",
+      "url": "https://www.legislation.gov.uk/ukpga/1977/50/section/17",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK: Statutory interest on late commercial payments",
+      "url": "https://www.gov.uk/late-commercial-payments-interest-debt-recovery/charging-interest-commercial-debt",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Late Payment of Commercial Debts (Rate of Interest) (Scotland) Order 2002, article 4",
+      "url": "https://www.legislation.gov.uk/ssi/2002/336/article/4/made",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK: Fixed debt-recovery compensation",
+      "url": "https://www.gov.uk/late-commercial-payments-interest-debt-recovery/claim-debt-recovery-costs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Late Payment of Commercial Debts (Interest) Act 1998",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/20/contents",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK: Commercial Payments Bill overview, proposals and transition caveat",
+      "url": "https://www.gov.uk/government/publications/commercial-payments-bill-factsheets/commercial-payments-bill-overview",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK: Become a sole trader",
+      "url": "https://www.gov.uk/become-sole-trader",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Business-record retention",
+      "url": "https://www.gov.uk/self-employed-records/how-long-to-keep-your-records",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Self Assessment deadlines; scenario dates derived from annual rules",
+      "url": "https://www.gov.uk/self-assessment-tax-returns/deadlines",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Payments on account",
+      "url": "https://www.gov.uk/understand-self-assessment-bill/payments-on-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: VAT registration tests",
+      "url": "https://www.gov.uk/register-for-vat",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Making Tax Digital for Income Tax phase dates",
+      "url": "https://www.gov.uk/guidance/find-out-if-and-when-you-need-to-use-making-tax-digital-for-income-tax",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Making Tax Digital qualifying income and short periods",
+      "url": "https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PolicyBee designers: advertised PI starting price and turnover qualification",
+      "url": "https://www.policybee.co.uk/designers-insurance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hiscox PI: advertised starting price and August 2025–August 2026 footnote",
+      "url": "https://www.hiscox.co.uk/business-insurance/professional-indemnity-insurance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC: Income Tax rates and allowances for current and past tax years",
+      "url": "https://www.gov.uk/government/publications/rates-and-allowances-income-tax/income-tax-rates-and-allowances-current-and-past",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Scottish Income Tax technical factsheet, published January 13, 2026; retained reread failed",
+      "url": "https://www.gov.scot/publications/scottish-income-tax-technical-factsheet/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Unfair Contract Terms Act 1977, Part II: Scottish framework",
+      "url": "https://www.legislation.gov.uk/ukpga/1977/50/part/II",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "recommended_design_day": {
+      "label": "Recommended starting rate for a seven-hour design day, not guaranteed bookings",
+      "value": 350,
+      "unit": "GBP_per_7_hour_day",
+      "display": "£350"
+    },
+    "annual_personal_cash_target": {
+      "label": "Annual personal cash after business costs, Scottish income tax and Class 4 NI",
+      "value": 36000,
+      "unit": "GBP_per_year",
+      "display": "£36,000"
+    },
+    "target_covering_rate_floor": {
+      "label": "Annual-model target-covering rate over the assumed billable days",
+      "value": 326.9,
+      "unit": "GBP_per_day",
+      "display": "£326.90"
+    },
+    "essential_identity_fee": {
+      "label": "Good package fixed fee including estimation contingency, with VAT status and approved extras separate",
+      "value": 3850,
+      "unit": "GBP_per_project",
+      "display": "£3,850"
+    },
+    "launch_ready_identity_fee": {
+      "label": "Recommended Better fixed fee including estimation contingency, with VAT status and approved extras separate",
+      "value": 5005,
+      "unit": "GBP_per_project",
+      "display": "£5,005"
+    },
+    "brand_launch_toolkit_fee": {
+      "label": "Best package fixed fee including estimation contingency, with VAT status and approved extras separate",
+      "value": 6160,
+      "unit": "GBP_per_project",
+      "display": "£6,160"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All cited URL access dates retain the original source-specific date recorded in sources.md and the original research notes, 2026-11-06. This includes the explicitly failed gov.scot access attempt, not a claimed successful body read. Localization on 2026-11-06 used retained files only, with no external research, refresh or workbook-engine rerun. The 2026/27 model is not a verified 2027/28 tax table. Future filing dates are scenario applications of recorded annual rules.",
+  "uncertainties": [
+    "The annual Scottish sole-trader model excludes employment income, pension relief, student loans and other adjustments; it is not a January–April 2027 first-return forecast. The personal cash target includes no separate pension or emergency reserve.",
+    "Capacity, spending, package effort and fees are authored assumptions, not official tariffs, supplier quotes or guaranteed demand. Costs must actually be incurred and allowable; private use and equipment/accounting treatment need individual checking.",
+    "2027/28 Scottish bands were not confirmed in the retained material. Income Tax and NI need checking before a different tax year; future Commercial Payments Bill commencement and transition were unconfirmed.",
+    "The market sources are platform means and recruitment bands with different methods. No Glasgow-only sample or harmonised day length, VAT or agency-margin basis exists here. YunoJuno and Represent publication days are unconfirmed; Represent fieldwork dates are undisclosed.",
+    "The contract is an unsigned B2B Scottish-law starting template, not legal advice, legal approval or an enforceability guarantee. Liability, cancellation, IP and insurance fit need a Scottish solicitor. Consumer use requires different consideration.",
+    "Whole-project full payment plus approved expenses is the template condition for signed assignment of owned final bespoke work. Earlier launch needs a separate written licence; third-party assets and embedded pre-existing materials retain separate rights. Cancellation payments alone do not transfer unfinished-work rights.",
+    "The deposit is credited, not automatically forfeited. The proposed cancellation component is up to 20% of unperformed design fee, constrained by evidenced reasonable loss, mitigation, credits, refunds and the design-fee cap; it is not a statutory automatic entitlement.",
+    "PI advertisements are dated starting examples, not personalised or comparable quotes. PolicyBee's advertised turnover ceiling is below this model turnover; Hiscox supplies no matching cover limit beside the price. Twelve-month multiplications are not annual-payment quotes.",
+    "Original discovery routes were not provably fresh; retained notes disclose existing managed browser routes and a failed gov.scot renderer attempt. Saved unauthenticated public snapshots do not establish current availability. No private-account content was needed.",
+    "The older independent-review findings about the high-income boundary and contract ambiguities are superseded by its final bounded-fix section. Current workbook formulas contain the corrected taxable boundary and invalid-day guard. This authoring pass read actual DOCX text and XLSX ranges/formulas/cached values, without claiming a fresh engine recalculation or render."
+  ],
+  "editingContract": "New English-only local draft. No Chinese-language need specific to this Glasgow Scottish sole-trader scenario was established, so no Chinese file or speculative locale is declared. Four source-supported FAQ entries. No Review, AggregateRating, stars or invented ratings. Supporting documents use the original stage2-relative ../<run>/<file> convention. Only this new Markdown and JSON were authored; no build, inventory, shared-script, source-file or website changes.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A Glasgow-based designer with four years of in-house experience, starting a Scottish sole trade in January 2027 and preparing a B2B whisky-brand identity quote; no distinct Chinese-speaking audience need established.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}
