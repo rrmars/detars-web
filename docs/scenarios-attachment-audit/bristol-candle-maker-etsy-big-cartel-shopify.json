@@ -1,0 +1,24 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "7e0f90eb6057dc61b5c22bdbb065c68c42ce0d653b6b205520e8724b3fd465ce",
+  "sourceListLink": "../w7-uk-candle-etsy-vs-shopify/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f29b152a533e25e5a76c8ba47b2b118ee02bad92ee0845f459710669640f5d7d",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-uk-candle-etsy-vs-shopify/candle-costs.xlsx",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

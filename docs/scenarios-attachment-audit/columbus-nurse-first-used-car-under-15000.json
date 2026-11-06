@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "9022d118603be5accf7beb7cc549524113c7f79a0f9c5b1d5c47d6d7655666ae",
+  "sourceListLink": "../w7-used-car-columbus-nurse/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "50b555647d0f3e43d86cb7126cb7124f99993bfc306ad17a2f30e6e5d7bfe31c",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

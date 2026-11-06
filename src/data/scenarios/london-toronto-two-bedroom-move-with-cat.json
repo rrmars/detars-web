@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "slug": "london-toronto-two-bedroom-move-with-cat",
+  "translationKey": "london-toronto-two-bedroom-move-with-cat",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A south London couple moving a two-bedroom household and one adult domestic cat to Toronto around April 1, 2027, with an assumed CAD 8,000 employer allowance; UK-to-Canada status and pet route remain specific. No distinct Chinese audience established.",
+  "sources": [
+    {
+      "title": "PSS · Canada removals, price table/timelines",
+      "url": "https://www.pssremovals.com/removals-to-canada",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "1st Move · Canada costs and schedule",
+      "url": "https://www.shipit.co.uk/removals-to-canada",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Reloux · published Canada ranges",
+      "url": "https://www.reloux.com/post/removals-to-canada-from-uk-professional-uk-to-canada-shipping-services",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dimond · eastern-port price and inclusions",
+      "url": "https://www.dimondmovers.uk/removals-to-canada",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PSS · air box prices",
+      "url": "https://www.pssremovals.com/shipping-to-canada",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Anglo Pacific · Toronto timing, no numeric quote used",
+      "url": "https://www.anglopacific.co.uk/removals_to_canada.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bank of Canada · 5 November 2026 observation",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXGBPCAD/json?start_date=2026-11-05&end_date=2026-11-06",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CRA · Ontario HST",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-place-supply.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IKEA Canada · KLIPPAN",
+      "url": "https://www.ikea.com/ca/en/p/klippan-loveseat-vissle-gray-s29010616/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IKEA Canada · MALM search extract",
+      "url": "https://www.ikea.com/ca/en/search/?q=malm+bed+frame+queen",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IKEA Canada · VALEVÅG",
+      "url": "https://www.ikea.com/ca/en/p/valevag-hybrid-mattress-medium-firm-white-30511863/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IKEA Canada · HÄGERNÄS search extract",
+      "url": "https://www.ikea.com/ca/en/search/?q=dining+table",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CBSA D2-2-1 · settlers' effects",
+      "url": "https://www.cbsa-asfc.gc.ca/publications/dm-md/d2/d2-2-1-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BSF186/B4",
+      "url": "https://www.cbsa-asfc.gc.ca/publications/forms-formulaires/bsf186-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BSF186A/B4A",
+      "url": "https://www.cbsa-asfc.gc.ca/publications/forms-formulaires/bsf186a-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CBSA · moving or returning to Canada",
+      "url": "https://www.cbsa-asfc.gc.ca/travel-voyage/mrc-drc-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CBSA D17-1-3 · accounting/authorized agents",
+      "url": "https://www.cbsa-asfc.gc.ca/publications/dm-md/d17/d17-1-3-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CBSA D2-1-1 · temporary imports",
+      "url": "https://www.cbsa-asfc.gc.ca/publications/dm-md/d2/d2-1-1-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CBSA · food, plant, animal declarations",
+      "url": "https://www.cbsa-asfc.gc.ca/services/fpa-apa/regs-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CFIA AIRS",
+      "url": "https://inspection.canada.ca/en/importing-food-plants-animals/airs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CFIA wood packaging",
+      "url": "https://inspection.canada.ca/en/plant-health/invasive-pests-and-plants/directives/forest-products/98-08",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CBSA · firearms and weapons",
+      "url": "https://www.cbsa-asfc.gc.ca/import/iefw-iefa-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CBSA D9-1-7 · used mattresses",
+      "url": "https://www.cbsa-asfc.gc.ca/publications/dm-md/d9/d9-1-7-eng.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CFIA · Import Reference, Part III domestic cats",
+      "url": "https://inspection.canada.ca/en/animal-health/terrestrial-animals/imports/import-policies/general/reference-document",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "rabies-free countries",
+      "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets/rabies-free",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CFIA · Fees Notice, Part 11",
+      "url": "https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/cfia-fees-notice",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK · non-EU pet travel",
+      "url": "https://www.gov.uk/taking-your-pet-abroad/travelling-to-a-noneu-country",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "EHC 2923",
+      "url": "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-canada-certificate-2923",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official guidance notes",
+      "url": "https://assets.publishing.service.gov.uk/media/653f91c9e6c9680014aa9cfa/2923NFG.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Fetchapet · published cat range",
+      "url": "https://www.fetchapet.co.uk/pet-export/canada",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "British Airways",
+      "url": "https://www.britishairways.com/content/information/travel-assistance/travelling-with-pets",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PetAir UK · quote-only guidance",
+      "url": "https://www.petairuk.com/destinations/pet-travel-to-north-america/taking-pets-to-canada/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Air Canada · generic pet policy, not flight confirmation",
+      "url": "https://www.aircanada.com/ca/en/aco/home/plan/special-assistance/pets.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Air Transat · UK pet policy",
+      "url": "https://www.airtransat.com/en-GB/travel-information/special-services/pets-and-service-dogs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IATA · 2026 Container Requirement 1",
+      "url": "https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "employer_allowance": {
+      "value": 8000,
+      "display": "CAD 8,000",
+      "label": "Assumed fully spendable employer allowance; HR tax/eligibility unresolved",
+      "unit": "employer_allowance",
+      "currency": "CAD"
+    },
+    "full_container_total": {
+      "value": 20286.7,
+      "display": "20,286.70",
+      "label": "25 m³ FCL cargo-cat planning total, CAD; flights/housing excluded",
+      "unit": "planning_total",
+      "currency": "CAD"
+    },
+    "shared_container_total": {
+      "value": 17012.2,
+      "display": "17,012.20",
+      "label": "10 m³ shared cargo-cat planning total, CAD; freight assumed",
+      "unit": "planning_total",
+      "currency": "CAD"
+    },
+    "light_move_total": {
+      "value": 12951.54,
+      "display": "CAD 12,951.54",
+      "label": "99 kg air and budget rebuy with cat cargo; flights/housing excluded",
+      "unit": "planning_total",
+      "currency": "CAD"
+    },
+    "conditional_cabin_total": {
+      "value": 8771.54,
+      "display": "CAD 8,771.54",
+      "label": "Light move only if exact cabin flight accepted and CAD 700 cost holds",
+      "unit": "conditional_planning_total",
+      "currency": "CAD"
+    },
+    "conditional_initial_stage": {
+      "value": 7988.45,
+      "display": "CAD 7,988.45",
+      "label": "Cabin plus guest-bed deferral and before-HST purchase trim; not eventual total",
+      "unit": "conditional_initial_stage_total",
+      "currency": "CAD"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All cited source access dates are explicitly 2026-11-06 in the retained source ledger; source-specific document, rate and edition dates are separate. Undated provider publication dates remain unknown. No external refresh, publication date or article recheck date is invented.",
+  "uncertainties": [
+    "Budgets assume eligible duty/tax relief on imported used effects. Any import assessment or temporary-import security is additional and cannot be priced until customs status and inventory are confirmed.",
+    "No exact 25 m³ or 10 m³ London–Toronto quote, April 2027 price/availability, packed container fit or air chargeable-weight contract. B freight and most ancillary costs are assumptions.",
+    "Cabin/checked Air Canada outbound London acceptance for the actual cat and flight is unresolved. Cat cargo allowance is not a ceiling; generic passenger pet fees are not cargo rates.",
+    "UK export EHC/EXA and 72-hour examination are separate from Canadian import minimums; 2027 airline, CFIA fee, rabies-free list and IATA requirements need rechecking.",
+    "Customs classification depends on each person’s intended employment duration, residence/landing history and actual settlement; temporary 9803 differs from settler 9807, including used-mattress treatment and status-change triggers.",
+    "No personal human-health coverage assessment is present in the retained material; no OHIP, NHS, insurance eligibility or waiting-period claims are added.",
+    "Indexed IKEA prices are not live checkout or Toronto stock; VALEVÅG 499 versus category 449 resolved conservatively to 499. April 2027 prices, delivery and quality-equivalent replacement remain unconfirmed.",
+    "CAD 7,988.45 is a conditional initial stage only; deferred guest bed adds assumed CAD 678 with HST before later delivery/price changes. Cat cargo staged version remains CAD 12,168.45.",
+    "Employer net allowance/tax, pet/rebuy reimbursement and deadlines unknown. Adult airfares, visas, housing/deposit, living, UK tenancy exit, car shipping and major customs examination/demurrage excluded; sale proceeds not promised.",
+    "Original retrieval had automatic managed-browser fallbacks and an unestablished clean-state search route; do not describe it as wholly clean-browser-only. No new research or source-run edits performed."
+  ],
+  "editingContract": "English-only assigned Markdown, schema-v2 semantic data and author-check note. No Chinese page because no distinct Chinese audience established. Parent owns inventory, HTML build and package verification; no new ratings or review markup.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

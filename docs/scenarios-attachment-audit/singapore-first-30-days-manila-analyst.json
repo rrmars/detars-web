@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "84fbbf21b8f63057d3a6837707b82f9fd126c194c3e5a301d0d271c0a3fa00d6",
+  "sourceListLink": "../w7-singapore-first-30-days-ep/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "405e8071d33484ba99f5b8064bccc5ecf665e62bf61bda99d8c237d159c44a62",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "1cb6ef5d20c8eca9b7d452342b2937a060c32088e94337b69762d19d250a4121",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

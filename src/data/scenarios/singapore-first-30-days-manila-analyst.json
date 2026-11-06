@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 2,
+  "slug": "singapore-first-30-days-manila-analyst",
+  "translationKey": "singapore-first-30-days-manila-analyst",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "A 31-year-old solo data analyst departing Manila on an EP IPA for January 2027 Singapore onboarding; passport nationality is unconfirmed. Useful to Chinese-speaking EP newcomers without extending Philippine-passport or OFW eligibility.",
+    "zh": "从马尼拉独自出发、持 EP IPA 的31岁数据分析师，计划2027年1月落地新加坡；护照国籍未确认。中文供同类 EP 新人参考，不扩大菲律宾护照或 OFW 资格。"
+  },
+  "sources": [
+    {
+      "title": "MOM’s EP guidance",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SG Arrival Card and health declaration",
+      "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/sg-arrival-card-with-electronic-health-declaration",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ICA e-Pass",
+      "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/short-term-visit-pass/electronic-visit-pass-(e-pass)-retrieval-for-short-term-visitors",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DMW/MWO exit-clearance requirements",
+      "url": "https://mwosingapore.freshdesk.com/support/solutions/articles/158000406332-overseas-employment-certificate-oec-",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "EPSC",
+      "url": "https://www.mom.gov.sg/contact-us/locations",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "appointment/extension instructions",
+      "url": "https://www.mom.gov.sg/eservices/services/make-an-appointment",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "eligible for Singpass",
+      "url": "https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Singpass help",
+      "url": "https://ask.gov.sg/singpass/questions/clul6fif3005nyisx00qt55cy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Face Verification registration",
+      "url": "https://ask.gov.sg/singpass/questions/clul27aq60028yisxifw2l2w3",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "App setup",
+      "url": "https://ask.gov.sg/singpass/questions/clul3027f003pu36b11cbz4mb",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SMS 2FA",
+      "url": "https://ask.gov.sg/singpass/questions/clul0f1h7001e3b8gjij1rmlm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MOM residential address/mobile records",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/notify-mom-of-changes",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Singpass residential data",
+      "url": "https://ask.gov.sg/singpass/questions/clul08v6p001mufi2ju0z5b09",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "mailed Singpass PIN",
+      "url": "https://ask.gov.sg/singpass/questions/clul0600n001eyisxy353w0j5",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRAS new-taxpayer guide",
+      "url": "https://www.iras.gov.sg/taxes/individual-income-tax/employees/basic-guide-for-new-individual-taxpayers",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DBS document list",
+      "url": "https://www.dbs.com.sg/personal/support/bank-account-opening-documents-required.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "My Account terms",
+      "url": "https://www.dbs.com.sg/personal/accounts/my-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "general, student-oriented opening guide",
+      "url": "https://www.dbs.com.sg/personal/deposits/account-opening-guide-digibank.page",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "application-status guidance",
+      "url": "https://www.dbs.com.sg/personal/support/bank-account-application-status.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OCBC 360",
+      "url": "https://www.ocbc.com/personal-banking/deposits/360-savings-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "remote-channel passport limits",
+      "url": "https://www.ocbc.com/personal-banking/digital-banking/sg-bank-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "UOB originals",
+      "url": "https://www.uob.com.sg/personal/customer-service/accounts.page",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GXS eligibility",
+      "url": "https://help.gxs.com.sg/GXS_Savings_Account/Open_a_GXS_Savings_Account/How_do_I_apply_for_a_GXS_Savings_Account%3F",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MariBank eligibility",
+      "url": "https://www.maribank.sg/help-centre/article/10081-who-can-apply-for-a-mari-savings-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Trust savings FAQ",
+      "url": "https://trustbank.sg/faqs/savings-account/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wise’s corridor page",
+      "url": "https://wise.com/sg/send-money/send-money-to-singapore-from-philippines",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PHP funding rules",
+      "url": "https://wise.com/help/articles/2932333/guide-to-php-transfers",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BPI’s outward route",
+      "url": "https://www.bpi.com.ph/personal/bank/remit-and-transfer/send-money",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "component tariff",
+      "url": "https://www.bpi.com.ph/personal/bank/fees/remit",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Singtel offer",
+      "url": "https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "terms",
+      "url": "https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist/tnc",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "StarHub offer",
+      "url": "https://www.starhub.com/personal/mobile/tourist-sim.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M1 Chinese offer",
+      "url": "https://www.m1.com.sg/mobile/prepaid-plans/tourist-sim/tourist-sim-chinese",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "retention FAQ",
+      "url": "https://www.m1.com.sg/support/faq/prepaid-faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "postpaid",
+      "url": "https://simba.sg/cis/sr10.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "prepaid",
+      "url": "https://simba.sg/cis/prepaid/sr10.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tanjong Pagar Plaza room",
+      "url": "https://www.propertyguru.com.sg/listing/hdb-for-rent-2-tanjong-pagar-plaza-24125819",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Skysuites @ Anson studio",
+      "url": "https://www.propertyguru.com.sg/listing/for-rent-skysuites-anson-25616361",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "106 Aljunied Crescent room",
+      "url": "https://www.propertyguru.com.sg/listing/hdb-for-rent-106-aljunied-crescent-25317257",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aljunied master room",
+      "url": "https://www.sgroom.rent/listings/aljunied-mrt-master-room-oe673x",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Commonwealth Towers ensuite room",
+      "url": "https://www.propertyguru.com.sg/listing/for-rent-commonwealth-towers-25242566",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Commonwealth Towers whole 1-bedroom",
+      "url": "https://www.propertyguru.com.sg/listing/for-rent-commonwealth-towers-60037846",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "409 Jurong West master room",
+      "url": "https://www.homejourney.sg/properties/47826f76-c147-4721-80b7-a8210a732dd2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Lakeshore common room",
+      "url": "https://property.singaporeexpats.com/property-listing/7449518/rent/THE-LAKESHORE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ness advertised studio",
+      "url": "https://www.propertyguru.com.sg/listing/for-rent-ness-500305396",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aljunied shared-toilet “studio”",
+      "url": "https://www.propertyguru.com.sg/listing/for-rent-fully-furnished-serviced-compact-studio-apartment-at-aljunied-mrt-shared-toilet-25299718",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "32 Holland Close room",
+      "url": "https://www.prop-gpt.com/SG/property/rent/hdb-flat-for-rent-singapore-59007",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Lakeshore whole 3-bedroom",
+      "url": "https://property.singaporeexpats.com/property-listing/7434395/rent/LAKESHORE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Lakeshore whole 3-bedroom alternative",
+      "url": "https://property.singaporeexpats.com/property-listing/7435044/rent/LAKESHORE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "private residential rentals",
+      "url": "https://www.ura.gov.sg/guidelines/property-and-business-owners/property/renting-property/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HDB rentals",
+      "url": "https://www.cea.gov.sg/consumers/transacting-on-your-own/renting-an-hdb-flat-or-bedroom/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "bedroom rental",
+      "url": "https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-bedrooms/regulations",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CEA’s scam guidance",
+      "url": "https://www.cea.gov.sg/consumers/rental-scams/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "commercial deposit guide",
+      "url": "https://www.singaporeexpats.com/guides-for-expats/procedure-for-rental.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NUS-hosted guide",
+      "url": "https://osa.nus.edu.sg/wp-content/uploads/2025/12/Alt.-Housing-Resources_HAS-_21112025.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CEA",
+      "url": "https://www.cea.gov.sg/consumers/engaging-a-property-agent/renting-or-renting-out/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRAS",
+      "url": "https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Stamp before signing",
+      "url": "https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property/learning-the-basics-for-properties",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRAS permits a local representative",
+      "url": "https://www.iras.gov.sg/taxes/stamp-duty/for-shares/basics-of-stamp-duty-for-shares/e-stamping-and-where-to-e-stamp-documents",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ordinary GIRO payment",
+      "url": "https://www.iras.gov.sg/digital-services/stamp-duty",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SimplyGo EZ-Link card",
+      "url": "https://www.simplygo.com.sg/travel-cards/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Foreign-issued Mastercard/Visa",
+      "url": "https://www.simplygo.com.sg/faqs/cards-and-charms/simplygo/contactless-bank-cards/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PTC’s decision",
+      "url": "https://www.ptc.gov.sg/media-centre/newsroom/fare-review-exercise-2026/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "approved fares",
+      "url": "https://isomer-user-content.by.gov.sg/284/d0552669-6654-49c8-b06a-5fbd8b3c0c8a/Download%20PTC%20FRE%20Annex%20A%20%26%20B%20%5BPDF%2C%20395%20KB%5D.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Eligible transfers",
+      "url": "https://www.simplygo.com.sg/transfer-fare-rules/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "room_cash_before_salary": {
+      "value": 3907,
+      "display": "S$3,907",
+      "label": "Room model before unpaid serviced-apartment bill and actual extras",
+      "unit": "conditional_accessible_funds_before_salary",
+      "currency": "SGD"
+    },
+    "studio_cash_before_salary": {
+      "value": 7184,
+      "display": "S$7,184",
+      "label": "Studio model before unpaid serviced-apartment bill and actual extras",
+      "unit": "conditional_accessible_funds_before_salary",
+      "currency": "SGD"
+    },
+    "full_month_living_reserve": {
+      "value": 1450,
+      "display": "1,450",
+      "label": "Planning living allocation including unspent buffers; not quoted prices",
+      "unit": "thirty_day_living_reserve",
+      "currency": "SGD"
+    },
+    "ep_issuance_charge": {
+      "value": 225,
+      "display": "S$225",
+      "label": "EP issuance only; conditional visa fee and payer separate",
+      "unit": "issuance_fee",
+      "currency": "SGD"
+    },
+    "shared_toilet_monthly_floor": {
+      "value": 1450,
+      "display": "S$1,450",
+      "label": "Aljunied shared-toilet advertised floor with mandatory package; not a private studio",
+      "unit": "advertised_minimum_recurring_rent",
+      "currency": "SGD"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All cited sources originally accessed 2026-11-06. Unknown substantive dates stay unknown; sourceDate/sourceDateType distinguish listing, update, modification, tariff month and future-effective dates. Authoring did not refresh sources or establish publication/recheck dates. January terms remain unconfirmed.",
+  "uncertainties": [
+    "Manila departure does not establish nationality. Philippine passport remote-channel exclusions and OFW clearance are conditional. Actual IPA, medical requirements, accepted address and passport validity are unknown.",
+    "EP issuance, EPSC registration, independent Singpass following-Monday eligibility and physical-card delivery are separate; generic Singpass and EPSC-assisted workflows are not explicitly reconciled.",
+    "Actual payroll date/cutoff, unpaid accommodation bill, accessible funds, fee payer and bank approval/card timing unknown. Notification-letter acceptance not affirmatively established across banks.",
+    "January phone plans, GST/extras, voice/SMS and re-registration documents need checking. Singtel marketing/terms conflict; StarHub continuity unconfirmed; M1 channel differs. SIMBA prepaid and postpaid both charge on day 26 per retained primary texts.",
+    "Wise public fees are dynamic and internally inconsistent. BPI USD10 promotion ended 2024-06-30. Components do not establish all-in costs, net SGD or cheapest provider.",
+    "All 13 listings are advertised examples, not authenticated ownership or January availability. No actual Queenstown/western studio verified. Ness/Skysuites could not be independently repeated after checkpoints; larger whole units remain explicitly different products.",
+    "IPA-only HDB eligibility unconfirmed. Current HDB prior bedroom approval controls over older conflicting CEA PDF. No individual layout or approval authenticated.",
+    "Deposit/commission inputs are not law or quotes. Actual rent, term, charges, higher market basis, signature and Singapore receipt/access dates unknown. December stamp-duty concession is narrow, not a January extension.",
+    "Original public research had automatic managed-browser fallbacks, so fully clean-session compliance cannot be certified. No credentials/import, forms, booking, payment or contact requested. This authoring used retained files only."
+  ],
+  "editingContract": "Only new English Markdown, Chinese Markdown, shared schema-v2 JSON and batch20 author note. Parent owns shared build/inventory checks. No source-run edits or external refresh; no ratings, stars, Review or AggregateRating.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

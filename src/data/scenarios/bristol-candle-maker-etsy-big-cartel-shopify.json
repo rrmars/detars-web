@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 2,
+  "slug": "bristol-candle-maker-etsy-big-cartel-shopify",
+  "translationKey": "bristol-candle-maker-etsy-big-cartel-shopify",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Non-VAT-registered Bristol soy-candle maker selling £18 candles at markets and planning a January 2027 online launch to GB customers; UK selling profile and local obligations are specific. No distinct Chinese audience established.",
+  "sources": [
+    {
+      "title": "Shopify UK plans and rates",
+      "url": "https://www.shopify.com/uk/pricing?country=gb&lang=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Shopify billing VAT guidance",
+      "url": "https://help.shopify.com/en/manual/your-account/manage-billing/billing-charges/types-of-charges/taxes/billing-taxes-eu-ireland-switzerland-turkey",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Big Cartel Gold",
+      "url": "https://www.bigcartel.com/plans/gold",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Big Cartel pricing",
+      "url": "https://www.bigcartel.com/product/pricing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Big Cartel own fee comparison",
+      "url": "https://www.bigcartel.com/product/etsy-alternative",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Stripe UK pricing",
+      "url": "https://stripe.com/gb/pricing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy fees policy",
+      "url": "https://www.etsy.com/legal/fees/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy UK selling page",
+      "url": "https://www.etsy.com/uk/sell",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy UK regulatory fee",
+      "url": "https://help.etsy.com/hc/en-gb/articles/1500011073202-What-is-a-Regulatory-Operating-Fee",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy payment processing",
+      "url": "https://help.etsy.com/hc/en-gb/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy Offsite Ads",
+      "url": "https://help.etsy.com/hc/en-gb/articles/360000338367-How-Etsy-s-Offsite-Ads-Work",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy VAT on seller fees",
+      "url": "https://help.etsy.com/hc/en-gb/articles/360040584433-How-VAT-Is-Collected-on-Seller-Fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy fees and taxes detail",
+      "url": "https://help.etsy.com/hc/en-gb/articles/115014483627-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Royal Mail October online guide",
+      "url": "https://www.royalmail.com/sites/royalmail.com/files/2026-09/online-price-guide-october-2026-v1-ta.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Royal Mail October counter guide",
+      "url": "https://www.royalmail.com/sites/royalmail.com/files/2026-09/our-prices-october-2026-v1-ta.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Royal Mail current headline prices",
+      "url": "https://www.royalmail.com/current-postage-prices",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Royal Mail 2026 changes",
+      "url": "https://www.royalmail.com/prices2026",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Trading Standards candle guidance",
+      "url": "https://www.anglesey.gov.wales/en/business/trading-standards/trading-standards-guidance/safety/331331",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GB CLP label elements",
+      "url": "https://www.legislation.gov.uk/eur/2008/1272/article/17",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HSE GB poison centre",
+      "url": "https://www.hse.gov.uk/chemical-classification/classification/poison-centres.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OPSS GB general product safety",
+      "url": "https://www.gov.uk/government/publications/general-product-safety-regulations-2005/general-product-safety-regulations-2005-great-britain",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OPSS NI/EU GPSR guidance",
+      "url": "https://www.gov.uk/government/publications/general-product-safety-regulations-northern-ireland/eu-regulation-2023988-on-general-product-safety-detailed-guidance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etsy GPSR implementation",
+      "url": "https://help.etsy.com/hc/en-us/articles/28211364687383-What-is-the-General-Product-Safety-Regulation-GPSR",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Shopify GPSR implementation",
+      "url": "https://help.shopify.com/en/manual/international/gpsr",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BSI fire safety",
+      "url": "https://knowledge.bsigroup.com/products/candles-specification-for-fire-safety-2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BSI soot",
+      "url": "https://knowledge.bsigroup.com/products/candles-specification-for-sooting-behaviour",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BSI safety labels",
+      "url": "https://knowledge.bsigroup.com/products/candles-product-safety-labels",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Government referenced standards",
+      "url": "https://www.gov.uk/government/publications/standards-general-product-safety",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GB CLP Article 48 — online advertisement hazards",
+      "url": "https://www.legislation.gov.uk/eur/2008/1272/article/48",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Online selling information",
+      "url": "https://www.gov.uk/online-and-distance-selling-for-businesses/online-selling",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC registration",
+      "url": "https://www.gov.uk/register-for-vat",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC Notice 700/1",
+      "url": "https://www.gov.uk/government/publications/vat-notice-7001-should-i-be-registered-for-vat/vat-notice-7001-should-i-be-registered-for-vat",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC VAT rates",
+      "url": "https://www.gov.uk/vat-rates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC VAT pricing",
+      "url": "https://www.gov.uk/charge-reclaim-record-vat",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Returns and refunds",
+      "url": "https://www.gov.uk/accepting-returns-and-giving-refunds",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "delivery_subsidy": {
+      "value": 2.95,
+      "display": "£2.95",
+      "label": "Postage absorbed per order before protective packaging at the £26 basket",
+      "unit": "postage_subsidy_per_order",
+      "currency": "GBP"
+    },
+    "full_postage_basket": {
+      "value": 28.95,
+      "display": "£28.95",
+      "label": "Average basket if customer pays the modelled postage in full",
+      "unit": "average_customer_payment",
+      "currency": "GBP"
+    },
+    "etsy_remaining_candle": {
+      "value": 12.24,
+      "display": "£12.24",
+      "label": "Etsy base remaining per candle after fees, shipping packaging and postage; not profit",
+      "unit": "remaining_per_candle_not_profit",
+      "currency": "GBP"
+    },
+    "gold_remaining_candle": {
+      "value": 14.61,
+      "display": "£14.61",
+      "label": "Gold plus standard UK Stripe remaining per candle; not profit or guaranteed demand",
+      "unit": "remaining_per_candle_not_profit",
+      "currency": "GBP"
+    },
+    "shopify_budget_fixed": {
+      "value": 30,
+      "display": "£30",
+      "label": "Monthly Basic budget including hypothetical subscription-tax reserve, not confirmed bill",
+      "unit": "conditional_fixed_monthly_budget",
+      "currency": "GBP"
+    },
+    "vat_turnover_threshold": {
+      "value": 90000,
+      "display": "£90,000",
+      "label": "Dated compulsory-registration taxable-turnover threshold; rolling and forward tests differ",
+      "unit": "taxable_turnover_threshold",
+      "currency": "GBP"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All cited entries explicitly recorded as seen 2026-11-06 in the retained HTML/source register. Royal Mail guides valid 2026-10-05, BSI fire standard published 2026-09-30, government standards notice dated 2026-10-08, NI/EU GPSR applies from 2024-12-13. These are separate source-specific dates, not January 2027 tariff guarantees. Authoring is not external refresh or publication.",
+  "uncertainties": [
+    "January 2027 platform/postage tariffs are unconfirmed; all prices remain the retained November 6, 2026 snapshot.",
+    "£1.20 shipping packaging is an assumption; packed weights, dimensions and band mix need actual measurements. £0.15 Etsy listing equivalent varies with FX; one-time setup amount is unknown.",
+    "Shopify UK non-registered subscription VAT was not established. The £5 reserve is hypothetical; no blanket VAT uplift is applied to Shopify/Stripe processing.",
+    "Gold requires five products to be sufficient. Standard domestic card assumptions exclude premium/international/PayPal mix, optional services, extra site and acquisition costs.",
+    "Remaining per candle is not profit: product materials, vessel, retail packaging, labour, insurance, testing, overheads, returns and tax are outside the comparison.",
+    "Royal Mail dated parcel guides conflict with generic lower from-prices; no public checkout promotion was confirmed. Business-account peak surcharge is not imported into public tariffs.",
+    "Local candle guidance calls standards designated, but the retained government notice did not list the trio. Full paid standards were not accessed; no test protocol or statutory presumption/certification is promised.",
+    "Finished formulations/SDS are missing, so exact allergens, labels and online hazard wording remain product-specific. GB baseline excludes NI/EU; those destinations need separate operator, safety and CLP/UFI/poison-centre preparation.",
+    "No fresh workbook engine calculation, source refresh, shared build, publication, website edit, account, contact, subscription or payment performed. Original reviewer hashes describe earlier bytes, not current artifact identity."
+  ],
+  "editingContract": "English-only assigned Markdown, schema-v2 JSON and author-check note. Parent owns inventories, HTML and shared build. No stars, Review or AggregateRating.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

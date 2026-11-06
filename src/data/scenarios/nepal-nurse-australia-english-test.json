@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "slug": "nepal-nurse-australia-english-test",
+  "translationKey": "nepal-nurse-australia-english-test",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Nepali nurse age 27 with four years of experience in Kathmandu, comparing Australian nursing-registration and visa English targets around shifts; useful to Chinese-speaking nurses without transferring Nepal prices, local access or qualification eligibility.",
+  "sources": [
+    {
+      "title": "NMBA English language skills registration standard — effective 18 March 2025",
+      "url": "https://www.ahpra.gov.au/documents/default.aspx?chksum=7XlS%2FQCh6z21A%2FrsD5vd8g%3D%3D&dbid=AP&record=WD24%2F34379",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ahpra transition policy — April 2026, Table 2 applies from 23 April 2026",
+      "url": "https://www.ahpra.gov.au/documents/default.aspx?chksum=cfj%2B9cu%2FNODqTn37yTOzrw%3D%3D&dbid=AP&record=WD26%2F36006",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ahpra accepted English language tests — current version warning",
+      "url": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NMBA English standard FAQ / One Skill Retake",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Codes-Guidelines-Statements/FAQ/fact-sheet-english-language-skills-registration-standard",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Home Affairs: competent English, current Table 1",
+      "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Home Affairs: proficient English, current Table 1",
+      "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/proficient-english",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Home Affairs: superior English, current Table 1",
+      "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/superior-english",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Migration Regulations: retrieved October 2026 compilation, regs 1.15C/D/EA and Schedule 6D.2",
+      "url": "https://www.legislation.gov.au/F1996B03551/latest/text",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "British Council Nepal: published IELTS fee",
+      "url": "https://www.britishcouncil.org.np/exam/ielts/book-test",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "British Council Nepal: delivery locations and results",
+      "url": "https://www.britishcouncil.org.np/exam/ielts/dates-fees-locations",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "British Council Nepal: standard IELTS cancellation and transfer rules",
+      "url": "https://www.britishcouncil.org.np/exam/ielts/cancellation-refund-policy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IELTS official Academic sample tasks, answers and examiner comments",
+      "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "British Council Nepal: preparation resources",
+      "url": "https://www.britishcouncil.org.np/exam/ielts/prepare",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pearson: official preparation and practice-test prices",
+      "url": "https://www.pearsonpte.com/pte-academic/preparation/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pearson: cancellation and rescheduling policy, updated 17 September 2026",
+      "url": "https://www.pearsonpte.com/policy-center/cancellations-rescheduling/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pearson: refund policy",
+      "url": "https://www.pearsonpte.com/policy-center/refund-policy/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ETS TOEFL iBT Bulletin, July 2026–June 2027",
+      "url": "https://www.ets.org/pdfs/toefl/toefl-ibt-bulletin.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ETS: TOEFL for Australia",
+      "url": "https://www.ets.org/toefl/test-takers/ibt/where-to-study/study-in-australia.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ETS: fees and rescheduling",
+      "url": "https://www.ets.org/toefl/test-takers/ibt/register/fees.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OET: test booking, deadlines and results",
+      "url": "https://oet.com/test/book-a-test",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IDP Nepal: IELTS dates, fees and location frequency (page title 2026, fee prose still says 2025)",
+      "url": "https://ielts.idp.com/nepal/about/ielts-test-dates-fees-locations",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IELTS official centre listing: British Council Kathmandu",
+      "url": "https://ielts.org/test-centres/british-council-kathmandu",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pearson: Nepal public price data (PTE Academic USD 248.60)",
+      "url": "https://prod.ess.ift.pearson-intl.com/products/products/application/ignite-api/country/NP?search=Exam%27",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pearson: centres and fees locator",
+      "url": "https://www.pearsonpte.com/test-centers-and-fees/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pearson: product, centre mode and results FAQ",
+      "url": "https://www.pearsonpte.com/pte-academic/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OET official support: full test fee (official indexed text)",
+      "url": "https://support.occupationalenglishtest.org/articles/Knowledge/How-much-does-OET-cost",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OET official support: rescheduling (official indexed text)",
+      "url": "https://support.occupationalenglishtest.org/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cambridge English: OET format",
+      "url": "https://www.cambridgeenglish.org/exams-and-tests/oet/test-overview/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cambridge English: free OET preparation",
+      "url": "https://www.cambridgeenglish.org/exams-and-tests/oet/preparation/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ULCI official operator site: preliminary Kathmandu OET venue lead",
+      "url": "https://ulci.edu.np/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "USEF-Nepal official operator: TOEFL centre lead; fee block explicitly dated May 2019",
+      "url": "https://usefnepal.org/prometric/registration-information/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ETS: reschedule deadline, article 28 January 2026",
+      "url": "https://www.ets.org/toefl/blog/how-to-reschedule-your-toefl-exam.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ETS: Australia-specific preparation route",
+      "url": "https://www.ets.org/toefl/test-takers/ibt/prepare-australia.html",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "ielts_each_skill_target": {
+      "value": 7,
+      "display": "7",
+      "label": "Recommended single-sitting IELTS target in every skill for registration and proficient English; other conditions remain",
+      "unit": "ielts_band"
+    },
+    "recommended_cash_reserve": {
+      "value": 79000,
+      "display": "NPR 79,000",
+      "label": "First IELTS attempt plus full retake, estimated travel and incidental buffer; late-transfer charge excluded",
+      "unit": "planning_cash_reserve",
+      "currency": "NPR"
+    },
+    "two_test_fees": {
+      "value": 72000,
+      "display": "NPR 72,000",
+      "label": "Dated IELTS fee-only total for first attempt and one full retake",
+      "unit": "two_test_fee_total",
+      "currency": "NPR"
+    },
+    "study_hours": {
+      "value": 160,
+      "display": "160",
+      "label": "Study hours before April contingency; not a pass guarantee",
+      "unit": "planned_study_hours"
+    },
+    "pte_two_fees": {
+      "value": 497.2,
+      "display": "USD 497.20",
+      "label": "Dated PTE exam fees only, excludes tax, travel and card FX",
+      "unit": "two_test_fee_total",
+      "currency": "USD"
+    },
+    "oet_two_fees": {
+      "value": 1174,
+      "display": "AUD 1,174",
+      "label": "Dated OET full-test fees only, excludes travel and FX",
+      "unit": "two_test_fee_total",
+      "currency": "AUD"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All registered source access dates are explicitly 2026-11-06 in retained sources.md. NMBA effective date 2025-03-18, score transition 2026-04-23 and Home Affairs tables from 2025-08-07 are separate. ETS bulletin covers July 2026–June 2027; the retrieved legislation ends 2026-10-31. USEF fee is May 2019, not current. Authoring is not a source refresh or publication.",
+  "uncertainties": [
+    "Visa subclass unspecified; OSR acceptance, full-test combination acceptance and post-October legislative currency remain unresolved.",
+    "No guaranteed comparative easiest test, pass probability, nursing qualification acceptance, skills assessment or visa eligibility.",
+    "No April 2027 seats, final fees, complete current street venue inventory or verified nearest foreign fallback. ULCI and USEF are preliminary operator leads only.",
+    "TOEFL Nepal Australia-test base fee unknown; USD 180 is explicitly May 2019. Global TOEFL version and 1–6 scale must not be substituted for Australia.",
+    "OET fee and change conditions rely on official indexed support text; final Nepal debit/FX/taxes unconfirmed.",
+    "PTE dedicated cancellation policy uses more than 14 days, despite looser FAQ wording. IDP current binding cancellation terms unconfirmed; BC terms must not transfer.",
+    "Source memos contain differing ULCI extraction and ETS URL/version observations; final retained guide and source synthesis used with their explicit limits.",
+    "Original research had automatic managed-browser/search fallbacks; clean-session status not certified. No account creation, booking, payment or contact reported. This authoring made no external request.",
+    "Paid tutoring and complete account-free interactive-course access unconfirmed; no AUD/USD to NPR conversion assumed."
+  ],
+  "editingContract": "Only new English/Chinese Markdown, shared schema-v2 JSON and author note. Parent owns shared build/inventory/check reports; no source refresh, source edits, ratings or publication.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

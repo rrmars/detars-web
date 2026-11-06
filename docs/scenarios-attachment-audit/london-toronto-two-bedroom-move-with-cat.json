@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "7d3d75956f18f65c55225be8173b8393163fabb5ea800e009861294b94fc5ab5",
+  "sourceListLink": "../w7-london-toronto-move/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f088751432d8bfed9915562df0e57fe6631995fbef28fac20c233069e7b4b18e",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
