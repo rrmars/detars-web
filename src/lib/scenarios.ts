@@ -71,14 +71,14 @@ export function scenarioJsonLd(entry: Scenario): Record<string, unknown>[] {
 
 export const scenarioIndexCopy = (locale: Locale) => locale === "zh" ? {
   title: "场景 · DeTars", description: "从旅行、住房和家庭预算到工作与小生意，看看 DeTars 如何把一个真实问题变成有来源、有下一步的实用答案。",
-  kicker: "场景", heading: "一个真实问题，\n一条可走的路。", intro: "想安排一次旅行，算清第一次租房的开销，或理顺小店的现金流？这些是交给 DeTars 的真实任务，保留完整答案、原始假设和重要限制。",
+  kicker: "场景", heading: "一个真实问题，\n一条可走的路。", intro: "想安排一次旅行，算清第一次租房的开销，或理顺小店的现金流？每一篇都是 DeTars 的通用 Cowork 任务按一个具体处境真实跑出来的：完整答案、原始假设和重要限制都保留着。",
   invitation: "随便看看，也许就有你的起点。", quiet: "不是功能清单。是真实的工作，有调研日期，也有来源。",
-  action: "把你的问题交给 DeTars ↗", all: "全部", count: "个真实任务", read: "阅读全文 →",
+  action: "把你的问题交给 DeTars ↗", all: "全部", count: "个场景", read: "阅读全文 →",
   languages: "已有语言", researched: "调研", producer: "通用 Cowork 任务", note: "每篇答案对应原任务的具体条件。价格、规则与可用性会变化，请按你的情况重新核实。"
 } : {
   title: "Scenarios · DeTars", description: "Real tasks, useful answers: explore DeTars scenarios for travel, home budgets, work, family life and small business, with dates, sources and practical next steps.",
-  kicker: "Scenarios", heading: "A real question.\nA useful way forward.", intro: "A trip to plan. A first home to budget for. A small shop’s cash to untangle. These are real tasks people asked DeTars to do, with complete answers, original assumptions and important limits.",
+  kicker: "Scenarios", heading: "A real question.\nA useful way forward.", intro: "A trip to plan. A first home to budget for. A small shop’s cash to untangle. Each guide is a real run of a general DeTars Cowork task on one specific situation, kept with its complete answer, original assumptions and important limits.",
   invitation: "Have a look. You might find a place to start.", quiet: "Not a feature list. Real work, with research dates and sources.",
-  action: "Bring your own question to DeTars ↗", all: "All", count: "real tasks", read: "Read the guide →",
+  action: "Bring your own question to DeTars ↗", all: "All", count: "scenarios", read: "Read the guide →",
   languages: "Available languages", researched: "Researched", producer: "General Cowork task", note: "Each answer belongs to its original task and assumptions. Prices, rules and availability can change; recheck them for your situation."
 };
