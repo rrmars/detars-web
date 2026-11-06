@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "slug": "uk-nomad-health-insurance-asthma",
+  "translationKey": "uk-nomad-health-insurance-asthma",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "34-year-old UK freelance designer with controlled asthma, leaving February 2027 for roughly six months each in Chiang Mai and Lisbon, with a £150 monthly insurance budget; UK residence, passport and visa profile remain specific. No distinct Chinese audience established.",
+  "sources": [
+    {
+      "title": "Genki Native product & public example pricing",
+      "url": "https://genki.world/products/native",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Genki Native conditions · 1 September 2026 · pp4–5,13–24",
+      "url": "https://genki.world/products/native/insurance-conditions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Genki Traveler product · from-price, eligibility & home visits",
+      "url": "https://genki.world/products/traveler",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Genki Traveler conditions · 1 September 2026 · pp3–12",
+      "url": "https://genki.world/products/traveler/insurance-conditions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing public prices & plan comparison",
+      "url": "https://safetywing.com/nomad-insurance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing Complete public page · conflicting static price",
+      "url": "https://explore.safetywing.com/nomad-insurance-complete",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing FAQ · deductibles, pre-existing conditions, home country",
+      "url": "https://safetywing.com/nomad-insurance/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing Complete Standard 3.0 · October 2026 · PDF pp30,34,37,43,49,54",
+      "url": "https://safetywing.com/policy-documents/nomad-insurance/complete/3.0/vip-standard-3.0.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing Essential 4.0.1 · May 2026 · pp4–6,10–11,31",
+      "url": "https://assets.ctfassets.net/hal1sayc3tet/lC8U3DqDvnvrzpv1Zm0D8/1e09123224d3103c552b3e7390e05396/SWIII-DOC-NI4.0.1E.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing current policy-version register",
+      "url": "https://safetywing.com/policies",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cigna sales brochure · February 2026 · pp13–18",
+      "url": "https://www.cignaglobal.com/dvc-pdfs/GENERIC-228/en/591050%20CGHO%20Sales%20Brochure%20Broker%20EN%2002_2026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cigna Customer Guide · February 2026 · pp35,42–43",
+      "url": "https://www.cignaglobal.com/dvc-pdfs/UKCEIC-UKCEICP11/en/591048%20CGHO%20Customer%20Guide%20EN_02_2026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cigna CGIC policy rules · February 2026 · clauses11 & exclusion2",
+      "url": "https://www.cignaglobal.com/dvc-pdfs/CGIC-EP38/en/CGHP%20Policy%20Rules%20CGIC%20EN%2002_2026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Allianz live Care benefit table · states valid 1 November 2025",
+      "url": "https://health.allianzcare-publications.com/story/care-tob-en/page/1?accessible",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Allianz linked benefit guide · states valid 1 November 2026",
+      "url": "https://www.allianzcare.com/content/dam/onemarketing/azcare/allianzcare/en/docs/DOC-Care-IBG-EN-1125.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Allianz current Care Base product, underwriting & monthly surcharge",
+      "url": "https://www.allianzcare.com/en/personal-international-health-insurance/products-and-services/international-healthcare-plans.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "World Nomads current UK products & Single Trip maximum",
+      "url": "https://www.worldnomads.com/uk/travel-insurance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "World Nomads UK pre-existing-condition exclusion",
+      "url": "https://www.worldnomads.com/uk/help/insurance/buying-travel-insurance/pre-existing-medical-conditions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "World Nomads UK residence eligibility",
+      "url": "https://www.worldnomads.com/uk/help/insurance/buying-travel-insurance/what-is-my-country-of-residence",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Identified public UK wording 27AUG2025v3 · current-sale match unconfirmed",
+      "url": "https://api.nibtravelinsurance.com/products/v2/wn/insuranceContract/45/pds?countryCode=GBR&lang=en&planId=299&preferredDocumentFileType=HTML",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Portugal VFS UK national/Schengen category index",
+      "url": "https://www.vfsglobal.com/one-pager/portugal/uk/english/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E11 temporary remote work checklist · 6 March 2026 · p1 insurance",
+      "url": "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/E11-TEMPORARY-STAY-VISA-FOR-THE-EXERCISE-OF-A-PROFESSIONAL-ACTIVITY-DONE-REMOTELY.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D9 remote residence checklist · 6 March 2026 · p1 insurance",
+      "url": "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/D9-RESIDENCE-VISA-FOR-PROFESSIONAL-ACTIVITY-DONE-REMOTELY-DIGITAL-NOMADS.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AIMA general residence requirements · health insurance OR SNS evidence",
+      "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK Portugal entry requirements · 90/180 & long stays",
+      "url": "https://www.gov.uk/foreign-travel-advice/portugal/entry-requirements",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Royal Thai Embassy London DTV · updated 8 September 2026",
+      "url": "https://london.thaiembassy.org/en/page/destination-thailand-visa",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ECB reference FX · rate date 5 November 2026",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NHS GHIC eligibility & medically necessary public care",
+      "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FCDO Thailand health · Chiang Mai smoke haze & asthma",
+      "url": "https://www.gov.uk/foreign-travel-advice/thailand/health",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK healthcare for UK nationals living in Portugal",
+      "url": "https://www.gov.uk/guidance/healthcare-in-portugal-including-madeira",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IMG Gold with Creditable Coverage sample; not an offered policy",
+      "url": "https://www.imglobal.com/docs/library/policy-summaries/global-medical-insurance-gold.pdf",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_budget": {
+      "value": 150,
+      "display": "£150",
+      "label": "Monthly budget; no accepted asthma-inclusive fit verified",
+      "unit": "monthly_insurance_budget",
+      "currency": "GBP"
+    },
+    "annual_budget": {
+      "value": 1800,
+      "display": "£1,800",
+      "label": "Annual budget before deductibles, prescriptions and fees",
+      "unit": "annual_insurance_budget",
+      "currency": "GBP"
+    },
+    "complete_base_monthly": {
+      "value": 131.88,
+      "display": "£131.88",
+      "label": "Converted advertised base only; asthma unresolved, not an accepted quote",
+      "unit": "conditional_advertised_monthly_base",
+      "currency": "GBP"
+    },
+    "essential_period_limit": {
+      "value": 364,
+      "display": "364",
+      "label": "Maximum days per Essential active period; not seamless annual asthma cover",
+      "unit": "maximum_active_period_days"
+    },
+    "dtv_entry_days": {
+      "value": 180,
+      "display": "180",
+      "label": "DTV entry permission days; actual stamp controls, not six calendar months",
+      "unit": "entry_permission_days"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Every primary source in the retained source index is explicitly accessed 2026-11-06. ECB rate date is 2026-11-05. Document effective dates are distinct. Authoring date is not source refresh, publication or current-law/medical certification.",
+  "uncertainties": [
+    "No asthma-inclusive option is verified within £150/month; Native, Cigna and Allianz require underwriting and actual quotes.",
+    "SafetyWing Complete FAQ excludes pre-existing conditions while October 2026 wording allows disclosed conditions unless endorsed out; treat asthma as uninsured until issued terms resolve this. Conflicting US$161.50 calculator is not used.",
+    "Traveler and Essential exclude known chronic asthma; World Nomads UK pre-existing-condition exclusion cannot be bought out. Emergency benefits do not override condition exclusions.",
+    "Genki Native prior-prescribed-treatment and arrival-related exclusions need reconciliation with accepted asthma and existing inhaler prescriptions.",
+    "Allianz benefit table and guide carry different effective years; World Nomads legacy nib wording differs from current IMG distributor. Exact terms require matching offered documents.",
+    "No issued certificate, visa approval, personal quote or underwriting outcome exists. Portugal E11 whole stay, D9 initial 120 days and later health insurance OR SNS evidence remain separate tests.",
+    "London DTV1 checklist does not list insurance; this is not permanent exemption or plan approval. Six calendar months can exceed 180 days.",
+    "GHIC, NHS and SNS entitlement depend on actual residence and eligibility. Public healthcare does not establish private insurance or repatriation protection.",
+    "No external research, source changes, website changes, publication, applications or contact. No new medical/legal advice."
+  ],
+  "editingContract": "English-only authoring: assigned Markdown, schema-v2 JSON and author-review note. Parent owns inventory, HTML build and full-package checks. No ratings, stars, Review or AggregateRating.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

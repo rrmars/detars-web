@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 2,
+  "slug": "ubud-one-month-shanghai-couple",
+  "translationKey": "ubud-one-month-shanghai-couple",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Shanghai remote-working couple, one vegetarian, planning June 1–30, 2027 in Ubud with mainland Chinese licences and CNY 20,000 excluding flights; Simplified Chinese is the primary audience, English supports the same profile.",
+  "sources": [
+    {
+      "title": "All Indonesia arrival card — allindonesia.imigrasi.go.id",
+      "url": "https://allindonesia.imigrasi.go.id/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L05 · View monthly listing — balihousing.com",
+      "url": "https://balihousing.com/en/sayan/rent-96643-villa-2-bedrooms-pool-parking",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L02 · View monthly listing — balihousing.com",
+      "url": "https://balihousing.com/en/ubud/rent-98472-villa",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L12 · View monthly listing — banyanproperties.co",
+      "url": "https://banyanproperties.co/listing/RENT-1610-villa-putih-a-stylish-1-bedroom",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L11 · View monthly listing — banyanproperties.co",
+      "url": "https://banyanproperties.co/listing/RENT-1617-villa-loft-ubud",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Denpasar consulate also advises Chinese visitors against renting/riding motorcycles for safety — denpasar.china-consulate.gov.cn",
+      "url": "https://denpasar.china-consulate.gov.cn/tztx/202405/t20240529_11313775.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Chinese consulate's official driving guide — denpasar.china-consulate.gov.cn",
+      "url": "https://denpasar.china-consulate.gov.cn/tztx/202407/P020240717647196049332.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Operator FAQ — destinationoutpost.co",
+      "url": "https://destinationoutpost.co/cowork-in-ubud/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official portal — evisa.imigrasi.go.id",
+      "url": "https://evisa.imigrasi.go.id/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official B1 page — jakartapusat.imigrasi.go.id",
+      "url": "https://jakartapusat.imigrasi.go.id/index.php/layanan/warga-negara-asing-wna/visa-republik-indonesia",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official extension page — jogja.imigrasi.go.id",
+      "url": "https://jogja.imigrasi.go.id/warga-negara-asing/perpanjangan-izin-tinggal/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "VOA-eligible — kemlu.go.id",
+      "url": "https://kemlu.go.id/id/lima/pelayanan-perwakilan/visa-elektronik-saat-kedatangan-%28e-voa%29",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L04 · View monthly listing — livingtrustproperty.com",
+      "url": "https://livingtrustproperty.com/p/P-260",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L01 · View monthly listing — livingtrustproperty.com",
+      "url": "https://livingtrustproperty.com/p/P-293",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L06 · View monthly listing — livingtrustproperty.com",
+      "url": "https://livingtrustproperty.com/p/P-310",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official Love Bali FAQ — lovebali.baliprov.go.id",
+      "url": "https://lovebali.baliprov.go.id/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official menu — moksaubud.com",
+      "url": "https://moksaubud.com/menu/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "national procedure also requires an office photograph and interview, including VOA holders — ngurahrai.imigrasi.go.id",
+      "url": "https://ngurahrai.imigrasi.go.id/alleviating-immigration-violations-foreign-nationals-must-go-to-immigration-office-to-extend-stay-permit/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official E33G guide — ngurahrai.imigrasi.go.id",
+      "url": "https://ngurahrai.imigrasi.go.id/web/wp-content/uploads/2026/10/e33g-visa-guide-en.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Operator rate portal — outpostubud.spaces.nexudus.com",
+      "url": "https://outpostubud.spaces.nexudus.com/home?v=latest",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "June 2026 official café menu — sayurihealingfood.com",
+      "url": "https://sayurihealingfood.com/wp-content/uploads/2026/06/Sayuri-Healing-Food-Cafe-Menu-June-2026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official prices — ubud.space",
+      "url": "https://ubud.space/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ubud Local neighbourhood comparison — ubudlocal.com",
+      "url": "https://ubudlocal.com/guides/where-to-stay-in-ubud/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L07 · View monthly listing — ubudrentalservice.com",
+      "url": "https://ubudrentalservice.com/monthly-villa-rental/nyuh-kuning/2-bedroom-villa-VR2.739",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L03 · View monthly listing — ubudrentalservice.com",
+      "url": "https://ubudrentalservice.com/monthly-villa-rental/penestanan/2-bedroom-villa-VR2.652",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L09 · View monthly listing — ubudrentalservice.com",
+      "url": "https://ubudrentalservice.com/monthly-villa-rental/singakerta/1-bedroom-villa-VR1.577",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L10 · View monthly listing — ubudrentalservice.com",
+      "url": "https://ubudrentalservice.com/monthly-villa-rental/singakerta/1-bedroom-villa-VR1.649",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L08 · View monthly listing — ubudrentalservice.com",
+      "url": "https://ubudrentalservice.com/monthly-villa-rental/sok-wayah/1-bedroom-villa-VR1.771",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kas Wijaya's published monthly rates — ubudscooter.com",
+      "url": "https://ubudscooter.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bank Indonesia's 5 November 2026 CNY sell/buy rates — www.bi.go.id",
+      "url": "https://www.bi.go.id/en/statistik/informasi-kurs/transaksi-bi/default.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Telkomsel's official tourist-card FAQ — www.telkomsel.com",
+      "url": "https://www.telkomsel.com/en/support/faq/what-price-tourist-prepaid-card-and-how-much-data-quota-do-i-get",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "foreigner activation page — www.telkomsel.com",
+      "url": "https://www.telkomsel.com/en/support/foreigner-simcard-activation",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official rate PDF — www.titibatu.com",
+      "url": "https://www.titibatu.com/_files/ugd/dd295c_a4353b3424ba480b88bdfa5be41f6dd4.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official site — www.zestubud.com",
+      "url": "https://www.zestubud.com/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "couple_budget_ceiling": {
+      "value": 20000,
+      "display": "CNY 20,000",
+      "label": "Both people, flights excluded; deposit is additional liquidity",
+      "unit": "planning_spend_ceiling",
+      "currency": "CNY"
+    },
+    "working_month_total": {
+      "value": 19547,
+      "display": "CNY 19,547",
+      "label": "Rounded total including contingency; both E33G eligibilities unconfirmed",
+      "unit": "conditional_month_total",
+      "currency": "CNY"
+    },
+    "unallocated_headroom": {
+      "value": 453,
+      "display": "CNY 453",
+      "label": "Beyond included contingency, not a generous FX cushion",
+      "unit": "unallocated_cash_margin",
+      "currency": "CNY"
+    },
+    "e33g_couple_reserve": {
+      "value": 14000000,
+      "display": "IDR 14,000,000",
+      "label": "2024-edition official guide estimate for two; not approval or checkout",
+      "unit": "conditional_visa_fee_reserve",
+      "currency": "IDR"
+    },
+    "nonworking_holiday_total": {
+      "value": 14762,
+      "display": "CNY 14,762",
+      "label": "Tourism-only comparison, not permission for ongoing employment",
+      "unit": "nonworking_comparison",
+      "currency": "CNY"
+    },
+    "full_outpost_total": {
+      "value": 20636,
+      "display": "CNY 20,636",
+      "label": "Two monthly unlimited passes instead of backup days, before added cowork tax",
+      "unit": "alternative_month_total",
+      "currency": "CNY"
+    }
+  },
+  "budget": {
+    "people": 2,
+    "startDate": "2027-06-01",
+    "endDate": "2027-06-30",
+    "calendarDays": 30,
+    "usualNights": 29,
+    "idrPerCny": 2716.465,
+    "exchangeDataDate": "2026-11-05",
+    "rows": [
+      {
+        "item": "home",
+        "IDR": 15000000,
+        "roundedCNY": 5522
+      },
+      {
+        "item": "e33g",
+        "IDR": 14000000,
+        "roundedCNY": 5154
+      },
+      {
+        "item": "food",
+        "IDR": 9000000,
+        "roundedCNY": 3313
+      },
+      {
+        "item": "cowork_backup",
+        "IDR": 2400000,
+        "roundedCNY": 884
+      },
+      {
+        "item": "local_cars",
+        "IDR": 3000000,
+        "roundedCNY": 1104
+      },
+      {
+        "item": "airport",
+        "IDR": 1000000,
+        "roundedCNY": 368
+      },
+      {
+        "item": "sim",
+        "IDR": 300000,
+        "roundedCNY": 110
+      },
+      {
+        "item": "levy",
+        "IDR": 300000,
+        "roundedCNY": 110
+      },
+      {
+        "item": "household",
+        "IDR": 900000,
+        "roundedCNY": 331
+      },
+      {
+        "item": "insurance",
+        "IDR": 1200000,
+        "roundedCNY": 442
+      },
+      {
+        "item": "activities",
+        "IDR": 2000000,
+        "roundedCNY": 736
+      },
+      {
+        "item": "contingency",
+        "IDR": 4000000,
+        "roundedCNY": 1473
+      }
+    ],
+    "totalIDR": 53100000,
+    "roundedTotalCNY": 19547,
+    "ceilingCNY": 20000,
+    "headroomIDR": 1229300,
+    "roundedHeadroomCNY": 453,
+    "tourismOnlyIDR": 40100000,
+    "tourismOnlyRoundedCNY": 14762,
+    "fullOutpostIDRBeforeExtraCoworkTax": 56056000,
+    "fullOutpostRoundedCNY": 20636,
+    "weakerCnyPercent": 10,
+    "weakerCnyRoundedTotal": 21719,
+    "hypotheticalAdditionalDepositIDR": 15000000
+  },
+  "provenance": {
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "originalRunModel": "unknown"
+  },
+  "datePolicy": "All cited sources explicitly accessed November 6, 2026 UTC+8 in retained sources.md. Bank Indonesia data dated November 5, 2026; E33G guide labelled 2024 Edition; Sayuri menu June 2026. Localization is not research refresh or publication. No external lookup performed.",
+  "uncertainties": [
+    "E33G eligibility unconfirmed for both partners, including employment-contract/freelance classification and partner work permission. Fee is guide estimate, not a checked future checkout. B1 does not affirmatively authorize stated ongoing employment; no claim that every incidental email is unlawful.",
+    "June housing rates, availability, deposits, access, inclusions and cancellation terms unconfirmed. All 12 November advertisements retained; no numeric Mbps or independent property/noise/reliability tests. Sentana rate is November only.",
+    "Budget assumes suitable IDR 15m all-inclusive home and a few cowork backup days, not two monthly passes. Flights/laptops/employer and tax compliance excluded. Refundable deposit is unknown and additional liquidity; one-month deposit is hypothetical.",
+    "Car and airport fares, food allowances, insurance and most budget rows are estimates, not quotes. Full Outpost alternative exceeds ceiling before any added cowork tax. Included contingency is distinct from unallocated headroom.",
+    "Telkomsel official offers conflict; purchase/complete activation and handset eSIM support unverified. 25GB is backup only. Cowork capacity and tax treatment unconfirmed except Titi Batu inclusive price; club is not a tested office.",
+    "No mainland-licence self-riding baseline. Proper motorcycle entitlement and IDP are not replaced by rental acceptance or translations. E33G/KITAS levy exemption process requires confirmation.",
+    "Source sites had intermittent failures; this does not establish closure. Source URLs are retained citations, not live reachability checks. No local workbook exists in this run and none is promised."
+  ],
+  "editingContract": "Only assigned bilingual Markdown, schema-v2 JSON and author review created. Parent handles inventory, HTML build and full-package checks. No source-run edits, shared-file edits, website changes, publication, contact, accounts, applications, booking or payment; no ratings/stars/Review/AggregateRating.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

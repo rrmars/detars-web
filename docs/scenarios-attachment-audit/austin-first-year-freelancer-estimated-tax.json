@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "8de5afaa646b640ab3bb13b3a5c205bb7202fe282d1ec480e06f1f4f6ef28102",
+  "sourceListLink": "../w7-us-freelancer-quarterly-tax/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ea27cbc63b42b31d6b9b99f39c8380bb978099484698d9f78b90577c36225385",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

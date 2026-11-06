@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "1e3a4f73e49fbb7f7bd99a6bf5d9795685b92da639e91df3ecf8d4a490b37732",
+  "sourceListLink": "../w7-india-swe-germany-vs-canada/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "7217cc7626cfbe012cf3142ca2202b08817bf6eb3d45237bd33c87a231ddcd04",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "cbe6dc8b57690118cda2c428c67d1ed47fee4fbe83b9baed01bf1f00d0cbc827",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

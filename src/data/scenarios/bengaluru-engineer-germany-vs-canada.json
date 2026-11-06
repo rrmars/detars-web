@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 2,
+  "slug": "bengaluru-engineer-germany-vs-canada",
+  "translationKey": "bengaluru-engineer-germany-vs-canada",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Single 29-year-old Indian backend engineer in Bengaluru with BTech computer science, six years Java/Go/cloud experience, no German/test scores and INR 18 lakh; Simplified Chinese supports route comparison without changing Indian passport, applicant eligibility or costs.",
+  "sources": [
+    {
+      "title": "G1 — BMAS, 2026 social-insurance regulation",
+      "url": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2026.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G2 — Current Residence Act §18g",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G3 — BMAS, 2027 proposed regulation",
+      "url": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G4 — Employment Regulation §6",
+      "url": "https://www.gesetze-im-internet.de/beschv_2013/__6.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G5 — German missions India, Employment—holders of academic degrees",
+      "url": "https://india.diplo.de/in-en/service/2539264-2539264",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G6 — ZAB FAQ",
+      "url": "https://zab.kmk.org/en/statement-of-comparability/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G7 — ZAB application",
+      "url": "https://zab.kmk.org/en/statement-comparability/application",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G8 — ZAB Blue Card",
+      "url": "https://zab.kmk.org/en/eu-blue-card",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G9 — APS India FAQ",
+      "url": "https://aps-india.de/faqs/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G10 — Federal Foreign Office Consular Services Portal public Opportunity Card page",
+      "url": "https://digital.diplo.de/chancenkarte",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G11 — Residence Act §20a",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G12 — Residence Act §20b",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__20b.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G13 — Residence Act points annex",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/anlage.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G14 — Residence Act §2",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G15 — National visa fee",
+      "url": "https://www.gesetze-im-internet.de/aufenthv/__46.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G16 — Residence/Blue Card fees",
+      "url": "https://www.gesetze-im-internet.de/aufenthv/__45.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G17 — Settlement fees",
+      "url": "https://www.gesetze-im-internet.de/aufenthv/__44.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G18 — Naturalisation fee",
+      "url": "https://www.gesetze-im-internet.de/stag/__38.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G19 — BAMF Naturalisation in Germany (page dated 30 June 2025)",
+      "url": "https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung-node.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G20 — Residence Act §18c",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "G21 — Current Nationality Act §10",
+      "url": "https://www.gesetze-im-internet.de/stag/__10.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S1 — CRS criteria",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S2 — reform",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/changes.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S3 — high-wage list",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/high-wage.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S4 — language tests",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S5 — FSW program/selection",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-workers.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S6 — ECA and equivalency table",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S7 — latest round",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S8 — history",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S9 — last General instructions",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=294",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S10 — categories",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations/category-based-selection.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S11 — funds",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S12 — fee list",
+      "url": "https://ircc.canada.ca/english/information/fees/fees.asp",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S13 — after apply",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/after-apply.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S14 — valid offer",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S15 — WES immigration ECA",
+      "url": "https://www.wes.org/eca/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S16 — WES ECA-specific fee page",
+      "url": "https://www.wes.org/eca-2/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S17 — WES current times",
+      "url": "https://www.wes.org/current-processing/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S18 — pool/profile",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/create-profile.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S19 — current processing tool",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S20 — citizenship eligibility",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M1 — GermanTechJobs Berlin backend employer-posted salary data",
+      "url": "https://germantechjobs.de/en/salaries/Backend/Berlin/all",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M2 — GermanTechJobs Munich backend employer-posted salary data",
+      "url": "https://germantechjobs.de/en/salaries/Backend/Munich/all",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T1 — TK 2026 contribution rates (page dated 19 December 2025)",
+      "url": "https://www.tk.de/en/contribution-rate-social-security-2037092",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T2 — Current 2026 income-tax tariff, EStG §32a",
+      "url": "https://www.gesetze-im-internet.de/estg/__32a.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "X1 — ECB daily reference rates, dated 5 November 2026",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Make it in Germany — Blue Card (navigation only, body blocked)",
+      "url": "https://www.make-it-in-germany.com/en/visa-recognition/visa-types/eu-blue-card",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Make it in Germany — Opportunity Card (navigation only, body blocked)",
+      "url": "https://www.make-it-in-germany.com/en/visa-recognition/opportunity-card/job-search",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Make it in Germany — academic comparability (navigation only, body blocked)",
+      "url": "https://www.make-it-in-germany.com/en/visa-recognition/recognition/evaluation-academic-degrees",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "savings_lakh": {
+      "value": 18,
+      "display": "₹18 lakh",
+      "label": "Indian applicant savings; one lakh is 100,000 rupees",
+      "unit": "savings_in_lakh",
+      "currency": "INR"
+    },
+    "direct_germany_low_lakh": {
+      "value": 5.24,
+      "display": "₹5.24 lakh",
+      "label": "Rounded low offer-first model through initial payroll runway, including refundable deposit",
+      "unit": "conditional_cash_capacity_in_lakh",
+      "currency": "INR"
+    },
+    "opportunity_high_lakh": {
+      "value": 19.15,
+      "display": "₹19.15 lakh",
+      "label": "Rounded high Opportunity Card model; exceeds INR 18 lakh savings",
+      "unit": "conditional_cash_capacity_in_lakh",
+      "currency": "INR"
+    },
+    "canada_buffer_high_lakh": {
+      "value": 15.78,
+      "display": "₹15.78 lakh",
+      "label": "Rounded high Canada model including retained capital and contingency; invitation not assured",
+      "unit": "conditional_cash_capacity_in_lakh",
+      "currency": "INR"
+    },
+    "clb_nine_crs": {
+      "value": 429,
+      "display": "429",
+      "label": "Age 29, one bachelor-equivalent ECA, CLB9, no Canadian work/offer or other points; conditional November framework",
+      "unit": "conditional_crs_points"
+    },
+    "french_clb_nine_crs": {
+      "value": 491,
+      "display": "491",
+      "label": "Conditional CLB9 plus all-ability French NCLC7; pre-reform historical draw comparison is not predictive",
+      "unit": "conditional_crs_points"
+    }
+  },
+  "routeCashModels": {
+    "eur_inr": 106.0395,
+    "cad_inr": 67.64880382775121,
+    "direct_germany": [
+      523922.8125,
+      829869.8785
+    ],
+    "opportunity": [
+      1670583.3215,
+      1915188.9125
+    ],
+    "canada": [
+      1264641.806698565,
+      1328431.4157799045
+    ],
+    "canada_buffer": [
+      1414641.806698565,
+      1578431.4157799045
+    ]
+  },
+  "crsScenarios": {
+    "CLB8": {
+      "age": 110,
+      "education": 120,
+      "english": 92,
+      "transfer": 38,
+      "french_core": 0,
+      "french_bonus": 0,
+      "total": 360
+    },
+    "mixed7.5": {
+      "age": 110,
+      "education": 120,
+      "english": 122,
+      "transfer": 38,
+      "french_core": 0,
+      "french_bonus": 0,
+      "total": 390
+    },
+    "CLB9": {
+      "age": 110,
+      "education": 120,
+      "english": 124,
+      "transfer": 75,
+      "french_core": 0,
+      "french_bonus": 0,
+      "total": 429
+    },
+    "CLB10": {
+      "age": 110,
+      "education": 120,
+      "english": 136,
+      "transfer": 75,
+      "french_core": 0,
+      "french_bonus": 0,
+      "total": 441
+    },
+    "CLB9French7": {
+      "age": 110,
+      "education": 120,
+      "english": 124,
+      "transfer": 75,
+      "french_core": 12,
+      "french_bonus": 50,
+      "total": 491
+    },
+    "CLB10French7": {
+      "age": 110,
+      "education": 120,
+      "english": 136,
+      "transfer": 75,
+      "french_core": 12,
+      "french_bonus": 50,
+      "total": 503
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All source access dates explicitly recorded as November 6, 2026 in retained sources.md; not refreshed. Source-specific effective/page dates stay separate from access dates. No publication date or final 2027 rule is invented. November 3 reform, pre-reform draws, July 7 2025 funds-table date, September 21 2026 fee-page date and November 5 2026 FX reference remain visible.",
+  "uncertainties": [
+    "Every displayed draw predates November 3, 2026 offer-points reform. Caveats appear beside the opening, CRS totals and draw comparison. The recorded pause/recalculation is dated, not a current status claim. Post-reform rankings and invitation odds unknown.",
+    "Applicant DOB, awarding university/degree equivalency, ECA, actual test scores, dated qualifying duties, offer, funds and employer support unresolved. Indian profile unchanged in Chinese; no nationality substitution.",
+    "2027 Germany final Blue Card floor unverified: EUR 53,100 and EUR 48,108.60 are conditional proposal-derived calculations. India mission retains 2025 salaries. BAMF June 30 2025 summary retains deleted three-year exception; current statute controls.",
+    "Opportunity Card 6 points conditional on qualification/experience mapping plus language proof; English B2 prerequisite earns zero points. Recognised-skilled-worker branch is separate. Work limits, funding and full-time-title change remain qualified.",
+    "CAD 15,263 funds table remains labelled July 7 2025; separate 2026 revision unconfirmed. It is retained capital, not a fee. Fee list September 21 2026, WES delivery/tax and ECB November 5 reference retained, not fresh quotes.",
+    "No actual housing, flight, Indian test, medical or insurance quotations. Net pay uses 2026 annual-tax approximation, not payroll or verified 2027 payslip. Salary-board data cover all levels; search targets are judgment.",
+    "No confirmed live FSW/citizenship processing-month figure. First-salary windows are conditional planning, invitation wait unbounded; citizenship years refer to eligibility not passports.",
+    "Make it in Germany bodies blocked; links navigation only. Source-run history-table clean-context reload timed out; draw rows rely on retained report/research record, not timeout as proof.",
+    "No new external research, source-run edit, website edit, inventory/build/check edit, application, account, contact, payment, booking or publication. Parent handles inventory, rendering and package-wide checks."
+  ],
+  "editingContract": "Only assigned English/Simplified Chinese Markdown, schema-v2 data JSON and author review note. Four supported FAQs; warm opening; bracket-fill CTA; friendly immigration/legal/tax disclaimer; provenance marker; no ratings, Review or AggregateRating. No workbook promised or local reader-facing attachment added.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

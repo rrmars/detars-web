@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 2,
+  "slug": "chicago-allergy-air-purifier-under-300",
+  "translationKey": "chicago-allergy-air-purifier-under-300",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Chicago renter with allergies choosing a US air purifier for a 300 sq ft bedroom, under a USD 300 unit-price budget, for March 2027; specific Chicago/US purchase context with no distinct Chinese-reader need established.",
+  "sources": [
+    {
+      "title": "AHAM — Air Filtration Standards and two-thirds sizing rule",
+      "url": "https://ahamverifide.org/ahams-air-filtration-standards/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "EPA — Guide to Air Cleaners in the Home",
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AHAM — Air Changes per Hour FAQ",
+      "url": "https://ahamverifide.org/ach-faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Levoit US — Vital 200S-P offer and specifications",
+      "url": "https://levoit.com/products/vital-200s-p-smart-air-purifier",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Levoit US — Core 600S-P offer and specifications",
+      "url": "https://levoit.com/products/core-600s-p-smart-air-purifier",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AHAM — public directory, exact-model records",
+      "url": "https://www.ahamdir.com/directory",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Levoit US — Core 400S-P offer and specifications",
+      "url": "https://levoit.com/products/core-400s-p-smart-air-purifier",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Coway — Mighty AP-1512HH offer and specifications",
+      "url": "https://cowaymega.com/products/mighty-ap-1512hh",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Coway — Airmega 200M offer and specifications",
+      "url": "https://cowaymega.com/products/airmega-200m",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Winix America — 5520 offer and specifications",
+      "url": "https://www.winixamerica.com/product/5520/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HouseFresh — own Vital 200S test, commercial affiliate publisher",
+      "url": "https://housefresh.com/levoit-vital-200s-review/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HouseFresh — own Core 400S test, US sample used",
+      "url": "https://housefresh.com/levoit-core-400s-review/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HouseFresh — own Mighty AP-1512HH test, UK sample caveat",
+      "url": "https://housefresh.com/coway-airmega-ap-1512hh-review/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HouseFresh — own Core 600S test, older sample",
+      "url": "https://housefresh.com/levoit-core-600s-review/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Levoit — Vital 200S genuine original replacement filter",
+      "url": "https://levoit.com/products/vital-200s-replacement-filter",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Levoit — Core 400S-P genuine original replacement filter",
+      "url": "https://levoit.com/products/core-400s-p-3-stage-replacement-filter",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Coway — shared Mighty/200M Fresh Starter filter set",
+      "url": "https://cowaymega.com/products/airmega-200m-ap-1512hh-filter-set",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Winix — genuine Filter Q 1712-0123-00",
+      "url": "https://www.winixamerica.com/product/filter-q-1712-0123-00/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Levoit — Core 600S-P genuine original replacement filter",
+      "url": "https://levoit.com/products/core-600s-p-original-replacement-filter",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "California CARB — mechanical filtration and ozone certification limits",
+      "url": "https://ww2.arb.ca.gov/resources/fact-sheets/indoor-air-cleaners-and-wildfire-smoke-faq-0",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "unit_budget_cap": {
+      "value": 300,
+      "display": "$300",
+      "label": "Unit-price ceiling interpreted before sales tax; delivered all-in ceiling must be clarified",
+      "unit": "before_tax_purchase_budget",
+      "currency": "USD"
+    },
+    "vital_purchase_price": {
+      "value": 169.99,
+      "display": "$169.99",
+      "label": "Vital 200S-P dated US direct offer, before tax, not March stock or price",
+      "unit": "dated_unit_offer",
+      "currency": "USD"
+    },
+    "core_purchase_price": {
+      "value": 299.99,
+      "display": "$299.99",
+      "label": "Core 600S-P dated offer fits before-tax cap only",
+      "unit": "dated_unit_offer",
+      "currency": "USD"
+    },
+    "smoke_cadr_target": {
+      "value": 200,
+      "display": "200 CFM",
+      "label": "Starting smoke CADR target for assumed closed 300 sq ft bedroom with 8 ft ceiling; rated, not sleep-speed promise",
+      "unit": "smoke_cadr_cfm"
+    },
+    "vital_quiet_ach": {
+      "value": 3.2,
+      "display": "3.2 equivalent ACH",
+      "label": "Calculated from HouseFresh estimated 128 PM1 CFM at Speed 2; different test from AHAM, below room benchmark",
+      "unit": "estimated_clean_air_changes_per_hour"
+    },
+    "core_medium_ach": {
+      "value": 4.63,
+      "display": "4.63 equivalent ACH",
+      "label": "Calculated from older sample estimated 185 PM1 CFM at Medium, rounded; below 4.8 ACH",
+      "unit": "estimated_clean_air_changes_per_hour"
+    }
+  },
+  "comparison": {
+    "currency": "USD",
+    "roomAreaSqFt": 300,
+    "assumedCeilingFt": 8,
+    "assumedVolumeCuFt": 2400,
+    "purchaseMonth": "2027-03",
+    "cadrOrder": [
+      "smoke",
+      "dust",
+      "pollen"
+    ],
+    "models": [
+      {
+        "model": "Levoit Vital 200S-P",
+        "exactModel": "LAP-V201S-WUS",
+        "price": 169.99,
+        "cadr": [
+          250,
+          254,
+          289
+        ],
+        "cadrUnit": "CFM",
+        "filterAnnualMin": 49.99,
+        "filterAnnualMax": 99.98,
+        "trialSetting": "Medium / Speed 2",
+        "noiseDba": "about 42; 41.9 table / 42.5 prose",
+        "estimatedPm1Cfm": 128,
+        "estimatedAch": 3.2,
+        "powerWatts": "rated page 50 / manual 51 conflict; tested Speed 2 8.01",
+        "annualKwhAtTrial": 70
+      },
+      {
+        "model": "Levoit Core 400S-P",
+        "exactModel": "US page Core 400S; shipped revision unresolved",
+        "price": 189.99,
+        "cadr": [
+          231,
+          240,
+          259
+        ],
+        "alternateCadr": [
+          234,
+          233,
+          257
+        ],
+        "alternateModels": [
+          "LAP-C401S-WUSR",
+          "LAP-C401S-KUSR"
+        ],
+        "cadrUnit": "CFM",
+        "filterAnnualBaseline": 49.99,
+        "twoReplacementCost": 99.98,
+        "trialSetting": "Medium / Speed 2",
+        "noiseDba": 43.2,
+        "estimatedPm1Cfm": 134,
+        "estimatedAch": 3.35,
+        "powerWatts": "rated 38; older US Speed 2 8.51",
+        "annualKwhAtTrial": 75
+      },
+      {
+        "model": "Coway Airmega Mighty",
+        "exactModel": "AP-1512HH",
+        "price": 239.99,
+        "cadr": [
+          233,
+          246,
+          240
+        ],
+        "cadrUnit": "not printed in extracted manufacturer table; conventional US CFM interpretation only",
+        "filterAnnualBaseline": 59.79,
+        "trialSetting": "Manual 2, ionizer off",
+        "noiseDba": "44.4 from UK sample, not current US ionizer-off validation",
+        "ionizerOffCadr": "unknown",
+        "ratedWatts": 77,
+        "annualKwhAtRatedConstantDraw": 675
+      },
+      {
+        "model": "Coway Airmega 200M",
+        "exactModel": "AP-1518R",
+        "price": 229.99,
+        "cadr": [
+          246,
+          249,
+          277
+        ],
+        "cadrUnit": "not printed in extracted manufacturer table; conventional US CFM interpretation only",
+        "filterAnnualBaseline": 59.79,
+        "trialSetting": "Manual 2, ionizer off",
+        "trialNoise": "unknown; overall 24.4–55.1 dB(A) not per-speed",
+        "ionizerOffCadr": "unknown",
+        "ratedWatts": 82,
+        "annualKwhAtRatedConstantDraw": 718
+      },
+      {
+        "model": "Winix 5520",
+        "exactModel": "SKU 1022-0233-01",
+        "price": 259.99,
+        "cadr": [
+          253,
+          252,
+          247
+        ],
+        "cadrUnit": "not printed beside manufacturer figures; conventional US CFM interpretation only",
+        "filterAnnualBaseline": 79.99,
+        "trialSetting": "Medium, PlasmaWave off",
+        "trialNoise": "unknown; slowest speed 23.5 dB is not Medium",
+        "plasmaWaveOffCadr": "unknown",
+        "ratedWatts": 65,
+        "annualKwhAtRatedConstantDraw": 569
+      },
+      {
+        "model": "Levoit Core 600S-P",
+        "exactModel": "LAP-C601S-WUS",
+        "price": 299.99,
+        "cadr": [
+          391,
+          398,
+          436
+        ],
+        "alternateCadr": [
+          394,
+          398,
+          433
+        ],
+        "alternateModel": "LAP-C601S-WUSR",
+        "cadrUnit": "CFM",
+        "filterAnnualMin": 59.99,
+        "filterAnnualMax": 119.98,
+        "trialSetting": "Medium / Speed 2 if tolerable",
+        "noiseDba": 45.9,
+        "estimatedPm1Cfm": 185,
+        "estimatedAch": 4.63,
+        "powerWatts": "rated page 49 / manual 66 conflict; older sample Medium 10.7",
+        "annualKwhAtTrial": 94
+      }
+    ]
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Every cited source is explicitly dated 2026-11-06 Asia/Singapore in original sources.md; observations approximately 2026-11-05 23:10–23:32 UTC, November 5 in Chicago. The research-session date is not a November 6 Chicago checkout observation. Authoring date does not refresh sources. March 2027 price/stock unknown; no external lookup performed.",
+  "uncertainties": [
+    "Desk research only, not hands-on or medical evidence. Neither pick proves very quiet sleep plus 4.8 ACH for this bedroom; symptom relief is not guaranteed.",
+    "Assumes closed 300 sq ft bedroom, 8 ft ceiling, approximate mixing. Open doors and higher ceilings change sizing. Equivalent ACH is not fresh-air ventilation.",
+    "Core 600S-P meets only before-tax USD 300 cap at USD 299.99. March 2027 stock, prices, tax/delivery total and usable return terms remain unknown.",
+    "Current Core shipped revisions unresolved; Levoit HEPA wording is Sleep-specific, not unrestricted all-speed H13. Vital 50/51 W and Core 600S 49/66 W page/manual conflicts retained.",
+    "HouseFresh PM1 estimates differ from AHAM CADR. Older samples, UK Mighty sample, revision/voltage/acoustics and internal Vital sound discrepancy limit transfer. Manufacturer minimum noise is not trial-speed noise.",
+    "Coway current AHAM registry status not confirmed, not proof of non-certification. Winix 5520 has manufacturer AHAM claim, not independent directory confirmation. Coway/Winix CADR units not printed in source tables; ionization-off CADRs unknown.",
+    "200M Manual 2 and Winix 5520 Medium sound/CADR/power unknown. Switch off ionizer/PlasmaWave and recheck mode/restart; do not assume unchanged rated performance.",
+    "Filter lives are conditional schedules. Core 400S guidance assumes 12 hours/day; Coway 8 hours/day maximum speed; continuous use may need earlier replacement. Included first filter not extra day-one spending. Filter budgets exclude tax/shipping.",
+    "Constant-draw electricity calculations are illustrations, not measured annual bills. USD 0.20/kWh is not a researched Chicago tariff. Ratings are not sleep-speed consumption.",
+    "Honeywell exclusions are retailer-specific; no verified Winix 5510 direct offer does not prove universal discontinuation. No purchase, account creation, seller contact, publication, source-run changes or website-repository changes. Parent owns inventory/build/full checks."
+  ],
+  "editingContract": "English-only Markdown, schema-v2 shared data and assigned author note only. All six options, exact-model CADRs, sleep-setting evidence gaps, filter/energy costs and non-medical/ozone limits preserved. Four supported FAQs. No ratings, stars, Review or AggregateRating markup, unhosted-download promises or source refresh. Bilingual multiplicity/table parity not applicable because no Chinese locale is assigned.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

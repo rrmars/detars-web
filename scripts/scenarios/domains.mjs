@@ -16,13 +16,13 @@ export const domains = [
 export const rules = [
   ['ai-tools', /(?:local-(?:speech|upscalers)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review)/],
   ['study', /(?:masters|study-abroad)/],
-  ['careers', /(?:job-search|job-offer|backend-job|remote-design)/],
+  ['careers', /(?:job-search|job-offer|backend-job|remote-design|germany-vs-canada)/],
   ['visas', /(?:working-holiday|retirement|visa|entry-visa)/],
   ['housing', /(?:rent(?:al|ing)?(?:-|$)|home-buying|buying-(?:property|apartment))/],
-  ['family', /(?:first-baby|meal-plan|wedding|home-gym|household-budget|family-move)/],
-  ['business', /(?:jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing)/],
-  ['buying', /(?:laptop|phone|headphones|robot-vacuum|used-car|ebike|running-watch)/],
-  ['living', /(?:cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian)/],
+  ['family', /(?:health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move)/],
+  ['business', /(?:estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing)/],
+  ['buying', /(?:air-purifier|laptop|phone|headphones|robot-vacuum|used-car|ebike|running-watch)/],
+  ['living', /(?:one-month|cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian)/],
   ['travel', /(?:itinerary|road-trip|days?|nights?|weekend|autumn|cherry-blossom)/],
 ];
 export function assignDomain(slug) {

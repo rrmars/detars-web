@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "914909b7da1a83f65ade29fb1f6a2d144748de2cb04880f76fc3c486bcf32acd",
+  "sourceListLink": "../w6-ubud-month-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "7b5d9907fa6af3dd069e5bf4d37f8d3e148c482862b4cd7919b4045a89036599",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "defe7b2c18208c4f5c2b97c4260517d68e67790cd3a76c9c649572bde036a093",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

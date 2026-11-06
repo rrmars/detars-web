@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 2,
+  "slug": "austin-first-year-freelancer-estimated-tax",
+  "translationKey": "austin-first-year-freelancer-estimated-tax",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Single US resident taxpayer in Austin, Texas, leaving an $88,000 salaried job for first-year cash-basis UX freelancing in 2027 with $95,000 projected receipts; English only for this US federal and Texas-specific filer, with no distinct Chinese-reader need established.",
+  "sources": [
+    {
+      "title": "S1 — IRS IR-2026-133, November 5, 2026: 2027 inflation adjustments",
+      "url": "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S2 — Revenue Procedure 2026-35, sections 3.01, 3.15 and 3.28",
+      "url": "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S3 — SSA: Contribution and Benefit Base",
+      "url": "https://www.ssa.gov/oact/cola/cbb.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S4 — IRS: Self-employment tax",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S5 — IRS Publication 505 (2026), Tax Withholding and Estimated Tax",
+      "url": "https://www.irs.gov/publications/p505",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S6 — IRS estimated-tax safe-harbor FAQ",
+      "url": "https://www.irs.gov/faqs/estimated-tax/individuals/individuals",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S7 — IRS Instructions for Form 7206 (2025)",
+      "url": "https://www.irs.gov/instructions/i7206",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S8 — IRS Instructions for Form 8995 (2025)",
+      "url": "https://www.irs.gov/instructions/i8995",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S9 — IRS estimated-tax due-date FAQ",
+      "url": "https://www.irs.gov/faqs/estimated-tax/individuals/individuals-2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S10 — OPM federal holiday schedules, 2028 table",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S11 — IRS Direct Pay",
+      "url": "https://www.irs.gov/payments/direct-pay-with-bank-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S12 — IRS FS-2026-02: Modernizing payments, Topic B Q3-Q4",
+      "url": "https://www.irs.gov/newsroom/questions-and-answers-about-executive-order-14247-modernizing-payments-to-and-from-americas-bank-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S13 — IRS Publication 587: Business Use of Your Home",
+      "url": "https://www.irs.gov/publications/p587",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S14 — IRS simplified home-office option",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/simplified-option-for-home-office-deduction",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S15 — IRS Publication 946: How To Depreciate Property",
+      "url": "https://www.irs.gov/publications/p946",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S16 — IRS self-employed retirement contribution calculation",
+      "url": "https://www.irs.gov/retirement-plans/self-employed-individuals-calculating-your-own-retirement-plan-contribution-and-deduction",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S17 — IRS retirement COLA table / Notice 2025-67",
+      "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S18 — IRS one-participant 401(k) plans",
+      "url": "https://www.irs.gov/retirement-plans/one-participant-401k-plans",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S19 — Texas Comptroller: Starting a New Business",
+      "url": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2016/february/starting.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S21 — IRS Retirement plans: FAQs regarding SEPs",
+      "url": "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-seps",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S20 — IRS Schedule SE (Form 1040)",
+      "url": "https://www.irs.gov/pub/irs-pdf/f1040sse.pdf",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "projected_federal_tax": {
+      "value": 18474.09,
+      "display": "$18,474.09",
+      "label": "Illustrative 2027 total; $6,000 eligible Schedule C costs plus $2,000 eligible health premiums",
+      "unit": "illustrative_annual_federal_tax",
+      "currency": "USD"
+    },
+    "invoice_reserve_share": {
+      "value": 25,
+      "display": "25%",
+      "label": "Planning reserve from paid invoices; not statutory or guaranteed",
+      "unit": "percent_of_collected_receipts"
+    },
+    "planned_installment": {
+      "value": 4650,
+      "display": "$4,650",
+      "label": "Rounded full-forecast payment per due date; prior-year harbor not yet established",
+      "unit": "planning_payment_per_due_date",
+      "currency": "USD"
+    },
+    "se_tax_component": {
+      "value": 12575.3,
+      "display": "$12,575.30",
+      "label": "Self-employment tax under illustrative expense split",
+      "unit": "illustrative_annual_se_tax",
+      "currency": "USD"
+    },
+    "income_tax_component": {
+      "value": 5898.79,
+      "display": "$5,898.79",
+      "label": "Federal income tax after QBI under illustrative expense split",
+      "unit": "illustrative_annual_income_tax",
+      "currency": "USD"
+    }
+  },
+  "assumptions": {
+    "taxYear": 2027,
+    "filingStatus": "single",
+    "residence": "Austin, Texas, United States",
+    "plannedStart": "2027-01-01",
+    "annualReceipts": 95000,
+    "illustrativeScheduleCCosts": 6000,
+    "illustrativeEligibleHealthPremiums": 2000,
+    "combinedProjectedCosts": 8000,
+    "baselineRetirementContribution": 0,
+    "priorYearTax": "unknown",
+    "priorYearAGI": "unknown",
+    "scope": "US resident taxpayer under 65, sole proprietor, cash basis, no employees, no 2027 wages, other income, capital gains, credits, itemizing or QBI losses; retirement sizing under 50 and no other employee deferrals."
+  },
+  "calculation": {
+    "profit": "89000",
+    "sebase": "82191.5000",
+    "ss": "10191.7460000",
+    "medicare": "2383.5535000",
+    "se": "12575.2995000",
+    "half": "6287.6497500",
+    "agi": "80712.3502500",
+    "pre": "64112.3502500",
+    "qb": "80712.3502500",
+    "qcandidate": "16142.47005000",
+    "qbi": "12822.47005000",
+    "taxable": "51289.88020000",
+    "income": "5898.7856240000",
+    "total": "18474.0851240000"
+  },
+  "paymentSchedule": [
+    {
+      "incomePeriod": "January–March 2027",
+      "dueDate": "2027-04-15",
+      "taxYear": 2027,
+      "plannedPayment": 4650
+    },
+    {
+      "incomePeriod": "April–May 2027",
+      "dueDate": "2027-06-15",
+      "taxYear": 2027,
+      "plannedPayment": 4650
+    },
+    {
+      "incomePeriod": "June–August 2027",
+      "dueDate": "2027-09-15",
+      "taxYear": 2027,
+      "plannedPayment": 4650
+    },
+    {
+      "incomePeriod": "September–December 2027",
+      "dueDate": "2028-01-18",
+      "taxYear": 2027,
+      "plannedPayment": 4650
+    }
+  ],
+  "calculatorAttachment": {
+    "link": "[local evidence retained privately]",
+    "availability": "local_package_attachment_only",
+    "publicDownload": false,
+    "sourceWorkbookModified": false
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All 21 source entries explicitly record access on 2026-11-06 in retained sources.md. November 5, 2026 IRS publication and dated source editions are retained as recorded, not independently refreshed. Payment dates derive from standing IRS rules and OPM holidays, not a verified 2027 Form 1040-ES. No external research or source refresh. Copy authoring is not publication or current-law certification.",
+  "uncertainties": [
+    "The $6,000 Schedule C / $2,000 eligible health allocation is illustrative, not a supplied breakdown. The $18,205–$19,281 endpoint range assumes every remaining cost is eligible; invalid deductions could increase tax further.",
+    "Actual prior-year adjusted tax and AGI are unknown. Fully withheld does not mean zero liability; salary, refund and balance due are not the benchmark. Prior return must cover 12 months and installments be timely. A safe harbor avoids penalties, not the eventual balance.",
+    "$4,650 is a rounded full-tax budgeting target, not an established safe harbor. 25% is a planning reserve, not law or a guarantee. Adjust for actual income, applicable withholding/credits and a valid annualized alternative where needed.",
+    "2027 brackets, standard deduction, QBI thresholds and SSA base are recorded as published in the retained evidence. Older 2025/2026 instructions support mechanics only. S4 health wording conflicts with S7; follow the specific Form 7206 rule that health premiums do not reduce SE tax.",
+    "No 2027 retirement-limit announcement verified in retained run; $24,500 and $72,000 are labeled 2026 proxies only. Solo sizing $41,042.47 is not a confirmed legal 2027 maximum. Plan eligibility, elections, funding deadlines, age and other deferrals need checking.",
+    "Home-office exclusive/regular and qualifying-business use, asset treatment, business allocation, health earned-income/employer-plan limits and Marketplace coordination remain fact-dependent. Do not double-count costs already included in Schedule C.",
+    "Calculator is not a filing engine or annualized-payment engine. High-income QBI, statutory minimum deduction, losses, deduction limits, other income, wages, capital gains, credits, carryovers and AMT can require a fuller calculation. Return tax tables and whole-dollar rounding may differ.",
+    "Texas no personal income tax does not establish absence of other business taxes. No definitive completed individual EFTPS shutdown date verified; no new individual enrollment recommended.",
+    "Workbook is a local package attachment only, not hosted for public download. No source workbook modification or fresh engine recalculation. Source verification results are historical retained evidence, not a new native/browser verification.",
+    "English only as assigned for a US federal/Texas-specific filer. No Chinese page, shared inventory/build/check changes, external research, accounts, contact, tax filing, payment, publication or website-repository edit."
+  ],
+  "editingContract": "Only assigned en Markdown, schema-v2 JSON and batch19 author review note. Four source-supported FAQ questions; warm opening; caveats beside estimates; local-only workbook label; Ask DeTars closing and provenance marker. No ratings, stars, Review or AggregateRating. Parent owns inventory, build and full-package checks.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "85902bf8b5bb46dec98bfb3155179e03d4d3590efd1c5c3af9476a703c66b218",
+  "sourceListLink": "../w6-air-purifier/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "74d1e6ecebf966ef051cedf4131347f429f6a333c6512e3ef21ebd0c1234ae61",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

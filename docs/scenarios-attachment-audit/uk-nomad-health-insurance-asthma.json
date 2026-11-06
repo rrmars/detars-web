@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "138a3c84372d7e24d056635dbd839b4aea33cbcf3ab3c89e2175254d72aab1ef",
+  "sourceListLink": "../w7-nomad-health-insurance/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "16b18f2991ccb646ade36aa1184b5a57e9f684483923dba921803996cc5e9271",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
