@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 2,
+  "slug": "melbourne-first-home-five-percent-deposit",
+  "translationKey": "melbourne-first-home-five-percent-deposit",
+  "sources": [
+    {
+      "title": "Treasury",
+      "url": "https://treasury.gov.au/policy-topics/housing/home-ownership-support",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "scheme overview",
+      "url": "https://firsthomebuyers.gov.au/australian-government-5-percent-deposit-scheme",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "first-buyer eligibility",
+      "url": "https://firsthomebuyers.gov.au/australian-government-5-percent-deposit-scheme/first-home-buyers",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Housing Australia launch release",
+      "url": "https://nhfic.gov.au/media/more-australians-supported-home-ownership-launch-australian-government-help-buy-scheme",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "indexed thresholds",
+      "url": "https://firsthomebuyers.gov.au/HTB-thresholds",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "scheme terms",
+      "url": "https://firsthomebuyers.gov.au/australian-government-help-buy-scheme",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "customer guide",
+      "url": "https://firsthomebuyers.gov.au/helptobuycustomerguide",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SRO grant guidance",
+      "url": "https://www.sro.vic.gov.au/buying-property/first-home-owner-grant/understanding-first-home-owner-grant",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "first-home duty guidance",
+      "url": "https://www.sro.vic.gov.au/buying-property/land-transfer-stamp-duty/concessions-exemptions-and-waivers/first-home-buyers/first-home-buyer-duty-exemption-or-concession",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "general duty schedule",
+      "url": "https://www.sro.vic.gov.au/about-us/rates-and-statistics/current-rates/land-transfer-duty-non-principal-place-residence-current-rates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "principal-residence concession",
+      "url": "https://www.sro.vic.gov.au/buying-property/land-transfer-stamp-duty/concessions-exemptions-and-waivers/principal-place-residence-duty-concession",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Duties Act",
+      "url": "https://content.legislation.vic.gov.au/sites/default/files/2026-06/00-79aa141-authorised.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "fee regulations",
+      "url": "https://content.legislation.vic.gov.au/sites/default/files/2026-04/16-29sra008-authorised.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "2026/27 fee unit",
+      "url": "https://www.land.vic.gov.au/land-registration/customer-information-bulletins/2026/241",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "fee schedule page",
+      "url": "https://www.land.vic.gov.au/land-registration/fees-guides-and-forms/2026-27-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Helia estimator",
+      "url": "https://www.helia.com.au/the-hub/calculators-estimators/lmi-fee-estimator",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SRO insurance-duty guidance",
+      "url": "https://www.sro.vic.gov.au/businesses-and-organisations/insurance-duty/understanding-insurance-duty",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "resident tax rates",
+      "url": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Medicare levy",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy/what-is-the-medicare-levy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "APRA buffer explanation",
+      "url": "https://www.apra.gov.au/news-and-publications/apras-system-risk-outlook-may-2026",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NAB Tailored",
+      "url": "https://www.nab.com.au/personal/home-loans/nab-variable-rate-offset-home-loan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bendigo Complete",
+      "url": "https://www.bendigobank.com.au/personal/home-loans/complete/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bendigo Home Buyer Schemes schedule",
+      "url": "https://www.bendigobank.com.au/globalassets/documents/interestrates/schedule-of-lending-interest-rates.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bank Australia Basic",
+      "url": "https://www.bankaust.com.au/banking/home-loans/home-loan-rates-and-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "4/2 Rigby Avenue",
+      "url": "https://raywhitecarnegie.com.au/properties/sold-residential/vic/carnegie-3163/apartment/3515063",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "814/1060 Dandenong Road",
+      "url": "https://raywhitecarnegie.com.au/properties/sold-residential/vic/carnegie-3163/apartment/3523368",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "2/4 Rigby Avenue",
+      "url": "https://raywhitecarnegie.com.au/properties/sold-residential/vic/carnegie-3163/apartment/3544653",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "3/6 Rigby Avenue",
+      "url": "https://raywhitecarnegie.com.au/properties/sold-residential/vic/carnegie-3163/apartment/3592353",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "4/17 Maroona Road",
+      "url": "https://raywhitecarnegie.com.au/properties/sold-residential/vic/carnegie-3163/apartment/3597876",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "110/92 Mimosa Road",
+      "url": "https://raywhitecarnegie.com.au/properties/sold-residential/vic/carnegie-3163/apartment/3547158",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "2/56 Cardinal Road",
+      "url": "https://raywhiteglenroy.com.au/properties/sold-residential/vic/glenroy-3046/townhouse/3505300",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "5/72 Glen Street",
+      "url": "https://raywhiteglenroy.com.au/properties/sold-residential/vic/glenroy-3046/townhouse/3496597",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "9/1110 Glen Huntly Road",
+      "url": "https://raywhitecarnegie.com.au/properties/sold-residential/vic/glen-huntly-3163/apartment/3399960",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "1/8 Miranda Road",
+      "url": "https://raywhitereservoir.com.au/properties/sold-residential/vic/reservoir-3073/townhouse/3526822",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "target_purchase_price": {
+      "label": "Established-home search anchor, subject to actual costs and finance",
+      "value": 550000,
+      "unit": "AUD_purchase_price",
+      "display": "$550,000"
+    },
+    "guaranteed_upfront_cash": {
+      "label": "Modelled upfront cash at target with approved guarantee and first-home duty relief",
+      "value": 35021.2,
+      "unit": "AUD_upfront_cash",
+      "display": "$35,021.20"
+    },
+    "remaining_cash_at_target": {
+      "label": "Cash remaining from savings at target before unmodelled costs",
+      "value": 12978.8,
+      "unit": "AUD_remaining_cash",
+      "display": "$12,978.80"
+    },
+    "planning_interest_rate": {
+      "label": "Assumed annual nominal rate, not a lender offer or forecast",
+      "value": 7.25,
+      "unit": "percent_per_annum_assumption",
+      "display": "7.25%"
+    },
+    "target_monthly_ownership_cost": {
+      "label": "Rounded mortgage plus generic owner-cost allowance at target",
+      "value": 4364,
+      "unit": "AUD_per_month",
+      "display": "$4,364"
+    },
+    "retained_emergency_reserve": {
+      "label": "Desired cash reserve; judgment, not scheme rule",
+      "value": 12000,
+      "unit": "AUD_cash_reserve",
+      "display": "$12,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "sourceAccessMethod": "Retained public-source narratives, dated local numerical extracts, anonymous Helia estimator capture and agency page text only; no external lookup in this authoring task.",
+    "originalResearchAccessLimitations": "Some original public fetches fell back to managed-browser rendering and one worker opened Land Victoria in the existing detars profile, whose cleanliness was not established. That calculator retrieval is not relied upon. Registration operands came from regulations and fee units. Original final agency captures and anonymous Helia estimator used fresh isolated Chrome contexts. No account, contact or loan form was requested.",
+    "publicationDates": "Unknown unless expressly recorded in retained narratives; access dates are not publication/effective dates."
+  },
+  "datePolicy": "All cited sources have access recorded on 2026-11-06 in the retained source register, narratives or raw extracts. This guide was authored on 2026-11-06 without refreshing prices, law, tax, finance or live availability. Original model is unknown. Effective/as-at dates in prose are distinct from access dates; future fee and rate conditions require confirmation.",
+  "uncertainties": [
+    "OC fees UNCONFIRMED for every one of the ten properties. No lot-specific levy amount was established; generic $333/month (roughly $4,000/year) is not a property quote. Special levies extra.",
+    "7.25% planning rate is an assumption over 30 years, not a personalised offer, guarantee-scheme quote, rate forecast or credit approval.",
+    "All lending, guarantee, Help to Buy contribution, property, valuation, grant and duty eligibility are conditional; no applications or enquiries were made.",
+    "Australian-citizen couple, $48,000 savings, $165,000 combined salary excluding super and $2,700 rent are scenario inputs. Equal $82,500 taxable salaries, no debts/HELP, $3,600 living, $800 owner costs and $1,000 monthly headroom are assumptions.",
+    "Help to Buy FY2026 ATO notices govern indexed income screening; exact $165,000 joint taxable income is inside the retained inclusive threshold, not proof of eligibility. No numeric asset ceiling established. Cannot stack with guarantee.",
+    "Transfer fee-guide DOCX was blocked; retained statutory calculation used regulations and fee units. Existing regulations extended only to 2027-04-17. Later settlement fees and final SRO duty rounding require confirmation.",
+    "LMI premiums are dated anonymous estimator outputs, not lender quotes. 10% insurance-duty gross-up is conditional because LMI-specific classification/exemptions were unconfirmed. Cash-paid model does not establish capitalisation is allowed.",
+    "NAB/Bank Australia ordinary high-LVR rates are not confirmed scheme pricing. Bendigo scheme comparison rate and fee amounts unknown. Retained announced future rate increases are not substituted for dated rates.",
+    "Sales are agency-published completed-sale examples, not registry certification, available listings, representative medians, valuations or future stock. All ten supersede earlier unverified leads.",
+    "9/1110 Glen Huntly Road advertised a lease expiring February 2027; no vacant-possession promise. Its raw listing has an unrelated weekly/annual rental arithmetic inconsistency, not repeated in the guide.",
+    "Workbook read in full across Calculator, Compare and Sources; cached values inspected without editing or recalculating it. Historical LMI rows stay at 95% LVR; Help to Buy is not automatically modelled. Original verification claims are retained history, not a new engine verification.",
+    "Original APRA research was not an exhaustive later-announcement sweep. No external research, network requests, contact, publication, website-repository edits or source-run edits in this task."
+  ],
+  "editingContract": "English-only complete local draft. No Chinese version, so bilingual numeric/date/URL and table-cell parity is not applicable. Preserve original stage2-relative attachment locator convention for parent rebasing. Source registry exactly covers cited external URLs. No ratings, stars, Review or AggregateRating. Parent integrates inventory and renders; shared files and source run unchanged.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Australian-citizen first-home-buyer couple in Melbourne with $48,000 savings and $165,000 combined salary, comparing an established two-bedroom home and a June 2027 purchase goal.",
+  "localeReason": "English serves this specific Australian-citizen Melbourne household and its local finance/transaction documents; no distinct Chinese-speaking or other regional audience is established by the retained scenario.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

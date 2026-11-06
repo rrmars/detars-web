@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "20abf44b9f4676970a0c9e246babeaf4e3bc28796d29b2ee3349f8ce47cd0a66",
+  "sourceListLink": "../w7-kenya-family-safari-august/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "c7bd22253ca475ed371567459749953f630887a870c13ec4a4d13e3ea351cb47",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "2bb2e55dd2f3b5bfb69b6ab44cb98643aa9c438924ca9e9b3b3ec1ff7ba412bc",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

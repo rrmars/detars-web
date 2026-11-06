@@ -1,0 +1,28 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "34caffe2ca8bbca867b4f91114212b28757a102985fceda59380fb4737cbbf87",
+  "sourceListLink": "../w7-melbourne-first-home-5pct-deposit/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ca6096695bd6d5887f5ebe198dbc1bd2c227456ac829cd8a8ee1e263578b1bf3",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-melbourne-first-home-5pct-deposit/market-evidence.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w7-melbourne-first-home-5pct-deposit/home-budget.xlsx",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "2206e41ca7176892b5e612ddde89f966f03d6d3882484fb0adf3859c2d49c7bb",
+  "sourceListLink": "../w7-toronto-career-switch-data-analyst/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "4c5a5f6f0c608fa176dddcbefffd680fbb8064a2853d2b57eadc43662139d15f",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-toronto-career-switch-data-analyst/job-ads-normalized.json",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-toronto-career-switch-data-analyst/analysis-counts.json",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-toronto-career-switch-data-analyst/training.md",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

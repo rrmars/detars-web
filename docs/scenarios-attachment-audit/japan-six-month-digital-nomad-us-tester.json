@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "7472a6c0a96902260e0535d37107796101aea4787882b01721840e41bf6c00a9",
+  "sourceListLink": "../w7-japan-digital-nomad-us-tester/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "bd6c8b416563df419dc011427078083ab4ce0ab70873c9df5f36043f59bd19a4",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

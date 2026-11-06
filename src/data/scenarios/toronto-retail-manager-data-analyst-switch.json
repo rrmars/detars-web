@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "slug": "toronto-retail-manager-data-analyst-switch",
+  "translationKey": "toronto-retail-manager-data-analyst-switch",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A 35-year-old Toronto retail manager with Canadian permanent residence, CAD 62,000 salary, CAD 6,000 savings and 12 study hours weekly, targeting a first analyst role in 2027.",
+  "localeReason": "English only: the retained scenario concerns an English-language Toronto/GTA job search and Ontario training/funding for this specific permanent-resident profile; no distinct Chinese-language reader need was established. No other regional-language audience is claimed.",
+  "sources": [
+    {
+      "title": "Power BI Desktop download and Windows requirements",
+      "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Konrad Associate Data Analyst",
+      "url": "https://www.konrad.com/careers/job/associate-data-analyst_8043218003",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Konrad Data Analyst",
+      "url": "https://www.konrad.com/careers/job/data-analyst_8109497003",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GiveBridge Data Analyst public board ad",
+      "url": "https://ca.linkedin.com/jobs/view/data-analyst-at-givebridge-4485769467",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "exacare ai Data Analyst",
+      "url": "https://ats.rippling.com/exacare-inc/jobs/d720fe3e-7a3d-48bb-8fa0-37ef5acdb80e",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Fidelity Data and Visual Insights Analyst",
+      "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Mississauga-Office/Data---Visual-Insights-Analyst_J70698",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CMG Junior Data Support Analyst public board ad",
+      "url": "https://www.ziprecruiter.com/c/CMG-Marketing/Job/Junior-Data-Support-Analyst-1-Year-Contract/-in-Toronto,ON?jid=e003c0720b2dffe6",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AtkinsRealis Reporting Analyst R-164433",
+      "url": "https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONMississauga2285-Speakman-Drive/Reporting-Analyst_R-164433-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SQLBolt public exercises",
+      "url": "https://sqlbolt.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Microsoft Learn Power BI learning paths",
+      "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "pandas introductory tutorials",
+      "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Google Data Analytics certificate FAQ and syllabus",
+      "url": "https://grow.google/certificates/data-analytics/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Microsoft Power BI Data Analyst Associate credential",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "George Brown continuing education Data Analytics",
+      "url": "https://coned.georgebrown.ca/courses-and-programs/data-analytics-program",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Seneca DAS program",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/DAS.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Seneca DAS costs, first-semester full-time example",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/DAS/costs.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Seneca DAS admission requirements",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/DAS/admission-requirements.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BrainStation online data analytics course",
+      "url": "https://brainstation.io/course/online/data-analytics",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "WeCloudData self-paced Data Analytics Track",
+      "url": "https://weclouddata.com/courses/online/data-analytics-track/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "General Assembly consumer-closure notice",
+      "url": "https://www.generalassemb.ly/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "UCI Online Retail metadata",
+      "url": "https://archive.ics.uci.edu/dataset/352/online+retail",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Statistics Canada monthly retail trade table 20-10-0056-01",
+      "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010005601",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Open Government retail trade catalogue",
+      "url": "https://open.canada.ca/data/dataset/36515a02-cc2e-4f17-a1d8-6bcbfc92bce1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CRA Canada Training Credit claim rules",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45350-canada-training-credit.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Income Tax Act section 122.91",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-122.91.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ontario Better Jobs Ontario overview",
+      "url": "https://www.ontario.ca/page/better-jobs-ontario",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Better Jobs Ontario guidelines effective January 27, 2026",
+      "url": "https://eopg.labour.gov.on.ca/wp-content/uploads/2026/01/bjo-program-guidelines-en-2.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ontario OSAP overview",
+      "url": "https://www.ontario.ca/page/learn-about-osap",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ontario OSAP course-load definitions",
+      "url": "https://www.ontario.ca/page/osap-definitions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Federal part-time student grant 2026-27 income table",
+      "url": "https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/part-time.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Job Bank Toronto NOC 21223 wages",
+      "url": "https://www.jobbank.gc.ca/marketreport/wages-occupation/17882/geo9219",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Job Bank Toronto NOC 21223 outlook",
+      "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/17882/geo9219",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Job Bank Toronto NOC 21221 outlook",
+      "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/22495/geo9219",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "usable_nonstudent_ads": {
+      "label": "Usable non-student early-career ad denominator, not zero-experience openings",
+      "value": 7,
+      "unit": "ads",
+      "display": "7"
+    },
+    "screened_ads": {
+      "label": "All screened related ads, not the skills denominator",
+      "value": 25,
+      "unit": "ads",
+      "display": "25"
+    },
+    "total_plan_hours": {
+      "label": "Learning, projects and job search combined January through September 2027",
+      "value": 468,
+      "unit": "hours",
+      "display": "468"
+    },
+    "core_incremental_cost": {
+      "label": "Free-first core spend assuming existing compatible computer, internet and Excel access; paid credentials excluded",
+      "value": 0,
+      "unit": "CAD",
+      "display": "CAD 0"
+    },
+    "initial_savings": {
+      "label": "Scenario savings, not approved training aid",
+      "value": 6000,
+      "unit": "CAD",
+      "display": "CAD 6,000"
+    },
+    "optional_spending_cap": {
+      "label": "Chosen optional spending ceiling, not an equipment or exam quote",
+      "value": 1000,
+      "unit": "CAD",
+      "display": "CAD 1,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All source access dates inherit explicit November 6, 2026 UTC dates in the retained source register and narratives, including blocked attempts where accessNote says so. No access date was refreshed by this authoring pass. Original model unknown. No new source verification or 2027 financial/legal update is claimed.",
+  "uncertainties": [
+    "Only 7 usable non-student early-career ads out of 25 screened support the skills summary; all seven request relevant experience. The requested 25-ad non-student junior sample was not achieved. Purposive GTA snapshot, not a representative survey or September hiring forecast.",
+    "GiveBridge and CMG availability was board-only. Some ad posting dates, currencies and pay periods are unstated; no missing salary field was inferred. Fidelity compensation includes target bonus, not base salary alone.",
+    "George Brown subtotal relies on lower-confidence managed-rendered extracts; clean rechecks were blocked. Full certificate map, January dates, homework and complete cost remain unconfirmed.",
+    "Seneca fee example is full-time first-semester only; explicit CAD denomination and the complete January part-time total remain unconfirmed. Eight months is full-time. PR status does not establish admission.",
+    "Google publishes USD pricing, not a verified CAD checkout amount. BrainStation, WeCloudData and PL-300 CAD prices remain unconfirmed. No available immersive bootcamp verified; Lighthouse retrieval failure is not closure evidence.",
+    "Free-first CAD 0 assumes existing compatible hardware, internet and Excel. Optional CAD 1,000 is a planning cap, not a vendor quote; no paid credential or new hardware is included.",
+    "CTC personal assessed balance and fee eligibility unknown. Retained CRA pages address the 2025 return and 2026 limit; 2027 thresholds unverified. CRA summary/statute age-year wording differs for boundary ages, immaterial to the 35-year-old scenario. BJO and OSAP are not approved awards; family resources and exact program acceptance are unknown.",
+    "UCI metadata was inspected but dataset bytes were not validated. StatCan direct table blocked; catalogue was readable in training research but later repeat rejected. CSV geography, units and revision flags must be checked at project start. Proposed projects were not executed.",
+    "Original research did not fully meet its clean-session protocol: early fallback used Chrome-backed sessions whose cleanliness was not established, and some fetches used managed-browser rendering. No login, credential import, application, payment or contact was recorded. Included final job records rely on independent public retrieval; George Brown price caveat remains.",
+    "Occupation-wide Job Bank wages use older source periods and are not junior salary predictions. Salary sensitivities are gross arithmetic only, with no tax or benefit modelling.",
+    "This authoring pass used retained local files only. No network research, source edits, build, inventory update, website change or publication. English/Chinese parity is inapplicable because only English was authored."
+  ],
+  "editingContract": "One new English local draft and shared schema-v2 record only. Source-run and shared files unchanged. Four source-supported FAQs, reader-first opening with adjacent 7-of-25 caveat, dated prices and eligibility limits, bracketed Ask DeTars request and provenance marker. Original stage2-relative link convention retained; parent integrates inventory and rendering.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 2,
+  "slug": "kenya-first-family-safari-august",
+  "translationKey": "kenya-first-family-safari-august",
+  "sources": [
+    {
+      "title": "MOE's calendar",
+      "url": "https://www.moe.gov.sg/news/press-releases/20260714-school-terms-and-holidays-for-2027",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Mara Conservancy FAQ",
+      "url": "https://www.maratriangle.org/maratriangle/wildebeest-migration",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "August 2026 report",
+      "url": "https://www.maratriangle.org/mara-monthly/august-2026",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Package",
+      "url": "https://assets.zyrosite.com/AE07ZqnoWMSp1oLn/masaimara-safari-packages-2026-uIPGrDPaz5VApdBy.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tariff",
+      "url": "https://sarunibasecamp.com/wp-content/uploads/2025/05/2026-Saruni-Basecamp-Rack-Rates-Basecamp-Adventure-Ground-Package.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tariff",
+      "url": "https://www.juliasrivercamp.com/wp-content/uploads/2026/01/Julias-River-Camp-Rates-2026-2027.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Reseller tariff",
+      "url": "https://africanspicesafaris.com/tour/lake-naivasha-sopa-lodge-naivasha/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official full-board inclusions",
+      "url": "https://www.lakenaivasha-soparesort.com/offers-promotions/full-board",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tariff",
+      "url": "https://sarunibasecamp.com/wp-content/uploads/2025/05/2026-Saruni-Basecamp-Rack-Rates-Basecamp-Wilderness.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Narok fee source",
+      "url": "https://narok.go.ke/wp-content/uploads/2023/11/Narok-County-Finance-Act-2023-UPL_compressed.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Triangle ticket rules",
+      "url": "https://www.maratriangle.org/conservation-fees-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Safarilink's tariff",
+      "url": "https://storage.aerocrs.com/4/system/2026%20Timetable.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Safarilink",
+      "url": "https://www.flysafarilink.com/travel-information/baggageallowance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AirKenya",
+      "url": "https://airkenya.com/baggage-policy/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ethiopian calendar",
+      "url": "https://www.ethiopianairlines.com/en-sg/flights-from-singapore-to-nairobi",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Etihad calendar observation",
+      "url": "https://www.etihad.com/en-sg/flights/flights-from-singapore-to-nairobi",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Singapore MFA",
+      "url": "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/kenya/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kenya eTA portal",
+      "url": "https://extern.api.etakenya.go.ke/how-to-apply",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official insurance portal",
+      "url": "https://insurance.ecitizen.go.ke/dashboard/travel",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ICA",
+      "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/entry-requirements/yellow-fever-vaccination-certificate",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Singapore CDA",
+      "url": "https://www.cda.gov.sg/public/health-and-safety-abroad/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CDC's Kenya guidance",
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kenya",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "road_family_total": {
+      "label": "Conditional eight-night road family total including ten-percent reserve, not an August quote",
+      "value": 20601.63,
+      "unit": "SGD",
+      "display": "SGD20,601.63"
+    },
+    "road_budget_headroom": {
+      "label": "Road-plan headroom against family ceiling after reserve",
+      "value": 1398.37,
+      "unit": "SGD",
+      "display": "SGD1,398.37"
+    },
+    "fly_family_total": {
+      "label": "Conditional fly-in comparison total, with different camp and private-drive scope",
+      "value": 26702.01,
+      "unit": "SGD",
+      "display": "SGD26,702.01"
+    },
+    "third_drive_headroom": {
+      "label": "Remaining ceiling after optional third full reserve day including reserve",
+      "value": 61.87,
+      "unit": "SGD",
+      "display": "SGD61.87"
+    },
+    "family_budget_ceiling": {
+      "label": "Illustrative Singapore family's total trip budget ceiling",
+      "value": 22000,
+      "unit": "SGD",
+      "display": "SGD22,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Research and source-specific access dates are recorded as 2026-11-06 in the retained source register. Localization on 2026-11-06 involved local reading only, not an external source refresh, price update or confirmation of future rules. No articleVerificationDate is asserted. Original model is unknown.",
+  "uncertainties": [
+    "Mid-August is not the general Singapore MOE school vacation. The example requires the actual school's break or approved leave; arrival back in Singapore may be a day after Kenya departure.",
+    "Migration observations are historical and Triangle-specific. River crossings are never guaranteed; four camp nights are not four full crossing days.",
+    "No August 2027 international fare, date-specific four-seat availability, numerical AirKenya fare, official 2027 Narok/KWS fee schedule or August 2027 tariff for the five compared stays was verified.",
+    "Road and fly comparisons differ in camp, fee treatment and private-drive scope; their cost difference is not an isolated airfare upgrade.",
+    "Talek discounted-child counting in the four-person band, actual beds, shorter-drive adaptation, safe highway vehicle/restraints and final 2027 inclusions need confirmation. The budget uses the conservative twin band and does not duplicate included reserve/driver costs.",
+    "Sopa is secondary reseller tariff evidence. Child-own-room arithmetic requires an approved adjoining/interconnecting configuration and safe adult supervision; adult-split occupancy must be repriced. Birthdays can change the applicable child band.",
+    "Basecamp ordinary adult-child tent arithmetic does not prove the family-tent row accepts the same discounts. Walks, night drives, balloons and children's activities have unconfirmed separate eligibility.",
+    "Fly reserve admission provisionally assumes five chargeable calendar days including arrival and departure; camp/gate/airstrip routing and ticket treatment may change that amount. Conservancy fees do not automatically include reserve excursions.",
+    "Safarilink's retained tariff expires 2026-12-31 and excludes taxes; child discount is class-restricted. The budget uses adult fares plus unverified tax and airstrip-transfer allowances. Future flights and baggage arrangements need confirmation.",
+    "Kenyan-authority inbound health insurance is mandatory under the dated retained rule, including minors; overseas travel insurance does not replace it. Premium and permitted purchase window remain unverified. SGD300 is only an allowance. MFA and portal duration wording differs but both include this short trip.",
+    "Singapore passport eTA exemption is nationality-specific, not based on Singapore residence. All entry, health, return-certificate and safety rules need rechecking before commitment and departure; no current external medical, immigration or legal update was performed.",
+    "Original source collection used unrequested existing managed-browser fallbacks for Etihad, CDC children, KWS Amboseli and a failed page. Clean-session compliance for those original calls was not established. This guide discloses the Etihad limitation beside its fare example, omits CDC-child and KWS numerical claims, and made no network calls.",
+    "The original CDC capture carried a time-specific health alert. The guide asks readers to check current notices rather than implying a forecast for August travel. Clinical prevention and evacuation arrangements need individualized assessment.",
+    "FX, international flights, Nairobi rooms, separate road transfers, insurance, clinic, activities, tips and incidentals include planning assumptions. A ten-percent reserve is not proof of affordability at future quoted prices. No booking, enquiry, purchase, form submission or supplier contact occurred."
+  ],
+  "editingContract": "Complete English and Simplified Chinese prose with date-normalized numeric/date/URL multiplicity and corresponding table-cell parity. Four source-supported FAQs per locale. No ratings, stars, Review/AggregateRating markup, external research, source-run edits, inventory changes or builds. Original stage2-relative local locator convention retained in provenance and sourceListLink; parent integrates inventory and rendering.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "Singapore families, including Chinese-speaking readers, planning a first Kenya safari; the example retains four Singapore ordinary passports and children aged 9 and 12 at travel.",
+    "zh": "计划首次肯尼亚 Safari 的新加坡家庭，包括中文读者；示例仍以全员持新加坡普通护照、孩子出行时为 9 岁和 12 岁为前提。"
+  },
+  "localeReason": "English and Simplified Chinese serve the explicitly requested Singapore family audience, including Chinese readers. Translation does not broaden passport eligibility or change school-calendar assumptions; no other regional-language audience was specified.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

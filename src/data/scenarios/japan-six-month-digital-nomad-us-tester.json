@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 2,
+  "slug": "japan-six-month-digital-nomad-us-tester",
+  "translationKey": "japan-six-month-digital-nomad-us-tester",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A single 35-year-old US citizen and US software QA employee earning USD 118000, retaining US tax residence and planning an April 2027 Japan arrival; English-only because no distinct Chinese-speaking audience is established for this specific US employment, consular and tax profile.",
+  "sources": [
+    {
+      "title": "ISA status and document requirements",
+      "url": "https://www.moj.go.jp/isa/applications/status/designatedactivities53_00001.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ISA eligible nationality chart",
+      "url": "https://www.moj.go.jp/isa/content/001416932.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ISA digital nomad Q&A, as of July 2024",
+      "url": "https://www.moj.go.jp/isa/content/001422249.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MIC resident-registration categories",
+      "url": "https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/zairyu/english/resident_record.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ECB reference rates, saved November 5, 2026 observation",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Embassy consulate guide",
+      "url": "https://www.us.emb-japan.go.jp/jicc/consulate-guide.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official US consular jurisdiction map",
+      "url": "https://www.ny.us.emb-japan.go.jp/itpr_en/jurisdiction.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MOFA digital nomad visa",
+      "url": "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "San Francisco digital nomad checklist, February 2026",
+      "url": "https://www.sf.us.emb-japan.go.jp/files/101001925.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Miami temporary visitor rules",
+      "url": "https://www.miami.us.emb-japan.go.jp/itpr_en/visa_temporary_visitor.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "WorldTrips Atlas official rate sheet, selected age 30–39 / USD 250000 / zero deductible cell",
+      "url": "https://www.worldtrips.com/hubfs/downloads/atlas-travel-medical-insurance-application.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Atlas Travel specimen policy, benefits and exclusions",
+      "url": "https://www.worldtrips.com/hubfs/docs/atlas-travel-medical-insurance-document-specimen.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing Nomad Insurance Essential product and price",
+      "url": "https://safetywing.com/nomad-insurance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing accidental death and loss-of-limbs or eyes benefits",
+      "url": "https://intercom.help/safetywing/en/articles/15326614-nomad-insurance-essential-does-the-plan-cover-accidental-death-and-loss-of-limbs-or-eyes",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing updated-version eligibility and early-incident documentation",
+      "url": "https://intercom.help/safetywing/en/articles/9777980-nomad-insurance-essential-updated-version-who-can-get-this-insurance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SafetyWing FAQ, mixed policy versions",
+      "url": "https://safetywing.com/nomad-insurance/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Oakhouse Sasazuka, room 1F-12",
+      "url": "https://www.oakhouse.jp/eng/house/21",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Daikanyama House, room 102",
+      "url": "https://www.oakhouse.jp/eng/house/675",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JapanHeya Kamiochiai furnished monthly listing",
+      "url": "https://www.japanheya.com/rentals/tokyo/shinjuku/008afbb6-20cf-49ae-aca6-e4dc07f879e7",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JapanHeya Keikyu Kamata furnished monthly listing",
+      "url": "https://www.japanheya.com/rentals/tokyo/4-min-walk-from-keikyu-kamata-station/07bcf7af-b4c2-42a7-9ef4-8860ce7b53f6",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JapanHeya Meinohama furnished monthly listing",
+      "url": "https://www.japanheya.com/rentals/fukuoka/5-min-walk-from-meinohama-sta/053e10cf-2849-4039-a131-bad35252a151",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JapanHeya Takamiya furnished monthly listing",
+      "url": "https://www.japanheya.com/rentals/fukuoka/5-min-walk-from-takamiya-stafree-wi-fi/0541759b-8c43-46e9-8fad-9a5af1f7ec49",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Sharely Style Hakata, SHARE HOUSE180 portal",
+      "url": "https://www.sharehouse180.net/en/houses/sshakata/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SINKOS Fukuoka sharehouse, room 201",
+      "url": "https://www.sinkosjp.com/en/home-en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Oakhouse identity and screening FAQ",
+      "url": "https://www.oakhouse.jp/eng/helpcenter/faq/272",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Oakhouse short-stay and notice policy",
+      "url": "https://www.oakhouse.jp/eng/sharehouse/qa/4",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JapanHeya Fukuoka platform-level passport and duration marketing",
+      "url": "https://www.japanheya.com/rentals/fukuoka",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JapanHeya intermediary terms",
+      "url": "https://www.japanheya.com/terms-conditions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Sharely operator pricing and duration conditions, separate from portal offer",
+      "url": "https://www.dormy-kyusyu.com/en/search/sharely.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRS US citizens and resident aliens abroad",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRS FEIE physical-presence test",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRS FEIE bona fide residence test",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-bona-fide-residence-test",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NTA No. 12006 nonresident income, employment source and treaty procedures",
+      "url": "https://www.nta.go.jp/english/taxes/individual/12006.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "US–Japan tax convention, Article 14, printed page 25",
+      "url": "https://home.treasury.gov/system/files/131/Treaty-Japan-11-6-2003.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRS Japan treaty document index",
+      "url": "https://www.irs.gov/businesses/international-businesses/japan-tax-treaty-documents",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "2013 US–Japan amending protocol",
+      "url": "https://home.treasury.gov/system/files/131/Treaty-Japan-Pr2-1-24-2013.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRS persons employed abroad by a US person",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/persons-employed-abroad-by-a-us-person",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IRS Social Security tax consequences of working abroad",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/social-security-tax-consequences-of-working-abroad",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Pension Service coverage and temporary detachment",
+      "url": "https://www.nenkin.go.jp/international/english/agreement/mechanisms/workjapan.html",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "annual_income_threshold": {
+      "label": "Dated annual-income application threshold, separate from medical insurance requirement and not savings",
+      "value": 10000000,
+      "unit": "annual_income_application_floor",
+      "currency": "JPY",
+      "display": "¥10,000,000"
+    },
+    "trip_expense_allowance": {
+      "label": "Six billed months of trip expenses including contingency, excluding US obligations and income/payroll taxes",
+      "value": 2252800,
+      "unit": "six_month_unquoted_trip_allowance",
+      "currency": "JPY",
+      "display": "¥2,252,800"
+    },
+    "trip_expense_usd_equivalent": {
+      "label": "Trip allowance converted at saved November 5 ECB cross-rate, not live FX",
+      "value": 14217.28,
+      "unit": "dated_fx_trip_allowance_equivalent",
+      "currency": "USD",
+      "display": "$14,217.28"
+    },
+    "liquidity_including_refundable_float": {
+      "label": "Trip allowance plus separate refundable-deposit/payment-hold float; float is not expense",
+      "value": 2352800,
+      "unit": "trip_liquidity_with_refundable_float",
+      "currency": "JPY",
+      "display": "¥2,352,800"
+    },
+    "sample_inclusive_presence_days": {
+      "label": "April 5–September 25, 2027 calendar days inclusive, not authoritative treaty counting or immigration expiry",
+      "value": 174,
+      "unit": "illustrative_inclusive_calendar_days",
+      "display": "174"
+    },
+    "private_insurance_budget_reserve": {
+      "label": "Unquoted insurance reserve pending issued wording, full-term proof and mission acceptance",
+      "value": 120000,
+      "unit": "trip_insurance_planning_reserve",
+      "currency": "JPY",
+      "display": "¥120,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Research and all cited-source access dates are recorded as 2026-11-06 in retained sources.md and housing/insurance-tax narratives. ECB observation is 2026-11-05 and Atlas rate effective date is 2025-05-29. Unknown publication/update dates remain unknown; search-extract access is not relabelled as full-page retrieval. English authoring on 2026-11-06 did not refresh any rule, price, policy or source, and is not a publication date.",
+  "uncertainties": [
+    "Not immigration, tax, legal or insurance advice. Employer permission, personal eligibility, legal employing entity, Japanese PE/salary-cost bearing, treaty residence, prior Japan visits, US state/county and medical history remain unresolved.",
+    "Six months is not automatically 183 treaty days. Inclusive calendar examples do not establish authoritative arrival/departure counting; other visits inside the rolling period matter. Actual landing permission controls immigration expiry. No FEIE assumed for this trip alone.",
+    "US state is unknown, so mission selection and state-tax consequences are unresolved. SF February 2026 mail, insurance, fee, visa-validity and processing details are examples, not nationwide or 2027 guarantees. Four-to-eight weeks is an author planning buffer.",
+    "Jurisdiction, consulate-guide and Miami visitor information rests on official search extracts because direct retrieval was denied; no full-page read is claimed. MOFA text was obtained after automatic managed-browser fallback and corroborated with ISA/SF evidence.",
+    "Original research's clean-session constraint was not perfectly met: MOFA, fukuokarent.com and SSA fetches automatically fell back to an existing managed browser whose clean state was uncertified. Fukuoka error and SSA fallback content were excluded; included housing was independently re-fetched by unauthenticated raw HTTP; IRS/JPS support payroll discussion. No external retrieval occurred during this authoring task.",
+    "Both insurers are screened candidates, not government-approved or personally accepted cover. Atlas price uses a 2025 rate sheet; SafetyWing exact-date billing and issued 2027 version are unquoted. Mixed-version FAQ and incomplete older specimen do not establish a current contract. Full-term documentation, independent cover/AD&D where required, exclusions, chronic/routine care and medical needs must be confirmed.",
+    "Eight housing observations are not eight vacant homes. T2, F3 and F4 were full/occupied. No April 2027 price, availability or unconditional digital-nomad acceptance confirmed. Oakhouse passport pathway is conditional; JapanHeya is intermediary/channel marketing; Fukuoka sharehouse no-card eligibility unresolved. Unknown costs are not zero and refundable deposits are not expenses.",
+    "Sharely portal and operator rents are distinct, not additive; utility/bedclothes exclusions, inconsistent duration endpoints and short-stay cleaning treatment remain unresolved. No speed test, US-hours noise assessment or workspace/security suitability is established for any home.",
+    "Budget is six full monthly bills despite the 174-day sample. Housing targets and other unquoted allowances are planning choices. Income/payroll taxes, US recurring obligations, debts, major shopping and extensive travel are excluded; salary is gross. Japanese nonresident tax baseline is not an assessed liability. FX is dated, not a forecast or consular conversion mandate.",
+    "English only for the US remote tester profile; no bilingual parity claim. Only new English Markdown and matching semantic JSON authored. No shared inventory, build, manifest, HTML, source-run or website edit; no publication, application, booking, purchase, contact, account or external research. Local source-list/evidence locators follow existing stage2-relative renderer convention, not public download promises. Original run model unknown."
+  ],
+  "editingContract": "English-only reader-first local scenario guide and schemaVersion 2 data. Preserve conditional digital-nomad eligibility, SF-only requirements, private insurance limits/exclusions, all eight housing comparisons, separate US/Japan tax/payroll questions, full budget/float/stress tests and action timeline. Four source-supported FAQ; bracketed Ask DeTars request, friendly professional-advice disclaimer and provenance marker. Exact cited URL registry, actual original access dates, semantic headline displays and retained-artifact SHA256. No ratings, stars, Review markup, unhosted reader attachment claims, external refresh, inventory changes or build.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

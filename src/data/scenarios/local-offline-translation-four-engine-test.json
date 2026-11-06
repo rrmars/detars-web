@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 2,
+  "slug": "local-offline-translation-four-engine-test",
+  "translationKey": "local-offline-translation-four-engine-test",
+  "sources": [
+    {
+      "title": "NLLB exact model card and non-commercial scope",
+      "url": "https://huggingface.co/facebook/nllb-200-distilled-600M/raw/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Meta FLORES corpus attribution and licence",
+      "url": "https://raw.githubusercontent.com/facebookresearch/flores/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FLORES ShareAlike licence",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "sacrebleu metric documentation",
+      "url": "https://github.com/mjpost/sacrebleu",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official Qwen GGUF licence",
+      "url": "https://huggingface.co/Qwen/Qwen3-4B-GGUF/raw/main/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ollama code licence",
+      "url": "https://github.com/ollama/ollama/blob/main/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OPUS-MT English to Spanish card",
+      "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es/raw/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OPUS-MT English to Chinese card",
+      "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-zh/raw/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OPUS-MT English to German card",
+      "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-de/raw/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OPUS-MT Chinese to English card",
+      "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/raw/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Argos publisher model-binary licensing statement, qualified by exact package notices",
+      "url": "https://github.com/argosopentech/argos-translate/issues/533#issuecomment-5160080718",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NLLB non-commercial licence terms",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Exact official Qwen Q4_K_M model artifact",
+      "url": "https://huggingface.co/Qwen/Qwen3-4B-GGUF/resolve/bc640142c66e1fdd12af0bd68f40445458f3869b/Qwen3-4B-Q4_K_M.gguf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple direct-session initializer",
+      "url": "https://developer.apple.com/documentation/translation/translationsession/init(installedsource:target:).md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple direct-session download restriction",
+      "url": "https://developer.apple.com/documentation/translation/translationsession/canrequestdownloads.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple Translation overview and telemetry scope",
+      "url": "https://developer.apple.com/documentation/translation/translationsession.md",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "benchmark_translations": {
+      "label": "Successful translations across four engines; not human-rated outputs",
+      "value": 480,
+      "unit": "translation_outputs",
+      "display": "480"
+    },
+    "qwen_macro_chrf": {
+      "label": "Qwen arithmetic mean of direction-level reference chrF, not human quality",
+      "value": 51.75,
+      "unit": "macro_chrf",
+      "display": "51.75"
+    },
+    "qwen_total_wall_seconds": {
+      "label": "Qwen wall time including fresh direction startup, excluding setup",
+      "value": 260.16,
+      "unit": "seconds",
+      "display": "260.16"
+    },
+    "qwen_peak_sampled_memory": {
+      "label": "Qwen larger sampled process-tree RSS or physical footprint, decimal GB",
+      "value": 3.11,
+      "unit": "decimal_GB_sampled_peak",
+      "display": "3.11"
+    },
+    "marian_total_wall_seconds": {
+      "label": "Marian wall time for all input units including startup, excluding setup",
+      "value": 60.88,
+      "unit": "seconds",
+      "display": "60.88"
+    },
+    "marian_peak_sampled_memory": {
+      "label": "Marian larger sampled process-tree RSS or physical footprint, decimal GB",
+      "value": 0.77,
+      "unit": "decimal_GB_sampled_peak",
+      "display": "0.77"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Hands-on testing and source retrieval were recorded on 2026-11-06 in sources.md and the two dated source narratives. Source access dates inherit that record; localization on the same date did not refresh sources or repeat inference. Original authoring model is unknown; the measured and reviewer model names are not substituted for it.",
+  "uncertainties": [
+    "Reference chrF/BLEU are not human quality or semantic accuracy. Only the first 20 aligned FLORES-200 devtest items per direction were reference-scored; English items repeat across three directions.",
+    "Only EN→ES, EN→DE, EN→Simplified Chinese and Simplified Chinese→EN were measured. One pass per final configuration, no significance or repeat-variance estimate; shared Mac, uncleared caches, unequal models and CPU/Metal execution limit speed comparisons.",
+    "NLLB tested weights are CC-BY-NC-4.0 and research-oriented, not recommended for the commercial shop. Other model-card licence findings do not clear all training data or bundled-component rights.",
+    "Argos used a presegmented-input adapter after Stanza failures. Chinese packages retain CC-BY-4.0 OPUS notices despite general MIT/CC0 statements; full rights for mirrored packages are unresolved.",
+    "Initial Hugging Face downloads used a pre-existing cached credential. No signup or test-text upload, but strict no-account setup was not fully met. Later unauthenticated access does not erase the exception.",
+    "Inference network restrictions cover the tested local processes, not all OS services or every embedding application. Memory sampling can miss spikes; Qwen benchmark watchdog used physical footprint though RSS also stayed below the threshold.",
+    "Custom shop-text review is deterministic plus a local Qwen pass, not human semantic review. Flags are not confirmed errors; the reviewer is not independent of the Qwen candidate.",
+    "FLORES and Argos mirror hashes match retained mirrors, not independently established authoritative upstream bytes or publisher-authorized mirrors.",
+    "Apple availability probe only: all requested pairs supported but uninstalled; no translation benchmark or direct-session runtime execution. Framework on-device content processing does not establish zero telemetry.",
+    "Local helper has a 512-token output cap versus benchmark 256; requires isolated server restart and path adjustment if moved. No fresh-install rerun or new external research for this guide."
+  ],
+  "editingContract": "Complete English and Simplified Chinese guides with identical date-normalized numeric/date/URL multiplicity and table-cell numeric association. Retains four overall rows, all sixteen direction rows, all machine-only flag counts and consequential limitations. No Review, AggregateRating or stars. Local evidence links use the stage2-relative locator convention for parent rendering.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "English- and Chinese-speaking local-translation users comparing short shop-message workflows; Simplified Chinese directions were tested, without human quality validation.",
+    "zh": "为短店铺消息选择本地翻译流程的英语和中文读者；测试包含简体中文方向，但没有人工质量验证。"
+  },
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

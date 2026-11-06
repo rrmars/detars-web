@@ -1,0 +1,59 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "6b090e8a099300d769d03b338aee36a50a908223d33eb5e7d9e0715f48bc50e8",
+  "sourceListLink": "../w7-offline-translation-test/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "6915ffbd50401a04a97761a5f1e61c632a75d4c53a16450f1d999bdd2714351c",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-offline-translation-test/results.csv",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-offline-translation-test/independent_verification.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w7-offline-translation-test/scripts/translate_local.py",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-offline-translation-test/index.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "7d17cb03b5de55356eda26c61cd05f25733c04baebd14b1fd96da7d52765d52f",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-offline-translation-test/results.csv",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-offline-translation-test/independent_verification.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w7-offline-translation-test/scripts/translate_local.py",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-offline-translation-test/index.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}
