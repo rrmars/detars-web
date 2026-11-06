@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 2,
+  "slug": "dubai-expat-family-health-insurance",
+  "translationKey": "dubai-expat-family-health-insurance",
+  "sources": [
+    {
+      "title": "DHA FAQ",
+      "url": "https://www.isahd.ae/Home/FAQ",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dubai health-insurance law",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Law%20No.%20%2811%29%20of%202013.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DHA participating-insurer list",
+      "url": "https://www.isahd.ae/Home/DHAPIResults",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Visa-enforcement circular",
+      "url": "https://www.isahd.ae/content/docs/GC%2006-2015%20Enforcement%20of%20the%20Law%20through%20Visa%20applications.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official fines schedule",
+      "url": "https://www.isahd.ae/content/docs/Executive%20Council%20Resolution%20No.%20(7)%20of%202016%20Approving%20Health%20Insurance%20Fees%20and%20Fines%20in%20the%20Emirate%20of%20Dubai.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Government fines text",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2016/Executive%20Council%20Resolution%20No.%20%287%29%20of%202016.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MOHRE federal scheme",
+      "url": "https://tasheel.mohre.gov.ae/en/media-center/awareness-and-guidance/health-insurance-scheme.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "UAE government guidance",
+      "url": "https://u.ae/information-and-services/health-and-fitness/getting-a-health-insurance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DHA minimum-benefit schedule",
+      "url": "https://www.isahd.ae/content/docs/GC%2003%202024.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Emergency coverage policy v2",
+      "url": "https://www.isahd.ae/content/docs/PD-03-2025%20Emergency%20Coverage%20Regulation%20-%20v2.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Telehealth circular",
+      "url": "https://www.isahd.ae/content/docs/GC%2003-2026_Circular%20for%20Telehealth%20Services.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Supersession circular",
+      "url": "https://www.isahd.ae/content/docs/GC%2005-2025%20DHIC%20Issuance%20of%20Updated%20Regulations%20Superseding%20Previous%20regulatory%20documents.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DHA legislation index",
+      "url": "https://www.isahd.ae/Home/LawAndRegulations",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DNI price page",
+      "url": "https://www.dni.ae/personal-insurance/medical/dha_ebp/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DNI dependant schedule and document requirements",
+      "url": "https://www.dni.ae/resources/downloads/medical/EBP_TOB_DNI_FOR_DEPENDENTS.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Policybazaar plan cards",
+      "url": "https://www.policybazaar.ae/health-insurance/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Takaful Emarat GOLD historical tariff",
+      "url": "https://takafulemarat.com/wp-content/uploads/2020/06/dubai-gold-networ-list.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DNI family document list",
+      "url": "https://www.dni.ae/resources/downloads/products/DOCUMENTS_REQUIRED_UPON_CONFIRMATION.pdf",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "conditional_basic_dependant_subtotal": {
+      "label": "DNI annual starting subtotal for wife aged 18–45 and two accepted children, before PSP charges and VAT; not a quote",
+      "value": 3467,
+      "unit": "AED_per_year_before_PSP_and_VAT",
+      "display": "AED 3,467"
+    },
+    "historical_gold_gross_lower": {
+      "label": "Historical GOLD worked annual total for hypothetical wife age 30 and two male children, including stated levy and VAT; current validity unverified",
+      "value": 14412.3,
+      "unit": "AED_per_year_historical_illustration",
+      "display": "AED 14,412.30"
+    },
+    "historical_gold_gross_upper": {
+      "label": "Historical GOLD worked annual total for hypothetical wife age 31–35 and two female children, including stated levy and VAT; current validity unverified",
+      "value": 15478.05,
+      "unit": "AED_per_year_historical_illustration",
+      "display": "AED 15,478.05"
+    },
+    "minimum_annual_medical_limit": {
+      "label": "Retained Dubai EBP annual per-person aggregate including patient share, not a premium or payout",
+      "value": 150000,
+      "unit": "AED_per_person_per_year_aggregate_limit",
+      "display": "AED 150,000"
+    },
+    "minimum_annual_medicine_limit": {
+      "label": "Retained EBP annual medicine allowance including co-insurance, subject to formulary and 30% patient share",
+      "value": 2500,
+      "unit": "AED_per_year_medicine_limit_including_coinsurance",
+      "display": "AED 2,500"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "sourceAccessMethod": "Retained HTML, source/calculation ledger, price and benefit narratives read fully; six retained PDFs read in full via deterministic text extraction. Historical GOLD pages 1, 3 and 7 also checked with layout-preserving text extraction. No external access in this authoring task.",
+    "originalResearchAccessLimitations": "Original research included fallback searches/failed fetches through existing managed browser profiles, not verified clean sessions. The retained source ledger says fallback output was not used for substantive findings. This limitation is preserved, not retroactively cured. Regional government-page findings and DNI PDFs not retained as separate local bytes are supported by retained narratives, not a fresh independent external read.",
+    "publicationDates": "Unknown unless explicitly recorded in retained material. GOLD has no established publication/effective date; its 2020/06 URL folder is not proof. DNI documents and FAQ article publication dates are unknown. Policybazaar records datePublished 2026-03-20 and dateModified 2026-11-02; access is 2026-11-06. Regulatory issue/effective dates remain distinct from access dates."
+  },
+  "datePolicy": "Every cited URL has a source-specific 2026-11-06 access entry in the retained ledger. Authoring on 2026-11-07 is not a source refresh. Intended inception January 2027 remains subject to new written offers and confirmation of regulatory changes. Unknown original model and unknown source publication dates remain unknown.",
+  "uncertainties": [
+    "A reliable current enhanced-family annual premium COULD NOT be established. Do not restore the unsupported AED 10,000–15,000 budget or multiply broker floors into family totals.",
+    "Wife's age, nationality, medical history, pregnancy status and preferred providers are unknown; children's sexes are unspecified. Employer covers sponsor only in this scenario; named-product dependant acceptance unconfirmed.",
+    "AED 3,467 is conditional on wife age 18–45, accepted children age 4 and 8, and published starting rates; PSP charges and VAT extra. PSP amount and taxable basis not confirmed; no all-in total. Generic adult rate cannot be assigned to wife age 46–59.",
+    "GOLD totals use hypothetical wife age 30–35 and two-male/two-female child endpoints, AED 37/member levy and stated 5% VAT. Historical only; no established publication/effective date or current validity. Different-date net comparisons do not establish today's upgrade price.",
+    "Broker cards lack member-count, age, tax, levy and underwriting inputs. Orient is a first comparison target only; access, co-pays, maternity and suitability are not established by its AED 1 million/RN3 card. Value N4 priced card is AED 250,000, not the adjacent different summary's limit.",
+    "EBP is a minimum floor, not entitlement to a low-salary worker tariff. Sponsor income does not establish named dependant-product acceptance. AED 500,000–1 million preference is judgment, not regulation.",
+    "Retained 2024 minimum table plus 2025 emergency and 2026 telehealth overlays are not a January 2027 regulatory certification. Vaccine AED 100 application needs confirmation; no universal maternity waiting period is asserted.",
+    "Chronic-condition first-UAE versus initial-Dubai wording requires continuity reconciliation. No blanket exclusion or repeated renewal reset; qualifying emergencies covered immediately. Post-stabilisation policy terms apply; no universal zero emergency co-pay promised.",
+    "Insurance is required for residence-visa application/issuance and renewal. Exact arrival/entry deadline unestablished; arrival protection is precautionary and travel bridge is not a replacement. No supposed 30-day grace period. Fine schedule has no expressly established per-person delay multiplier.",
+    "DNI pending-ID substitutions and document lists are product examples, not universal requirements. Sharjah and Abu Dhabi rules cannot simply be replaced with Dubai's obligations.",
+    "No source-run edits, website-repository edits, publication, contact, quote-form submission, network requests or external research were performed in this authoring task. No workbook exists in the retained folder."
+  ],
+  "editingContract": "English-only complete guide for the specific expat family. Bilingual numeric/date/URL/table parity is not applicable because no Chinese guide is requested or created. Semantic headline displays all occur in English prose/tables; Chinese producer label is metadata only. Exact cited external URL registry. Existing [local evidence retained privately] attachment locator convention preserved for parent rebasing. No ratings, stars, Review or AggregateRating. Parent integrates inventory and builds; shared files unchanged.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Expat sponsor earning AED 28,000/month, moving to Dubai in January 2027 with an employer-paid employee policy and separate cover needed for his wife and children aged 4 and 8.",
+  "localeReason": "English-only for this specific expat family's Dubai cover comparison and English policy materials; no distinct Chinese-speaking or other regional audience is established by the supplied scenario.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

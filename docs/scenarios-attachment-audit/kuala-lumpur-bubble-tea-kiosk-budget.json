@@ -1,0 +1,51 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "1148626079c65021c4b5fafa36e80605e436dfaf4dfba95ceade9256a6f7a63c",
+  "sourceListLink": "../w7-kl-bubble-tea-kiosk/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "4cba5b6c538ae92404eb5ed0c01ddfc3d1684d65e772bcfebc73ae487b35b7a7",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-kl-bubble-tea-kiosk/research-unit.md",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-kl-bubble-tea-kiosk/kiosk-model.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-kl-bubble-tea-kiosk/index.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "45f9fc7b7cb6d8eaccaf3fb5c5b48a2fc9ffc5d5ca5827e00f7217922b3f28ae",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-kl-bubble-tea-kiosk/research-unit.md",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-kl-bubble-tea-kiosk/kiosk-model.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-kl-bubble-tea-kiosk/index.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "slug": "india-senior-smartphone-under-15000",
+  "translationKey": "india-senior-smartphone-under-15000",
+  "sources": [
+    {
+      "title": "Samsung India — Galaxy M07 exact 4/64GB product, specs and update commitment",
+      "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m07-black-64gb-sm-m075fzkdins/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Flipkart — Galaxy M07 Black 4/64GB, seller CapitalSphere",
+      "url": "https://www.flipkart.com/samsung-galaxy-m07-black-64-gb/p/itm0b84fbcd25ac9?ov_redirect=true",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Motorola India — moto g37, SKU657 4/64GB Capri",
+      "url": "https://www.motorola.in/smartphones-moto-g37/p?skuId=657",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Motorola India — moto g37 power, SKU703 4/64GB Impenetrable",
+      "url": "https://www.motorola.in/smartphones-moto-g37-power/p?skuId=703",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Motorola India — moto g06 power, SKU586 4/64GB Tapestry",
+      "url": "https://www.motorola.in/smartphones-moto-g06-power/p?skuId=586",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tech Advisor / Adam Smith — Moto G06 Power review (UK unit)",
+      "url": "https://www.techadvisor.com/article/2957377/motorola-moto-g06-power-review.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Samsung — adjust font size and style",
+      "url": "https://www.samsung.com/us/support/answer/ANS10001360/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Samsung — interaction and dexterity controls",
+      "url": "https://www.samsung.com/us/support/answer/ANS10001944/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Samsung — using Easy Mode",
+      "url": "https://www.samsung.com/ae/support/mobile-devices/using-easy-mode-on-my-samsung-phone/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Samsung — language and input settings",
+      "url": "https://www.samsung.com/us/support/answer/ANS10001356/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Samsung — app notifications and notification history",
+      "url": "https://www.samsung.com/us/support/troubleshoot/TSG10001550/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Glance — disable/remove Glance on Samsung",
+      "url": "https://glance.com/help/using-glance/disable-or-remove-glance-in-samsung",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NPCI — Fraud Awareness",
+      "url": "https://www.npci.org.in/fraud-awareness",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Google — add/manage supervision on a child's account",
+      "url": "https://support.google.com/families/answer/7103338?hl=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TeamViewer — attended Android support",
+      "url": "https://www.teamviewer.com/en/global/support/knowledge-base/teamviewer-classic/mobile/android/remote-control-an-android-device-via-attended-access/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Google Pay India — beware of screen-sharing apps",
+      "url": "https://support.google.com/pay/india/answer/10768310?hl=en-IN",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Google Android Help — get help in an emergency",
+      "url": "https://support.google.com/android/answer/9319337?hl=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Android Open Source Project — emergency affordance / India",
+      "url": "https://source.android.com/docs/core/connect/emergency-affordance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Navi Mumbai Police — cyber-security guidance",
+      "url": "https://navimumbaipolice.gov.in/en/citizen/cyber-security",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Samsung authorised centre — Great Snipe Technologies, Tatabad, Coimbatore",
+      "url": "https://servicecenter.samsungdigitalservicecenter.com/authorised-samsung-service-center-great-snipe-technologies-mobile-phone-repair-shop-tatabad-coimbatore-237426/Home",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Samsung India — service-centre locator",
+      "url": "https://www.samsung.com/in/support/service-center/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "WhatsApp Android Help — make a video call",
+      "url": "https://faq.whatsapp.com/1862285217468140/?cms_platform=android",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Motorola India — official support entry",
+      "url": "https://en-in.support.motorola.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "National Cyber Crime Reporting Portal — reporting destination linked by retained police guidance",
+      "url": "https://cybercrime.gov.in/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "all_in_budget": {
+      "label": "Scenario cap including delivered phone, fees and needed accessories",
+      "value": 15000,
+      "unit": "INR_budget_cap",
+      "display": "₹15,000"
+    },
+    "m07_phone_plus_listed_fee": {
+      "label": "November 6, 2026 M07 price plus listed fee, not all-in delivered quote",
+      "value": 12109,
+      "unit": "INR_dated_phone_plus_fee",
+      "display": "₹12,109"
+    },
+    "m07_accessory_headroom": {
+      "label": "Budget remaining before unpriced accessories, shipping or other charges",
+      "value": 2891,
+      "unit": "INR_conditional_headroom",
+      "display": "₹2,891"
+    },
+    "m07_weight": {
+      "label": "Official bare handset weight, not measured here",
+      "value": 184,
+      "unit": "grams",
+      "display": "184 g"
+    },
+    "g37_backup_price": {
+      "label": "November 6, 2026 official SKU657 selling price before any extra charges",
+      "value": 14499,
+      "unit": "INR_dated_selling_price",
+      "display": "₹14,499"
+    },
+    "g37_power_price": {
+      "label": "November 6, 2026 official SKU703 4/64 GB selling price",
+      "value": 14999,
+      "unit": "INR_dated_selling_price",
+      "display": "₹14,999"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "sourceAccessMethod": "Only retained local HTML, source register, sanitized product JSON, public-page text, printable HTML/PDF text and original verification notes read. No external lookup, network, price refresh, handset test or benchmark rerun in this authoring task.",
+    "publicationDates": "Original external publication dates unknown unless explicitly recorded in retained material. Access dates are not publication dates. Article authoring date does not refresh research.",
+    "originalResearchAccessLimitations": "Retained sources.md says existing managed-browser fallback results for Flipkart/NPCI/ERSS were excluded. NPCI was independently reread in a fresh isolated Chrome context; direct unauthenticated HTTP supported purchase facts. WhatsApp direct fetch returned a JavaScript shell; its URL is a help destination, not verified shortcut evidence. ERSS retrieval failed. Raw captures for Samsung M07, the UK assessment, touch-control help, TeamViewer, Google Pay and the named Samsung repair centre are not separately retained in this folder; those claims rely on the fully read original article and source register.",
+    "printableGuideReadback": "Both guide.html and the complete one-page PDF text layer were read; no new visual or print certification is claimed. Original checks/verification.json records one-page A4 PDF verification and its hash."
+  },
+  "datePolicy": "Original source-specific access dates are 2026-11-06 as stated in sources.md and retained captures. The cybercrime portal is a reporting destination only; separate access date unknown. This English guide was authored on 2026-11-07 without refreshing any prices, stock, software, security policy, emergency guidance or service-centre status.",
+  "uncertainties": [
+    "No physical phone usability, Tamil reading/input, touch-control, Easy Mode, WhatsApp direct shortcut, actual firmware, screen, speaker or SOS implementation was tested. Generic help is not model-specific proof.",
+    "Samsung M07 security end is 2031-08-31, not six years from purchase. Actual patch and OS must be read on purchased handset; an Android 17 manual does not establish rollout.",
+    "moto g37 and g37 power model-specific OS-upgrade count and security duration unconfirmed. g06 power states zero OS upgrades plus two years security maintenance; exact end unknown, not necessarily two years from purchase.",
+    "All prices are 2026-11-06 displayed samples. M07 price plus listed fee excludes unpriced accessories and any other delivery/cart charges. Bank eligibility for advertised discount unconfirmed; delivery PIN code not supplied. Motorola availability flags are not delivery promises.",
+    "SKU703 g37 power is 4/64 GB despite generic 128 GB spec field; navigation may choose 8/128 GB at a higher price. Correct cart variant must be checked.",
+    "Brand HBM, stereo and battery-capacity specifications do not establish independently measured everyday brightness, louder speech or runtime. UK g06 power observations and box/audio differences must not be transferred to Indian SKU.",
+    "Exact current India preload/advertising mix, native simple modes and Tamil language lists unconfirmed. Tamil translation was not produced because its quality could not be independently verified; English only is not a claim that Tamil display is unavailable.",
+    "Adult ownership and consent retained; Family Link is not the proposed adult-help route. Attended QuickSupport controls, add-ons and account/licence requirements vary and were not tested. Screen sharing must end before banking/UPI or secret entry.",
+    "SOS shortcut must be read on exact handset. Generic five-press or India triple-press guidance is not handset proof. No live emergency test call; emergency contacts/location sharing require consent and relevant connectivity.",
+    "Samsung centre current operation, hours and exact M07 handling need confirmation. Motorola Coimbatore smartphone centre not verified; laptop-service address is not a substitute.",
+    "Original reports and source register are retained evidence, not fresh independently fetched copies of every external page. Specific missing raw captures and WhatsApp/ERSS retrieval limits are recorded in provenance.",
+    "No external research, network access, source-run edit, shared file edit, website-repository edit, build, publication, purchase or contact performed."
+  ],
+  "editingContract": "New English-only guide and shared schema-v2 record only. No zh or Tamil file; numeric/date/URL/table bilingual parity not applicable. Exact external citation registry coverage; original stage2 [local evidence retained privately] locator convention retained for parent rebasing. No ratings, stars, Review or AggregateRating markup. Parent handles inventory, rendering and full-package checks.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "English-reading Indian shoppers and family caregivers: a Bengaluru child buying and setting up a phone under ₹15,000 for a 70-year-old father in Coimbatore before Pongal in mid-January 2027.",
+  "localeReason": "English serves this specific Indian shopping and caregiver audience. Tamil would be relevant to the father, but no Tamil article or printable translation was produced because translation quality could not be independently verified. No distinct Chinese-speaking or other-language audience is established; only English is justified and delivered.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

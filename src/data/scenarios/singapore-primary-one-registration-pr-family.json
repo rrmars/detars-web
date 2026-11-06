@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 2,
+  "slug": "singapore-primary-one-registration-pr-family",
+  "translationKey": "singapore-primary-one-registration-pr-family",
+  "sources": [
+    {
+      "title": "MOE overview",
+      "url": "https://www.moe.gov.sg/primary/p1-registration",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOE's phase rules",
+      "url": "https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "registration instructions",
+      "url": "https://www.moe.gov.sg/primary/p1-registration/how-to-register",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "distance priority",
+      "url": "https://www.moe.gov.sg/primary/p1-registration/distance",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "how balloting works",
+      "url": "https://www.moe.gov.sg/primary/p1-registration/understand-balloting",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "September 10, 2026 announcement",
+      "url": "https://www.moe.gov.sg/news/press-releases/20260910-enhancing-the-primary-one-registration-framework-for-greater-access-and-inclusivity",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Annex A",
+      "url": "https://www.moe.gov.sg/media/newsroom/news/press/2026/b0d58e7a-5220-49b9-bc9c-a7f783a4f510.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "specified schools cap PR intake",
+      "url": "https://www.moe.gov.sg/primary/p1-registration/cap-on-pr-intake",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official OneMap school-distance service",
+      "url": "https://www.onemap.gov.sg/school",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "MOE's home-address rules",
+      "url": "https://www.moe.gov.sg/primary/p1-registration/home-address",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "moving and tenancy FAQs",
+      "url": "https://www.moe.gov.sg/faq?categoryid=E3E39C0FD0F04504A444B1F600CC8430",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "rolling history page",
+      "url": "https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bukit Timah Primary",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-timah-primary-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pei Hwa Presbyterian Primary",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=pei-hwa-presbyterian-primary-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Keming Primary",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=keming-primary-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bukit View Primary",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-primary-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Dazhong Primary",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dazhong-primary-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Princess Elizabeth Primary",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=princess-elizabeth-primary-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Methodist Girls' School (Primary)",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=methodist-girls-school-primary",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Raffles Girls' Primary",
+      "url": "https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=raffles-girls-primary-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "announced fee schedule",
+      "url": "https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CMPB's guidance",
+      "url": "https://www.cmpb.gov.sg/before-ns/overseas-pre-enlistees",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "ordinary_distance_residence_months": {
+      "label": "Minimum ordinary-address residence when admission uses distance priority, measured from exercise start",
+      "value": 30,
+      "unit": "months_conditional_minimum",
+      "display": "30"
+    },
+    "reserved_phase_two_c_places": {
+      "label": "Announced reserved places at most schools under the next framework; smaller-intake exceptions; not PR-reserved places",
+      "value": 60,
+      "unit": "places_most_schools",
+      "display": "60"
+    },
+    "two_track_school_count": {
+      "label": "Schools named in the announced two-track Phase 2C scheme",
+      "value": 12,
+      "unit": "schools_announced",
+      "display": "12"
+    },
+    "pr_monthly_fee_baseline": {
+      "label": "PR monthly primary school and miscellaneous fees at the retained baseline, not an entry-year quote",
+      "value": 343,
+      "unit": "SGD_per_month_2026_baseline",
+      "display": "S$343"
+    },
+    "pr_twelve_payment_baseline": {
+      "label": "Illustrative twelve payments at the PR baseline; not a confirmed future annual bill",
+      "value": 4116,
+      "unit": "SGD_illustrative_12_payments",
+      "display": "S$4,116"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06",
+      "2026-11-07"
+    ],
+    "sourceAccessMethod": "Retained HTML, source register, direct public-page text and decoded public JSON only. Local authoring performed no network requests or authenticated interactions.",
+    "originalResearchAccessLimitations": "Original source register discloses an early managed-browser fallback whose clean-session status could not be established. It was stopped; core findings were reread through unauthenticated HTTP. Later browser checks used an isolated temporary context. OneMap records sometimes included a token warning alongside populated public coordinate data; no credentials were supplied. These coordinates establish orientation estimates, not certified admission bands.",
+    "publicationDates": "Original artifact creation/publication dates and original model are unknown. Source page publication/update dates, where retained, are distinct from retrieval dates. No publication date for this guide is assigned."
+  },
+  "datePolicy": "Research was retained on November 6–7, 2026 Singapore time. Cited pages with source-specific retained retrieval records use November 7, 2026; Annex A and OneMap distance service have no independently established source-specific access day and are marked unknown. Localization is not a research refresh. Exact 2027 phase dates are not announced in the retained material; no earlier dates are relabelled. Expected cohort is an annual-rule inference, not a newly published calendar. Only 2025 school-level figures are verified; no current-year school table is implied.",
+  "uncertainties": [
+    "Exact 2027 phase dates, 2027 PR-cap list and phase-specific PR limits are unconfirmed. Do not carry previous dates or caps forward.",
+    "The expected January 2, 2021–January 1, 2022 cohort is inferred from the prior annual boundary. A January 1, 2021 birthday falls in the earlier cohort; confirm the actual birthday and exercise instructions.",
+    "All SC groups precede PR groups. Two-track Phase 2C changes distance priority, not citizenship priority. Reserved places are not PR-reserved places.",
+    "Only 2025 Phase 2C and Supplementary school figures were verified. 2024 and 2026 school counts and all school-level Phase 3 figures were not recovered. No ballot is not proof every applicant was admitted; totals are not PR availability or admission probability.",
+    "No verified six-to-eight-school suitable shortlist within about 2 km of one Beauty World address. Eight comparison rows include six co-ed schools across a wider area and two girls-only schools ineligible for the scenario son.",
+    "Orientation distances use a public MRT point and retained school coordinates, not a real condo or MOE-certified HSD. Bukit View old-campus distance is not applicable to its announced new campus for the 2027 exercise; new-campus distance remains unknown.",
+    "Distance-priority ordinary-address residence minimum begins at exercise start, not submission or school entry. Same-HSD moves can continue fulfilling it; beyond-category moves can trigger MOE-directed transfer. New two-track implementation and purchased-property routes need their own applicable instructions.",
+    "No newer primary fee schedule was confirmed. 2026 PR S$343/month and twelve-payment S$4,116 are dated baseline arithmetic, not 2028 charges. Meals, uniforms, books, transport and care are extra.",
+    "Authenticated declarations were not inspected. An extra PR-specific P1 NS or fee undertaking was not established, not proven absent. Parent-sponsored male PR NS obligations are separate; scenario sponsorship route is unknown.",
+    "No source refresh, school contact, application, publication, source-run edits or website-repository changes occurred in this authoring task."
+  ],
+  "editingContract": "Complete English and Simplified Chinese guides; same factual numeric/date/URL multiplicities and corresponding table structures. Only the two assigned Markdown files and shared semantic JSON are authored. Existing stage2-relative guide and source-note locators are retained for parent rebasing; no build or shared inventory edit. No ratings, stars or review markup.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "New Singapore PR families, especially Chinese-speaking parents, planning a son’s mainstream primary-school application around a genuine Beauty World-area home and wider alternatives.",
+    "zh": "新加坡新 PR 家庭，尤其是希望围绕美世界真实住址及更大范围备选学校，为儿子规划主流小学报名的中文家长。"
+  },
+  "localeReason": "English supports official-document navigation; Simplified Chinese directly serves the key audience of Chinese-speaking new PR families. Translation does not change the child’s PR status, birthday cohort, gender eligibility, citizenship priority or residence conditions.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-06",
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

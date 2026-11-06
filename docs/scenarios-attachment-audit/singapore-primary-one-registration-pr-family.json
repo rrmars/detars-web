@@ -1,0 +1,43 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "64912812eee481feefcdc847a5b231b85b9e97c3546b87ed72ef18be056faebc",
+  "sourceListLink": "../w7-singapore-p1-registration-pr-family/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b6b3a583a68c16405a080de2b0cb4c1fd01e9d5fa40a6bf493d240aa89333501",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-singapore-p1-registration-pr-family/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-singapore-p1-registration-pr-family/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "4ac190cc127cac4b623c40a30430d9f01195af52b6df3f2db351651e81f0c287",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-singapore-p1-registration-pr-family/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-singapore-p1-registration-pr-family/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

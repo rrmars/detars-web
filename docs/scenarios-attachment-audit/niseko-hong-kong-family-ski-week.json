@@ -1,0 +1,43 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "427e8fe8a00381182a6eedbcfc7da0e9b82964c520977fbb1c90618c9fd89a90",
+  "sourceListLink": "../w7-niseko-hk-family-ski-week/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "bb23ecfd2f1a9e2fd483ec8f2cb33eba73d14024ea73e66055ca1ba1065ce127",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-niseko-hk-family-ski-week/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-niseko-hk-family-ski-week/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "9501dc145e52638411a5f758ad50d56150955273aa3449541f8909d439bbf367",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-niseko-hk-family-ski-week/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-niseko-hk-family-ski-week/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

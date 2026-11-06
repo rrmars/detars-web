@@ -1,0 +1,28 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "debc4727cde5b4f067529c7900f7e4bfee160b8ce8dc05340a789c5275f2937b",
+  "sourceListLink": "../w7-india-senior-smartphone-under-15000/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "dccd4741046f07e7075344317d28a7919f358d20b16423be249410facc599ba2",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-india-senior-smartphone-under-15000/guide.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-india-senior-smartphone-under-15000/guide.pdf",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "92e3bd5c627160b56ba66c3f4eb4862fbed12a4406438ed3fdd086d0ef74bd6c",
+  "sourceListLink": "../w7-dubai-family-health-insurance/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "c0d2be326e4a23492f760d98159d00560fc6119ef9bb78abdd7a947e4461e74c",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-dubai-family-health-insurance/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-dubai-family-health-insurance/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

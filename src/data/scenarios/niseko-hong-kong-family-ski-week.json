@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 2,
+  "slug": "niseko-hong-kong-family-ski-week",
+  "translationKey": "niseko-hong-kong-family-ski-week",
+  "sources": [
+    {
+      "title": "EDB example calendar",
+      "url": "https://www.edb.gov.hk/attachment/en/curriculum-development/resource-support/guidelines-sch-calendar/Example_school%20calendar_2627_E.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "public-holiday list",
+      "url": "https://www.edb.gov.hk/attachment/en/curriculum-development/resource-support/guidelines-sch-calendar/General%20Holidays_2627_E.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cathay",
+      "url": "https://flights.cathaypacific.com/destinations/en_HK/flights-from-hong-kong-to-sapporo",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ANA",
+      "url": "https://www.ana.co.jp/plan-book/en-hk/flights-from-hong-kong-to-sapporo",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cathay’s equipment policy",
+      "url": "https://www.cathaypacific.com/cx/en_HK/baggage/sports-equipment.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HK Express",
+      "url": "https://www.hkexpress.com/en/plan-your-trip/baggage/special-baggage-and-sports-equipment",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Resort Liner coach",
+      "url": "https://www.access-n.jp/winter2026/en/skibus/detail/101chitose_rusutsu_niseko.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SkyExpress private",
+      "url": "https://www.skyexpress.jp/hokkaido-niseko-sapporo-transfers",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JR via Otaru to Kutchan",
+      "url": "https://ramatniseko.com/getting-here/train-guide/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Island PHUKET room",
+      "url": "https://islandniseko.com/pricing.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "four beds in two bunks",
+      "url": "https://islandniseko.com/room.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hakuunso Deluxe Family",
+      "url": "https://nisekohakuunso.com/charge/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Freeride Ski House",
+      "url": "https://www.freeridelodgeniseko.com/book",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kitchen confirmed",
+      "url": "https://www.freeridelodgeniseko.com/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aoyama whole chalet",
+      "url": "https://www.aoyamalodgeniseko.com/rates.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan terms",
+      "url": "https://www.aoyamalodgeniseko.com/terms-and-conditions.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Reise whole house",
+      "url": "https://reisehouse-niseko.com/service/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official guide",
+      "url": "https://reisehouse-niseko.com/guide/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cotton Farm loft",
+      "url": "https://www.cotton-farm.com/rooms.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Niseko Club four-bed ensuite",
+      "url": "https://aacnisekoclub.com/rooms-prices/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AYA two-bedroom Forest View",
+      "url": "https://d2zvpvpg8wrzfh.cloudfront.net/plans/Rates-Chart-April-27_26.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Niseko Town change",
+      "url": "https://www.town.niseko.lg.jp/resources/output/contents/file/release/11706/61613/press_accomTAX.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "English terms",
+      "url": "https://nisekohakuunso.com/en/clause/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japanese terms",
+      "url": "https://nisekohakuunso.com/clause/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AYA winter terms",
+      "url": "https://www.ayaniseko.com/terms-conditions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hirafu/Hanazono online pass",
+      "url": "https://en.grand-hirafu.jp/snow/tickets/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NBS English family private",
+      "url": "https://nbsjapan.com/niseko/lessons/private-lessons/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NBS children’s groups",
+      "url": "https://nbsjapan.com/niseko/lessons/kids-club/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NISS Hanazono groups",
+      "url": "https://hanazononiseko.com/en/winter/ski-school/group",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NBS rental tariff",
+      "url": "https://nbsjapan.com/niseko/rentals/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "terms",
+      "url": "https://nbsjapan.com/terms-conditions/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Blue Cross’s public description",
+      "url": "https://bluecross.com.hk/en/Travel-Smart/Application",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hanazono daytime tubing",
+      "url": "https://hanazononiseko.com/en/winter/activities/tube-park",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan MOFA guidance",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "saving_family_total": {
+      "label": "Conditional saving family total; unquoted flights and insurance",
+      "value": 66279,
+      "unit": "HKD_trip_model",
+      "display": "HK$66,279"
+    },
+    "strict_cut_family_total": {
+      "label": "Conditional strict-cut total, not bookability confirmation",
+      "value": 59849,
+      "unit": "HKD_trip_model",
+      "display": "HK$59,849"
+    },
+    "comfortable_family_total": {
+      "label": "Conditional comfortable family total; unquoted flights and insurance",
+      "value": 99940,
+      "unit": "HKD_trip_model",
+      "display": "HK$99,940"
+    },
+    "strict_cut_headroom": {
+      "label": "Conditional headroom below cap; fragile, not a guarantee",
+      "value": 151,
+      "unit": "HKD_headroom",
+      "display": "HK$151"
+    },
+    "saving_flight_ceiling": {
+      "label": "Full saving-plan all-in flight affordability ceiling, not fare found",
+      "value": 17721,
+      "unit": "HKD_airfare_ceiling",
+      "display": "HK$17,721"
+    },
+    "saving_final_rental_total": {
+      "label": "Three-day ski kit/helmets, five-day outerwear",
+      "value": 5160,
+      "unit": "HKD_rental_model",
+      "display": "HK$5,160"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "publicationDates": "Unknown except where expressly recorded in retained sources; access dates are not publication dates.",
+    "sourceAccessMethod": "Retained local HTML, source register, research narratives, budget JSON and raw public-source text only; no external research or network in this authoring task.",
+    "originalResearchAccessLimitations": "Initial EDB retrieval and some original search fallbacks used existing managed/research browser routes whose freshness was not established. These were disclosed and stopped; primary snapshots were rechecked by unauthenticated HTTP where possible. Clean final preview did not cure the earlier session departure."
+  },
+  "datePolicy": "Sources retain actual 2026-11-06 access dates from sources.md and raw capture headers. Authoring on 2026-11-07 is not a price, rule, insurance or availability refresh. Original model and unrecorded publication dates remain unknown.",
+  "uncertainties": [
+    "HK$60,000 feasibility cannot yet be confirmed. HK$66,279 saving, HK$59,849 strict cut and HK$99,940 comfortable are conditional cost models, not bookable offers.",
+    "Target-week four-person airfare and ordinary baggage bundle unquoted; later-February fare tiles do not establish taxes, bags, child pricing or four seats. No flight schedule confirmed.",
+    "JR child/family fare and February 2027 connections unverified; adult lodge reference is not multiplied into a family quote. JR excluded from model totals.",
+    "Current insurance premium and full cover/exclusions not verified. HK$1,200/HK$1,500 are allowances. Public skiing description is not complete policy interpretation.",
+    "Six-night available inventory and mixed-age NBS English private acceptance unconfirmed. Three of eight accommodation comparisons are historical 2025/26, not 2027 offers. Hanazono accommodation remains unpriced.",
+    "Island discount tax basis and exact taxable base/rounding unknown; full-tariff 3% provision conservative. Hakuunso advertised tax added once. Conflicting or overlapping cancellation boundaries retained.",
+    "Saving kit and helmets three days; outerwear five days through tubing/rest. Arrival/departure coat must be owned/borrowed. Strict cut provides fewer teaching hours, no guaranteed independent skiing.",
+    "FX and food/accessory/local-transport/insurance amounts are assumptions. Refundable deposits and FX/card fees may require extra cash. No shopping, alcohol, childcare or off-piste activity funded.",
+    "EDB example school calendar raw PDF/text was not present among the retained source-run files listed; the example dates are supported by the fully read retained HTML, sources.md and calendar-food-research.md, not a fresh PDF inspection. Actual school calendars still required.",
+    "MOFA passport guidance is retained from the fully read original HTML and transport source narrative; no raw MOFA capture available in this folder. Original director direct retrieval was blocked.",
+    "NBS rental, lesson, terms and H/H lift text read in full. Relevant NISS and tubing tariff/condition sections inspected directly. Blue Cross file searched for skiing clauses, not represented as a full policy read.",
+    "Earlier ski-research and initial independent-check amounts are superseded by sources.md final repair, budget.json and the independent final addendum; revised five-day clothing cost governs. No workbook supplied."
+  ],
+  "editingContract": "New en and Simplified zh complete readable guides plus shared schema-v2 data only. Matching numeric/date/URL multisets and corresponding table cells verified locally. No source-run/shared/build/website edits, external research, price refresh, publication, booking or contact. Parent performs integration and build.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Hong Kong family of two adults and children aged 7 and 11 considering a first Niseko ski week over Lunar New Year, preserving HKSAR-passport-specific entry conditions.",
+  "localeReason": "English and Simplified Chinese make this Hong Kong family decision accessible in the supported locales. Traditional Chinese would better suit the Hong Kong audience, but it is unsupported by this package; no Traditional Chinese version is claimed.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}
