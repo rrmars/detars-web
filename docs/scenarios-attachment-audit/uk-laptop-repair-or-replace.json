@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "da939148f41e038f5f9c58f235839507ba9bfc4f40348b3d675ee408609378de",
+  "sourceListLink": "../w6-uk-laptop-repair-or-replace/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "abc85cb8f595ed5ab9a720413ba1a4b6faf0c3a069f994b28b82e74563a0da01",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

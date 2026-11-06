@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "22a8f0c2662b5dedd3ce881c4324c0aba93386ae4a064aea7e02cdbbb132442d",
+  "sourceListLink": "../w6-barcelona-4days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "c8eff3031569bd8b8ed9ed9f1138cb5259d826ec66353f22a710c0935fbf0e69",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

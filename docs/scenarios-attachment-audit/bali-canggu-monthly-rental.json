@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "4dab20a20a119f9cff6ded6566181974604a301134d8e4b10764bea15d930b00",
+  "sourceListLink": "bali-canggu-monthly-rental-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/bali-canggu-monthly-rental/bali-comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "673bf0155f33a241da78b40e652d8728064f3eaeaeb5a5ee555c839bcee925c8",
+      "faqPairs": 3,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "5be2c82f7cd4217be26acc4065c6bf3769c255d74b0d39e4f59a62902349efc3",
+      "faqPairs": 3,
+      "links": []
+    }
+  }
+}

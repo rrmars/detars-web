@@ -1,0 +1,271 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "771b36190fbfa24ad429e182505a69250305c9dde51e3bbb961f9c9a188bd5cf",
+  "sourceListLink": "affordable-7-day-meal-plan-grocery-budget-chicago-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/affordable-7-day-meal-plan-grocery-budget-chicago/Chicago_7_day_meal_plan.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "d23dc8be6147b27f63f1253a2b25e7d1c5cc14e5f488b00465ec496456811364",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "affordable-7-day-meal-plan-grocery-budget-chicago-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_meal_plan.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/affordable-7-day-meal-plan-grocery-budget-chicago/Chicago_7_day_meal_plan.xlsx"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-L1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D4",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D4",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D5",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D5",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D6",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D6",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D7",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-B1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-B2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-S1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-S2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-S3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-L1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D4",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D5",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D6",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D7",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "c9ff4f2613dc033c56c6989df4f19aa5c7c12c9acf1f5bb46afe576af0584d99",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "affordable-7-day-meal-plan-grocery-budget-chicago-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_meal_plan.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/affordable-7-day-meal-plan-grocery-budget-chicago/Chicago_7_day_meal_plan.xlsx"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-L1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D4",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D4",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D5",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D5",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D6",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D6",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D7",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-B1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-B2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-S1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-S2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-S3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-L1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D1",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D2",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D3",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D4",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D5",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D6",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-meal-plan/Chicago_7_day_kitchen.html#r-D7",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

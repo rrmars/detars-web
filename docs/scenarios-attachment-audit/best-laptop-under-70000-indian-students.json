@@ -1,0 +1,55 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "4fd60b51efadc6c0c3ebfec4a0f4bce05cc806a490efec52115f0aa5ec4dc50d",
+  "sourceListLink": "best-laptop-under-70000-indian-students-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/best-laptop-under-70000-indian-students/laptop-comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "77ed146c7649baa9e3a1a068f0d9fee29f68dd4c574701485e6d0d3fdc3d8a8a",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "../w3-laptop-india/laptop-comparison.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-laptop-india/laptop-comparison.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/best-laptop-under-70000-indian-students/laptop-comparison.xlsx"
+        },
+        {
+          "target": "best-laptop-under-70000-indian-students-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "96511e1c6fa738bbe230a5044a895d71cba43a20603f05611a757e23a5c44f38",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "../w3-laptop-india/laptop-comparison.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-laptop-india/laptop-comparison.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/best-laptop-under-70000-indian-students/laptop-comparison.xlsx"
+        },
+        {
+          "target": "best-laptop-under-70000-indian-students-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

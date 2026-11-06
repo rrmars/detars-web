@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "fb93d44f50ece5d575b0d4d2c0bbbba2e9ea9fe920dd6b9a385f7a448d5d20f7",
+  "sourceListLink": "../w6-singapore-first-rent/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "eaf02c38cdab48a42a2779eefc46d147ec58c4c3b5ade859c474ec59d80611d8",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "3b62e8fa01142e30fcba04cef7d1f9d3fb70108620d409dd3674df82acb310d5",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

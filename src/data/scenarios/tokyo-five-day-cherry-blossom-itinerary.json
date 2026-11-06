@@ -1,0 +1,158 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two adults planning a late-March Tokyo blossom trip with flexible sightseeing days.",
+  "schemaVersion": 2,
+  "slug": "tokyo-five-day-cherry-blossom-itinerary",
+  "translationKey": "tokyo-five-day-cherry-blossom-itinerary",
+  "sources": [
+    {
+      "title": "Shinjuku Gyoen",
+      "url": "https://policies.env.go.jp/national-garden/shinjukugyoen/english/guide/information/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Tokyo National Museum",
+      "url": "https://www.tnm.jp/modules/r_free_page/?id=113&lang=en",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Nezu Museum",
+      "url": "https://www.nezu-muse.or.jp/en/visit/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Hasedera",
+      "url": "https://www.hasedera.jp/en/guide/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Kotoku-in Great Buddha",
+      "url": "https://www.kotoku-in.jp/en/index.php#guidance",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "announced calendar",
+      "url": "https://www.nezu-muse.or.jp/jp/exhibitions/schedule/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "the market's guidance",
+      "url": "https://www.tsukiji.or.jp/english/shopping/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "calendar",
+      "url": "https://www.tsukiji.or.jp/english/calendar/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Senso-ji's main hall",
+      "url": "https://www.senso-ji.jp/guide/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Meiji Jingu",
+      "url": "https://www.meijijingu.or.jp/en/visit/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Ueno's authority",
+      "url": "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/kouenannai",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Chidorigafuchi tourism guidance",
+      "url": "https://visit-chiyoda.tokyo/sakura/spot/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "¥200 Kamakura–Hase example",
+      "url": "https://www.enoden.co.jp/en/tourism/access/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JMA's 1991–2020 Tokyo normals",
+      "url": "https://www.jma-net.go.jp/tokyo/shosai/kanyoho/sakura/sakura.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JMC page",
+      "url": "https://n-kishou.com/corp/news-contents/sakura/?lang=en",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "real end-March 2027 question",
+      "url": "https://www.reddit.com/r/JapanTravelTips/comments/1uy1obv/5_full_days_in_japan/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "2026 ticket question",
+      "url": "https://www.reddit.com/r/JapanTravelTips/comments/1rbdtpy/shinjuku_gyoen_2026_tickets/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Kanto itinerary discussion",
+      "url": "https://www.reddit.com/r/JapanTravel/comments/1arcm1t/itinerary_check_10_days_kanto_for_cherry_blossom/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official rules",
+      "url": "https://www.reddit.com/r/JapanTravel/wiki/rules/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Section IX",
+      "url": "https://jref.com/help/rules/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "couple_sightseeing_budget": {
+      "label": "Couple sightseeing budget",
+      "value": 134500,
+      "currency": "JPY",
+      "unit": "five_days_for_two",
+      "display": "¥134,500"
+    },
+    "couple_budget_with_airport_allowance": {
+      "label": "Couple budget with airport allowance",
+      "value": 148500,
+      "currency": "JPY",
+      "unit": "five_days_for_two",
+      "display": "¥148,500"
+    },
+    "couple_flex_allowance": {
+      "label": "Couple flex allowance",
+      "value": 17300,
+      "currency": "JPY",
+      "unit": "five_days_for_two",
+      "display": "¥17,300"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "d201c9d9bdc8e65d29e7292e03e2796e6adbaf337acb83a7c4c903b6ebad0899",
+    "originalAuditSha256": "487c04697c78c9c68440d9d7cdaa289b4499ea9d65af8e683750c3e0d375c66c"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

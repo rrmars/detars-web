@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 2,
+  "slug": "germany-masters-budget-indian-student",
+  "translationKey": "germany-masters-budget-indian-student",
+  "sources": [
+    {
+      "title": "uni-assist",
+      "url": "https://www.uni-assist.de/en/how-to-apply/pay-all-fees/handling-fees/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DAAD's scholarship database",
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "application page",
+      "url": "https://mb.tu-dortmund.de/en/study/study-programs/msc-manufacturing-technology/application/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "requirements FAQ",
+      "url": "https://mb.tu-dortmund.de/en/study/study-programs/msc-manufacturing-technology/application/faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "contribution notice",
+      "url": "https://www.tu-dortmund.de/storages/tu_website/Dezernat_4/Dez._4.2/Vordrucke/Im_Studium/WiSe26Merkblatt.englisch.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "programme and direct route",
+      "url": "https://tu-freiberg.de/en/study/master-computational-materials-science",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tuition FAQ",
+      "url": "https://cms-tubaf.de/CMS/international-master-in-computational-materials-science/faq.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "contribution",
+      "url": "https://tu-freiberg.de/en/study/study/study-organization/semester-fees-and-re-registration-studies",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "programme criteria",
+      "url": "https://www.ovgu.de/en/Study/Study+Programmes/Master/Chemical+and+Energy+Engineering.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "finance page",
+      "url": "https://ovgu.de/fmb2/en/FAQ/Organizing+your+studies+in+Germany/Finances.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "English framework",
+      "url": "https://www.ovgu.de/unimagdeburg_media/International/Incoming+_+Wege+aus+dem+Ausland/Studium+mit+Abschluss/OVGU+Referenzrahmen+Sprachnachweise+2026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "programme page",
+      "url": "https://www.uni-bremen.de/en/faculty-04-production-engineering-mechanical-engineering-and-process-engineering/studies-teaching/study-programs/msc-space-engineering",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "binding admission regulation",
+      "url": "https://www.uni-bremen.de/fileadmin/studydata/DBS/Dokumente/Ordnungen/Zulassungsordnungen/AO-MSc_SpaceEngin-06-24.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "contribution page",
+      "url": "https://www.uni-bremen.de/studium/starten-studieren/formalitaeten/rueckmeldung-und-semesterbeitrag",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "admission page",
+      "url": "https://www.commas.uni-stuttgart.de/admission/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "non-EU tuition and exemptions",
+      "url": "https://www.student.uni-stuttgart.de/en/organizing-studies/formalities/tuition-and-fees/tuition-fee/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "APS graduate checklist",
+      "url": "https://aps-india.de/wp-content/uploads/2026/11/Leaflet_BA-Graduates_English-1.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "APS FAQ",
+      "url": "https://aps-india.de/faqs/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "dMAT notice",
+      "url": "https://aps-india.de/dmat/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "anabin",
+      "url": "https://anabin.kmk.org/db/institutionen",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "German Missions in India study guidance",
+      "url": "https://india.diplo.de/in-en/service/2756350-2756350",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Expatrio",
+      "url": "https://www.expatrio.com/blocked-account",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Fintiba's tariff notice",
+      "url": "https://www.fintiba.com/news/more-value-for-you",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dorm 7",
+      "url": "https://www.studentenwerk-magdeburg.de/en/accommodation/dormitories-at-a-glance/dormitories-in-magdeburg/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Emil-Figge-Straße 15–39",
+      "url": "https://www.stwdo.de/wohnen/wohnanlagen/emil-figge-stra%C3%9Fe-15-39-dortmund",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "selected single apartments",
+      "url": "https://www.studentenwerk-freiberg.de/wohnen/in-freiberg-wohnen/wohnformen-fg/einzelapartment-fg/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Vorstraße",
+      "url": "https://www.stw-bremen.de/de/wohnen/wohnanlagen-bremen/vorstrasse/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "university private shared-flat estimate",
+      "url": "https://www.uni-stuttgart.de/en/study/new-in-stuttgart/finances/international/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TK table",
+      "url": "https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "full_degree_funding_envelope": {
+      "label": "Estimated tuition-free full-degree funding envelope including deposit and reserve at assumed INR110/EUR",
+      "value": 35.09,
+      "unit": "lakh_full_degree_funding_estimate",
+      "currency": "INR",
+      "display": "₹35.09 lakh"
+    },
+    "family_total_support": {
+      "label": "Family total support, not annual support",
+      "value": 15,
+      "unit": "lakh_total_family_support",
+      "currency": "INR",
+      "display": "₹15 lakh"
+    },
+    "planning_exchange_rate": {
+      "label": "Planning exchange assumption, not live quote",
+      "value": 110,
+      "unit": "INR_per_EUR",
+      "currency": "INR",
+      "display": "₹110"
+    },
+    "first_year_blocked_principal": {
+      "label": "Dated first-year blocked principal; living money not extra fee; recheck for application",
+      "value": 11904,
+      "unit": "first_year_blocked_principal",
+      "currency": "EUR",
+      "display": "€11,904"
+    },
+    "dmat_test_fee": {
+      "label": "Dated dMAT fee if applicant is not exempt; separate from APS",
+      "value": 150,
+      "unit": "test_fee",
+      "currency": "EUR",
+      "display": "€150"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All cited URLs retain the original source register access date 2026-11-06 (Asia/Singapore); some source-session timestamps were 2026-11-05 UTC. No external source refresh was performed for this local draft. Future intake announcements, recurring-rule projections and personal planning targets are distinguished in prose.",
+  "uncertainties": [
+    "Applicant awarding university, German-grade conversion, module equivalence, IELTS date/type/components, age and prior APS status remain unknown or unverified.",
+    "dMAT transitional exemption, test seats, registration closure, result-release dates and APS completion before early university deadlines require applicant-specific confirmation; no fixed APS processing time or late-document acceptance is promised.",
+    "Only Stuttgart application window is explicitly dated for winter 2027/28; Dortmund, Freiberg, OVGU and Bremen dates are recurring-rule projections.",
+    "Winter 2027/28 contributions, visa funding amount, provider tariffs, insurance premiums and housing availability are not confirmed. Published rents are named examples rather than vacancies or market averages.",
+    "Budgets, exchange rate, contingency, extension/admin allowance, pre-travel liquidity and work earnings scenario are estimates. No job, scholarship, loan, exemption or admission is assumed approved.",
+    "Bremen faculty admission paragraph conflicts with its programme name; the original plan uses the binding Space Engineering regulation. Visa language evidence must be checked separately from programme requirements."
+  ],
+  "editingContract": "Reader-first English and Simplified Chinese; numeric/date/external-URL multiplicity and corresponding table-cell parity. Local draft only, no Review/stars or public promises of unhosted attachments.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Indian BTech Mechanical graduate in Pune with 7.8 CGPA, IELTS 7.0 and about INR15 lakh family support, targeting October 2027; Simplified Chinese helps students compare routes without changing the Indian applicant profile.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

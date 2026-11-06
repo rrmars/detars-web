@@ -1,0 +1,15 @@
+---
+import Base from "@/layouts/Base.astro";
+import ScenarioReport from "@/components/ScenarioReport.astro";
+import { getScenarioLocales, scenarioJsonLd, scenarioSlug, type Scenario } from "@/lib/scenarios";
+
+type Props = { entry: Scenario };
+const { entry } = Astro.props;
+const availableLocales = await getScenarioLocales(entry);
+---
+
+<Base locale={entry.data.locale} route={`/scenarios/${scenarioSlug(entry)}`} title={`${entry.data.title} | DeTars`}
+  description={entry.data.description} jsonLd={scenarioJsonLd(entry)} ogType="article"
+  alternateLocales={availableLocales} languageLocales={availableLocales}>
+  <ScenarioReport entry={entry} />
+</Base>

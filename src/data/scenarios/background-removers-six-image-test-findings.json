@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "slug": "background-removers-six-image-test-findings",
+  "translationKey": "background-removers-six-image-test-findings",
+  "sources": [
+    {
+      "title": "remove.bg upload and dated closure notice",
+      "url": "https://www.remove.bg/upload",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Adobe Express background remover",
+      "url": "https://www.adobe.com/express/feature/image/remove-background",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Canva background remover",
+      "url": "https://www.canva.com/features/background-remover/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Photoroom background remover",
+      "url": "https://www.photoroom.com/tools/background-remover",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Clipdrop remove background",
+      "url": "https://clipdrop.co/remove-background",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pixlr background remover",
+      "url": "https://pixlr.com/remove-background/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "rembg repository",
+      "url": "https://github.com/danielgatis/rembg",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "remove.bg commercial-use help",
+      "url": "https://www.remove.bg/no/help/a/can-i-use-remove-bg-for-commercial-purposes",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "shared_input_count": {
+      "label": "Identical inputs shared across eligible test flows",
+      "value": 6,
+      "unit": "images",
+      "display": "6"
+    },
+    "pixlr_scoped_total": {
+      "label": "Pixlr subjective total including export practicality, this input set only",
+      "value": 15,
+      "unit": "points_out_of_25",
+      "display": "15 / 25"
+    },
+    "rembg_u2netp_scoped_total": {
+      "label": "Selected lightweight local model total including export practicality, not a default-model benchmark",
+      "value": 12,
+      "unit": "points_out_of_25",
+      "display": "12 / 25"
+    },
+    "empty_transparent_export_count": {
+      "label": "Downloaded remove.bg PNGs with absent subject and alpha min=max=0",
+      "value": 3,
+      "unit": "empty_png_exports",
+      "display": "3"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Source-specific dates are original-run access or attempt dates, not new successful localization fetches. remove.bg closure/policy statements remain dated original observations; later preview-help fetch failure is retained in the linked ledger.",
+  "uncertainties": [
+    "Subjective assessment of six inputs only; no ground truth or general product ranking. Total includes an operational export category, not just image quality.",
+    "Only Pixlr and rembg completed the full set. Canva partial mug is unscored; Clipdrop required login. Adobe access blocked and Photoroom stalled/interrupted: quality and wider export limits unknown, not zero.",
+    "remove.bg produced three actual empty transparent PNGs, one visible portrait cutout, then CAPTCHA; incomplete categories have no total.",
+    "u2netp is the selected lightweight removal model, not evidence of the original authoring model or rembg default-model performance.",
+    "Five stock CC0 statements are attributed to PxHere; upstream rights/model release are unaudited. Sneaker is a procedural illustration, bicycle is small, and bottle scene contains overlapping objects.",
+    "Web recoveries and timing waits differ from one-pass local inference. No speed ranking or service-wide pixel/daily maximum is established.",
+    "Free/no-account remove.bg commercial-use restriction and announced closure are dated source observations; free download is not seller-use authorization."
+  ],
+  "editingContract": "Readable corresponding English and Simplified Chinese lines and table cells retain identical complete numeric, currency, date and URL literals. Local drafts only; no stars or review markup.",
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English for sellers evaluating background-removal workflows; Simplified Chinese for Chinese-speaking sellers who need the same practical export and quality limitations.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

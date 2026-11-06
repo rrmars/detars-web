@@ -1,0 +1,100 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Students comparing guest-access research tools for a university literature assignment.",
+  "schemaVersion": 2,
+  "slug": "free-ai-tools-student-research-hands-on-review",
+  "translationKey": "free-ai-tools-student-research-hands-on-review",
+  "sources": [
+    {
+      "title": "OpenAI’s own help page",
+      "url": "https://help.openai.com/en/articles/9125172-the-chatgpt-home-page",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ACM’s DOI deposit",
+      "url": "https://api.crossref.org/works/10.1145/3613905.3651018",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "publisher-deposited record",
+      "url": "https://api.crossref.org/works/10.1080/0144929X.2022.2151512",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "publisher PDF",
+      "url": "https://ijsr.internationaljournallabs.com/index.php/ijsr/article/download/2859/1636",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "the original results",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1383913/full",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Xie",
+      "url": "https://doi.org/10.3389/fpsyg.2023.1298361",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Nugrahanto",
+      "url": "https://journal.untar.ac.id/index.php/ijassh/article/download/29006/17293",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "real r/PhD question",
+      "url": "https://www.reddit.com/r/PhD/comments/1qdpgwf/what_is_the_best_ai_tool_for_research/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "master’s-thesis discussion",
+      "url": "https://www.reddit.com/r/PhdProductivity/comments/1xexlty/anyone_else_frustrated_with_the_current_ai_tools/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "chatgpt_guest_observed_answer_wall_time": {
+      "label": "Chatgpt guest observed answer wall time",
+      "value": 171.859,
+      "unit": "seconds",
+      "display": "171.859"
+    },
+    "semantic_scholar_observed_search_to_expanded_results": {
+      "label": "Semantic scholar observed search to expanded results",
+      "value": 40.56,
+      "unit": "seconds",
+      "display": "40.560"
+    },
+    "google_scholar_http_retrieval_time": {
+      "label": "Google scholar http retrieval time",
+      "value": 1.702,
+      "unit": "seconds",
+      "display": "1.702"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "8849e49d59a81b85bcdc554e988357885aa7f6e9021449b8c32ced2c25d95984",
+    "originalAuditSha256": "ba6fde86f7669672add4f1c847cc028fca8425ce0c9d1f0716fc94655ab3b6eb"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

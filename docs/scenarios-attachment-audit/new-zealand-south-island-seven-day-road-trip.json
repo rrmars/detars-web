@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "71e616a8fde0905884ceed6545d7bf256f878d4a52aab64b88e69480f51e9fa0",
+  "sourceListLink": "../w6-nz-south-island-7days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "76118ca3dbae23c1189d3698afc8f8c9bcf24a9f5361557d439a50a8f471b9ee",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "c3b0d57213150f9a8ba16b2d018d13a74eb1c8ba159be33f461aaec8e0d1b550",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

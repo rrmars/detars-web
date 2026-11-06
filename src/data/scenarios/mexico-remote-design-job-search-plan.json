@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 2,
+  "slug": "mexico-remote-design-job-search-plan",
+  "translationKey": "mexico-remote-design-job-search-plan",
+  "sources": [
+    {
+      "title": "HireTalent.lat — Product Designer Salary in Latin America",
+      "url": "https://hiretalent.lat/salaries/product-designer",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "HiresLink — LATAM Talent Intelligence Report",
+      "url": "https://www.hireslink.com/resources/latam-talent-intelligence-2026",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Revelo — Product Designer Salary in Latin America (2026)",
+      "url": "https://www.revelo.com/salaries/product-designer-salary",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Helpware (US; legal-AI client unnamed) — Product Designer",
+      "url": "https://helpware-inc.breezy.hr/p/9133db18da2c-product-designer",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BXGI / unnamed American digital-marketing client — Product Designer",
+      "url": "https://bxgi.com/job_09",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BXGI / unnamed American digital-marketing client — Senior Product Designer",
+      "url": "https://bxgi.com/job_10",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Flylance / unnamed US health-benefits technology client — Senior Product Designer (UX/UI, Design Systems, Accessibility)",
+      "url": "https://careers.flylance.com/jobs/721704-senior-product-designer-ux-ui-design-systems-accessibility",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "doola / Distributed, Inc. (US legal-business connection) — Product Designer",
+      "url": "https://jobs.lever.co/doola/64cf6f36-b623-4b18-aa98-8fc6cdcbea62",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Wikimedia Foundation (US nonprofit) — Senior UX Designer",
+      "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8319366",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RevenueCat, Inc. (US) — Senior CRO Designer, Paywalls and Funnels",
+      "url": "https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "EPAM Systems, Inc. (US) — UX Designer",
+      "url": "https://careers.epam.com/en/vacancy/ux-designer-bltuexlhrwuwq8kv0uc_en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BairesDev LLC (California-headquartered; Argentine founding) — UX Designer | Remote Work | Latin America",
+      "url": "https://applicants.bairesdev.com/job/66/296889/apply?lang=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BairesDev LLC (California-headquartered; Argentine founding) — UI Designer | Remote Work | Latin America",
+      "url": "https://applicants.bairesdev.com/job/66/296890/apply?lang=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Remote — Mexico country explorer",
+      "url": "https://remote.com/en-gb/country-explorer/mexico",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Remote — Employer of Record",
+      "url": "https://remote.com/global-hr/employer-of-record",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Arc — Talent / remote jobs for designers",
+      "url": "https://arc.dev/talent",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "PROFEDET — Conoce tus derechos laborales",
+      "url": "https://www.gob.mx/profedet/articulos/conoce-tus-derechos-laborales-23554",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "STPS — Entra en vigor reforma que regula el teletrabajo en México",
+      "url": "https://www.gob.mx/stps/prensa/entra-en-vigor-reforma-que-regula-el-teletrabajo-en-mexico",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Secretaría de Economía — NOM-037-STPS-2023 register",
+      "url": "https://platiica.economia.gob.mx/normalizacion/nom-037-stps-2023/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — LISR article 113-E",
+      "url": "https://wwwmatnp.sat.gob.mx/articulo/58780/articulo-113-e",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — Requisitos y obligaciones para personas físicas que busquen permanecer en el RESICO",
+      "url": "https://www.gob.mx/sat/prensa/requisitos-y-obligaciones-para-personas-fisicas-que-busquen-permanecer-en-el-resico-003-2024",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — Resolución Miscelánea Fiscal 2026",
+      "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/rmf/RMF_2026-DOF-28122025.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — Declaración Anual 2025 Personas: Quiénes deben presentarla",
+      "url": "https://wwwnp.sat.gob.mx/minisitio/DeclaracionAnual/Personas/quienes_deben_presentarla.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — LISR article 113-G",
+      "url": "https://wwwmat.sat.gob.mx/articulo/58979/articulo-113-g",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — business/professional monthly declaration service, 2025 onward",
+      "url": "https://wwwmat.sat.gob.mx/declaracion/33006/presenta-tu-declaracion-de-actividades-empresariales-y-servicios-profesionales%2C-arrendamiento-e-iva%2C-personas-fisicas-de-2025-en-adelante-%28simulador%29",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — LIVA article 29",
+      "url": "https://wwwmat.sat.gob.mx/articulo/80321/articulo-29",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT — Reglamento de la Ley del IVA, artículo 58",
+      "url": "https://wwwmat.sat.gob.mx/articulo/87895/articulo-58",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "hiretalent_modeled_mid_annual": {
+      "label": "Commercial modeled LatAm mid-level remote-for-US pay, not accepted offers or Mexico-specific distribution",
+      "value": 33000,
+      "unit": "gross_per_year",
+      "display": "USD 33,000",
+      "currency": "USD"
+    },
+    "hireslink_mid_monthly_baseline": {
+      "label": "Product Designer gross monthly worker pay in default Argentina-baseline explorer, not Mexico average",
+      "value": 3600,
+      "unit": "gross_per_month",
+      "display": "USD 3,600",
+      "currency": "USD"
+    },
+    "revelo_mid_annual_median": {
+      "label": "Commercial signed-placement LatAm designer median, AOR contractor context",
+      "value": 54000,
+      "unit": "gross_per_year",
+      "display": "USD 54,000",
+      "currency": "USD"
+    },
+    "illustrative_contractor_uplift": {
+      "label": "Planning comparison uplift over employee ask, not measured contractor premium",
+      "value": 20,
+      "unit": "percent",
+      "display": "20%"
+    },
+    "sprint_tailored_applications": {
+      "label": "Proposed sprint application target, not submissions made",
+      "value": 76,
+      "unit": "tailored_applications",
+      "display": "76"
+    },
+    "sprint_new_messages": {
+      "label": "Planned new conversations across the twelve-week schedule, excluding follow-ups; no outreach sent",
+      "value": 95,
+      "unit": "new_messages",
+      "display": "95"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "editNotes": [
+      {
+        "change": "Owner-approved outreach total correction",
+        "from": 105,
+        "to": 95,
+        "basis": "The twelve weekly rows are the source of truth and sum to 95 new messages. Removed the obsolete 10-unallocated contradiction from reader-facing copy; weekly targets remain unchanged.",
+        "baseline": "i18n-v1-backup-20261105"
+      },
+      {
+        "change": "Owner-approved voice rewrite",
+        "details": "Friendly worry-to-answer English and Simplified Chinese; natural Chinese dates; removed internal-file prose links and production/research process prose; preserved external URLs, source records, access dates, researchDates and sourceArtifact hashes. Added bracketed DeTars planning request and provenance rendering marker."
+      }
+    ]
+  },
+  "datePolicy": "All cited external URLs have original access date 2026-11-05 explicitly supported by inspected sources.md and the job/source records. This is not a fresh access or availability claim. Publication/data periods are kept separately; undated pages do not inherit an invented publication date. Future 2027 rules and April vacancy availability are unknown.",
+  "uncertainties": [
+    "Information only, not tax or legal advice. Mexican residence/work permission, regime eligibility, other income/equity, portfolio quality, domain skills, current pay and notice are not personally assessed.",
+    "Ten dated advertised pages are not ten employers or confirmed funded seats. BXGI levels may share headcount. doola Mexico eligibility is conditional; LATAM/Americas rules do not confirm local contractual arrangements. Recheck every vacancy.",
+    "Wikimedia US-only US$116,633–181,243 is not Mexico pay. RevenueCat $205K header leaves currency, period and Mexico treatment unresolved. Undisclosed pay is not evidence of the negotiation estimate. Senior and specialist requirements remain substantive.",
+    "Commercial salary methods differ; HireTalent is modeled, HiresLink defaults to Argentina, Revelo is AOR contracting. No design-specific sample counts or separately validated EU-to-Mexico pay distribution. Employer fees and all-in costs are not worker compensation.",
+    "Opening ask, contractor uplift, FX stress, channel allocation, time budget, applications/messages, funnel and decision dates are planning judgments, not survey results, submissions made or a hiring promise. No FX conversion or personalised take-home computation.",
+    "Retained tax findings are dated, not fresh advice. Historical SAT annual-filing checklist is qualified by RMF 2026 RESICO-only relief and transition. Other categories and IVA require separate review; export zero rate is not automatic. Original amendment review was targeted, statutory consolidated PDFs timed out, and no detailed bracket/personal calculation was completed."
+  ],
+  "editingContract": "Readable bilingual local drafts only, with matching full literals on corresponding lines and table cells. Preserve stage2-root relative evidence links. No stars, review markup, website integration or publishing.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English serves Mexico-based applicants seeking global teams; Simplified Chinese serves Chinese-speaking readers based in Mexico. No additional language is needed without a regional audience requirement.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

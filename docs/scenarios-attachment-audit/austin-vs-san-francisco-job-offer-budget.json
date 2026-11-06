@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "10063f329d5a5a4b9b833af7bbff5a28bf6f742292a6ddc2f0470af0a3021934",
+  "sourceListLink": "../w5-offer-austin-sf/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/austin-vs-san-francisco-job-offer-budget/offer-compare.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8e270989aae89adf1ec10fefd3be49b358e484faf25907227fa2ac9a0be9d74e",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "ee4b6c2060015be2b491eea7a403cad2193b2c01f872142d10de0ae451227562",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

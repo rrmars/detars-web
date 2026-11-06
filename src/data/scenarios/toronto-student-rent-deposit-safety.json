@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 2,
+  "slug": "toronto-student-rent-deposit-safety",
+  "translationKey": "toronto-student-rent-deposit-safety",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Nigerian student arriving in September 2027 for an unspecified George Brown diploma programme, with an approximate CAD 1,300 rent ceiling; English-only, preserving the Nigerian profile rather than inventing a Chinese-reader need.",
+  "sources": [
+    {
+      "title": "Ontario Residential Tenancies Act, especially section 5 and sections 105–106",
+      "url": "https://www.ontario.ca/laws/statute/06r17",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "LTB tenancy and roommate guidance",
+      "url": "https://tribunalsontario.ca/ltb/application-and-hearing-process/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ontario Standard Lease guide",
+      "url": "https://www.ontario.ca/page/guide-ontarios-standard-lease",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "LTB Guide to the Residential Tenancies Act",
+      "url": "https://tribunalsontario.ca/documents/ltb/Brochures/Guide%20to%20RTA%20%28English%29.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ontario Regulation 516/06, section 17 key deposits",
+      "url": "https://www.ontario.ca/laws/regulation/060516",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Human Rights Legal Support Centre: housing",
+      "url": "https://hrlsc.on.ca/faq/housing/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ontario Human Rights Commission: rental screening and discrimination",
+      "url": "https://www.ohrc.on.ca/en/policy-human-rights-and-rental-housing/v-identifying-discrimination-rental-housing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "University of Toronto: housing scams",
+      "url": "https://www.studentlife.utoronto.ca/task/housing-scams-and-how-to-spot-them/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "University of Toronto Community Safety: rental and landlord scams",
+      "url": "https://www.communitysafety.utoronto.ca/fraud-prevention/types-of-frauds-and-scams/rental-and-landlord-scams/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Toronto Police fraud guidance",
+      "url": "https://www.tps.ca/fraud/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "George Brown housing options and support",
+      "url": "https://www.georgebrown.ca/current-students/services/housing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "George Brown campuses and locations",
+      "url": "https://www.georgebrown.ca/about/campuses-locations",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TTC campus directions",
+      "url": "https://www.ttc.ca/en/riding-the-ttc/Explore-Toronto",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TTC trip planner: retained planning-tool locator, no timed itinerary measured",
+      "url": "https://www.ttc.ca/trip-planner",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "The George 2026–27 rates and payment options",
+      "url": "https://www.georgebrown.ca/current-students/services/residence/residence-life/rates-payment-options",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "The George residence FAQ",
+      "url": "https://www.georgebrown.ca/current-students/services/residence/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Residence documents index; agreement/cancellation download unsuccessful",
+      "url": "https://www.georgebrown.ca/current-students/services/residence/documents",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Parkside shared room price and mandatory meal-plan caveat",
+      "url": "https://live-parkside.ca/floorplans/1-bed-1-bath-shared",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HOEM weekly lead-in rate",
+      "url": "https://www.hoem.ca/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HOEM terms and inclusions",
+      "url": "https://www.hoem.ca/faqs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Toronto multi-tenant-house licensing and renter support",
+      "url": "https://www.toronto.ca/community-people/housing-shelter/rental-housing-rights-information/multi-tenant-rooming-houses/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 1: 250 Markham Street",
+      "url": "https://dibz.ca/listing/C14122860",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 2: Parliament Street, Cabbagetown",
+      "url": "https://www.roomies.ca/rooms/1089929",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 3: 140 Morse Street room 4",
+      "url": "https://dibz.ca/listing/E14143362",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 4: 366 Lippincott Street 1D",
+      "url": "https://dibz.ca/listing/C14141902",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 5: Bloor/Dufferin Iris's room",
+      "url": "https://www.roomies.ca/rooms/1095324",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 6: 118 Shuter main floor",
+      "url": "https://dibz.ca/listing/C14148300",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 7: 118 Shuter second floor; same property as listing 6",
+      "url": "https://dibz.ca/listing/C14148196",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 8: 28 Freeland Street 1701Room",
+      "url": "https://dibz.ca/listing/C14150906",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 9: 625 Bathurst Street",
+      "url": "https://dibz.ca/listing/C14100300",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 10: 508 Concord whole basement",
+      "url": "https://dibz.ca/listing/W14113362",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 11: 10 Park Home Avenue",
+      "url": "https://canadakeys.ca/key/a-room-for-rent-244542616",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 12: Bloor West shared bedroom",
+      "url": "https://www.roomies.ca/rooms/540245",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing 13: 500 Duplex shared dorm bed",
+      "url": "https://www.roomies.ca/rooms/815446",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Also inspected, not selected: 1259 Davenport Road",
+      "url": "https://dibz.ca/listing/W14135128",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Also inspected, not selected: 901 Concord Avenue",
+      "url": "https://dibz.ca/listing/W14137362",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "University of Toronto 2026 living-cost estimates",
+      "url": "https://www.studentlife.utoronto.ca/task/living-costs-in-toronto/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TTC fares and passes",
+      "url": "https://www.ttc.ca/Fares-and-passes",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TTC post-secondary photo ID and eligibility",
+      "url": "https://www.ttc.ca/Fares-and-passes/Fares-types-and-discounts/TTC-Post-Secondary-Photo-ID-Card",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TTC monthly fare capping",
+      "url": "https://www.ttc.ca/riding-the-ttc/Updates/TTC-monthly-fare-capping",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TTC May 5, 2026 fare-capping announcement",
+      "url": "https://www.ttc.ca/news/2026/May/Fare-capping-coming-to-the-TTC-in-September",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "City-hosted TTC 2026 budget presentation, slide 31",
+      "url": "https://www.toronto.ca/legdocs/mmis/2026/bu/bgrd/backgroundfile-261647.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ontario residential rent increases",
+      "url": "https://www.ontario.ca/page/residential-rent-increases",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "rent_ceiling": {
+      "label": "Approximate monthly rent ceiling, not the total cost of living",
+      "value": 1300,
+      "currency": "CAD",
+      "unit": "per_month_rent_ceiling",
+      "display": "CAD 1,300"
+    },
+    "target_rent": {
+      "label": "Illustrative room rent used in the monthly budget, not an offer",
+      "value": 1100,
+      "currency": "CAD",
+      "unit": "per_month_estimate",
+      "display": "CAD 1,100"
+    },
+    "target_living_total": {
+      "label": "Estimated monthly living total including dated official TTC student pass",
+      "value": 2003.15,
+      "currency": "CAD",
+      "unit": "per_month_estimate",
+      "display": "CAD 2,003.15"
+    },
+    "ceiling_living_total": {
+      "label": "Estimated monthly living total at rent ceiling, excluding education and arrival costs",
+      "value": 2203.15,
+      "currency": "CAD",
+      "unit": "per_month_estimate",
+      "display": "CAD 2,203.15"
+    },
+    "first_last_rent": {
+      "label": "First and last month at target rent; not an additional damage/security deposit",
+      "value": 2200,
+      "currency": "CAD",
+      "unit": "initial_rent_payment",
+      "display": "CAD 2,200"
+    },
+    "student_pass": {
+      "label": "Official post-secondary monthly pass seen November 6, 2026; eligibility and 2027 price need recheck",
+      "value": 128.15,
+      "currency": "CAD",
+      "unit": "dated_monthly_pass",
+      "display": "CAD 128.15"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains original November 6, 2026 task-date/access labels. Requests occurred November 5, 2026 UTC and Toronto time in the same session, not a later refresh. Trip-planner and two unselected-listing locators have no explicit source-specific access date and remain unknown. Editing is not a fresh legal, fare, price, vacancy or listing check; no publication date invented.",
+  "uncertainties": [
+    "Not legal advice. RTA and human-rights coverage depend on the actual owner/family sharing, resident-tenant/roommate and residence agreement. Voluntary advance-rent case law was not verified. Reader must recheck rules and seek student legal help before paying.",
+    "Exact programme/campus, age and gender are unspecified. Nigerian profile is unchanged. All 13 ads are dated examples, not inventory or September 2027 availability. No landlord contact, identity/ownership authentication, property inspection or licence verification occurred.",
+    "Missing utilities, lease terms and move-in dates remain unknown. Advertised gender restrictions are not endorsed or assessed for legality. Shuter ads are separate floors at one property; final two ads are shared bedrooms/dorm beds, not private rooms.",
+    "508 Concord is one whole-basement offer plus 30% house bills, not a typical apartment price. Internet, approval/safety and winter bills unverified; all-in cost may exceed CAD 1,300.",
+    "The George price covers September 2026–April 2027; 2027–28 fees/dates/agreement unverified. Agreement PDF and cancellation-policy download unsuccessful; visa-refusal release/refund terms unknown. Parkside meal-plan price unknown; HOEM rate year and applicable dates/terms unverified.",
+    "All monthly figures except cited TTC pass are estimates. Landing/setup/temporary-stay amounts and 5–10% reserve are assumptions, not mandatory fees or forecasts. No NGN/CAD exchange rate assumed. Tuition, programme supplies, health coverage, flights and immigration costs excluded.",
+    "Commutes are geographic estimates, not timed itineraries. TTC prices are dated; 40-trip cap from September 1, 2027 is planned, and CAD 132 assumes unchanged fares. Student eligibility, ID issuance and 2027–28 prices need recheck.",
+    "2027 rent guideline does not cap new-tenancy starting rent and does not establish a 2028 increase. Post-November 15, 2018 exemption and special AC adjustments require actual facts. Lease end/notice rules have exceptions.",
+    "Original research used public retrieval and some readable-page fallbacks; separate fresh incognito cross-checks were not every source's access context. No personal sign-ins were imported. No sources were externally refreshed for this local draft."
+  ],
+  "editingContract": "English-only reader-first local Markdown, schemaVersion 2 data and generated HTML preview. Retains all 13 listing prices, bills, terms, dates, room distinctions, commute estimates, residence costs, legal caveats, TTC facts and budget rows, with original-source citations only. Use the shared build/check tools. No publication, website-repository changes, source refresh or source-run edits, Review, stars or public attachment promises.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

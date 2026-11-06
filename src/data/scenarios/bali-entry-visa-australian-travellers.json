@@ -1,0 +1,118 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Australian ordinary-passport tourists visiting Bali with a partner whose nationality must be checked separately.",
+  "schemaVersion": 2,
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "slug": "bali-entry-visa-australian-travellers",
+  "translationKey": "bali-entry-visa-australian-travellers",
+  "sources": [
+    {
+      "title": "Immigration visitor-visa FAQ",
+      "url": "https://evisa.imigrasi.go.id/front/info/evoa",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Love Bali FAQ",
+      "url": "https://lovebali.baliprov.go.id/faq",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Foreign Ministry arrival guide",
+      "url": "https://kemlu.go.id/id/bucharest/pelayanan-perwakilan/all-indonesia--satu-aplikasi-untuk-semua-layanan-kedatangan",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "eVisa portal's five-person batch feature",
+      "url": "https://evisa.imigrasi.go.id/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "All Indonesia",
+      "url": "https://allindonesia.imigrasi.go.id/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Smartraveller's expanded Travel/Passport advice",
+      "url": "https://www.smartraveller.gov.au/destinations/asia/indonesia",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Indonesian Embassy's blank-page/document list",
+      "url": "https://kemlu.go.id/en/copenhagen/pelayanan-perwakilan/visa/visa-on-arrival-and-e-visa-on-arrival",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "current visa-information page",
+      "url": "https://evisa.imigrasi.go.id/front/faq/59e5c2c3-525d-485b-928b-ed25079d0fd1",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Indonesian Customs",
+      "url": "https://www.beacukai.go.id/selamat-datang",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Terms",
+      "url": "https://lovebali.baliprov.go.id/terms",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "“Visa questions!”",
+      "url": "https://www.reddit.com/r/bali/comments/1wbgh83/visa_questions/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "“Online Form for Airport Arrival Autogate”",
+      "url": "https://www.reddit.com/r/bali/comments/1wjoxu7/online_form_for_airport_arrival_autogate/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "entry_baseline_per_eligible_tourist": {
+      "label": "Entry baseline per eligible tourist",
+      "value": 650000,
+      "currency": "IDR",
+      "unit": "per_eligible_tourist",
+      "display": "IDR650,000"
+    },
+    "entry_baseline_for_two": {
+      "label": "Entry baseline for two",
+      "value": 1300000,
+      "currency": "IDR",
+      "unit": "two_eligible_tourists",
+      "display": "IDR1,300,000"
+    },
+    "visitor_visa_fee": {
+      "label": "Visitor visa fee",
+      "value": 500000,
+      "currency": "IDR",
+      "unit": "per_eligible_tourist",
+      "display": "IDR500,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "f38ab81cad8279f74e3faf374548e54996596321238515ec185d14265310ae50",
+    "originalAuditSha256": "68d81a77e0db56222c67e8eb0069223b868c40de2458fa1829091aeeff7e931d"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

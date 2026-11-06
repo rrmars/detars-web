@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "slug": "canada-masters-philippines-70000-budget",
+  "translationKey": "canada-masters-philippines-70000-budget",
+  "sources": [
+    {
+      "title": "IRCC fee list",
+      "url": "https://ircc.canada.ca/english/information/fees/fees.asp",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UNBC pre-arrival guidance",
+      "url": "https://www.unbc.ca/international/getting-ready",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Brock Goodman MSc Management",
+      "url": "https://brocku.ca/goodman/programs/msc/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Brock central programme page",
+      "url": "https://brocku.ca/programs/graduate/msc/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UNBC MSc Business Administration",
+      "url": "https://www.unbc.ca/calendar/graduate/business-administration-msc",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UNBC 2026/27 graduate fee calendar",
+      "url": "https://www.unbc.ca/calendar/graduate/fees",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UNBC tuition instalment policy",
+      "url": "https://www.unbc.ca/graduate-administration/tuition-and-fees",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UNBC graduate application intakes and deadlines",
+      "url": "https://www.unbc.ca/programs-and-admissions/graduate/graduate-application-intakes-and-deadlines",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Douglas International Supply Chain Management PBD",
+      "url": "https://www.douglascollege.ca/program/pbdiscm",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Douglas Finance PBD",
+      "url": "https://www.douglascollege.ca/program/pbfinc",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Douglas international tuition and fees",
+      "url": "https://www.douglascollege.ca/fees-and-finances/tuition-and-fee-estimator/tuition-and-fees-international-students",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Douglas international application dates and deadlines",
+      "url": "https://www.douglascollege.ca/admissions/when-apply/international-students-application-dates-and-deadlines",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Douglas Registrar PGWP eligibility reference PDF, dated 2026-05-12",
+      "url": "https://www.douglascollege.ca/sites/default/files/docs/post-graduation-work-permit-program-eligibility-reference-document.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Coast Mountain Business PDD catalogue",
+      "url": "https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Coast Mountain PGWP reference PDF, body updated 2025-12-15",
+      "url": "https://coastmountaincollege.ca/docs/default-source/international-documents/pgwp-eligible-programs-list_cmtn_october-15-2025-%28updated%29.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRCC financial support",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRCC provincial attestation letter rules",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRCC PGWP eligibility",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRCC PGWP field-of-study list",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRCC PGWP duration",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRCC PGWP language evidence",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/get-documents.html",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "family_total_budget_ceiling": {
+      "label": "Family budget for the whole programme, not enough for unfunded 24-month options",
+      "value": 70000,
+      "unit": "whole_programme_budget",
+      "currency": "CAD",
+      "display": "CAD 70,000"
+    },
+    "unbc_unfunded_full_duration_cost": {
+      "label": "UNBC unfunded 24-month model including contingency",
+      "value": 82225,
+      "unit": "24_month_total",
+      "currency": "CAD",
+      "display": "CAD 82,225"
+    },
+    "douglas_unfunded_full_duration_cost": {
+      "label": "Each Douglas standard non-co-op diploma 24-month model including contingency",
+      "value": 122144,
+      "unit": "24_month_total",
+      "currency": "CAD",
+      "display": "CAD 122,144"
+    },
+    "brock_conditional_fellowship_family_cost": {
+      "label": "Brock 20-month family requirement only if fellowship confirmed and duration achieved; excludes assumed assistantship wages",
+      "value": 67615,
+      "unit": "conditional_20_month_family_requirement",
+      "currency": "CAD",
+      "display": "CAD 67,615"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "All external body URLs have explicit access evidence dated 2026-11-05 in the original source ledger. No fresh external localization research. Published 2026 and 2026/27 rates are not 2027-09 quotes. Year-assigned annual institutional milestones are labelled planning interpretations where applicable.",
+  "uncertainties": [
+    "Personal GPA, degree equivalency, quantitative preparation, English evidence, research fit, admission and actual funding offers are unknown.",
+    "Brock duration differs between Goodman (two years/five terms) and the central programme page (20 months/five terms). The conditional CAD 67,615 family model requires the confirmed fellowship and shorter duration; assistantship earnings are not guaranteed permit cash.",
+    "UNBC prerequisites, thesis extensions and ongoing full international semester charges can increase cost. Its 2026-12-15 target for 2027-09 is inferred from an annual calendar, to reconfirm.",
+    "Douglas Finance campus/timetable is unconfirmed; optional supply-chain co-op is excluded. Exact CIP eligibility is a dated snapshot, not a future guarantee.",
+    "Coast Mountain 2027-09 intake/campus are unverified; annual fees are not total programme fees; its Business PDD is not PGWP eligible in the inspected evidence.",
+    "Living costs and most one-offs are author allowances, not live rental, clinic, test or airfare quotations. Later tuition, future funds indexation, PAL allocations and PGWP rules need rechecking; excluded costs require a separate budget."
+  ],
+  "editingContract": "Readable corresponding English and Simplified Chinese lines, paragraphs and table cells retain matching complete numeric, currency, date and external URL occurrences against the pre-voice backup, normalizing Chinese date presentation. Named headline figures are semantic facts. Reader-facing internal links are replaced by data-driven provenance. Local draft only; no stars or review markup.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Primarily Filipino BSBA graduates considering study in Canada; the Chinese version helps Chinese-speaking readers compare the same route, rather than implying every scenario needs every language.",
+  "voiceRevisionNotes": "Reader-first bilingual rewrite only; no external refresh, contacts, applications, payments, bookings or publishing. Technical run provenance remains in provenance and sourceListLink; original sources, access dates, headline figures and source artifact hashes are unchanged.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

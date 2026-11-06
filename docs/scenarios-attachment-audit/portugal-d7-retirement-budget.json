@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "4cbde36a35bff8b165f7b0018b4954117e21c6b9208bbf0a950536c8580e9515",
+  "sourceListLink": "../w6-portugal-d7-retirees/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8d98c7909fe01248c4adc04ffb3a46914000df3b71214ec545b5d8fc3a34ea4d",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

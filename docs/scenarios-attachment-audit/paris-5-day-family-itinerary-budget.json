@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "dadbb262db4195b21f881997b1f7cde3544be58e704afe86224d1cc8f3a92b7b",
+  "sourceListLink": "../w5-paris-kids/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "cba7c89e10da4a07528f25c6e2c4a427449cb82ef1efd63943bf40e37caccf64",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "5cabb3b54e84e713ab9719cf6cc699d189acbf0bbeb91e4edce65ddc44a0a478",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

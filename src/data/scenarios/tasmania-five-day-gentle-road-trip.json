@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 2,
+  "slug": "tasmania-five-day-gentle-road-trip",
+  "translationKey": "tasmania-five-day-gentle-road-trip",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Chinese-speaking couples planning the same gentle Melbourne–Tasmania road trip; personal entry, licence and rental eligibility are not established by language.",
+  "sources": [
+    {
+      "title": "Hobart Airport → Hobart",
+      "url": "https://www.google.com/maps/dir/Hobart+Airport/Hobart/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hobart → MONA",
+      "url": "https://www.google.com/maps/dir/Hobart/MONA+Tasmania/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hobart → Port Arthur Historic Site",
+      "url": "https://www.google.com/maps/dir/Hobart/Port+Arthur+Historic+Site/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Port Arthur → Tasmans Arch → Hobart",
+      "url": "https://www.google.com/maps/dir/Port+Arthur+Historic+Site/Tasmans+Arch/Hobart/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hobart → Swansea",
+      "url": "https://www.google.com/maps/dir/Hobart/Swansea+Tasmania/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Swansea → Wineglass walking access",
+      "url": "https://www.google.com/maps/dir/Swansea+Tasmania/Wineglass+Bay+Walk+Car+Park/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wineglass walking access → Launceston",
+      "url": "https://www.google.com/maps/dir/Wineglass+Bay+Walk+Car+Park/Launceston/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Launceston → airport",
+      "url": "https://www.google.com/maps/dir/Launceston/Launceston+Airport/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Coles Bay → Launceston",
+      "url": "https://www.google.com/maps/dir/Coles+Bay/Launceston/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Coles Bay → Cradle Mountain Visitor Centre → Launceston",
+      "url": "https://www.google.com/maps/dir/Coles+Bay/Cradle+Mountain+Visitor+Centre/Launceston/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official visit page",
+      "url": "https://mona.net.au/visit",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official ferry page",
+      "url": "https://mona.net.au/visit/ferry",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official general admission",
+      "url": "https://portarthur.org.au/whats-on/generaladmission/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official park passes and entry fees",
+      "url": "https://parks.tas.gov.au/explore-our-parks/know-before-you-go/park-passes-and-entry-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tasmans Arch and Devils Kitchen Circuit",
+      "url": "https://parks.tas.gov.au/Pages/Tasmans-Arch-and-Devils-Kitchen-Circuit.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wineglass Bay Lookout",
+      "url": "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay-lookout",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cape Tourville",
+      "url": "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/cape-tourville",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tasman National Park",
+      "url": "https://parks.tas.gov.au/explore-our-parks/tasman-national-park",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PWS alerts",
+      "url": "https://parks.tas.gov.au/explore-our-parks/know-before-you-go/alerts",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Salamanca Market official FAQ",
+      "url": "https://www.salamancamarket.com.au/About-us/Frequently-Asked-Questions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "City of Hobart official listing",
+      "url": "https://www.hobartcity.com.au/Things-To-Do/Salamanca-Market",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tourism Tasmania: Cataract Gorge Reserve",
+      "url": "https://www.discovertasmania.com.au/things-to-do/nature-and-wildlife/cataractgorgereserve/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Battery Point Manor room list",
+      "url": "https://batterypointmanor.com.au/rooms-apartments/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wrest Point accommodation",
+      "url": "https://wrestpoint.com.au/accommodation/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Waterloo official property",
+      "url": "https://www.thewaterloo.au/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Travel Tasmania commercial rate grid",
+      "url": "https://www.traveltasmania.com.au/swansea/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Swansea Motor Inn Budget Queen official page",
+      "url": "https://www.swanseamotel.com.au/accommodation/budget-rooms/stay/2-budget-queen-room",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Balmoral on York official homepage",
+      "url": "https://balmoralonyork.com.au/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Grand Chancellor Launceston official homepage",
+      "url": "https://www.grandchancellorhotels.com/hotel-grand-chancellor-launceston",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Drive official FAQ",
+      "url": "https://drivecarhire.com.au/about/faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Freycinet Marine Farm official menu",
+      "url": "https://www.freycinetmarinefarm.com/menu",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official homepage",
+      "url": "https://www.freycinetmarinefarm.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tasmanian Vacations 2026/27 brochure",
+      "url": "https://www.tasvacations.com/assets/pdfs/Tasmanian_Vacations_Brochure2627.pdf#page=11",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "conditional_trip_budget": {
+      "label": "Conditional total for two, flights excluded; no confirmed dated room basket",
+      "value": 2600,
+      "unit": "conditional_trip_budget",
+      "currency": "AUD",
+      "display": "AUD 2,600"
+    },
+    "working_spend": {
+      "label": "Estimated spend conditional on room and rental assumptions",
+      "value": 2466.35,
+      "unit": "estimated_trip_spend",
+      "currency": "AUD",
+      "display": "AUD 2,466.35"
+    },
+    "unspent_buffer": {
+      "label": "Remaining contingency, not enough for every cost increase",
+      "value": 133.65,
+      "unit": "remaining_contingency",
+      "currency": "AUD",
+      "display": "AUD 133.65"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "additionalSourceRecords": [
+      {
+        "title": "Tasmanian Vacations 2026/27 brochure",
+        "url": "https://www.tasvacations.com/assets/pdfs/Tasmanian_Vacations_Brochure2627.pdf",
+        "accessDate": "2026-11-06"
+      }
+    ]
+  },
+  "datePolicy": "All external source access dates retain 2026-11-06, the original task local date; requests executed on 2026-11-05 UTC. Copy editing is not an external refresh. Hotel lead-ins are undated except the commercial Swansea date-grid indicators; no publication date is invented.",
+  "uncertainties": [
+    "No complete dated accommodation checkout quote: most room tariffs are undated lead-ins; Swansea commercial grid minimums do not establish room type, inventory, taxes or cancellation. Travel Tasmania is not Tourism Tasmania.",
+    "AUD 2,600 excludes flights and travel insurance, and is conditional on estimated rooms and five 24-hour rental periods. A sixth period costs another AUD 114.90; with Wrest Point headline substitution spend becomes AUD 2,641.25. Bond needs available credit but is not spend.",
+    "Rental assumes over-25 drivers with at least two years licensed experience. Personal licence, entry documents and rental eligibility are not verified. Zero standard-car excess has damage/contract exclusions; the AUD 100 Launceston charge is package-specific, not universal.",
+    "Google Maps readings are leave-now observations, not February forecasts or hotel-door routes. Reverse/combined times and buffers are estimates. Cradle Mountain is excluded to avoid an additional 3h30 and 257 km before walking.",
+    "Wineglass lookout is uphill Grade 3 with steps, not a flat gentle stroll; beach descent excluded. Cape Tourville is only an alternative when safe, not the same lookout. Weather, fire, closures and wildlife can alter plans.",
+    "MONA extras/ferry excluded; ferry from AUD 32 does not establish return fare. Metro bus Saturday timetable unverified. Current attractions and park prices may change; park pass does not cover MONA or Port Arthur.",
+    "Marine Farm hours inspected were explicitly winter hours, not confirmed February service. Food, fuel, parking, local driving and visit/airport timings are estimates. Cataract Gorge walk-only zero entry is a budget assumption corroborated through search, not an official tariff guarantee.",
+    "Original source register mentions a Swansea raw HTML archive outside the two-file run folder; it was not provided as an attachment here or re-inspected. SourceArtifacts hashes bind the original itinerary and source register actually read. Original run model remains unknown."
+  ],
+  "editingContract": "Reader-first English and Simplified Chinese drafts with complete itinerary, all driving readings, six accommodation comparisons, budget rows, rental/park qualifications and consequential weather caveats. Numeric/date/URL and corresponding table-cell parity retained. Local Markdown/data and generated HTML previews only, using the shared build/check tools. No Review/stars, public attachment promises, external research refresh, source edits, publication or website-repository changes.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

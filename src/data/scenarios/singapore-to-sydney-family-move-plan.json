@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "slug": "singapore-to-sydney-family-move-plan",
+  "translationKey": "singapore-to-sydney-family-move-plan",
+  "sources": [
+    {
+      "title": "H1 — realestate.com.au Market Insights — Parramatta 3-bedroom units",
+      "url": "https://www.realestate.com.au/rent/property-unit+apartment-with-3-bedrooms-in-parramatta,+nsw+2150/list-1?maxBeds=3",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "H2 — realestate.com.au Market Insights — Hurstville 3-bedroom units",
+      "url": "https://www.realestate.com.au/rent/with-3-bedrooms-in-hurstville,+nsw+2220/list-1",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "H3 — NSW Fair Trading — signing a lease and moving in",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/starting-a-residential-tenancy/signing-a-lease-and-moving",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T2 — Lane Cove Serviced Apartments — Riverview rates",
+      "url": "https://www.lanecoveservicedapartments.com.au/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T1 — Hornsby Furnished Apartments — extended stays",
+      "url": "https://hornsby-furnished-apartments.com.au/extended-stay/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "P1 — APAC Relocation — 2026 Sydney worked example",
+      "url": "https://apacrelocation.com/blogs/international-moving-quotes-from-singapore-how-much-does-a-move-cost-in-2026/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "P2 — Sirelo Singapore — container shipping to Australia",
+      "url": "https://sg.sirelo.org/container-shipping/shipping-container-to-australia/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "P3 — Wilcan Singapore — Sydney groupage",
+      "url": "https://www.wilcan.sg/en/international_move/detail/3/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "P4 — Movers BS — Australia personal-effects guide",
+      "url": "https://moversbs.com/moving/sg/to-australia/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "F1 — FareSteal — SIN–SYD tracker",
+      "url": "https://www.faresteal.com/flights/sin-syd",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "F2 — Scoot — Singapore to Sydney",
+      "url": "https://www.flyscoot.com/flights/en/flights-from-singapore-to-sydney",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "P5 — Singapore Airlines — additional baggage",
+      "url": "https://www.singaporeair.com/en_UK/no/travel-info/baggage/additional-baggage-charges/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S2 — NSW Education — primary school enrolment",
+      "url": "https://education.nsw.gov.au/schooling/parents-and-carers/choosing-a-school-setting/enrolment/primary-school-enrolment.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S1 — Service NSW — public schools",
+      "url": "https://www.service.nsw.gov.au/guide/nsw-public-schools",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S3 — NSW Education — 2027 calendar",
+      "url": "https://education.nsw.gov.au/schooling/calendars/2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S4 — NSW — immunisation requirements",
+      "url": "https://www.nsw.gov.au/education-and-training/primary-and-high-school/starting-primary-school/enrolling-your-child/immunisation-requirements",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "M1 — Services Australia — Medicare permanent residents",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare-if-youre-australian-permanent-resident?context=60092",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "M2 — Services Australia — Medicare documents",
+      "url": "https://www.servicesaustralia.gov.au/documents-to-enrol-medicare-if-youre-permanent-resident?context=60092",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "I1 — Australian Border Force — unaccompanied personal effects",
+      "url": "https://www.abf.gov.au/entering-and-leaving-australia/moving-to-australia/upe",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "I5 — ABF — schedule4 by-law, item15",
+      "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-4-by-law",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "I2 — ABF — B534 English form",
+      "url": "https://www.abf.gov.au/form-listing/forms/B534e.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "I3 — DAFF — moving household goods",
+      "url": "https://www.agriculture.gov.au/biosecurity-trade/travelling/moving-immigrating",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "I4 — DAFF — COLS and UPE transition",
+      "url": "https://www.agriculture.gov.au/biosecurity-trade/import/online-services/cols",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "C1 — Service NSW — vehicle stamp duty",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "C2 — NSW — transfer purchased vehicle registration",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw/vehicle-registration/transferring-or-cancelling-registration/transferring-registration-when-buying-a-vehicle",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "C5 — NSW — child car seats",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw/roads-safety-and-rules/safe-driving/child-seats",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "C3 — Service NSW — transfer overseas licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-overseas-driver-licence",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "C4 — NSW — knowledge and driving test exemptions",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/visiting-or-moving-to-nsw/moving-your-overseas-licence/knowledge-and-driving-test-exemptions",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G1 — MOM — termination with notice",
+      "url": "https://www.mom.gov.sg/employment-practices/termination-of-employment/termination-with-notice",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G8 — CEA — agreements/checklists",
+      "url": "https://www.cea.gov.sg/real-estate-professionals/agreements-and-checklists/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G2 — IRAS — tax clearance requirements/exceptions",
+      "url": "https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21)/tax-clearance-for-employees",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G3 — IRAS — tax clearance step-by-step",
+      "url": "https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21)/getting-tax-clearance-a-step-by-step-guide",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G4 — MOM — cancel Employment Pass",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/cancel-a-pass",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G5 — MOM — cancel S Pass",
+      "url": "https://www.mom.gov.sg/passes-and-permits/s-pass/cancel-a-pass",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G10 — MOM — cancel ONE Pass",
+      "url": "https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/cancel-a-pass",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G9 — ICA — Student Pass cancellation",
+      "url": "https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-cancellation",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G6 — CPF Board — no longer Singapore citizen/PR",
+      "url": "https://www.cpf.gov.sg/service/article/what-happens-to-my-cpf-account-if-i-am-no-longer-a-singapore-citizen-or-permanent-resident",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G7 — MoneySense — health insurance",
+      "url": "https://www.moneysense.gov.sg/health-insurance/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "G11 — MOE — Leave of Absence scheme",
+      "url": "https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "default_settlement_cash": {
+      "label": "Default cash including car, refundable bond and contingency, before unknown buffers",
+      "value": 76229.18,
+      "unit": "59_day_settlement_cash",
+      "currency": "AUD",
+      "display": "A$76,229.18"
+    },
+    "settlement_horizon_days": {
+      "label": "Default temporary plus permanent settlement horizon",
+      "value": 59,
+      "unit": "days",
+      "display": "59"
+    },
+    "refundable_rental_bond": {
+      "label": "Default Parramatta refundable bond",
+      "value": 3570,
+      "unit": "security_cash",
+      "currency": "AUD",
+      "display": "3,570"
+    },
+    "freight_full_service_baseline": {
+      "label": "Published APAC full-service example before uplift, insurance and taxes",
+      "value": 12500,
+      "unit": "published_shipping_example",
+      "currency": "SGD",
+      "display": "S$12,500"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "All cited external URLs retain explicit original source access dates of 2026-11-05; this localization did not externally refresh them. Access does not mean price publication or guaranteed future availability. Original verification is not fresh verification.",
+  "uncertainties": [
+    "School pupil start 2027-07-20 precedes permanent tenancy 2027-07-29. Genuine residence evidence and individual school start/placement must be agreed; temporary accommodation is not automatically accepted.",
+    "Family Singapore statuses, contract liabilities, tax, withheld-salary liquidity, job gap, actual inventory and import eligibility remain unresolved; zero placeholders are not zero liability.",
+    "Rent medians came from search-index snapshots after direct retrieval returned 429. Future flight seats, bedding, temporary accommodation, freight inclusions and 2027 prices are unverified.",
+    "FX, uplift, shipping windows, living costs and reserves are estimates; scenario totals include assets/refundable security rather than consumed expenses only. Original verification reports a minor print-only diagnostic label truncation; workbook was not recalculated in localization."
+  ],
+  "editingContract": "Readable English and Simplified Chinese corresponding lines and table cells retain complete numeric, currency, date and URL parity. Local draft only; no stars or review markup.",
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English for Singapore-to-Sydney relocating families; Simplified Chinese for Chinese-speaking families navigating the same school, housing and settlement choices.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "domain": "family",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

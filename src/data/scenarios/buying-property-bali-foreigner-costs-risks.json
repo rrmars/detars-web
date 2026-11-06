@@ -1,0 +1,202 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Singapore-citizen buyers considering a Bali home for personal stays and conditional short-term rental use.",
+  "schemaVersion": 2,
+  "slug": "buying-property-bali-foreigner-costs-risks",
+  "translationKey": "buying-property-bali-foreigner-costs-risks",
+  "sources": [
+    {
+      "title": "Bank Indonesia JISDOR",
+      "url": "https://www.bi.go.id/en/statistik/informasi-kurs/jisdor/default.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "PP18/2021",
+      "url": "https://peraturan.bpk.go.id/Home/Download/154522/PP%20Nomor%2018%20Tahun%202021.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Basic Agrarian Law 5/1960",
+      "url": "https://jdih.pkp.go.id/produk-hukum/file/uu-nomor-5-tahun-1960.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ATR/BPN Decision 1241/2022",
+      "url": "https://jdih.atrbpn.go.id/peraturan/download/1109/Kepmen%20ATR%20KBPN%20Nomor%201241_SK-HK.02_IX_2022.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "BE-2268, 1BR villa",
+      "url": "https://baliexception.com/properties/for-sale/villa/leasehold/pererenan/ready-now-1-bedroom-villa-for-sale-leasehold-in-pererenan-be-2268/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BTR-1044, 1BR villa",
+      "url": "https://www.balitecturerealty.com/property/elegant-terracotta-inspired-1bedroom-off-plan-villa-for-sale-in-pererenan-2",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BTR-1497, 2BR villa",
+      "url": "https://www.balitecturerealty.com/property/exclusive-2-bedroom-off-plan-villas-in-pererenan",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CUV-220, 1BR villa",
+      "url": "https://ppbali.com/property/riverside-minimalist-1-bedroom-boutique-villa-in-pererenan/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BTR-1488, 1BR villa",
+      "url": "https://www.balitecturerealty.com/property/elegant-off-plan-1br-villas-in-bingin-uluwatu",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BTR-2216, 2BR villa",
+      "url": "https://www.balitecturerealty.com/property/modern-japandi-2-bedroom-villa-for-sale-between-ungasan-and-pecatu-uluwatu",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "V2046 / SURYA, 2BR villa",
+      "url": "https://www.premierpropertybali.com/properties/surya-uluwatu-villa/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "99680, 1BR apartment",
+      "url": "https://balirealestateconsultants.com/property/prime-investment-1br-apartment-with-direct-beach-access/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Badung Perda7/2023",
+      "url": "https://jdih.badungkab.go.id/storage/produk-hukum/peraturan-perundang-undangan/2023/perda/2023perda5103007.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "2025 amendment",
+      "url": "https://peraturan.bpk.go.id/Download/408192/PERDA%20NO%208%20TAHUN%202025%20OCR.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "seller transfer tax",
+      "url": "https://www.pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-pengalihan-hak-atas-tanah-danatau-bangunan-dan",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "land/building rent",
+      "url": "https://pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-persewaan-tanah-danatau-bangunan",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Article26",
+      "url": "https://www.pajak.go.id/id/pph-pasal-26",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "IRAS treaty PDF, Article6",
+      "url": "https://www.iras.gov.sg/media/docs/default-source/dtas/singapore-indonesia-dta-(ratified)(23-july-2021).pdf?sfvrsn=9be93475_12",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "VAT regulation",
+      "url": "https://jdih.kemenkeu.go.id/api/download/ad276b82-94bd-4197-b409-af33e2842cd6/2024pmkeuangan131.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "DGT-hosted PP20/2026 commentary",
+      "url": "https://www.pajak.go.id/id/node/119950",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "IRAS",
+      "url": "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/income-received-from-overseas",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "BKPM Regulation 5/2025, Article 26",
+      "url": "https://peraturan.bpk.go.id/Download/394633/005%20th%202025.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Bali government's announcement",
+      "url": "https://www.baliprov.go.id/web/gubernur-koster-batasi-akses-oss-untuk-pma-di-sejumlah-kbli-lindungi-umkm-lokal-dari-persaingan-tidak-sehat",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Tourism Ministry May 26 release",
+      "url": "https://api.kemenpar.go.id/storage/app/uploads/public/6a1/69a/4f7/6a169a4f77a67636581355.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "AirDNA Bali overview",
+      "url": "https://www.airdna.co/vacation-rental-data/app/id/default/bali/overview",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "manager's published 18% fee",
+      "url": "https://balimanagement.villas/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://balirealestateconsultants.com/faq/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "buyer_total_cash_budget": {
+      "label": "Buyer total cash budget",
+      "value": 300000,
+      "currency": "USD",
+      "unit": "total_cash",
+      "display": "USD300,000"
+    },
+    "ready_villa_base_acquisition_cash": {
+      "label": "Ready villa base acquisition cash",
+      "value": 199475,
+      "currency": "USD",
+      "unit": "acquisition_cash_before_unconfirmed_taxes",
+      "display": "$199,475"
+    },
+    "ready_villa_base_annual_cash_before_owner_tax": {
+      "label": "Ready villa base annual cash before owner tax",
+      "value": 6635,
+      "currency": "USD",
+      "unit": "per_year_before_owner_income_tax",
+      "display": "$6,635"
+    },
+    "ready_villa_annual_cash_after_tax_stress": {
+      "label": "Ready villa annual cash after tax stress",
+      "value": 2328,
+      "currency": "USD",
+      "unit": "per_year_after_simplified_tax_stress",
+      "display": "$2,328"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "485d7f97e0d7f67719c63cd8b920d87b7bc8dd983f5ea3a9a268e12470e2ad6a",
+    "originalAuditSha256": "9576eaaffa29c2a26519aa4335ec918701703737ce32c663b0cd2f65e165d6b2"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

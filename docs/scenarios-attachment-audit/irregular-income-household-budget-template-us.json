@@ -1,0 +1,55 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "f41c37cf2cbb596b5b2f056dd7fe31cd7eccaf7789984ba9be59af9d6d421074",
+  "sourceListLink": "irregular-income-household-budget-template-us-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/irregular-income-household-budget-template-us/Household_Budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8e4719434b0b6e898aac3fd2a6abd649fafb10024a0d0adb51d95c22848c6110",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "../w3-household-budget/Household_Budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/irregular-income-household-budget-template-us/Household_Budget.xlsx"
+        },
+        {
+          "target": "../w3-household-budget/Household_Budget_Guide.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "irregular-income-household-budget-template-us-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "b38c8fb63dad9597d4e8690a4bddf88757ce47161eb1da2fdb35ec233d839a27",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "../w3-household-budget/Household_Budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/irregular-income-household-budget-template-us/Household_Budget.xlsx"
+        },
+        {
+          "target": "../w3-household-budget/Household_Budget_Guide.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "irregular-income-household-budget-template-us-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

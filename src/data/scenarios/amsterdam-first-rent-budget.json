@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 2,
+  "slug": "amsterdam-first-rent-budget",
+  "translationKey": "amsterdam-first-rent-budget",
+  "sources": [
+    {
+      "title": "R1 — Huurcommissie — WWS sector rules",
+      "url": "https://www.huurcommissie.nl/support/beleidsboeken/waarderingsstelsel-zelfstandige-woonruimte/inleiding",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R2 — Staatscourant 2026, 35093 — 2027 indexation",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-35093.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R3 — City of Amsterdam — housing permit",
+      "url": "https://www.amsterdam.nl/en/housing/housing-permit/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R4 — Government.nl — step-by-step plan for tenants",
+      "url": "https://www.government.nl/themes/building-and-housing/housing/rented-housing/step-by-step-plan-for-tenants",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R5 — Rijksoverheid — rental deposit",
+      "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/woning-huren/woning-huren-waarborgsom",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R6 — Rijksoverheid — mediation fees",
+      "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/huurwoning-zoeken/moet-ik-bemiddelingskosten-betalen-voor-een-kamer-of-huurwoning",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R7 — City of Amsterdam — first registration",
+      "url": "https://www.amsterdam.nl/en/civil-affairs/first-registration/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R8 — Government.nl — newcomers and health insurance",
+      "url": "https://www.government.nl/documents/question-and-answer/health-insurance/when-do-i-need-to-take-out-health-insurance-if-i-come-to-live-in-the-netherlands",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R9 — Pararius — avoid scams",
+      "url": "https://www.pararius.com/info/avoid-scams",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R10 — Huurcommissie — 2027 WWS changes",
+      "url": "https://www.huurcommissie.nl/actueel/nieuws/2026/10/29/aanpassingen-puntentelling-woningwaarderingsstelsel-per-1-januari-2027",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Underlying enacted decree for 2027 WWS changes",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-267.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "T1 — Belastingdienst — payroll newsletter 2027, issue 2",
+      "url": "https://download.belastingdienst.nl/belastingdienst/docs/nieuwsbrief-loonheffingen-2027-lh2091t72fd.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T2 — Belastingdienst — employee expat-scheme conditions",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/ik-kom-in-nederland-werken-30-procent-regeling-aanvragen",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T3 — Belastingdienst — October 2026 payroll handbook",
+      "url": "https://download.belastingdienst.nl/belastingdienst/docs/handboek-loonheffingen-lh0221t62fd.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T4 — Belastingdienst — provisional 2026 rates and credits",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T5 — Belastingdienst — joint application",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/verzoek-loonheffingen-30-regeling",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L01 — Startbaan 1116 · Amstelveen",
+      "url": "https://www.pararius.com/apartment-for-rent/amstelveen/ef2882a1/startbaan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L02 — Amberlaan · Amstelveen",
+      "url": "https://www.pararius.com/apartment-for-rent/amstelveen/8b068522/amberlaan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L03 — Bercylaan 449 · Amsterdam Noord",
+      "url": "https://www.pararius.com/apartment-for-rent/amsterdam/904b156a/bercylaan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L04 — J.H. Hisgenpad 874 · Amsterdam Noord",
+      "url": "https://www.pararius.com/apartment-for-rent/amsterdam/e54da84e/j-h-hisgenpad",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L05 — Elzenhagensingel 262 · Amsterdam Noord",
+      "url": "https://www.pararius.com/apartment-for-rent/amsterdam/a5806410/elzenhagensingel",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L06 — Strekkerweg · Amsterdam Noord",
+      "url": "https://www.viziermakelaardij.nl/woningaanbod/huur/amsterdam/strekkerweg/ref-01105",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L07 — Startbaan 384 · Amstelveen",
+      "url": "https://www.pararius.com/apartment-for-rent/amstelveen/ec6dde31/startbaan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L08 — Zijlstraat 88 A · Haarlem",
+      "url": "https://www.pararius.com/apartment-for-rent/haarlem/770be616/zijlstraat",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L09 — Dokter De Liefdestraat 18 · Haarlem",
+      "url": "https://www.pararius.com/apartment-for-rent/haarlem/7d1d7ef7/dokter-de-liefdestraat",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L10 — Zijlweg 148 C 408 — SHORT STAY · Haarlem",
+      "url": "https://www.pararius.com/apartment-for-rent/haarlem/3a0338f7/zijlweg",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L11 — Zijlweg 146 F — SHORT STAY · Haarlem",
+      "url": "https://www.pararius.com/apartment-for-rent/haarlem/ded2d182/zijlweg",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L12 — Charley Tooropgracht, Holland Park · Diemen",
+      "url": "https://www.pararius.com/apartment-for-rent/diemen/60b8647e/charley-tooropgracht",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "household_gross_annual_income": {
+      "label": "Combined annual gross income assumption; salary split and holiday pay need checking",
+      "value": 95000,
+      "unit": "per_year_gross",
+      "currency": "EUR",
+      "display": "€95,000"
+    },
+    "chosen_basic_monthly_rent": {
+      "label": "Chosen basic-rent search target, not a market average or confirmed offer",
+      "value": 2000,
+      "unit": "per_month_basic_rent",
+      "currency": "EUR",
+      "display": "€2,000"
+    },
+    "planned_monthly_household_spend": {
+      "label": "Two-adult no-car household plan at chosen basic rent; all extras estimates",
+      "value": 3925,
+      "unit": "per_month_planning_spend",
+      "currency": "EUR",
+      "display": "€3,925"
+    },
+    "maximum_deposit_at_rent_ceiling": {
+      "label": "Dated two-month basic-rent deposit cap at €2,200; tied-up cash, not spending",
+      "value": 4400,
+      "unit": "upfront_deposit",
+      "currency": "EUR",
+      "display": "€4,400"
+    },
+    "moving_cash_lower_allowance": {
+      "label": "Lower moving-cash illustration including first rent, deposit, setup and temporary bridge, with exclusions",
+      "value": 10100,
+      "unit": "upfront_cash_lower_allowance",
+      "currency": "EUR",
+      "display": "€10,100"
+    },
+    "moving_cash_upper_allowance": {
+      "label": "Upper moving-cash illustration; not supplier quotes or a complete relocation reserve",
+      "value": 13600,
+      "unit": "upfront_cash_upper_allowance",
+      "currency": "EUR",
+      "display": "€13,600"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains source-specific November 6, 2026 scenario access/seen dates, retrieved November 5 evening UTC/Netherlands time (November 6 UTC+08). Publication/effective dates remain separate. The underlying decree has no separate access entry, recorded unknown. Localization on 2026-11-06 is not external research, a price refresh or fresh legal/tax verification.",
+  "uncertainties": [
+    "Twelve publisher-live advertisements were seen, not twelve April-ready homes: ten ordinary-home ads and two Haarlem short-stay comparables. No landlord confirmed vacancy, condition, an April start or two-person registration. Couple occupancy is not explicit at Dokter De Liefdestraat and Zijlweg 148 C 408.",
+    "Listing contradictions in layout, energy label, furnishing, start date, income requirement, pets and parking are preserved. Unspecified service costs, basic/inclusive split and unpublished deposit/income terms remain unresolved.",
+    "WWS score, surcharges, contract date and local permit eligibility must be individually checked. The published national 2027 household income figure is not automatic access; Amsterdam permit page displayed 2026 figures and gross salary may not equal assessed income.",
+    "2027 maximum expat allowance is a dated published reference, not personal eligibility. Final indexed 2027 salary norms were deferred to December 2026. Announced bases are not final thresholds; full allowance, employer agreement and individual salary split remain unconfirmed.",
+    "Net-pay examples use 2026 tax rules as a proxy, annual net divided by twelve, no employee pension deductions and full-year assumptions. They are not 2027 payslips or an April-arrival tax return. New allowance does not restore old partial non-resident overseas-asset treatment.",
+    "All non-rent spending, setup, bridge accommodation and reserves are author-selected estimates, not confirmed tariffs or statutory deductible figures. Budget excludes car, children, flights/international moving and separately commissioned search-agent fees; commuting, payroll deductions and actual furniture needs can increase costs.",
+    "No personal contract, notice rule, WWS calculation, ownership, authority, registration acceptance, tax status or insurance obligation was verified. Planning only, not legal or tax advice."
+  ],
+  "editingContract": "English-only local scenario draft. No Chinese audience established for this specific Amsterdam relocation profile. No shared inventory/build/check edits, website integration, publication, Review/stars or local-attachment download promises.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A couple relocating to the Amsterdam area for work starting April 1, 2027, with €95,000 combined annual gross income, no children and about €2,200 for a one-bedroom rental.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

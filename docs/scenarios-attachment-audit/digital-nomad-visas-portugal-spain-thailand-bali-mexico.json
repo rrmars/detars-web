@@ -1,0 +1,59 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "d6dfc5db3d8c350271f7e4979ff2d2591e2a9da1a1fe5f8b83190ff952538787",
+  "sourceListLink": "digital-nomad-visas-portugal-spain-thailand-bali-mexico-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "7d5bf3b213b0bcd24289c6464270c93c60397779e4d9d03c2f63466f1b367919",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "digital-nomad-visas-portugal-spain-thailand-bali-mexico-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-nomad-visas/digital-nomad-visas-2027.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-nomad-visas/digital-nomad-visas-2027.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "digital-nomad-visas-portugal-spain-thailand-bali-mexico-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "eb1159dd1098f41229f0f783cab03231a76e32ad165581fba77f2816055cc2d2",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "digital-nomad-visas-portugal-spain-thailand-bali-mexico-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-nomad-visas/digital-nomad-visas-2027.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-nomad-visas/digital-nomad-visas-2027.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "digital-nomad-visas-portugal-spain-thailand-bali-mexico-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "slug": "freelancer-income-expense-tax-tracker-us",
+  "translationKey": "freelancer-income-expense-tax-tracker-us",
+  "sources": [
+    {
+      "title": "Schedule C instructions",
+      "url": "https://www.irs.gov/instructions/i1040sc",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRS 2026 inflation adjustments",
+      "url": "https://www.irs.gov/irb/2025-45_IRB",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2026 Schedule SE",
+      "url": "https://www.irs.gov/pub/irs-pdf/f1040sse.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SSA contribution and benefit base",
+      "url": "https://www.ssa.gov/oact/cola/cbb.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Illinois income-tax rates",
+      "url": "https://tax.illinois.gov/research/taxrates/income.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Illinois exemption FAQ",
+      "url": "https://tax.illinois.gov/questionsandanswers/answer.851.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Additional Medicare tax",
+      "url": "https://www.irs.gov/taxtopics/tc560",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "draft Form 8995 basis",
+      "url": "https://www.irs.gov/pub/irs-dft/f8995--dft.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRS estimated-tax rules",
+      "url": "https://www.irs.gov/faqs/estimated-tax",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "OPM holiday calendar",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2026 federal estimated-tax form",
+      "url": "https://www.irs.gov/pub/irs-pdf/f1040es.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2026 Illinois estimated-tax form",
+      "url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/incometax/documents/currentyear/individual/il-1040-es.pdf",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "forecast_annual_gross_receipts": {
+      "label": "Fictional full-year gross receipts forecast",
+      "value": 85000,
+      "unit": "per_year",
+      "currency": "USD",
+      "display": "$85,000"
+    },
+    "forecast_annual_deductible_expenses": {
+      "label": "Fictional full-year deductible-expense forecast",
+      "value": 12000,
+      "unit": "per_year",
+      "currency": "USD",
+      "display": "$12,000"
+    },
+    "recommended_profit_reserve_rate": {
+      "label": "Model reserve on positive taxable cash profit, not gross receipts",
+      "value": 27,
+      "unit": "percent",
+      "display": "27%"
+    },
+    "combined_annual_estimated_tax": {
+      "label": "Fictional combined annual estimated tax with fallback assumptions",
+      "value": 18247.3,
+      "unit": "per_year",
+      "currency": "USD",
+      "display": "$18,247.30"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Source access dates are retained from the original ledger, not inferred from the folder name. No fresh external research. Fictional 2027 transactions and derived payment dates are not actual or certified future events.",
+  "modelLimits": "Cash-basis single Illinois sole proprietor only; fictional data; not tax advice. Federal brackets, standard deduction, QBI ceiling and Illinois exemption use labeled 2026 fallbacks. Original ledger records a published 2027 SSA cap. Refresh before payments. Historical workbook checks are not a new recalculation or final-display verification.",
+  "editingContract": "Keep corresponding English and Simplified Chinese lines and table cells aligned with identical complete numeric, currency, date and URL literals. Headline figures are semantic values, not substitution tokens.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "US cash-basis freelancers in Illinois, including Chinese speakers.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "259bef5ab78bb863b9afd94abcc7981f13006b600971c4e3383123ef8f06c405",
+  "sourceListLink": "../w6-abudhabi-weekend-kids/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "9a1dc99c1928b80b814b8bb39a95d677bbe33fce7784f0062a58838c6461d2e6",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

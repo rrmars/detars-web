@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 2,
+  "slug": "abu-dhabi-weekend-with-kids",
+  "translationKey": "abu-dhabi-weekend-with-kids",
+  "sources": [
+    {
+      "title": "Louvre: admission, hours and café",
+      "url": "https://www.louvreabudhabi.ae/en/visit-us",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official 2026–27 Louvre programme",
+      "url": "https://www.mediaoffice.abudhabi/en/arts-culture/louvre-abu-dhabi-announces-calendar-of-events-and-exhibitions-for-2026-2027-season/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Louvre self-parking",
+      "url": "https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Warner Bros.: live ticket selection",
+      "url": "https://www.wbworldabudhabi.com/en/booking",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Warner Bros.: parking and advance offer",
+      "url": "https://www.wbworldabudhabi.com/en/tickets/single-day-ticket",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Warner Bros.: ride height guide",
+      "url": "https://www.wbworldabudhabi.com/en/rides/rides-for-kids",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Park dining",
+      "url": "https://www.wbworldabudhabi.com/en/dining",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tasty Ticket terms",
+      "url": "https://www.wbworldabudhabi.com/en/offers/tasty-ticket-offer",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel price snapshots",
+      "url": "https://www.hilton.com/en/locations/uae/abu-dhabi/warner-bros-world-yas-island/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hilton: room / park-access description",
+      "url": "https://www.hilton.com/en/hotels/auhyihi-hilton-abu-dhabi-yas-island/rooms/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AD Mobility: intercity fares",
+      "url": "https://admobility.gov.ae/en/inter-emirates-services",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RTA: routes",
+      "url": "https://www.rta.ae/wps/portal/rta/ae/home/promotion/intercity-e-ticketing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RTA: fare categories",
+      "url": "https://rta.ae/wps/portal/rta/ae/public-transport/Nol-Fares",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "concessions",
+      "url": "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=634",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Darb: new 24/7 gates",
+      "url": "https://admobility.gov.ae/en/news/itc-announces-two-new-gates-to-the-darb-toll-gate",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "timed gates",
+      "url": "https://admobility.gov.ae/en/Darb",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dubai: Salik schedule",
+      "url": "https://www.dubai.ae/en/living/driving-transportation/road-toll-in-dubai-salik",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "operator VAT disclosure",
+      "url": "https://feeds.dfm.ae/documents/2026/May/22/2d9de89d-e273-4fad-bc1d-83857588a7af/General%20Disclosure%2022%205%202026%20FVS.Pdf.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Historical Ramadan Salik reporting",
+      "url": "https://gulfnews.com/amp/story/uae%2Ftransport%2Fsalik-unveils-ramadan-toll-discounts-to-ease-dubai-traffic-1.500445521",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ramadan projection (Gulf News; not final)",
+      "url": "https://gulfnews.com/amp/story/living-in-uae%2Fask-us%2Framadan-2027-eid-al-fitr-eid-al-adha-uae-public-holidays-1.500712923",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Yas Mall: dining directory",
+      "url": "https://www.yasmall.ae/en/dine",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official seasonal weather guidance",
+      "url": "https://visitabudhabi.ae/en/plan-your-trip/article-hub/best-time-to-travel",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "conditional_weekend_budget": {
+      "label": "Conditional family spending plan; not a booking quotation",
+      "value": 3000,
+      "unit": "conditional_family_budget",
+      "currency": "AED",
+      "display": "AED 3,000"
+    },
+    "hotel_four_tickets_ceiling": {
+      "label": "Unquoted all-in hotel plus four entries ceiling; Sunday post-checkout validity required",
+      "value": 2200,
+      "unit": "unquoted_package_ceiling",
+      "currency": "AED",
+      "display": "AED 2,200"
+    },
+    "standalone_four_park_entries": {
+      "label": "Four sampled adult-price park entries; not February quotation",
+      "value": 1380,
+      "unit": "sample_family_admission",
+      "currency": "AED",
+      "display": "AED 1,380"
+    },
+    "room_only_ceiling": {
+      "label": "Remaining all-in four-person room ceiling if park entries bought separately; no qualifying room found",
+      "value": 820,
+      "unit": "unquoted_room_ceiling",
+      "currency": "AED",
+      "display": "AED 820"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original November 6, 2026 Asia/Singapore source access dates retained; underlying UTC receipts were November 5. Copy editing is not an external refresh, price check or availability check.",
+  "uncertainties": [
+    "No exact-date four-person hotel quotation or qualifying AED 2,200 hotel-plus-four-ticket package was obtained. Sunday entry after checkout and child/tax charges must be confirmed.",
+    "Hotel member advance-purchase lead-ins cover unspecified dates/occupancy over the next 30 days, not February family rooms; breakfast and taxes were not established.",
+    "Park prices used the November 6 default date. Junior ticket category depends on height; ride restrictions are separate. February hours, maintenance and Children's Museum hours are unconfirmed.",
+    "Ramadan start is projected, not final. Historical Salik Ramadan bands are not 2027 schedules. Recheck dining, attraction hours, toll schedules and route-specific gates.",
+    "AD Mobility AED 25 fare conflicts with the observed RTA AED 30 planner result; budget uses the higher amount. Bus transfers, fuel, tolls, food, travel times and small buffer are estimates.",
+    "No crowd guarantee, general resident discount or usable February Tasty Ticket offer established; souvenirs, Quick Pass, rentals and hotel buffets excluded."
+  ],
+  "editingContract": "Reader-first English-only draft with semantic headline figures, tables and exact source registry. No Chinese page or bilingual parity claim. Local package only; no Review, stars or public attachment promises.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Dubai-based family of two adults and children aged 7 and 10 planning a February 2027 car weekend; English-only because no distinct Chinese-reader audience is established.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

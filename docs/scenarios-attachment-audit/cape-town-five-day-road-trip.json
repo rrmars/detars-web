@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "051ff546886a4920bcf80139a24d601efbd8991edc0a57c58ad09ab663ffe8ab",
+  "sourceListLink": "../w6-cape-town-5days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "aa09e16c5e58cfbb8d21e3fb1967a4413974ddad09bad2ecbc808daf892b709c",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "9d085045670588eba170ac500f6b45bffcc06cf825b3b83be8fd209d237380c1",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

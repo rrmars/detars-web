@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 2,
+  "slug": "ohio-first-baby-budget",
+  "translationKey": "ohio-first-baby-budget",
+  "sources": [
+    {
+      "title": "JCC fee schedule",
+      "url": "https://columbusjcc.org/wp-content/uploads/2026/02/2026-2027-ECLC-FEES.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ohio 2024 market-rate survey",
+      "url": "https://dam.assets.ohio.gov/image/upload/v1744211799/childrenandyouth.ohio.gov/For%20Providers/CCDF/2024_Ohio_Child_Care_MRS_Report.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Columbus Nanny Agency page",
+      "url": "https://www.columbusnannies.com/nanny-share-program",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DOL's FMLA FAQ",
+      "url": "https://www.dol.gov/agencies/whd/fmla/faq",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "combined birth/bonding limit",
+      "url": "https://www.dol.gov/agencies/whd/fact-sheets/28l-fmla-spouse",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DOL state paid-leave inventory",
+      "url": "https://www.dol.gov/agencies/wb/paid-leave/State-Paid-Family-Medical-Leave-Laws",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Job-based plans allow at least 30 days' special enrollment",
+      "url": "https://www.healthcare.gov/glossary/special-enrollment-period/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "KFF's report",
+      "url": "https://www.kff.org/health-costs/health-costs-associated-with-pregnancy-childbirth-and-postpartum-care/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SBC glossary",
+      "url": "https://www.healthcare.gov/SBC-GLOSSARY/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Evenflo Tribute LX, Venus Pink",
+      "url": "https://www.evenflo.com/products/tribute-convertible-car-seat-sale?intsrc=CATF_25986",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Graco Extend2Fit Convertible",
+      "url": "https://www.gracobaby.com/shop/car-seats/toddler-car-seats/convertible-car-seats/extend2fit-convertible-car-seat/SAP_2216079.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IKEA SNIGLAR, beech",
+      "url": "https://www.ikea.com/us/en/p/sniglar-crib-beech-50248541/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Babyletto Hudson, White, conversion kit included",
+      "url": "https://babyletto.com/collections/cribs/products/hudson-3-in-1-convertible-crib-with-toddler-bed-conversion-kit?variant=551236108312",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IKEA PELLEPLUTT",
+      "url": "https://www.ikea.com/us/en/p/pelleplutt-foam-mattress-for-crib-00593577/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Newton Original",
+      "url": "https://www.newtonbaby.com/collections/crib-mattresses/products/newton-crib-mattress",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Graco Modes Pramette, stroller only",
+      "url": "https://www.gracobaby.com/shop/strollers/full-size-strollers/modes-pramette-stroller/SAP_2173541.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UPPAbaby Cruz V3, Callum",
+      "url": "https://www.modernnursery.com/products/uppababy-cruz-v3-stroller",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IKEA ANTILOP with tray",
+      "url": "https://www.ikea.com/us/en/p/antilop-high-chair-with-tray-white-white-s39597517/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Stokke Tripp Trapp with Babyset and tray",
+      "url": "https://www.target.com/p/-/A-94940827",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Infantino Flip, Gray",
+      "url": "https://www.babylist.com/gp/infantino-flip-4-in-1-convertible-carrier/20241/15824",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ergobaby Omni Classic, Mesh/Onyx Black",
+      "url": "https://ergobaby.com/en-us/products/omni-classic-baby-carrier?variant=51321211879712",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AAP guidance",
+      "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AAP crib guidance",
+      "url": "https://www.healthychildren.org/English/ages-stages/prenatal/decisions-to-make/Pages/Choosing-a-Crib.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CPSC safe-sleep guidance",
+      "url": "https://www.cpsc.gov/SafeSleep",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "168-count up&up pack",
+      "url": "https://www.target.com/p/-/A-87990516",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "56-count Pampers Sensitive",
+      "url": "https://www.target.com/p/-/A-14596962",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Similac 360 Total Care powder, 30.8 oz",
+      "url": "https://www.target.com/p/-/A-86036991",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRS bulletin",
+      "url": "https://www.irs.gov/irb/2025-45_IRB",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Eligibility",
+      "url": "https://www.irs.gov/credits-deductions/individuals/child-tax-credit",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRS dependent-care information",
+      "url": "https://www.irs.gov/credits-deductions/individuals/child-and-dependent-care-credit-information",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "baby_spending_with_reserves": {
+      "label": "Rounded value-gear, formula and center-care spending including expense contingency, excluding lost pay",
+      "value": 33451,
+      "unit": "first_year_spending_and_reserves",
+      "display": "$33,451",
+      "currency": "USD"
+    },
+    "illustrative_lost_take_home": {
+      "label": "Illustrative unpaid-leave income loss, not the household actual benefit position",
+      "value": 13800,
+      "unit": "lost_net_pay",
+      "display": "$13,800",
+      "currency": "USD"
+    },
+    "gross_funding_need": {
+      "label": "Rounded spending plus illustrative lost pay, before savings, household surplus and confirmed benefits",
+      "value": 47251,
+      "unit": "gross_funding_need",
+      "display": "$47,251",
+      "currency": "USD"
+    },
+    "center_monthly_estimate": {
+      "label": "JCC published tuition plus estimated future uplift, not a future quote",
+      "value": 1980.3,
+      "unit": "per_month",
+      "display": "$1,980.30",
+      "currency": "USD"
+    },
+    "medical_benchmark": {
+      "label": "Historical national employer-plan maternal and newborn out-of-pocket benchmark, not a quote",
+      "value": 3218,
+      "unit": "episode_benchmark",
+      "display": "$3,218",
+      "currency": "USD"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Source access dates are retained from the original November 5, 2026 register. This offline article adaptation did not revisit external sources; editing dates are not source refresh dates. Publication, effective and historical benchmark dates remain distinct from access dates.",
+  "uncertainties": [
+    "Ohio paid leave: inspected official inventory vintage September 2023 has no Ohio row; November 2026 enactment status was not exhaustively verified. State wage replacement is modeled at zero, not determined ineligible. Employer/public-employee benefits are separate.",
+    "Actual pay, paid leave/PTO/disability overlap, FMLA eligibility, same-employer spouse limits, premiums, networks, individual/family caps, birth/return dates and available childcare places are unknown.",
+    "All future uplifts, quantities, wages, employer overhead, reserves, setup, premiums, gear tax/shipping and billing timing are estimates. Listing stock and checkout prices are not guaranteed; no safety clearance or medical feeding/developmental advice is given.",
+    "KFF benchmark uses 2021–2023 employer claims published September 9, 2025, not a Columbus or 2027 quote; pre-May prenatal bills and exceptional care beyond chosen reserve excluded.",
+    "Child Tax Credit 2026 maximum is a labeled fallback; official 2027 indexed amount not located in original inspected material. FSA limits are beginning-2026 planning assumptions; 2027/2028 eligibility/elections and household tax treatment require checking. Default cash benefits zero.",
+    "Workbook cached values were inspected read-only; no recalculation performed for this article. Original source prose rounds consumable totals differently by one cent; model-derived totals use unrounded unit costs."
+  ],
+  "editingContract": "English-only local draft adapted from finished-run materials. No Chinese file, new Review/stars, publication, website integration or shared package edits. No unhosted local artifacts linked in the reader body.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "An Ohio expectant family, illustrated in Columbus, planning one baby, parental leave and childcare around a May 2027 due date.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

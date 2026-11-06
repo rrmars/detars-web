@@ -32,4 +32,32 @@ const research = defineCollection({
   })
 });
 
-export const collections = { research };
+// Scenarios are general Cowork outputs, not research-pack reports.
+const scenarios = defineCollection({
+  // The default loader uses frontmatter.slug as the ID; that would overwrite
+  // en/zh siblings sharing the required translation slug. Keep the locale path.
+  loader: glob({
+    pattern: "**/*.md", base: "./src/content/scenarios",
+    generateId: ({ entry }) => entry.replace(/\.md$/, "")
+  }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    locale: z.enum(["en", "zh"]),
+    slug: z.string(),
+    translationKey: z.string(),
+    domain: z.string(),
+    publishedAt: z.coerce.date().nullable(),
+    updatedAt: z.coerce.date().nullable(),
+    researchDates: z.array(z.string()),
+    locales: z.array(z.enum(["en", "zh"])),
+    producerDisplayLabel: z.string(),
+    sources: z.array(z.object({ title: z.string(), url: z.string().url(), accessDate: z.string() })),
+    headlineFigures: z.record(z.string(), z.unknown()),
+    audience: z.union([z.string(), z.object({ en: z.string().optional(), zh: z.string().optional() })]),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    draft: z.boolean().default(false)
+  })
+});
+
+export const collections = { research, scenarios };

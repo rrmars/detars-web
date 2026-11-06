@@ -1,0 +1,71 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "e9fbab5a40e5ee9557fa2c0f4801494760313f3b1a90c217e321adf280ae7594",
+  "sourceListLink": "toronto-cost-of-living-newcomer-couple-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original research explicitly read November 5; archive-folder November 4 and May 2027 arrival are expressly different dates, and selective same-day rereads are not blanket source-access confirmation.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/toronto-cost-of-living-newcomer-couple/Toronto_couple_budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "54525507e76d6802aa700d18e28ecf37709a736c4f09df75880d40aad42dac0b",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "toronto-cost-of-living-newcomer-couple-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-toronto-living/Toronto_couple_budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/toronto-cost-of-living-newcomer-couple/Toronto_couple_budget.xlsx"
+        },
+        {
+          "target": "../w4-toronto-living/Toronto_mobile_summary.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-toronto-living/payroll_research.md",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-toronto-living/rental_research.md",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "5e7162816ec28db334648a54416d5dae3c1c7fc6e35ba07dfeb078c41d773e8b",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "toronto-cost-of-living-newcomer-couple-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-toronto-living/Toronto_couple_budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/toronto-cost-of-living-newcomer-couple/Toronto_couple_budget.xlsx"
+        },
+        {
+          "target": "../w4-toronto-living/Toronto_mobile_summary.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-toronto-living/payroll_research.md",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-toronto-living/rental_research.md",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

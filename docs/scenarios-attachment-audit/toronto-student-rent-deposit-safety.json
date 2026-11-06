@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "02d063963e22920ffd712d082d9e6d3a4a3bdb81fe6250d3f095623cc60e1715",
+  "sourceListLink": "../w6-toronto-student-rent/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "834679cb4fd0c33b1e07b4936c51e7408c0cccb744674c3015529fc8f0afa713",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

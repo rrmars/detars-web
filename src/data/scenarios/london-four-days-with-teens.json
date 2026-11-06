@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 2,
+  "slug": "london-four-days-with-teens",
+  "translationKey": "london-four-days-with-teens",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Toronto family with two adults and teens aged 14 and 16, holding ordinary Canadian passports; English and Simplified Chinese also support Chinese-speaking family travellers without changing the passport-specific entry assumptions.",
+  "sources": [
+    {
+      "title": "Euro Hotel — Rooms & Rates",
+      "url": "https://www.eurohotel.co.uk/rooms-rates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Darlington — Tariffs",
+      "url": "https://www.darlingtonhotel.com/tariffs/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Reem — Homepage room listings",
+      "url": "https://www.reemhotel.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Euro Hotel — Terms",
+      "url": "https://www.eurohotel.co.uk/terms-conditions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Quad rooms",
+      "url": "https://www.darlingtonhotel.com/accommodation/quad-rooms/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Classic Quad",
+      "url": "https://www.reemhotel.com/rooms/classic-quad-room",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Arsenal Direct — standard Stadium Tour",
+      "url": "https://arsenaldirect.arsenal.com/c/Audio-Tour/tour/p/STADIUM",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Arsenal — visitor information",
+      "url": "https://arsenaldirect.arsenal.com/tour-visitor-info",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Arsenal — opening hours",
+      "url": "https://arsenaldirect.arsenal.com/tour/opening-hours",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leadenhall Market — Filming",
+      "url": "https://leadenhallmarket.co.uk/filming/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "City Bridge Foundation — Millennium Bridge anniversary/history",
+      "url": "https://www.citybridgefoundation.org.uk/news-and-blog/its-25-up-for-londons-iconic-millennium-bridge",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "British Museum — Visit",
+      "url": "https://www.britishmuseum.org/visit",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TfL — Best ways for visitors to pay",
+      "url": "https://tfl.gov.uk/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TfL — 11–15 Zip / Young Visitor section",
+      "url": "https://tfl.gov.uk/fares/free-and-discounted-travel/11-15-zip-oyster-photocard",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TfL — Where to buy tickets and Oyster",
+      "url": "https://tfl.gov.uk/fares/ways-to-pay/where-to-buy-tickets-and-oyster",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TfL — 16+ Zip",
+      "url": "https://tfl.gov.uk/fares/free-and-discounted-travel/16-plus-zip-oyster-photocard",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TfL — Capping",
+      "url": "https://tfl.gov.uk/fares/find-fares/capping",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TfL Journey Planner",
+      "url": "https://tfl.gov.uk/plan-a-journey/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wicked — Front Row",
+      "url": "https://www.wickedthemusical.co.uk/wicked-front-row/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wicked — FAQ",
+      "url": "https://www.wickedthemusical.co.uk/faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official London Theatre — Today’s tickets / TKTS successor",
+      "url": "https://officiallondontheatre.com/todays-tickets/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Warner Bros. Studio Tour — Tickets",
+      "url": "https://www.wbstudiotour.co.uk/tickets/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Warner Bros. — Getting here",
+      "url": "https://www.wbstudiotour.co.uk/plan-your-visit/getting-here/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK — ETA overview",
+      "url": "https://www.gov.uk/eta",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK — Apply for ETA",
+      "url": "https://www.gov.uk/eta/apply",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "GOV.UK — Standard Visitor",
+      "url": "https://www.gov.uk/standard-visitor",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "main_family_allocation": {
+      "value": 1580.9,
+      "display": "£1,580.90",
+      "label": "Conditional base allocation for the Toronto family, excluding flights and Studio Tour",
+      "currency": "GBP",
+      "unit": "conditional_planning_amount"
+    },
+    "family_budget_envelope": {
+      "value": 1800,
+      "display": "£1,800",
+      "label": "Total family envelope excluding flights",
+      "currency": "GBP",
+      "unit": "conditional_planning_amount"
+    },
+    "unspent_family_reserve": {
+      "value": 219.1,
+      "display": "£219.10",
+      "label": "Base unspent reserve, not a separately quoted cost",
+      "currency": "GBP",
+      "unit": "conditional_planning_amount"
+    },
+    "studio_alternative_increment": {
+      "value": 296,
+      "display": "£296",
+      "label": "Separate Studio Tour increment: published admission plus estimated rail",
+      "currency": "GBP",
+      "unit": "conditional_planning_amount"
+    },
+    "studio_tradeoff_reserve": {
+      "value": 43.1,
+      "display": "£43.10",
+      "label": "Reserve if studio replaces show at hotel target, or both fit with conditional cheaper hotel",
+      "currency": "GBP",
+      "unit": "conditional_planning_amount"
+    },
+    "family_transport_ceiling": {
+      "value": 186.9,
+      "display": "£186.90",
+      "label": "Dated caps model and one Oyster fee; not a July fare quote",
+      "currency": "GBP",
+      "unit": "conditional_planning_amount"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains the source-specific November 6, 2026 local planning/access date. Original tool timestamps were November 5, 2026 approximately 21:49–22:05 UTC (November 6 Asia/Singapore). Copy drafting and arithmetic checks on November 6 are not external rechecks. No publication date or unknown model invented.",
+  "uncertainties": [
+    "All hotel rates are official advertised from rates, not July 9–12, 2027 family quotes or inventory. Dated engines returned no usable quotes, not evidence of sold out; £660 is a target. Reem accompanied-under-18 conditions, final taxes/breakfast remain unconfirmed; two double beds require teen sharing. Euro stairs/lower-ground and Darlington unlisted AC matter.",
+    "Heathrow and Bloomsbury are assumptions. All journeys, queues, flight processing, walking, £65 Watford rail, food, airport margin and extras are estimates, not checked July timetables or fare quotes. Fares, works and actual flights need confirmation.",
+    "Arsenal live table £36/£26 prevails over £34 tile; current from rates, not July slots. Adult concession £31 is not assumed. Oyster specific £10.50 prevails over £10 general page. Young Visitor is for the younger teen only; adult-rate older teen deliberately used.",
+    "Four suitable £29.50 theatre seats are not found or held. Wednesday June 30, 2027 release is a calendar inference if the current scheme continues, not an announced July sale. Disney two-ticket limit is unsuitable as a four-person foundation.",
+    "Studio Tour is a costed alternative replacing Sunday, excluded from base. Published 2027 admission is £231 for three adult-rate travellers and one child; £65 rail is estimated and added while retaining central travel allowance. Date-specific availability unverified. Both attractions at £660 lodging exceed envelope by £76.90; affordable variants leave £43.10.",
+    "Entry applies to ordinary Canadian tourists with stated exceptions, not Chinese passports. ETA is not guaranteed admission. Future fee/rules and individual immigration history/status must be checked; passport valid whole stay, no blanket six-month remaining-validity requirement. No immigration or legal advice.",
+    "Original session limitation retained: initial Arsenal/Museum managed-browser reads and one automatic TfL managed fallback were not clean-session reads. Subsequent fresh non-persistent contexts started with zero cookies; no everyday sign-ins imported. British Museum clean repeat received 403; official-domain excerpts corroborated admission/hours/advance recommendation. Visit London security page was not full-page evidence. No claim of fresh external verification by this drafting task."
+  ],
+  "sourceGroundedAudit": {
+    "scope": "Read itinerary.html, entry.html and sources.md in full; retained all consequential practical facts and cited registry. No external research or source-run edits.",
+    "anchors": [
+      {
+        "source": "itinerary.html",
+        "lines": "5–13",
+        "retained": "Family, trip dates, flight exclusion, Heathrow assumption; three hotel alternatives, dated starting rates, occupancy/bedding, breakfast/VAT, stairs, AC, transfer walks and unconfirmed family terms"
+      },
+      {
+        "source": "itinerary.html",
+        "lines": "15–18",
+        "retained": "All daily routes, timed windows, walking/travel/queue estimates, food envelopes, rain fallback, airport departure examples and baggage/entry limits"
+      },
+      {
+        "source": "itinerary.html",
+        "lines": "19–21",
+        "retained": "Age-specific fare logic, payment tokens, FX risk, card price conflict, daily/weekly boundaries, show channels and conditional release"
+      },
+      {
+        "source": "itinerary.html",
+        "lines": "22–25",
+        "retained": "Studio admission-year distinction, separate rail estimate, alternate budget calculations, full base budget, passport-specific entry and check order"
+      },
+      {
+        "source": "sources.md",
+        "lines": "21–28,34–41,49–53,59–64,70–82",
+        "retained": "Additional source-only consequential facts: £31 Arsenal concession without assumed eligibility; Saturday hours; overseas Zip parent application; Reem age 3+; sales through December 31, 2027; June 30 not July 7; £1,876.90/£76.90 overrun; £50.40 adult cap subtotal"
+      },
+      {
+        "source": "entry.html",
+        "lines": "3–4",
+        "retained": "Complete entry advice merged into self-contained page; no local standalone-file directions in reader prose"
+      },
+      {
+        "source": "sources.md",
+        "lines": "84–90",
+        "retained": "Original browser/session method limitations recorded in uncertainties, not rewritten as a fresh verification claim"
+      }
+    ],
+    "arithmetic": {
+      "mainAllocation": 1580.9,
+      "reserve": 219.1,
+      "transport": 186.9,
+      "arsenal": 134,
+      "studioAdmission": 231,
+      "studioRailEstimate": 65,
+      "studioIncrement": 296,
+      "studioAlternativeAllocation": 1756.9,
+      "studioAlternativeReserve": 43.1,
+      "studioWithoutCuts": 1876.9,
+      "overEnvelopeWithoutCuts": 76.9,
+      "hotelCeilingBothAtZeroReserve": 583.1
+    },
+    "externalResearchPerformed": false,
+    "renderBuildPerformed": false
+  },
+  "editingContract": "Only own slug en/zh Markdown and semantic JSON. Reader-first voice, adjacent dated caveats and closing bracketed Ask DeTars prompt/disclaimer. Strict whole-body/frontmatter/table-cell bilingual numbers/dates/URLs; no local-file directions in reader prose, Review schema, publication, bookings, contacts, shared inventory/script edits or build.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

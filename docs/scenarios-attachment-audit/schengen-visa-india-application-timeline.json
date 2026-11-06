@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "a5605f1e684fc9297662f6dc63611dbf91d7332b563e872dc519e20f8137549e",
+  "sourceListLink": "../w5-schengen-india/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "45ef81bb5428089641ecc0ac34e0c53b75ae3e04589d96993fe7e5910dd64d81",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "b3c73ea86e4debb0eb50a9036fc4fca23cd7305d9ae21155b06111bf15f7b00f",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "ab4345b2fc40a6126d9f666247ae25dbe1c631ccd43cf32e41abe90327f2bed1",
+  "sourceListLink": "../w6-amsterdam-rent/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "492172ed8622099168bb494b6b8671575461ec8a60d098d427e324ed1187f5b6",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

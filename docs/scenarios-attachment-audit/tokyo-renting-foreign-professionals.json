@@ -1,0 +1,28 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "0b61fb3352a23b6e38497d62e32101ff150710b9aeb1859a84ee6a4429b5bf79",
+  "sourceListLink": "tokyo-renting-foreign-professionals-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/tokyo-renting-foreign-professionals/tokyo-rent-comparison.xlsx",
+    "/scenarios/tokyo-renting-foreign-professionals/tokyo_rent_costs.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8465b07fb30d96544a888a88a0ee3bf84ffebf557a4e72420de7ba5951b69079",
+      "faqPairs": 2,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "74ad768d9e567ada4a421b287d919de09223bc2fb2db00f67968b7eb3a283a6a",
+      "faqPairs": 2,
+      "links": []
+    }
+  }
+}

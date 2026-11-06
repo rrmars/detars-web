@@ -1,0 +1,21 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "cb27bf28278f7075cab6ee6578fba5f0950d3205427059ccf64169675456b857",
+  "sourceListLink": "../w5-baby-budget/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/ohio-first-baby-budget/baby-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "2bdb0a9c1630ca934b92cb39d2e16ed718f0c943fa0962289cde8ababcc90043",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

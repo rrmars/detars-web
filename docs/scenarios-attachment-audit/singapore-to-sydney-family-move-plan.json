@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "b316485081fe26e051d2ee2d1ab1777c7ae1e6e340be7b79265c986eac47e227",
+  "sourceListLink": "../w5-sg-sydney-move/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/singapore-to-sydney-family-move-plan/move-plan.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "5e4e96e1e0598fa4700ae31dfe8e8cf42448f59d03ad11d1dc6d3e22314dc25b",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "a3002fff1d00cd1d631b8ab44c51790923cc7b84ff7c59741c9699efd78edfca",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

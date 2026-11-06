@@ -1,0 +1,78 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Café owners or cash-planning managers adapting a USD forecast to actual sales, payroll and bills.",
+  "schemaVersion": 2,
+  "slug": "coffee-shop-13-week-cash-flow-forecast-template",
+  "translationKey": "coffee-shop-13-week-cash-flow-forecast-template",
+  "sources": [
+    {
+      "title": "National Restaurant Association's September 10, 2025 analysis",
+      "url": "https://www.restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-operators-kept-food-cost-ratios-in-check-in-2024/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Square's official transfer page",
+      "url": "https://squareup.com/help/us/en/article/3807-deposit-options-with-square",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "IRS estimated-tax FAQ",
+      "url": "https://www.irs.gov/faqs/estimated-tax",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Publication 505 (2026)",
+      "url": "https://www.irs.gov/publications/p505",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "first_week_ending_spendable_cash": {
+      "label": "First week ending spendable cash",
+      "value": 4819.14,
+      "currency": "USD",
+      "unit": "week_end_cash",
+      "display": "$4,819.14"
+    },
+    "first_week_lowest_daily_spendable_cash": {
+      "label": "First week lowest daily spendable cash",
+      "value": 4655.76,
+      "currency": "USD",
+      "unit": "daily_low_cash",
+      "display": "$4,655.76"
+    },
+    "worst_downside_daily_spendable_cash": {
+      "label": "Worst downside daily spendable cash",
+      "value": 3575.39,
+      "currency": "USD",
+      "unit": "daily_low_cash",
+      "display": "$3,575.39"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "9a7b8a7fd2185b2d49aa28ffbfb16dbe780e974daaea5e34463128915b4e71d7",
+    "originalAuditSha256": "1f89d6c7ef3dfa1c0d5b02a9d0569dc04d97818842087242e2d87fa2534fd68e"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "business",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

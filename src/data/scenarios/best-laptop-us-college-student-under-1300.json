@@ -1,0 +1,150 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Prospective US computer-science undergraduates choosing a course-compatible college laptop.",
+  "schemaVersion": 2,
+  "slug": "best-laptop-us-college-student-under-1300",
+  "translationKey": "best-laptop-us-college-student-under-1300",
+  "sources": [
+    {
+      "title": "$1,299 new, sold by Best Buy",
+      "url": "https://www.bestbuy.com/product/apple-macbook-air-13-inch-laptop-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-memory-512gb-ssd-midnight/6397846",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "$1,199 new, education eligibility required",
+      "url": "https://www.apple.com/us-edu/shop/buy-mac/macbook-air/13-inch-midnight-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "$1,199 new, sold/shipped Walmart.com",
+      "url": "https://www.walmart.com/ip/18149419889",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "$1,269 Apple refurbished",
+      "url": "https://www.apple.com/shop/product/fdvq4ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "$1,270 new, marketplace seller Great Office Deals",
+      "url": "https://www.walmart.com/ip/7447569796",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "$1,299.99 advertised sale",
+      "url": "https://www.microsoft.com/en-us/store/configure/surface-laptop-13-8-inch-8th-edition/8mzbmmcjzpmf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "manufacturer media-engine support",
+      "url": "https://support.apple.com/en-us/126320",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Apple 13/15-inch",
+      "url": "https://www.apple.com/macbook-air/specs/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Zenbook 445, 32GB/1TB/touch",
+      "url": "https://www.ultrabookreview.com/75348-asus-zenbook-14-gorgon-review/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Vivobook S5406SA-DH76, 258V/32GB/1TB",
+      "url": "https://www.pcworld.com/article/2530586/asus-vivobook-s-14-review.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Surface Elite family review",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Air 13 M5, 10/8, 16GB/512GB",
+      "url": "https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Virginia Tech CS's 2026–27 page",
+      "url": "https://www.compreq.vt.edu/specs/computer-science.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Docker's own Windows documentation",
+      "url": "https://docs.docker.com/desktop/setup/install/windows-install/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Apple's policy",
+      "url": "https://www.apple.com/us-edu/shop/browse/open/salespolicies/edu",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/store/b/education",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "this US CS-student request",
+      "url": "https://www.reddit.com/r/SuggestALaptop/comments/1se5yks/need_laptop_advice_for_cs_student_battery_life/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "“Brand New MacBook Air M5 getting uncomfortably hot”",
+      "url": "https://www.reddit.com/r/macbookair/comments/1ruw1e7/brand_new_macbook_air_m5_getting_uncomfortably_hot/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "zenbook_pretax_price": {
+      "label": "Zenbook pretax price",
+      "value": 1199,
+      "currency": "USD",
+      "unit": "per_laptop",
+      "display": "$1,199"
+    },
+    "zenbook_illustrative_tax_inclusive_price": {
+      "label": "Zenbook illustrative tax inclusive price",
+      "value": 1294.92,
+      "currency": "USD",
+      "unit": "per_laptop",
+      "display": "$1,294.92"
+    },
+    "refurbished_air_large_screen_price": {
+      "label": "Refurbished air large screen price",
+      "value": 1269,
+      "currency": "USD",
+      "unit": "per_laptop",
+      "display": "$1,269"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "6c17b1b6967c7b8c4e3b078ceffab51eb81c0f43af5de44691401da4cdb89e06",
+    "originalAuditSha256": "2ba45cea114ecfcd312acb1e73e6c9729b5d09a44bb8bd102be8c2da008fd5f0"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

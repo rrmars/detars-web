@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "253a355af4245d848ac6c6905b21e18200ea6ea1f8423ff0374806148b378c2c",
+  "sourceListLink": "../w6-kansai-6days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "dfd49ceb209700cb0f5cc5cd5d02c0426ff533e5c8179429172d111f73fe68bb",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "a0cd02b7fc0ba87fcc932b6e2e2bcc05fcdfca9ec562928c68f6c00f589ded14",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

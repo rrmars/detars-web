@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "2a511c5bf4461aad44c300f9385c52cddd4cab7978a60505e9577f68686244a3",
+  "sourceListLink": "manali-5-day-family-itinerary-from-delhi-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original article explicitly dates original research and outputs November 5, separately from primary-source checks. May 2027 dates describe the proposed trip.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/manali-5-day-family-itinerary-from-delhi/manali-plan-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "236eb186993fbd0dcdfdc1db2ac1c3aea8d79b4dd230688838895cf43c2df5b4",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "manali-5-day-family-itinerary-from-delhi-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "e34cf1d27676351044a83e2e4f1c9b50f7ce6266080a897912275990b9dfe354",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "manali-5-day-family-itinerary-from-delhi-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

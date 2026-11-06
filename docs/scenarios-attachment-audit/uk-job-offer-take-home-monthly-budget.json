@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "37ec56c314a67143401ef07872425538ccd07f459bca3ba5545ed416406d687e",
+  "sourceListLink": "uk-job-offer-take-home-monthly-budget-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/uk-job-offer-take-home-monthly-budget/UK_offer_comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "02f55eec6dc38a1d5ee3189754e44fbac9659c67a0099e3272f14399f614234f",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "uk-job-offer-take-home-monthly-budget-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "887ebafcefa0691dab2c5ba848b38e6915815d65abcdae6e92f206e06b1fed91",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "uk-job-offer-take-home-monthly-budget-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "slug": "uk-handmade-jewellery-selling-fees",
+  "translationKey": "uk-handmade-jewellery-selling-fees",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Bristol-based VAT-unregistered UK handmade-silver maker comparing January 2027 selling channels at 20, 40 and 80 monthly orders, with GBP 45 goods baskets and conditional EU/NI sales; English-only because no distinct Chinese-reader audience is established.",
+  "sources": [
+    {
+      "title": "E1 — Etsy seller fees",
+      "url": "https://help.etsy.com/hc/en-gb/articles/115014483627-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E2 — Etsy Payments UK",
+      "url": "https://help.etsy.com/hc/en-gb/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E3 — Etsy regulatory operating fee",
+      "url": "https://help.etsy.com/hc/en-gb/articles/1500011073202-What-is-a-Regulatory-Operating-Fee",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E4 — Etsy VAT on seller fees",
+      "url": "https://help.etsy.com/hc/en-gb/articles/360040584433-How-VAT-Is-Collected-on-Seller-Fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E5 — Etsy Offsite Ads",
+      "url": "https://help.etsy.com/hc/en-gb/articles/360000338367-How-Etsy-s-Offsite-Ads-Work",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S1 — Shopify UK Basic pricing",
+      "url": "https://www.shopify.com/uk/pricing?country=gb&lang=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S2 — Shopify Payments fees and taxes",
+      "url": "https://help.shopify.com/en/manual/payments/shopify-payments/payouts/pay-periods-and-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S3 — Shopify European billing VAT",
+      "url": "https://help.shopify.com/en/manual/your-account/manage-billing/billing-charges/types-of-charges/taxes/billing-taxes-eu-ireland-switzerland-turkey",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "F1 — Folksy fee schedule",
+      "url": "https://folksy.uservoice.com/knowledgebase/articles/58077-how-much-does-it-cost-to-sell-on-folksy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "F2 — Folksy current selling plans",
+      "url": "https://folksy.com/selling",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P1 — Stripe UK pricing",
+      "url": "https://stripe.com/gb/pricing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P2 — Stripe fee VAT",
+      "url": "https://support.stripe.com/questions/global-taxation-of-stripe-fees?locale=en-GB",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "N1 — NOTHS new seller applications",
+      "url": "https://www.notonthehighstreet.com/pages/why-sell-with-us",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "N2 — NOTHS seller terms",
+      "url": "https://www.notonthehighstreet.com/about/seller-terms-and-conditions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A1 — Amazon Handmade UK",
+      "url": "https://sell.amazon.co.uk/programmes/handmade",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R1 — Royal Mail online tariff",
+      "url": "https://www.royalmail.com/sites/royalmail.com/files/2026-10/online-price-guide-october-2026-v1.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R2 — Royal Mail valuables guidance",
+      "url": "https://help.royalmail.com/business/s/article/Sending-valuables-money-and-restricted-items-to-the-UK-or-abroad",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H1 — London Assay Office FAQ",
+      "url": "https://www.assayofficelondon.co.uk/faqs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H2 — London Assay Office charges",
+      "url": "https://www.assayofficelondon.co.uk/media/3247/london-assay-office-price-list-6-april-2026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C1 — HMRC imported services/reverse charge",
+      "url": "https://www.gov.uk/guidance/vat-place-of-supply-of-services-notice-741a",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P3 — PayPal UK merchant fees",
+      "url": "https://www.paypal.com/uk/business/paypal-business-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A2 — Amazon UK pricing table",
+      "url": "https://sell.amazon.co.uk/pricing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A3 — Amazon official fee VAT announcement",
+      "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/fe8e800e-d95c-42ae-a98b-e6e682547f90",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R3 — Royal Mail EU trade changes",
+      "url": "https://www.royalmail.com/europeantradeinsights",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R4 — Royal Mail Tracked48 terms",
+      "url": "https://www.royalmail.com/sending/uk/tracked-48",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C2 — GOV.UK distance returns",
+      "url": "https://www.gov.uk/accepting-returns-and-giving-refunds",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C3 — European Commission IOSS",
+      "url": "https://vat-one-stop-shop.ec.europa.eu/one-stop-shop_en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C4 — European Commission low-value duty",
+      "url": "https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C5 — HMRC VAT rates",
+      "url": "https://www.gov.uk/vat-rates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C6 — GOV.UK GPSR guidance",
+      "url": "https://www.gov.uk/government/publications/general-product-safety-regulations-northern-ireland/eu-regulation-2023988-on-general-product-safety-detailed-guidance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E6 — Etsy EU import VAT and IOSS",
+      "url": "https://help.etsy.com/hc/en-gb/articles/360000337247-Custom-Fees-and-Physical-VAT-Collection",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "goods_value_per_order": {
+      "label": "Assumed goods basket before customer-paid postage; one item per order",
+      "value": 45,
+      "unit": "assumed_goods_revenue_per_order",
+      "display": "£45",
+      "currency": "GBP"
+    },
+    "current_monthly_orders": {
+      "label": "Example current scale; identical platform volumes are not demand forecasts",
+      "value": 40,
+      "unit": "assumed_orders_per_month",
+      "display": "40"
+    },
+    "maker_pay_per_order": {
+      "label": "Imputed 45 minutes making/admin at GBP 15 per hour, before personal tax",
+      "value": 11.25,
+      "unit": "assumed_maker_pay_per_order",
+      "display": "£11.25",
+      "currency": "GBP"
+    },
+    "uk_silver_postage_default": {
+      "label": "October 2026 online Special Delivery by 1pm up to 500g; subject to cover terms, not a January quote",
+      "value": 10.85,
+      "unit": "dated_uk_postage_per_order",
+      "display": "£10.85",
+      "currency": "GBP"
+    },
+    "silver_hallmark_weight_boundary": {
+      "label": "Silver above this weight needs recognised hallmark when sold/described as silver, subject to exemptions; per article",
+      "value": 7.78,
+      "unit": "grams_per_silver_article",
+      "display": "7.78g"
+    },
+    "eu_duty_handling_allowance": {
+      "label": "Estimated GBP conversion of EUR 3 duty plus EUR 2 handling for one declaration category; carrier checkout needs confirmation",
+      "value": 4.35,
+      "unit": "estimated_border_cost_per_eu_order",
+      "display": "£4.35",
+      "currency": "GBP"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains every recorded source access date of November 6, 2026, task-local (UTC retrievals may be November 5). No external research refresh. Price, fee, tax, returns, import and safety snapshots remain dated and require confirmation for January 2027. Calculated profit examples use retained assumptions and formulas, not refreshed prices or cached workbook results. Copy editing does not invent a new source date or publication date.",
+  "uncertainties": [
+    "NOTHS current joining, commission, payment and recurring charges are individually quoted; all 20/40/80 results remain Quote needed. Old GBP 199/25% examples are not current quotes. Acceptance and January onboarding are not guaranteed.",
+    "Amazon official Handmade page says 12.24%; official pricing table says 12% with GBP 0.25 minimum. Conflict is not explained as VAT. Baseline provisionally uses 12.24% plus 20% unrecovered fee VAT on goods/postage, excludes buyer VAT and adds no processor. Customer-VAT base wording requires confirmation. Approved Handmade, not general Jewellery; seller-fulfilled only, first-month GBP 30 cash Professional fee then waiver.",
+    "Etsy setup fee remains unknown and first-month cash withheld. Offsite Ads 10% attribution at 12% is an established-shop estimate; 15% may apply below the USD 10,000 threshold. GBP/USD 0.80 is an assumption. Actual renewal quantity, fee VAT and currency conversion can change margin.",
+    "Shopify GBP 5 subscription-VAT reserve is an estimate, not verified UK invoice tax. Folksy Plus GBP 7.50 monthly or GBP 75 annual treated as final VAT-inclusive cash is also an assumption. Annual upfront cash, domain/apps/build, promotions and paid traffic are not included in recurring profit. Folksy payment mix is 100% standard UK/EEA Stripe; PayPal is an alternative, not an added charge.",
+    "All business cost/mix defaults are assumptions: GBP 45 goods excluding postage, one item/order, 90/10 UK/EU, GBP 15 materials, GBP 1 pack, 45 minutes at GBP 15/hour, 2% net losses, GBP 30 overhead, five additional listing events and 0.25 hallmark article/order. Equal platform orders do not forecast discovery. Operating profits follow workbook formulas with independent arithmetic, not observed earnings; before income tax/NI and after imputed pay.",
+    "EU baseline is Germany <=250g and one declaration category; other destinations/weights, cover and clearance differ. Buyer VAT is additional; EUR 3 duty plus EUR 2 handling converted at assumed GBP 0.87/EUR is a seller cost. Older Commission handling wording conflicts with newer carrier implementation; confirm actual checkout, PDDP/DDU, product IDs and destination charges. Inputs D18 contains stale buyer-duty wording, but source notes and Profit S formulas deduct duty from seller profit; prose follows the latter.",
+    "IOSS eligible value <=EUR 150 does not remove duty or safety obligations. Own-shop IOSS generally needs an intermediary. GPSR EU/NI representative, documentation and testing costs are unquoted; zero placeholder is not an exemption, and EU/NI sales remain conditional. Not a complete product-specific safety or tax assessment.",
+    "UK Tracked 48 excludes jewellery compensation despite generic cover; Special Delivery is the model default subject to terms and packed weight. Tariffs are October 2026 online samples, not future prices or branch/contract quotes. International country restrictions and compensation eligibility remain consequential.",
+    "Hallmarking mix, homogeneous packet split, outward and return carriage are estimates. Return GBP 10.85 is not an assay-office quote; add actual return plus administration and applicable VAT. Whole article quantities round up, each earring is separate, optional priority/paper/handling/failures/punch/logistics and higher batch cover may add cost. New GBP 72 registration cash differs from 60p monthly allocation.",
+    "Consumer cancellation and faulty-goods rights remain; handmade/earrings are not blanket exceptions. VAT-unregistered cash comparison cannot be converted to registered trading simply by removing fee VAT. Foreign B2B service reverse-charge/registration tests and income tax/NI need personal advice. Not tax or legal advice.",
+    "Source workbook has 505 formulas and no stored formula result caches in the inspected original bytes. Source notes report a prior isolated-copy recalculation with 505 results and zero errors; not repeated here. The draft profit table is independent arithmetic from the inspected default formula logic, not claimed cached values or a workbook-engine recalculation.",
+    "Original model unknown; English-only. Source/evidence links are local draft provenance for the builder, not public downloads. No shared inventory, README, build/check scripts, manifest, HTML, source-run artifacts or website repository edited; no publication or external research."
+  ],
+  "editingContract": "Local English Markdown and complete schemaVersion 2 JSON only, with optional scoped audit. Preserve consequential channel fees, assumptions, VAT/tax/returns/GPSR/IOSS, postage/cover, hallmarking, quote-only NOTHS, conflicting Amazon rates and practical recommendation. Reader prose has no links to unhosted artifacts. Standard Cowork producer labels and data-driven footer marker. No Review, ratings, publication, fresh research, shared integration edits or source-workbook changes.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

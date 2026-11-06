@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "1e686aa20ce120a8bc84a36858020ef8b0122491805c27902ffd6cfb78ed5803",
+  "sourceListLink": "../w5-remote-job-mx/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "5a397bb9f0f2be4c0d39fc2f5af082420b3600371783989c3780daef31a1b699",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "84204a05862658a071f643b0ea5002c590303ee447ab089ea7f0b3770bde9c3b",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

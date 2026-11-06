@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "6070e05e1c4d856fa5e3af26f62e68f092cabb45fce546801284155f54ae99b2",
+  "sourceListLink": "../w5-bali-7days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "bad5cf3c6c28d797bb87882057f0e0d15a427473c702f2b0cf2bfe9f42412a07",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "a17796fae05d1c6afc4c80e1b2cbd3281afce820105c6e3c48907afbe39ea581",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

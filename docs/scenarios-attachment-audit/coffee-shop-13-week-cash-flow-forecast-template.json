@@ -1,0 +1,65 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "770b4f1085e57c4e7015f5bbdc13e03303ead7d703ca238ccdf5cf77b4b6d16c",
+  "sourceListLink": "coffee-shop-13-week-cash-flow-forecast-template-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original workbook/source-read date is expressly November 5; original builder embeds the same access-date text in Sources. November 9 to February 7 is a forecast horizon, not research coverage.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/coffee-shop-13-week-cash-flow-forecast-template/coffee-shop-13-week.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "c1eed414011bd8de4dc304676b7a5cd43cfaa6740c06ceecb92b42f2e1991e37",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "../w3-cashflow-13week/coffee-shop-13-week.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/coffee-shop-13-week-cash-flow-forecast-template/coffee-shop-13-week.xlsx"
+        },
+        {
+          "target": "../w3-cashflow-13week/weekly-guide.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-cashflow-13week/coffee-shop-13-week.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/coffee-shop-13-week-cash-flow-forecast-template/coffee-shop-13-week.xlsx"
+        },
+        {
+          "target": "coffee-shop-13-week-cash-flow-forecast-template-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "0d695bc6e968e7a9759d7f958786b540bc9e7fc9ff59995047a3a6e111ba1eb4",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "../w3-cashflow-13week/coffee-shop-13-week.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/coffee-shop-13-week-cash-flow-forecast-template/coffee-shop-13-week.xlsx"
+        },
+        {
+          "target": "../w3-cashflow-13week/weekly-guide.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-cashflow-13week/coffee-shop-13-week.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/coffee-shop-13-week-cash-flow-forecast-template/coffee-shop-13-week.xlsx"
+        },
+        {
+          "target": "coffee-shop-13-week-cash-flow-forecast-template-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

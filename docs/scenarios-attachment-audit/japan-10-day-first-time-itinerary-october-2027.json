@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "800ca9baa6206a4021658a61646f2404ad738444b67529a6eacc22103ca6b00c",
+  "sourceListLink": "japan-10-day-first-time-itinerary-october-2027-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original planning run prepared November 5; illustrative October 2027 travel and April 2026 fare-effective dates are not research dates.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/japan-10-day-first-time-itinerary-october-2027/japan-10-days.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8eabc557a14a9ee449946770483c21a6ed2ce810b7d1b60f5ea0b6f546c2bb77",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "japan-10-day-first-time-itinerary-october-2027-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "a23e4318294112a992e92c18131f7186126fc18ba0bf392bfcb8e3fbdf26cdb1",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "japan-10-day-first-time-itinerary-october-2027-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

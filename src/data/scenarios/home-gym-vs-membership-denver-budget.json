@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "slug": "home-gym-vs-membership-denver-budget",
+  "translationKey": "home-gym-vs-membership-denver-budget",
+  "sources": [
+    {
+      "title": "Lifepro PowerFlow Plus",
+      "url": "https://lifeprofitness.com/products/powerflow-plus",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CAP exercise mat, black · Walmart",
+      "url": "https://www.walmart.com/ip/CAP-High-Density-Exercise-Mat-with-Carry-Strap-Black/5418257466",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fitness Gear Resistance Tube Kit · DICK'S",
+      "url": "https://www.dickssportinggoods.com/a/power-tube-kit.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Titan 40 LB Adjustable Kettlebell",
+      "url": "https://titan.fitness/products/40-lb-adjustable-kettlebell",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Golf Galaxy's matching product record",
+      "url": "https://www.golfgalaxy.com/p/fitness-gear-resistance-tube-kit-10-lb-20-lb-30-lb-3-pack-19fgeufgrsstnctbkeac/19fgeufgrsstnctbkeac",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Denver Parks & Recreation Regional",
+      "url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Center-Memberships",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Club Form Denver",
+      "url": "https://www.clubformdenver.com/memberships",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Alpine CrossFit Open Gym",
+      "url": "https://alpinecrossfit.com/pricing/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Carla Madison",
+      "url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Centers/Carla-Madison-Recreation-Center",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CDC source",
+      "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ACSM update",
+      "url": "https://acsm.org/resistance-training-guidelines-update-2026/",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "home_equipment_subtotal": {
+      "label": "Conditional main basket before tax and shipping; restock required",
+      "value": 248.97,
+      "unit": "basket_subtotal",
+      "currency": "USD",
+      "display": "$248.97"
+    },
+    "alternative_equipment_subtotal": {
+      "label": "Single-kettlebell basket before tax and shipping; backordered when seen",
+      "value": 218.97,
+      "unit": "basket_subtotal",
+      "currency": "USD",
+      "display": "$218.97"
+    },
+    "denver_annual_prepaid_dues": {
+      "label": "Observed Regional adult annual prepay; unlisted charges excluded",
+      "value": 332.1,
+      "unit": "per_year",
+      "currency": "USD",
+      "display": "$332.10"
+    },
+    "home_training_clear_area": {
+      "label": "Author planning estimate of clear working area, not a building requirement",
+      "value": 48,
+      "unit": "square_feet",
+      "display": "48 sq ft"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Access dates come from the original ledger, not fresh localization checks. Prices and stock are observations on 2026-11-05; 2027 costs are projections, and the 2026-11-22 backorder dispatch estimate is not a delivery guarantee.",
+  "editingContract": "Readable matching English and Simplified Chinese lines and table cells retain complete numeric, currency, ISO date and external URL literals. No review markup.",
+  "uncertainties": [
+    "Lifepro variant was sold out or unavailable; basket requires restock.",
+    "Titan was backordered; no in-stock substitute established.",
+    "Local stock, checkout tax, shipping and future gym rates or availability unverified.",
+    "Individual health suitability unestablished; routine is an author-designed adaptation, not medical advice."
+  ],
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "适合住在丹佛、想开始力量训练又怕器材买错的上班族；用中文看清居家与会员成本、缺货应对和入门安排，方便按自己的空间与日程作选择。",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

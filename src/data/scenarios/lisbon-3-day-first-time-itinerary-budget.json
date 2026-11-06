@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 2,
+  "slug": "lisbon-3-day-first-time-itinerary-budget",
+  "translationKey": "lisbon-3-day-first-time-itinerary-budget",
+  "sources": [
+    {
+      "title": "Hostelworld — Home Lisbon Hostel; Lisbon Lounge starting-price card",
+      "url": "https://www.hostelworld.com/hostels/p/15529/home-lisbon-hostel/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Hostelworld — Lisbon Lounge Hostel; Home Lisbon starting-price card",
+      "url": "https://www.hostelworld.com/hostels/p/11827/lisbon-lounge-hostel/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Metro Lisboa — Network diagrams and maps",
+      "url": "https://www.metrolisboa.pt/en/travel/diagrams-and-maps/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "A Merendinha do Arco Bandeira — own menu",
+      "url": "https://merendinhadoarco.pt/en/menu",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Carris — 12E route",
+      "url": "https://www.carris.pt/en/travel/carreiras/12e/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Turismo de Lisboa — Miradouro da Senhora do Monte",
+      "url": "https://www.visitlisboa.com/en/places/miradouro-da-senhora-do-monte",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CP — Cascais line replacement-bus notice",
+      "url": "https://www.cp.pt/info/en/w/cascais-line-replacement-bus",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Carris — 15E route",
+      "url": "https://www.carris.pt/en/travel/carreiras/15e/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Jerónimos / Belém Tower — official visit page",
+      "url": "https://mosteirojeronimos.torrebelem.gov.pt/visitar",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pastéis de Belém — official site",
+      "url": "https://pasteisdebelem.pt/en/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pastéis de Belém — digital menu",
+      "url": "https://www.pasteisdebelem.pt/menu/?lang=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Jerónimos cloister — operator-linked official ticket seller",
+      "url": "https://mmp.bymeoblueticket.pt/pt/event/14759/mosteiro-dos-jeronimos-claustro",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Metro Lisboa — Buy",
+      "url": "https://www.metrolisboa.pt/en/buy/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Metro Lisboa — Navegante occasional card",
+      "url": "https://www.metrolisboa.pt/en/buy/viva-viagem-card/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CP — Lisbon tickets and conditions",
+      "url": "https://www.cp.pt/info/w/tickets-lisbon",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CP — Lisbon urban tariff effective 2026-01-01",
+      "url": "https://www.cp.pt/info/documents/d/cp/precos-comboios-urbanos-lisboa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Carris — official fare sheet effective 2026-01-01",
+      "url": "https://www.carris.pt/media/zwth41fn/a4_prices_vertical_025.pdf",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "planned_trip_cost": {
+      "label": "Planned solo costs before contingency, flights excluded",
+      "value": 277.4,
+      "unit": "per_trip",
+      "currency": "EUR",
+      "display": "€277.40"
+    },
+    "working_trip_envelope": {
+      "label": "Planned solo costs plus contingency, flights excluded",
+      "value": 327.4,
+      "unit": "per_trip",
+      "currency": "EUR",
+      "display": "€327.40"
+    },
+    "maximum_trip_budget": {
+      "label": "Maximum solo budget, flights excluded",
+      "value": 450,
+      "unit": "per_trip",
+      "currency": "EUR",
+      "display": "€450"
+    },
+    "public_transport_allowance": {
+      "label": "Dated transport baseline including conservative support-card allowance",
+      "value": 27.4,
+      "unit": "per_trip",
+      "currency": "EUR",
+      "display": "€27.40"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Dates are retained from the original ledger, not inferred from folder names. Observed prices are dated 2026-11-05, not travel-date offers. Ticket-seller accessDate is unknown: the ledger records the operator-linked URL and no purchase, but not a separate successful access to that seller. No fresh external checks during localization.",
+  "editingContract": "Readable English and Simplified Chinese corresponding lines, paragraphs and table cells retain complete matching numeric, currency, date and URL literals. Headline figures are semantic values, not replacement tokens.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "For first-time solo budget travellers who want a relaxed Lisbon and Cascais itinerary with room for rests and changing plans.",
+    "zh": "适合第一次去里斯本、想控制预算又不愿赶路的中文独立旅行者，尤其是独自出游的人。"
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 2,
+  "slug": "seoul-student-rent-deposit-safety",
+  "translationKey": "seoul-student-rent-deposit-safety",
+  "sources": [
+    {
+      "title": "D3 — Yonsei Housing — Fall 2026 exchange/visiting notice",
+      "url": "https://dorm.yonsei.ac.kr/board/?id=schedule_en&idx=9045&mode=V",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D4 — Yonsei Housing — current Korean schedule board",
+      "url": "https://dorm.yonsei.ac.kr/board/?id=schedule&p=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D6 — Yonsei Housing — current English schedule board",
+      "url": "https://dorm.yonsei.ac.kr/en/board/?id=schedule_en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D1 — Yonsei Housing — Fall 2026 regular Sinchon selection",
+      "url": "https://dorm.yonsei.ac.kr/board/?id=schedule&mode=V&idx=9105",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D2 — Yonsei Housing — Spring 2026 regular Sinchon selection",
+      "url": "https://dorm.yonsei.ac.kr/board/?id=schedule&idx=8956&mode=V",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D5 — Yonsei Housing — Winter 2026 extension",
+      "url": "https://dorm.yonsei.ac.kr/board/?id=schedule&mode=V&idx=9168",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L1 — Sinchon: Stayes #12638 · one-room",
+      "url": "https://stayes.com/products/12638?locale=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L2 — Sinchon: Stayes #8860 · one-room",
+      "url": "https://stayes.com/products/8860?locale=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L3 — Sinchon: MegaStay Sinchon · goshiwon",
+      "url": "https://gobang.kr/place/9271",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L4 — Hongdae: Hongdae Goshitel / Hongdae Stay · goshiwon",
+      "url": "https://gobang.kr/place/4968",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L5 — Hongdae: Buenas Hongdae · share house",
+      "url": "https://gobang.kr/place/25674",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L6 — Yeonhui: Saemgol Living Room · goshiwon",
+      "url": "https://gobang.kr/place/2795",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L7 — Yeonhui: MegaStay Yeonhui · premium one-roomtel",
+      "url": "https://gobang.kr/place/25808",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L8 — Mangwon: Kingstay Mangwon · goshiwon",
+      "url": "https://gobang.kr/place/4971",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L9 — Mangwon: Pompom Share House Mangwon 1",
+      "url": "https://gobang.kr/place/5458",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L10 — Mangwon: House Dudung Mangwon 3 · share house",
+      "url": "https://gobang.kr/place/7854",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H11 — Easy Law — forms of housing lease",
+      "url": "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=1&cciNo=1&cnpClsNo=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H5 — Government24 — building-register issuance/viewing",
+      "url": "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=15000000098",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H14 — National Law Information Center — Building Act Article 38",
+      "url": "https://www.law.go.kr/LSW/lsLinkProc.do?joNo=003800000&lsNm=%EA%B1%B4%EC%B6%95%EB%B2%95&mode=2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Supreme Court Internet Registry Office — property-rights records",
+      "url": "https://www.iros.go.kr/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "H6 — Easy Law — checking the property-rights register",
+      "url": "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=2&cciNo=1&cnpClsNo=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H1 — National Law Information Center — Immigration Act Article 31",
+      "url": "https://www.law.go.kr/LSW/lsLawLinkInfo.do?chrClsCd=010202&lsId=001707&lsJoLnkSeq=900532945&print=print",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H2 — Ministry of Justice — foreigner registration card",
+      "url": "https://www.immigration.go.kr/bbs/moj/93/559234/artclView.do",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H3 — Easy Law — international student registration and changes",
+      "url": "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2853&ccfNo=2&cciNo=3&cnpClsNo=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HiKorea — official immigration reservation/reporting portal",
+      "url": "https://www.hikorea.go.kr/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "H12 — Dongjak-gu — foreign registration and certificates",
+      "url": "https://www.dongjak.go.kr/portal/main/contents.do?menuNo=201136",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H4 — National Law Information Center — Immigration Act Article 36",
+      "url": "https://www.law.go.kr/LSW/lsLinkProc.do?joNo=003600000&lsNm=%EC%B6%9C%EC%9E%85%EA%B5%AD%EA%B4%80%EB%A6%AC%EB%B2%95&mode=2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H13 — Government24 — foreigner change-of-residence report",
+      "url": "https://www.gov.kr/main?a=AA020InfoCappViewApp&HighCtgCD=A01010&CappBizCD=12700000026",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H10 — Easy Law — housing lease-contract reporting",
+      "url": "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=2&cciNo=2&cnpClsNo=5",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H7 — National Law Information Center — Housing Lease Protection Act Article 3",
+      "url": "https://www.law.go.kr/LSW/lsLinkProc.do?joNo=000300000&lsNm=%EC%A3%BC%ED%83%9D%EC%9E%84%EB%8C%80%EC%B0%A8%EB%B3%B4%ED%98%B8%EB%B2%95&mode=2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H8 — National Law Information Center — Immigration Act Article 88-2",
+      "url": "https://www.law.go.kr/LSW/lsLinkProc.do?joNo=008802000&lsNm=%EC%B6%9C%EC%9E%85%EA%B5%AD%EA%B4%80%EB%A6%AC%EB%B2%95&mode=2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H9 — National Law Information Center — Housing Lease Protection Act Article 3-2",
+      "url": "https://www.law.go.kr/LSW/lsLinkProc.do?joNo=000302000&lsNm=%EC%A3%BC%ED%83%9D%EC%9E%84%EB%8C%80%EC%B0%A8%EB%B3%B4%ED%98%B8%EB%B2%95&mode=2",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_housing_ceiling": {
+      "label": "Housing-only monthly ceiling, not whole-life spending",
+      "value": 800000,
+      "unit": "per_month_housing_ceiling",
+      "currency": "KRW",
+      "display": "₩800,000"
+    },
+    "studio_upfront_deposit": {
+      "label": "Advertised studio deposit exposure, not guaranteed safe or refundable",
+      "value": 10000000,
+      "unit": "upfront_deposit",
+      "currency": "KRW",
+      "display": "₩10,000,000"
+    },
+    "beophyeon_period_fee": {
+      "label": "Published historical fall-period fee for Beophyeon double, not spring offer",
+      "value": 1744000,
+      "unit": "historical_period_fee",
+      "currency": "KRW",
+      "display": "₩1,744,000"
+    },
+    "lean_whole_life_target": {
+      "label": "Tight monthly whole-life estimate, no specific room confirmed",
+      "value": 800000,
+      "unit": "per_month_planning_target",
+      "currency": "KRW",
+      "display": "₩800,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Logged source entries retain the original register's 2026-11-06 Seoul/Singapore access date; some receipts are 2026-11-05 UTC. IROS and HiKorea are procedural portal links in the deliverable without separate access entries, so their accessDate is unknown. No external access was repeated for localization; copy editing is not a price, legal or availability refresh.",
+  "uncertainties": [
+    "Spring 2027 dorm fees, deadlines, inventory and check-in dates were not found in the original board check; historical application windows and exchange-only SK Global/I-House terms are not degree-master offers.",
+    "Dorm vacation extensions, cleaning gaps, continuous residence, and meal/bedding/utility/deposit inclusions are not guaranteed.",
+    "All adverts are dated asking terms, not verified room-specific vacancies, March availability, property condition, document acceptance or safe-deposit endorsements. Gender/age rules apply; original student gender is unknown.",
+    "MegaStay Sinchon Korean and English prices conflict; Kingstay deposit table conflicts with older prose. These conflicts are retained. Unpublished sizes, utility caps and laundry costs remain unknown.",
+    "No landlord, property record, senior claims, tax arrears, proxy/trust authority, prior deposits, guarantee eligibility or housing-law coverage for a goshiwon/sublet was individually checked. A fixed date, immigration address acceptance or clean building record does not guarantee deposit recovery.",
+    "Monthly budgets, commute allowances, setup and temporary-stay reserves are estimates. Lean insurance allowance is not an official NHIS premium or exemption decision; tuition, flights and large emergencies are excluded.",
+    "Immigration and lease-report rules need rechecking for the student and exact arrangement. The local outdated 14-day deadline is rejected in favour of national 15-day law; registration timing is distinct from deposit priority."
+  ],
+  "editingContract": "Complete reader-first English and Simplified Chinese with exact numeric/date/external URL multiplicity and corresponding table-cell parity. Local draft only; no Review, stars or public attachment promises.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "International students planning a first Yonsei Sinchon year; Simplified Chinese helps Chinese-speaking students compare Korean deposit terms, housing bills and residence paperwork without changing nationality or programme eligibility.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

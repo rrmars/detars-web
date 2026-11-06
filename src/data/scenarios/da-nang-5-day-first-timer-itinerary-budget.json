@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 2,
+  "slug": "da-nang-5-day-first-timer-itinerary-budget",
+  "translationKey": "da-nang-5-day-first-timer-itinerary-budget",
+  "sources": [
+    {
+      "title": "Management tariff",
+      "url": "https://nguhanhson.org/news/thong-tin-can-biet/gia-ve-tham-quan/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Da Nang city account of Resolution 98/2026",
+      "url": "https://cttdt.danangportal.gov.vn/vi/web/dng/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Original official visitor notice",
+      "url": "https://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Official January 2026 city table",
+      "url": "https://danangfantasticity.com/en/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Official gazette, pp 3–6",
+      "url": "https://congbao.hue.gov.vn/2026/30/BanInCB_2026_30_82_signed.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Sun World 2026 tariff",
+      "url": "https://sunworld.vn/vi/banahills/tin-tuc-sunworld/bang-gia-ve-va-dich-vu-tai-sun-world-ba-na-hills-nam-2026-19796",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "hours page",
+      "url": "https://sunworld.vn/vi/banahills/cam-nang-du-lich/sun-world-ba-na-hills-o-dau-va-dieu-gi-khien-noi-nay-dac-biet-29015",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official tariff",
+      "url": "http://hueworldheritage.org.vn/en-us/Tourism-information/Price",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "seasonal hours",
+      "url": "http://hueworldheritage.org.vn/en-us/Tourism-information/Visiting-time/tid/Visiting-time/cid/3A80B06F-3623-4E1A-ACDD-AF17009C6B27",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Grab's published fare framework",
+      "url": "https://www.grab.com/vn/en/transport/car/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Da Nang Transfer's Hoi An return",
+      "url": "https://danangtransfer.vn/en/danang-private-car/private-car-transfer-from-da-nang-to-hoi-an/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Sun Travel's short pass trip",
+      "url": "https://suntravelcars.com/en/day-tours/da-nang-hai-van-pass-summit-half-day-car-tour/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Hoi An English Driver's route table",
+      "url": "https://hoianenglishdriver.com/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "DFAT's Vietnam driving advice",
+      "url": "https://www.smartraveller.gov.au/destinations/asia/vietnam",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Australian Embassy driving page",
+      "url": "https://vietnam.embassy.gov.au/hnoi/Driving_in_Vietnam.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Official Vietnam Tourism climate guidance",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JMA's Da Nang normals",
+      "url": "https://www.data.jma.go.jp/tcc/tcc/products/climate/climatview/graph_mkhtml_nrm.php?e=7&k=0&m=9&n=48855&r=1&s=1&y=2026",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "National Centre for Hydro-Meteorological Forecasting",
+      "url": "https://www.nchmf.gov.vn/kttv/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official Da Nang food guide",
+      "url": "https://vietnam.travel/things-to-do/foodie-guide-da-nang/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Vietnam Tourism's entry page",
+      "url": "https://vietnam.travel/plan-your-trip/visa-requirements/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "the official e-visa portal",
+      "url": "https://evisa.gov.vn/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Source FAQ",
+      "url": "https://evisa.gov.vn/faq",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "couple_five_day_budget_local_currency": {
+      "label": "Couple five day budget local currency",
+      "value": 10223500,
+      "currency": "VND",
+      "unit": "per_couple_five_days_including_reserve",
+      "display": "VND 10,223,500"
+    },
+    "couple_five_day_budget_australian_dollars": {
+      "label": "Couple five day budget australian dollars",
+      "value": 601.38,
+      "currency": "AUD",
+      "unit": "per_couple_five_days_including_reserve",
+      "display": "AUD 601.38"
+    },
+    "couple_daily_average_with_reserve": {
+      "label": "Couple daily average with reserve",
+      "value": 120.28,
+      "currency": "AUD",
+      "unit": "per_couple_day_including_reserve",
+      "display": "AUD 120.28"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "9709fe325b6345d45e431260ec33e4ce2c96e3d1d870d24a4c580e4bc8b862de",
+    "originalAuditSha256": "96b05bf8f60d6c6618bf7234341333975fe7a22018d44b17428102ce0fb4980a"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two adults travelling from Sydney on ordinary Australian passports for their first Da Nang trip.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

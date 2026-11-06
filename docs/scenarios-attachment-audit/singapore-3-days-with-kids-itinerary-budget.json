@@ -1,0 +1,45 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "2952fcde49d09abb1e3598c8702fd965ab0d5e766857bdc0f9e6bb8a93f058d4",
+  "sourceListLink": "singapore-3-days-with-kids-itinerary-budget-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original research/outputs explicitly say November 5 despite the November-4 archive folder. July 2027 is future travel; failed source refreshes do not create additional research dates.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/singapore-3-days-with-kids-itinerary-budget/singapore-family-plan-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "24f0f26b05f65a8cbeef022cc0a98b8ec0c920dd4c0a17baddcbcd003274abe4",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "singapore-3-days-with-kids-itinerary-budget-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "singapore-3-days-with-kids-itinerary-budget-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "e325c2b34afb620e93b39a6afc89d32a6c0de8073429826aa582c59a1f6eb649",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "singapore-3-days-with-kids-itinerary-budget-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "singapore-3-days-with-kids-itinerary-budget-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

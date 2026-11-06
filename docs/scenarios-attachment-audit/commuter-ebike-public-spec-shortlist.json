@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "c92c05b86ffb2174731dc06fc3cdb2b2ae3d649e2052101cef7a5257b65d5086",
+  "sourceListLink": "../w5-ebike/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "e4d7b4a49c0251f0a946f3325f79041e38c3fc765e719ea330ad206a06cb2ed4",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "fefda8191f1315641ad3856713e1c4a396d9dbe1d9b0f2e3a6631511f99abb1d",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

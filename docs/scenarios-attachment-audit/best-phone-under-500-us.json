@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "fc21471ca404c491997639e0883fbd46e92dd5a86cefc2c7c9d3d74fb96f7fef",
+  "sourceListLink": "best-phone-under-500-us-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/best-phone-under-500-us/phone-comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "433b433462b87eae900dd248f6d365b23ccc00dd8e867c506bd4128fac47a496",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-phone-under-500-us-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "414ee72519416046827c7206e67e37b6cd21f562c6b64b91eabd1945312019d0",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-phone-under-500-us-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

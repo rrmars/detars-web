@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 2,
+  "slug": "hanoi-three-month-remote-work-budget",
+  "translationKey": "hanoi-three-month-remote-work-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "One Australian freelance designer staying in Hanoi February–April 2027 while keeping Sydney business hours; English-only for this specific Australian work and entry profile.",
+  "sources": [
+    {
+      "title": "Immigration portal",
+      "url": "https://evisa.gov.vn/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "evisa.xuatnhapcanh.gov.vn",
+      "url": "https://evisa.xuatnhapcanh.gov.vn/trang-chu-ttdt",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Immigration FAQs",
+      "url": "https://evisa.gov.vn/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ministry of Public Security guidance",
+      "url": "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/khai-bao-tam-tru-cho-nguoi-nuoc-ngoai-co-so-luu-tru-can-chu-dong-1792748300",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "electronic declaration system",
+      "url": "https://tbltkbtt.bocongan.gov.vn/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Vietnam Government policy portal",
+      "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NSW Government dates",
+      "url": "https://www.nsw.gov.au/about-nsw/daylight-saving",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "IQAir's 4 February 2026 report",
+      "url": "https://www.iqair.com/newsroom/hanoi-among-top-10-most-polluted-cities-in-the-world-2-4-2026",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.iqair.com",
+      "url": "https://www.iqair.com/air-quality-map/vietnam/hanoi/hanoi",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "VinaPhone BIG120",
+      "url": "https://vnpt.vn/4g/big120/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MobiFone PT120",
+      "url": "https://5g.mobifone.vn/dich-vu-di-dong/chi-tiet-goi-data/pt120-PT120",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Viettel 5G135",
+      "url": "https://098.viettel.vn/tin-tuc/chi-tiet/cap-nhat-2025-cach-dang-ky-goi-cuoc-tra-truoc-viettel-gia-re-moi-nhat/17031500",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "VNPT Hanoi urban Home 1",
+      "url": "https://kinhdoanh.hanoi.vnpt.vn/internet-truyen-hinh/internet-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "COGO, 1 Thái Hà, Đống Đa",
+      "url": "https://cogo.vn/dich-vu/trai-nghiem-1-ngay-1-thai-ha",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "monthly flexible seat",
+      "url": "https://cogo.vn/dich-vu/cho-ngoi-linh-hoat-1-thai-ha",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Toong",
+      "url": "https://toong.asia/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "location list",
+      "url": "https://toong.asia/locations/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "West Lake service context",
+      "url": "https://www.frasershospitality.com/en/vietnam/hanoi/fraser-suites-hanoi/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/place-to-go/red-river-delta/ha-noi/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "vietnam.travel",
+      "url": "https://vietnam.travel/things-to-do/3-walking-tours-ha-noi/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Spacious 1BR, 65 m²",
+      "url": "https://vietlonghousing.com/properties/high-quality-spacious-1-bedroom-apartment-on-tu-hoa-street/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Modern 1BR, 50 m²",
+      "url": "https://vietlonghousing.com/properties/modern-1-bedroom-apartment-in-tay-ho/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Furnished studio, 45 m²",
+      "url": "https://vietlonghousing.com/properties/heritage-t3-brand-new-studio-for-rent/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Furnished studio, 30 m²",
+      "url": "https://hanoihousing.vn/en/brand-new-studio-apartment-on-hoang-hoa-tham-st-ba-dinh.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "City-view 1BR, 45 m²",
+      "url": "https://hanoihousing.vn/en/city-view-one-bedroom-apartment-on-linh-lang-st-ba-dinh.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Scandinavian-design studio, 40 m²",
+      "url": "https://hanoihousing.vn/en/studio-apartment-with-scandinavian-design-in-ba-dinh.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Modern furnished studio, 30 m²",
+      "url": "https://hanoivietnamhome.com/modern-studio-for-rent-in-hoan-kiem-area/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Balcony studio, 40 m²",
+      "url": "https://hanoivietnamhome.com/nice-balcony-01-bedroom-apartment-for-rent-in-ly-nam-de-str-hang-ma-ward-hoan-kiem/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Furnished open-plan studio, 45 m²",
+      "url": "https://hanoirealestate.com.vn/apartments-in-cau-giay-district/charming-studio-serviced-apartment-in-tran-thai-tong-cau-giay.1724.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Furnished 1BR, 50 m²",
+      "url": "https://houseinhanoi.vn/property/lovely-1-bedroom-apartment-for-rent-on-linh-lang-ba-dinh/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tourist.viettel.vn",
+      "url": "https://tourist.viettel.vn/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "shop.viettel.vn",
+      "url": "https://shop.viettel.vn/tin-tuc/chi-tiet/viettel-chinh-thuc-cung-cap-cong-nghe-wi-fi-7-trai-nghiem-internet-dinh-cao-toc-do-den-2-gbps-chi-tu-279kthang/11394860",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "cogo.vn",
+      "url": "https://cogo.vn/dia-diem/1-thai-ha",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_low": {
+      "value": 990,
+      "display": "$990",
+      "label": "Lower recurring monthly estimate",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    },
+    "monthly_high": {
+      "value": 1667,
+      "display": "$1,667",
+      "label": "Upper recurring monthly estimate; USD range in prose",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    },
+    "monthly_middle": {
+      "value": 1300,
+      "display": "$1,300",
+      "label": "Illustrative monthly middle target",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    },
+    "deposit_high": {
+      "value": 1600,
+      "display": "$1,600",
+      "label": "Upper deposit contingency, not a quoted policy",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains source access date November 6, 2026 Asia/Singapore/Hanoi; November 5 UTC receipts belong to the same session. Copy drafting and local checks are not a source refresh. No publication date invented.",
+  "uncertainties": [
+    "All ten offers are public advertisements only: no February vacancy, three-month acceptance, physical-unit uniqueness, actual quietness or measured internet quality confirmed. Seven deposits and all electricity tariffs unpublished; amenities do not establish included charges.",
+    "Entry e-visa is not proof of remote paid-work authorisation. Australian overseas-client freelance case unresolved; seek specific official guidance. This is not legal or immigration advice.",
+    "Tết public-sector break February 4–10, 2027 is adopted, not the older proposal; exact private business/building/coworking closures unknown.",
+    "Domestic mobile eligibility for foreign passports, initial SIM charges and hotspot terms unresolved. Fibre minimum terms, foreign-tenant eligibility and cancellation/prepay conditions unresolved.",
+    "Air observation above AQI 180 is a historical city snapshot, not a station reading, district comparison, monthly mean or February 2027 forecast.",
+    "Monthly USD 990–1667 and separate arrival allowances are estimates, not quotes; FX USD1=VND26000 assumed. Insurance must cover the actual paid-work stay. Flights unpriced; refundable deposits tie up cash and landing hotel may overlap rent."
+  ],
+  "editingContract": "English-only reader-first local Markdown and schema-v2 data. No shared inventory, build, source-run or website edit; no external refresh, contact, application, booking or publication.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

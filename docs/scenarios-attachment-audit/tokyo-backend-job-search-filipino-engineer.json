@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "0be6af46a121ff8c23bfc5c1f7f5a16ac8ca4cef6cda3f0bf00bdb9d327d761f",
+  "sourceListLink": "../w6-tokyo-tech-job/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "18f87a654ed108d3eb08271c1dbcb4a0d9a5d4b88280b627998fc6f2a434a0e3",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "5189dbf2e03ea514ed0b1dc6073ed7c8ff89c4d9049843d325945950c922efe8",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

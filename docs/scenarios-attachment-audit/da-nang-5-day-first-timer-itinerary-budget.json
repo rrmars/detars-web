@@ -1,0 +1,55 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "74c3db8fa69a74b7e04b3a35842ba1106eb16774f3433ea44956db4c3502a836",
+  "sourceListLink": "da-nang-5-day-first-timer-itinerary-budget-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original source reads explicitly November 5, not the archive's November 4; the separate selective same-day checks are distinct and late September 2027 is future travel.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/da-nang-5-day-first-timer-itinerary-budget/Da-Nang-plan-and-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "7e92ce0e8403efc1703eb21c45f7ead84712dfdc3e848a88c4be305c565b95ed",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "da-nang-5-day-first-timer-itinerary-budget-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-danang-5days/Da-Nang-plan-and-budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/da-nang-5-day-first-timer-itinerary-budget/Da-Nang-plan-and-budget.xlsx"
+        },
+        {
+          "target": "../w3-danang-5days/Da-Nang-5-days.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "e3373031e886c1c63ffc810455e89f99d09623b2a415b09b5d5e513a90e7bb2e",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "da-nang-5-day-first-timer-itinerary-budget-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-danang-5days/Da-Nang-plan-and-budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/da-nang-5-day-first-timer-itinerary-budget/Da-Nang-plan-and-budget.xlsx"
+        },
+        {
+          "target": "../w3-danang-5days/Da-Nang-5-days.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "f4c25cf400a36700f01fc7c12251fb1a22fd7388e936f24d1bdfcb218c42f577",
+  "sourceListLink": "../w5-local-stt/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8c95cff4036a0e46bd6260c771914a946a8bc08a94c6777e2a663bb7d2c6ff7b",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "eb9533ba8d8ef41a84d3275d0cf1b46134a3ab631f661e472d82cfa2b09787ff",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

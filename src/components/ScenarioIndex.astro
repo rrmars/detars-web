@@ -1,0 +1,101 @@
+---
+import { navItems } from "@/lib/nav";
+import { getScenarioCards, scenarioContentLocale, scenarioDate, scenarioDomain, scenarioDomains, scenarioIndexCopy, scenarioUrl } from "@/lib/scenarios";
+import { withLocale, type Locale } from "@/lib/site";
+
+type Props = { locale: Locale };
+const { locale } = Astro.props;
+const contentLocale = scenarioContentLocale(locale);
+const copy = scenarioIndexCopy(locale);
+const cards = await getScenarioCards(locale);
+---
+
+<nav class="mobile-section-nav shell" aria-label={contentLocale === "zh" ? "相关栏目" : "Related sections"}>
+  {navItems.filter((item) => ["/packs", "/scenarios", "/research"].includes(item.route)).map((item) =>
+    <a href={withLocale(locale, item.route)} aria-current={item.route === "/scenarios" ? "page" : undefined}>{item.label[locale]}</a>
+  )}
+</nav>
+<section class="shell scenario-intro" lang={contentLocale}>
+  <span class="kicker">{copy.kicker}</span>
+  <h1>{copy.heading}</h1>
+  <p class="lead">{copy.intro}<br /><strong>{copy.invitation}</strong></p>
+  <div class="intro-bottom"><p>{copy.quiet}</p><a href={withLocale(locale, "/download")}>{copy.action}</a></div>
+  {locale !== "en" && locale !== "zh" && <p class="fallback-note">These guides are available in English and, where translated, Simplified Chinese. You are viewing the English collection.</p>}
+</section>
+<section class="shell scenario-collection" lang={contentLocale} data-scenario-collection>
+  <div class="filters" role="group" aria-label={contentLocale === "zh" ? "按领域筛选" : "Filter by domain"}>
+    <button type="button" data-filter="all" aria-pressed="true" aria-controls="scenario-cards">{copy.all}</button>
+    {scenarioDomains.map((domain) => <button type="button" data-filter={domain.id} aria-pressed="false" aria-controls="scenario-cards">{domain[contentLocale]}</button>)}
+  </div>
+  <div class="results-head"><span data-result-count data-count-label={copy.count} aria-live="polite" aria-atomic="true">{cards.length} {copy.count}</span><span>{contentLocale === "zh" ? "答案 · 假设 · 下一步" : "Answers · assumptions · next steps"}</span></div>
+  <div class="scenario-cards" id="scenario-cards">
+    {cards.map((entry, index) => <article class:list={["scenario-card", { featured: index === 0 }]} data-domain={entry.data.domain} lang={entry.data.locale}>
+      <div class="card-top"><span>{scenarioDomain(entry, locale)}</span><span class="number">{String(index + 1).padStart(2, "0")}</span></div>
+      <div class="language-chips" aria-label={copy.languages}>
+        {entry.data.locales.map((language) => <a href={withLocale(language, `/scenarios/${entry.data.slug}`)} hreflang={language === "zh" ? "zh-Hans" : "en"} lang={language}>{language === "zh" ? "中文" : entry.data.locales.length === 1 ? "English" : "EN"}</a>)}
+      </div>
+      <h2><a href={scenarioUrl(entry)}>{entry.data.title}</a></h2>
+      <p class="answer">{entry.data.description}</p>
+      <div class="card-bottom"><span class="badge">{copy.producer}</span><span class="date">{copy.researched} · {scenarioDate(entry.data.publishedAt, locale)}</span></div>
+      <a class="card-action" href={scenarioUrl(entry)}>{copy.read}<span class="sr-only"> {entry.data.title}</span></a>
+    </article>)}
+  </div>
+  <p class="collection-note">{copy.note}</p>
+</section>
+
+<script>
+  document.querySelectorAll<HTMLElement>("[data-scenario-collection]").forEach((collection) => {
+    const buttons = collection.querySelectorAll<HTMLButtonElement>("[data-filter]");
+    const cards = collection.querySelectorAll<HTMLElement>(".scenario-card");
+    const count = collection.querySelector<HTMLElement>("[data-result-count]");
+    buttons.forEach((button) => button.addEventListener("click", () => {
+      let visible = 0;
+      cards.forEach((card) => {
+        card.hidden = button.dataset.filter !== "all" && card.dataset.domain !== button.dataset.filter;
+        if (!card.hidden) visible++;
+      });
+      buttons.forEach((other) => other.setAttribute("aria-pressed", String(other === button)));
+      if (count) count.textContent = `${visible} ${count.dataset.countLabel}`;
+    }));
+  });
+</script>
+
+<style>
+  .scenario-intro { padding: 84px 0 42px; }
+  h1 { font-size: clamp(38px, 4.6vw, 64px); line-height: 1.13; letter-spacing: -.03em; font-weight: 900; margin-top: 22px; max-width: 22ch; white-space: pre-line; }
+  .lead { font-size: 17px; line-height: 1.8; color: var(--muted); max-width: 65ch; margin-top: 24px; }
+  .lead strong { color: var(--text); font-weight: 500; }
+  .intro-bottom { display: flex; justify-content: space-between; gap: 24px; align-items: end; margin-top: 30px; font-size: 12px; color: var(--faint); line-height: 1.7; }
+  .intro-bottom a { color: var(--accent2); font-size: 13px; }
+  .fallback-note { margin-top: 18px; color: var(--faint); font-size: 13px; max-width: 65ch; line-height: 1.7; }
+  .filters { padding: 26px 0; border-block: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 8px; }
+  .filters button { background: transparent; color: var(--muted); border: 1px solid var(--line); border-radius: 9px; padding: 9px 13px; font: inherit; font-size: 13px; cursor: pointer; line-height: 1.4; flex-shrink: 0; }
+  .filters button[aria-pressed="true"] { background: #ff6a3d19; border-color: #ff6a3d55; color: var(--accent2); }
+  .filters button:hover { border-color: var(--accent2); }
+  .results-head { display: flex; justify-content: space-between; gap: 16px; margin: 28px 0 18px; font-size: 12px; color: var(--faint); }
+  .scenario-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+  .scenario-card { min-width: 0; border: 1px solid var(--line); border-radius: 16px; background: rgba(255,255,255,.025); padding: 24px; display: flex; flex-direction: column; overflow-wrap: anywhere; }
+  .scenario-card[hidden] { display: none; }
+  .scenario-card.featured { border-color: #ff6a3d66; background: linear-gradient(155deg,#ff6a3d0d,rgba(255,255,255,.025) 70%); }
+  .card-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; color: var(--accent2); font-size: 12px; line-height: 1.5; }
+  .number { font: 11px var(--sg); color: var(--faint); }
+  .language-chips { display: flex; gap: 5px; margin-top: 14px; }
+  .language-chips a { font-size: 10px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 2px 5px; line-height: 1.5; }
+  .language-chips a:hover { color: var(--accent2); border-color: var(--accent2); }
+  .scenario-card h2 { font-size: 20px; line-height: 1.5; letter-spacing: -.01em; font-weight: 600; margin-top: 18px; }
+  .scenario-card h2 a:hover { color: var(--accent2); }
+  .answer { font-size: 14px; line-height: 1.8; color: var(--muted); margin: 14px 0 22px; }
+  .card-bottom { margin-top: auto; padding-top: 16px; border-top: 1px solid var(--line); display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: space-between; }
+  .badge { display: inline-flex; gap: 6px; align-items: center; border: 1px solid var(--line2); padding: 4px 8px; border-radius: 6px; font-size: 10px; color: var(--muted); line-height: 1.5; }
+  .badge::before { content: ""; width: 4px; height: 4px; border-radius: 50%; background: var(--accent2); }
+  .date { font: 11px var(--sg); color: var(--faint); }
+  .card-action { margin-top: 14px; color: var(--accent2); font-size: 12px; }
+  .scenario-collection { padding-bottom: 44px; }
+  .collection-note { margin-top: 30px; color: var(--faint); font-size: 12px; line-height: 1.8; }
+  .mobile-section-nav { display: none; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  @media (max-width: 1000px) { .mobile-section-nav { display: flex; gap: 22px; border-bottom: 1px solid var(--line); padding: 10px 0 14px; font-size: 12px; color: var(--muted); } .mobile-section-nav a[aria-current] { color: var(--accent2); } }
+  @media (max-width: 960px) { .scenario-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 860px) { .scenario-intro { padding-top: 54px; } .intro-bottom { align-items: start; flex-direction: column; gap: 12px; } .filters { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; padding: 20px 2px; scrollbar-width: thin; } }
+  @media (max-width: 600px) { .scenario-cards { grid-template-columns: 1fr; } .scenario-intro { padding-bottom: 30px; } h1 { font-size: 38px; } .lead { font-size: 15px; margin-top: 20px; } .filters button { padding: 8px 10px; font-size: 12px; } .scenario-card { padding: 22px; } .results-head { font-size: 11px; } }
+</style>

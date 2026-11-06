@@ -1,0 +1,59 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "d580b6fb62526a7fb0fb774805b5a4e5a03863e73cd4900b035cce8416c6c1b9",
+  "sourceListLink": "lisbon-cost-of-living-remote-worker-d8-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "9fa95827fe4933d289f8823748b590fbbd179f2f557719dc8935cffd880361e2",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "lisbon-cost-of-living-remote-worker-d8-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-lisbon-living/Lisbon-budget-Apr2027.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-lisbon-living/model-data.json",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "lisbon-cost-of-living-remote-worker-d8-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "e20f226876cade8b9d568cac2cf386c4e14fbffc649a30e69ffb31865a5e455a",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "lisbon-cost-of-living-remote-worker-d8-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-lisbon-living/Lisbon-budget-Apr2027.xlsx",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-lisbon-living/model-data.json",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "lisbon-cost-of-living-remote-worker-d8-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

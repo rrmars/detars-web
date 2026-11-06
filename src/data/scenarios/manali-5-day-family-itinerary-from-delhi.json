@@ -1,0 +1,153 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Delhi families with two adults and children aged eight and twelve planning gentle Manali outings.",
+  "schemaVersion": 2,
+  "slug": "manali-5-day-family-itinerary-from-delhi",
+  "translationKey": "manali-5-day-family-itinerary-from-delhi",
+  "sources": [
+    {
+      "title": "a ropeway by-law reproduction",
+      "url": "https://bareactslive.com/HP/hp109.htm",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "a secondary Van Vihar guide",
+      "url": "https://chalbanjare.com/Place/van-vihar-national-park-manali",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "2026 supplier taxi chart",
+      "url": "https://manalirentals.in/manali-taxi-fare-chart-2026/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "AbhiBus route page",
+      "url": "https://www.abhibus.com/travels-booking/zingbus-delhi-to-manali-online-booking",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Outbound",
+      "url": "https://www.ixigo.com/cheap-flights/new-delhi-kullu-del-kuu",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Return",
+      "url": "https://www.ixigo.com/cheap-flights/kullu-new-delhi-kuu-del",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Supplier route/rental article",
+      "url": "https://www.hirenride.com/blog/delhi-to-manali-by-car-route-tolls-night-in-mandi",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Supplier chart",
+      "url": "https://suritours.in/outstation-taxi/delhi-to-manali-cabs.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "district's route guidance",
+      "url": "https://hplahaulspiti.nic.in/how-to-reach/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "road-status table",
+      "url": "https://hplahaulspiti.nic.in/road-status/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official permit service",
+      "url": "https://hpkullu.nic.in/service/rohtang-permit/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "May 2026 notice",
+      "url": "https://hpkullu.nic.in/notice/regulation-of-vehicular-traffic-on-rohtang-road-up-to-marhi-may-2026/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "tourism-permit information",
+      "url": "https://rohtangpermits.hp.gov.in/Home/InformatoryScreen",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Lahaul e-Aagman site",
+      "url": "https://eaagman.hp.gov.in/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Manali entry charges",
+      "url": "https://rohtangpermits.hp.gov.in/ManaliEntry/InformatoryScreen",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Welcomhotel Hamsa",
+      "url": "https://www.itchotels.com/in/en/welcomhotelhamsa-manali",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official IMD 1991–2020 table",
+      "url": "https://www.imdpune.gov.in/library/public/Climatological%20Tables%201991-2020.pdf#page=509",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CDC guidance",
+      "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "supplier's FAQ",
+      "url": "https://manalirentals.in/manali-taxi-fare-chart-2026/#faq",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "family_base_budget_excluding_accommodation": {
+      "label": "Family base budget excluding accommodation",
+      "value": 55100,
+      "currency": "INR",
+      "unit": "five_destination_days_for_four",
+      "display": "₹55,100"
+    },
+    "family_included_reserve": {
+      "label": "Family included reserve",
+      "value": 6000,
+      "currency": "INR",
+      "unit": "per_family_trip",
+      "display": "₹6,000"
+    },
+    "family_rohtang_replacement_budget": {
+      "label": "Family rohtang replacement budget",
+      "value": 59250,
+      "currency": "INR",
+      "unit": "per_family_trip",
+      "display": "₹59,250"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "ab236ba9187a4ab5ce450e12fac02a6e708bdbfb1e01cef9195bddad343aa3bc",
+    "originalAuditSha256": "cee7139817562ca69a9b1152eac9100db3b3b6531275965c459487ffb4d64644"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

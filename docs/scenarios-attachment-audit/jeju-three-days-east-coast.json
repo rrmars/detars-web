@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "1508ba7f300809cbfac281dd6335881f10c1d624e3b6f13ca278ada3160793ac",
+  "sourceListLink": "../w6-jeju-3days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "7506df7d0220269fc3e83ef1fd15eca2b89018734a9db6967083acc642ce80fe",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "6b20cd1c5c451f157740843f3510183cac167aaf47a7b4e2cc5cb6c4a9fb9f21",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

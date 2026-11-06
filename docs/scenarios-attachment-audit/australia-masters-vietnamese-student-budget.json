@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "18a4158f8239f3a08dc7d44aef39ef416a26293413d28433164f0677b93531a0",
+  "sourceListLink": "../w6-australia-masters-vietnam/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "1a3ca36da3e38e7f6b546d3a3de95a279fa5f065edad9768fbbddf50e130bf36",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "d47be0db8202f1f57f7852ffb08a3e3af73c33fa73b489b992d493c8710b1329",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

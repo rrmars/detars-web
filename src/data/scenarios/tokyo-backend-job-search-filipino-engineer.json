@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 2,
+  "slug": "tokyo-backend-job-search-filipino-engineer",
+  "translationKey": "tokyo-backend-job-search-filipino-engineer",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Filipino engineer living in the Philippines with six years of Go/Python backend experience and JLPT N4, targeting Tokyo employment by October 1, 2027; Simplified Chinese supports Chinese-speaking engineers without changing nationality, eligibility or Philippine departure obligations.",
+  "sources": [
+    {
+      "title": "Japan Dev salary guide",
+      "url": "https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Robert Half 2026 salary guide: Backend Engineer",
+      "url": "https://www.roberthalf.com/jp/en/job-details/backend-engineer",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TokyoDev: Money Forward Go backend posting",
+      "url": "https://www.tokyodev.com/companies/moneyforward/jobs/senior-backend-engineer-go-communication-platform-department-ppd-tokyo",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TokyoDev Developer Survey 2025",
+      "url": "https://2025.surveys.tokyodev.com/en-US/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TokyoDev",
+      "url": "https://www.tokyodev.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Dev",
+      "url": "https://japan-dev.com/jobs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Jamm",
+      "url": "https://japan-dev.com/companies/jamm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Money Forward",
+      "url": "https://www.tokyodev.com/companies/moneyforward",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HENNGE",
+      "url": "https://japan-dev.com/companies/hennge",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PayPay",
+      "url": "https://www.tokyodev.com/companies/paypay",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PayPay Securities",
+      "url": "https://www.tokyodev.com/companies/paypay-securities",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MeetsMore",
+      "url": "https://japan-dev.com/companies/meetsmore",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Visual Alpha",
+      "url": "https://japan-dev.com/companies/visual-alpha",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Mujin",
+      "url": "https://japan-dev.com/companies/mujin",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Backend Developer",
+      "url": "https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Senior Software Engineer (Python/Web Dev) — Access Control",
+      "url": "https://japan-dev.com/jobs/hennge/hennge-senior-software-engineer-python-lr0ht8",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Senior Software Engineer (Backend/Infrastructure) — Secure Transfer",
+      "url": "https://japan-dev.com/jobs/hennge/hennge-senior-software-engineer-backend--infrastructure---hennge-secure-transfer-w89j99",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Backend Engineer",
+      "url": "https://www.tokyodev.com/companies/paypay/jobs/backend-engineer-884fff6e-47a5-4bf3-b8b0-004a9a3d3c04",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Backend Engineer",
+      "url": "https://www.tokyodev.com/companies/paypay-securities/jobs/backend-engineer",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Full Stack Developer",
+      "url": "https://japan-dev.com/jobs/jamm/jamm-full-stack-developer-y9t2e8",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Senior Software Engineer — Platform (Atlas)",
+      "url": "https://japan-dev.com/jobs/meetsmore/meetsmore-senior-software-engineer--platform-atlas-ptjy21",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Senior Full-Stack Software Engineer",
+      "url": "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Software Engineer — Open Position (Robotics / Backend, C++)",
+      "url": "https://japan-dev.com/jobs/mujin/mujin-software-engineer--open-position-robotics--backend-c-kejo6u",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ISA application page",
+      "url": "https://www.moj.go.jp/isa/applications/status/gijinkoku.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "landing criteria, page 1",
+      "url": "https://www.moj.go.jp/isa/content/001366995.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official designated-exam notice, item 3",
+      "url": "https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "published standard COE processing period",
+      "url": "https://www.moj.go.jp/isa/applications/procedures/16-1.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MOFA",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/long/visa1.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ISA’s pre-entry TB rules",
+      "url": "https://www.moj.go.jp/isa/10_00219.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MWO-Tokyo’s direct-hire exemption checklist",
+      "url": "https://mwo-tokyo.dmw.gov.ph/index.php/2025/08/04/exemption-on-the-ban-on-direct-hiring/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ISA points table, page 1",
+      "url": "https://www.moj.go.jp/isa/content/001398882.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "current evaluation page",
+      "url": "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_evaluate_index.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official FAQ",
+      "url": "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_qa.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JASSO’s Tokyo page",
+      "url": "https://www.studyinjapan.go.jp/en/why/47prefectures/kanto/tokyo.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Selectra, updated 27 Oct 2026",
+      "url": "https://selectra.jp/en/life-in-japan/first-cost-in-japan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Housing Rep Tokyo’s undated rental guide",
+      "url": "https://www.houserep-tokyo.com/rent/cost",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JASSO’s 2023 student survey",
+      "url": "https://www.studyinjapan.go.jp/en/life/cost-of-living/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "negotiating_salary_lower_bound": {
+      "label": "Editorial lower bound of the proposed annual gross negotiating range, not a guaranteed offer",
+      "value": 8,
+      "unit": "million_jpy_per_year",
+      "currency": "JPY",
+      "display": "¥8–11m"
+    },
+    "monthly_living_baseline": {
+      "label": "Estimated monthly living envelope excluding payroll taxes and social insurance",
+      "value": 230000,
+      "unit": "estimated_monthly_cost",
+      "currency": "JPY",
+      "display": "¥230,000"
+    },
+    "initial_lease_cash": {
+      "label": "Example initial lease bill including first month housing and refundable deposit",
+      "value": 459500,
+      "unit": "estimated_initial_lease_cash",
+      "currency": "JPY",
+      "display": "¥459,500"
+    },
+    "first_year_cash_outflow": {
+      "label": "Estimated first year cash outflow, includes tied-up deposit, excludes payroll deductions",
+      "value": 3444500,
+      "unit": "estimated_first_year_cash_outflow",
+      "currency": "JPY",
+      "display": "¥3,444,500"
+    },
+    "departure_cash_target": {
+      "label": "Setup plus protected three-month reserve, rounded in prose to about JPY 1.5 million",
+      "value": 1469500,
+      "unit": "estimated_departure_cash",
+      "currency": "JPY",
+      "display": "¥1,469,500"
+    },
+    "protected_three_month_reserve": {
+      "label": "Untouched three-month living buffer, not extra annual spending",
+      "value": 690000,
+      "unit": "protected_reserve",
+      "currency": "JPY",
+      "display": "¥690,000"
+    }
+  },
+  "jobLeads": [
+    {
+      "company": "Jamm",
+      "title": "Backend Developer",
+      "url": "https://japan-dev.com/jobs/jamm/jamm-backend-developer-n7o3sk",
+      "pay": "¥7–10m",
+      "japanese": "No Japanese required; N2+ is optional.",
+      "fit": "Direct Go match. Production services, relational design and distributed-system trade-offs. Three office days/week.",
+      "type": "Direct"
+    },
+    {
+      "company": "Money Forward",
+      "title": "Senior Backend Engineer (Go), Communication Platform Department, PPD, Tokyo",
+      "url": "https://www.tokyodev.com/companies/moneyforward/jobs/senior-backend-engineer-go-communication-platform-department-ppd-tokyo",
+      "pay": "¥7.008–11.004m",
+      "japanese": "No Japanese required; business English (TOEIC 700 equivalent).",
+      "fit": "6+ years developing and operating medium/large web services. Strong Go, AWS, SQL, architecture and mentoring required. Exactly at the tenure floor.",
+      "type": "Direct"
+    },
+    {
+      "company": "HENNGE",
+      "title": "Senior Software Engineer (Python/Web Dev) — Access Control",
+      "url": "https://japan-dev.com/jobs/hennge/hennge-senior-software-engineer-python-lr0ht8",
+      "pay": "¥8.5–12.5m",
+      "japanese": "No Japanese required; English B2+ (e.g. TOEIC 785+).",
+      "fit": "Requires 5+ years specifically in production Python web apps, plus cloud and mentoring. Mixed Go/Python tenure may not meet that hard floor. Pay includes conditional English/office-attendance allowances.",
+      "type": "Direct, conditional"
+    },
+    {
+      "company": "HENNGE",
+      "title": "Senior Software Engineer (Backend/Infrastructure) — Secure Transfer",
+      "url": "https://japan-dev.com/jobs/hennge/hennge-senior-software-engineer-backend--infrastructure---hennge-secure-transfer-w89j99",
+      "pay": "¥8.5–12.5m",
+      "japanese": "No Japanese required; English B2+.",
+      "fit": "Requires 3+ years production Python plus substantial Kubernetes, Terraform and mission-critical AWS ownership. Same allowance caveat. Not an app-coding-only job.",
+      "type": "Direct, infrastructure-heavy"
+    },
+    {
+      "company": "PayPay",
+      "title": "Backend Engineer",
+      "url": "https://www.tokyodev.com/companies/paypay/jobs/backend-engineer-884fff6e-47a5-4bf3-b8b0-004a9a3d3c04",
+      "pay": "Not disclosed",
+      "japanese": "No Japanese required; business English is sufficient.",
+      "fit": "Minato-ku. Non-Java Go/Python engineers explicitly accepted; 4+ year tier, distributed cache/concurrency skills. Professional AI-development-tool use required. Production stack is mainly Java/Kotlin/Scala; be willing to switch.",
+      "type": "Direct, language transition"
+    },
+    {
+      "company": "PayPay Securities",
+      "title": "Backend Engineer",
+      "url": "https://www.tokyodev.com/companies/paypay-securities/jobs/backend-engineer",
+      "pay": "Not disclosed",
+      "japanese": "No Japanese required; business English.",
+      "fit": "Shinjuku-ku. 5+ years backend product work; Go/Python accepted as an alternative to Java/PHP. Distributed systems/cache and willingness to learn the production stack required.",
+      "type": "Direct, language transition"
+    },
+    {
+      "company": "Jamm",
+      "title": "Full Stack Developer",
+      "url": "https://japan-dev.com/jobs/jamm/jamm-full-stack-developer-y9t2e8",
+      "pay": "¥7–10m",
+      "japanese": "No Japanese required; N2+ optional.",
+      "fit": "Backend-leaning applicants explicitly welcome. Go backend overlaps, but you must be comfortable delivering UI too. Same small team as the dedicated backend advertisement.",
+      "type": "Broader alternative"
+    },
+    {
+      "company": "MeetsMore",
+      "title": "Senior Software Engineer — Platform (Atlas)",
+      "url": "https://japan-dev.com/jobs/meetsmore/meetsmore-senior-software-engineer--platform-atlas-ptjy21",
+      "pay": "¥7–11m",
+      "japanese": "No Japanese required; conversational Japanese OR desire to learn.",
+      "fit": "Backend-focused full-stack/platform work. Senior cloud/distributed systems and observability required. TypeScript is ideal, not a hard tenure requirement; willingness to cover other systems matters.",
+      "type": "Broader alternative"
+    },
+    {
+      "company": "Visual Alpha",
+      "title": "Senior Full-Stack Software Engineer",
+      "url": "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7",
+      "pay": "¥6–10m",
+      "japanese": "No Japanese required; N2+ preferred only.",
+      "fit": "Python is an accepted foundation. Independent cloud/full-stack delivery and willingness to learn Node.js required. Only pursue if some frontend work is genuinely acceptable.",
+      "type": "Broader alternative"
+    },
+    {
+      "company": "Mujin",
+      "title": "Software Engineer — Open Position (Robotics / Backend, C++)",
+      "url": "https://japan-dev.com/jobs/mujin/mujin-software-engineer--open-position-robotics--backend-c-kejo6u",
+      "pay": "¥8–15m",
+      "japanese": "No Japanese required; business English.",
+      "fit": "Tokyo/Koto-ku, on-site. C++ and/or Python; Linux, reliable systems and robotics interest needed. This is a live matching pool, not a guaranteed specific backend-team vacancy.",
+      "type": "Matching pool / domain stretch"
+    }
+  ],
+  "jobLeadClassification": {
+    "directBackendRoles": 6,
+    "broaderAlternatives": 3,
+    "matchingPools": 1,
+    "accessDate": "2026-11-06",
+    "openDefinition": "Individual public page showed active application route and no closed notice; no employer headcount confirmation or submission tested.",
+    "applicationConstraints": [
+      "HENNGE permits one application covering Access Control and Secure Transfer.",
+      "No parallel selection across PayPay, PayPay Card and PayPay Securities.",
+      "PayPay UUID-bearing URL is the inspected open listing; generic short backend URL led to an archived closed advert."
+    ]
+  },
+  "budgetAssumptions": {
+    "currency": "JPY",
+    "priceBasis": "November 2026 estimates, not October 2027 quotes",
+    "household": "One adult, no dependants or car; modest studio/1K and commuting",
+    "monthlyLiving": 230000,
+    "monthlyHousing": 95000,
+    "leaseCashIncludingFirstHousing": 459500,
+    "leaseCashExcludingFirstHousing": 364500,
+    "furnishing": 150000,
+    "temporaryHousing": 120000,
+    "flightsAndDocuments": 50000,
+    "firstYearCashOutflow": 3444500,
+    "refundableDepositIncludedAsCashOutflow": 90000,
+    "setupCash": 779500,
+    "protectedReserve": 690000,
+    "departureCash": 1469500,
+    "exclusions": [
+      "Payroll income and resident taxes",
+      "Pension, health and employment insurance payroll deductions",
+      "Remittances and dependants",
+      "Major dental work and home visits"
+    ],
+    "reserveTreatment": "Reserve is not another annual expense; prepaid first housing appears only once in year-one cash."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All external sources retain their explicitly recorded access date of 2026-11-06 Asia/Singapore (original receipts can be 2026-11-05 UTC). Undated source documents remain undated; access date is not publication date. No external lookup, vacancy refresh, salary refresh, immigration/departure-rule refresh or original-run changes during this draft. No publication date invented.",
+  "uncertainties": [
+    "Not immigration or legal advice. Age, degree/major, precise completed experience anniversary, exam passes, English fluency, Python-specific tenure, cloud/distributed systems/Linux/frontend/mentoring depth, notice period, actual dependants and savings remain unconfirmed.",
+    "Six years alone does not satisfy the ordinary ten-year experience branch. Relevant degree/equivalent, qualifying Japanese vocational credentials, specified relevant study periods or exact designated IT pass require individual assessment. N4 is not a universal backend visa blocker; employer language requirements and case-specific ISA evidence remain separate.",
+    "HSP eligibility requires underlying qualifying activities and eligibility plus points and remuneration conditions. Examples are arithmetic, no employer/university/research/exam bonuses assumed. No actual HSP score or offer established.",
+    "Ten dated advertisements are six direct backend roles, three broader alternatives and one matching pool, not ten equally strong pure-backend vacancies or independent application processes. Overseas eligibility does not mean permanent remote work from the Philippines. Closed and hard language/tenure-ineligible roles were excluded.",
+    "HENNGE Python-specific floors and conditional allowances, PayPay professional AI-tool use and production-language transitions, Visual Alpha English-label discrepancy, broader frontend work and Mujin robotics/Linux/on-site matching remain consequential. Relocation caps, office policies and headcount require employer confirmation.",
+    "Salary target/floor is an editorial negotiation estimate, not guaranteed pay. Board ranges, recruiter starting base percentiles, self-reported total compensation and individual advertised compensation are different measures; Money Forward appears on both boards. TokyoDev survey respondent-count contradiction is not repeated.",
+    "Philippines-resident Filipino applicants may need designated-clinic TB screening; residence/programme exceptions and certificate timing require checking. Japanese COE/visa does not settle Philippine DMW/MWO contract verification, direct-hire exemption, current medical/orientation/insurance or actual OEC/exit-clearance route. End-to-end 2027 process remains verification required.",
+    "Housing, flights/documents, monthly allocations, reserve and late-2027 cushion are estimates, not quotes or inflation forecasts. Historical occupied-stock and student rents are context only. Temporary housing overlap, rent-linked fees, first payday and reimbursement timing can change cash need.",
+    "The sixteen-week plan, application counts, response checkpoints, language-study goals, June offer deadline and relocation buffers are recommendations, not official deadlines or hiring guarantees. Current vacancies are not held until 2027; a fixed October start can require a shifted campaign.",
+    "Original research reports isolated incognito final page checks, but this draft did not repeat live source verification or original render checks. No applications, contact, accounts, payment, publication or website-repository edits. Local source-list/evidence links are builder provenance only, not public downloads."
+  ],
+  "editingContract": "Complete reader-first English and Simplified Chinese local Markdown drafts; exact numeric/currency/date/external-URL multiplicity and corresponding table-cell parity; preserve full salary comparisons, ten job distinctions, immigration/departure qualifications, moving cash arithmetic and sixteen-week plan. Data schemaVersion 2, semantic headline figures, actual-read source hashes, unknown original model, Cowork labels and bracket-filled Ask DeTars close. Director integrates/builds; no HTML, inventory, manifest or shared-script writes.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

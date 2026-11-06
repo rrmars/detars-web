@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "slug": "offline-ocr-six-document-test",
+  "translationKey": "offline-ocr-six-document-test",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Simplified-Chinese-speaking small-office users choosing local searchable-PDF OCR, bilingual recognition or invoice extraction, with Mac-specific test limits and no natural-handwriting validation.",
+  "sources": [
+    {
+      "title": "Tesseract official installation guidance",
+      "url": "https://tesseract-ocr.github.io/tessdoc/Installation.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tessdata_fast model documentation",
+      "url": "https://github.com/tesseract-ocr/tessdata_fast/blob/main/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple Vision text-recognition tutorial",
+      "url": "https://developer.apple.com/documentation/vision/recognizing-text-in-images",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RapidOCR legacy package release 1.4.4",
+      "url": "https://pypi.org/project/rapidocr-onnxruntime/1.4.4/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RapidOCR tagged local-model configuration",
+      "url": "https://github.com/RapidAI/RapidOCR/blob/v1.4.4/python/rapidocr_onnxruntime/config.yaml",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "EasyOCR publisher source and usage",
+      "url": "https://github.com/JaidedAI/EasyOCR",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "EasyOCR official offline model hub",
+      "url": "https://www.jaided.ai/easyocr/modelhub/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesseract engine licence",
+      "url": "https://github.com/tesseract-ocr/tesseract/blob/main/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple software licence agreements",
+      "url": "https://www.apple.com/legal/sla/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RapidOCR tagged code licence",
+      "url": "https://github.com/RapidAI/RapidOCR/blob/v1.4.4/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Upstream PaddleOCR licence",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR/blob/main/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "EasyOCR licence",
+      "url": "https://github.com/JaidedAI/EasyOCR/blob/master/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Upstream CRAFT licence",
+      "url": "https://github.com/clovaai/CRAFT-pytorch/blob/master/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ReportLab adapter dependency source and licence",
+      "url": "https://github.com/MrBitBucket/reportlab-mirror",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PyMuPDF documentation and licensing",
+      "url": "https://pymupdf.readthedocs.io/en/latest/about.html",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "tesseract_mean_cer": {
+      "label": "Unweighted six-page primary CER for the tested Tesseract configuration; not an overall quality rating",
+      "value": 3.61,
+      "unit": "percent_mean_character_error_rate",
+      "display": "3.61%"
+    },
+    "vision_mean_cer": {
+      "label": "Unweighted six-page primary CER for the tested Apple Vision wrapper",
+      "value": 6.48,
+      "unit": "percent_mean_character_error_rate",
+      "display": "6.48%"
+    },
+    "rapidocr_invoice_cer": {
+      "label": "Primary CER on the synthetic invoice; omitted quantity and layout limits still apply",
+      "value": 0.31,
+      "unit": "percent_invoice_character_error_rate",
+      "display": "0.31%"
+    },
+    "easyocr_batch_seconds": {
+      "label": "Single-run six-page OCR plus adapter PDF time, excluding shared model initialization",
+      "value": 82.47,
+      "unit": "seconds_excluding_shared_initialization",
+      "display": "82.47"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains original test/source access date 2026-11-06 Asia/Singapore; execution timestamps also occur on 2026-11-05 UTC. Every prose URL is in the original source register with the retained access date. Localization is not an external refresh, compatibility audit or new benchmark. No publication date is invented.",
+  "uncertainties": [
+    "Assistant viewed a generated fixture contact sheet during preparation. The preview predates replacement of the initial cursive-font note with final pen-stroke paths. This is not a strict no-imagery-upload or air-gapped demonstration; scored OCR process trees alone were network-denied.",
+    "All documents are synthetic. Receipt is a generated phone-photo simulation; handwriting is generated pen strokes, not natural human writing. No private paperwork, real camera receipt or natural-handwriting corpus was tested.",
+    "One completed pass per configuration on one Apple M2 Mac; fixed engine/document order, no repeated-trial speed study or measured peak RAM. Shared-machine/cold-cache effects remain. Model file MB is not RAM.",
+    "CER preserves returned order; high scores can be layout-order failures. Whitespace-stripped primary CER can conceal merged words or extra Chinese spaces. Mean is unweighted across pages, not pooled and not a rating.",
+    "All 24 PDFs passed only the stated text-layer/at-least-one-query criterion. Call me exact phrase failed for Tesseract and EasyOCR stamped-page PDFs. Searchability does not establish every-word accuracy, complete indexing, all-viewer compatibility, exact highlights or editable tables.",
+    "Tesseract exports PDF natively; other workflows used the custom local ReportLab adapter. Vision GUI Live Text and OCRmyPDF were not tested. Vision wrapper and sandbox workflow are Mac-specific; internal Apple model size is unknown.",
+    "RapidOCR result is rapidocr-onnxruntime 1.4.4 legacy baseline, not current rapidocr defaults or a recommendation to retain old production dependencies. EasyOCR used the bilingual configuration on all pages; English-only performance was not assessed.",
+    "EasyOCR project and upstream CRAFT code licences do not independently settle checkpoint-specific licensing or training-data rights. Adapter/evaluation dependency licences also matter for redistribution.",
+    "Original source folder contains replay assets, references and model hashes as local package evidence only; the page does not promise public downloads or tell website readers to open inaccessible local files. Original run model is unknown."
+  ],
+  "editingContract": "Complete reader-first English and Simplified Chinese; all 24 tool/document results retain CER, whitespace-collapsed CER, OCR/PDF timing, limited searchability and meaningful errors; bilingual numeric/date/external URL multiplicities and corresponding table-cell parity. Local Markdown/data drafts only, no build/publication, no Review or stars.",
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

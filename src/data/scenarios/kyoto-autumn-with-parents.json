@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "slug": "kyoto-autumn-with-parents",
+  "translationKey": "kyoto-autumn-with-parents",
+  "sources": [
+    {
+      "title": "[1] Japan-guide — Kyoto autumn colors. Specialist travel reference",
+      "url": "https://www.japan-guide.com/e/e3953.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[2] Japan Meteorological Corporation (JMC) — autumn foliage forecast. Named forecasting source",
+      "url": "https://n-kishou.com/corp/news-contents/autumn/?lang=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[3] Kyoto official autumn-leaf reports",
+      "url": "https://kyoto.travel/en/autumnleaves/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[4] Higashi Honganji — FAQ. Temple official",
+      "url": "https://www.higashihonganji.or.jp/faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[5] Kyoto municipal visitor/educational travel guide — Higashi Honganji. Municipal primary visitor information",
+      "url": "https://shugakuryoko.kyoto.travel/spot/new東本願寺/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[6] Higashi Honganji — Shoseien visitor guide. Temple official",
+      "url": "https://www.higashihonganji.or.jp/about/guide/shoseien/guide/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[7] Higashi Honganji — English Shoseien description. Temple official",
+      "url": "https://english.higashihonganji.or.jp/shosei-en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[8] Nanzenji — visiting information. Temple official",
+      "url": "https://www.nanzenji.or.jp/about_rinzaishu/visit",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[9] JR Central — Nanzenji destination guide. Operator's own destination source",
+      "url": "https://souda-kyoto.jp/guide/spot/nanzenji.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[10] Nanzenji — visitor access notice. Temple official",
+      "url": "https://www.nanzenji.or.jp/information/notices/20200716",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[11] Nanzenji Junsei — menu. Restaurant official",
+      "url": "https://to-fu.co.jp/menu/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[12] Junsei — access/hours. Restaurant official",
+      "url": "https://to-fu.co.jp/access/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[13] Junsei — FAQ. Restaurant official",
+      "url": "https://to-fu.co.jp/news/409/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[14] Junsei — priority-admission explanation. Restaurant official",
+      "url": "https://to-fu.co.jp/reserve/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[24] Ukihashi, Hotel Granvia Kyoto — seasonal kaiseki lunch menu. Operator official, accessed 2026-11-06",
+      "url": "https://jrwest-hotels.jp/granvia-kyoto/restaurant/menu/292/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[25] Ukihashi restaurant information. Operator official, accessed 2026-11-06",
+      "url": "https://jrwest-hotels.jp/en/granvia-kyoto/restaurant/ukihashi/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[15] Kyoto Prefecture — Botanical Gardens visitor information. Authoritative operator",
+      "url": "https://www.pref.kyoto.jp/plant/usageguidance.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[16] Kyoto municipal visitor guide — Botanical Gardens. Municipal primary visitor information",
+      "url": "https://shugakuryoko.kyoto.travel/spot/485/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[17] Hotel Keihan Kyoto Ekiminami — Ikyu exact room/plan page. Public OTA price evidence",
+      "url": "https://www.ikyu.com/00081859/11747403/10158002/?lc=1&ppc=3&rc=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[18] Hotel Keihan Kyoto Hachijoguchi — Ikyu listing. Public OTA price evidence",
+      "url": "https://www.ikyu.com/00081581/?lc=1&ppc=3&rc=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[19] Mitsui Garden Hotel Kyoto Shijo — Ikyu listing. Public OTA price evidence",
+      "url": "https://www.ikyu.com/00080168/?lc=1&ppc=3&rc=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[20] Kyoto City — accommodation-tax overview. Official",
+      "url": "https://www.city.kyoto.lg.jp/gyozai/page/0000236942.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[21] Kyoto City — revised tax FAQ. Official",
+      "url": "https://www.city.kyoto.lg.jp/gyozai/page/0000346705.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[22] MK Kyoto — current fare page. Operator primary tariff",
+      "url": "https://www.mk-group.co.jp/kyoto/taxi/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[23] Kyoto City Transportation Bureau — fares and passes. Official",
+      "url": "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/fare/fare_bus.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[23b] Official Subway & Bus 1-Day Pass page, accessed 2026-11-06:",
+      "url": "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/ticket/regular_1day_card_comm.html",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "group_budget_total": {
+      "label": "Two-night three-adult planning budget excluding Shinkansen fares",
+      "value": 180000,
+      "unit": "group_trip_budget",
+      "currency": "JPY",
+      "display": "¥180,000"
+    },
+    "group_budget_reserve": {
+      "label": "Contingency for traffic, hotel and fee changes, not shopping",
+      "value": 15000,
+      "unit": "trip_cash_reserve",
+      "currency": "JPY",
+      "display": "¥15,000"
+    },
+    "two_night_room_allowance": {
+      "label": "Estimated triple-room bill for two nights, not a bookable quote",
+      "value": 80000,
+      "unit": "two_night_room_allowance",
+      "currency": "JPY",
+      "display": "¥80,000"
+    },
+    "group_transport_allowance": {
+      "label": "Estimated local group transport; high-end taxi scenarios exceed it",
+      "value": 18000,
+      "unit": "group_local_transport_allowance",
+      "currency": "JPY",
+      "display": "¥18,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Source access date 2026-11-06 is explicitly supported by the original source register (Seoul/Singapore local date; some receipts are 2026-11-05 UTC). No external access was repeated for localization; copy editing is not a price, legal or availability refresh.",
+  "uncertainties": [
+    "No 2027 foliage forecast was verified. The 2026 JMC city-level representative-tree dates are not transferred to travel-year gardens or treated as a peak-colour promise.",
+    "Hotel minima are undated advertised one-night prices for three adults in one room seen 2026-11-06, not 2027 two-night quotes or verified availability. Restrictive plans, actual tax, cancellation, accessible bathroom/lift routes, usable beds and bag storage need checking.",
+    "Walking totals, route times, taxi ranges, car waits and crowd strategies are estimates/judgments, not live traffic or a personalised mobility assessment. No site is promised empty or wholly step-free.",
+    "Junsei suitable ground-floor chair seating is unconfirmed; priority admission does not guarantee a table. Menu dates/opening and chair allocation need checking. Ukihashi is a dated alternative whose ordinary table, lift route and thresholds also need confirmation.",
+    "Shoseien continuous step-free loop, Nanzenji aqueduct approach and independent Hojo access are not verified. Garden wheelchair loans cannot be reserved or guaranteed. Stop/omit options are integral to the plan.",
+    "Fees, fares, hours, senior-ID acceptance, exceptional closures, weather and future operations need rechecking. Botanical Garden closure is not every Friday; senior discounts are conditional.",
+    "The budget excludes Shinkansen, souvenirs, extra alcohol, paid Nanzenji interiors and two-room lodging; high-end taxi totals exceed the transport allowance and consume reserve. No booking, account or contact was made."
+  ],
+  "editingContract": "Complete reader-first English and Simplified Chinese with exact numeric/date/external URL multiplicity and corresponding table-cell parity. Local draft only; no Review, stars or public attachment promises.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Families visiting Kyoto with older parents and limited tolerance for stairs; Simplified Chinese helps Chinese-speaking adult children discuss rests, chair seating, taxis and dated hotel prices with their parents.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

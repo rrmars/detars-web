@@ -19,6 +19,7 @@ export const navItems: NavItem[] = [
   { route: "/how-it-works", label: { en: "How it works", zh: "怎么用", "zh-Hant": "怎麼用", ja: "使い方", fr: "Fonctionnement", es: "Cómo funciona" } },
   { route: "/reliable", label: { en: "Why it's reliable", zh: "靠得住", "zh-Hant": "靠得住", ja: "信頼性", fr: "Fiabilité", es: "Fiabilidad" } },
   { route: "/packs", label: { en: "Packs", zh: "应用", "zh-Hant": "應用", ja: "Pack", fr: "Packs", es: "Packs" } },
+  { route: "/scenarios", label: { en: "Scenarios", zh: "场景", "zh-Hant": "場景", ja: "活用シーン", fr: "Cas d’usage", es: "Escenarios" } },
   { route: "/research", label: { en: "Research", zh: "研究", "zh-Hant": "研究", ja: "リサーチ", fr: "Recherche", es: "Investigación" } },
   { route: "/download", label: { en: "Download", zh: "下载", "zh-Hant": "下載", ja: "ダウンロード", fr: "Télécharger", es: "Descargar" } }
 ];

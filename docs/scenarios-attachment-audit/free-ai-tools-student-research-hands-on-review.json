@@ -1,0 +1,115 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "ca9208e986694d8d5df6488d73f8051a3da7d3545830e351fe460b54e4f8e392",
+  "sourceListLink": "free-ai-tools-student-research-hands-on-review-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Explicit original test date and retained protocol both say November 5; November 4 is an archive label. Same-day source checking did not rerun the products.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b4504f449a7bbba9b67cf87f10c29a13228f8f6d42a6e6df1d0c4310ac35f0dd",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "../w3-ai-research-tools/comparison.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/protocol.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/perplexity-answer-verbatim.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/consensus-answer-verbatim.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/chatgpt-guest-output-verbatim.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/semantic_scholar-raw-visible.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/scholar_results.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/elicit-semantic-scholar-evidence.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/additional-guest-tool-access.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/baseline.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "free-ai-tools-student-research-hands-on-review-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "2ee026cd9bac0d7a930dd51b4308e9fb4b51dc9f03b7beecb7d8def81bd38fac",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "../w3-ai-research-tools/comparison.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/protocol.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/perplexity-answer-verbatim.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/consensus-answer-verbatim.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/chatgpt-guest-output-verbatim.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/semantic_scholar-raw-visible.txt",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/scholar_results.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/elicit-semantic-scholar-evidence.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/additional-guest-tool-access.json",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-ai-research-tools/evidence/baseline.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "free-ai-tools-student-research-hands-on-review-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

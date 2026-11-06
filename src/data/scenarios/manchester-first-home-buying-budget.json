@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "slug": "manchester-first-home-buying-budget",
+  "translationKey": "manchester-first-home-buying-budget",
+  "sources": [
+    {
+      "title": "S6 — MoneyHelper: Mortgage fees and costs when buying or selling a home",
+      "url": "https://www.moneyhelper.org.uk/en/homes/buying-a-home/estimate-your-overall-buying-and-moving-costs",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S1 — HMRC / GOV.UK: Stamp Duty Land Tax, residential property rates",
+      "url": "https://www.gov.uk/stamp-duty-land-tax/residential-property-rates",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S3 — NatWest: How much can I borrow? mortgage calculator guide",
+      "url": "https://www.natwest.com/mortgages/mortgage-calculators/how-much-can-i-borrow.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S2 — Nationwide for Intermediaries: affordability criteria",
+      "url": "https://www.nationwide-intermediary.co.uk/lending-criteria/affordability",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S4 — Nationwide Helping Hand",
+      "url": "https://www.nationwide-intermediary.co.uk/products/helping-hand",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S5 — Nationwide F6 product guide, effective 4 November 2026",
+      "url": "https://www.nationwide-intermediary.co.uk/-/media/nfi/documents/f6-product-guide.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ONS / HM Land Registry — Housing prices in Tameside",
+      "url": "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000008/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ONS / HM Land Registry — Housing prices in Salford",
+      "url": "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000006/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ONS / HM Land Registry — Housing prices in Bury",
+      "url": "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000002/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ONS / HM Land Registry — Housing prices in Stockport",
+      "url": "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000007/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ONS / HM Land Registry — Housing prices in Trafford",
+      "url": "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000009/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "D3 — MoneyHelper, What happens when I get a mortgage in principle?",
+      "url": "https://www.moneyhelper.org.uk/en/blog/buy-or-rent-a-home/what-happens-when-I-get-a-mortgage-in-principle",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "D4 — GOV.UK, How to buy a home",
+      "url": "https://www.gov.uk/government/publications/how-to-buy-a-home/how-to-buy",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "D5 — LEASE, Buying or selling a leasehold flat: process and timing",
+      "url": "https://www.lease-advice.org/buying-and-selling/leasehold-property/process-and-timing/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "D6 — LEASE, What can be included in service charges",
+      "url": "https://www.lease-advice.org/costs-and-charges/service-charges/about-service-charges/what-can-be-included/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "D7 — MHCLG, Understanding fire risk appraisals of external walls in blocks of flats",
+      "url": "https://www.gov.uk/government/publications/fire-risk-appraisals-of-external-walls-fraews/understanding-fire-risk-appraisals-of-external-walls-in-blocks-of-flats",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "D8 — MoneyHelper, Contract exchange and completion when buying a home",
+      "url": "https://www.moneyhelper.org.uk/en/homes/buying-a-home/contract-exchange-completion-when-buying-a-home",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S8 — GOV.UK: Withdrawing money from your Lifetime ISA",
+      "url": "https://www.gov.uk/lifetime-isa/withdrawing-money-from-your-lifetime-isa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S7 — GOV.UK: Lifetime ISA overview",
+      "url": "https://www.gov.uk/lifetime-isa",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "household_gross_annual_income": {
+      "label": "Combined employed gross annual income assumption",
+      "value": 72000,
+      "unit": "per_year",
+      "currency": "GBP",
+      "display": "£72,000"
+    },
+    "available_household_savings": {
+      "label": "Current cash savings with no growth or bonus assumed",
+      "value": 38000,
+      "unit": "available_cash",
+      "currency": "GBP",
+      "display": "£38,000"
+    },
+    "purchase_and_move_allowance": {
+      "label": "Estimated buying and moving costs excluding deposit, SDLT and reserve",
+      "value": 5399,
+      "unit": "one_off_cost_allowance",
+      "currency": "GBP",
+      "display": "£5,399"
+    },
+    "cash_limited_purchase_ceiling": {
+      "label": "Illustrative ten-percent deposit ceiling retaining chosen reserve, not lending approval",
+      "value": 266010,
+      "unit": "purchase_price_ceiling",
+      "currency": "GBP",
+      "display": "£266,010"
+    },
+    "retained_cash_reserve": {
+      "label": "Chosen reserve, not calibrated to household spending",
+      "value": 6000,
+      "unit": "retained_cash",
+      "currency": "GBP",
+      "display": "£6,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "All cited external URLs retain explicit original source access dates of 2026-11-05; this localization did not externally refresh them. Access does not mean price publication or guaranteed future availability. Original verification is not fresh verification.",
+  "uncertainties": [
+    "Planning information only, not financial or mortgage advice. Personal net income, debts, dependants, age, credit, SDLT residency/ownership and individual lender eligibility are unverified.",
+    "A first Lifetime ISA payment on 2026-11-05 cannot satisfy the twelve-month condition for September 2027 completion; earliest date 2027-11-05. Existing eligibility and withdrawals need checking; bonuses excluded.",
+    "Area figures are provisional August 2026 mixed-property district transaction averages released 2026-10-21, not two-bedroom prices, live listings or future forecasts. No property-specific condition, safety, tenure or transport evidence was collected.",
+    "Fees, reserve, ownership extras and stress rate are estimates/placeholders. Dated mortgage products and tax rules are not 2027 guarantees; actual service charges, major works, repairs, rent overlap and surcharges may increase costs.",
+    "Transaction timeline is a backwards planning judgment; a collapse or remediation can exceed September. The old process guide is not used for current schemes/reform implementation. Original workbook verification is reported, not repeated."
+  ],
+  "editingContract": "Readable English and Simplified Chinese corresponding lines and table cells retain complete numeric, currency, date and URL parity. Local draft only; no stars or review markup.",
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English for Greater Manchester first-home buyers; Simplified Chinese for Chinese-speaking buyers evaluating the same UK costs, timing and tenure decisions.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

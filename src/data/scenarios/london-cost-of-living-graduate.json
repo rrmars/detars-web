@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "slug": "london-cost-of-living-graduate",
+  "translationKey": "london-cost-of-living-graduate",
+  "sources": [
+    {
+      "title": "Poplar / Langdon Park, E14 6QA",
+      "url": "https://m.spareroom.co.uk/flatshare/london/poplar/15714537",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Lewisham, SE13",
+      "url": "https://www.spareroom.co.uk/flatshare/london/lewisham/15427061",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Stratford / Maryland, E15",
+      "url": "https://student.spareroom.co.uk/room-to-rent/stratford_-and-_west_ham/10/18468766/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Westferry, Roche House, E14 8HF",
+      "url": "https://m.spareroom.co.uk/flatshare/flatshare_detail.pl?flatshare_id=18466073&mode=details&flatshare_type=offered",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Bow / Caspian Wharf terrace studio",
+      "url": "https://www.onthemarket.com/details/934065/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Bow / Caspian Wharf balcony studio",
+      "url": "https://www.onthemarket.com/details/537837/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "£700 Poplar room",
+      "url": "https://student.spareroom.co.uk/room-to-rent/central_london/100/18477457/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "£1,350 Bow studio",
+      "url": "https://www.spareroom.co.uk/flatshare/london/bow/17810495",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "GOV.UK's permitted-payment guide",
+      "url": "https://www.gov.uk/guidance/fees-you-can-charge-as-part-of-a-tenancy",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Advance-rent guidance",
+      "url": "https://www.gov.uk/assured-periodic-tenancies-tenants/rent-in-advance-and-deposits",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Contribution guidance",
+      "url": "https://www.gov.uk/workplace-pensions/what-you-your-employer-and-the-government-pay",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "tax-relief methods",
+      "url": "https://www.gov.uk/workplace-pensions/managing-your-pension",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Budget 2026 Annex A",
+      "url": "https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/annex-a-rates-and-allowances",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "HMRC's detailed 2026/27 table",
+      "url": "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DWP 2027/28 review",
+      "url": "https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-2027-to-2028/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-2027-to-2028",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DfE's methodology",
+      "url": "https://explore-education-statistics.service.gov.uk/methodology/student-loan-forecasts-for-england",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "rounding FAQ",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/collection-of-student-loans-manual/cslm13016",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "GOV.UK's repayment-start guidance",
+      "url": "https://www.gov.uk/repaying-your-student-loan/when-you-start-repaying",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Tower Hamlets 2026/27 Band D £1,837.78",
+      "url": "https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/council_tax/Council-Tax-bill/Council-Tax-bands.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Thames Water's £552.30/year assessed single-occupier charge",
+      "url": "https://www.thameswater.co.uk/help/account-and-billing/understand-your-bill/assessed-household-charges",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ofgem's October–December 2026 £1,723 benchmark",
+      "url": "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "TfL rail/Travelcard campaign",
+      "url": "https://tfl.gov.uk/campaign/fares-from-2-march-2025",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "current capping",
+      "url": "https://tfl.gov.uk/fares/find-fares/capping",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "bus/tram fares",
+      "url": "https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "GOV.UK",
+      "url": "https://www.gov.uk/council-tax/who-has-to-pay",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2023 amendment",
+      "url": "https://www.legislation.gov.uk/uksi/2023/1175/regulation/3/made",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "current owner-liability regulation, Class C",
+      "url": "https://www.legislation.gov.uk/uksi/1992/551/regulation/2",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "tenant reform overview",
+      "url": "https://www.gov.uk/guidance/renters-rights-act-overview-for-tenants",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "graduate_gross_annual_salary": {
+      "label": "Graduate gross annual salary",
+      "value": 34000,
+      "currency": "GBP",
+      "unit": "per_year_gross",
+      "display": "£34,000"
+    },
+    "cautious_room_monthly_surplus": {
+      "label": "Cautious room monthly surplus",
+      "value": 328.77,
+      "currency": "GBP",
+      "unit": "per_month_after_planning_costs",
+      "display": "£328.77"
+    },
+    "suggested_move_in_cash_with_cushion": {
+      "label": "Suggested move in cash with cushion",
+      "value": 4851.53,
+      "currency": "GBP",
+      "unit": "starting_cash_including_cushion",
+      "display": "£4,851.53"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "2ec2c26f613c0442f3de964caf1c0404f126ce99e65585969e229ecac834b7a8",
+    "originalAuditSha256": "eff33fcf8afbb1816e055e6b5c8356b4809968f12049eba4e9a37053e4e1c1b9"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Graduate starting a Canary Wharf job in London and comparing flatshares on an entry-level salary.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

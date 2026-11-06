@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "9fddebd0a4d8283006bc428964ea51c78f9f6aadff884e2519dcbd119a0a7aa6",
+  "sourceListLink": "../w5-manchester-buy/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/manchester-first-home-buying-budget/buy-plan.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "96ea0d85b840b52ec13af5fe0904d0afc204851b9a1e73cdcf8980a2f5ae6f5c",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "2f856675fc19e08a21d2158741a0eeb5eed716db1e209c2204526b231d87ca03",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

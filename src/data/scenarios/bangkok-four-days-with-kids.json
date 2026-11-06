@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 2,
+  "slug": "bangkok-four-days-with-kids",
+  "translationKey": "bangkok-four-days-with-kids",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Chinese-speaking families planning a gentle Bangkok trip with children and vegetarian needs; the example is two adults and children aged 8 and 12, and all entry eligibility statements apply only to Indonesian ordinary passports, not Chinese passports by translation.",
+  "sources": [
+    {
+      "title": "Grand Palace official admission",
+      "url": "https://www.royalgrandpalace.th/en/buy-ticket",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Grand Palace practical information and dress",
+      "url": "https://www.royalgrandpalace.th/en/visit/practical-information",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Grand Palace closure schedule; future notices unconfirmed",
+      "url": "https://www.royalgrandpalace.th/en/schedules",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wat Pho official visit plan",
+      "url": "https://www.watpho.com/en/contact/plan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SEA LIFE public tickets and official panel entry",
+      "url": "https://www.visitsealife.com/bangkok/en/tickets/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Operator-linked Tourist Boat day pass and timetable",
+      "url": "https://chaophrayatouristboat-online.globaltix.com/attraction/chao-phraya-tourist-boat-hop-on-hop-off-all-day-river-pass-57397",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Chatuchak",
+      "url": "https://www.tourismthailand.org/Attraction/chatuchak-weekend-market",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Chatuchak secondary practical guidance",
+      "url": "https://www.visit-thailand.org/cities/14-bangkok/chatuchak-weekend-market",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Centre Point official Family Suite category; extractor did not recover usable room text",
+      "url": "https://www.centrepoint.com/silom/accommodation/silom-family-suite",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Centre Point official Family River View category; extractor did not recover usable room text",
+      "url": "https://www.centrepoint.com/silom/accommodation/silom-family-river-view",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rakuten advertised plans: usable sizes, bedding, ranges and contradictory occupancy",
+      "url": "https://hotel.travel.rakuten.co.jp/overseas/grmPlanList.do?f_no=148647",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ICONSIAM vegetarian-friendly directory, dated October 16, 2025",
+      "url": "https://iconsiam.com/en/stories/iconsiam-vegetarian-friendly-restaurants-2025",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AOT BKK official ground transport",
+      "url": "https://suvarnabhumi.airportthai.co.th/service/way-to-airport/detail/Transportation_BKK",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "AOT DMK official ground transport",
+      "url": "https://donmueang.airportthai.co.th/service/facility/detail/211",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Thai Embassy Helsinki: Indonesia eligibility list",
+      "url": "https://helsinki.thaiembassy.org/en/publicservice/new-visa-exemption-and-visa-on-arrival-voa-to-thailand?menu=5d80876d15e39c3354007bb1&page=5f49f4a199a85e260f4278de",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Thai Embassy Washington: duration and effective-date notice updated September 17, 2026",
+      "url": "https://washingtondc.thaiembassy.org/en/page/visaexempt-voajul2024",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Thai Embassy London: exemption conditions and free TDAC",
+      "url": "https://london.thaiembassy.org/en/page/exemp-visa",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Thai Immigration TDAC FAQ",
+      "url": "https://tdac.immigration.go.th/manual/en/faq.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official TDAC form",
+      "url": "https://tdac.immigration.go.th/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Thai Embassy Mexico: general passport validity entry guidance only",
+      "url": "https://mexico.thaiembassy.org/en/publicservice/visa?cate=641d1920928a6a39d7426b63",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Weather Atlas June climate: search excerpt only; full page blocked",
+      "url": "https://www.weather-atlas.com/en/thailand/bangkok-weather-june",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "planned_family_spending": {
+      "label": "Estimated family spending excluding international flights and reserve",
+      "value": 42400,
+      "unit": "family_trip_spending",
+      "currency": "THB",
+      "display": "THB 42,400"
+    },
+    "unspent_reserve": {
+      "label": "Reserve for unconfirmed prices, rain transport, FX or insurance; not guaranteed sufficient",
+      "value": 8800,
+      "unit": "family_trip_reserve",
+      "currency": "THB",
+      "display": "THB 8,800"
+    },
+    "total_family_envelope": {
+      "label": "Spending plus reserve for four people and three nights excluding international flights",
+      "value": 51200,
+      "unit": "family_trip_envelope",
+      "currency": "THB",
+      "display": "THB 51,200"
+    },
+    "assumed_usd_equivalent": {
+      "label": "Equivalent at assumed USD 1 = THB 32, not a market rate",
+      "value": 1600,
+      "unit": "assumed_fx_equivalent",
+      "currency": "USD",
+      "display": "USD 1,600"
+    },
+    "hotel_allowance": {
+      "label": "Estimated all-in room-only Family Suite allowance, not a confirmed four-person quote",
+      "value": 18000,
+      "unit": "three_night_room_allowance",
+      "currency": "THB",
+      "display": "THB 18,000"
+    },
+    "aquarium_future_allowance": {
+      "label": "Unquoted June allowance, distinct from November sample",
+      "value": 5400,
+      "unit": "estimated_family_admission",
+      "currency": "THB",
+      "display": "THB 5,400"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "additionalSourceRecords": [
+      {
+        "title": "Grand Palace FAQ: height, tickets, entrance and hours",
+        "url": "https://www.royalgrandpalace.th/en/visit/faq",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "SEA LIFE FAQ with conflicting closing time",
+        "url": "https://www.visitsealife.com/bangkok/en/plan/information/faqs/",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "SEA LIFE official calendar engine",
+        "url": "https://me-sobangkok.as.tickets.visitsealife.com/calendarPricingWithImage/Daily%20Tickets%20EN?l=en-th",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "SEA LIFE selected package detail; November 7 sample only",
+        "url": "https://me-sobangkok.as.tickets.visitsealife.com/packageDetails/15872/alternateEntry/calendarPricingWithImage?l=en-th",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Chao Phraya Tourist Boat operator",
+        "url": "https://chaophrayatouristboat.com/",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "TAT China Chatuchak search evidence",
+        "url": "http://amazingthailand.org.cn/Content/Index/shows/catid/101/id/268/mudidi_id/17.html",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "BTS published fare matrix; director fetch truncated, rail totals remain estimates",
+        "url": "https://www.bts.co.th/files/uploads/tickets/pdf/fare_matrix_Eff.1Nov25_SJC.pdf",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Government ARL guidance retained from colleague",
+        "url": "https://thailand.go.th/issue-focus-detail/001_01_107-2-2?hl=th",
+        "accessDate": "2026-11-06"
+      }
+    ]
+  },
+  "datePolicy": "Retains original access date November 6, 2026 as explicitly recorded in the source log; some machine receipts are November 5 UTC. This copy/localization is not an external source refresh, legal check, quote, inventory check or benchmark. No publication date or original model is invented. Unknown source access dates must stay unknown if later added.",
+  "uncertainties": [
+    "Only one shortlisted hotel property, with two categories. No June 24–27 inventory or final four-person quote was confirmed. Rakuten 1–4 category rows conflict with generic maximum-three occupancy and age-12-adult conditions. No early check-in or late checkout assumed.",
+    "Hotel sizes, bedding and rates rely on retained Rakuten text; official category-page extraction returned rewards content. Ranges are advertised 60-day/multinight plans for April–June 2027 plus 17.7%, breakfast excluded. Original rounded after-charge values are retained, not fresh seller quotes.",
+    "SEA LIFE example is November 7, 2026 Super Peak advance admission only. Age 12 costs adult; June rate unverified. Public child lead-ins differ. Palace closing and SEA LIFE closing/last-entry pages disagree; plans avoid closing times. Palace royal-event closures and all future schedules need checking.",
+    "Indonesian ordinary-passport eligibility only; translation does not confer Chinese-passport eligibility. Retained 30-day exemption snapshot and TDAC/passport/funds requirements may change. TDAC window wording differs; recommended June 22 or 23 avoids the boundary for June 24 arrival. Admission is not guaranteed.",
+    "Temple free-child eligibility is under 120 cm; budget assumes both at least that height. Boat budget assumes clearly above 90 cm; exact boundary wording overlaps. Rail concessions unverified, four full fares used.",
+    "Transport, food, climate, FX, future hotel/aquarium envelopes and times are estimates. Weather is search-excerpt evidence only. BTS matrix fetch was truncated for the original director, so rail through totals are not certified fares. Traffic, surge, baggage and vehicle capacity can raise costs; child restraints not guaranteed.",
+    "Vegetarian directory names mixed kitchens, not certified dishes or allergy safety. Sauce/stock, eggs/dairy and current menu prices require confirmation. Food envelope does not assume every example at its highest price.",
+    "International flights and passport renewal are excluded. Insurance is unquoted and may use reserve; no paid aquarium extras, massage, guide or late-checkout charge included. Reserve cannot guarantee coverage of all increases.",
+    "Original source inspection used a fresh unauthenticated interactive context and no imported personal sign-ins; original verification is retained evidence only, not rerun. Alternative ibis reseller pricing was not reproducible and is excluded. No public local-download promise is made."
+  ],
+  "editingContract": "Reader-first complete English and Simplified Chinese with corresponding timetable, hotel, ticket, transfer and budget cells; complete factual numeric/date/external-URL parity and verbatim headline displays. Local Markdown/data and generated HTML previews only, using the shared build/check tools. No external research refresh, source-run changes, publication, website-repository changes, Review or stars.",
+  "admissionExamples": {
+    "aquarium_dated_sample": {
+      "label": "November 7, 2026 advance example: three adult tickets and one child; not June quote",
+      "value": 4596,
+      "unit": "dated_family_admission_example",
+      "currency": "THB",
+      "display": "THB 4,596"
+    }
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

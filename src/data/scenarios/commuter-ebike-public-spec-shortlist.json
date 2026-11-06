@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 2,
+  "slug": "commuter-ebike-public-spec-shortlist",
+  "translationKey": "commuter-ebike-public-spec-shortlist",
+  "sources": [
+    {
+      "title": "Lectric XP Lite2 Arctic White, chain",
+      "url": "https://lectricebikes.com/products/xp-lite-arctic-white",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Long-Range",
+      "url": "https://lectricebikes.com/products/xp-lite-arctic-white-long-range-ebike",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Lectric XPress Lite Pine Green",
+      "url": "https://lectricebikes.com/products/xpress-lite-green-ebike",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ride1Up Portola 02 equipped, 10Ah Cloud White",
+      "url": "https://ride1up.com/product/portola-02/?attribute_pa_bike_type=portola02&attribute_pa_battery-size=10ah&attribute_pa_color=cloud-white",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ride1Up Roadster V3, Medium rigid chain, Onyx Black",
+      "url": "https://ride1up.com/product/roadster-v3/?attribute_pa_frame-type=medium&attribute_pa_variant=chain&attribute_pa_color=onyx-black",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Aventon Soltera 2.5, Medium",
+      "url": "https://www.aventon.com/products/soltera-2-5-ebike",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Lectric weight support table",
+      "url": "https://help.lectricebikes.com/l/en/article/c8pphxf28o-how-much-does-the-bike-weigh-xp-xp-step-thru-weight",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "exact equipped variant record",
+      "url": "https://ride1up.com/wp-json/wc/store/v1/products/672607",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "15Ah equipped White record",
+      "url": "https://ride1up.com/wp-json/wc/store/v1/products/672615",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Roadster variant record",
+      "url": "https://ride1up.com/wp-json/wc/store/v1/products/506447",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Aventon variant data",
+      "url": "https://www.aventon.com/products/soltera-2-5-ebike.js",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Portola 02",
+      "url": "https://ride1up.com/product/portola-02/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Roadster V3",
+      "url": "https://ride1up.com/product/roadster-v3/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "historical secondary review",
+      "url": "https://www.electricbikejournal.com/ride1up-roadster-v3-review/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "secondary details",
+      "url": "https://electricbikereport.com/aventon-soltera-2-5-review/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Oregon bicycle excise-tax guidance",
+      "url": "https://www.oregon.gov/dor/programs/businesses/Pages/Bicycle-excise-tax.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "General sales-tax guidance",
+      "url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "City launch announcement",
+      "url": "https://www.portland.gov/bps/cleanenergy/news/2026/4/6/city-portland-announces-launch-portland-rides-e-bike-rebate-program",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "official administrator eligibility page",
+      "url": "https://portlandebikerebate.com/standard-cargo-applicants/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "administrator release page",
+      "url": "https://portlandebikerebate.com/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Oregon incentive directory",
+      "url": "https://goelectric.oregon.gov/incentives-rebates",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRS automobile-credit context",
+      "url": "https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Lectric",
+      "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Lectric%20Ebikes",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ride1Up",
+      "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Ride1Up",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Aventon",
+      "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Aventon",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Lectric notice 23-789",
+      "url": "https://www.cpsc.gov/Recalls/2023/Lectric-Ebikes-Recalls-Disc-Brake-Calipers-Sold-on-Lectric-E-Bicycles-Due-to-Crash-and-Injury-Hazards-Recall-Alert",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Aventon notice 24-075",
+      "url": "https://www.cpsc.gov/Recalls/2024/Ride-Aventon-Recalls-Sinch2-Folding-E-Bicycles-Due-to-Crash-and-Injury-Hazards",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CPSC searches",
+      "url": "https://www.cpsc.gov/Recalls",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ride1Up promotion terms",
+      "url": "https://ride1up.com/promotions-and-discounts/",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "start_up_budget_ceiling": {
+      "label": "Hard initial purchase and starter-equipment budget, without rebate",
+      "value": 1500,
+      "unit": "start_up_budget",
+      "currency": "USD",
+      "display": "$1,500"
+    },
+    "daily_commute_distance": {
+      "label": "Assumed daily round-trip commute before errands",
+      "value": 16,
+      "unit": "miles_per_day",
+      "display": "16"
+    },
+    "xp_lite_long_range_battery": {
+      "label": "Published nominal battery capacity for selected XP Lite2 LR option",
+      "value": 672,
+      "unit": "Wh",
+      "display": "672Wh"
+    },
+    "xp_lite_long_range_lean_total": {
+      "label": "Modeled LR bike plus minimum starter kit, rain, tax and fenders; no paid assembly",
+      "value": 1166,
+      "unit": "estimated_start_up_total",
+      "currency": "USD",
+      "display": "$1,166"
+    },
+    "xpress_lite_lean_total": {
+      "label": "Modeled XPress starter total without rack or paid assembly",
+      "value": 1358,
+      "unit": "estimated_start_up_total",
+      "currency": "USD",
+      "display": "$1,358"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Every included URL has an explicit 2026-11-05 research/access record in the fully inspected local source ledger. This is historical record provenance, not a successful fresh fetch or future-price promise. Secondary review dates differ from access dates; source-specific failed follow-up and incomplete coverage remain visible. No external research performed.",
+  "uncertainties": [
+    "Public specs/listings desk research, not a hands-on test; no measured hill, range, braking, water-ingress or comparative performance results created.",
+    "March 2027 stock, exact variant price, shipping, gifts, return rights and promotions unknown; modeled starter totals exclude paid assembly and often racks.",
+    "Actual carry, inseam, strength, route elevation, weather and work charging unverified. XP Lite2 battery weight conflicts (7 vs 8 lb); LR-specific complete weight unknown. Portola battery-inclusive weight basis and Roadster setup-weight basis unspecified.",
+    "Roadster rain caution retained; numeric model IP not verified for Roadster or Soltera. Component IP and published UL claims are not waterproofing or independent certification audits.",
+    "Route ranges and yearly costs are judgmental estimates; tariff and replacement-battery reserve not quotes or guarantees. Historical Roadster range concerns an older drivetrain.",
+    "Portland rebate income, random selection, March availability, exact product/retailer approval and 2027 thresholds unresolved; no subsidy deducted. State/federal negative findings are bounded and incomplete, not legal/tax determinations.",
+    "Recall evidence is a bounded 2026-11-05 title-search result, not a recall-free guarantee; recheck exact bike, components, serial and charger at purchase.",
+    "Original run contains only shortlist.html and sources.md, not raw independent webpage captures. All external claims are adapted from those records, not independently reverified."
+  ],
+  "editingContract": "Readable English/Simplified Chinese corresponding lines and table cells retain full numeric, currency, date and URL parity. Draft only; no stars or review schema.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English helps Portland riders compare US listings and local buying rules; Simplified Chinese gives Chinese-speaking residents the same practical help with carrying, charging and the full budget.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

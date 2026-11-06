@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 2,
+  "slug": "rome-florence-six-days-for-two",
+  "translationKey": "rome-florence-six-days-for-two",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "First-time Sydney couple with ordinary Australian passports visiting Rome and Florence September 4–10, 2027; English and Simplified Chinese serve the same plan for a destination popular with Chinese-speaking travellers too, without transferring Australian entry eligibility.",
+  "sources": [
+    {
+      "title": "colosseo.it — colosseum-roman-forum-palatine",
+      "url": "https://colosseo.it/en/tickets/colosseum-roman-forum-palatine/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.museivaticani.va — orari-musei-vaticani.html",
+      "url": "https://www.museivaticani.va/content/museivaticani/en/info/orari-musei-vaticani.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.adr.it — pax-fco-train",
+      "url": "https://www.adr.it/web/aeroporti-di-roma-en/pax-fco-train",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.basilicasanpietro.va — opening-hours",
+      "url": "https://www.basilicasanpietro.va/en/opening-hours",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.basilicasanpietro.va — find-out-how-to-access",
+      "url": "https://www.basilicasanpietro.va/en/find-out-how-to-access",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.museivaticani.va — tariffe-e-biglietti.html",
+      "url": "https://www.museivaticani.va/content/museivaticani/en/organizza-visita/tariffe-e-biglietti.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "urbana47.com — menu",
+      "url": "https://urbana47.com/menu/?lang=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tickets.duomo.firenze.it — 13344",
+      "url": "https://tickets.duomo.firenze.it/en/product/tickets/brunelleschi-pass/3006/13344",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tickets.duomo.firenze.it — prices",
+      "url": "https://tickets.duomo.firenze.it/en/support/prices",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.uffizi.it — tickets-fares",
+      "url": "https://www.uffizi.it/en/pages/tickets-fares",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.uffizi.it — the-uffizi",
+      "url": "https://www.uffizi.it/en/the-uffizi",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.trattoriazaza.it — en",
+      "url": "https://www.trattoriazaza.it/en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.at-bus.it — destination-tuscany-arrivo-e-partenza",
+      "url": "https://www.at-bus.it/it/destination-tuscany-arrivo-e-partenza",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.at-bus.it — regionali-131r",
+      "url": "https://www.at-bus.it/it/linee-e-orari/regionali-131r",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ticketing.colosseo.it — en",
+      "url": "https://ticketing.colosseo.it/en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tickets.museivaticani.va — home",
+      "url": "https://tickets.museivaticani.va/home",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "tickets.uffizi.it — ",
+      "url": "https://tickets.uffizi.it/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tickets.duomo.firenze.it — en",
+      "url": "https://tickets.duomo.firenze.it/en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.hotelgiugiu.it — rooms.html",
+      "url": "https://www.hotelgiugiu.it/en/rooms.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.euroquirishotel.com — double-room",
+      "url": "https://www.euroquirishotel.com/rome-hotel-termini/double-room/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.euroquirishotel.com — servizi",
+      "url": "https://www.euroquirishotel.com/servizi/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "hoteldellecamelie.it — camera-matrimoniale-doppia-con-letti-singoli",
+      "url": "https://hoteldellecamelie.it/en/prodotto/camera-matrimoniale-doppia-con-letti-singoli/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.hotelalinari.com — ",
+      "url": "https://www.hotelalinari.com/?act=info&l=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.turismoroma.it — contributo-di-soggiorno-nella-citt%C3%A0-di-roma-capitale",
+      "url": "https://www.turismoroma.it/it/accoglienza/contributo-di-soggiorno-nella-citt%C3%A0-di-roma-capitale",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.comune.firenze.it — imposta-di-soggiorno-informati",
+      "url": "https://www.comune.firenze.it/imposta-di-soggiorno-informati",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.trenitalia.com — en.html",
+      "url": "https://www.trenitalia.com/en.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.italotreno.com — rome-florence-tickets",
+      "url": "https://www.italotreno.com/en/destinations-timetable/rome-florence-tickets",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.fsnews.it — trenitalia-frecciarossa-leonardo-express-vendita-dicembre-2026.html",
+      "url": "https://www.fsnews.it/it/focus-on/servizi/2026/4/1/trenitalia-frecciarossa-leonardo-express-vendita-dicembre-2026.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "eur-lex.europa.eu — HTML",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32018R1806",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "europa.eu — index_en.htm",
+      "url": "https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "home-affairs.ec.europa.eu — main-differences-between-ees-and-etias-what-travellers-need-know-2026-04-28_en",
+      "url": "https://home-affairs.ec.europa.eu/news/main-differences-between-ees-and-etias-what-travellers-need-know-2026-04-28_en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "travel-europe.europa.eu — etias",
+      "url": "https://travel-europe.europa.eu/etias",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "colosseo.it — opening-times-and-tickets",
+      "url": "https://colosseo.it/en/opening-times-and-tickets/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.at-bus.it — parternze-orti-oricellari",
+      "url": "https://www.at-bus.it/it/viaggia/avvisi/parternze-orti-oricellari",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "prm.rfi.it — QO_Pdf.aspx",
+      "url": "https://prm.rfi.it/qo_prm/QO_Pdf.aspx?Tipo=A&id=2535&lin=it",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.bbromamonti.com — en",
+      "url": "https://www.bbromamonti.com/en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.bbromamonti.com — rates-stay-bnb-center-rome",
+      "url": "https://www.bbromamonti.com/en/rates-stay-bnb-center-rome/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "www.hotellanoce.it — tariffs.asp",
+      "url": "https://www.hotellanoce.it/it/tariffs.asp",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "two_person_ground_budget": {
+      "value": 2400,
+      "display": "€2,400.00",
+      "label": "Ground planning envelope for two, six nights; international flights excluded",
+      "currency": "EUR",
+      "unit": "estimated_trip_budget"
+    },
+    "six_night_room_allowance": {
+      "value": 900,
+      "display": "€900.00",
+      "label": "Room allowance before separate city taxes, not a dated hotel quote",
+      "currency": "EUR",
+      "unit": "unquoted_room_allowance"
+    },
+    "planned_spend_before_reserve": {
+      "value": 1995.6,
+      "display": "€1,995.60",
+      "label": "Dated prices plus estimates and conditional ETIAS provision",
+      "currency": "EUR",
+      "unit": "estimated_planned_spend"
+    },
+    "unspent_trip_contingency": {
+      "value": 404.4,
+      "display": "€404.40",
+      "label": "Unspent contingency; excluded insurance and transfers may consume it",
+      "currency": "EUR",
+      "unit": "estimated_contingency"
+    },
+    "four_essential_attractions": {
+      "value": 204,
+      "display": "€204",
+      "label": "Dated official full-price admission for two with selected booking fees",
+      "currency": "EUR",
+      "unit": "dated_admission_total"
+    },
+    "intercity_train_allowance": {
+      "value": 100,
+      "display": "€100",
+      "label": "Two-person allowance; blocked Trenitalia lookup is not repaired with an invented fare",
+      "currency": "EUR",
+      "unit": "unquoted_train_allowance"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "November 6, 2026 is the explicitly recorded original Asia/Singapore source day (some original tool timestamps November 5 UTC), as well as this localization date. No external refresh or new access date is implied. Failed booking attempts retain unknown successful access dates. All future fares, inventory, hours and entry arrangements remain conditional. No publication date invented.",
+  "uncertainties": [
+    "No dated September 2027 hotel quote or inventory. All six hotel leads are undated public displays; Alinari charging unit/ensuite and La Noce ensuite/AC unresolved. Euro Quiris AC surcharge unknown; selected cancellation/tax/inclusion terms control.",
+    "Trenitalia fare lookup returned Access Denied even in original fresh browser. No current date-specific euro fare was obtained. EUR30–60/person and EUR50/person adopted allowance are estimates, not operator tariffs or caps; Italo EUR14.90 is advertising floor only. Neither operator has verified September inventory, departure or train number.",
+    "Vatican portal blocked; no fixed Vatican, Uffizi or Duomo release horizon. August 8 Colosseum release and July 8 Vatican checkpoint are arithmetic; the latter is not official policy. No precise release hour or September extraordinary-closure clearance.",
+    "Siena examples are dated winter bus and 2026 RFI services, not future promises. Current rail fare unknown; EUR48–60 return is an estimate. Some bus stops changed; chosen 2027 stop/time and road delays need checking.",
+    "Ordinary Australian passport and Sydney origin remain intact in both languages. September 2027 ETIAS applicability, transitions and exemptions unconfirmed; original live page said not operating. Conditional EUR40 provision is not fee due now. Passport expiry uses final external Schengen exit, not necessarily FLR departure.",
+    "Dome has 463 steps, no lift and health cautions; fixed non-changeable/cancellable slot, mandatory bags storage and photo ID. Worship restrictions, restoration and first-Tuesday Museum closure can affect visits; security is not skipped.",
+    "Municipal tax rates are original observations, not 2027 guarantees; correct legal property category and existing inclusion must be checked. Hotel tax provisions use EUR6/person/night in each city.",
+    "Budget independently recomputed EUR1995.60 before reserve plus EUR404.40 = EUR2400.00. At EUR200/night rooms add EUR300 and leave EUR104.40. International flights, unpriced insurance/shopping/Sydney airport transfers excluded; optional Siena entry, storage/taxis/special dinners use reserve. All route/queue/meal timings are estimates.",
+    "No external research, contact, reservation, account, payment, source-run change, shared build/check edit, publication or website-repository edit performed for this localization. Original screenshots and verification describe the old itinerary only, not new-page rendering."
+  ],
+  "editingContract": "Only assigned English and Simplified Chinese Markdown, schema v2 data and author-review file. Full body, frontmatter factual literals and corresponding table-cell parity; all headline display strings present. Parent owns inventory, HTML build and package checks. No Review/stars or public local-attachment promise.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

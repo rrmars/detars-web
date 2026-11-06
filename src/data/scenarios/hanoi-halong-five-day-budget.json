@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "slug": "hanoi-halong-five-day-budget",
+  "translationKey": "hanoi-halong-five-day-budget",
+  "sources": [
+    {
+      "title": "Vietnam National Authority of Tourism — Ninh Binh",
+      "url": "https://vietnam.travel/places-to-go/northern-vietnam/ninh-binh",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Paradise Travel reseller — Peony tariff",
+      "url": "https://www.vietnamparadisetravel.com/cruise/peony-cruise",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Peony Cruises — Itinerary and terms",
+      "url": "https://www.peonycruises.com/peony-cruises-2-days-1-night.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Paradise Travel reseller — Orchid Classic tariff",
+      "url": "https://www.vietnamparadisetravel.com/cruise/orchid-cruise",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Orchid Classic — Ship description",
+      "url": "https://www.orchidcruises.com/ship/orchid-classic/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Orchid Cruises — Itinerary",
+      "url": "https://www.orchidcruises.com/schedule/itinerary-2-days-1-night/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Halong Travel Group — Paradise Sails package",
+      "url": "https://www.halongtravelgroup.com/tours/paradise-sails-cruise-2-days-1-night.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hanoi Stella Hotel · Superior Twin",
+      "url": "https://hanoistellahotel.com/room/superior-twin-room/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dragon Hotel · Deluxe Twin",
+      "url": "https://hanoidragonhotel.com/room/deluxe-twin/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "48 Xuân Diệu, Tây Hồ",
+      "url": "https://hanoidragonhotel.com/contact/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bánh Mì 25",
+      "url": "https://www.banhmi25.net/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Café Giảng",
+      "url": "https://myhanoi.vn/iv/giangcafe",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bún Chả Đắc Kim",
+      "url": "https://guide.michelin.com/vn/en/ha-noi/ha-noi_2974158/restaurant/bun-cha-%C4%91ac-kim",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Phở Gia Truyền",
+      "url": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/pho-gia-truyen",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bún Chả Hương Liên",
+      "url": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/huong-lien",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Bánh Cuốn Bà Hoành",
+      "url": "https://guide.michelin.com/en/ha-noi/ha-noi_2974158/restaurant/banh-cuon-ba-hoanh",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Grab's airport pickup guidance",
+      "url": "https://www.grab.com/vn/en/transport/airports/hanoi-airport/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Noi Bai International Airport — Bus reference, search-index evidence",
+      "url": "https://www.noibaiairport.vn/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Vietnam National Authority of Tourism — Currency and payments",
+      "url": "https://vietnam.travel/things-to-do/currency-and-payments-vietnam",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official e-visa portal",
+      "url": "https://evisa.gov.vn/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Vietnam National Authority of Tourism — Visa requirements",
+      "url": "https://vietnam.travel/plan-your-trip/visa-requirements",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Smartraveller",
+      "url": "https://www.smartraveller.gov.au/destinations/asia/vietnam",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "full_trip_budget": {
+      "label": "Per-person budget including general contingency, excluding flights",
+      "value": 900,
+      "unit": "per_person_allowance",
+      "currency": "AUD",
+      "display": "AUD 900"
+    },
+    "working_cruise_allowance": {
+      "label": "Peony per-person base plus transport and tax/payment allowances",
+      "value": 338,
+      "unit": "per_person_allowance",
+      "currency": "AUD",
+      "display": "AUD 338"
+    },
+    "general_contingency": {
+      "label": "General buffer separate from cruise tax/payment allowance",
+      "value": 59,
+      "unit": "per_person_allowance",
+      "currency": "AUD",
+      "display": "AUD 59"
+    },
+    "optional_day_tour": {
+      "label": "Estimated shared Ninh Binh day tour, not a verified quote",
+      "value": 85,
+      "unit": "per_person_allowance",
+      "currency": "AUD",
+      "display": "AUD 85"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original source register records 2026-11-06 access dates; no external lookup or refresh during drafting. Localization is not a source-access claim. Search-index-only evidence retains its original limits.",
+  "uncertainties": [
+    "Peony/Orchid tariffs do not establish April inventory. Conflicting tax wording and stale shuttle policies require a final written total; twin and cancellation terms unresolved.",
+    "Paradise Sails agency tariff covers 2026 only; operator/agency packages must not be merged. No independent hotel or boat safety/quality inspection.",
+    "Hotel generic tariffs are not April quotes. Stella tax/service and breakfast inclusion unresolved; Dragon plus-charge calculation, storage and split-stay totals need confirmation.",
+    "All food prices, Ninh Binh package, fixed FX and most journey times are estimates. Bus fare is original airport-domain search-index evidence, not a counter check.",
+    "Australian visa/passport rules are dated; digital arrival form is not claimed mandatory for Hanoi. Processing time and admission not guaranteed.",
+    "Weather/port restrictions can change or cancel sailing; charges for consumed services mean no automatic full refund. General and cruise-fee buffers separate. No bookings, payments, applications or supplier contact."
+  ],
+  "editingContract": "Complete bilingual prose with numeric/date/external-URL multiplicity and corresponding table-cell parity. Local drafts only; no Review or stars.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two ordinary Australian-passport friends from Sydney; Chinese helps Chinese-speaking Australian travellers compare the same bay routes, transfers, budget and visa checks without implying different eligibility.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

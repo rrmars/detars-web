@@ -1,0 +1,90 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Salaried Indian ordinary-passport holders living in Bengaluru and planning a first France–Italy tourism trip.",
+  "schemaVersion": 2,
+  "slug": "schengen-visa-india-application-timeline",
+  "translationKey": "schengen-visa-india-application-timeline",
+  "sources": [
+    {
+      "title": "European Commission overview",
+      "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Visa Code",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R0810-20240611",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "France-Visas wizard",
+      "url": "https://france-visas.gouv.fr/en/web/france-visas/assistant-visa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Italy Bengaluru tourist checklist",
+      "url": "https://www.vfsglobal.com/one-pager/italy/india/bangalore/english/pdf/Checklist-TOURISM-(C)-New.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "VFS France fees page",
+      "url": "https://visa.vfsglobal.com/ind/en/fra/fees",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "VFS Italy Bengaluru",
+      "url": "https://www.vfsglobal.com/one-pager/italy/india/bangalore/english/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "France-Visas India",
+      "url": "https://france-visas.gouv.fr/en/inde",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "adult_visa_fee": {
+      "label": "Published ordinary adult visa fee",
+      "value": 90,
+      "unit": "per_adult",
+      "currency": "EUR",
+      "display": "€90"
+    },
+    "italy_couple_base_fees": {
+      "label": "Italy visa and service fee total for two adults",
+      "value": 20522,
+      "unit": "two_adults_base_fees",
+      "currency": "INR",
+      "display": "₹20,522"
+    },
+    "minimum_medical_cover": {
+      "label": "Minimum travel medical cover per traveller",
+      "value": 30000,
+      "unit": "per_insured_traveller",
+      "currency": "EUR",
+      "display": "€30,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Access dates are explicit original-run records, not inferred from folder names or new localization-stage fetches.",
+  "editingContract": "Complete readable literals in aligned language lines and table cells; semantic figures are not text substitutions.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "98de3804e4659c99fd884059c8b6a1569f0458fc069459c35100de7c9f1895ee",
+  "sourceListLink": "../w5-kiosk-budget/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/kiosk-budget-slow-scenario-funding/kiosk-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "6f4c765e17474b6e04d72b49bd877654d7604e1d3e52083194e877132967f278",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "6137e8367eea34a38af89804635a30a228e723690e2842d54f75e3f73b5564ce",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

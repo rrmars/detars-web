@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 2,
+  "slug": "japan-working-holiday-from-taiwan",
+  "translationKey": "japan-working-holiday-from-taiwan",
+  "sources": [
+    {
+      "title": "Working Holiday index",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/working/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "2026 guide",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/working/guide2026/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Spring 2026 approval notice",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/working/workingholiday/2026-1/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Application documents, autumn 2026 updated",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/working/guide2026/guide-detail1/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Counter procedure",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/working/tabid1405.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Collection documents",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/working/guide2026/detail2/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official FAQ, updated 2026",
+      "url": "https://www.koryu.or.jp/tw/faq/visa/working/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kita Otsuka / 1",
+      "url": "https://www.oakhouse.jp/eng/house/15",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ikebukuro / 11",
+      "url": "https://www.oakhouse.jp/eng/house/16",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kita Otsuka 2 / 101",
+      "url": "https://www.oakhouse.jp/eng/house/210",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Shin-Sakuradai / I104",
+      "url": "https://www.oakhouse.jp/eng/house/1019",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Oak Apartment Heiwadai / 102",
+      "url": "https://www.oakhouse.jp/eng/apartment/837",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Oak Apartment Shinjuku / 205",
+      "url": "https://www.oakhouse.jp/eng/apartment/1117",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Katsura Heights / 103",
+      "url": "https://www.oakhouse.jp/eng/apartment/494",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Sante Naka Ochiai / 103",
+      "url": "https://www.oakhouse.jp/eng/apartment/644",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Maintenance fee FAQ",
+      "url": "https://www.oakhouse.jp/eng/helpcenter/faq/24",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Excess utility FAQ",
+      "url": "https://www.oakhouse.jp/eng/helpcenter/faq/657",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Contract duration FAQ",
+      "url": "https://www.oakhouse.jp/eng/helpcenter/faq/22",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Move-out/cleaning FAQ",
+      "url": "https://www.oakhouse.jp/eng/helpcenter/faq/394",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Move-in/initial payment",
+      "url": "https://www.oakhouse.jp/eng/movein",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JASSO / Study in Japan, residence card and My Number",
+      "url": "https://www.studyinjapan.go.jp/en/planning/immigration-procedures/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Shinjuku NHI system/foreign enrollment",
+      "url": "https://www.city.shinjuku.lg.jp/hoken/index02_01.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Shinjuku NHI notifications",
+      "url": "https://www.foreign.city.shinjuku.lg.jp/jp/kurashi/kokuhotodokede/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Shinjuku September 2026 multilingual leaflet, PDF",
+      "url": "https://www.city.shinjuku.lg.jp/content/000465558.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Pension Service: enrollment",
+      "url": "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_enroll.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Pension Service: exemption/postponement",
+      "url": "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_exemption.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kobe official FAQ: national pension contributions",
+      "url": "https://faq.city.kobe.lg.jp/faq/show/165?site_domain=default",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DOCOMO identity/payment requirements",
+      "url": "https://www.docomo.ne.jp/english/support/procedure/identification/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Mobal voice-product ID requirements",
+      "url": "https://helpdesk.mobal.com/support/solutions/articles/205000051089-i-d-requirements-voice-products-",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Mobal Japan SIM product/payment page",
+      "url": "https://www.mobal.com/japan-sim-card/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Post Bank foreign account-opening rules",
+      "url": "https://www.jp-bank.japanpost.jp/kaisetu/kat_gaikokujin.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Post Bank non-resident domestic transfers, current and 4 January 2027 rules",
+      "url": "https://www.jp-bank.japanpost.jp/kojin/sokin/gaitame/kj_sk_gt_index.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tokyo Hello Work Kiba / MHLW minimum-wage notice",
+      "url": "https://jsite.mhlw.go.jp/tokyo-hellowork/list/kiba/minimum-wage-information_2026.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "McDonald's Higashi-Mukojima official recruitment",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/13572",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Fast Retailing / UNIQLO Ginza official recruitment",
+      "url": "https://www.fastretailing.com/employment/ja/uniqlo/jp/lp/ginza/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "available_savings": {
+      "label": "Example applicant savings, not a guaranteed adequate amount",
+      "value": 250000,
+      "unit": "starting_savings",
+      "display": "TWD 250,000",
+      "currency": "TWD"
+    },
+    "two_month_base_plan": {
+      "label": "Estimated preparation and two-month outflow, no wages assumed",
+      "value": 515000,
+      "unit": "estimated_outflow",
+      "display": "JPY 515,000",
+      "currency": "JPY"
+    },
+    "protected_emergency_reserve": {
+      "label": "Protected emergency/return-home savings, not added spending",
+      "value": 250000,
+      "unit": "protected_reserve",
+      "display": "JPY 250,000",
+      "currency": "JPY"
+    },
+    "application_funds_evidence": {
+      "label": "Dated minimum funds evidence, not a spending recommendation",
+      "value": 80000,
+      "unit": "application_evidence_threshold",
+      "display": "TWD 80,000",
+      "currency": "TWD"
+    },
+    "monthly_living_envelope": {
+      "label": "Estimated monthly living envelope, not a quotation",
+      "value": 180000,
+      "unit": "monthly_estimate",
+      "display": "180,000",
+      "currency": "JPY"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains the source register access date 2026-11-06 (Taiwan/Singapore local date; UTC receipts may be 2026-11-05). No external research or refresh during localization. Copy editing is not a visa, legal, price, wage, bank-policy or availability refresh.",
+  "uncertainties": [
+    "No 2027 visa application timetable was found in the original dated check. June 1, 2027 remains conditional for a new applicant; 2026 windows are historical, and late June/July is only a personal fallback.",
+    "Taiwan residence, a valid Taiwan passport with ID number, submission age and previous approval history remain consequential eligibility conditions. Entry validity, collection deadline and landing residence period are separate clocks; official case-specific instructions control.",
+    "Eight housing observations cover only directly managed Oakhouse rooms. Five selected rooms were full and three showed future dates; no June 2027 vacancy, address-registration permission or final invoice is confirmed. Gender restrictions apply.",
+    "Housing base estimates exclude optional bedding, utility overages, damage/odor cleaning and payment costs. Contract fee is nonrefundable, mandatory pad is additional, advance rent/holding and notice rules can alter cash timing or liability.",
+    "FX rates, flights, private insurance and cash envelopes are planning assumptions, not live quotes. Two 30-day budgeting months are not the exact 61-day date range. Large medical costs, major trips, tuition and major purchases are excluded; no wages assumed.",
+    "NHI reserve is not an assessed premium; pension relief and bank approval are not guaranteed. Ward rules, employer coverage, foreign-exchange classification, remaining permission and provider checks affect procedures and actual charges.",
+    "Wage figures are dated legal-floor/employer observations, not a city-wide average, future rate, guaranteed job, hours or take-home pay. Working Holiday remains holiday-first and prohibited premises remain excluded.",
+    "Traditional Chinese likely better fits Taiwan applicants. Simplified Chinese is supplied only for this local package; translation does not broaden passport eligibility."
+  ],
+  "editingContract": "Reader-first English and package-only Simplified Chinese; exact bilingual numeric/date/external URL multiplicity and corresponding table-cell parity. Local drafts only; no Review/stars or public attachment promises.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Taiwan-resident Taiwan-passport applicants planning a Japan Working Holiday and a first Tokyo stay; English and package-only Simplified Chinese retain Taiwan-specific eligibility. Traditional Chinese is likely the better audience fit for eventual Taiwan-facing publication.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

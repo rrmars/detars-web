@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "e09e5747a65cb2d3942e4919cecebcc4ae15c155282d01e98b0814690a4b3372",
+  "sourceListLink": "../w5-bangkok-rent/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "5db5b0ded15e81a59cdabb1556e92782d55f5d7cffc029272c9e812d40299362",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "cefde7fb4ac1312087c5cb40d7ed639ebdb8900dd293dae6962ba37e62feeca7",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

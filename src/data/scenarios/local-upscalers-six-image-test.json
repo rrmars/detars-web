@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 2,
+  "slug": "local-upscalers-six-image-test",
+  "translationKey": "local-upscalers-six-image-test",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Simplified-Chinese-speaking Mac users choosing local photo enlargement for family archives, product still lifes, small text and line art; results concern the same tested configurations, not different regional products.",
+  "sources": [
+    {
+      "title": "scikit-image metric documentation",
+      "url": "https://scikit-image.org/docs/stable/api/skimage.metrics.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Library of Congress portrait catalog",
+      "url": "https://www.loc.gov/item/2013649738/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Commons public-domain and exact-file mapping",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=67999047",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "used portrait JPEG",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a16000/3a16500/3a16523r.jpg",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "coffee image",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.19.3/skimage/data/coffee.png",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "coffee attribution and CC0 documentation",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.19.3/skimage/data/_fetchers.py",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NPS forest rights and metadata",
+      "url": "https://www.nps.gov/npgallery/AssetDetail/42a056f8-1dd8-b71b-0bd9-1ec7eb496266",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "forest JPEG",
+      "url": "https://www.nps.gov/npgallery/GetAsset/42A056F8-1DD8-B71B-0BD91EC7EB496266/proxyhires.jpg",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pillow project",
+      "url": "https://github.com/python-pillow/Pillow",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OpenCV licence",
+      "url": "https://github.com/opencv/opencv/blob/5.x/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FSRCNN repository",
+      "url": "https://github.com/Saafke/FSRCNN_Tensorflow",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "trained-model README",
+      "url": "https://github.com/Saafke/FSRCNN_Tensorflow/blob/master/README.md",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "FSRCNN licence",
+      "url": "https://github.com/Saafke/FSRCNN_Tensorflow/blob/master/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "tested weights",
+      "url": "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/models/FSRCNN_x4.pb",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "release metadata",
+      "url": "https://api.github.com/repos/xinntao/Real-ESRGAN/releases/tags/v0.2.5.0",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "used macOS archive",
+      "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-macos.zip",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "wrapper usage",
+      "url": "https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "wrapper licence",
+      "url": "https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/blob/master/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "upstream licence",
+      "url": "https://github.com/xinntao/Real-ESRGAN/blob/master/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "release",
+      "url": "https://github.com/nihui/waifu2x-ncnn-vulkan/releases/tag/20250915",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "used macOS archive",
+      "url": "https://github.com/nihui/waifu2x-ncnn-vulkan/releases/download/20250915/waifu2x-ncnn-vulkan-20250915-macos.zip",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "wrapper licence",
+      "url": "https://github.com/nihui/waifu2x-ncnn-vulkan/blob/20250915/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "upstream licence",
+      "url": "https://github.com/nagadomi/waifu2x/blob/master/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "owner's weights-licence statement",
+      "url": "https://github.com/nagadomi/waifu2x/issues/478#issuecomment-5003816684",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tesseract licence",
+      "url": "https://github.com/tesseract-ocr/tesseract/blob/main/LICENSE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Haar locator and embedded licence",
+      "url": "https://raw.githubusercontent.com/opencv/opencv/4.x/data/haarcascades/haarcascade_frontalface_default.xml",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CC0 terms",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "lanczos_portrait_psnr": {
+      "label": "Best portrait PSNR within these prepared cases; not identity fidelity",
+      "value": 26.361,
+      "unit": "dB_rounded",
+      "display": "26.361 dB"
+    },
+    "waifu2x_portrait_ssim": {
+      "label": "Best portrait SSIM within this test, not a rating",
+      "value": 0.809023,
+      "unit": "SSIM",
+      "display": "0.809023"
+    },
+    "successful_reported_jobs": {
+      "label": "Four pipelines times six cases in the second serial pass",
+      "value": 24,
+      "unit": "reported_jobs",
+      "display": "24"
+    },
+    "waifu2x_median_processing_seconds": {
+      "label": "Median across six different image sizes, not repeated-trial speed",
+      "value": 0.392,
+      "unit": "seconds_rounded",
+      "display": "0.392"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "additionalSourceRecords": [
+      {
+        "title": "Archived source: evidence/portrait-commons.json",
+        "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=3a16523&gsrnamespace=6&prop=imageinfo&iiprop=extmetadata%7Curl&format=json",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/waifu-weight-licence-comments.json",
+        "url": "https://api.github.com/repos/nagadomi/waifu2x/issues/478/comments",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/real-ncnn-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/xinntao/Real-ESRGAN-ncnn-vulkan/master/LICENSE",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/real-upstream-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/xinntao/Real-ESRGAN/master/LICENSE",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/waifu-upstream-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/nagadomi/waifu2x/master/LICENSE",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/FSRCNN-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/LICENSE",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/FSRCNN-README.md",
+        "url": "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/README.md",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/waifu-ncnn-README.md",
+        "url": "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/20250915/README.md",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/waifu-ncnn-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/20250915/LICENSE",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/waifu-release.json",
+        "url": "https://api.github.com/repos/nihui/waifu2x-ncnn-vulkan/releases/tags/20250915",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/FSRCNN-commit.json",
+        "url": "https://api.github.com/repos/Saafke/FSRCNN_Tensorflow/commits/master",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/pillow-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/python-pillow/Pillow/main/LICENSE",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/opencv-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/opencv/opencv/5.x/LICENSE",
+        "accessDate": "2026-11-06"
+      },
+      {
+        "title": "Archived source: evidence/tesseract-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/tesseract-ocr/tesseract/main/LICENSE",
+        "accessDate": "2026-11-06"
+      }
+    ]
+  },
+  "datePolicy": "Original access/test date 2026-11-06 Asia/Singapore retained; original execution and archive timestamps also fall on 2026-11-05 UTC. Global source-list access date retained for cited URLs; exact per-fetch timestamps remain in source-access.json. Unknown original run model stays unknown. Localization is not a source refresh, price quotation, compatibility audit or new test. No publication date invented.",
+  "uncertainties": [
+    "No images were uploaded, no external image-understanding or cloud calls were used, no accounts were created, and no personal photographs were tested. Inbound software, weights, text documentation and source-image downloads were required; provisioning was not offline.",
+    "Network denial applies to timed process trees and sandboxed OCR; a negative loopback socket check is not a full-machine packet audit or proof that sync, backup and background apps were isolated.",
+    "Six prepared cases use three public-domain/CC0 source photographs, two local graphics and a repeated forest JPEG stress crop. The historical scan and forest were already JPEG reproductions; references are not pristine originals or historical facial ground truth.",
+    "Second serial pass reported, one measurement per tool/image; first pass was functionality evidence. Warm caches and uncontrolled shared-machine load remain. Medians mix different sizes; peak RAM unmeasured. Download, installation, metrics, OCR and crop-generation time excluded.",
+    "No human or cloud-vision viewing claimed. Crop MAE, Laplacian detail ratio and local-range deviation are numerical proxies, not recovered-detail percentages or hallucination detectors. Haar detection only locates a face; no identity fidelity test.",
+    "Tesseract is a fallible local supplementary check, not a human transcription score. All enlarged text outputs failed consequential price/identifier recognition; even reference OCR misread the smallest diagnostic line. Best image similarity does not establish correct words.",
+    "Only specified small/standard models and settings were tested on Apple M2. No TTA, per-image tuning, face enhancement, Upscayl GUI, EDSR, anime-model evaluation, real-scratch restoration or colourisation validation.",
+    "Real-ESRGAN wrapper MIT and upstream BSD-3-Clause are distinct; no separate bundled-weights-only licence was found. FSRCNN repository explicitly includes pretrained models under Apache-2.0 but no separate weights-only notice was located. waifu2x owner confirms MIT weights; exact ncnn conversion lineage not independently traced.",
+    "Source list calls Pillow HPND-style; archived Pillow notice labels it MIT-CMU. Both labels are disclosed rather than silently replacing the original. Repository licences do not independently clear all training-image or output-use rights.",
+    "LOC catalog fetch was blocked by verification; indexed primary metadata and archived Commons mapping corroborated portrait date and exact JPEG. Alternate portrait file not found was not used.",
+    "Local package evidence is not a public download or portable installer. New Macs may require normal per-app approval and executable permissions; no global Gatekeeper change was made. Model file bytes are not RAM."
+  ],
+  "editingContract": "Local English and Simplified Chinese Markdown/data drafts with generated HTML previews; retain all 24 measured rows with PSNR, SSIM, processing/end-to-end time and ROI proxies, numeric/date/URL and corresponding table-cell parity, source rights, licensing and privacy boundaries. Use the shared build/check tools. No Review, AggregateRating, stars, publication, website-repository changes, external research, image-model calls or benchmark rerun.",
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

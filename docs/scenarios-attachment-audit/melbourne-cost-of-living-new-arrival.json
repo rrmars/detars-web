@@ -1,0 +1,55 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "f42e99bac4d1efa43ba34d90b54ec4935a7d24867644fd03d139e849027ad030",
+  "sourceListLink": "melbourne-cost-of-living-new-arrival-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/melbourne-cost-of-living-new-arrival/Melbourne-budget-March-2027.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "570389e1c8ce1f3c1091cc38ed390d18346a4d567be3689faebdb6a6d8fe23f9",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "melbourne-cost-of-living-new-arrival-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-melbourne-living/Melbourne-budget-March-2027.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/melbourne-cost-of-living-new-arrival/Melbourne-budget-March-2027.xlsx"
+        },
+        {
+          "target": "../w3-melbourne-living/Melbourne-summary-phone.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "57ab4ef3212919ece6a2b1031d83e1a9db81597fabd96610cfad303f8c364db8",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "melbourne-cost-of-living-new-arrival-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-melbourne-living/Melbourne-budget-March-2027.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/melbourne-cost-of-living-new-arrival/Melbourne-budget-March-2027.xlsx"
+        },
+        {
+          "target": "../w3-melbourne-living/Melbourne-summary-phone.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

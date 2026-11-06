@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "8ff27c413ffd2faa247ed55b0ef7e1cd6ab9671b70eb42e1f38d46bd259f73be",
+  "sourceListLink": "../w6-kl-family-living/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "2251940401fbadee1184ddba0197394cb8f46370479a63a6de102a50a52a20f4",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "61e0cc63f8aaa161f06ab56d7c6e2cf9ec0b291085cc98910088c1d2545e50d2",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

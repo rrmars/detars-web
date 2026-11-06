@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 2,
+  "slug": "uk-laptop-repair-or-replace",
+  "translationKey": "uk-laptop-repair-or-replace",
+  "sources": [
+    {
+      "title": "Microsoft Learn — commercial Windows 10 ESU",
+      "url": "https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Microsoft Support — Windows 11 system requirements",
+      "url": "https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-system-requirements",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Microsoft UK — consumer ESU",
+      "url": "https://www.microsoft.com/en-gb/windows/extended-security-updates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC — self-employed office, property and equipment expenses",
+      "url": "https://www.gov.uk/expenses-if-youre-self-employed/office-property",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC — cash basis overview",
+      "url": "https://www.gov.uk/simpler-income-tax-cash-basis",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HMRC — Annual Investment Allowance",
+      "url": "https://www.gov.uk/capital-allowances/annual-investment-allowance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NCSC — backing up your data",
+      "url": "https://www.ncsc.gov.uk/collection/small-organisations-guide-to-cyber-security/backing-up-your-data",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Microsoft Support — Reset your PC",
+      "url": "https://support.microsoft.com/en-gb/windows/experience/backup-recovery/reset-your-pc",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NCSC — secure sanitisation and disposal of storage media",
+      "url": "https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Leeds City Council — waste and recycling sites",
+      "url": "https://www.leeds.gov.uk/bins-and-recycling/recycling-sites",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PC Upgrade — Crucial BX500 CT500BX500SSD1 500GB SATA SSD",
+      "url": "https://www.pcupgrade.co.uk/storage/solid-state-drives/crucial-bx500-2-5-500gb-sata-iii-solid-state-drive/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Laptops Direct — Crucial CT8G4SFRA32AT 8GB DDR4-3200 SO-DIMM",
+      "url": "https://www.laptopsdirect.co.uk/crucial-ct8g4sfra32at-8gb-1x8gb-so-dimm-3200-mhz-ddr4-laptop-memory-ct8g4sfra32at/version.asp",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Laptopbitz — genuine Dell TNT6H 51Wh battery",
+      "url": "https://laptopbitz.co.uk/product/genuine-dell-battery-tnt6h/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Pudsey Computers — repair workshop",
+      "url": "https://www.pudseycomputers.co.uk/services/repair-workshop",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Yorkshire Computer Systems — price list",
+      "url": "https://yorkshirecomputersystems.com/pricelist",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hardvance — PNY CS900 500GB SATA SSD",
+      "url": "https://hardvance.co.uk/p/pny-cs900-ssd7cs900-500-rb-500gb-2-5-inch-ssd-sata-3-interface-read-450mb-s-write-320mb-s-3-year-warranty/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Back to the Office — T1A ThinkPad T14 Gen 2 L-T14G2-UK-P101",
+      "url": "https://www.backtotheoffice.co.uk/products/t1a-lenovo-thinkpad-t14-gen-2-refurbished-14-laptop-l-t14g2-uk-p101-intel-core-i5-1145g7-16gb-ram-256gb-ssd-windows-11-pro",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Notebookcheck — Benjamin Herzig, ThinkPad T14 Gen 2 review, 8 May 2021",
+      "url": "https://www.notebookcheck.net/Lenovo-ThinkPad-T14-Gen-2-laptop-review-Familiar-benefits-from-Intel-Tiger-Lake.537486.0.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Lenovo PSREF — ThinkPad T14 Gen 2 Intel, 24 August 2023",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T14_Gen_2_Intel/ThinkPad_T14_Gen_2_Intel_Spec.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Edworthy Tech — HP 255 G10 AK9U8AT#ABU",
+      "url": "https://www.edworthytech.co.uk/product/hp-255-g10-ak9u8atabu-laptop-15-6-inch-full-hd-1080p-screen-amd-ryzen-5-7530u-8gb-ram-256gb-ssd-windows-11-home/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Notebookcheck — HP 255 G10 Athlon7120U review, 10 May 2026",
+      "url": "https://www.notebookcheck.net/HP-255-G10-with-7120U-review-Small-budget-low-performance.1293092.0.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Edworthy Tech — refurbished Dell Latitude 5420 1D5420I516256W11-UK",
+      "url": "https://www.edworthytech.co.uk/product/premium-refurbished-dell-latitude-5420-intel-core-i5-1135g7-11th-gen-laptop-14-inch-full-hd-1080p-screen-16gb-ram-256gb-ssd-windows-11-pro/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "LaptopMedia — Dell Latitude14 5420 review, 1 June 2021",
+      "url": "https://laptopmedia.com/review/dell-latitude-14-5420-review-it-will-effortlessly-last-you-through-two-workdays-on-a-single-charge/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Edworthy Tech — ASUS Vivobook Go15 E1504FA-BQ5714W",
+      "url": "https://www.edworthytech.co.uk/product/asus-vivobook-go-15-laptop-15-6-inch-full-hd-screen-amd-ryzen-5-processor-8gb-ram-256gb-ssd-windows-11-home/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "LaptopMedia — Alex Iliev/Kroum Nikolov, Vivobook Go15 E1504F, 12 June 2023",
+      "url": "https://laptopmedia.com/review/asus-vivobook-go-15-e1504f-review-extremely-inexpensive-and-reliably-fast/p7/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Currys — Dell 15 DC15250, item10305743",
+      "url": "https://www.currys.co.uk/products/dell-15-dc15250-15.6-laptop-intel-core-i5-512-gb-ssd-black-10305743.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "LaptopMedia — Simeon Nikolov/Kroum Nikolov, Dell 15 DC15250, 5 June 2026",
+      "url": "https://laptopmedia.com/review/dell-15-dc15250-review-practical-office-laptop-with-big-configuration-traps/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "all_in_budget": {
+      "label": "Maximum cash budget before tax relief, including transition costs",
+      "value": 700,
+      "unit": "total_cash_ceiling",
+      "currency": "GBP",
+      "display": "£700"
+    },
+    "target_repair_ceiling": {
+      "label": "Judgment target for sound officially Windows-11-compatible machine, not a quote",
+      "value": 200,
+      "unit": "target_repair_cost",
+      "currency": "GBP",
+      "display": "£200"
+    },
+    "thinkpad_seen_price": {
+      "label": "Dated refurbished ThinkPad price including VAT, subject to battery/charger checks",
+      "value": 331.99,
+      "unit": "sample_retail_price",
+      "currency": "GBP",
+      "display": "£331.99"
+    },
+    "thinkpad_planned_total": {
+      "label": "Estimated ThinkPad route with basic setup, backup and wipe provisions, before additions",
+      "value": 497.99,
+      "unit": "estimated_route_cost",
+      "currency": "GBP",
+      "display": "£497.99"
+    },
+    "thinkpad_remaining_headroom": {
+      "label": "Remaining budget for battery, charger and extra migration in illustrative route",
+      "value": 202.01,
+      "unit": "remaining_cash",
+      "currency": "GBP",
+      "display": "£202.01"
+    },
+    "hp_with_paid_setup_total": {
+      "label": "Estimated HP route with basic paid setup, already above ceiling before RAM",
+      "value": 700.17,
+      "unit": "estimated_route_cost",
+      "currency": "GBP",
+      "display": "£700.17"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "retrievalDatesUTC": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "All 27 registered URLs retain the original source-specific 2026-11-06 scenario/Singapore date-seen/access labels. Original retrievals occurred 2026-11-05 about 19:20–19:53 UTC, not UK-local 2026-11-06 verification. Localization on 2026-11-06 is not an external research, price, availability, legal or tax refresh. Review publication dates identify reviews, not offer dates.",
+  "uncertainties": [
+    "Desk research only; no hands-on testing, purchases, seller contact or personal machine diagnosis. Prices and limited stock are seen-date samples, not January 2027 offers or whole-market rankings.",
+    "Repair requires official Windows 11 eligibility and sound condition. Parts fit, shop acceptance of supplied parts, diagnosis, bundled labour, extra migration, VAT and some delivery charges need written confirmation; thresholds are judgment, not shop quotations.",
+    "RAM £65.96, PNY £109.49 and battery £100.80–£102 are tax/delivery sensitivities, not separately established selling prices. The Dell battery is only a model-specific example.",
+    "Commercial Windows 10 ESU is not included; consumer ESU excludes commercial scenarios. US$61 Year One is not a UK quote; annual cumulative licensing needs a UK quote.",
+    "Four qualifying laptops only. Currys Dell 15 is excluded: £729 planned before separately sold compatible charger. ThinkPad battery floor is 60%, not the preferred 80%; actual camera/charger and battery report need confirmation.",
+    "Review runtimes belong to different new test configurations, never the exact retail/refurbished units. Dell5420 battery, panel and camera/charger are unknown; HP Athlon review does not test offered Ryzen; ASUS 42Wh review differs from listed 50Wh and full retail CPU suffix is omitted. ASUS review video/brightness inconsistencies are not used for an endurance promise.",
+    "Backup £40 and wipe £30 are planning allowances. £96 is a published basic setup example, not a full migration/app setup quote. Existing licences, paid subscriptions and any £50 declined-repair assessment are not included in the route totals.",
+    "Tax section is dated general information, not tax advice or a refund promise; business/private use and accounting method need checking. Consumer reset is not certified business sanitisation; drive-specific verified erasure or destruction and business-waste disposal need quotes."
+  ],
+  "editingContract": "English-only local draft for the UK/Leeds sole-trader buying context; no distinct Chinese-reader need established. No stars, Review markup, public attachment promises, publication, source-run or shared build/inventory edits.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A Leeds, UK sole trader deciding by January 2027 whether to repair a work laptop or replace it within a £700 all-in cash budget.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

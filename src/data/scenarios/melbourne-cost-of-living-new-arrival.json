@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 2,
+  "slug": "melbourne-cost-of-living-new-arrival",
+  "translationKey": "melbourne-cost-of-living-new-arrival",
+  "sources": [
+    {
+      "title": "ESC electricity benchmark",
+      "url": "https://www.esc.vic.gov.au/media-centre/regulator-reduces-victorian-default-electricity-prices",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Superloop CIS",
+      "url": "https://files.superloop.com/cis/residential/nbn/2026-07/SL_CIS_Residential_nbn.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Aussie Broadband",
+      "url": "https://www.aussiebroadband.com.au/internet/nbn-plans/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Canstar Blue grocery survey",
+      "url": "https://www.canstarblue.com.au/groceries/average-grocery-bill/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CAV utility responsibilities",
+      "url": "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/paying-for-utilities-phone-and-internet",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ATO rates",
+      "url": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ATO super source",
+      "url": "https://softwaredevelopers.ato.gov.au/PaydaySuper",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ATO MLS table",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge/medicare-levy-surcharge-income-thresholds-and-rates",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ATO standard-deduction page",
+      "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/standard-deduction-for-work-related-expenses",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Simple tax calculator landing page",
+      "url": "https://www.ato.gov.au/calculators-and-tools/tax-return-simple-tax-calculator",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "newcomer threshold",
+      "url": "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/coming-to-australia/tax-free-threshold-for-newcomers-to-australia",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "LITO",
+      "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/tax-offsets/low-income-tax-offset",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CAV's bond page",
+      "url": "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bond-amounts-and-paying-a-bond",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CAV advance-rent rules",
+      "url": "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/rent/rent-payments-and-rent-in-advance",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "L1: 7/22 Princes Street, Flemington",
+      "url": "https://www.domain.com.au/7-22-princes-street-flemington-vic-3031-18406699",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "L2: 12/88 Newmarket Street, Flemington",
+      "url": "https://www.domain.com.au/12-88-newmarket-street-flemington-vic-3031-18407109",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "L3: 103/94 Buckley Street, Footscray",
+      "url": "https://www.domain.com.au/103-94-buckley-street-footscray-vic-3011-18405544",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "L4: 10/8–18 Whitehall Street, Footscray",
+      "url": "https://www.domain.com.au/10-8-18-whitehall-street-footscray-vic-3011-18406000",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "L5: 1/48 Rosstown Road, Carnegie",
+      "url": "https://www.domain.com.au/1-48-rosstown-road-carnegie-vic-3163-18407220",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Newmarket–Melbourne Central",
+      "url": "https://www.rome2rio.com/Train/Newmarket-Station-VIC-Australia/Melbourne-Central-Station",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Middle Footscray–State Library",
+      "url": "https://www.rome2rio.com/s/Middle-Footscray-Station/State-Library-Station",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Footscray–State Library",
+      "url": "https://www.rome2rio.com/s/Footscray-Station/State-Library-Station",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Carnegie–Town Hall",
+      "url": "https://www.rome2rio.com/s/Carnegie-Station-VIC-Australia/Town-Hall-Station-VIC-Australia",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official Newmarket departures",
+      "url": "https://www.ptv.vic.gov.au/stop/1140",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Transport Victoria Southern Cross guidance",
+      "url": "https://transport.vic.gov.au/plan-a-journey/network-maps/southern-cross-station-map-and-travel-information",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "fare-table accordions",
+      "url": "https://transport.vic.gov.au/tickets-and-payments/fares/metropolitan-train-tram-and-bus-fares",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "government announcement",
+      "url": "https://www.vic.gov.au/half-price-travel",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "visitor guidance",
+      "url": "https://transport.vic.gov.au/plan-a-journey/visitors-to-victoria",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Labor $30/week campaign commitment",
+      "url": "https://www.viclabor.org.au/our-priorities/capping-fares",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Free Tram Zone",
+      "url": "https://transport.vic.gov.au/tickets-and-payments/myki/cheaper-travel-with-myki",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Home Affairs regional guidance",
+      "url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/regional-migration",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "condition 8579 extract",
+      "url": "https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/see-your-visa-conditions?vcid=217",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Services Australia PR guidance",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare-if-youre-australian-permanent-resident?context=60092",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Home Affairs insurance guidance",
+      "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/adequate-health-insurance",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Services Australia Ministerial Order guidance",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare-if-youre-temporary-resident-covered-ministerial-order?context=60092",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ATO non-entitlement rules",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy/medicare-levy-exemption/not-entitled-to-medicare-benefits",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "couple_monthly_spending_medicare_path": {
+      "label": "Couple monthly spending medicare path",
+      "value": 4800.22,
+      "currency": "AUD",
+      "unit": "per_household_month",
+      "display": "$4,800.22"
+    },
+    "couple_monthly_spending_private_cover_path": {
+      "label": "Couple monthly spending private cover path",
+      "value": 5100.22,
+      "currency": "AUD",
+      "unit": "per_household_month",
+      "display": "$5,100.22"
+    },
+    "base_modeled_starting_cash": {
+      "label": "Base modeled starting cash",
+      "value": 27986.21,
+      "currency": "AUD",
+      "unit": "starting_cash_including_reserve",
+      "display": "$27,986.21"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "2bdd93dce3a9b36c0024b3a3e9bd134eec0196d70b22dad4feb861904ba62f87",
+    "originalAuditSha256": "49de8efedd310a89b10c8c60054a6ab307627c12924c05d2eefc00ac4dbad41a"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Couple moving to Melbourne on one salary while the partner looks for work, without children or a car.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

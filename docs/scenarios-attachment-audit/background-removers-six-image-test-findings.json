@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "9ca256ed5d6c0488d2784526f03f504d3f3c93e124ec4a126b60db0f7e878324",
+  "sourceListLink": "../w5-bg-removers/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "580e4d421d1100540451b4daff45a23eee0542bdbc023d9412090474660d62a0",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "f6d3ce6e6188546e06962acf530213bd537909edf7fb2fc76fdfc4d754e4aeda",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

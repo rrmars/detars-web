@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "fe8d64fc71176f8260a62fdb7be68fbee043816c49cc01df94b7780f3e4868bd",
+  "sourceListLink": "../w6-hanoi-halong-5days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f6fc566b23609da5bea878005a1acdcd8e7362f990f4f2566e9bf2fe8121cecf",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "5e4b42440b59c6e318e29e34185cbf807ddb30ee05213efe20023d72589a8cf8",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

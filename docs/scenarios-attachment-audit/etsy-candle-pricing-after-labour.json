@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "e37eba11c5a75a6f982a3d60c8c312080cc7df50189a3ebd7199b9c18bb1e592",
+  "sourceListLink": "../w5-etsy-pricing/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/etsy-candle-pricing-after-labour/pricing.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "97d2b380b9137a03412c6ac56af82e8b40f420a2de6a566d3db0b23da203adef",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "0d8cc6425d764d3af314f8b232f97d75224f08d6fd871e279b67832a490ca1a7",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 2,
+  "slug": "yucatan-five-day-road-trip",
+  "translationKey": "yucatan-five-day-road-trip",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Texas couple using Houston as the departure-city example for a five-night Mexican Caribbean holiday; actual passports and entry eligibility remain unspecified.",
+  "sources": [
+    {
+      "title": "Expedia's Cancún Hotel Zone trend page",
+      "url": "https://www.expedia.com/Zona-Hotelera-Cancun-Hotels.0-n800022-0.Travel-Guide-Filter-Hotels",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tulum Hotel Zone page",
+      "url": "https://www.expedia.com/Zona-Hotelera-Tulum-Hotels.0-n553248635939575953-0.Travel-Guide-Filter-Hotels",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "University of South Florida Sargassum Watch System",
+      "url": "https://optics.marine.usf.edu/click_saws.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "October 31, 2026 bulletin",
+      "url": "https://optics.marine.usf.edu/projects/SaWS/pdf/Sargassum_outlook_2026_bulletin10_USF.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "OSAC reproduction of State Department guidance",
+      "url": "https://www.osac.gov/Content/Report/89194885-afe5-4253-bfab-27eda52cd3cf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "current State Department Mexico page",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/mexico.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "legacy advisory address",
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Travel Weekly directory",
+      "url": "https://www.travelweekly.com/Hotels/Playa-del-Carmen-Mexico/Hotel-Lunata-p60122396",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Location listing",
+      "url": "https://www.hotels.com/ho361644/hotel-lunata-playa-del-carmen-mexico/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official site",
+      "url": "https://lunata.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "KAYAK",
+      "url": "https://www.kayak.com/Playa-del-Carmen-Hotels-Hotel-Cielo.641537.ksp",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "hotel homepage",
+      "url": "https://hotelcielo.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "restaurant page",
+      "url": "https://hotelcielo.com/mexican-restaurant/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "KAYAK rate block",
+      "url": "https://www.kayak.com/Playa-del-Carmen-Hotels-Hotel-Posada-Sian-Kaan.416984.ksp",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Cielo booking-engine attempt for the actual dates",
+      "url": "https://book.hotelcielo.com/booking2.php?propid=96833&checkin=2027-03-17&checkout=2027-03-22&numadult=2&numchild=0",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "operator menu",
+      "url": "https://carboncitosplaya.com.mx/m/menu-in-english/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "drinks address",
+      "url": "https://www.carboncitosplaya.com.mx/drinks.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cobá INAH page",
+      "url": "https://www.inah.gob.mx/zonas/515-zona-arqueologica-de-coba",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Chichén Itzá September 2026 bulletin",
+      "url": "https://www.inah.gob.mx/boletines/la-zona-arqueologica-de-chichen-itza-implementara-el-operativo-equinoccio-de-otono-2026",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Nicte-Ha",
+      "url": "https://dosojospark.com/nicte-ha/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "visitor portal",
+      "url": "https://lugares.inah.gob.mx/en/node/4389",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Chichén site page",
+      "url": "https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "park-homepage rules",
+      "url": "https://dosojospark.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Nicte-Ha product listing",
+      "url": "https://dosojospark.com/product/entrada-general-nicte-ha/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Dos Ojos",
+      "url": "https://dosojospark.com/dos-ojos/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official route FAQ",
+      "url": "https://international.ado.com.mx/ado-bus/cancun-airport-to-playa-del-carmen",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ADO Aeropuerto",
+      "url": "https://contenido.ado.com.mx/cancun-airport-transportation-ado-aeropuerto",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "October 8, 2026 Presidency transcript",
+      "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-08-de-octubre-de-2026?idiom=es",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "August 15, 2026 announcement",
+      "url": "https://www.trenmaya.gob.mx/comunicado150826.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ADO station guide",
+      "url": "https://international.ado.com.mx/ado-bus/tren-maya-cancun-airport-station?locale=es-MX",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official Tren Maya reservation portal",
+      "url": "https://reservas.ventaboletostrenmaya.com.mx/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official Quintana Roo portal",
+      "url": "https://visitax.gob.mx/sitio/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "registration page",
+      "url": "https://visitax.gob.mx/sitio/registro.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "public calculator code",
+      "url": "https://visitax.gob.mx/sitio/js/validaciones/registro.js?12",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "two_person_trip_budget": {
+      "value": 2400,
+      "display": "US$2,400",
+      "currency": "USD",
+      "label": "Two-person planning total including contingency, excluding flights",
+      "unit": "conditional_planning_amount"
+    },
+    "five_night_hotel_cap": {
+      "value": 850,
+      "display": "US$850",
+      "currency": "USD",
+      "label": "Five-night room-tax-inclusive cap, not a March quote",
+      "unit": "conditional_planning_amount"
+    },
+    "core_spending": {
+      "value": 37986,
+      "display": "MX$37,986",
+      "currency": "MXN",
+      "label": "Core spending before contingency",
+      "unit": "conditional_planning_amount"
+    },
+    "trip_contingency": {
+      "value": 5214,
+      "display": "MX$5,214",
+      "currency": "MXN",
+      "label": "Unspent peso contingency",
+      "unit": "conditional_planning_amount"
+    },
+    "visitax_couple_reference": {
+      "value": 586,
+      "display": "MX$586",
+      "currency": "MXN",
+      "label": "Dated official amount for two adult foreign visitors; 2027 unconfirmed",
+      "unit": "dated_published_reference"
+    }
+  },
+  "trip": {
+    "arrivalDate": "2027-03-17",
+    "departureDate": "2027-03-22",
+    "nights": 5,
+    "calendarDates": 6,
+    "fullInterveningDays": 4,
+    "travellers": 2,
+    "airportAssumption": "CUN",
+    "base": "Central Playa del Carmen, Quintana Roo",
+    "transportChoice": "Airport ADO, local walking, dispatched private day driver; not a verified self-drive rental itinerary"
+  },
+  "budget": {
+    "accountingCurrency": "MXN",
+    "usdPlanningRate": 18,
+    "rateIsAssumption": true,
+    "totalMxn": 43200,
+    "coreMxn": 37986,
+    "contingencyMxn": 5214,
+    "rows": [
+      {
+        "item": "Hotel five nights",
+        "mxn": 15300,
+        "usdDisplay": "850.00"
+      },
+      {
+        "item": "Food and water across six dates",
+        "mxn": 8100,
+        "usdDisplay": "450.00"
+      },
+      {
+        "item": "Airport ADO four passenger-legs",
+        "mxn": 1080,
+        "usdDisplay": "60.00"
+      },
+      {
+        "item": "Cobá–Nicte-Ha driver",
+        "mxn": 5400,
+        "usdDisplay": "300.00"
+      },
+      {
+        "item": "Cobá INAH component",
+        "mxn": 420,
+        "usdDisplay": "23.33"
+      },
+      {
+        "item": "Nicte-Ha entry",
+        "mxn": 600,
+        "usdDisplay": "33.33"
+      },
+      {
+        "item": "Unknown access and gear reserves",
+        "mxn": 600,
+        "usdDisplay": "33.33"
+      },
+      {
+        "item": "Cobá guide",
+        "mxn": 900,
+        "usdDisplay": "50.00"
+      },
+      {
+        "item": "Local taxis/optional beach spending",
+        "mxn": 1800,
+        "usdDisplay": "100.00"
+      },
+      {
+        "item": "VISITAX",
+        "mxn": 586,
+        "usdDisplay": "32.56"
+      },
+      {
+        "item": "Environmental charge reserve",
+        "mxn": 500,
+        "usdDisplay": "27.78"
+      },
+      {
+        "item": "Tips",
+        "mxn": 900,
+        "usdDisplay": "50.00"
+      },
+      {
+        "item": "Travel/medical insurance",
+        "mxn": 1800,
+        "usdDisplay": "100.00"
+      },
+      {
+        "item": "Contingency",
+        "mxn": 5214,
+        "usdDisplay": "289.67"
+      }
+    ],
+    "exclusions": [
+      "Flights",
+      "Shopping",
+      "Diving",
+      "Unlimited cocktails"
+    ],
+    "unpricedEligibilityCosts": "No visa or separate federal immigration-fee amount verified; check actual passports and airline inclusions."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All original access/attempt dates retained as November 6, 2026 Asia/Singapore; source log notes November 5 UTC tool timestamps. Local drafting and arithmetic checks on November 6 are not external source refreshes. No publication date or hotel sample year invented.",
+  "uncertainties": [
+    "No usable March 17–22, 2027 hotel quote or availability. Lunata tariff undated; Cielo November 11–12 and Sian Kaan November 12–13 sample years unspecified. Sian Kaan US$67 rate block conflicts with US$59 headline; no old promotion used.",
+    "Latest State Department page blocked by verification. May 29, 2026 update is search-index evidence only. Readable OSAC reproduction dated August 12, 2025 is older; readers must check current advice before payment and departure.",
+    "Actual passports and entry eligibility unspecified; Texas residence is not citizenship. Visa, passport, permitted-stay and airline-document rules not verified. No rental-car licence/insurance/deposit or self-drive assessment verified; selected route uses a dispatched driver.",
+    "USF evidence does not forecast March beaches. Beach comparisons, crowd expectation, driving times, meal costs and base choice are planning judgments, not measurements or live offers.",
+    "Cobá MX$210 is only INAH component; MX$400 access and MX$200 equipment are estimated reserves. Controlled Nohoch Mul access may change. Nicte-Ha conflicting rules resolved in favour of no sunscreen/makeup/repellent even biodegradable; jacket mandatory, gear-charge applicability unclear. Promotional MX$195 is not used.",
+    "MX$5,400 driver, MX$900 guide, US$170 nightly room cap, insurance and environmental charge are unquoted estimates. CUN return ADO fare assumed symmetric; no March bus/train timetable or complete train connection bill verified. Late/early flights may conflict with daylight intercity travel and consume contingency.",
+    "VISITAX MX$293 per adult is the retained November portal amount checked in public registration HTML/calculator; 2027 amount unverified. Separate hotel/environmental/airline immigration charges must be checked.",
+    "Day-loop nominal 12:00–13:30 slot is shorter than upper 100-minute driving allowance. Draft explicitly keeps swim flexible and preserves skip/move-to-Saturday contingency rather than promising full schedule."
+  ],
+  "sourceGroundedAudit": {
+    "scope": "Complete retained plan.html and sources.md read; no external refresh, booking, contact, source edit or publication. All original distinct source URLs retained as citations and registry entries. Superseded earlier Cielo US$51/October cache remains historical only, not a current offer.",
+    "coverage": [
+      "All three bases and room ranges",
+      "All three hotels and mismatched date/price limits",
+      "Five-day route plus separate departure",
+      "Cobá/Chichén and cenote fees, opening/last-entry times and rules",
+      "All ADO/train alternatives, international fares and last-mile limits",
+      "Every original budget row and stronger-peso scenario",
+      "Safety source dates/access block, seaweed uncertainty, entry/self-drive gaps"
+    ],
+    "originalResearchSessionLimit": "Original log discloses not every early research read used a clean session; later interactive rechecks used incognito contexts; no sign-ins imported. This drafting task did not repeat or claim that research."
+  },
+  "editingContract": "English-only reader-first local Markdown and schemaVersion 2 data. No Chinese draft, shared inventory, README, scripts, build, browser, website repo or source-run edits.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

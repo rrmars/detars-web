@@ -1,0 +1,150 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Solo movers seeking a New York studio or one-bedroom home near a Midtown job.",
+  "schemaVersion": 2,
+  "slug": "new-york-renting-move-in-cost-checklist",
+  "translationKey": "new-york-renting-move-in-cost-checklist",
+  "sources": [
+    {
+      "title": "28-26 44th Street #C5, Astoria",
+      "url": "https://www.renthop.com/listings/28-26-44th-street/c5/62949825",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "44-14 Newtown Road #1G, Astoria",
+      "url": "https://www.renthop.com/listings/44-14-newtown-road/1g/77409514",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "81 Willoughby Street #501, Downtown Brooklyn",
+      "url": "https://www.renthop.com/listings/81-willoughby-street/501/77408858",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "126 Manhattan Avenue #1, Manhattan Valley",
+      "url": "https://www.linecity.com/listing/3923353/126-Manhattan-Ave-Manhattan-Valley-Manhattan-NY-Rent",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "398 East 52 Street #3B, Turtle Bay",
+      "url": "https://www.openigloo.com/unit/nyc/1081200-1013630047-3b/manhattan-upper-east-side-398-east-52-street-10022-3b",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "OMNY seven-day subway/local-bus cap",
+      "url": "https://omny.info/fares",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "NYC DCWP's FARE FAQ",
+      "url": "https://www.nyc.gov/site/dca/about/FAQ-Broker-Fees.page",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RPL §238-a",
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/238-A",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "current §7-108",
+      "url": "https://www.nysenate.gov/legislation/laws/GOB/7-108",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "§7-107",
+      "url": "https://www.nysenate.gov/legislation/laws/GOB/7-107",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "NYC RGB",
+      "url": "https://rentguidelinesboard.cityofnewyork.us/resources/faqs/security-deposits/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "NYC tenant-selection guidance",
+      "url": "https://www.nyc.gov/site/fairhousing/rights-responsibilities/tenant-selection.page",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Voucher protections",
+      "url": "https://www.nyc.gov/site/hra/help/income-discrimination.page",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Fair Chance Housing",
+      "url": "https://www.nyc.gov/site/cchr/media/fair-chance-housing-campaign.page",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Insurent renter FAQ",
+      "url": "https://www.insurent.com/renters/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "TheGuarantors pricing help",
+      "url": "https://help.theguarantors.com/where-do-i-go-to-pay-my-invoice",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "“Are landlords still asking for last months rent?”",
+      "url": "https://www.reddit.com/r/NYCapartments/comments/moyn9a/advice_are_landlords_still_asking_for_last_months/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "“Advice on getting around this 40x rent rule?”",
+      "url": "https://www.reddit.com/r/NYCapartments/comments/13fol5z/advice_on_getting_around_this_40x_rent_rule/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "ceiling_rent_signing_cash": {
+      "label": "Ceiling rent signing cash",
+      "value": 6420,
+      "currency": "USD",
+      "unit": "signing_cash",
+      "display": "$6,420"
+    },
+    "ceiling_rent_ready_cash": {
+      "label": "Ceiling rent ready cash",
+      "value": 8320,
+      "currency": "USD",
+      "unit": "arrival_cash",
+      "display": "$8,320"
+    },
+    "ceiling_rent_ready_cash_with_guarantor": {
+      "label": "Ceiling rent ready cash with guarantor",
+      "value": 10880,
+      "currency": "USD",
+      "unit": "arrival_cash",
+      "display": "$10,880"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "68bf6d6d7d17e6647de4788b3a4dc5b58eb27749d598eec43d1a77d1f265b8e5",
+    "originalAuditSha256": "0bbb585298f0e9707b87cdcb15505062b18cb5722cdb4e4bb6af5323c6ada260"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

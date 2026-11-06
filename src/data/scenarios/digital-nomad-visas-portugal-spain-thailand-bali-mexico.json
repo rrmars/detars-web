@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 2,
+  "slug": "digital-nomad-visas-portugal-spain-thailand-bali-mexico",
+  "translationKey": "digital-nomad-visas-portugal-spain-thailand-bali-mexico",
+  "sources": [
+    {
+      "title": "ECB source",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Temporary checklist",
+      "url": "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/estada-temporaria",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2026 wage",
+      "url": "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2027 projection",
+      "url": "https://www.oe.gov.pt/prioridades/familias",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Visa types",
+      "url": "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AIMA",
+      "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fees",
+      "url": "https://vistos.mne.gov.pt/en/national-visas/general-information/fees",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Deadlines",
+      "url": "https://vistos.mne.gov.pt/en/national-visas/general-information/deadlines",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Article15",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs15.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Article16",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Activity registration",
+      "url": "https://www.gov.pt/servicos/abrir-atividade-nas-financas",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SSA Portugal",
+      "url": "https://www.ssa.gov/international/Agreement_Pamphlets/portugal.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Washington",
+      "url": "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-Visa.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "wage decree",
+      "url": "https://www.boe.es/eli/es/rd/2026/02/18/126",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UGE documentation",
+      "url": "https://www.inclusion.gob.es/documents/d/unidadgrandesempresas/informacion-documentacion-pagina-web-titular-v2",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "law, Articles 74 bis–ter",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10074",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UGE FAQ",
+      "url": "https://www.inclusion.gob.es/documents/d/unidadgrandesempresas/nomadas-digitales-faqs-espanol",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SSA Spain",
+      "url": "https://www.ssa.gov/international/Agreement_Pamphlets/spain.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AEAT",
+      "url": "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/folletos/folletos-residentes-rentas-extranjeras/estados-unidos.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AEAT special regime",
+      "url": "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/regimenes-opcionales/regimen-especial-impatriados.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DC",
+      "url": "https://washingtondc.thaiembassy.org/en/page/dtv-visa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "LA",
+      "url": "https://thaiconsulatela.thaiembassy.org/en/publicservice/dtv-visa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MFA DTV page 4",
+      "url": "https://image.mfa.go.th/mfa/0/91fPdh6NtO/VISA_Information/New_Visa_Measures_July_2024.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Embassy work scope",
+      "url": "https://budapest.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv?cate=698497c323290a095267d1c3",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "general fee page",
+      "url": "https://bangkok.immigration.go.th/th/fee/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DC general",
+      "url": "https://washingtondc.thaiembassy.org/en/page/visa-information",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "LA processing",
+      "url": "https://thaiconsulatela.thaiembassy.org/en/page/visa-information",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Revenue PDF",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/lorkhor/newspr/2024/FOREIGNERS_PAY_TAX2024.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Central Immigration",
+      "url": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Official guide",
+      "url": "https://ngurahrai.imigrasi.go.id/web/wp-content/uploads/2026/10/e33g-visa-guide-en.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DJP criteria",
+      "url": "https://www.pajak.go.id/en/how-determine-whether-someones-status-included-spdn-or-spln-criteria-indonesia",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "tax-law compilation",
+      "url": "https://pajak.go.id/sites/default/files/2022-04/Compilation%20Into%20Single%20Document%20Of%20Taxation%20Laws.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "San Diego PDF",
+      "url": "https://consulmex.sre.gob.mx/sandiego/images/visasingles2026/5a_Temporary_Resident_Visa_-_Economic_Solvency.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Las Vegas PDF",
+      "url": "https://consulmex.sre.gob.mx/lasvegas/images/2026/VISAS2026/TemporaryResidenceVisa2026",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Portland",
+      "url": "https://consulmex.sre.gob.mx/portland/index.php/vtrwala",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "INM",
+      "url": "https://www.inm.gob.mx/mpublic/publico/inm-tramites.html?a=thgeGuQHx2k%3D&h_dsplp02=es&h_sdp00=giUnJ9XgtISVcdYJXduIGw%3D%3D&tr=hyBh72VpD1w%3D",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "work permission",
+      "url": "https://ventanillaunica.economia.gob.mx/procedure/323/step/454?l=es",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "card step",
+      "url": "https://ventanillaunica.economia.gob.mx/procedure/323/step/604?l=es",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT CFF",
+      "url": "https://wwwmat.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1461176508927&ssbinary=true",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SAT LISR",
+      "url": "https://wwwmat.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1461176406815&ssbinary=true",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRS FEIE",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "physical-presence test",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "foreign tax home",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-tax-home-in-foreign-country",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "estimates",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "FinCEN",
+      "url": "https://www.fincen.gov/report-foreign-bank-and-financial-accounts",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRS comparison",
+      "url": "https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "State Department",
+      "url": "https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document/requesting-authentication-services.html",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "freelancer_gross_monthly_income": {
+      "label": "Freelancer gross monthly income",
+      "value": 5500,
+      "currency": "USD",
+      "unit": "per_month_gross",
+      "display": "USD5,500"
+    },
+    "portugal_current_d8_income_floor": {
+      "label": "Portugal current d8 income floor",
+      "value": 3680,
+      "currency": "EUR",
+      "unit": "per_month_income_requirement_2026",
+      "display": "EUR3,680"
+    },
+    "thailand_dc_month_end_cash_floor": {
+      "label": "Thailand dc month end cash floor",
+      "value": 16000,
+      "currency": "USD",
+      "unit": "minimum_each_month_end_over_three_months",
+      "display": "USD16,000"
+    },
+    "mexico_san_diego_monthly_income_floor": {
+      "label": "Mexico san diego monthly income floor",
+      "value": 4510,
+      "currency": "USD",
+      "unit": "per_month_over_six_months_2026",
+      "display": "USD4,510"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "8d64197d8006b01cf2a734323990db439ab237816715a0b7e74931322d951a5e",
+    "originalAuditSha256": "75682a3e67fc039e80b379df634d23aaeced47ef805fec3e562035b8c683fd3a"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Solo US-citizen freelance UX designer comparing overseas remote-work routes while legally resident in the US.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

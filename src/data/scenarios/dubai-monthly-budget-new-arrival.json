@@ -1,0 +1,150 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Single adults moving to Dubai for a Business Bay job, initially without a car or dependants.",
+  "schemaVersion": 2,
+  "slug": "dubai-monthly-budget-new-arrival",
+  "translationKey": "dubai-monthly-budget-new-arrival",
+  "sources": [
+    {
+      "title": "Goldcrest Executive, listing 168349082",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-c-goldcrest-executive-168349082.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ahad Residences, listing 162334480",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-business-bay-ahad-residences-162334480.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Candace Acacia, listing 161859891",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-furjan-candace-acacia-161859891.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pearlz by Danube, listing 162333598",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-furjan-pearlz-by-danube-162333598.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DEWA slab tariffs",
+      "url": "https://www.dewa.gov.ae/en/consumer/billing/slab-tariff?bck=1",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DLD housing-fee FAQ",
+      "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Emicool's FAQ",
+      "url": "https://www.emicool.com/faq",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Dubai health-insurance law, Articles 8–12",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Law%20No.%20(11)%20of%202013.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ILOE plans",
+      "url": "https://iloe.ae/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "November 5, 2024 Gulf News report",
+      "url": "https://gulfnews.com/uae/sewerage-charges-to-go-up-in-dubai-from-2025-1.104581444",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DEWA move-in",
+      "url": "https://dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DLD Ejari",
+      "url": "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UAE government's worker-rights guidance",
+      "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Dubai government base schedule",
+      "url": "https://www.dubai.ae/en/living/driving-transportation/road-toll-in-dubai-salik",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Salik's May 22, 2026 issuer disclosure",
+      "url": "https://feeds.dfm.ae/documents/2026/May/22/2d9de89d-e273-4fad-bc1d-83857588a7af/General%20Disclosure%2022%205%202026%20FVS.Pdf.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "RTA's current table",
+      "url": "https://rta.ae/wps/portal/rta/ae/public-transport/Nol-Fares",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "real apartment-and-rent question",
+      "url": "https://www.reddit.com/r/dubai/comments/1dix1ku/moving_to_dubai_need_help_with_apartment_and_rent/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "real relocation-cash question",
+      "url": "https://www.reddit.com/r/dubai/comments/12h0p1l/how_much_money_upfront_to_move_to_dubai/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_spendable_salary": {
+      "label": "Monthly spendable salary",
+      "value": 22000,
+      "currency": "AED",
+      "unit": "per_month",
+      "display": "AED22,000"
+    },
+    "jlt_monthly_recurring_surplus": {
+      "label": "Jlt monthly recurring surplus",
+      "value": 10313,
+      "currency": "AED",
+      "unit": "per_month",
+      "display": "AED10,313"
+    },
+    "jlt_cash_through_first_payday": {
+      "label": "Jlt cash through first payday",
+      "value": 60770,
+      "currency": "AED",
+      "unit": "arrival_cash",
+      "display": "AED60,770"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "4e125932ef8aa8fc6ffc6169a82eb79cdabfea7e984f4ae6d76e81900784f16c",
+    "originalAuditSha256": "d9ead7455a7800522a8868315d587a3b6d2f4538e60e6112a719865f6788e20a"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "living",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

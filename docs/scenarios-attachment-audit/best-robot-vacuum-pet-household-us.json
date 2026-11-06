@@ -1,0 +1,55 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "c1787d6a0f9bf1c65c297a50e4208856aac987855798cc980628cfd51cb2d23b",
+  "sourceListLink": "best-robot-vacuum-pet-household-us-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/best-robot-vacuum-pet-household-us/robot-vacuum-comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f37fab1c6790dc3e39df09b1d18e2cfdfe0f5328dae9e6593c823492f585d193",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-robot-vacuum-pet-household-us-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-robot-vacuum/robot-vacuum-comparison.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/best-robot-vacuum-pet-household-us/robot-vacuum-comparison.xlsx"
+        },
+        {
+          "target": "../w4-robot-vacuum/robot-vacuum-comparison.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "6042a124660dcddc99e7abd0b8fd945b97faebd862ee8755ea5f1bcb8c406239",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-robot-vacuum-pet-household-us-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-robot-vacuum/robot-vacuum-comparison.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/best-robot-vacuum-pet-household-us/robot-vacuum-comparison.xlsx"
+        },
+        {
+          "target": "../w4-robot-vacuum/robot-vacuum-comparison.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

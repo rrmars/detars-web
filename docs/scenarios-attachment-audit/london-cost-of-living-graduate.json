@@ -1,0 +1,55 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "24907add0e9627e824c167dfcce8cf73ec4209ce958808d383255247665ecc9c",
+  "sourceListLink": "london-cost-of-living-graduate-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/london-cost-of-living-graduate/London-graduate-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "00937140d45e181b6b034f5cd18d450d39a70143bb59af6fa13b4e8abb74d3eb",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "london-cost-of-living-graduate-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-london-living/London-graduate-budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/london-cost-of-living-graduate/London-graduate-budget.xlsx"
+        },
+        {
+          "target": "../w4-london-living/London-living-summary.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "85dffaf37ff622bed715df0c4117949e59adba4c03aa9bad0a0ccc2ed6037f93",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "london-cost-of-living-graduate-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-london-living/London-graduate-budget.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/london-cost-of-living-graduate/London-graduate-budget.xlsx"
+        },
+        {
+          "target": "../w4-london-living/London-living-summary.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

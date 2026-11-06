@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "1c0b12501681f785475162f2c9bd6cbf50385650ebec0e42a0cde687296a54dd",
+  "sourceListLink": "../w4-ai-slide-tools/comparison-data.json",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/ai-slide-tools-sign-in-gates-anonymous-export/raw-results.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "16cb7340d352be3c7e56c7c5f6a45e746a0c6833314e8a3268a09de0a71cfa2f",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "7579d843a0811f090cecd107d105e00a052991d37f58d602b5cf1005f8106618",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

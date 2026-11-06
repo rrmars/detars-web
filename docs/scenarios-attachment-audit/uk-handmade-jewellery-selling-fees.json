@@ -1,0 +1,21 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "8a8bec2263641dc5575b9155f7b58fa9c8a9348ae0c8367ddbb9632b162547c4",
+  "sourceListLink": "../w6-uk-jewellery-selling/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [
+    "/scenarios/uk-handmade-jewellery-selling-fees/compare.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "46d123efef8efce56ae0a9d2ee3d254ad5f90c1d7f07dbe10d490861688682bf",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

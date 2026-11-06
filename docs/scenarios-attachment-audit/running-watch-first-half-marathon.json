@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "d54e26bdb0fca68d9a6cc0acba0644ba0ecd65b1209a26591e8e4185f1cbdbea",
+  "sourceListLink": "../w6-running-watch/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ee8e8bafb8715515680cb6c48375b8e89f2059bcf0d07a110df4832bb4b4e57a",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

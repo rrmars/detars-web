@@ -1,0 +1,285 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "US phone shoppers prioritizing indoor family photos, battery condition and long software support.",
+  "schemaVersion": 2,
+  "slug": "best-phone-under-500-us",
+  "translationKey": "best-phone-under-500-us",
+  "sources": [
+    {
+      "title": "Pixel 9a, refurbished",
+      "url": "https://www.backmarket.com/en-us/p/google-pixel-9a",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pixel 10a, refurbished",
+      "url": "https://www.backmarket.com/en-us/p/google-pixel-10a",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pixel 9, refurbished",
+      "url": "https://www.backmarket.com/en-us/p/google-pixel-9",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "iPhone 16e, refurbished",
+      "url": "https://www.backmarket.com/en-us/p/iphone-16e",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Galaxy A37 5G, new",
+      "url": "https://www.bestbuy.com/product/samsung-galaxy-a37-5g-128gb-unlocked-awesome-charcoal/JJGRF3H3KS",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "iPhone 17e, refurbished",
+      "url": "https://www.backmarket.com/en-us/p/iphone-17e",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "iPhone 15 Plus, refurbished",
+      "url": "https://www.backmarket.com/en-us/p/iphone-15-plus",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DXOMARK's camera test",
+      "url": "https://www.dxomark.com/google-pixel-9a-camera-test/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Owner discussion",
+      "url": "https://www.reddit.com/r/GooglePixel/comments/1khthsn/pixel_9a_after_a_few_weeks/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DXOMARK's test",
+      "url": "https://www.dxomark.com/google-pixel-9-camera-test/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pickr's review",
+      "url": "https://www.pickr.com.au/reviews/2026/google-pixel-10a/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Tom's Guide's review",
+      "url": "https://www.tomsguide.com/phones/iphones/apple-iphone-16e-review",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a37-review-3726330/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pickr",
+      "url": "https://www.pickr.com.au/reviews/2026/samsung-galaxy-a37-5g-sm-a376b/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "battery guidance",
+      "url": "https://support.google.com/pixelphone/answer/15738128?hl=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "update policy",
+      "url": "https://support.google.com/pixelphone/answer/4457705?hl=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "US first-availability table",
+      "url": "https://support.google.com/pixelphone/answer/15738422?hl=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Samsung's announcement, especially footnotes 3/21",
+      "url": "https://news.samsung.com/us/samsung-unveils-galaxy-a57-5g-galaxy-a37-5g-pro-level-features-awesome-price/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "16e UK declaration",
+      "url": "https://regulatoryinfo.apple.com/cwt/api/ext/file?fileId=securityTelecommunication%2FA3409_UKPSTI_DoC_Annex_V1.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "17e",
+      "url": "https://regulatoryinfo.apple.com/cwt/api/ext/file?fileId=securityTelecommunication%2FA3634_UKPSTI_DoC_Annex_V1.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "15 Plus",
+      "url": "https://regulatoryinfo.apple.com/cwt/api/ext/file?fileId=securityTelecommunication%2FiPhone%2015%20Plus%20(Model%20A3094)_V0.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "selected-model wizard",
+      "url": "https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Nothing Phone (4a) Pro",
+      "url": "https://us.nothing.tech/products/phone-4a-pro?Colour=Silver&Capacity=8%2B128GB",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "WIRED",
+      "url": "https://www.wired.com/review/nothing-phone-4a-pro/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "NothingTec",
+      "url": "https://nothingtec.com/en/2026/04/01/analisis-nothing-phone-4a-pro-opinion/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Moto G Stylus 2026",
+      "url": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp?pn=PBAM0008US",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "WIRED's review",
+      "url": "https://www.wired.com/review/motorola-moto-g-stylus-2026/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Motorola Edge 2025",
+      "url": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-gen-6/pmipmhp40mv?pn=PB7A0006US",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pixel 9a, new listing",
+      "url": "https://store.google.com/us/config/pixel_9a?hl=en-US",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pixel 10a, new",
+      "url": "https://store.google.com/us/product/pixel_10a?hl=en-US",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Galaxy A57 5G",
+      "url": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Galaxy A36 5G",
+      "url": "https://www.bestbuy.com/product/samsung-galaxy-a36-5g-128gb-unlocked-awesome-lime/JJGRF3CK9C",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Galaxy A56 5G",
+      "url": "https://www.bestbuy.com/product/samsung-galaxy-a56-128gb-unlocked-awesome-graphite/JJGRF3S6V7",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "OnePlus 12R",
+      "url": "https://www.oneplus.com/us/oneplus-12r",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Official specs",
+      "url": "https://www.oneplus.com/us/12r/specs",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "OnePlus 13R",
+      "url": "https://www.oneplus.com/us/oneplus-13r",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "OnePlus 15R",
+      "url": "https://www.oneplus.com/us/store/phone",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Motorola Edge 2026",
+      "url": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-2026/pmipmjr44mu?pn=PBC70002US",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "current Apple store FAQ",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "OnePlus maintenance table",
+      "url": "https://security.oneplus.com/en/mend",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AT&T's credit explanation",
+      "url": "https://www.att.com/support/article/my-account/KM1052054/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Apple's 16e specifications",
+      "url": "https://support.apple.com/en-us/122208",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "official compatibility PDF",
+      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/files/5G_Compatibility_of_Phone_4a_Pro.pdf?v=1776050926",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Current Verizon policy",
+      "url": "https://www.verizon.com/support/device-unlocking-policy/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Best Buy's official calendar",
+      "url": "https://corporate.bestbuy.com/2026/holiday-calendar",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "pixel_refurb_handset_price": {
+      "label": "Pixel refurb handset price",
+      "value": 310,
+      "currency": "USD",
+      "unit": "per_handset_before_tax",
+      "display": "$310"
+    },
+    "iphone_refurb_handset_price": {
+      "label": "Iphone refurb handset price",
+      "value": 364,
+      "currency": "USD",
+      "unit": "per_handset_before_tax",
+      "display": "$364"
+    },
+    "galaxy_new_handset_price": {
+      "label": "Galaxy new handset price",
+      "value": 439.99,
+      "currency": "USD",
+      "unit": "per_handset_before_tax",
+      "display": "$439.99"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "aaec6793ff2e726612bf0df8ae6ff7de084c0634cf6975eb1ec444268222a090",
+    "originalAuditSha256": "ae1f59d1918c8fa405d49519d76508247ccc015f39a3d567303e36cc911a7576"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

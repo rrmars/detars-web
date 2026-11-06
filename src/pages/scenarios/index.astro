@@ -1,0 +1,10 @@
+---
+import Base from "@/layouts/Base.astro";
+import ScenarioIndex from "@/components/ScenarioIndex.astro";
+import { scenarioIndexCopy } from "@/lib/scenarios";
+const copy = scenarioIndexCopy("en");
+---
+
+<Base locale="en" route="/scenarios" title={copy.title} description={copy.description} alternateLocales={["en", "zh"]}>
+  <ScenarioIndex locale="en" />
+</Base>

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "e60d23a3d64d1d1f819ee24db2df7ae99d0e3fdeb36f8e66b5418f51a8a2286c",
+  "sourceListLink": "../w5-berlin-rent/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "fedcac2ad4794cee631d5fb4783e5f9df80103d057c974f73b05dd2977864635",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "d940bba1700155b1e9ef1ea115665283a57b7d74299c44ee35582dd1a86ecc87",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

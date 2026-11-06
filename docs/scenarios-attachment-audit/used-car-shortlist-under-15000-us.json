@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "aa8fd6f02c37917737f376ac051bc6119db4baac610e416bbbb534fdf05ec5f7",
+  "sourceListLink": "../w5-used-car/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "c80fae31a46e0a0aa72b5946c26319e80e4ac1eee555a46463a8730a848306d0",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "4fa0d3514c02e38506a122388957bba6413fff969e31cb4fc03faec40a465b62",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

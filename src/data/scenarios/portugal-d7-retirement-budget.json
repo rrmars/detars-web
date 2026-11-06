@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 2,
+  "slug": "portugal-d7-retirement-budget",
+  "translationKey": "portugal-d7-retirement-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "British-national married/civil-partner retirees legally resident in the UK, both 64 on November 6, 2026, planning an autumn 2027 Portugal move on GBP pensions; English-only because no distinct Chinese-reader reason is established.",
+  "sources": [
+    {
+      "title": "[D7] VFS UK / Portuguese consular D7 checklist",
+      "url": "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/D7-RESIDENCE-VISA-FOR-RETIREMENT-RELIGIOUS-OR-FOR-LIVING-FROM-INDIVIDUAL-REVENUES.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[WAGE] Portuguese government: working in Portugal",
+      "url": "https://www.gov.pt/guias/trabalhar-em-portugal",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[MEANS] AIMA: Meios de Subsistência",
+      "url": "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[WAGE2027] Government2027 budget announcement",
+      "url": "https://portugal.gov.pt/pt/gc25/comunicacao/noticias/rendimentos-habitacao-servicos-publicos-o-que-pode-esperar-no-proximo-ano",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[FAMILY] VFS UK accompanying-family checklist",
+      "url": "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/D8-RESIDENCE-VISA-FOR-ACCOMPANYING-FAMILY-MEMBER-APPLYING-FOR-A-RESIDENCE-VISA.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[VFS] VFS UK national-visa page",
+      "url": "https://www.vfsglobal.com/one-pager/portugal/uk/english/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[AIMA] AIMA: general residence requirements, Article77(1)",
+      "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF42252 — Lisboa — Praça de Espanha rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-vista-praca-de-espanha-lisboa-arrendamento-a0cTg00000ML0wPIAT",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF42006 — Lisboa — Telheiras/Lumiar, ZEN B701 rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-piscina-telheiras-lisboa-arrendamento-a0cTg00000Lv7dNIAR",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF42005 — Lisboa — Telheiras/Lumiar, ZEN B601 rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-piscina-telheiras-lisboa-arrendamento-a0cTg00000Lv6sbIAB",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF42004 — Lisboa — Telheiras/Lumiar, ZEN B706 rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-piscina-telheiras-lisboa-arrendamento-a0cTg00000Lv6fhIAB",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF41549 — Cascais — Estoril rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-estacionamento-estoril-cascais-arrendamento-a0cTg00000KxXFlIAN",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF41527 — Cascais — Alcabideche/Amoreira rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-estacionamento-alcabideche-cascais-arrendamento-a0cTg00000KnfGDIAZ",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF41451 — Cascais — Alvide rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-jardim-alvide-cascais-arrendamento-a0cTg00000KVKgTIAX",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF40474 — Oeiras — Oeiras Centro rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-vista-oeiras-centro-oeiras-arrendamento-a0cTg00000HWUsPIAX",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF25511 — Oeiras — Carnaxide/Vale do Jamor rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-piscina-carnaxide-oeiras-arrendamento-a0c3Y00000UoWClQAN",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "PF07717 — Oeiras — Paço de Arcos rental advertisement",
+      "url": "https://www.portadafrente.com/pt/imoveis/apartamento-t2-com-vista-paco-de-arcos-oeiras-arrendamento-a0c3Y00000UDvzZQAT",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ERA 279260067 — Almada — central Almada, principal avenue near Metro rental advertisement",
+      "url": "https://www.era.pt/imovel/apartamento-t2-almada-almada-279260067",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[HEALTH] GOV.UK: healthcare for UK nationals living in Portugal",
+      "url": "https://www.gov.uk/guidance/healthcare-in-portugal-including-madeira",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[SNS] Portuguese government: SNS user number",
+      "url": "https://www.gov.pt/servicos/pedir-o-numero-de-utente-do-sns",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[SPA] GOV.UK: State Pension age timetable",
+      "url": "https://www.gov.uk/government/publications/state-pension-age-timetable/state-pension-age-timetable",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[GHIC] NHS: UK Global Health Insurance Card",
+      "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[MEDIS] Médis: Vintage",
+      "url": "https://www.medis.pt/seguros-de-saude/vintage/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[GENERALI] Generali Tranquilidade: Saúde Individual comparison",
+      "url": "https://www.generalitranquilidade.pt/particulares/seguros/saude/saude-individual/comparador",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Allianz Saúde 55 Mais: benefits, not an age-64 premium",
+      "url": "https://www.allianz.pt/seguro-saude-55mais.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Generali Saúde +55: no premium exposed in retained text",
+      "url": "https://www.generalitranquilidade.pt/particulares/seguros/saude/saude-55",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Generali Saúde +55 comparator: no premium exposed",
+      "url": "https://www.generalitranquilidade.pt/particulares/seguros/saude/saude-55/comparador",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[NHR] Portuguese Tax Authority: NHR registration and transition",
+      "url": "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/non-habitual-resident/register-as-a-non-habitual-resident/Pages/default.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[TREATY_STATUS] HMRC: Portugal tax treaties",
+      "url": "https://www.gov.uk/government/publications/portugal-tax-treaties",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[TREATY_TEXT] HMRC:2025 UK–Portugal Double Taxation Convention, in force",
+      "url": "https://www.gov.uk/government/publications/portugal-tax-treaties/2025-uk-portugal-double-taxation-convention-not-in-force",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[PENSION_UK] GOV.UK: pension taxation abroad",
+      "url": "https://www.gov.uk/tax-on-pension/tax-when-you-live-abroad",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[IRS] Portuguese Tax Authority: CIRS Article68",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs68.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[IRS_DECREE] AT-hosted Decree-Law212/2026 of4November",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Decreto-Lei-212-2026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Portuguese Tax Authority: CIRS Article 68-A, solidarity tax",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs68a.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "[RESIDENCE_TAX] Portuguese Tax Authority: CIRS Article16",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "current_uk_net_monthly_pension": {
+      "label": "Example household pension after UK tax, not confirmed post-move net income",
+      "value": 3200,
+      "unit": "monthly_uk_net_income",
+      "currency": "GBP",
+      "display": "£3,200"
+    },
+    "dated_household_d7_floor": {
+      "label": "Derived 2026 monthly household basis for main applicant plus spouse, not living budget or approval",
+      "value": 1380,
+      "unit": "derived_monthly_means_floor",
+      "currency": "EUR",
+      "display": "€1,380"
+    },
+    "monthly_rent_target": {
+      "label": "Unsecured T2 search target, not a market average or quoted lease",
+      "value": 1500,
+      "unit": "monthly_rent_allowance",
+      "currency": "EUR",
+      "display": "€1,500"
+    },
+    "monthly_plan_with_tax_margin": {
+      "label": "Illustrative two-person plan including EUR 400 holding margin, not a tax assessment",
+      "value": 3500,
+      "unit": "monthly_planning_total",
+      "currency": "EUR",
+      "display": "€3,500"
+    },
+    "monthly_surplus_at_assumed_fx": {
+      "label": "Illustrative surplus at GBP 1 = EUR 1.15 before transfer fees, subject to actual net pension and insurance",
+      "value": 180,
+      "unit": "monthly_illustrative_surplus",
+      "currency": "EUR",
+      "display": "€180"
+    },
+    "provisional_couple_health_cover": {
+      "label": "Monthly insurance allowance for two, not an age-64 quotation or comprehensive cover guarantee",
+      "value": 300,
+      "unit": "monthly_unquoted_insurance_allowance",
+      "currency": "EUR",
+      "display": "€300"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All external sources retain their explicit original access date of 2026-11-06 in Asia/Singapore; collection began 2026-11-05 UTC/Portugal time. No external research, live-price/rule refresh or insurer quotation performed during drafting. Rental and marketing prices are samples from date seen, not autumn 2027 offers. Copy editing is not a source recheck or publication date.",
+  "uncertainties": [
+    "Not immigration, tax or legal advice. Applicant nationality, UK residence, relationship, exact birth dates, pension ownership/classification, other benefits and individual eligibility require confirmation. No pre-2021 Withdrawal Agreement residence route assumed.",
+    "2026 D7 basis uses EUR 920 wage, 100% main adult and 50% spouse. AIMA numeric wage paragraph is stale at 2025 EUR 870. EUR 970 for 2027 is an announcement, not a verified implementing instrument; derived annual couple amounts are not separately printed couple-bank quotations. Finance wording is ambiguous; prepare both income-receipt and Portuguese bank/NIF evidence, not savings alone.",
+    "2027 wage, fees, checklists and accommodation acceptance are not confirmed. Sixty days is a published extendable consular standard, not observed median or end-to-end promise. Three-month filing window, appointment availability and separate AIMA process can delay a move; no verified statutory AIMA deadline, reliable appointment/card wait or all-online route claimed.",
+    "Eleven rental examples are premium-agent-biased, not medians or representative area averages. Three ZEN units are distinct. Monthly periodicity is the normal rental interpretation, not an independently stated contractual interval; areas are gross private, not usable. All durations, D7 suitability, retiree acceptance and autumn 2027 availability are unconfirmed. Bills/deposits and furnishing need written confirmation; Almada fifth-floor lift and internet inclusion are unverified. EUR 9000 luxury outlier excluded.",
+    "SNS number alone does not guarantee payment/coverage. Resident entitlement record and continuous bridging insurance need confirmation. State-Pension-based S1 not budgeted at arrival for this age cohort; exact dates and alternative benefits matter. GHIC is temporary-visit cover, not permanent-resident/private/repatriation insurance.",
+    "No age-64/65 individual or couple insurance premium was obtained. Médis EUR 49.20 is one age-57 person; Generali examples are ages 20/15, not its +55 premiums. Allianz EUR 25/day is a cash benefit, not premium or hospital bill coverage. EUR 300/month plus EUR 75 care costs are allowances; acceptance, exclusions, waiting periods, limits and D7 medical/repatriation adequacy remain unresolved. Multicare readable-page and Ageas retrieval gaps in source research were not treated as price evidence.",
+    "2025 treaty already in force per retained HMRC status/text despite stale URL slug. Ordinary pensions, UK State Pension interpretation and government-service rules differ; scheme-specific advice and relief procedures needed. No new 2027 NHR retirement offer assumed. Dated 2026 IRS rates and solidarity bands are not verified 2027 rates or household tax assessment; residence may arise before 183 days under habitual-home test.",
+    "GBP 3200 is after UK tax, not confirmed post-move net. EUR 400 is holding margin only; do not add full Portuguese tax mechanically to unchanged UK withholding. Gross pension amounts, ownership, classifications, residence dates and relief determine new net. FX, EUR 1500 rent, all monthly allowances, move reserve and 5% stress increase are assumptions, not quotes or inflation forecast. Savings cannot sustainably fund ordinary recurring deficits.",
+    "Only local English Markdown and JSON authored. No Chinese-specific reader need established, no bilingual parity claim. No source-run/shared inventory/build script/manifest/HTML/site edits, external source refresh, application, account creation, contact, appointment, booking, payment or publication. Local footer locators are draft provenance only. Original run model unknown; retained research discloses early automatic managed-browser fallbacks, not a wholly clean-browser guarantee."
+  ],
+  "editingContract": "Local English-only reader-first Markdown and schemaVersion 2 semantic JSON. Retain substantive visa/documents/timing, eleven practical rentals, healthcare and insurer qualifications, treaty/tax, monthly budget and stress/reserve decisions from guide and source notes. Semantic headline displays appear verbatim; complete external URL registry with original access dates; source-artifact SHA256 of actual read files. No Review, stars, unhosted reader attachment links, refresh, build or publication.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

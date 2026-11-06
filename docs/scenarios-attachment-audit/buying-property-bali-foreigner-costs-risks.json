@@ -1,0 +1,63 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "78c8e02ad9d03bf9e732b6605616fe0933efc66d3cf3fe5715640162ef252472",
+  "sourceListLink": "buying-property-bali-foreigner-costs-risks-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/buying-property-bali-foreigner-costs-risks/bali_buy_2027.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "39ff48162d28c1e30fe84c7563e12b77fecf4890d7555a4cb747bca105e46634",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "buying-property-bali-foreigner-costs-risks-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-bali-buy/bali_buy_2027.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/buying-property-bali-foreigner-costs-risks/bali_buy_2027.xlsx"
+        },
+        {
+          "target": "../w4-bali-buy/bali_buy_2027.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "buying-property-bali-foreigner-costs-risks-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "0fc95bc21e44f78766770b797394e2f278300f769a68e46f5db1f69497eb0cba",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "buying-property-bali-foreigner-costs-risks-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-bali-buy/bali_buy_2027.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/buying-property-bali-foreigner-costs-risks/bali_buy_2027.xlsx"
+        },
+        {
+          "target": "../w4-bali-buy/bali_buy_2027.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "buying-property-bali-foreigner-costs-risks-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

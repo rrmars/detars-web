@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 2,
+  "slug": "berlin-rent-new-arrival-budget",
+  "translationKey": "berlin-rent-new-arrival-budget",
+  "sources": [
+    {
+      "title": "W1 · Wedding",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-fuer-3-monate-ab-sofort/3558551104-203-9665",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "W2 · Wedding",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-balkon-in-wedding-moeblierte-untermiete/3561161451-203-3508",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "L1 · Lichtenberg",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-berlin-lichtenberg/3528618967-203-3545",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "L2 · Lichtenberg",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/apartment-zu-vermieten-ab-november-2026/3541657616-203-3545",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "C2 · Charlottenburg",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/vollstaendig-sanierte-1-z-wohnung-mit-balkon-in-charlottenburg/3560059799-203-3346",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "F3 · Friedrichshain",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/fully-furnished-studio-apartment-in-friedrichshain-for-6-months/3556141250-203-3354",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "N1 · Neukölln",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-1-zimmer-wohnung-in-neukoelln-1-jahr-untermiete/3559066504-199-3394",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "N2 · Neukölln",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-unbefristete-2-zimmer-wohnung-mit-offenem-wohnbereich-und-balkon-im-rix-neukoelln/3425185762-203-3392",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BMF 2026 payroll XML",
+      "url": "https://www.bmf-steuerrechner.de/javax.faces.resource/daten/xmls/Lohnsteuer2026.xml.xhtml",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "health contribution source",
+      "url": "https://www.bundesgesundheitsministerium.de/beitraege/seite",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "care-insurance source",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/pflege/online-ratgeber-pflege/die-pflegeversicherung/finanzierung",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "EStG §32b",
+      "url": "https://www.gesetze-im-internet.de/estg/__32b.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BGB §551 source",
+      "url": "https://www.gesetze-im-internet.de/bgb/__551.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Berlin service source",
+      "url": "https://service.berlin.de/dienstleistung/120686/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BMG §19",
+      "url": "https://www.gesetze-im-internet.de/bmg/__19.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Berlin's data-protection guidance",
+      "url": "https://www.datenschutz-berlin.de/themen/wohnen/selbstauskunft/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Senate announcement",
+      "url": "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1615170.php",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BGB §556d",
+      "url": "https://www.gesetze-im-internet.de/bgb/__556d.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "consumer-protection source",
+      "url": "https://www.verbraucherzentrale-berlin.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-falsche-immobilienanzeigen-27576",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "annual_contractual_gross_salary": {
+      "label": "Annualized contractual gross salary",
+      "value": 62000,
+      "unit": "per_year",
+      "currency": "EUR",
+      "display": "€62,000"
+    },
+    "estimated_regular_monthly_net": {
+      "label": "Rounded regular monthly net using 2026 payroll proxy",
+      "value": 3215,
+      "unit": "per_month",
+      "currency": "EUR",
+      "display": "€3,215"
+    },
+    "illustrative_arrival_cash_reserve": {
+      "label": "Illustrative cash reserve excluding flights and separate temporary deposit",
+      "value": 8700,
+      "unit": "arrival_cash",
+      "currency": "EUR",
+      "display": "€8,700"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Access dates are explicitly recorded in the original run source ledger; no external localization recheck. Folder dates are not used as access evidence.",
+  "editingContract": "Readable English and Simplified Chinese lines and table cells must retain matching complete numeric, currency, date and URL literals. Headline figures are semantic facts, not substitution tokens.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Single Indian software developer moving to Berlin for EU Blue Card employment and seeking a first rental home.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

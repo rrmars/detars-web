@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "56f377b9b8d898bbfd7149e413e731e96393d65e3d22b6ac643d164a0f179e46",
+  "sourceListLink": "../w5-canada-study-ph/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "067cb13a2d912ed5d31931fa6b995fe3d51ffad76168a17ec1b6e819693f2566",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "f491df6e2d6f6416a4e97aae4dba6c103f21017f325c0bddda5d0485ecaedd86",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

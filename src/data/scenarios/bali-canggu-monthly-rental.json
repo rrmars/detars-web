@@ -1,0 +1,145 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Remote workers comparing Canggu monthly rentals and full living costs for a working stay.",
+  "schemaVersion": 2,
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "slug": "bali-canggu-monthly-rental",
+  "translationKey": "bali-canggu-monthly-rental",
+  "sources": [
+    {
+      "title": "Berawa Room, VLCNGG-312",
+      "url": "https://zehavabalienterprise.com/property/berawa-room-rent-vlcngg-312/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pondok Canggu standard",
+      "url": "https://zehavabalienterprise.com/property/pondok-canggu-rent-vlcngg-41/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Jubilee Studios",
+      "url": "https://rentroombali.com/property/jubilee-studios-pererenan/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Villa Lagom",
+      "url": "https://www.joliesmaisonsbali.com/villa-lagom",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BAM-00018 studio",
+      "url": "https://bam-bali.com/property/1-bedroom-studio-berawa-bam-00018",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Pratama Studios",
+      "url": "https://rentroombali.com/property/pratama-studios-pererenan/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BAM-00011",
+      "url": "https://bam-bali.com/property/1-bedroom-unit-berawa-bam-00011",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Bank Indonesia JISDOR observation for November 4, 2026",
+      "url": "https://www.bi.go.id/en/statistik/informasi-kurs/jisdor/default.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fazzio operator advertisement",
+      "url": "https://www.balitourmotor.com/rent-scooter/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BWork pricing",
+      "url": "https://bwork.id/membership/canggu/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RentRoomBali FAQ",
+      "url": "https://rentroombali.com/faq/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "public Bali question",
+      "url": "https://www.reddit.com/r/bali/comments/1brgjzr/looking_for_some_insight_from_digital_nomads_in/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "public cost-and-rental-search question",
+      "url": "https://www.reddit.com/r/digitalnomad/comments/1scfepj/how_are_the_costs_currently_in_bali/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Canggu meeting-space question",
+      "url": "https://www.reddit.com/r/BaliTravelTips/comments/1wt251o/are_there_any_places_where_i_can_do_some_virtual/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Official policy",
+      "url": "https://www.linkedin.com/legal/professional-community-policies",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Rule 2",
+      "url": "https://www.reddit.com/r/digitalnomad/about/rules/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Rules 3–4",
+      "url": "https://www.reddit.com/r/bali/about/rules/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "berawa_monthly_living_with_coworking": {
+      "label": "Berawa monthly living with coworking",
+      "value": 1225,
+      "currency": "USD",
+      "unit": "per_month",
+      "display": "$1,225"
+    },
+    "pondok_monthly_living_with_coworking": {
+      "label": "Pondok monthly living with coworking",
+      "value": 1195,
+      "currency": "USD",
+      "unit": "per_month",
+      "display": "$1,195"
+    },
+    "lagom_monthly_home_work_living": {
+      "label": "Lagom monthly home work living",
+      "value": 1731,
+      "currency": "USD",
+      "unit": "per_month",
+      "display": "$1,731"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "238911b9261b448ac4bc0bb329329e9ab4b7450872eda6d7d5802bdbbc2374b4",
+    "originalAuditSha256": "f89f72f249fc26f097cb15b05f7906644c7468eabe5277a921d0fad66c6f349c"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

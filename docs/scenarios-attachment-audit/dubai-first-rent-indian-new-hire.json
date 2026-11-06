@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "8ad3723b7630d9bfa228d80cc0489485b3f07fcfd0a0cc6c22c7ca5b5fdb9784",
+  "sourceListLink": "../w6-dubai-first-rent-india/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "d8a5b61622c522a331a200c8ed9731c2086b1aa2e8e2e5e62d6238b428313362",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

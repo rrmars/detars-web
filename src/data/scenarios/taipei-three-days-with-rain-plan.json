@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 2,
+  "slug": "taipei-three-days-with-rain-plan",
+  "translationKey": "taipei-three-days-with-rain-plan",
+  "sources": [
+    {
+      "title": "DGPA — 2027 Work Calendar",
+      "url": "https://www.dgpa.gov.tw/information?uid=353&pid=13028",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taipei Travel — Ningxia Night Market",
+      "url": "https://www.travel.taipei/en/attraction/details/1689",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taipei Travel — Raohe Night Market",
+      "url": "https://www.travel.taipei/en/attraction/details/1691",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taoyuan Metro — Official fare matrix",
+      "url": "https://www.tymetro.com.tw/tymetro-new/en/_images/document/travel-guide/price.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taipei Travel — Airport MRT guide",
+      "url": "https://www.travel.taipei/en/information/taoyuanmetro/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taipei Travel — Beitou Geothermal Valley",
+      "url": "https://www.travel.taipei/en/attraction/details/536",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taoyuan Metro — Timetable and airport buffer",
+      "url": "https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/timetable.php",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Sihai Soy Milk 四海豆漿大王",
+      "url": "https://note.com/ottyan_nel_dchan/n/n37e0b8f50775",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fu Hang 阜杭豆漿",
+      "url": "https://momoblog.tw/fuhangsoymilk/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fang Chia 方家雞肉飯",
+      "url": "https://taiwanlocallife.com/fangjia-chicken-rice-review/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Liu Yu Zi 劉芋仔",
+      "url": "https://auntie.tw/202602195/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Yong Kang 永康牛肉麵",
+      "url": "https://marcshin.tistory.com/25?category=1204736",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fuzhou Shizu 福州世祖胡椒餅",
+      "url": "https://lordcat.net/archives/3542",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taipei City — TAIPEI Quarterly, Summer 2019",
+      "url": "https://www.travel.taipei/en/pictorial/article/20097/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Dandy Hotel — Tianjin Branch",
+      "url": "https://www.hotelscombined.com.tw/Hotel/Dandy_Hotel_Tianjin_Branch.htm",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Royal Inn Taipei Nanxi",
+      "url": "https://www.hotelscombined.com.tw/Hotel/Royal_Inn_Taipei_Nanxi_MRT_Zhongshan_Station.htm",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "EasyCard",
+      "url": "https://www.easycard.com.tw/en/easycard?cls=1521769569&id=1521769904",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Adult stored-value fares",
+      "url": "https://english.metro.taipei/cp.aspx?n=BECC2E7AC426F659&s=98639C1CC8FAE752",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Taipei Metro — Fare and travel-time planner",
+      "url": "https://english.metro.taipei/cp.aspx?n=46A82F0C116392CB",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "BOCA — Visa-Exempt Entry",
+      "url": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "official Taiwan Arrival Card portal",
+      "url": "https://twac.immigration.gov.tw/",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "planned_trip_envelope": {
+      "label": "Planned per-person spending including contingency",
+      "value": 14070,
+      "unit": "per_person_allowance",
+      "currency": "TWD",
+      "display": "NT$14,070"
+    },
+    "full_trip_budget": {
+      "label": "Per-person budget excluding flights",
+      "value": 700,
+      "unit": "per_person_allowance",
+      "currency": "USD",
+      "display": "US$700"
+    },
+    "unallocated_headroom": {
+      "label": "Unallocated per-person headroom",
+      "value": 7630,
+      "unit": "per_person_allowance",
+      "currency": "TWD",
+      "display": "NT$7,630"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Original source register records 2026-11-05 access dates; no external lookup or refresh during drafting. Localization is not a source-access claim. Search-index-only evidence retains its original limits.",
+  "uncertainties": [
+    "October 2027 hotel availability, twin rates, inclusions and checkout totals unverified; observed hotel selectors omit stay year.",
+    "Food examples are dated review text, not fresh counter prices or independent menu-image inspection. Yong Kang uses April 2025 prices; Liu Yu Zi publication date unknown.",
+    "Malaysian entry rules and arrival-card timing are dated, not a 2027 guarantee; flight/airport unknown.",
+    "FX, transport ranges, queues, generic foods and budget lines are planning estimates. Holiday crowd/price effect is an inference; Bib association historical only.",
+    "Rain/closure may remove Beitou. Paid bathing, flights, itemised alcohol, insurance and major shopping excluded. No booking, payment, contact or form submission."
+  ],
+  "editingContract": "Complete bilingual prose with numeric/date/external-URL multiplicity and corresponding table-cell parity. Local drafts only; no Review or stars.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two Malaysian-passport friends from Kuala Lumpur; Chinese helps Chinese-speaking travellers use the same food, rain, room and entry plan, without changing eligibility.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

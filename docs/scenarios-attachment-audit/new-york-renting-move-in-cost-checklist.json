@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "3278b06088e39bff11133411829e0253a119a955f71c4f5ae26786a89bfae38a",
+  "sourceListLink": "new-york-renting-move-in-cost-checklist-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/new-york-renting-move-in-cost-checklist/nyc-rental-costs.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "e84014dc2dafba0ecd7997bdfa35f33546570a17fbe86237cdce1c6b2dd4d65e",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "new-york-renting-move-in-cost-checklist-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "7075ade2a09df183507d54d73f26b3411b61f25412853f9136d8379fe0717d3b",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "new-york-renting-move-in-cost-checklist-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

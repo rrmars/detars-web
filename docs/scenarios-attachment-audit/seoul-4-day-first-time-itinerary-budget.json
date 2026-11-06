@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "cb56cd274645cb92166d386f53da1732864dcd61103b1029b50daba068e1154a",
+  "sourceListLink": "../w5-seoul-4days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "108903309ada77ba2fe5f251e073dd3f9e9e97f777dc7044d3883bf78ac45ca7",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "063958a1c971d6e7b257d5fdbda18e83ff0f38c5748c858edbe2b692c765d776",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

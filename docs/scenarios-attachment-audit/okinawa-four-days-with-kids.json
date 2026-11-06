@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "7896049d1f540083fb1cb7273c01d40d2b398e4c4774b945c2b44b76c23bd27f",
+  "sourceListLink": "../w6-okinawa-family-4days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "89e565e053cbbf43891f1135095fef6f043d4abd21ef19cd7be8f02da0b609fd",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "e342dcb491434a6aa536ca5be2132f32a21c71bd9d7055f06268fac685a99e42",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

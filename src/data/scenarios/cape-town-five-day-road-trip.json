@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 2,
+  "slug": "cape-town-five-day-road-trip",
+  "translationKey": "cape-town-five-day-road-trip",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two adults from Frankfurt with ordinary German passports planning five sightseeing days and five nights in Cape Town; English and Simplified Chinese also serve Chinese-speaking travellers without changing the original entry profile.",
+  "sources": [
+    {
+      "title": "ECB reference rate",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "cableway weather information",
+      "url": "https://www.tablemountain.net/plan-your-visit/ticket-prices",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Table Mountain tickets",
+      "url": "https://www.tablemountain.net/plan-your-visit/buy-tickets",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official safety advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "City Sightseeing Cape Point & Boulders Beach Penguin Tour",
+      "url": "https://citysightseeing.co.za/en/cape-town/cape-point-penguin-explorer-tour",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cape Point attraction website",
+      "url": "https://capepoint.co.za/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cape Tourism's secondary report",
+      "url": "https://www.capetourism.com/sanparks-conservation-fees-2026-27/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official SANParks tariff PDF",
+      "url": "https://www.sanparks.org/wp-content/uploads/2026/02/daily_conservation_fees_2026_27.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SANParks payment information",
+      "url": "https://www.sanparks.org/parks/table-mountain/rates-entry-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "City Sightseeing Franschhoek Wine Tram package",
+      "url": "https://citysightseeing.co.za/en/cape-town/cape-explorer-tram-tour",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wine Tram's standalone pricing",
+      "url": "https://winetram.co.za/hop-on-hop-off/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wine Tram FAQ",
+      "url": "https://winetram.co.za/faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "separate operator transfer",
+      "url": "https://winetram.co.za/transfers/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Cheviot Place Guest House rates",
+      "url": "https://www.sa-venues.com/visit/cheviotplace/rates.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "property overview",
+      "url": "https://www.sa-venues.com/visit/cheviotplace/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Stadium Guest House rates",
+      "url": "https://www.stadiumguesthouse.co.za/rooms/rates/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "room details",
+      "url": "https://www.stadiumguesthouse.co.za/rooms/mid-level-main-bedroom-en-suite/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "German Foreign Office",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/suedafrikasicherheit-208400",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "South African Embassy in Berlin",
+      "url": "https://www.suedafrika.org/en/visa-immigration/visas-short-stay-not-exceeding-3-months",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DIRCO's passport requirements",
+      "url": "https://dirco.gov.za/washingtondc/visa-application/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SARS announcement",
+      "url": "https://www.sars.gov.za/latest-news/required-online-traveller-declarations-from-1-july-2026/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "traveller declaration",
+      "url": "https://www.sars.gov.za/travellerdeclaration/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Eskom's October 30, 2026 statement",
+      "url": "https://www.eskom.co.za/generation-recovery-plan-sustains-eskom-reaching-a-68-15-eaf-and-diesel-cost-reduction-of-r4-81-billion-year-on-year/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "two_person_budget_zar": {
+      "value": 29004,
+      "display": "R29,004",
+      "label": "Conditional two-adult total excluding flights",
+      "currency": "ZAR",
+      "unit": "conditional_planning_amount"
+    },
+    "two_person_budget_eur": {
+      "value": 1574.01,
+      "display": "€1,574.01",
+      "label": "Two-adult total at dated ECB reference rate",
+      "currency": "EUR",
+      "unit": "conditional_planning_amount"
+    },
+    "trip_budget_ceiling": {
+      "value": 1600,
+      "display": "€1,600",
+      "label": "Original excluding-flights budget ceiling",
+      "currency": "EUR",
+      "unit": "conditional_planning_amount"
+    },
+    "room_bill_target": {
+      "value": 11500,
+      "display": "R11,500",
+      "label": "Five-night room ceiling, not a February quote",
+      "currency": "ZAR",
+      "unit": "conditional_planning_amount"
+    },
+    "budget_margin_eur": {
+      "value": 25.99,
+      "display": "€25.99",
+      "label": "Remaining margin below ceiling at dated conversion",
+      "currency": "EUR",
+      "unit": "conditional_planning_amount"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All original source accesses retain November 6, 2026 Asia/Singapore; retrievals were late November 5 UTC and in Cape Town. ECB rate is dated November 5, 2026. Local drafting, arithmetic and retained-evidence checks on November 6 are not an external source refresh. No publication date or original model invented.",
+  "uncertainties": [
+    "SANParks official numerical PDF blocked and not inspected. Cape Point attraction displays R595 versus reported R592; higher R595 is budgeted. Boulders R282 remains secondary-reported, not official-verified. The R1167 entry-included operator option implies R592 but does not settle the gate tariff.",
+    "February hotel availability, full room/tax/breakfast bill, deposits/cancellation and tour prices/seats/line are unconfirmed. Cheviot calendar is November; Stadium high-season rates stop in December and one peak date row is malformed.",
+    "All transport times, airport margins, rides, rental, food, tastings, insurance and free-public-access allowances remain estimates. Rental comparison uses six billing periods, not five nights. Insurance is unquoted.",
+    "German-passport visa/eTA/customs and driving notes are dated retained guidance, not an eligibility promise or immigration advice. Passport validity calculation and border discretion preserved; yellow-fever transit route unknown.",
+    "Weather, cableway operation, swimming and individual safety cannot be guaranteed. Dated national no-loadshedding report is not a February or street-level power promise.",
+    "No live external research, publication, booking, contact, form submission, account creation or payment was performed. Source snapshots provide historical evidence, not current link reachability."
+  ],
+  "editingContract": "Reader-first English and Simplified Chinese Markdown with schema v2 semantic data; strict whole-body, frontmatter and table-cell numeric/date/URL parity; local drafts only. Inventory, shared scripts, renderer and source run unchanged.",
+  "sourceGroundedAudit": {
+    "auditDate": "2026-11-06",
+    "scope": "Local retained-source comparison and assigned-slug checks only; no external refresh, build, inventory edits or browser check.",
+    "strictDraftCheck": "check_i18n.parity('cape-town-five-day-road-trip') passed using the existing unmodified checker, including whole-body and frontmatter numbers/dates/URLs, corresponding table cells, source registry, locale metadata and headline displays.",
+    "tableRowsCompared": 31,
+    "tableCellsCompared": 102,
+    "originalBudgetRowsMatched": 14,
+    "originalItineraryDistinctUrlsRetained": 18,
+    "newCitedUrlsPresentInOriginalSourceLedger": 23,
+    "sourceArtifactHashesMatched": 11,
+    "arithmetic": "All original ZAR and individually rounded EUR rows match. Sum R29004 / EUR1574.01 at EUR1=R18.4268; remaining R478.88 / EUR25.99 to EUR1600. Inclusive Peninsula option computes to R2898 versus conservative R2904 baseline; not a tariff resolution.",
+    "consequentialCoverage": [
+      "Original Frankfurt/two-adult/German-passport profile, five nights and six dated day plans; first mountain window and Wednesday backup, windy beach alternatives, departure buffer and bag collection.",
+      "Complete budget and exclusions, meals/breakfast assumption, unquoted insurance, hotel date limitations and higher-room-price sensitivity; no double counting of park-inclusive coach or tram-inclusive package.",
+      "Peninsula route and estimated segment times, international gates and cash-free proof rules, R592/R595 discrepancy, higher Cape Point allowance and secondary Boulders fee beside costs.",
+      "Wine coach/line/estate limitations, tastings, return timetable, late Uber caution; retained snapshot also supports onboard tasting and selected-date-only ticket validity.",
+      "Rental six billing periods, left-side driving, fuel/parking, IDP plus German licence, card/deposit/excess; official airport routing, ride checks, group hiking, swimming and emergency precautions calmly retained.",
+      "German visa exemption, passport pages/validity calculation, border discretion, eTA status, separate customs declaration for entry and exit, yellow-fever-route caveat; dated national electricity statement not treated as future or local guarantee."
+    ],
+    "adjacentSourceFindings": [
+      "peninsula.txt displays R1167 including Cape Point entry; its R592 uplift supports retaining, not resolving, the original discrepancy. New prose gives this alternative without changing the conservative baseline.",
+      "wine-tour.txt includes tram onboard tasting but excludes estate tastings; advance booking and chosen-day validity are explicit. These details were absent from the source itinerary and are now visible.",
+      "cheviot.txt exposes 50–100% deposits and 14-day full-forfeiture wording alongside a 28-day free-cancellation headline; readers must obtain the full applicable schedule. Stadium's 50% deposit, limited Wi-Fi and conditional tandem parking levy are also visible."
+    ]
+  },
+  "budget": {
+    "fx_eur_zar": "18.4268",
+    "reference_date": "2026-11-05",
+    "rows": [
+      {
+        "item": "Five nights, one double room",
+        "zar": 11500,
+        "eur": "624.09"
+      },
+      {
+        "item": "Airport transfers, both ways",
+        "zar": 1200,
+        "eur": "65.12"
+      },
+      {
+        "item": "City app rides / tour-stop connections",
+        "zar": 1800,
+        "eur": "97.68"
+      },
+      {
+        "item": "Peninsula shared coach",
+        "zar": 1150,
+        "eur": "62.41"
+      },
+      {
+        "item": "Cape Point conservation",
+        "zar": 1190,
+        "eur": "64.58"
+      },
+      {
+        "item": "Boulders conservation",
+        "zar": 564,
+        "eur": "30.61"
+      },
+      {
+        "item": "Table Mountain cableway",
+        "zar": 950,
+        "eur": "51.56"
+      },
+      {
+        "item": "Franschhoek coach + Wine Tram",
+        "zar": 1650,
+        "eur": "89.54"
+      },
+      {
+        "item": "Estate tastings",
+        "zar": 800,
+        "eur": "43.42"
+      },
+      {
+        "item": "Meals, water, coffee, modest drinks",
+        "zar": 5500,
+        "eur": "298.48"
+      },
+      {
+        "item": "Restaurant/driver tips",
+        "zar": 600,
+        "eur": "32.56"
+      },
+      {
+        "item": "Mobile data",
+        "zar": 300,
+        "eur": "16.28"
+      },
+      {
+        "item": "Travel medical insurance",
+        "zar": 600,
+        "eur": "32.56"
+      },
+      {
+        "item": "Contingency",
+        "zar": 1200,
+        "eur": "65.12"
+      }
+    ],
+    "eur_rounding_adjustment": "0.00",
+    "total_zar": 29004,
+    "total_eur": "1574.01",
+    "five_nights": true
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

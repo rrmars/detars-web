@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 2,
+  "slug": "local-speech-to-text-five-clip-test",
+  "translationKey": "local-speech-to-text-five-clip-test",
+  "sources": [
+    {
+      "title": "LibriSpeech",
+      "url": "https://www.openslr.org/12/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MLS",
+      "url": "https://www.openslr.org/94/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "LibriVox recording",
+      "url": "https://librivox.org/poesias-by-miguel-de-unamuno/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "in the USA",
+      "url": "https://librivox.org/pages/public-domain/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp/tree/v1.9.5",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "ggml-base.bin and ggml-small.bin",
+      "url": "https://huggingface.co/ggerganov/whisper.cpp",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "faster-whisper",
+      "url": "https://github.com/SYSTRAN/faster-whisper/tree/v1.2.1",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Systran/faster-whisper-small",
+      "url": "https://huggingface.co/Systran/faster-whisper-small",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Vosk",
+      "url": "https://github.com/alphacep/vosk-api",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "small-en-us-0.15 and small-es-0.42",
+      "url": "https://alphacephei.com/vosk/models",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MLX Whisper",
+      "url": "https://github.com/ml-explore/mlx-examples/tree/main/whisper",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "mlx-community/whisper-small-mlx",
+      "url": "https://huggingface.co/mlx-community/whisper-small-mlx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Original Whisper",
+      "url": "https://raw.githubusercontent.com/openai/whisper/main/README.md",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "successful_measured_runs": {
+      "label": "Successful measured runs across the complete matrix",
+      "value": 25,
+      "unit": "runs",
+      "display": "25"
+    },
+    "small_whisper_pooled_wer": {
+      "label": "Tied whisper.cpp small and faster-whisper pooled WER, excluding overlap",
+      "value": 7,
+      "unit": "percent_word_error_rate",
+      "display": "7.00%"
+    },
+    "cpp_small_total_processing": {
+      "label": "whisper.cpp small end-to-end time across all clips after warmup",
+      "value": 9.33,
+      "unit": "seconds",
+      "display": "9.33"
+    },
+    "total_audio_duration": {
+      "label": "Combined duration of the five prepared clips",
+      "value": 204.03,
+      "unit": "seconds",
+      "display": "204.03"
+    },
+    "vosk_maximum_process_rss": {
+      "label": "Largest Vosk process RSS across these clips, not total unified memory",
+      "value": 298.6,
+      "unit": "MiB_peak_process_RSS",
+      "display": "298.6"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Research, measurement and source access were recorded on 2026-11-05 UTC. Localization on 2026-11-06 did not refresh sources or rerun recognition. Version availability is not guaranteed.",
+  "uncertainties": [
+    "Only five short concatenated read-speech clips in English and Spanish; no Chinese, code-switching, music, real conversations, diarization, subtitle timing or long-episode stability validation. Public benchmark exposure is not contamination-controlled.",
+    "Artificial overlap uses all-A-then-B reference ordering. Its raw WER is serialization-sensitive and excluded from pooled accuracy; no diarization ranking is justified.",
+    "References are published aligned text checked by source ID/text, not independent listening or gold re-transcription. Strict number/spelling/diacritic normalization can count meaning-preserving differences.",
+    "Single fresh-process pass after warmup on a shared Apple M2; timing includes process/model startup and may benefit from caches. No repeated-run uncertainty or inference-only throughput claim. RSS excludes some GPU allocations and is not full unified memory.",
+    "Converted MLX model card lacks explicit licence metadata; original-Whisper MIT inheritance is an inference. No exhaustive dependency licence audit; LibriVox public-domain statement is USA-specific.",
+    "Original comparison prose has inconsistent two-decimal rounding: overlap MLX 57.06/57.07, noise MLX 11.77/11.76 and Spanish faster-whisper 4.42/4.43. Both localized detail tables consistently retain the CSV three-decimal WER values instead of choosing between those narrative roundings.",
+    "Setup and version information is dated, not a promise of current installation compatibility or future downloads. No packages installed, models rerun, audio uploaded or external sources refreshed for localization."
+  ],
+  "editingContract": "Complete bilingual prose and all measured rows; exact date-normalized numeric/URL multiplicity and corresponding table-cell parity. No Review, AggregateRating, stars or invented scores. Reader body has no local attachment links.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Chinese-speaking local transcription users comparing small-model workflows on Apple Silicon; these English/Spanish measurements do not validate Chinese recognition.",
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

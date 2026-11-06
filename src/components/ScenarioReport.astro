@@ -1,0 +1,103 @@
+---
+import { render } from "astro:content";
+import { scenarioDate, scenarioDomain, type Scenario } from "@/lib/scenarios";
+import { withLocale } from "@/lib/site";
+
+type Props = { entry: Scenario };
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const zh = d.locale === "zh";
+const audience = typeof d.audience === "string" ? d.audience : d.audience[d.locale] ?? d.audience.en;
+---
+
+<article class="scenario-report shell" lang={d.locale}>
+  <header class="report-head">
+    <a class="back" href={withLocale(d.locale, "/scenarios")}>← {zh ? "所有场景" : "All scenarios"}</a>
+    <span class="kicker">{scenarioDomain(entry, d.locale)}</span>
+    <h1>{d.title}</h1>
+    <p class="meta"><span>{zh ? "通用 Cowork 任务" : "General Cowork task"}</span><span>·</span><span>{zh ? "原始调研" : "Original research"} · <time datetime={d.publishedAt?.toISOString()}>{scenarioDate(d.publishedAt, d.locale)}</time></span></p>
+    {audience && <p class="audience">{audience}</p>}
+  </header>
+  <p class="scroll-hint">{zh ? "宽表格可在表格内左右滑动。" : "Wide tables scroll horizontally within the article."}</p>
+  <div class="prose report-body"><Content /></div>
+  <div class="request-tools" data-request-tools hidden>
+    <button type="button" class="btn-ghost" data-copy-request>{zh ? "复制上面的请求" : "Copy the request above"}</button>
+    <span role="status" data-copy-status></span>
+  </div>
+  <!-- The importer appends one fully expanded, dated source list to Content.
+       Keep a single source-list owner so long guides do not repeat every citation. -->
+  <footer class="report-foot">
+    <p>{d.producerDisplayLabel}</p>
+    <p>{zh ? "原始调研日期" : "Original research date"}: {d.researchDates.length ? d.researchDates.join(" · ") : scenarioDate(d.publishedAt, d.locale)}</p>
+    {d.updatedAt && <p>{zh ? "文章复核日期" : "Article recheck date"}: <time datetime={d.updatedAt.toISOString()}>{scenarioDate(d.updatedAt, d.locale)}</time></p>}
+  </footer>
+</article>
+
+<script>
+  document.querySelectorAll<HTMLElement>(".scenario-report").forEach((report) => {
+    const body = report.querySelector(".report-body");
+    const heading = [...(body?.querySelectorAll("h2") ?? [])].find((node) => /(?:Ask|让).*DeTars/i.test(node.textContent ?? ""));
+    let node = heading?.nextElementSibling;
+    while (node && !["H2", "BLOCKQUOTE", "PRE"].includes(node.tagName)) node = node.nextElementSibling;
+    const request = node && ["BLOCKQUOTE", "PRE"].includes(node.tagName) ? node.textContent?.trim() : undefined;
+    const tools = report.querySelector<HTMLElement>("[data-request-tools]");
+    const button = report.querySelector<HTMLButtonElement>("[data-copy-request]");
+    const status = report.querySelector<HTMLElement>("[data-copy-status]");
+    if (!request || !tools || !button || !status) return;
+    tools.hidden = false;
+    const zh = report.lang === "zh";
+    button.addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(request);
+        status.textContent = zh ? "已复制，可以填写你的情况了。" : "Copied. Fill in your own details.";
+      } catch {
+        status.textContent = zh ? "请选中上面的请求并手动复制。" : "Please select the request above and copy it manually.";
+      }
+    });
+  });
+  // Native CSS scrolling works without JavaScript; add keyboard access and labels.
+  document.querySelectorAll<HTMLTableElement>(".scenario-report .report-body table").forEach((table, index) => {
+    table.tabIndex = 0;
+    const zh = table.closest("article")?.getAttribute("lang") === "zh";
+    table.setAttribute("aria-label", zh ? `数据表 ${index + 1}，可左右滚动` : `Data table ${index + 1}, horizontally scrollable`);
+  });
+</script>
+
+<style>
+  .scenario-report { max-width: 760px; min-width: 0; }
+  .report-head { padding: 64px 0 10px; }
+  .back { display: inline-block; color: var(--muted); font-size: 13px; margin-bottom: 30px; }
+  h1 { font-weight: 900; font-size: clamp(32px,4.4vw,56px); line-height: 1.12; letter-spacing: -.03em; margin-top: 20px; overflow-wrap: anywhere; }
+  .meta { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; font-size: 13px; color: var(--faint); font-family: var(--sg); }
+  .audience { margin-top: 16px; font-size: 13px; color: var(--muted); line-height: 1.7; }
+  .report-body { margin-top: 28px; max-width: none; min-width: 0; overflow-wrap: anywhere; }
+  .report-body :global(h2) { font-weight: 700; font-size: clamp(22px,2.6vw,30px); letter-spacing: -.02em; margin: 44px 0 0; scroll-margin-top: 100px; }
+  .report-body :global(h3) { font-size: 19px; margin: 30px 0 0; scroll-margin-top: 100px; }
+  .report-body :global(h4) { font-size: 17px; margin-top: 26px; }
+  .report-body :global(p) { margin-top: 16px; font-size: 17px; line-height: 1.78; color: var(--muted); }
+  .report-body :global(strong) { color: var(--text); font-weight: 500; }
+  .report-body > :global(p:first-child) { border: 1px solid var(--line2); border-radius: 16px; background: linear-gradient(180deg,#ffffff0d,#ffffff03); padding: 24px 26px; margin-top: 0; }
+  .report-body :global(a) { color: var(--accent2); text-decoration: underline; text-decoration-color: #ffb27a55; text-underline-offset: 3px; }
+  .report-body :global(ul), .report-body :global(ol) { margin-top: 16px; padding-left: 24px; }
+  .report-body :global(li) { font-size: 16.5px; line-height: 1.7; color: var(--muted); margin-top: 10px; }
+  .report-body :global(blockquote) { margin-top: 24px; border: 1px solid #ff6a3d55; border-radius: 16px; background: linear-gradient(160deg,#ff6a3d10,#ffffff02); padding: 8px 24px 24px; }
+  .report-body :global(pre) { margin-top: 22px; overflow-x: auto; max-width: 100%; padding: 20px; background: #ffffff06; border: 1px solid var(--line2); border-radius: 12px; white-space: pre-wrap; }
+  .report-body :global(code) { font-family: var(--mono); font-size: .85em; }
+  .report-body :global(hr) { border: 0; border-top: 1px solid var(--line); margin-top: 32px; }
+  /* The table itself is the scroll region, so SSR content is contained even without JS. */
+  .report-body :global(table) { display: block; width: 100%; max-width: 100%; overflow-x: auto; border-collapse: collapse; margin: 24px 0; border: 1px solid var(--line2); border-radius: 12px; font-size: 13px; line-height: 1.7; scrollbar-width: thin; }
+  .report-body :global(th), .report-body :global(td) { min-width: 130px; padding: 13px 14px; border-bottom: 1px solid var(--line); vertical-align: top; text-align: left; overflow-wrap: normal; }
+  .report-body :global(th) { color: var(--text); font-weight: 500; background: #ffffff08; }
+  .report-body :global(td) { color: var(--muted); }
+  .report-body :global(td p), .report-body :global(th p) { font-size: inherit; line-height: inherit; }
+  .report-body :global(img), .report-body :global(video) { max-width: 100%; height: auto; }
+  .scroll-hint { color: var(--faint); font-size: 11px; margin-top: 24px; }
+  .request-tools { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-top: 24px; }
+  .request-tools[hidden] { display: none; }
+  .request-tools button { background: transparent; cursor: pointer; font: inherit; font-size: 13px; padding: 12px 17px; }
+  .request-tools span { font-size: 12px; color: var(--accent2); }
+  .report-foot { margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--line); font-size: 12px; color: var(--faint); line-height: 1.8; overflow-wrap: anywhere; }
+  @media (max-width: 860px) { .report-head { padding-top: 38px; } h1 { line-height: 1.2; } .back { margin-bottom: 24px; } }
+  @media (max-width: 600px) { .report-body :global(p) { font-size: 16px; line-height: 1.9; } .report-body :global(li) { font-size: 15px; line-height: 1.85; } .report-body :global(h2) { margin-top: 38px; font-size: 24px; } .report-body :global(blockquote) { padding: 6px 20px 20px; } }
+</style>

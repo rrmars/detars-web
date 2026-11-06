@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 2,
+  "slug": "istanbul-4-day-itinerary-budget",
+  "translationKey": "istanbul-4-day-itinerary-budget",
+  "sources": [
+    {
+      "title": "H1 — KAYAK: Ada Karaköy Hotel public listing",
+      "url": "https://www.kayak.ie/Istanbul-Hotels-Ada-Karakoy-Hotel---Special-Class.2161943.ksp",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "H2 — KAYAK: Hotel Momento Golden Horn public listing",
+      "url": "https://www.kayak.ie/Istanbul-Hotels-Hotel-Momento-Golden-Horn.3500549.ksp",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "H2 — Momento Golden Horn official location page",
+      "url": "https://www.momentohotelsistanbul.com/momento_hotel_golden_horn",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "F1 — GoTürkiye: Spice Bazaar",
+      "url": "https://goturkiye.com/istanbul/spice-bazaar",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T3 — Şehir Hatları: Anadolu Kavağı–Üsküdar ordinary route",
+      "url": "https://sehirhatlari.istanbul/tr/seferler/ic-hatlar/bogaz-hatlari/anadolukavagi-uskudar-172",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S1 — National Palaces: Topkapı Palace",
+      "url": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S2 — DEM Museums: Hagia Sophia visitor-area FAQ",
+      "url": "https://agency.demmuseums.com/Faq/Index",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S3 — Blue Mosque preservation association: visitor guide",
+      "url": "https://www.sultanahmetcami.org/sayfa.php?s=ziyaretci-rehberi&dil=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S3 — Blue Mosque preservation association: visitor rules",
+      "url": "https://www.sultanahmetcami.org/sayfa.php?s=ziyaretci-kurallari&dil=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S4 — TÜRSAB: Basilica Cistern municipal-era tariff relay",
+      "url": "https://www.tursab.org.tr/duyurular/yerebatan-sarnici-guncel-ziyaret-bilet-fiyatlari-hakkinda-duyuru",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S5 — TÜRSAB: new Cistern operator hours notice",
+      "url": "https://www.tursab.org.tr/duyurular/yerebatan-sarnici-ziyaret-saatleri-hakkinda-duyuru-1",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S6 — Cağaloğlu Hamamı: The İstanbul Dream",
+      "url": "https://cagalogluhamami.com.tr/en/s/the-istanbul-dream/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "S6 — Cağaloğlu Hamamı: services and separate bathing arrangements",
+      "url": "https://cagalogluhamami.com.tr/en/services/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T1 — İstanbulkart: fees and limits",
+      "url": "https://www.istanbulkart.istanbul/ucretler-limitler",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T2 — İETT: public transport fare notice",
+      "url": "https://iett.istanbul/icerik/IETT-toplu-ulasim-ucret-tarifesi",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T2 — Metro İstanbul: T1 Kabataş–Bağcılar line",
+      "url": "https://metro.istanbul/Hatlarimiz/HatDetay?hat=T1",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T3 — Şehir Hatları: fare table locator",
+      "url": "https://sehirhatlari.istanbul/tr/ucret-tarifeleri",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T3 — BirGün: Istanbul ferry fare report, indexed 2026-10-27",
+      "url": "https://www.birgun.net/haber/istanbul-sehir-hatlari-vapur-ucret-tarifesi-2026-guncel-654761",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T5 — Havaist: airport route selector",
+      "url": "https://www.hava.ist/sefer-saatleri.php",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T5 — Havaist: payment and airport boarding information",
+      "url": "https://www.hava.ist/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T4 — Sabiha Gökçen Airport: M4 and Marmaray interchange information",
+      "url": "https://www.sabihagokcen.aero/yolcu-ve-ziyaretciler/ulasim-ve-otopark/ulasim/metro",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "T6 — Havabüs: Kadıköy–Sabiha Gökçen fare and service information",
+      "url": "https://www.havabus.com/yolcuservisi/kadikoy-sabihagokcenhavalimani.aspx",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "E1 — German Federal Foreign Office: Türkiye entry and safety advice",
+      "url": "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "E2 — Turkish MFA: visa information for foreigners",
+      "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "E2 — Turkish MFA: national-ID eligible countries and German expiry exceptions",
+      "url": "https://www.mfa.gov.tr/countries-whose-citizens-are-allowed-to-enter-T%C3%BCrkiye-with-their-national-id_s.en.mfa",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "two_person_trip_target": {
+      "label": "Four-night two-person planning target excluding flights, not a package quote",
+      "value": 1400,
+      "unit": "trip_target_for_two",
+      "currency": "EUR",
+      "display": "€1,400"
+    },
+    "core_before_contingency": {
+      "label": "Core plan before reserve, including provisional Cistern pricing and estimated lodging/transport",
+      "value": 1248,
+      "unit": "core_trip_allowance_for_two",
+      "currency": "EUR",
+      "display": "€1,248"
+    },
+    "uncommitted_trip_reserve": {
+      "label": "Finite uncommitted reserve for price changes and small extras",
+      "value": 152,
+      "unit": "trip_contingency_for_two",
+      "currency": "EUR",
+      "display": "€152"
+    },
+    "four_night_room_target": {
+      "label": "Independent tax-inclusive double-room target, not September hotel quotation",
+      "value": 440,
+      "unit": "four_night_room_allowance",
+      "currency": "EUR",
+      "display": "€440"
+    },
+    "provisional_cistern_day_ticket": {
+      "label": "Older municipal-era foreign-adult daytime ticket, new-operator tariff unconfirmed",
+      "value": 1950,
+      "unit": "per_foreign_adult_daytime_ticket",
+      "currency": "TRY",
+      "display": "TRY 1,950"
+    },
+    "istanbul_dream_ritual_price": {
+      "label": "Dated operator price for separate-section Istanbul Dream ritual, no appointment confirmed",
+      "value": 95,
+      "unit": "per_person_ritual",
+      "currency": "EUR",
+      "display": "EUR 95"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "All 25 prose URLs have an explicit original access/attempt record dated 2026-11-05 in the inspected sources.md. This is not fresh localization access or a successful-fetch claim. evidenceStatus preserves direct, indexed, blocked, secondary and provisional limits. Titles are descriptive labels from the inspected source key/ledger, not newly verified page-title metadata. Hotel display dates, fare-effective dates and the future-at-research Cistern implementation date are not access dates.",
+  "uncertainties": [
+    "No September 2027 hotel price or availability was established: requested dates were replaced by November defaults. EUR 110/night and EUR 440 total are independent planning targets, not quotes.",
+    "TRY 1,950 Cistern daytime ticket is an older municipal-era relay, not new-operator-confirmed. New hours notice effective 2026-11-15 was still future at research; old late-night advice is not used.",
+    "No exact ordinary Sunday Uskudar–Cengelkoy outward/return pairing or stop-call pattern was verified. Ferry excursion remains conditional, with bus/rail alternatives only if operating; tours are not substituted.",
+    "Marmaray bands, initial debit and anonymous-card refunds, M11 fare/operating window and official route-specific ferry tariff cells are unverified. Secondary ferry figures and budget allowances must not become published tariffs.",
+    "EUR 1 = TRY 50 is an assumed planning conversion, not live FX or a forecast. Hotel, food, transit, queues, walking, airport buffers and contingency are estimates. Insurance, major shopping, taxis and additional paid sights are not separately priced in the core.",
+    "Entry guidance is dated, German-nationality-specific information, not legal/immigration advice or guaranteed admission. Recheck rules, airline/transit requirements and safety advice before departure; recommend valid documents rather than expiry exceptions.",
+    "No flight times, actual room, hammam appointment, weather, prayer times or September 2027 service availability are confirmed. No booking, signup, contact, purchase or fresh external verification occurred during localization."
+  ],
+  "editingContract": "Readable English and Simplified Chinese have matching numeric/date/currency/URL literals per corresponding line and table cell. Local drafts only; original run read-only, no new stars or Review markup, no shared build/registry edits.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "For independent travellers planning Istanbul in English, with German-citizen entry guidance clearly separated from the route and budget.",
+    "zh": "方便中文读者安排路线、住宿和预算；入境部分只针对德国国籍，持其他护照须另查规定。"
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

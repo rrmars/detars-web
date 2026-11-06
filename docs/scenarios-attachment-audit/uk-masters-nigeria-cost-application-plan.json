@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "29c304bc7c455bf25c4b046ebb6680633acf6bb024e36faaab96545287ed0fc3",
+  "sourceListLink": "../w5-uk-msc-nigeria/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "801c4578b2b0687afd04e0a8235d01b601d5c7822f227f1d83a333c31d1c0025",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "7c77d3c4b3ee67892767a76783380c8429a5b116ea1a35a5ac1f3ec2845db56e",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

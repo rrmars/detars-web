@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "slug": "running-watch-first-half-marathon",
+  "translationKey": "running-watch-first-half-marathon",
+  "sources": [
+    {
+      "title": "Walmart — Forerunner 165, Black/Slate",
+      "url": "https://www.walmart.com/ip/Garmin-Forerunner-165-Running-Smartwatch-Colorful-AMOLED-Display-Training-Metrics-and-Recovery-Insights-Black/5525922210",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Garmin — Forerunner 165 official features/specs",
+      "url": "https://www.garmin.com.sg/products/wearables/forerunner-165-black/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Garmin — Forerunner 165 battery manual",
+      "url": "https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-14A987C8-260E-4D95-828B-E4B9A40896FA.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DC Rainmaker — Forerunner 165 review (20 February 2024)",
+      "url": "https://www.dcrainmaker.com/2024/02/garmin-forerunner-165-depth-review.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wareable — Forerunner 165 review",
+      "url": "https://www.wareable.com/garmin/garmin-forerunner-165-review",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "COROS US — PACE 3 offer and features",
+      "url": "https://coros.com/us/pace3?variant=46103210819796",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "COROS — Battery Specifications",
+      "url": "https://support.coros.com/hc/en-us/articles/23476623096980-Battery-Specifications",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wareable — PACE 3 review",
+      "url": "https://www.wareable.com/sport/coros-pace-3-review",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "COROS — Android app listing",
+      "url": "https://play.google.com/store/apps/details?id=com.yf.smart.coros.dist",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Amazfit US — Active 2 Round specifications",
+      "url": "https://us.amazfit.com/products/active-2-round",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Amazfit US direct",
+      "url": "https://us.amazfit.com/products/active-2-round?variant=67706898907388",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Amazfit US — live variant data",
+      "url": "https://us.amazfit.com/products/active-2-round.js",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wareable — Active 2 review",
+      "url": "https://www.wareable.com/reviews/amazfit-active-2-review",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Notebookcheck — Active 2 review",
+      "url": "https://www.notebookcheck.net/Amazfit-Active-2-smartwatch-review-Price-performance-king.1084077.0.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Suunto US — Run All Black offer",
+      "url": "https://us.suunto.com/products/suunto-run-all-black",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Suunto US — live variant data",
+      "url": "https://us.suunto.com/products/suunto-run-all-black.js",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Suunto — Run official specifications",
+      "url": "https://www.suunto.com/Products/sports-watches/suunto-run/suunto-run-all-black/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Suunto — Run app manual",
+      "url": "https://www.suunto.com/en-us/Support/Product-support/suunto_run/suunto_run/getting-started/suunto-app/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "DC Rainmaker — Suunto Run review (13 May 2025)",
+      "url": "https://www.dcrainmaker.com/2025/05/suunto-run-in-depth-review.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Suunto — Run software release notes",
+      "url": "https://www.suunto.com/Support/Software-updates/Release-notes/suunto-run-software-updates/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Suunto — optical HR guidance",
+      "url": "https://www.suunto.com/en-us/Support/Product-support/suunto_run/suunto_run/getting-started/optical-heart-rate/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "garmin_sample_price": {
+      "label": "Sampled Garmin non-Music Black/Slate price before tax and shipping",
+      "value": 191.9,
+      "unit": "sample_price",
+      "currency": "USD",
+      "display": "$191.90"
+    },
+    "coros_sample_price": {
+      "label": "Sampled COROS PACE 3 Chalk price before tax and shipping",
+      "value": 199,
+      "unit": "sample_price",
+      "currency": "USD",
+      "display": "$199"
+    },
+    "amazfit_sample_price": {
+      "label": "Sampled Active 2 Round Black Sport price before tax and shipping",
+      "value": 99.99,
+      "unit": "sample_price",
+      "currency": "USD",
+      "display": "$99.99"
+    },
+    "suunto_sample_price": {
+      "label": "Sampled Suunto Run regular price before tax and shipping; not within hard checkout cap",
+      "value": 249,
+      "unit": "sample_price",
+      "currency": "USD",
+      "display": "$249"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original November 6, 2026 Asia/Singapore source access dates retained; underlying UTC receipts were November 5. Copy editing is not an external refresh, price check or availability check.",
+  "uncertainties": [
+    "Desk research only; no hands-on running, GPS, heart-rate or battery testing by this task. Recommendations are editorial judgments, not scores.",
+    "US offer snapshots are before tax and shipping, captured November 6 Singapore / November 5 Austin and UTC; local delivery, exact handset compatibility and later stock/prices are unconfirmed.",
+    "Published battery ceilings use different modes and settings. They are not matched measurements or a race-day guarantee.",
+    "Amazfit reviewer findings conflict; Suunto historical HR criticisms have later manufacturer updates but no independent post-August-2026 HR retest here.",
+    "Suunto STAWON50 coupon is advertised but untested; regular price may exceed the hard checkout cap after tax. Not an exhaustive defect or recall audit."
+  ],
+  "editingContract": "Reader-first English-only draft with semantic headline figures, tables and exact source registry. No Chinese page or bilingual parity claim. Local package only; no Review, stars or public attachment promises.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Austin Android users choosing a first half-marathon watch for April 2027; English-only because no distinct Chinese-reader audience is established.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

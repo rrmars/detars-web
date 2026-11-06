@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "cdb56587ab206b9ded97d1d7c3e5ee45cdc0c533aa2fd7b75d2ca772f8f73b48",
+  "sourceListLink": "../w6-kyoto-autumn-parents/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "3bb2767dd17166f72c0bc468fe306d7887bb365d9acc0224ae1515adea1cbc3f",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "ee91680e328898b1e1a0661ef53b1767860951163346fc8d2b6529ca16c8cce5",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

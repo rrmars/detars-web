@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "59daac189915cf059b4f7642d79a8af8d18f29628db8fe17922fef148e178b6a",
+  "sourceListLink": "bali-entry-visa-australian-travellers-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original source reads are expressly November 5; the separate official-source check happens on the same day and is not being substituted as the original date.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/bali-entry-visa-australian-travellers/bali-entry-checklist.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f775e2d80698fed0e0735ff7fcaf2a5d7b649b05c8e24dce1ebfc2ca4516e026",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "bali-entry-visa-australian-travellers-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "af2c90e807ba227180a5b0b563f8c6b7a0b5eecad6adc78eb06487ac5235cecb",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "bali-entry-visa-australian-travellers-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

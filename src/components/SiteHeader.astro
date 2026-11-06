@@ -2,8 +2,8 @@
 import { ctaLabel, navItems } from "@/lib/nav";
 import { hreflangMap, localeLabels, locales, withLocale, type Locale } from "@/lib/site";
 
-type Props = { locale: Locale; route: string };
-const { locale, route } = Astro.props;
+type Props = { locale: Locale; route: string; languageLocales?: readonly Locale[] };
+const { locale, route, languageLocales = locales } = Astro.props;
 ---
 
 <header class="site-header" id="site-header">
@@ -14,7 +14,7 @@ const { locale, route } = Astro.props;
     <nav class="site-nav" aria-label="Primary">
       {
         navItems.map((item) => (
-          <a href={withLocale(locale, item.route)} aria-current={route === item.route ? "page" : undefined}>
+          <a href={withLocale(locale, item.route)} aria-current={route === item.route || route.startsWith(`${item.route}/`) ? "page" : undefined}>
             {item.label[locale]}
           </a>
         ))
@@ -29,7 +29,7 @@ const { locale, route } = Astro.props;
         </summary>
         <div class="lang-pop">
           {
-            locales.map((entry) => (
+            languageLocales.map((entry) => (
               <a
                 href={withLocale(entry, route)}
                 class={entry === locale ? "on" : ""}
@@ -61,6 +61,9 @@ const { locale, route } = Astro.props;
   })();
 </script>
 <style>
+  .site-nav { gap: 20px; }
+  @media (min-width: 861px) and (max-width: 1180px) { .site-nav { gap: 12px; font-size: 12px; } .hd-right { gap: 10px; } }
+  @media (max-width: 1000px) { .site-nav { display: none; } }
   .lang-menu { position: relative; }
   .lang-menu > summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 7px; font-family: var(--sg); font-size: 13px; color: var(--muted); border: 1px solid var(--line); border-radius: 9px; padding: 7px 11px; transition: border-color 0.2s, color 0.2s; white-space: nowrap; }
   .lang-menu > summary::-webkit-details-marker { display: none; }
@@ -71,4 +74,11 @@ const { locale, route } = Astro.props;
   .lang-pop a { font-size: 14px; color: var(--muted); padding: 9px 12px; border-radius: 8px; transition: background 0.15s, color 0.15s; }
   .lang-pop a:hover { background: rgba(255, 255, 255, 0.05); color: var(--text); }
   .lang-pop a.on { color: var(--accent2); background: rgba(255, 106, 61, 0.1); }
+  @media (max-width: 600px) {
+    .brand { gap: 6px; font-size: 18px; }
+    .brand .mark { width: 30px; height: 30px; }
+    .hd-right { gap: 8px; }
+    .lang-menu > summary { padding: 7px 8px; gap: 5px; font-size: 11px; }
+    .cta { padding: 9px 12px; font-size: 12px; }
+  }
 </style>

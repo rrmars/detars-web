@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "eede23c0309a0f874967a837014690b8b05d32bebeb72c1b3d8388ecb0a38987",
+  "sourceListLink": "dubai-monthly-budget-new-arrival-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/dubai-monthly-budget-new-arrival/dubai-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "89840bf25bd20d77a839250708620ea4004a1f2a754c9abb7dce9e2313361222",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "dubai-monthly-budget-new-arrival-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "bb7900b7895b1299315383642d4fd9868679dc33e59bd989df5f41b9e6c0ab7e",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "dubai-monthly-budget-new-arrival-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

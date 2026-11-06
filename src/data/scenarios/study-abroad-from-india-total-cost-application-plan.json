@@ -1,0 +1,205 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Final-year B.Tech students in Pune, India budgeting for an overseas computer-science or data-science master’s.",
+  "schemaVersion": 2,
+  "slug": "study-abroad-from-india-total-cost-application-plan",
+  "translationKey": "study-abroad-from-india-total-cost-application-plan",
+  "sources": [
+    {
+      "title": "central-bank reference",
+      "url": "https://cbcg.me/en/core-functions/financial-and-banking-operations/fx-reference-rates",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Saarland degree",
+      "url": "https://www.uni-saarland.de/en/study/programmes/master/informatics.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "application guide",
+      "url": "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Dortmund 2027 self-disclosure",
+      "url": "https://statistik.tu-dortmund.de/storages/statistik/r/Downloads/Studium/Studiengaenge-Infos/Data_Science/Self-disclosure_2027.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Tuition",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "course route",
+      "url": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/msc-course-route/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "course-based alternative",
+      "url": "https://www.uwinnipeg.ca/programs/msc-acs.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Leicester",
+      "url": "https://le.ac.uk/courses/data-science-msc/2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Sheffield",
+      "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/data-science-msc",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UOW's selected 2027 course",
+      "url": "https://www.uow.edu.au/study/courses/master-of-computer-science/?students=international&campus=Wollongong&year=2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Deakin",
+      "url": "https://www.deakin.edu.au/course/master-data-science-international",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Buffalo",
+      "url": "https://www.buffalo.edu/home/academics/degree_programs.host.html/content/authoritative/grad/programs/computer-science-and-engineering-ms.detail.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Arlington",
+      "url": "https://www.uta.edu/academics/schools-colleges/engineering/academics/masters/computer-science",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "APS notice/FAQ",
+      "url": "https://aps-india.de/dmat/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "DHS October 8, 2026 notice",
+      "url": "https://studyinthestates.dhs.gov/2026/10/dhs-publishes-proposed-rule-establishing-fees-for-optional-practical-training",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "German Missions India checklist",
+      "url": "https://india.diplo.de/in-en/service/2756350-2756350",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IRCC funds page",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "HC584 implementation and APP ST9",
+      "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "financial-evidence guidance",
+      "url": "https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Student 500 source",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Buffalo form",
+      "url": "https://www.buffalo.edu/content/dam/www/admissions/international-financial-forms/2027/FF_Standard_Graduate_27-28.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UTA financial-document hub",
+      "url": "https://www.uta.edu/admissions/apply/i-20-information/financial-documents",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SBI product",
+      "url": "https://sbi.bank.in/web/personal-banking/loans/education-loans/global-ed-vantage-scheme",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UK guidance",
+      "url": "https://www.gov.uk/graduate-visa",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Memorial",
+      "url": "https://www.mun.ca/computerscience/graduate-students/info-for-applicants/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Winnipeg application page",
+      "url": "https://www.uwinnipeg.ca/graduate-studies/future-students/online-application-form.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "UTA admissions",
+      "url": "https://www.uta.edu/admissions/apply/international-graduate",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "department",
+      "url": "https://statistik.tu-dortmund.de/en/prospective-students/application-enrollment/master-data-science/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "central non-EU office",
+      "url": "https://international.tu-dortmund.de/en/international-applicants/application/master/application-for-non-eu/eea/",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "family_degree_budget": {
+      "label": "Family degree budget",
+      "value": 35,
+      "currency": "INR",
+      "unit": "lakh_per_degree",
+      "display": "₹35 lakh"
+    },
+    "saarland_base_completion_cost": {
+      "label": "Saarland base completion cost",
+      "value": 39.4,
+      "currency": "INR",
+      "unit": "lakh_per_degree",
+      "display": "₹39.4 lakh"
+    },
+    "saarland_unfunded_gap": {
+      "label": "Saarland unfunded gap",
+      "value": 4.4,
+      "currency": "INR",
+      "unit": "lakh_per_degree",
+      "display": "₹4.4 lakh"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "87337ebff0d01174da44693dc8984b45a70420f317345a3d5353be2cd54aa7e1",
+    "originalAuditSha256": "87c2b769f5ecfea070dbeb196e44b64aefe3f4e00581f4fbf1bf81dac31593aa"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "study",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

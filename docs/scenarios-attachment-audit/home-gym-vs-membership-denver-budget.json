@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "0b23c442bc0908ce1fd878b8bad61e0563b32e2262ef8543578feba78bee4d40",
+  "sourceListLink": "../w5-home-gym/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "e591f3dd88edf22d1f0f49d41e4c48b0f9b0907fbd7db54d841c2210cbecbe44",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "1230399857d077d52619cab7f074a75e7a69f3eee0a0b5d15e6ded2d2a265437",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

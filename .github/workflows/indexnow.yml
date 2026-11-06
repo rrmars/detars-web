@@ -5,6 +5,11 @@ on:
     branches: [main]
     paths:
       - "src/content/research/**"
+      - "src/content/scenarios/**"
+      - "src/data/scenarios/**"
+      - "src/pages/scenarios/**"
+      - "src/pages/**/scenarios/**"
+      - "scripts/indexnow.mjs"
   workflow_dispatch:
 
 permissions:
@@ -20,5 +25,5 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Submit research URLs to IndexNow
+      - name: Submit research and scenario URLs to IndexNow
         run: node scripts/indexnow.mjs

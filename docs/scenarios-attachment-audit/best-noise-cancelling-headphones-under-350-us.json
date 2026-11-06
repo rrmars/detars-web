@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "f19232e0440ac08b46ff173eb1cf16cdae0d5e89acc6bce52550e047eda48980",
+  "sourceListLink": "best-noise-cancelling-headphones-under-350-us-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/best-noise-cancelling-headphones-under-350-us/anc-comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "d45b8e5806edb2c0ac529b7b29b21e80d49bbca7da7077471120c60ee0eaa502",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-noise-cancelling-headphones-under-350-us-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "1b72b90ae617c2cb355c17aa4d87238eab0844336af85873a4cdef4d118a10e1",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-noise-cancelling-headphones-under-350-us-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

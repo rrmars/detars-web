@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "slug": "ai-slide-tools-sign-in-gates-anonymous-export",
+  "translationKey": "ai-slide-tools-sign-in-gates-anonymous-export",
+  "sources": [
+    {
+      "title": "Gamma",
+      "url": "https://gamma.app/products/presentations",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Canva",
+      "url": "https://www.canva.com/create/ai-presentations/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Beautiful.ai",
+      "url": "https://www.beautiful.ai/ai-presentations",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Google Slides built-in AI",
+      "url": "https://slides.google.com/create",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Microsoft PowerPoint web / built-in Copilot",
+      "url": "https://powerpoint.cloud.microsoft/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SlidesAI logged-out web generator",
+      "url": "https://www.slidesai.io/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AiPPT",
+      "url": "https://www.aippt.com/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "VibeSlide",
+      "url": "https://vibeslide.app/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "SlideMaker.app",
+      "url": "https://slidemaker.app/ai-presentation-maker",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "FreeSlide",
+      "url": "https://freeslide.app/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Microsoft Copilot standalone",
+      "url": "https://copilot.microsoft.com/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "presentation_products_attempted": {
+      "label": "Presentation products attempted, excluding standalone Copilot and local control",
+      "value": 10,
+      "unit": "products",
+      "display": "10"
+    },
+    "requested_slide_count": {
+      "label": "Requested slide count",
+      "value": 6,
+      "unit": "slides",
+      "display": "6"
+    },
+    "freeslide_exported_slide_count": {
+      "label": "FreeSlide exported slide count",
+      "value": 7,
+      "unit": "slides",
+      "display": "7"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Access dates come from retained source access records or dated browser observations, not the archive folder name. No new external lookup was performed.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Person preparing an investor-style presentation for an office coffee-subscription business without creating tool accounts.",
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

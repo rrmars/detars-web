@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "d5e4795647d48384a87311854ebca78b0ba5c6ac4be6bf0ac5e1f808fb47a0c9",
+  "sourceListLink": "../w5-lisbon-3days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "62adce63915c662e119530d0adcb338075997007ca62807b951ef862a3d3df18",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "54756bcddca3c6f9830dea90d3bd4d2a33b242b39861fe58c02e9251206fc76a",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

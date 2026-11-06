@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "7438053e2663908037072f1ba860f26134f03b1f059bf6116d5c6829d13d4d58",
+  "sourceListLink": "tokyo-five-day-cherry-blossom-itinerary-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original article explicitly assigns November 5 to the actual planning run's source-read date, separately from the same-day independent recheck; current EN/ZH articles retain it.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/tokyo-five-day-cherry-blossom-itinerary/Tokyo-5-days-plan-and-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "0e1f42b9fd4d1e4241aeedd49a44bfccc5ea475e4850e29a3a80578444817655",
+      "faqPairs": 3,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "52ee312ce34dcfd6167f14999b2cd77ea48e12834231f0a6249f20b3243b0922",
+      "faqPairs": 3,
+      "links": []
+    }
+  }
+}

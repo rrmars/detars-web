@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 2,
+  "slug": "affordable-7-day-meal-plan-grocery-budget-chicago",
+  "translationKey": "affordable-7-day-meal-plan-grocery-budget-chicago",
+  "sources": [
+    {
+      "title": "Fresh Banana, Each",
+      "url": "https://www.walmart.com/ip/Fresh-Banana-Each/44390948",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fresh Gala Apples",
+      "url": "https://www.walmart.com/ip/Fresh-Gala-Apples-3-lb-Bag/44390958",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fresh Whole Carrots",
+      "url": "https://www.walmart.com/ip/Fresh-Carrots-2-lb-Bag/10535757",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fresh Yellow Onions",
+      "url": "https://www.walmart.com/ip/Fresh-Yellow-Onions-3-lb-Bag/10447842",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Sweet Potatoes Whole Fresh",
+      "url": "https://www.walmart.com/ip/Sweet-Potatoes-Whole-Fresh-3-lb-Bag/132720824",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Fresh Green Cabbage",
+      "url": "https://www.walmart.com/ip/Fresh-Green-Cabbage-Each/44391042",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Garlic Bulb Fresh Whole",
+      "url": "https://www.walmart.com/ip/Garlic-Bulb-Fresh-Whole-Each/44391100",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value 100% Whole Grain Old Fashioned Oats, 42 oz",
+      "url": "https://www.walmart.com/ip/Great-Value-Instant-100-Whole-Grain-Old-Fashioned-Oats-Cup-42-oz/10314925",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Natural Brown Long Grain Rice, 32 oz",
+      "url": "https://www.walmart.com/ip/Great-Value-Natural-Brown-Long-Grain-Rice-32-oz/10898755",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value 100% Whole Wheat Round Top Bread, 20 oz",
+      "url": "https://www.walmart.com/ip/Great-Value-100-Whole-Wheat-Round-Top-Bread-20-oz/10804551",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Whole Wheat Spaghetti, 16 oz",
+      "url": "https://www.walmart.com/ip/Great-Value-Whole-Wheat-Spaghetti-16-oz/45653171",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Lentils, 1 lb",
+      "url": "https://www.walmart.com/ip/Great-Value-Lentils-1-lb/545884744",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Organic Chick Pea Garbanzo Beans, 15 oz Can",
+      "url": "https://www.walmart.com/ip/Great-Value-Organic-Chick-Pea-Garbanzo-Beans-15-oz-Can/50687303",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value No Salt Added Diced Tomatoes, 14.5 oz Can",
+      "url": "https://www.walmart.com/ip/Great-Value-No-Salt-Added-Diced-Tomatoes-14-5-oz-Can/10416052",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Creamy Peanut Butter, 16 oz",
+      "url": "https://www.walmart.com/ip/Great-Value-Creamy-Peanut-Butter-16-oz/3716446909",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Wesson Pure Canola Oil",
+      "url": "https://www.walmart.com/ip/WESSON-Pure-Cholesterol-Free-Canola-Oil-24-fl-oz/12443077",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Black Pepper & Iodized Salt, two separate shakers",
+      "url": "https://www.walmart.com/ip/Great-Value-Black-Pepper-Iodized-Salt-5-25-oz/820711625",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Eggland's Best Cage Free Large White Eggs",
+      "url": "https://www.walmart.com/ip/Eggland-s-Best-Cage-Free-Large-White-Eggs-12-Count/273959677",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value 2% Reduced Fat Milk",
+      "url": "https://www.walmart.com/ip/Great-Value-Milk-2-Reduced-Fat-Half-Gallon-64-fl-oz-Jug/10450119",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Greek Plain Nonfat Yogurt",
+      "url": "https://www.walmart.com/ip/Great-Value-Greek-Plain-Nonfat-Yogurt-32-oz-Tub/26559565",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value All Natural Boneless Skinless Chicken Breasts, Frozen",
+      "url": "https://www.walmart.com/ip/Great-Value-All-Natural-Boneless-Skinless-Chicken-Breasts-3-lb-Frozen/10414680",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Frozen Broccoli Florets, Steamable Bag",
+      "url": "https://www.walmart.com/ip/Great-Value-Frozen-Broccoli-Florets-12-oz-Steamable-Bag/735585383",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Frozen Mixed Vegetables, Steamable Bag",
+      "url": "https://www.walmart.com/ip/Great-Value-Frozen-Mixed-Vegetables-12-oz-Steamable-Bag/817042496",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Great Value Frozen Chopped Spinach",
+      "url": "https://www.walmart.com/ip/Great-Value-Chopped-Spinach-12-oz-Frozen/431513547",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "chicken handling guidance",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/chicken-farm-table",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "USDA FSIS Leftovers and Food Safety",
+      "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "USDA FoodData Central's SR Legacy download",
+      "url": "https://fdc.nal.usda.gov/download-datasets/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Rolled oats (dry) — FDC 173904",
+      "url": "https://fdc.nal.usda.gov/food-details/173904/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Brown rice (dry) — FDC 169703",
+      "url": "https://fdc.nal.usda.gov/food-details/169703/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Whole-wheat bread — FDC 172688",
+      "url": "https://fdc.nal.usda.gov/food-details/172688/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Whole-wheat spaghetti (dry) — FDC 169738",
+      "url": "https://fdc.nal.usda.gov/food-details/169738/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Lentils (dry equivalent) — FDC 172420",
+      "url": "https://fdc.nal.usda.gov/food-details/172420/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Canned chickpeas, drained/rinsed — FDC 173801",
+      "url": "https://fdc.nal.usda.gov/food-details/173801/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "No-salt-added diced tomatoes, with juice — FDC 170138",
+      "url": "https://fdc.nal.usda.gov/food-details/170138/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Peanut butter — FDC 174266",
+      "url": "https://fdc.nal.usda.gov/food-details/174266/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "2% milk — FDC 171267",
+      "url": "https://fdc.nal.usda.gov/food-details/171267/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Plain nonfat Greek yogurt — FDC 170894",
+      "url": "https://fdc.nal.usda.gov/food-details/170894/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Boneless skinless chicken breast (raw weight) — FDC 171077",
+      "url": "https://fdc.nal.usda.gov/food-details/171077/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Frozen broccoli — FDC 169970",
+      "url": "https://fdc.nal.usda.gov/food-details/169970/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Frozen mixed vegetables — FDC 170471",
+      "url": "https://fdc.nal.usda.gov/food-details/170471/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Frozen chopped spinach — FDC 169287",
+      "url": "https://fdc.nal.usda.gov/food-details/169287/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Banana, peeled — FDC 173944",
+      "url": "https://fdc.nal.usda.gov/food-details/173944/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Apple, edible portion with skin — FDC 171688",
+      "url": "https://fdc.nal.usda.gov/food-details/171688/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Carrots — FDC 170393",
+      "url": "https://fdc.nal.usda.gov/food-details/170393/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Yellow onion — FDC 170000",
+      "url": "https://fdc.nal.usda.gov/food-details/170000/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Sweet potato, scrubbed, skin on — FDC 168482",
+      "url": "https://fdc.nal.usda.gov/food-details/168482/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Green cabbage — FDC 169975",
+      "url": "https://fdc.nal.usda.gov/food-details/169975/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Canola oil — FDC 172336",
+      "url": "https://fdc.nal.usda.gov/food-details/172336/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Egg, without shell (50 g = 1 large) — FDC 171287",
+      "url": "https://fdc.nal.usda.gov/food-details/171287/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Garlic, peeled — FDC 169230",
+      "url": "https://fdc.nal.usda.gov/food-details/169230/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Black pepper — FDC 170931",
+      "url": "https://fdc.nal.usda.gov/food-details/170931/nutrients",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Iodized salt — FDC 173468",
+      "url": "https://fdc.nal.usda.gov/food-details/173468/nutrients",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "full_package_grocery_basket": {
+      "label": "Full package grocery basket",
+      "value": 80.9,
+      "currency": "USD",
+      "unit": "per_two_adults_week_before_unverified_charges",
+      "display": "$80.90"
+    },
+    "weekly_grocery_allowance": {
+      "label": "Weekly grocery allowance",
+      "value": 90,
+      "currency": "USD",
+      "unit": "per_two_adults_week",
+      "display": "$90.00"
+    },
+    "unspent_grocery_buffer": {
+      "label": "Unspent grocery buffer",
+      "value": 9.1,
+      "currency": "USD",
+      "unit": "per_two_adults_week",
+      "display": "$9.10"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "0681f4c8af9cbffe4351dc02554cb058d7ff022f21f2af1a333a1c68b334217b",
+    "originalAuditSha256": "3c8abd34a8ac26786e54e2cf356e37a034ec5153b37e91209b686383c26fd8ae"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two adults planning budget meals in Chicago, with local grocery repricing and freezer space required.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

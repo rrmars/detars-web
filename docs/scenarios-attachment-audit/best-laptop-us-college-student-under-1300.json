@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "f0b1ca9cf54e877e85ebb011dfce6a975459b7c937d22a01f20dce08a5e2bc6f",
+  "sourceListLink": "best-laptop-us-college-student-under-1300-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/best-laptop-us-college-student-under-1300/laptop-comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b778af5fa3c44f5d7325f1aabb0cb4247776673afdc650dbacbebe9b43efb201",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-laptop-us-college-student-under-1300-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "6d2ee067b6271d8e1247755ce276abec2087f29e43ef08f7a0703ea32b53d0bd",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "best-laptop-us-college-student-under-1300-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

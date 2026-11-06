@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "slug": "paris-5-day-family-itinerary-budget",
+  "translationKey": "paris-5-day-family-itinerary-budget",
+  "sources": [
+    {
+      "title": "Hôtel Jean Bart — Triple",
+      "url": "https://www.hoteljeanbart.com/en-GB/rooms/triple-room.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Hôtel du Levant — rooms",
+      "url": "https://hoteldulevant.com/en/les-chambres/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Eiffel Tower — official 2027 tariff",
+      "url": "https://www.toureiffel.paris/sites/default/files/2026-10/tarifs_2027_en.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Eiffel Tower — official ticket office",
+      "url": "https://ticket.toureiffel.paris/en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Eiffel Tower — security, stroller and arrival rules",
+      "url": "https://www.toureiffel.paris/en/news/visit/visitors-practical-guide",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Eiffel Tower — security, stroller and arrival rules",
+      "url": "https://www.toureiffel.paris/en/faq/my-ticket/do-any-tickets-grant-priority-access-eiffel-tower",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MNHN — Grande Galerie de l’Évolution",
+      "url": "https://www.jardindesplantesdeparis.fr/fr/grande-galerie-de-l-evolution",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MNHN — mobility access",
+      "url": "https://www.jardindesplantesdeparis.fr/fr/visiteurs-a-mobilite-reduite",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Notre-Dame — free admission and reservations",
+      "url": "https://www.notredamedeparis.fr/en/visit/reservation-free/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Notre-Dame — free admission and reservations",
+      "url": "https://resa.notredamedeparis.fr/en/reservationindividuelle/tickets",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "LudoJardin — operator practical information",
+      "url": "http://www.ludo-jardin.fr/infos-pratiques/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Senate — Luxembourg Garden opening schedule",
+      "url": "https://jardin.senat.fr/infos-pratiques/horaires-douverture.html",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Louvre — gardens and children’s activities",
+      "url": "https://musee.louvre.fr/en/explore/the-gardens",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MNHN — FAQ",
+      "url": "https://www.mnhn.fr/fr/faq-contacts",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RATP — bus 82 official route map",
+      "url": "https://www.bonjour-ratp.fr/lignes-bus/82/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RATP — bus 82 official route map",
+      "url": "https://www.ratp.fr/informer/picts/plans/pdf/bus_paris/82.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Île-de-France Mobilités / Bonjour RATP — bus 89",
+      "url": "https://www.bonjour-ratp.fr/lignes-bus/89/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Île-de-France Mobilités / Bonjour RATP — bus 89",
+      "url": "https://ilico.iledefrance-mobilites.fr/uploads/plans/20260801T164443Z-272df728-43d6-402d-a67e-c0c645be526e.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Île-de-France Mobilités / Bonjour RATP — bus 27",
+      "url": "https://www.bonjour-ratp.fr/lignes-bus/27/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Île-de-France Mobilités / Bonjour RATP — bus 27",
+      "url": "https://ilico.iledefrance-mobilites.fr/uploads/plans/20260801T162946Z-2e2fc4b8-0d1b-476f-a480-59a7619ef077.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RATP — accessibility register and wheelchair travel",
+      "url": "https://www.ratp.fr/en/registreaccessibilite",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RATP — accessibility register and wheelchair travel",
+      "url": "https://www.ratp.fr/accessibilite/fauteuil-roulant",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "RATP — accessibility register and wheelchair travel",
+      "url": "https://www.ratp.fr/en/accessibility/traveling-wheelchair-user",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IDFM — Bus–Tram ticket",
+      "url": "https://www.iledefrance-mobilites.fr/titres-et-tarifs/detail/ticket-bus-tram",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IDFM — child eligibility and Easy cards",
+      "url": "https://www.iledefrance-mobilites.fr/titres-et-tarifs/tarifs-reduits/enfants-4-10-ans",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IDFM — child eligibility and Easy cards",
+      "url": "https://www.iledefrance-mobilites.fr/aide-et-contacts/passe-navigo-easy/ou-puis-je-me-procurer-un-passe-navigo-easy-a-quel-prix",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IDFM — 2026 fares",
+      "url": "https://www.iledefrance-mobilites.fr/tarifs-titre-de-transport-en-commun-2026",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Eiffel Tower — national-day fireworks information",
+      "url": "https://www.toureiffel.paris/fr/actualites/evenements/le-feu-dartifice-du-14-juillet",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "French Education Ministry — school calendar",
+      "url": "https://www.education.gouv.fr/calendrier-scolaire-toutes-les-dates-des-cours-et-des-vacances-100148",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Paris tourist office — Paris Plages",
+      "url": "https://parisjetaime.com/evenement/paris-plages-e013",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Paris tourist office — Tuileries",
+      "url": "https://parisjetaime.com/culture/jardin-des-tuileries-p3545",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Service Public — 2026 taxi tariffs",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15396",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Service Public — Paris 2026 tourist tax",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17929",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "family_budget_envelope": {
+      "label": "Conditional total for two adults and one child, four nights, excluding flights",
+      "value": 2200,
+      "unit": "family_trip_budget",
+      "currency": "EUR",
+      "display": "€2,200"
+    },
+    "planned_family_spending": {
+      "label": "Planned spending under estimated hotel cap; before unallocated reserve",
+      "value": 1906.4,
+      "unit": "family_trip_subtotal",
+      "currency": "EUR",
+      "display": "€1,906.40"
+    },
+    "unallocated_family_reserve": {
+      "label": "Unallocated reserve conditional on the lodging and other assumptions",
+      "value": 293.6,
+      "unit": "family_trip_reserve",
+      "currency": "EUR",
+      "display": "€293.60"
+    },
+    "four_night_hotel_cap": {
+      "label": "Estimated tax/breakfast-inclusive family lodging cap, not July availability or quote",
+      "value": 1100,
+      "unit": "four_night_lodging_cap",
+      "currency": "EUR",
+      "display": "€1,100"
+    },
+    "eiffel_family_lift_admission": {
+      "label": "Published 2027 second-floor lift tariff for two adults and child age five",
+      "value": 54.4,
+      "unit": "family_admission",
+      "currency": "EUR",
+      "display": "€54.40"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "All retained source access dates come from original 2026-11-05 ledger. Eiffel published 2027 tariff and school calendar distinguished from current hotel starting rates, other tariffs, standing schedules and author estimates. No fresh external research.",
+  "uncertainties": [
+    "Hotel starting rates are not July 2027 availability or dated family totals. Jean Bart room cooling/lift/stroller access and Du Levant tax/breakfast/lift inclusions remain unverified; budget requires actual all-in family lodging at or below EUR 1,100.",
+    "No official July 2027 Champ de Mars/Concorde staging/closure dates or complete engineering-work calendar established. Paris Plages dates, Tuileries fair/cauldron access and footprints remain unconfirmed. Absence of a retrieved announcement is not an open-access guarantee.",
+    "Museum July ticket release and mandatory reservations, general stroller policy, Notre-Dame inconsistent booking-window wording and worship access need reconfirmation. Former Galerie des Enfants is permanently closed.",
+    "Exact curb-side accessibility, return-stop geometry and live bus diversions were not verified. RATP indexed register supports Luxembourg/line 14 lifts, not every interchange; exact Luxembourg entrance and real-time lift state need checking.",
+    "Other-than-Eiffel future fares/taxi/tourist tax, LudoJardin exact price, sailboat operation/rate, child-seat charges and all journey/meal/hotel-uplift estimates remain conditional.",
+    "Airport and flight times unknown; transfer plan assumes CDG/Orly and must change for Beauvais or other arrivals. Flights excluded; reserve may be consumed by lodging or price increases."
+  ],
+  "editingContract": "Readable corresponding English and Simplified Chinese lines and table cells retain identical complete numeric, currency, date and URL literals. Local drafts only; no stars or review markup.",
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English for families planning Paris with young children; Simplified Chinese for Chinese-speaking families using the same itinerary, transport and room-budget decisions.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

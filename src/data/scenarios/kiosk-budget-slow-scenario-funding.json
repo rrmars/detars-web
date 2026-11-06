@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "slug": "kiosk-budget-slow-scenario-funding",
+  "translationKey": "kiosk-budget-slow-scenario-funding",
+  "sources": [
+    {
+      "title": "VAT rates",
+      "url": "https://www.gov.uk/vat-rates",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "HMRC takeaway guidance",
+      "url": "https://www.gov.uk/guidance/catering-takeaway-food-and-vat-notice-7091",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "registration rules",
+      "url": "https://www.gov.uk/register-for-vat",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "minimum-wage table",
+      "url": "https://www.gov.uk/national-minimum-wage-rates",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2027 announcement",
+      "url": "https://www.gov.uk/government/publications/minimum-wage-rates-for-2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "holiday entitlement",
+      "url": "https://www.gov.uk/holiday-entitlement-rights",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "HMRC employer thresholds",
+      "url": "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "pension contributions",
+      "url": "https://www.gov.uk/workplace-pensions/what-you-your-employer-and-the-government-pay",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Food registration",
+      "url": "https://www.gov.uk/guidance/starting-a-food-business",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Manchester street-trading page",
+      "url": "https://www.manchester.gov.uk/online-directories/licences-and-permissions-directories/licensing/markets-and-street-trading/street-trader-licence-and-consent",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Small-business rates relief",
+      "url": "https://www.gov.uk/business-rates-relief/small-business-rate-relief",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Employers' liability insurance",
+      "url": "https://www.gov.uk/employers-liability-insurance",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "slow_scenario_funding": {
+      "label": "Slow-scenario funding including buffer",
+      "value": 57070,
+      "unit": "funding_before_opening",
+      "currency": "GBP",
+      "display": "£57,070"
+    },
+    "preopening_cash_outlay": {
+      "label": "Rounded pre-opening cash outlay",
+      "value": 27749,
+      "unit": "preopening_cash",
+      "currency": "GBP",
+      "display": "£27,749"
+    },
+    "slow_scenario_funding_gap": {
+      "label": "Funding gap against entered funding",
+      "value": 12070,
+      "unit": "funding_shortfall",
+      "currency": "GBP",
+      "display": "£12,070"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Access dates are explicitly recorded in the original source register; no new external access was performed. Localization date is not a new source-access claim.",
+  "editingContract": "Readable bilingual bodies retain complete literals; validate corresponding lines and table cells, named figures and exact external URL coverage.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Prospective sole trader opening a Manchester takeaway coffee kiosk with unpaid owner work and part-time staff.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

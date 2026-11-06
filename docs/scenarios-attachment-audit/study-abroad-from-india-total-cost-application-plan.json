@@ -1,0 +1,63 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "a250a46f7263a850032839b2db702e88efdb43b1f8b84fafeaf8ebf3c4040d2a",
+  "sourceListLink": "study-abroad-from-india-total-cost-application-plan-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/study-abroad-from-india-total-cost-application-plan/Study_abroad_2027_costs_and_plan.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b0319ac8fa960878c846828d1dbf8b82d9fa2b9cf2f7f4729600cc5f1a317749",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "study-abroad-from-india-total-cost-application-plan-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-study-abroad-india/Study_abroad_2027_costs_and_plan.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/study-abroad-from-india-total-cost-application-plan/Study_abroad_2027_costs_and_plan.xlsx"
+        },
+        {
+          "target": "../w4-study-abroad-india/Budget_ranking_and_next_steps.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "study-abroad-from-india-total-cost-application-plan-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "576d646c2f675c0c6ff7050b54ccc676ad8a7384ab5d5fbd4cd2c547b7b30296",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "study-abroad-from-india-total-cost-application-plan-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-study-abroad-india/Study_abroad_2027_costs_and_plan.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/study-abroad-from-india-total-cost-application-plan/Study_abroad_2027_costs_and_plan.xlsx"
+        },
+        {
+          "target": "../w4-study-abroad-india/Budget_ranking_and_next_steps.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "study-abroad-from-india-total-cost-application-plan-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

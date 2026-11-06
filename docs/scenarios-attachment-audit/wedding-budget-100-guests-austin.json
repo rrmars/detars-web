@@ -1,0 +1,27 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "d778f26d148c12a3547a426c0bddd24213c459f72af5b54b51ab9dcecb0d3a31",
+  "sourceListLink": "../w4-wedding-budget/research.json",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/wedding-budget-100-guests-austin/wedding-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "613087faffa4593d3a96c8839543ac182e589957e92a0edfbd6725ace22bed45",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "b16c8a72e9e73023c24801b1bc5fc37339fd388738668a59c1105cffe0ad26e1",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

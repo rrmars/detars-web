@@ -1,0 +1,208 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two adult friends travelling from the UK for a relaxed first Japan visit.",
+  "schemaVersion": 2,
+  "slug": "japan-10-day-first-time-itinerary-october-2027",
+  "translationKey": "japan-10-day-first-time-itinerary-october-2027",
+  "sources": [
+    {
+      "title": "smartEX fare PDF dated April 1, 2025",
+      "url": "https://smart-ex.jp/en/product/plan/service/pdf/service_fares_reserved.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "service page",
+      "url": "https://smart-ex.jp/en/product/plan/service/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JR West's comparison table, fares as of April 1, 2026",
+      "url": "https://www.westjr.co.jp/company/ir/library/fact/pdf/2026/fact09.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "seven-day ordinary national JR Pass",
+      "url": "https://japanrailpass.net/en/purchase/price/index.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "¥4,960 pass-holder special ticket",
+      "url": "https://japanrailpass.net/en/use/special-ticket/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JR West's Kansai Area Pass page",
+      "url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "IC card per person",
+      "url": "https://www.jreast.co.jp/en/multi/pass/suica.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Sensoji",
+      "url": "https://www.senso-ji.jp/visit/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Meiji Jingu",
+      "url": "https://www.meijijingu.or.jp/en/opening/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Tokyo National Museum",
+      "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=113&lang=en",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Shibuya SKY tickets",
+      "url": "https://www.shibuya-scramble-square.com/sky/ticket/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "SKY FAQ question",
+      "url": "https://www.shibuya-scramble-square.com/sky/faq/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Nijo hours",
+      "url": "https://nijo-jocastle.city.kyoto.lg.jp/guide/annai/?lang=en",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "fees",
+      "url": "https://nijo-jocastle.city.kyoto.lg.jp/admission/fee/?lang=en",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Kiyomizudera",
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Keihan's March 2026 information",
+      "url": "https://www.keihan.co.jp/visiting/spot/detail/055.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Otagi Nenbutsuji",
+      "url": "https://www.otagiji.com/visit-jp",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Fushimi Inari — Kyoto City",
+      "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=448",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Osaka Castle museum",
+      "url": "https://www.osakacastle.net/guide/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Sports Day is October 11, 2027",
+      "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JR Central",
+      "url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Yamato",
+      "url": "https://www.kuronekoyamato.co.jp/ytc/en/send/preparations/ta-q-bin.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Kanto→Kansai matrix",
+      "url": "https://www.kuronekoyamato.co.jp/ytc/en/search/estimate/all_list.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "conventional reserved-seat window",
+      "url": "https://www.westjr.co.jp/global/en/ticket/overview/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "SmartEX early bookings",
+      "url": "https://smart-ex.jp/en/reservation/useful/accept_time/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JNTO",
+      "url": "https://www.japan.travel/en/guide/october/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Tokyo",
+      "url": "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_10d.php?prec_no=44&block_no=47662&month=10&view=",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Kyoto",
+      "url": "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_10d.php?prec_no=61&block_no=47759&month=10&view=",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Osaka",
+      "url": "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_10d.php?prec_no=62&block_no=47772&month=10&view=",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "JR Central asks this",
+      "url": "https://global.jr-central.co.jp/en/info/oversized-baggage/#section04",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "per_person_trip_budget_with_reserve": {
+      "label": "Per person trip budget with reserve",
+      "value": 136988,
+      "currency": "JPY",
+      "unit": "ten_days_per_person",
+      "display": "¥136,988"
+    },
+    "two_adult_trip_budget_with_reserve": {
+      "label": "Two adult trip budget with reserve",
+      "value": 273976,
+      "currency": "JPY",
+      "unit": "ten_days_for_two",
+      "display": "¥273,976"
+    },
+    "individual_rail_core_basket": {
+      "label": "Individual rail core basket",
+      "value": 15520,
+      "currency": "JPY",
+      "unit": "per_person",
+      "display": "¥15,520"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "fbc8d2b994d150afce750569fdad79e334ebaf19a8ddd2a406e7320ef54a359e",
+    "originalAuditSha256": "47960817d43bf9f7d388844631935e30b17dcf6ed506ce140f0985f663b4aed2"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

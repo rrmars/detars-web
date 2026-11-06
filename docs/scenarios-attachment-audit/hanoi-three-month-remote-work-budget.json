@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "76f44baf453933a348f68a0d917fa7f21c7cde30b2a952cc3e83d5156606ed8e",
+  "sourceListLink": "../w6-hanoi-remote-3months/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "0e8a90776f52ac1c2372a0086584151295a988765d35ee4fe796edba1437b4d6",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

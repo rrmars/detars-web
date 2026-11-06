@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "395becefb4a08bc03c3728ece88f0ee74809983dc1f848f33716a4c866ba2853",
+  "sourceListLink": "../w6-rome-florence-6days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "337af1aac1c5df498e10477ff40c313159601938388f7eebbabda280332fee94",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "fc750fd019a7f6d6588f54a31938684ca900b5ff09efeb3e97b2e2ea8bfc818e",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

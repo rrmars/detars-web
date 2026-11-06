@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "72375fbdfd2c83f6bfaef5c1dd421ea5ea320027332f988df9d15f1d31c7c444",
+  "sourceListLink": "../w6-tasmania-5days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "a937c857aeb85101c83db9f1da423e000752cf913364bfbda2a0c235cba1c9ba",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "e3aca025153dc7419ec7a0991b9604ea97a2b4aaf3d4ea5f366aa26d6c833962",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

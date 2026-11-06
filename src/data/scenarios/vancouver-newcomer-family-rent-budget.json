@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 2,
+  "slug": "vancouver-newcomer-family-rent-budget",
+  "translationKey": "vancouver-newcomer-family-rent-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Filipino newcomer family moving from Manila as permanent residents on May 1, 2027: two adults and one 4-year-old, one CAD 82000 Burnaby salary, comparing two-bedroom rentals and childcare without Canadian credit; English only.",
+  "sources": [
+    {
+      "title": "Trip Planner",
+      "url": "https://www.translink.ca/trip-planner",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "RTB-1",
+      "url": "https://www2.gov.bc.ca/assets/gov/housing-and-tenancy/residential-tenancies/forms/rtb1.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official participating-centre list",
+      "url": "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/10-a-day-childcarebc-centres/10-a-day-centres-list",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC child care map",
+      "url": "https://maps.gov.bc.ca/ess/hm/ccf/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TransLink lines and stations",
+      "url": "https://www.translink.ca/schedules-and-maps/skytrain",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "station travel-time table",
+      "url": "https://www.translink.ca/-/media/translink/documents/schedules-and-maps/skytrain/skytrain_station_travel_times.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "fares, zones and free child travel",
+      "url": "https://www.translink.ca/transit-fares/pricing-and-fare-zones",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC RTB: deposits and fees",
+      "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/starting-a-tenancy/deposits-fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC RTB: pets and tenancy",
+      "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/during-a-tenancy/pets-and-tenancy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC RTB: tenancy agreements",
+      "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/starting-a-tenancy/tenancy-agreements",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC RTB: 2026/2027 limits and notice",
+      "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/rent-rtb/rent-increases",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Residential Tenancy Act",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/02078_01",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC privacy commissioner: landlord and tenant guidance",
+      "url": "https://www.oipc.bc.ca/documents/guidance-documents/2202",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "WelcomeBC newcomer housing guide",
+      "url": "https://www.welcomebc.ca/start-your-life-in-b-c/living-in-bc/housing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Richmond RCMP: rental deposit scams",
+      "url": "https://rcmp.ca/en/bc/richmond/news/2025/08/richmond-rcmp-warns-public-about-rental-deposit-scams",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC: $10/day family FAQ",
+      "url": "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/10-a-day-childcarebc-centres/faq-families",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC: Child Care Fee Reduction Initiative family rates",
+      "url": "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/child-care-fee-reduction-initiative-provider-opt-in-status/information-for-families",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC: ACCB eligibility and calculation",
+      "url": "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/child-care-benefit/information-for-families/eligibility-estimate-funding",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "VSOCC: fees, priorities and BC-address rule",
+      "url": "https://vsocc.org/childcare-programs/waitlist-enrollment-fees/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Burnaby Neighbourhood House: age 3–5 fees",
+      "url": "https://burnabynh.ca/programs-and-services/child-care-programs/early-years-program-0-5-years-old/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC: kindergarten age and registration",
+      "url": "https://www2.gov.bc.ca/gov/content/education-training/k-12/support/full-day-kindergarten",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CRA: 2026 federal and BC rates",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/tax-rates-brackets/current-year.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CRA T4032-BC 2026: credits, CPP and EI inputs",
+      "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032bc-july/t4032bc-july-general-information.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BC: MSP waiting period and private insurance",
+      "url": "https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/how-to-enrol/coverage-wait-period",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "CRA: Canada Child Benefit eligibility",
+      "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/who-apply.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 4118 Dawson Street",
+      "url": "https://www.craigslist.org/view/d/burnaby-spacious-bedroom-bathroom-condo/hyYWyJP17nSfY7jJypErGr",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 6333 Silver Ave / “Silver Street”",
+      "url": "https://www.craigslist.org/view/d/burnaby-big-unit-bdrm-bath-at-metrotown/6kwiLxsR5eX4eJrXNBcaWE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 7312 Magnolia Terrace",
+      "url": "https://www.craigslist.org/view/d/burnaby-burnaby2-bed-near-edmonds-dec/jDh73Q3BEqA2JvHXSfJ4BV",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 1606–892 Carnarvon Street",
+      "url": "https://www.craigslist.org/view/d/new-westminster-southwest-2br-at-azure/1RszRwRCRhHce7TC3Ccpg8",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 1101 3rd Avenue",
+      "url": "https://www.craigslist.org/view/d/new-westminster-new-bed-bath-ground/wMqs9JVYt4x9ARBVeLkTkE",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 108–228 Nelsons Crescent",
+      "url": "https://www.craigslist.org/view/d/new-westminster-pet-friendly-rental/w5y5Np4mdDTQ8xxoQ4uX9B",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 5xx–567 Clarke Road",
+      "url": "https://www.craigslist.org/view/d/coquitlam-burquitlam-bed-bath-c/aizokXhzTRZqj3QwMRi9W6",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 626 Claremont Street, 24th floor",
+      "url": "https://www.craigslist.org/view/d/coquitlam-br-2ba-24th-floor-view-condo/3dvTC4dBC75uWxsyP8R7BP",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 2603–13573 98A Avenue",
+      "url": "https://www.craigslist.org/view/d/surrey-ave-surrey-bedroom-bath-condo/pS96Ff9i4vJDdXt3DVxdR5",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 13615 Fraser Highway, “3 F”",
+      "url": "https://www.craigslist.org/view/d/surrey-king-george-hub-two-bed-bath/4MGgKUXYKGBhf3TgJfXrLn",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 24xx East 28th",
+      "url": "https://www.craigslist.org/view/d/vancouver-near-metro-nanaimo-skytrain/fdZ6npBzcJiu3VHCb9Zuo3",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Craigslist advertisement — 3105–2968 Glen Drive",
+      "url": "https://www.craigslist.org/view/d/coquitlam-next-to-coquitlam-centre/ixcLREgM5HHyKc8uBqTBDj",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_net_salary_proxy": {
+      "value": 5210,
+      "display": "$5,210",
+      "label": "Rounded monthly take-home using a full-year 2026 tax proxy; not verified 2027 payroll",
+      "currency": "CAD",
+      "unit": "monthly_estimated_net_salary"
+    },
+    "monthly_baseline_before_childcare": {
+      "value": 4745,
+      "display": "$4,745",
+      "label": "Monthly no-car baseline at CAD 2800 rent, before paid care and bridge insurance",
+      "currency": "CAD",
+      "unit": "monthly_planning_cost"
+    },
+    "monthly_margin_before_childcare": {
+      "value": 465,
+      "display": "$465",
+      "label": "Monthly margin before paid care and bridge insurance at CAD 2800 rent",
+      "currency": "CAD",
+      "unit": "monthly_planning_surplus"
+    },
+    "monthly_childcare_deficit_magnitude": {
+      "value": 335,
+      "display": "$335",
+      "label": "Magnitude of monthly deficit when CAD 800 care is added at CAD 2800 rent; bridge insurance still extra",
+      "currency": "CAD",
+      "unit": "monthly_deficit_magnitude"
+    },
+    "landing_cash_low_estimate": {
+      "value": 11095,
+      "display": "$11,095",
+      "label": "Unrounded lower first-month landing estimate at CAD 2800 rent; excludes flights, pets and paid care",
+      "currency": "CAD",
+      "unit": "first_month_cash_estimate"
+    },
+    "landing_cash_high_estimate": {
+      "value": 13615,
+      "display": "$13,615",
+      "label": "Unrounded upper first-month landing estimate; longer stay and upfront insurance can cost more",
+      "currency": "CAD",
+      "unit": "first_month_cash_estimate"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Localization date 2026-11-06 is not a source refresh or publication date. Every source retains its recorded 2026-11-06 scenario/research timezone access date. Original requests were made 2026-11-05 UTC, also November 5 in Vancouver. Advertisement seen dates use the original research convention, not a Vancouver next-day inspection. No external re-research performed.",
+  "uncertainties": [
+    "2026 full-year BC tax model is a proxy only, not verified 2027 payroll. Spouse credits, RRSP, workplace pension/benefits, part-year newcomer and foreign-income effects are not resolved; child benefits are excluded.",
+    "All 12 ads are unauthenticated Craigslist advertisements, not representative market evidence or verified management inventory; no May 2027 home, landlord authority, family acceptance or vacancy confirmed. Sizes, utilities and station walks are advertiser claims.",
+    "Listing discrepancies retained: Silver Ave/Street, Magnolia December-special ordinary rent unknown, Carnarvon availability/Christmas copy, Nelsons first-12-month incentive and extra costs, Hub Two 802/809 sqft and now/December date, Nanaimo masked address and November/immediate wording. Not stated utilities never means included.",
+    "Exact workplace/shift and home locations are unknown. Rail minutes are dated station-table examples; door-to-door times and household prices are estimates, not actual route checks or future fares.",
+    "No May 2027 childcare vacancy, final fee or subsidy award confirmed. BNH CAD 579.76 already-net fee expires April 2027; VSOCC BC-address and funding restrictions apply. CCFRI is not a final parent fee; no double deduction. CAD 800–1200 fallback is not a guaranteed ceiling; ACCB and CCB counted at zero.",
+    "Child birthday and district determine kindergarten timing; school hours do not cover all work, commute and holiday gaps. Both parents circumstances matter for ACCB.",
+    "Covered-tenancy scope must be checked; owner-shared kitchen/bath and temporary stays differ. 2027 cap 2.2% is not a new-asking-rent cap or a verified 2028 cap. Earliest ordinary increase for May 1, 2027 first rent is May 1, 2028.",
+    "MSP May-to-August coverage timing is conditional on Health Insurance BC decision, not approval. Private family insurance CAD 300–700 monthly is a placeholder with possible exclusions/upfront premiums; it is extra to monthly baseline and only first month enters landing pot.",
+    "Landing estimate CAD 11095–13615 includes overlapping temporary stay and first rent but excludes flights/shipping, pets and paid care. Approximate 11100–13600 wording is not a cash ceiling; exact upper sum remains visible. Separate CAD 9490 emergency runway is not the same cash as money already spent landing.",
+    "No external lookup, landlord/provider contact, applications, accounts, booking, payment, publication, website-repository edit, original artifact modification or shared inventory/build/check modification was performed. English-only; bilingual multiplicity/table-cell parity is not applicable."
+  ],
+  "editingContract": "Assigned English Markdown, schemaVersion 2 JSON and batch18-vancouver-author-review.md only. Keep complete 12-ad and six-corridor tables, meaningful monthly/care/tax/landing/timeline details and adjacent warnings. All headline display strings appear verbatim. Parent owns inventory, build and whole-package checks. No public attachment promises or new Review markup.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

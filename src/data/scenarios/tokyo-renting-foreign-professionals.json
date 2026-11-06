@@ -1,0 +1,150 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Foreign professionals planning a Tokyo work-visa move without a Japanese personal guarantor.",
+  "schemaVersion": 2,
+  "slug": "tokyo-renting-foreign-professionals",
+  "translationKey": "tokyo-renting-foreign-professionals",
+  "sources": [
+    {
+      "title": "Kitazawa 1-chome, 4F",
+      "url": "https://www.chintaistyle.jp/result/detail_213153295670.html",
+      "accessDate": "2026-11-04"
+    },
+    {
+      "title": "Etoile Sangenjaya 101",
+      "url": "https://www.chintaistyle.jp/result/detail_213152632509.html",
+      "accessDate": "2026-11-04"
+    },
+    {
+      "title": "Fine Crest Shibuya Shinsen, 3F",
+      "url": "https://suumo.jp/chintai/bc_100534835902/",
+      "accessDate": "2026-11-04"
+    },
+    {
+      "title": "Blue Rock Aobadai 401",
+      "url": "https://suumo.jp/chintai/bc_100521469750/",
+      "accessDate": "2026-11-04"
+    },
+    {
+      "title": "Mitsui’s contract FAQ",
+      "url": "https://www.mitsui-chintai.co.jp/english/howto/faq/contract.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Magnolia Garden Ebisu, 8F",
+      "url": "https://chintai-ex.jp/dwelling/show/z_2_58caa24a3542655d83d624bf6c6d1ff4",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Park Habio Ebisu 706",
+      "url": "https://chintai-ex.jp/dwelling/show/z_2_4d5d074a0a3f11d16cacf4e4dd463030",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Ryowa Palace Yoyogi Park, 1F",
+      "url": "https://chintai-ex.jp/dwelling/show/z_2_4917045f67d953044e8b44751641474b",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Winbel Duet Ebisu 2, 1F",
+      "url": "https://chintai-ex.jp/dwelling/show/z_2_d2521136eede975f90c17811b2ed9a09",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ABLE International",
+      "url": "https://www.able.co.jp/international/en.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "GTN’s agency FAQ",
+      "url": "https://www.gtn.co.jp/business/realestate/rent-guarantor/agency_faq",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Mitsui",
+      "url": "https://www.mitsui-chintai.co.jp/english/howto/faq/application.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Lease terminology",
+      "url": "https://www.mitsui-chintai.co.jp/english/howto/faq/realestate.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "“Initial moving cost, is it really that expensive?”",
+      "url": "https://www.reddit.com/r/Tokyo/comments/1bma07b/initial_moving_cost_is_it_really_that_expensive/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "“Help — Tokyo apartment emergency contact”",
+      "url": "https://www.reddit.com/r/Tokyo/comments/irb9gb/help_tokyo_apartment_emergency_contact/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Official rules",
+      "url": "https://www.reddit.com/r/movingtojapan/about/rules/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official community rules sidebar",
+      "url": "https://www.reddit.com/r/Tokyo/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Official rules, Section IX",
+      "url": "https://jref.com/help/rules/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "kitazawa_monthly_housing_with_reserves": {
+      "label": "Kitazawa monthly housing with reserves",
+      "value": 153833,
+      "currency": "JPY",
+      "unit": "per_month",
+      "display": "¥153,833"
+    },
+    "kitazawa_arrival_cash": {
+      "label": "Kitazawa arrival cash",
+      "value": 971400,
+      "currency": "JPY",
+      "unit": "arrival_cash",
+      "display": "¥971,400"
+    },
+    "blue_rock_arrival_cash": {
+      "label": "Blue rock arrival cash",
+      "value": 740420,
+      "currency": "JPY",
+      "unit": "arrival_cash",
+      "display": "¥740,420"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-04"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "f7594b0c5f9c51bf6c839342c1b7bd06ef4e92215f7d9d314fa32061f00bfe46",
+    "originalAuditSha256": "111672002224543fdeab4c5c21ce58592033e182400624b6f54b545b67b74c28"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-04"
+  ],
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

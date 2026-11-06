@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "5a2ebbc2553b640343560e0dafa7faa49a6a20098bcaf6198100ca116ef4ed53",
+  "sourceListLink": "../w5-cdmx-month/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "fc5f7d7c07a429e2dda5166dd7dbb90261334c81928eda0128f1b33ebcf78f7e",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

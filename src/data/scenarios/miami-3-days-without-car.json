@@ -1,0 +1,188 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Three friends in their late twenties planning a South Beach-based Miami trip without a rental car.",
+  "schemaVersion": 2,
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "slug": "miami-3-days-without-car",
+  "translationKey": "miami-3-days-without-car",
+  "sources": [
+    {
+      "title": "Wynwood Walls admission",
+      "url": "https://thewynwoodwalls.com/admissions",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "hours page",
+      "url": "https://thewynwoodwalls.com/info",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "La Sandwicherie South Beach",
+      "url": "https://lasandwicherie.com/south-beach/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Old’s Havana",
+      "url": "https://www.oldshavana.com/menu",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Ball & Chain",
+      "url": "https://ballandchainmiami.com/contact/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Wolfsonian rain substitute",
+      "url": "https://wolfsonian.org/visit/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "City standing service",
+      "url": "https://www.miamibeachfl.gov/city-hall/transportation/trolley/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Metrorail",
+      "url": "https://www.miamidade.gov/global/transportation/metrorail.page",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Metromover",
+      "url": "https://www.miamidade.gov/global/transportation/metromover.page",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "county’s October 6, 2026 announcement",
+      "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1791321030577194",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "detailed county Route 150 timetable",
+      "url": "https://www.miamidade.gov/resources/transportation_publicworks/documents/bbn/bus-schedules/150.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "airport overview",
+      "url": "https://www.miami-airport.com/public-transportation.asp",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official fare policy",
+      "url": "https://brightlinesupport.zendesk.com/hc/en-us/articles/16745335089947-Understanding-ticket-prices",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Big Bus to Sawgrass Recreation Park",
+      "url": "https://www.bigbustours.com/en/miami/big-bus-everglades-experience-ticket",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Green Loop timetable",
+      "url": "https://www.bigbustours.com/en/miami/green-route-miami",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "NPS lists authorized in-park airboat operators",
+      "url": "https://www.nps.gov/ever/planyourvisit/guidedtours.htm",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "park alert",
+      "url": "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "fee page",
+      "url": "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/hours-fees",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "amenities guidance",
+      "url": "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/experiences-amenities",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official Boat Show announcement",
+      "url": "https://www.miamiboatshow.com/press/tickets-on-sale-for-the-2027-discover-boating-miami-international-boat-show/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "OPM",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/#url=2027",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Coconut Grove's info page",
+      "url": "https://cgaf.com/info/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "SOBEWFF",
+      "url": "https://sobewff.org/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "city conditions page",
+      "url": "https://www.miamibeachfl.gov/city-hall/fire/ocean-rescue/currentbeachconditions/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "real three-day solo-traveler question",
+      "url": "https://www.reddit.com/r/usatravel/comments/1k6thdc/do_i_need_a_car_for_miami_beach/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "real visitor discussion",
+      "url": "https://www.reddit.com/r/AskFlorida/comments/1kl5g1a/can_i_visit_miami_without_a_car/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "three_day_budget_per_person": {
+      "label": "Three day budget per person",
+      "value": 409,
+      "currency": "USD",
+      "unit": "three_days_per_person",
+      "display": "$409"
+    },
+    "three_friends_trip_budget": {
+      "label": "Three friends trip budget",
+      "value": 1227,
+      "currency": "USD",
+      "unit": "three_days_for_three",
+      "display": "$1,227"
+    },
+    "trip_budget_without_excursion": {
+      "label": "Trip budget without excursion",
+      "value": 329,
+      "currency": "USD",
+      "unit": "three_days_per_person",
+      "display": "$329"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "2d0dcbe14f65b6dd76167c106543b2e033e7d70dd2ab36f6a15471b6c3e004d1",
+    "originalAuditSha256": "4429ae6cc74819f9c92fcc05b265191abb07e9218c4d03eea073a38b06c1ddb9"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

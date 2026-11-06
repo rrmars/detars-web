@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "slug": "kuala-lumpur-family-living-budget",
+  "translationKey": "kuala-lumpur-family-living-budget",
+  "sources": [
+    {
+      "title": "S1 — Taylor's International School Kuala Lumpur / Puchong",
+      "url": "https://www.tis.edu.my/admissions/school-fees/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S1 — Taylor's International School Kuala Lumpur / Puchong",
+      "url": "https://www.tis.edu.my/wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S2 — Sri KDU International School Subang Jaya",
+      "url": "https://srikdu.edu.my/subang-jaya/fee-structure/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S3 — HELP International School, Subang Bestari",
+      "url": "https://his.edu.my/admission-fee/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S3 — HELP International School, Subang Bestari",
+      "url": "https://his.edu.my/other-fees/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S4 — IGB International School, Sierramas",
+      "url": "https://igbis.edu.my/admissions/fee/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S5 — placement guidance",
+      "url": "https://igbis.edu.my/admissions/age-grade-placement/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S5 — placement guidance",
+      "url": "https://igbis.edu.my/wp-content/uploads/2026/09/grade-placement-2627.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S6 — Royal Malaysian Customs, education SST FAQ",
+      "url": "https://mysst.customs.gov.my/faq-expansion-of-service-tax-scope-2025/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S7 — HELP academic-year FAQ",
+      "url": "https://his.edu.my/faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "V1 — MDEC current DE Rantau FAQ, version 11",
+      "url": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_Version-11_%2029102026.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "V2 — old MDEC comparator, not current eligibility basis",
+      "url": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "V3 — MOTAC MM2H Silver",
+      "url": "https://www.mm2h.gov.my/category/silver",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A1 — commercial orientation, not primary pricing evidence",
+      "url": "https://property-laboratory.com/areas",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A2 — Desa ParkCity developer",
+      "url": "https://www.desaparkcity.com/aboutdpc.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L1 — TNB",
+      "url": "https://www.mytnb.com.my/tariff/index.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L2 — Air Selangor",
+      "url": "https://www.airselangor.com/support/topic/details/63cce538-b049-4966-94b9-5d10c285becc?lang=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L3 — Unifi",
+      "url": "https://unifi.com.my/broadband",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L4–L6 — Jaya Grocer, Cyberjaya branch",
+      "url": "https://jgcj.jayagrocer.com/products/farm-fresh-pure-fresh-milk-2l-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L4–L6 — Jaya Grocer, Cyberjaya branch",
+      "url": "https://jgcj.jayagrocer.com/products/ql-deli-fresh-eggs-grade-a-15pieces-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L4–L6 — Jaya Grocer, Cyberjaya branch",
+      "url": "https://jgcj.jayagrocer.com/products/massimo-wheat-germ-sandwich-loaf-bread-600g-1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L7 — Maideasy",
+      "url": "https://www.maideasy.my/en/pricing/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L8 — Allianz MediCure",
+      "url": "https://www.allianz.com.my/personal/life-health-and-savings/medical-and-hospitalisation/allianz-medicure.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L8 — Allianz MediCure",
+      "url": "https://www.allianz.com.my/content/dam/onemarketing/azmb/wwwallianzcommy/product-document/AMC_Brochure_ENG.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T1 — Grab Malaysia",
+      "url": "https://www.grab.com/my/transport/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T2 — AKB Rent A Car",
+      "url": "https://www.akbrentacar.com.my/rates.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T3–T4 — Rapid KL / Prasarana",
+      "url": "https://myrapid.com.my/our-products/my50/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T3–T4 — Rapid KL / Prasarana",
+      "url": "https://myrapid.com.my/our-products/rapidbulananpass/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental MK1 — Kiara Kasih, Mont Kiara",
+      "url": "https://listin.my/property/kiara-kasih-condomont-kiara-60",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental R1 — i-Zen Kiara 2, Mont Kiara",
+      "url": "https://www.mudah.my/i-zen-kiara-2-condo-mont-kiara-kl-2-carparks-115923679.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental R9 — Mont Kiara Astana, Mont Kiara",
+      "url": "https://www.mudah.my/astana-fully-furnished-low-floor-walk-to-mont-kiara-school-ready-in-116027201.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental BA1 — Contessa, Bangsar",
+      "url": "https://www.mudah.my/contessa-condominium-bangsar-fully-furnished-for-rent-115991727.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental BA2 — Residensi 38 Bangsar, Bangsar",
+      "url": "https://www.mudah.my/for-rent-residensi-38-bangsar-fully-furnished-vacant-now-116214525.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental DP1 — Sofiya Residensi, Desa ParkCity",
+      "url": "https://listin.my/property/desa-parkcity-sofiya-for-rent",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental R6 — South Brooks, Desa ParkCity",
+      "url": "https://www.mudah.my/southbrooks-fully-furnished-corner-unit-for-rent-115816140.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental CY1 — Cyberia Crescent 2, Cyberjaya",
+      "url": "https://rummah.my/listings/january-2027-intake-fully-furnished-3-bedrooms-condo-cyberia-24babe9d-8bc9-41f8-86ba-a9728c730317",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental CY2 — Gardenview Residence, Cyberjaya",
+      "url": "https://rummah.my/listings/gardenview-residence-cyberjaya-b63862be-45fe-436b-b98d-7a5031b7e8db",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental PJ1 — Lumi Tropicana, Tropicana, Petaling Jaya",
+      "url": "https://listin.my/property/lumi-tropicana-tropicana-for-rent-partially-furnished-rm3500",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental PJ2 — Plaza Kelana Jaya Residences, Kelana Jaya, Petaling Jaya",
+      "url": "https://listin.my/property/plaza-kelana-jaya-residences-fully-furnished-3-rooms-unit-for-rent",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Rental R7 — Pacific Star, Petaling Jaya",
+      "url": "https://www.mudah.my/fully-furnished-pacific-star-3-bedrooms-2-bathrooms-116225764.htm",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "lean_monthly_allocation": {
+      "label": "Lean Taylor Y3 + Y6 household allocation including contingency, not an available package",
+      "value": 17690,
+      "unit": "per_month_planning_allocation",
+      "currency": "MYR",
+      "display": "MYR 17,690"
+    },
+    "monthly_spending_ceiling": {
+      "label": "Assumed spendable household ceiling after tax and payroll obligations",
+      "value": 18000,
+      "unit": "per_month_ceiling",
+      "currency": "MYR",
+      "display": "MYR 18,000"
+    },
+    "unallocated_monthly_margin": {
+      "label": "Unallocated margin above contingency in lean plan",
+      "value": 310,
+      "unit": "per_month_margin",
+      "currency": "MYR",
+      "display": "MYR 310"
+    },
+    "progression_monthly_allocation": {
+      "label": "Conditional Y4 + Y7 progression at frozen 2027 rates, not a 2028 fee quote",
+      "value": 18385,
+      "unit": "per_month_stress_test",
+      "currency": "MYR",
+      "display": "MYR 18,385"
+    },
+    "arrival_commitment_subtotal": {
+      "label": "Identifiable upfront commitments only, excluding unresolved relocation and liquidity needs",
+      "value": 82260,
+      "unit": "upfront_commitments",
+      "currency": "MYR",
+      "display": "MYR 82,260"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All URL entries retain the register's explicit 2026-11-06 UTC+8 access date; some underlying receipts are 2026-11-05 UTC. Localization on 2026-11-06 is not an external research, legal, price or availability refresh. Document effective dates, schedule years and advertisement labels are distinct from access dates.",
+  "uncertainties": [
+    "Hong Kong family: Traditional Chinese would serve this audience better, but Simplified Chinese is the only Chinese locale in the package; zh is therefore Simplified Chinese, not a Traditional Chinese adaptation.",
+    "Not immigration, tax or legal advice. Actual passports, roles, individual incomes, employer registration, tax/payroll obligations, health cover and approvals remain unverified; two working adults need separate work-authorisation assessment.",
+    "MDEC v11 Student Pass wording conflicts with Taylor's annual Permission to Study stamp wording. Applicable child study route, charges, endorsement/bond treatment and timing require reconciliation before commitment.",
+    "School places, DOB-dependent placement, English/learning support and future invoices unconfirmed. Taylor 2027 is calendar-year pricing; other schools latest located 2026/27, not 2027/28. HELP technology and deposit amounts unknown; school-specific SST treatment and discounts need actual invoices.",
+    "Lean rent 3000 and short school rides at 15 per leg are targets not verified as a combined available package. Progression model 18385 uses frozen 2027 Y4/Y7 rates conditionally, not published 2028 fees; deposit top-up 2780.",
+    "Twelve advertisements are selective asking-rent samples seen 2026-11-06, not authenticated current or August 2027 vacancies, market medians or tenancy-eligibility confirmations. Relative posting labels and omitted years preserved. Source register additionally records South Brooks index confirmation as 2026-09-18; reader table preserves direct-ad year omission.",
+    "All non-tuition household budgets, insurance, transport fares and car capital are estimates. No live route fare, underwriting, exact-unit utility bill, network backup or continuous car-rental all-in terms confirmed. Insurance is local hospital cover with waiting periods, not global protection or pass-compliance assurance.",
+    "82260 is an upfront-commitment subtotal, not sufficient arrival cash. The conditional 97355–98555 illustration still excludes unresolved child charges, temporary stay, flights/shipping, emergency liquidity and car capital. Prepayments of tuition/insurance must not be counted twice.",
+    "No contacts, applications, bookings, payments or external refresh were performed for localization; original source register documents public-page evidence, not individual approvals."
+  ],
+  "editingContract": "Complete reader-first English and Simplified Chinese with numeric/date/currency/external URL multiplicities and corresponding table-cell parity. Local draft only; no ratings or Review markup; no unhosted attachment promises or reader-body local pointers.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Hong Kong family with two working parents and two children planning an August 2027 Kuala Lumpur move. Traditional Chinese would fit better, but Simplified Chinese is the package's only Chinese locale.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

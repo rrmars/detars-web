@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "slug": "toronto-cost-of-living-newcomer-couple",
+  "translationKey": "toronto-cost-of-living-newcomer-couple",
+  "sources": [
+    {
+      "title": "Toronto Hydro's rates",
+      "url": "https://www.torontohydro.com/for-home/rates",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Public Mobile page",
+      "url": "https://publicmobile.ca/en/plans",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Square One",
+      "url": "https://www.squareone.ca/tenant/ontario/toronto",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Beanfield",
+      "url": "https://www.beanfield.com/en/tor/residential/internet/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CRA tax guidance",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Ontario health-premium guidance",
+      "url": "https://www.ontario.ca/page/health-premium",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CRA's pension-limits table",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ESDC's September 14, 2026 announcement",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/09/canada-employment-insurance-commission-confirms-2027-employment-insurance-premium-rate.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "July 2026 T4127",
+      "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4127-payroll-deductions-formulas/t4127-jul/t4127-jul-payroll-deductions-formulas.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CRA's 2026 Ontario tables",
+      "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032on-jan/t4032on-january-general-information.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "January T4127",
+      "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4127-payroll-deductions-formulas/t4127-jan/t4127-jan-payroll-deductions-formulas-computer-programs.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "newcomer-return guidance",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants/completing-return-newcomers.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Fleetwood, 64 St Clair Ave W",
+      "url": "https://www.sterlingkaramar.com/apartments-for-rent/the-fleetwood",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Davisville Village, 111 Davisville Ave",
+      "url": "https://www.rpmsi.ca/property/davisville-village-apartments-111-davisville/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "798 Ossington Ave #1, main floor",
+      "url": "https://rentals.ca/toronto/798-ossington-avenue-2",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "1225 Bloor St W #8",
+      "url": "https://www.zillow.com/homedetails/1225-Bloor-St-W-8-Toronto-ON-M6H-1N6/465889103_zpid/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "1111 Broadview Ave",
+      "url": "https://www.enderbymanagement.com/properties/1111-broadview",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "45 Gamble Ave",
+      "url": "https://www.enderbymanagement.com/apartments/45-gamble",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Lower–102 Donlands Ave",
+      "url": "https://www.rew.ca/rentals/7473359/lower-102-donlands-avenue-toronto-on",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "LTB guide",
+      "url": "https://tribunalsontario.ca/documents/ltb/Brochures/Guide%20to%20RTA%20(English).html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "standard-lease guide",
+      "url": "https://www.ontario.ca/page/guide-ontarios-standard-lease",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "O. Reg. 516/06 section 17",
+      "url": "https://www.ontario.ca/laws/regulation/060516#BK21",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Ontario rent-increase guidance",
+      "url": "https://www.ontario.ca/page/residential-rent-increases",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "registration guidance",
+      "url": "https://www.ontario.ca/document/resources-for-physicians/registration-ontario-health-insurance-coverage",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "application page",
+      "url": "https://www.ontario.ca/page/apply-ohip-and-get-health-card",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "document list",
+      "url": "https://www.ontario.ca/page/documents-needed-get-health-card",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "OHIP coverage guidance",
+      "url": "https://www.ontario.ca/page/what-ohip-covers",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "TTC fare page",
+      "url": "https://www.ttc.ca/Fares-and-passes",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "capping rules",
+      "url": "https://www.ttc.ca/riding-the-ttc/Updates/TTC-monthly-fare-capping",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "May 2026 announcement",
+      "url": "https://www.ttc.ca/news/2026/May/Fare-capping-coming-to-the-TTC-in-September",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "base_couple_monthly_spending": {
+      "label": "Base couple monthly spending",
+      "value": 4258.4,
+      "currency": "CAD",
+      "unit": "per_household_month",
+      "display": "$4,258.40"
+    },
+    "base_single_salary_monthly_surplus": {
+      "label": "Base single salary monthly surplus",
+      "value": 942.33,
+      "currency": "CAD",
+      "unit": "per_household_month",
+      "display": "$942.33"
+    },
+    "starting_cash_with_three_month_reserve": {
+      "label": "Starting cash with three month reserve",
+      "value": 23575.2,
+      "currency": "CAD",
+      "unit": "starting_cash_including_three_month_reserve",
+      "display": "$23,575.20"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "281e5db3756831a06aa5d53caba4a8c46bc14e443986e6dc4bc56f2f14c02f43",
+    "originalAuditSha256": "b7f88b05821da8f7ad865569dec1efd1616800d595c6cbb1d92ce8695ce2aefe"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Couple moving from India to Toronto on one salary while the wife initially looks for work.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

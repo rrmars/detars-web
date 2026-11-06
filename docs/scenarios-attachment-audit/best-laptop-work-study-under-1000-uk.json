@@ -1,0 +1,55 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "501e2b1da8128f5457d80c2f6491d93bc6f49e5a89c388307bdc7f71c89ae6d2",
+  "sourceListLink": "best-laptop-work-study-under-1000-uk-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/best-laptop-work-study-under-1000-uk/laptop-comparison.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f36f8196b6d86032582b54f6d23929b4e314d50022c8f1065c8076d92e940ca1",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "best-laptop-work-study-under-1000-uk-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-laptop-uk/laptop-comparison.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/best-laptop-work-study-under-1000-uk/laptop-comparison.xlsx"
+        },
+        {
+          "target": "../w3-laptop-uk/laptop-comparison.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "18f62a445eff01e8ec1545c575b5f0f622bc6c36d6d217f6dfce785fba744913",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "best-laptop-work-study-under-1000-uk-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w3-laptop-uk/laptop-comparison.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/best-laptop-work-study-under-1000-uk/laptop-comparison.xlsx"
+        },
+        {
+          "target": "../w3-laptop-uk/laptop-comparison.html",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

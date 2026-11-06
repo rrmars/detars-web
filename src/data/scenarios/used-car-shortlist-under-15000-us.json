@@ -1,0 +1,130 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Cash buyers in Phoenix, Arizona comparing used cars within an acquisition budget and keeping money for running costs.",
+  "schemaVersion": 2,
+  "slug": "used-car-shortlist-under-15000-us",
+  "translationKey": "used-car-shortlist-under-15000-us",
+  "sources": [
+    {
+      "title": "Phoenix tax chart",
+      "url": "https://www.phoenix.gov/content/dam/phoenix/financesite/documents/privilege-use-tax/Combined-Tax-Rate-Chart-0126.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "state fee statute",
+      "url": "https://www.azleg.gov/ars/28/02003.htm",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "air-quality fee statute",
+      "url": "https://www.azleg.gov/ars/49/00551.htm",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "emissions schedule",
+      "url": "https://myazcar.com/testing-info-and-fees",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "VLT statute",
+      "url": "https://www.azleg.gov/ars/28/05801.htm",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AAA",
+      "url": "https://gasprices.aaa.com/?state=AZ",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2016 Mazda3 i Sport sedan",
+      "url": "https://www.carzing.com/car/az/apache-junction/2016-mazda-mazda3-isport/705a0e0b-6044-4e90-c25a-08df34b16f49",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2016 Corolla LE CVT",
+      "url": "https://www.cars.com/vehicledetail/e8e27900-5adb-45a6-b63e-79d07abb4672/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2013 Fit Base automatic",
+      "url": "https://www.carzing.com/car/az/el-mirage/2013-honda-fit-base/9ec1edc9-9a1e-4139-9d9b-08df2bd88b8b",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2013 CR-V EX-L 2WD automatic",
+      "url": "https://www.carzing.com/car/az/phoenix/2013-honda-crv-exl/f1469575-5100-4b1a-bd18-08de91544d16",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "17V-393",
+      "url": "https://static.nhtsa.gov/odi/rcl/2017/RCLRPT-17V393-7065.PDF",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "23V-487 camera letter",
+      "url": "https://static.nhtsa.gov/odi/rcl/2023/RCONL-23V487-4657.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Toyota JSD",
+      "url": "https://static.nhtsa.gov/odi/tsbs/2018/MC-10197440-9999.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Honda bulletin 15-086 reproduced by OEMDTC",
+      "url": "https://oemdtc.com/tsb/10099348/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "FTC dealer guide",
+      "url": "https://consumer.ftc.gov/articles/buying-used-car-dealer",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "acquisition_budget_ceiling": {
+      "label": "Acquisition budget ceiling",
+      "value": 15000,
+      "unit": "acquisition_budget",
+      "currency": "USD",
+      "display": "$15,000"
+    },
+    "corolla_acquisition_total": {
+      "label": "Illustrative Corolla acquisition including inspection and history",
+      "value": 13987.15,
+      "unit": "acquisition_cash",
+      "currency": "USD",
+      "display": "$13,987.15"
+    },
+    "mazda_first_year_cash": {
+      "label": "Illustrative Mazda3 first-year cash including acquisition",
+      "value": 18164.25,
+      "unit": "first_year_cash",
+      "currency": "USD",
+      "display": "$18,164.25"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Access dates are explicit original-run records, not inferred from folder names or new localization-stage fetches.",
+  "editingContract": "Complete readable literals in aligned language lines and table cells; semantic figures are not text substitutions.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

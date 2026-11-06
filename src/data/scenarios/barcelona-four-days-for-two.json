@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 2,
+  "slug": "barcelona-four-days-for-two",
+  "translationKey": "barcelona-four-days-for-two",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Chicago-based couple of two ordinary U.S.-passport tourists planning May 6–10, 2027 in Barcelona, with four nights and a EUR 1,800 ground budget excluding flights; English-only because no distinct Chinese-reader audience is established.",
+  "sources": [
+    {
+      "title": "Sagrada Família basic admission",
+      "url": "https://sagradafamilia.org/en/web/guest/sagrada-familia-ticket",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Sagrada Família FAQ, booking and entry rules",
+      "url": "https://sagradafamilia.org/en/faqs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Park Güell prices and times",
+      "url": "https://parkguell.barcelona/en/planning-your-visit/prices-and-times",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Park Güell FAQ and escalator caveat",
+      "url": "https://parkguell.barcelona/en/planning-your-visit/faqs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Park Güell access guidance",
+      "url": "https://parkguell.barcelona/en/planning-your-visit/how-to-get-there",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "La Pedrera Essential",
+      "url": "https://www.lapedrera.com/en/tickets/la-pedrera-essential/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Center Gran Via rooms and undated starting rates",
+      "url": "https://centergranvia.com/en/habitaciones/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Center Gran Via location",
+      "url": "https://centergranvia.com/en/como-llegar/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "BCN Urbaness Hotels del Comte official site",
+      "url": "https://www.bcnurbanessdelcomte.com/en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Del Comte date-specific engine observation; automatic member benefit and failed repeat",
+      "url": "https://www.bcnurbanessdelcomte.com/en/bookingstep1/?idtokenprovider=10877126&checkin=06%2F05%2F2027&nights=4&parties=W3siYWR1bHRzIjoyLCJjaGlsZHJlbiI6W119XQ%3D%3D&currency=EUR&clientCode=",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ATC regional rates and dated Barcelona surcharge",
+      "url": "https://atc.gencat.cat/ca/tributs/ieet/quota-tributaria/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Enacted Law 2/2026, article 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6642",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Barcelona fiscal ordinance 2.2",
+      "url": "https://ajuntament.barcelona.cat/hisenda/sites/default/files/normativa/2026-02/2.2-ordenanca-recarrec-turistic.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ATC English VAT-base and seven-night information; April 2026 Barcelona table",
+      "url": "https://atc.gencat.cat/web/.content/atc_tributs/ieet/documents/IEET-info-rates-en.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Spanish Tax Agency 10% hotel VAT category; original official search-result support",
+      "url": "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-iva-2025/capitulo-04-sujetos-pasivos-repercusion-impositivo/tipo-impositivo/tipo-impositivo-reducido-10-ciento.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TMB 2026 fares effective January 15, 2026",
+      "url": "https://static-web.tmb.cat/es/tarifas-metro-bus-barcelona/precios-titulos-transporte",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TMB T-casual conditions",
+      "url": "https://www.tmb.cat/en/barcelona-fares-metro-bus/t-casual",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TMB anonymous cardboard support",
+      "url": "https://www.tmb.cat/en/fares-metro-bus-barcelona/t-mobilitat/how-it-works/choose-support",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "TMB Hola Barcelona coverage and validity",
+      "url": "https://www.tmb.cat/en/barcelona-fares-metro-bus/tickets-visit-barcelona/barcelona-travel-card-hola-bcn",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hola operator product and voucher rules; standalone price unverified",
+      "url": "https://www.holabarcelona.com/tickets/hola-bcn-barcelona-travel-card",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aerobús fares and 96h Hola plus return bundle",
+      "url": "https://aerobusbarcelona.es/en/rates/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aerobús routes, stops and hours",
+      "url": "https://aerobusbarcelona.es/en/lines-stops-and-schedules/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Aena official taxi ranks at BCN",
+      "url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat/getting-there/taxi.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Taller de Tapas Rambla Catalunya",
+      "url": "https://tallerdetapas.com/rambla-catalunya/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Taller official-linked menu and terrace supplement",
+      "url": "https://panel.refoodlution.com/preview/612",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Windsor November El Compartit menu, not May quotation",
+      "url": "https://www.restaurantwindsor.com/menus/ElCompartit_CAST.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Windsor address and opening hours",
+      "url": "https://restaurantwindsor.com/contact/?lang=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "EU visa-exempt list, Regulation 2018/1806 Annex II",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32018R1806",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Spain consular entry conditions; financial figures inspected were for 2026",
+      "url": "https://www.exteriores.gob.es/Consulados/nuevayork/en/ServiciosConsulares/Paginas/Consular/Condiciones-de-entrada-en-Espana.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "European Commission April 10, 2026 EES operational notice",
+      "url": "https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official EU ETIAS FAQ status and fee; May 2027 applicability unconfirmed",
+      "url": "https://travel-europe.europa.eu/etias/faq#when-does-etias-enter-into-force",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "two_person_ground_budget": {
+      "label": "Planning envelope for two adults and four nights; flights excluded, not a secured quote",
+      "value": 1800,
+      "unit": "two_person_trip_budget_excluding_flights",
+      "currency": "EUR",
+      "display": "€1,800"
+    },
+    "four_night_room_allowance": {
+      "label": "Unquoted four-night room allowance before tourist tax; no unconditional May offer verified",
+      "value": 900,
+      "unit": "unquoted_room_allowance",
+      "currency": "EUR",
+      "display": "€900"
+    },
+    "eb3_tax_for_stay": {
+      "label": "Calculated dated EB3 tourist tax including VAT, two adults and four nights; advance-payment exception and amendments possible",
+      "value": 70.4,
+      "unit": "calculated_stay_tax",
+      "currency": "EUR",
+      "display": "€70.40"
+    },
+    "chosen_transport_for_two": {
+      "label": "Two sampled T-casual tickets/supports plus two Aerobús returns; not 2027 fares",
+      "value": 54.6,
+      "unit": "dated_two_person_transport_cost",
+      "currency": "EUR",
+      "display": "€54.60"
+    },
+    "planned_spend_before_reserve": {
+      "label": "Sum of dated samples and estimates before contingency",
+      "value": 1661,
+      "unit": "estimated_trip_spend_before_reserve",
+      "currency": "EUR",
+      "display": "€1,661"
+    },
+    "trip_contingency": {
+      "label": "Reserve including up to EUR 40 ETIAS only if applicable; not additional meal budget",
+      "value": 139,
+      "unit": "estimated_contingency",
+      "currency": "EUR",
+      "display": "€139.00"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Every source retains the explicitly recorded November 6, 2026 Asia/Singapore access date (November 5, 2026 UTC). No source access date is inferred from copy editing. Prices, law/status snapshots and future availability were not externally refreshed; May 2027 ETIAS applicability and the standalone Hola fare remain unconfirmed. No publication date is invented.",
+  "uncertainties": [
+    "No unconditional May room at EUR 900 was verified. Center Gran Via rates are undated lead-ins. Del Comte EUR 917 automatically applied a 10% member benefit; a fresh-session repeat failed, fees were excluded and no account was created. EUR 1,199 is not a verified nonmember quote.",
+    "May 2027 ETIAS applicability is unconfirmed. Inspected FAQ said not operational/no applications; any launch transition and processing rules require later checking. EUR 20 per fee-paying applicant and up to EUR 40 for two are dated conditional reserve inputs, not fees due now. Entry rules, passport, prior Schengen stays and Spain's unverified 2027 funds threshold need traveller-specific confirmation.",
+    "Standalone 96h Hola fare did not display and remains unverified. EUR 44 is the sampled Hola plus Aerobús return bundle only. 2026 transport fares are not 2027 prices; current purchase-expiry rules do not support buying a November voucher for May.",
+    "Tax calculations preserve the enacted schedule inspected in November 2026, not a guarantee against later amendments. EB3/EB2 classification, VAT, itemised taxes and the accommodation-plus-tax advance-payment exception must be checked for the actual booking. VAT category support in the original ledger was an official search result, not a fresh full-page audit.",
+    "Attraction prices, preferred slots and booking windows are dated. La Pedrera is a starting price; non-refundable Park conditions, re-entry limits, Sagrada ID/security/dress and weather-dependent rooftop access remain consequential. Suggested lead times are recommendations, not measured May sellout statistics.",
+    "Hotel, food, taxi, all walking/ride/queue times and contingency are estimates or allocations. Windsor menu is November, not May; casual dinner estimates must fit the shared EUR 160 pot. No May forecast, live timetable, short border queue or guaranteed swim is implied.",
+    "Flights and optional paid upgrades are excluded. No booking, signup, payment, message/contact, fresh research, test/benchmark rerun or publication was performed for this page. Local HTML preview rendering and package checks are separate from the original scenario. Original public research used no imported user sign-ins; the del Comte rendering observation was explicitly not reproducible in the later isolated repeat.",
+    "English-only page preserves the Chicago/U.S.-passport profile; no bilingual-parity claim or Chinese locale is made. Original run model remains unknown. Local source-list and evidence locators are provenance for the builder, not public-download promises."
+  ],
+  "editingContract": "Local English-only Markdown, schemaVersion 2 JSON and generated HTML preview. Preserve meaningful itinerary, booking, cost, tax, entry, route, safety and source facts from all three original artifacts; dated sample pricing and adjacent consequential qualifications. All headline display strings appear verbatim in English. Use the shared build/check tools. No Review, stars, public attachment promises, source refresh, publication or website-repository changes.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

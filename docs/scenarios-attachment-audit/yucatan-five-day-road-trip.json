@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "fe052b8d8ac10f87e61755caafa06d6bc1435631ec02e02308093fca9d9f59f1",
+  "sourceListLink": "../w6-yucatan-5days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ba2fc26d3236e3ebcfa03628cac80cf0481bb5e7d3d7fa6af82cbb66b41eb790",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

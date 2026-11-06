@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "slug": "mexico-city-month-canadian-remote-worker",
+  "translationKey": "mexico-city-month-canadian-remote-worker",
+  "sources": [
+    {
+      "title": "StayWork's commercial area guide",
+      "url": "https://stayworkcdmx.com/blog/best-neighborhoods-mexico-city-remote-workers-2026/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Canada's Mexico advisory",
+      "url": "https://travel.gc.ca/destinations/mexico",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "1. Propmex 1BR plus separate office, Narvarte",
+      "url": "https://www.propmex.com.mx/en/rentals/furnished-apartment-in-narvarte-mexico-city",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2. Nomad Pads 3BR, Narvarte",
+      "url": "https://www.nomadpads.mx/medium-term-rentals-cdmx/narvarte-apartment-3br",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "3. Colima interior-facing 1BR, Roma Norte",
+      "url": "https://www.nomadpads.mx/medium-term-rentals-cdmx/spacious-one-bedroom-on-colima-in-prime-roma-norte",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "4. Divine apartment near WTC, Nápoles, 3BR/1BA",
+      "url": "https://www.nomadpads.mx/medium-term-rentals-cdmx/divino-departamento-cerca-wtc",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "5. Near WTC/PEPSICENTER, Nápoles, 2BR/1BA",
+      "url": "https://www.nomadpads.mx/medium-term-rentals-cdmx/lindo-departamento-muy-cerca-de-wtc-y-pepsicenter",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "6. Near Estadio Azul/WTC, Nápoles",
+      "url": "https://www.nomadpads.mx/medium-term-rentals-cdmx/private-3br-3ba-near-estadio-azul-wtc",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "7. Furnished apartment near Insurgentes, Juárez",
+      "url": "https://www.propmex.com.mx/en/rentals/furnished-apartment-in-mexico-city-5",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "8. 12th-floor 1BR with balcony, Juárez",
+      "url": "https://www.propmex.com.mx/en/rentals/1-bedroom-apartment-in-juarez-mexico-city-3",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "9. Yucatán 2BR/2BA, Roma Norte",
+      "url": "https://www.propmex.com.mx/en/rentals/2-bedroom-apartment-in-roma-norte-mexico-city-11",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "10. San Luis Potosí/Tonalá all-inclusive 2BR, Roma Norte",
+      "url": "https://www.nomadpads.mx/medium-term-rentals-cdmx/modern-furnished-2br-in-roma-norte-24-7-security-all-inclusive",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Time Act",
+      "url": "https://www.ontario.ca/laws/statute/90t09",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Mexico City clock-change calendar",
+      "url": "https://www.timeanddate.com/time/change/mexico/mexico-city?year=2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Uotan",
+      "url": "https://uotan.mx/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Spacioss",
+      "url": "https://spacioss.com.mx/co-working/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Published hours",
+      "url": "https://spacioss.com.mx/contacto/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Co-Madre",
+      "url": "https://co-madre.com/membresias/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "2027 holiday calendar",
+      "url": "https://www.timeanddate.com/holidays/mexico/2027",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Metro",
+      "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/using-the-metro/?lang=en",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Ordinary Metrobús",
+      "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/metrobus/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MI reusable card",
+      "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/mexico-city-metro-card/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "MEX airport",
+      "url": "https://mexicocity.cdmx.gob.mx/venues/aeropuerto-internacional-de-la-ciudad-de-mexico-aicm/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Canada's health advisory",
+      "url": "https://travel.gc.ca/destinations/mexico#health",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "altitude guidance",
+      "url": "https://travel.gc.ca/travelling/health-safety/altitude-illnesses",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Canada's food/water guidance",
+      "url": "https://travel.gc.ca/travelling/health-safety/food-water",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Canadian entry guidance",
+      "url": "https://travel.gc.ca/destinations/mexico#entryexit",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "non-remunerated visitor-category guidance",
+      "url": "https://www.gob.mx/sre/acciones-y-programas/visa-de-visitante-sin-permiso-para-realizar-actividades-remuneradas",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "INM's digital FMM explanation",
+      "url": "https://www.gob.mx/inm/articulos/forma-migratoria-multiple-digital-fmmd?idiom=as",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "official INM portal",
+      "url": "https://www.inm.gob.mx/spublic/portal/inmex.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Co-Madre Full monthly shop",
+      "url": "https://co-madre.com/producto/co-working-mensual/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Co-Madre Flex shop",
+      "url": "https://co-madre.com/producto/membresia-prime-plus/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Co-Madre day shop",
+      "url": "https://co-madre.com/producto/membresia-day-pass/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Co-Madre terms and no-refund wording",
+      "url": "https://co-madre.com/terminos-y-condiciones/",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_budget_mxn": {
+      "label": "Estimated monthly consumption budget excluding flights and refundable housing deposit",
+      "value": 50400,
+      "unit": "per_month",
+      "display": "MXN 50,400",
+      "currency": "MXN"
+    },
+    "monthly_budget_usd": {
+      "label": "USD equivalent at assumed MXN 18 per US dollar, not CAD or a live rate",
+      "value": 2800,
+      "unit": "per_month",
+      "display": "US$2,800",
+      "currency": "USD"
+    },
+    "housing_lead_monthly_rent": {
+      "label": "Published Narvarte lead rent with unconfirmed exact-date fees and one-month acceptance",
+      "value": 26000,
+      "unit": "per_month",
+      "display": "MXN 26,000",
+      "currency": "MXN"
+    },
+    "coworking_allowance": {
+      "label": "Estimated coworking budget, not every listed plan fits",
+      "value": 3000,
+      "unit": "per_month",
+      "display": "MXN 3,000",
+      "currency": "MXN"
+    },
+    "housing_fallback_upfront_cash": {
+      "label": "Nominal advertised Narvarte fallback rent plus fee plus refundable deposit, before other charges",
+      "value": 3269.7,
+      "unit": "upfront_housing_cash",
+      "display": "US$3,269.70",
+      "currency": "USD"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Source access dates are retained from the original November 5, 2026 register. This offline article adaptation did not revisit external sources; editing dates are not source refresh dates. Publication, effective and historical benchmark dates remain distinct from access dates.",
+  "uncertainties": [
+    "Future March 2027 trip: November 5, 2026 observations are not refreshed prices, availability, reservations or a forecast. MXN 18 = USD 1 is a planning assumption; no CAD conversion or live exchange rate is given.",
+    "Only Narvarte lead 1 advertises a window expressly covering March 2027; one-month acceptance and all-in costs remain unknown. Other units are comparators; yearless dates are not March evidence. One prefers six months, four omit size, one has layout conflicts and one has a price conflict.",
+    "Deposits are extra liquidity, not consumption; refund is not guaranteed. Utility caps, taxes, cleaning, fees, cancellation, lawful rental authority, exact addresses and tested internet remain incomplete. No property/landlord inspection or inquiry performed.",
+    "Co-Madre lower shop figures likely exclude IVA but this is inference, not checkout verification. Current hours, access, coworking cancellation/deposit obligations and seat availability need confirmation.",
+    "Official transport operator hosts were unavailable; successfully read government visitor pages support published fares, not live service status. Ride-hail ranges are estimates; surge and legal airport pickup locations can differ.",
+    "Canadian tourist visa exemption does not resolve remote employment authorization, admitted duration, personal tax residence, employer tax/payroll/security duties or insurance cover. Activity-specific professional/official confirmation is needed.",
+    "Preliminary official-research.md claims additional law/PDF reads; the final sources.md explicitly limits them as insufficient retained evidence or failed retries. This page follows the final limits, not the preliminary claims. Future time rules and holiday hours require rechecking.",
+    "Health guidance is general; actual health risks, safe property water, clinical needs and medical/evacuation insurance are not individually assessed."
+  ],
+  "editingContract": "English-only local draft adapted from finished-run materials. No Chinese file, new Review/stars, publication, website integration or shared package edits. No unhosted local artifacts linked in the reader body.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A Canadian passport holder working Toronto hours remotely for one month in Mexico City in March 2027, with a USD spending budget and separate deposit liquidity.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

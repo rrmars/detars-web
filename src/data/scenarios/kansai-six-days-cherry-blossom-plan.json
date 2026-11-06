@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 2,
+  "slug": "kansai-six-days-cherry-blossom-plan",
+  "translationKey": "kansai-six-days-cherry-blossom-plan",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two Singapore-passport adults travelling from Singapore for a food-first Kansai holiday, April 3–9, 2027, six nights and five full sightseeing days, with SGD3,200 excluding flights; English and Simplified Chinese help the same travellers and Chinese-speaking readers without transferring Singapore-passport eligibility.",
+  "sources": [
+    {
+      "title": "JMC's forecast page",
+      "url": "https://n-kishou.com/corp/news-contents/sakura/?lang=en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "JMA's historical full-bloom table",
+      "url": "https://www.data.jma.go.jp/sakura/data/sakura_mankai.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MLIT's Omuro description",
+      "url": "https://www.mlit.go.jp/tagengo-db/zhTW/R1-00358.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ninnaji",
+      "url": "https://ninnaji.jp/en/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kyoto's Maps & Tools",
+      "url": "https://kyoto.travel/en/maps-and-tools/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Osaka's bands",
+      "url": "https://www.pref.osaka.lg.jp/o070070/toshimiryoku/syukuhakuzei/index.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kyoto's bands",
+      "url": "https://kyoto.travel/en/news/tax-change/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Monterey Grasmere Osaka",
+      "url": "https://www.expedia.com/Osaka-Hotels-Hotel-Monterey-Grasmere-Osaka.h2492916.Hotel-Information?equalTargetTab=tab-0",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Swissôtel Nankai Osaka",
+      "url": "https://www.expedia.com/Osaka-Hotels-Swissotel-Nankai-Osaka.h4433.Hotel-Information",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Daiwa Roynet Hotel Kyoto Ekimae PREMIER",
+      "url": "https://www.expedia.com/Kyoto-Hotels-Daiwa-Roynet-Hotel-Kyoto-Ekimae.h15120209.Hotel-Information",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Granvia Kyoto",
+      "url": "https://www.expedia.com/Kyoto-Hotels-Hotel-Granvia-Kyoto.h444770.Hotel-Information?equalTargetTab=tab-0",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Todaiji",
+      "url": "https://www.todaiji.or.jp/en/information/haikan/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Nara Park",
+      "url": "https://narashikanko.or.jp/en/spot/detail_10089.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Temple hours",
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Keihan's official listing",
+      "url": "https://www.keihan.co.jp/visiting/spot/detail/055.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Current route 7",
+      "url": "https://www2.city.kyoto.lg.jp/kotsu/busdia/keitou/kto/00720.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ginkakuji",
+      "url": "https://www.shokoku-ji.jp/ginkakuji/access/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Byodoin",
+      "url": "https://www.byodoin.or.jp/en/guide/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Osaka Castle Park",
+      "url": "https://osaka-info.jp/spot/osaka-castle-park/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Nankai",
+      "url": "https://www.nankai.co.jp/en_railway/access-timetable",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kintetsu's matrix",
+      "url": "https://www.kintetsu.co.jp/railway/Dia/pdf/price_limited_express_e.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Metro tariff",
+      "url": "https://subway.osakametro.co.jp/guide/fare/fare/price.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "October 2026 zone chart",
+      "url": "https://subway.osakametro.co.jp/guide/libray/kusuuhyou/kusuuhyou20261001.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hankyu's calculator",
+      "url": "https://fare.hankyu.co.jp/fare/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "route context",
+      "url": "https://www.hankyu.co.jp/en/area_info/lp/hankyu1daypass.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Keihan's table",
+      "url": "https://www.keihan.co.jp/traffic/station/assets/pdf/fare/010.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kyoto bus fare",
+      "url": "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/fare/fare_bus.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kyodo",
+      "url": "https://china.kyodonews.net/articles/-/16410",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Physical ICOCA deposits",
+      "url": "https://subway.osakametro.co.jp/guide/fare/icoca/ICOCA.php",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "WEST QR Kansai Area Pass",
+      "url": "https://www.westjr.co.jp/global/en/ticket/westqr/kansaiarea/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Old JR Kansai Area Pass",
+      "url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kansai Railway Pass LITE",
+      "url": "https://www.surutto.com/kansai_rwpl/en/krp.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "MOFA exemption list",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Embassy FAQ",
+      "url": "https://www.sg.emb-japan.go.jp/itpr_en/visa_faq.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Digital Agency explanation",
+      "url": "https://www.digital.go.jp/en/policies/visit_japan_web",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official guide",
+      "url": "https://services.digital.go.jp/en/visit-japan-web/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "official service",
+      "url": "https://www.vjw.digital.go.jp/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Customs warns about fake sites",
+      "url": "https://www.customs.go.jp/english/news/20260528e.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Customs guidance",
+      "url": "https://www.customs.go.jp/english/passenger/declaration/declaration_app.html",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "two_person_planning_envelope": {
+      "value": 3000,
+      "display": "SGD3,000",
+      "label": "Two-person planning envelope including reserve, flights excluded; not a secured trip quote",
+      "unit": "two_person_trip_budget_excluding_flights",
+      "currency": "SGD"
+    },
+    "six_night_room_target": {
+      "value": 180000,
+      "display": "¥180,000",
+      "label": "Unquoted six-night room target before separate local accommodation-tax allowance",
+      "unit": "unquoted_room_allowance",
+      "currency": "JPY"
+    },
+    "fixed_route_fares_each": {
+      "value": 8200,
+      "display": "¥8,200",
+      "label": "Per-adult fixed-route planning fares including provisional Nankai and Morinomiya allocations",
+      "unit": "dated_partial_provisional_fare_sum",
+      "currency": "JPY"
+    },
+    "fare_deposit_cash_provision": {
+      "value": 17400,
+      "display": "¥17,400",
+      "label": "Two-person fixed-route fares and physical ICOCA deposits, not all fare expenditure",
+      "unit": "fare_plus_refundable_deposit_cash",
+      "currency": "JPY"
+    },
+    "unspent_trip_reserve": {
+      "value": 40200,
+      "display": "¥40,200",
+      "label": "Unspent contingency within the planning envelope",
+      "unit": "planning_contingency",
+      "currency": "JPY"
+    },
+    "ceiling_headroom": {
+      "value": 24000,
+      "display": "¥24,000",
+      "label": "Headroom beyond the planned envelope to the original ceiling at the assumed conversion",
+      "unit": "planning_headroom",
+      "currency": "JPY"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All listed sources retain their explicitly recorded November 6, 2026 Asia/Singapore access date (some original receipts November 5 UTC). November 6, 2026 localization is not a source refresh. Hotel price-search/stay dates, JMC final-forecast date and tariff effective dates remain separate. No external research or publication date is implied.",
+  "uncertainties": [
+    "JMC retained page was the April 23, 2026 final 2026 forecast; no 2027 forecast found there. JMA April 4 normals and 2026 observed full-bloom dates are not a 2027 prediction. Ninnaji mid-April timing, 2027 seasonal admission and flower conditions remain uncertain; Kyoto congestion tool was under maintenance.",
+    "No verifiable live April hotel quotes or availability. Four indexed Expedia snapshots are unrelated historical one-night, two-adult examples. Only $ was reproduced; the earlier USD selector observation was not independently reverified, so neither confirmed USD nor SGD conversion is claimed. Final checkout/local tax, room type, cheapest-plan breakfast and cancellation remain unverified.",
+    "Nankai JPY970 each way and Namba–Morinomiya JPY240 remain provisional. April schedules/fares and future visitor bus pricing need checking; reported JPY360 proposal is not an implemented April fare. Current Railway Pass LITE expires before this trip; no successor verified. JR alternative routing is a different itinerary.",
+    "Flight times not supplied; itinerary has six nights and only five full days. All walking, transfer, crowd, meal, data, taxi and booking judgments are estimates. Unknown early flight may require a different final night/airport transfer. Substantial walking is not an accessibility assessment.",
+    "SGD1=JPY120 is a planning assumption, not a live FX quote. Room JPY180000 is unquoted cap; total JPY360000 includes JPY40200 reserve, with JPY24000 further ceiling headroom. Refundable deposits are cash tied up; top-ups not double-counted. Accommodation tax bands apply to qualifying fee, not simply half an all-in room price; invoice can be lower.",
+    "Singapore ordinary-passport short-tourism and passport-validity rules are dated observations, not other-passport eligibility or future immigration advice. Airline/transit requirements differ; VJW is free and not entry permission. No future authorization fee assumed.",
+    "Original run model unknown. Original public research did not establish every lookup in a clean isolated session; no end-to-end clean-session claim. No booking, contact, signup, payment, publication, fresh research, source edits, inventory or shared builder/checker edits for localization. Source-list/evidence links are builder provenance, not reader download promises."
+  ],
+  "editingContract": "Only assigned local English/Simplified Chinese Markdown, schemaVersion 2 JSON and Kansai author-review. Preserve complete reader route/cost/entry/forecast limits and exact cross-locale literal/table-cell parity. Parent owns inventory, build and package checks; no Review, stars or website publication.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

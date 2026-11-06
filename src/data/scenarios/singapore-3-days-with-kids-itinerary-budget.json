@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 2,
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "slug": "singapore-3-days-with-kids-itinerary-budget",
+  "translationKey": "singapore-3-days-with-kids-itinerary-budget",
+  "sources": [
+    {
+      "title": "Fairmont's location page",
+      "url": "https://www.fairmont-singapore.com/destination/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Mandai access",
+      "url": "https://www.mandai.com/en/plan-your-visit/getting-to-and-around/getting-to-mandai-wildlife-reserve.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Zoo visitor guide",
+      "url": "https://www.mandai.com/en/plan-your-visit/know-before-you-go/singapore-zoo.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Maxwell listing",
+      "url": "https://chinatown.sg/dine/maxwell-hawker-centre/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Garden Rhapsody",
+      "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/garden-rhapsody.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Science Centre access",
+      "url": "https://www.science.edu.sg/visit-us/getting-here",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Lau Pa Sat",
+      "url": "https://www.laupasat.sg/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "SimplyGo's bank-card FAQ",
+      "url": "https://www.simplygo.com.sg/faqs/cards-and-charms/simplygo/contactless-bank-cards/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Singapore Zoo",
+      "url": "https://www.mandai.com/en/tickets-and-passes/single-attractions/singapore-zoo.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Flower Dome + Cloud Forest",
+      "url": "https://www.gardensbythebay.com.sg/en/things-to-do/attractions/flower-dome.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Science Centre general admission",
+      "url": "https://www.science.edu.sg/visit-us/ticket-prices",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Bird Paradise",
+      "url": "https://www.mandai.com/en/tickets-and-passes/single-attractions/bird-paradise.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Night Safari",
+      "url": "https://www.mandai.com/en/tickets-and-passes/single-attractions/night-safari.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Mandai two-attraction, one-day pass",
+      "url": "https://www.mandai.com/en/tickets-and-passes/multi-attractions.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Disney Floral Fantasy snapshot",
+      "url": "https://www.gardensbythebay.com.sg/en/things-to-do/attractions/floral-fantasy.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "OCBC Skyway",
+      "url": "https://www.gardensbythebay.com.sg/en/frequently-asked-questions/general.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Singapore Oceanarium",
+      "url": "https://www.singaporeoceanarium.com/en/ticketing.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Universal Studios Singapore non-peak",
+      "url": "https://www.rwsentosa.com/en/play/universal-studios-singapore/tickets",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Three-day Singapore Tourist Pass",
+      "url": "https://thesingaporetouristpass.com.sg/type-of-passes/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "pass terms",
+      "url": "https://www.mandai.com/en/park-terms.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Night Safari guidance",
+      "url": "https://www.mandai.com/en/plan-your-visit/know-before-you-go/night-safari.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "operator rider requirements",
+      "url": "https://www.rwsentosa.com/en/play/universal-studios-singapore/safety-and-accessibility",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "transition page",
+      "url": "https://www.science.edu.sg/about-us/new-science-centre",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "hours page",
+      "url": "https://www.science.edu.sg/visit-us/opening-hours",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "maintenance calendar",
+      "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html#closuredates",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "operator page",
+      "url": "https://www.gardensbythebay.com.sg/en/things-to-do/attractions/far-east-organization-childrens-garden.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "official homepage read",
+      "url": "https://www.snowcity.com.sg/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "taxi surcharge guidance",
+      "url": "https://www.mandai.com/en/faq/taxi-surcharge.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Mandai shuttle FAQ",
+      "url": "https://www.mandai.com/en/faq/shuttle-services.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Child Concession Card page",
+      "url": "https://www.simplygo.com.sg/concession-monthly-travel-cards/child/child-concession-card/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ICA page freshly read November 5",
+      "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/sg-arrival-card-with-electronic-health-declaration",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "ICA's official e-service",
+      "url": "https://eservices.ica.gov.sg/sgarrivalcard/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "entry checker",
+      "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/entry-requirements",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Mandai's admission FAQ",
+      "url": "https://www.mandai.com/en/faq/admission-tickets.html",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "family_three_day_sightseeing_budget": {
+      "label": "Family three day sightseeing budget",
+      "value": 927,
+      "currency": "SGD",
+      "unit": "per_family_three_days_including_reserve",
+      "display": "S$927"
+    },
+    "family_budget_with_airport_transfers": {
+      "label": "Family budget with airport transfers",
+      "value": 1027,
+      "currency": "SGD",
+      "unit": "per_family_three_days_with_airport_transfers",
+      "display": "S$1,027"
+    },
+    "zoo_day_family_budget": {
+      "label": "Zoo day family budget",
+      "value": 386,
+      "currency": "SGD",
+      "unit": "per_family_day_including_reserve",
+      "display": "S$386"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "3e9e1777ad54ecd8e942b2402fff9129539b48ee77ef0a71b6ab329973296bd7",
+    "originalAuditSha256": "5c1f4bf535133b072ba19f88194b494bf465702841b027da079f4572dae7d2cf"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Non-resident family with two adults and school-age children planning a Singapore trip.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

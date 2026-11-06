@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "slug": "cappadocia-three-nights-balloon-backups",
+  "translationKey": "cappadocia-three-nights-balloon-backups",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Two adults from Dubai planning a short Cappadocia trip; English and Simplified Chinese for Chinese-speaking travellers too, without assuming passport eligibility from Dubai residence.",
+  "sources": [
+    {
+      "title": "Kayseri",
+      "url": "https://www.kayak.com/flights/IST-ASR/2027-05-14/2027-05-17/2adults?sort=price_a",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Nevşehir",
+      "url": "https://www.kayak.com/flights/IST-NAV/2027-05-14/2027-05-17/2adults?sort=price_a",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "commercial shuttle tariff",
+      "url": "https://cappadociaairportshuttle.com/kayseri-or-nevsehir-airport-for-cappadocia",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Voyager",
+      "url": "https://voyagerballoons.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Skyway",
+      "url": "https://www.skywayballoons.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Flight page",
+      "url": "https://www.skywayballoons.com/flights",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Butterfly",
+      "url": "https://www.butterflyballoons.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Royal",
+      "url": "https://royalballoon.com/balloon-flights/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "SHGM operator register",
+      "url": "https://web.shgm.gov.tr/tr/s/80-balon-isletmeleri",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Voyager FAQ",
+      "url": "https://voyagerballoons.com/frequently-asked-questions/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Butterfly terms",
+      "url": "https://www.butterflyballoons.com/terms",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Skyway terms",
+      "url": "https://skywayballoons.com/page/cancellation-refund-policy",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Royal FAQ",
+      "url": "https://royalballoon.com/faq/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "secondary calendar",
+      "url": "https://turkeyfrontier.com/plan/public-holidays/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ministry-issued future tariff hosted by TÜRSAB",
+      "url": "https://www.tursab.org.tr/apps/Files/Content/3ce94ed3-2265-4180-8a87-594371bcf0b5.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "current ministry table",
+      "url": "https://dosim.ktb.gov.tr/TR-218202/muze-ve-oren-yeri-ucretleri.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kaymaklı description",
+      "url": "https://muze.gov.tr/muze-detay?SectionId=KYY01&DistId=KYY",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Terra Cave Hotel",
+      "url": "https://www.kayak.com/Goereme-Hotels-Terra-Cave-Hotel.643184.ksp",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Kelebek Cave Hotel",
+      "url": "https://www.kayak.com/Goereme-Hotels-Kelebek-Special-Cave-Hotel.208615.ksp",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "two_person_working_budget": {
+      "value": 1588,
+      "display": "$1,588",
+      "label": "Conditional two-adult estimate including domestic but not Dubai flights",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    },
+    "target_trip_budget": {
+      "value": 1500,
+      "display": "$1,500",
+      "label": "Original target, not a secured package price",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    },
+    "trip_budget_shortfall": {
+      "value": 88,
+      "display": "$88",
+      "label": "Baseline above target",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    },
+    "target_balloon_price": {
+      "value": 220,
+      "display": "€220",
+      "label": "Unverified per-person target needed to meet trip budget",
+      "currency": "EUR",
+      "unit": "conditional_planning_amount"
+    },
+    "small_trip_contingency": {
+      "value": 45.2,
+      "display": "$45.20",
+      "label": "Small allowance excluding separately unpriced items",
+      "currency": "USD",
+      "unit": "conditional_planning_amount"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Retains November 6, 2026 Asia/Singapore source access date; original UTC session was November 5. Local arithmetic, consistency and source-register comparison on November 6 is not a fresh external source check. No source refresh or publication date invented.",
+  "uncertainties": [
+    "All four current SHGM aviation licences unverified; historical leads are not authorisation. May quotes and written cancellation terms required; Skyway price conflict and 48–72-hour policy gap remain. Royal/Butterfly unpriced.",
+    "Hotel date parameters reset to November; no May room or actual carved cave-room category verified. Flights are date-specific search results, not bag-inclusive supplier checkouts.",
+    "Voyager season is April 1–November 1, year unspecified, not all of November. Page corrects the source plan shorthand against sources.md; no fresh external verification.",
+    "Secondary holiday dates and first-day hours not independently verified against the official calendar. Current museum fees differ from ministry-issued future tariff hosted by TÜRSAB; recheck applicability.",
+    "Budget arithmetic independently recomputed and agrees: USD 1588 baseline, USD 88 shortfall, USD 1500 target scenario, USD 1742 comfort, USD 1654.80 FX scenario; estimates and exclusions remain material.",
+    "No guaranteed weather probability, sunrise, route, flight duration or next-day seats; standing/landing and health exclusions matter. Insurance and travel/visa eligibility need personal confirmation."
+  ],
+  "editingContract": "Reader-first bilingual Markdown and JSON; whole-page and table-cell numeric/date/URL parity, full qualifications; shared build/check. Local drafts only, no new Review or public attachment promises.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

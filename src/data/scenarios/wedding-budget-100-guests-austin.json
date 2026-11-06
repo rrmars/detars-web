@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "slug": "wedding-budget-100-guests-austin",
+  "translationKey": "wedding-budget-100-guests-austin",
+  "sources": [
+    {
+      "title": "Camino Real Ranch · Dale / Austin area",
+      "url": "https://www.caminorealranch.com/pricing",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Camino Real Ranch · bar",
+      "url": "https://www.caminorealranch.com/hourly-bar",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Maudie’s Tex-Mex · Austin",
+      "url": "https://www.maudies.com/s/Maudies-Catering-Menu-2026-10-31.pdf",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Henry Selis Photography · Austin",
+      "url": "https://www.henryselis.com/wedding-pricing/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Grant Your Wish Weddings · Austin",
+      "url": "https://grantyourwishweddings.com/",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Wild Vine Floral · East Austin",
+      "url": "https://wildvinefloral.com/wedding-florals",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Bestow Bridal · Austin",
+      "url": "https://www.bestowbridal.com/",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "guest_count": {
+      "label": "Scenario guest count",
+      "value": 100,
+      "unit": "guests",
+      "display": "100"
+    },
+    "total_funding_cap": {
+      "label": "Total cap including family promises",
+      "value": 35000,
+      "unit": "total_budget",
+      "currency": "USD",
+      "display": "$35,000"
+    },
+    "forecast_final_spending": {
+      "label": "Forecast final spending excluding reserve",
+      "value": 29557.78,
+      "unit": "wedding_spending",
+      "currency": "USD",
+      "display": "$29,557.78"
+    },
+    "reserve_held_aside": {
+      "label": "Separate contingency reserve",
+      "value": 3500,
+      "unit": "reserve",
+      "currency": "USD",
+      "display": "$3,500"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "Access dates come from retained source access records or dated browser observations, not the archive folder name. No new external lookup was performed.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Couple planning an Austin wedding with family contributions, a fixed spending cap and separate contingency money.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

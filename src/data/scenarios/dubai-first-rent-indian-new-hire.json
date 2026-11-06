@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 2,
+  "slug": "dubai-first-rent-indian-new-hire",
+  "translationKey": "dubai-first-rent-indian-new-hire",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Single 29-year-old Indian data analyst moving from Bengaluru to a Business Bay job starting March 1, 2027, earning AED 18,000/month and comparing a first Dubai rental; English only, with the Indian new-hire profile preserved.",
+  "sources": [
+    {
+      "title": "D1 — Dubai Land Department — Register / Renew Tenancy Contract",
+      "url": "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D2 — Dubai Land Department — Frequently Asked Questions",
+      "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D3 — Dubai Land Department — Rental Index",
+      "url": "https://dubailand.gov.ae/en/eservices/rental-index/rental-index",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D4 — Dubai Land Department — Licensed Real Estate Brokers",
+      "url": "https://dubailand.gov.ae/en/eservices/licensed-real-estate-brokers/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "W1 — DEWA — Activation of Electricity/Water (Move-in)",
+      "url": "https://www.dewa.gov.ae/en/consumer/supply-management/activation-of-electricity-water-move-in",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L1 — Dubai Residential — Leasing FAQs",
+      "url": "https://dubairesidential.ae/en/faqs",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P1 — Property Finder — Additional costs of renting",
+      "url": "https://www.propertyfinder.ae/guides/the-additional-costs-of-renting-a-property/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T1 — RTA — Metro & tram map",
+      "url": "https://www.rta.ae/wps/portal/rta/ae/public-transport/metro-stations-map",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "T2 — RTA — Rail network map PDF",
+      "url": "https://www.rta.ae/links/rail/rail-network-map.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "B1 — HSBC UAE — Personal Banking Account",
+      "url": "https://www.hsbc.ae/current-accounts/products/basic/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H1 — Vacationer Dubai — Holiday home fees and check-in",
+      "url": "https://vacationerdubai.com/blog/dubai-holiday-home-fees-explained/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing A1 — Falaknaz Building 1, Al Barsha 1",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-falaknaz-building-4-158245524.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing A2 — Al Mheiri Building, Al Barsha 1",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-al-mheiri-building-160123157.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing A3 — Nopoli Tower, Al Barsha 1",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-nopoli-tower-164574166.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing B1 — Elegance House, Barsha Heights",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-elegance-house-167001344.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing B2 — Yas 1, Barsha Heights",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-yas-1-151347222.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing B3 — Al Amir, Barsha Heights",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-al-amir-167001124.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing C1 — Goldcrest Views 2 · Cluster J, JLT",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-j-goldcrest-views-2-168364933.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing C2 — Goldcrest Executive · Cluster C, JLT",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-c-goldcrest-executive-157365770.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing C3 — Jumeirah Bay X1 · Cluster X, JLT",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-x-jumeirah-bay-towers-jumeirah-bay-x1-162332514.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing D1 — Marina Diamond 3, Dubai Marina",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-diamonds-marina-diamond-3-132942486.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing D2 — Marina Diamond 2, Dubai Marina",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-diamonds-marina-diamond-2-167901624.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Listing D3 — Studio One, Dubai Marina",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-studio-one-168345223.html",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "opening_cash": {
+      "value": 43005,
+      "display": "AED 43,005",
+      "label": "Opening accommodation/setup cash excluding ordinary living and emergency fund",
+      "currency": "AED",
+      "unit": "planning_amount"
+    },
+    "settled_monthly": {
+      "value": 11100,
+      "display": "AED 11,100",
+      "label": "Settled monthly allocation including rent reserve",
+      "currency": "AED",
+      "unit": "planning_amount"
+    },
+    "rent_ceiling": {
+      "value": 78000,
+      "display": "AED 78,000",
+      "label": "Annual rent ceiling",
+      "currency": "AED",
+      "unit": "planning_amount"
+    },
+    "accessible_cash_target": {
+      "value": 50000,
+      "display": "AED 50,000",
+      "label": "Rounded accessible cash recommendation, not emergency fund",
+      "currency": "AED",
+      "unit": "planning_amount"
+    },
+    "year_one_outflow": {
+      "value": 156755,
+      "display": "AED 156,755",
+      "label": "First employment-year cash outflow including deposits and prepaid March 2028 rent",
+      "currency": "AED",
+      "unit": "planning_amount"
+    },
+    "year_one_balance": {
+      "value": 59245,
+      "display": "AED 59,245",
+      "label": "Salary less first employment-year cash outflow before exclusions",
+      "currency": "AED",
+      "unit": "planning_amount"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All 23 source-specific access dates are explicitly recorded as November 6, 2026 Singapore/Dubai local date in the original source ledger; some original fetches carry November 5 UTC. Localization on November 6 is not a source refresh. No publication date invented and no external re-research performed. Listing ages remain relative displays, not inferred publication dates.",
+  "listingSnapshots": [
+    {
+      "id": "A1",
+      "area": "Al Barsha 1",
+      "building": "Falaknaz Building 1",
+      "rent": 47000,
+      "type": "Studio",
+      "sqft": 400,
+      "furnishing": "Unfurnished",
+      "cheques": "Field: 4; description: 1–4",
+      "age": "24 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-falaknaz-building-4-158245524.html",
+      "caveat": "Advertised: AED3,000 deposit; 5% commission + 5% VAT on that fee; AED1,575/year admin; AED210 Ejari. That Ejari quote differs from DLD’s AED177.75 / AED220 channel totals—get an itemised explanation. URL says Building 4; page says Building 1. Verify exact unit. “Walking distance to Metro” is advertiser wording."
+    },
+    {
+      "id": "A2",
+      "area": "Al Barsha 1",
+      "building": "Al Mheiri Building",
+      "rent": 50000,
+      "type": "Studio",
+      "sqft": 463,
+      "furnishing": "Partly furnished",
+      "cheques": "6",
+      "age": "19 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-al-mheiri-building-160123157.html",
+      "caveat": "Advertises “near Metro”; measure the actual walk. Partly furnished is not move-in-ready by default. Other charges need an itemised quote."
+    },
+    {
+      "id": "A3",
+      "area": "Al Barsha 1",
+      "building": "Nopoli Tower",
+      "rent": 45000,
+      "type": "Studio",
+      "sqft": 383,
+      "furnishing": "Unfurnished",
+      "cheques": "4",
+      "age": "10 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-nopoli-tower-164574166.html",
+      "caveat": "Metro walking access unverified. Do not pick it on the area name alone. Other charges need an itemised quote."
+    },
+    {
+      "id": "B1",
+      "area": "Barsha Heights",
+      "building": "Elegance House",
+      "rent": 58000,
+      "type": "Studio",
+      "sqft": 482,
+      "furnishing": "Unfurnished",
+      "cheques": "4",
+      "age": "5 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-elegance-house-167001344.html",
+      "caveat": "Advertised: 5% security deposit; 5% agency fee + VAT; AED840 admin (period not stated); chiller free. Confirm percentage bases, VAT and exactly which cooling charges are covered. “Close to Metro” is not a measured walk."
+    },
+    {
+      "id": "B2",
+      "area": "Barsha Heights",
+      "building": "Yas 1",
+      "rent": 65000,
+      "type": "1-bedroom",
+      "sqft": 657,
+      "furnishing": "Unfurnished",
+      "cheques": "Not stated",
+      "age": "1 month ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-yas-1-151347222.html",
+      "caveat": "Cheque terms unverified. Metro walk and extra charges need checking."
+    },
+    {
+      "id": "B3",
+      "area": "Barsha Heights",
+      "building": "Al Amir",
+      "rent": 60000,
+      "type": "1-bedroom",
+      "sqft": 1027,
+      "furnishing": "Unfurnished",
+      "cheques": "4",
+      "age": "5 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-al-amir-167001124.html",
+      "caveat": "Advertised: 5% deposit; 5% agency fee + VAT; AED300 Ejari (above DLD channel totals—ask what is included). “Chiller Included in DEWA” does not mean free cooling or utilities included in rent. No gym/pool; maintenance-free claim subject to contract. Metro walk unverified."
+    },
+    {
+      "id": "C1",
+      "area": "JLT",
+      "building": "Goldcrest Views 2 · Cluster J",
+      "rent": 60000,
+      "type": "Studio",
+      "sqft": 322,
+      "furnishing": "Furnished",
+      "cheques": "1",
+      "age": "2 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-j-goldcrest-views-2-168364933.html",
+      "caveat": "One cheque means AED60,000 rent upfront, before deposits/fees. Description says 322.70 sqft versus field 322. Furnished deposit may be higher; no March availability promise."
+    },
+    {
+      "id": "C2",
+      "area": "JLT",
+      "building": "Goldcrest Executive · Cluster C",
+      "rent": 75000,
+      "type": "Studio",
+      "sqft": 374,
+      "furnishing": "Furnished",
+      "cheques": "Field: 4; description: 2–4",
+      "age": "26 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-c-goldcrest-executive-157365770.html",
+      "caveat": "Small furnished studio near the budget ceiling. Confirm rent for the chosen cheque count and separate cooling/deposit costs."
+    },
+    {
+      "id": "C3",
+      "area": "JLT",
+      "building": "Jumeirah Bay X1 · Cluster X",
+      "rent": 70000,
+      "type": "Studio",
+      "sqft": 509,
+      "furnishing": "Furnished",
+      "cheques": "4; description: up to 4",
+      "age": "15 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-x-jumeirah-bay-towers-jumeirah-bay-x1-162332514.html",
+      "caveat": "Check the Sobha Realty walking route, cooling costs and furnished deposit."
+    },
+    {
+      "id": "D1",
+      "area": "Dubai Marina",
+      "building": "Marina Diamond 3",
+      "rent": 75000,
+      "type": "Studio",
+      "sqft": 427,
+      "furnishing": "Furnished",
+      "cheques": "Count not stated; title: “Multiple Cheques”",
+      "age": "2 months ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-diamonds-marina-diamond-3-132942486.html",
+      "caveat": "“Multiple” does not mean twelve. Confirm exact payment schedule, deposit and cooling terms."
+    },
+    {
+      "id": "D2",
+      "area": "Dubai Marina",
+      "building": "Marina Diamond 2",
+      "rent": 62000,
+      "type": "Studio",
+      "sqft": 418,
+      "furnishing": "Unfurnished; appliances advertised",
+      "cheques": "4",
+      "age": "3 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-marina-diamonds-marina-diamond-2-167901624.html",
+      "caveat": "Advertises “Chiller Free”; confirm the lease covers the relevant cooling charges, not all electricity. Appliances do not mean a furnished flat. Check inventory/condition. Deposit, agency/admin and Ejari amounts not stated."
+    },
+    {
+      "id": "D3",
+      "area": "Dubai Marina",
+      "building": "Studio One",
+      "rent": 62000,
+      "type": "Studio",
+      "sqft": 357,
+      "furnishing": "Furnished",
+      "cheques": "4",
+      "age": "2 days ago",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-dubai-marina-studio-one-168345223.html",
+      "caveat": "DMCC first mile may be substantial. Check an actual walking route or price a feeder/taxi; do not assume station-side living."
+    }
+  ],
+  "uncertainties": [
+    "November 2026 advertisements are not March 2027 reservations. No agent contact, viewing, ownership/broker authentication or actual commute measurement; exact Business Bay office entrance unknown.",
+    "Pre-ID application consideration is not annual-lease acceptance, Ejari completion or handover. Dubai Residential and Vacationer policies are provider-specific; bank eligibility is not immediate cheque-book access.",
+    "No unit-specific rental-index result obtained. New-lease indicative role differs from renewal; legal inputs must be rechecked before signing. Not legal advice.",
+    "AED 72,000 unfurnished/four-cheque model is not a listing quote. Equal annual rent across cheque options assumed; deposits and commission are market norms, not statutory fixed tariffs.",
+    "DEWA official AED 155 small-meter fees take precedence over older secondary AED 130. Ejari official AED 177.75/AED 220 differs from provider AED 214.50, A1 AED 210 and B3 AED 300 quotes; itemisation needed.",
+    "A1 URL Building 4 versus page Building 1 retained; C1 size field 322 versus description 322.70 sqft retained. Cheque field/description differences retained, with no undocumented twelve-cheque offer.",
+    "Temporary stay AED 7,750, furniture, cooling deposits and monthly non-rent spending are estimates. Extra admin/connection fees, actual utility use, travel, debt/remittances, health gaps and employer-unpaid relocation/visa/medical/ID costs excluded or unpriced. Payroll timing/HR support unconfirmed.",
+    "First-year cash flow includes twelve salaries, March temporary stay, eleven occupied flat months, all four annual cheques including March 2028 prepaid rent, tied-up deposits and no assumed refunds. Opening rent is not double-counted.",
+    "English-only, so bilingual literal/table parity is not applicable. All headline displays appear verbatim in English. No booking, contact, payment, publication, source-run edit or shared build/inventory change."
+  ],
+  "editingContract": "Only assigned English Markdown, schemaVersion 2 JSON and batch18 Dubai author-review note. Parent integrates inventory/build/check. No Chinese locale, Review markup, external refresh or unhosted attachment promises.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

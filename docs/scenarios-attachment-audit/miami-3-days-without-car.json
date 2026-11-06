@@ -1,0 +1,37 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "9858723bc815827c073fb3ebc62fe914a7c8332bf0c3f1f1eab231738d07eba5",
+  "sourceListLink": "miami-3-days-without-car-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "Original article labels the original run's research November 5 and distinguishes the separate same-day verification; mid-February 2027 is travel scope only.",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/miami-3-days-without-car/miami-plan-budget.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "33d067271036e898cae1ba88e0f0978d57280be97760f40382c5d4e70dc31f57",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "miami-3-days-without-car-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "9db1fe419f7818eed8a487ae8f3df5574ce068b60b8bad170dabf9b3e249052e",
+      "faqPairs": 2,
+      "links": [
+        {
+          "target": "miami-3-days-without-car-verification.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

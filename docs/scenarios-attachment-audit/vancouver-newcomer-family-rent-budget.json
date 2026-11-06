@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "f8f0f98474d294599f9d5f6ba160bca80f3ceca221c7d2f77558c3f1f30f211f",
+  "sourceListLink": "../w6-vancouver-newcomer-rent/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "faef62a781897442d02281e64080cf9370850d4d3d57916e952dfb7c6bee9733",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

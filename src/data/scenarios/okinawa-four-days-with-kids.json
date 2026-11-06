@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 2,
+  "slug": "okinawa-four-days-with-kids",
+  "translationKey": "okinawa-four-days-with-kids",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Hong Kong family of two adults and children aged 5 and 9 at travel, using Hong Kong SAR passports for July 17–20, 2027 in Okinawa; English and package-only Simplified Chinese retain this profile. Traditional Chinese would better serve the Hong Kong audience for eventual publication.",
+  "sources": [
+    {
+      "title": "Official Okinawa tourism — typhoon precautions",
+      "url": "https://visitokinawajapan.com/plan-your-trip/useful-information/typhoon-precautions-okinawa/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Cabinet Office — holidays (official)",
+      "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ikyu — Hotel Monterey indicative rate (public hotel listing)",
+      "url": "https://www.ikyu.com/00001902/11677716/10297794/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Ikyu — Rizzan indicative sale rate (public hotel listing)",
+      "url": "https://www.ikyu.com/00031065/11757940/10304846/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Monterey — access (official hotel)",
+      "url": "https://www.hotelmonterey.co.jp/okinawa/access/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Churaumi Aquarium — fee (official)",
+      "url": "https://churaumi.okinawa/en/guide/info/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Churaumi Aquarium — hours / closed (official)",
+      "url": "https://churaumi.okinawa/en/guide/hour/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Hotel Monterey — Blue Reef (official hotel)",
+      "url": "https://www.hotelmonterey.co.jp/en/okinawa/activity/bluereef.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Okinawa Airport Shuttle — schedule and rules (official operator)",
+      "url": "https://www.okinawa-shuttle.co.jp/en/timetable/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Okinawa Airport Shuttle — October 2026–January 2027 schedule PDF",
+      "url": "https://www.okinawa-shuttle.co.jp/wp-content/themes/shuttle/images/okinawa-airportshuttle-bus-schedule2026-4.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Airport Shuttle — fare matrix (official operator image)",
+      "url": "https://www.okinawa-shuttle.co.jp/wp-content/themes/shuttle/images/new_pricetable-en-3.svg",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Okinawa Bus — Airport Limousine (official operator)",
+      "url": "https://okinawabus.com/en/ls/ls_timetable_fares/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Okinawa Bus — C-area airport limousine information",
+      "url": "https://okinawabus.com/en/ls/ls_area_c/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Okinawa Bus — C-area fare PDF, effective April 2026",
+      "url": "https://okinawabus.com/en/wp-content/uploads/sites/7/2026/02/93b17b64acd0b588af765a138cf4fcc9.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Okinawa Bus — timetable PDF, effective August 2026",
+      "url": "https://okinawabus.com/en/wp-content/uploads/sites/7/2026/08/fa66f2d993832577a66718390143f128.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan National Police Agency — foreign licences (official)",
+      "url": "https://www.npa.go.jp/policies/application/license_renewal/have_DL_issed_another_country.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "HKSAR Government 1823 — IDP (official)",
+      "url": "https://www.1823.gov.hk/en/faq/how-to-apply-for-an-international-driving-permit-idp",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official Okinawa tourism — Tiger Beach",
+      "url": "https://visitokinawajapan.com/discover/beach-information/tiger-beach/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official Okinawa tourism — Sunmarina Beach",
+      "url": "https://visitokinawajapan.com/discover/beach-information/sunmarina-beach/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official Okinawa tourism — enjoying Okinawa safely",
+      "url": "https://visitokinawajapan.com/plan-your-trip/useful-information/enjoying-okinawa-safely/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Meteorological Agency — Okinawa alerts (travel-week monitoring)",
+      "url": "https://www.jma.go.jp/bosai/#lang=en&area_type=offices&area_code=471000&pattern=default",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Okinawa disaster portal (travel-week monitoring)",
+      "url": "https://bousai-okinawa.my.salesforce-sites.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan MOFA — visa exemption (official)",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Digital Agency — Visit Japan Web (official)",
+      "url": "https://services.digital.go.jp/en/visit-japan-web/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Japan Customs — passenger clearance (official)",
+      "url": "https://www.customs.go.jp/english/summary/passenger.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Visit Japan Web — FAQ (official)",
+      "url": "https://www.vjw.digital.go.jp/main/#/vjwpco011-en",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "family_ground_budget": {
+      "label": "Whole-family car-plan envelope excluding flights; estimates and dated prices, not a booking quotation",
+      "value": 16000,
+      "unit": "family_trip_envelope_excluding_flights",
+      "currency": "HKD",
+      "display": "HKD 16,000"
+    },
+    "three_night_room_target": {
+      "label": "Unquoted room-only target for all four occupants and bedding, tax provision separate",
+      "value": 150000,
+      "unit": "estimated_three_night_room_budget",
+      "currency": "JPY",
+      "display": "¥150,000"
+    },
+    "unspent_disruption_reserve": {
+      "label": "Unspent contingency within envelope, not guaranteed prolonged-storm cover",
+      "value": 47080,
+      "unit": "unspent_reserve",
+      "currency": "JPY",
+      "display": "¥47,080"
+    },
+    "car_transport_allowance": {
+      "label": "Rental, fuel, tolls, parking and one new IDP; only parking and IDP posted",
+      "value": 49100,
+      "unit": "mixed_sample_and_estimate_transport",
+      "currency": "JPY",
+      "display": "¥49,100"
+    },
+    "no_car_family_envelope": {
+      "label": "Bus-plan comparison preserving same reserve; extra taxis and changed hotel unquoted",
+      "value": 291900,
+      "unit": "estimated_no_car_envelope",
+      "currency": "JPY",
+      "display": "¥291,900"
+    },
+    "aquarium_family_admission": {
+      "label": "Tax-inclusive dated admission for two adults, one school-age and one under-six preschooler; recheck classification",
+      "value": 5070,
+      "unit": "dated_family_admission",
+      "currency": "JPY",
+      "display": "¥5,070"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All external references retain the source ledger access date November 6, 2026, Hong Kong/Okinawa local date (UTC timestamps may be November 5). No external lookup or refresh was performed during drafting. November hotel samples have no selected stay dates and are not July family quotations. Research date, page revision dates, future effective dates and localization date are distinct; no publication date is invented.",
+  "uncertainties": [
+    "Traditional Chinese would better serve the Hong Kong family; Simplified Chinese is supplied for this package only. Translation does not broaden Hong Kong SAR passport or Hong Kong driving-document assumptions.",
+    "Neither hotel has an established July 2027 four-person quote or vacancy. Both Ikyu from-rates used one night, two adults, zero children and no dates selected; points benefits excluded. Monterey occupancy/child charges and 14-day cancellation start are plan-specific. Rizzan sale, rebrand and renovation notices make extrapolation especially weak.",
+    "JPY 150,000 room target and JPY 3,000 tax provision are estimates, not a secured room bill or verified tax calculation. Blue Reef may be extra; final bedding, meals, taxes, cancellation terms and facilities must be confirmed.",
+    "No typhoon forecast is established for these dates. July is within the main June–September impact season. Ordinary rain alternatives are not storm shelter plans; the aquarium and indoor pool may close. Cancellation fees, insurance benefits and prolonged-disruption costs are not guaranteed covered by the reserve.",
+    "Flight times are missing. Road, queue, rental-handling and terminal buffers are planning estimates, not live traffic or airline guarantees. Published 80-minute airport road time is outbound; reciprocal use is an assumption. Marine Day demand/traffic effect is a judgment, not a forecast.",
+    "Shuttle departures apply only October 15, 2026–January 31, 2027; limousine fares and August timetable do not establish July 2027 service. Rapid shuttle runs skip Onna stops; seats may run out. The old DE limousine ended and E was suspended. Extra taxis/final Naha night are unquoted.",
+    "Rental cost, enhanced cover, child restraints, fuel, tolls, food, beach equipment and insurance are estimated. Actual supplier documents, liability, IDP eligibility/validity and fees need confirming; budget includes one new permit only. FX is a chosen assumption, not a live rate or forecast.",
+    "Aquarium seasonal hours refer to 2026 and closure assurance ends March 31, 2027; future admission and Japanese school-grade category require checking. Beach nets/lifeguards reduce exposure, not all risk; daily open flags and conditions control. Pool supervision and access rules remain consequential.",
+    "MOFA guidance accessed in November 2026 is not a guarantee of July rules; each traveller needs a valid qualifying passport and landing examination. Visit Japan Web is optional online submission, not a visa; immigration/customs procedures remain required. No account was created.",
+    "No new research, booking, signup, enquiry, source-run change, publication, HTML build or website-repository edit occurred. Original model is unknown. Local evidence/source-list links are draft provenance for the builder, not publicly hosted downloads."
+  ],
+  "editingContract": "Complete reader-first English and Simplified Chinese drafts with exact bilingual numeric/currency/date/external-URL multiplicity and corresponding table-cell parity. Keep source decision facts and consequential qualifications adjacent. End with bracket-filled Ask DeTars request, friendly disclaimer and data-rendered provenance marker. Local drafts only; no Review/stars, public attachment promises or refreshed prices.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

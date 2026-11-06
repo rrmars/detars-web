@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "slug": "seoul-4-day-first-time-itinerary-budget",
+  "translationKey": "seoul-4-day-first-time-itinerary-budget",
+  "sources": [
+    {
+      "title": "K-ETA temporary exemption extension notice through 2026",
+      "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "KAYAK — Holiday Inn Express Seoul Hongdae observed price sample",
+      "url": "https://www.kayak.com/Seoul-Hotels-Holiday-Inn-Express-Seoul-Hongdae.4078899.ksp",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Booking.com — L7 HONGDAE indexed sample; live access limited",
+      "url": "https://www.booking.com/hotel/kr/l7-hongdae.html?came_from_hotel_review=1&keep_landing=1",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "IHG — Holiday Inn Express Seoul Hongdae hotel details",
+      "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/seoul/seohg/hoteldetail",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "LOTTE — L7 Hongdae location",
+      "url": "https://app.lottehotel.com/hongdae-l7/en/about/location",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Korea Tourism Organization — 2026 Cherry Blossom Forecast",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1570512",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Royal Palaces and Tombs Center — operating hours",
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Korea Travel List — Gyeongbokgung Palace admission cross-check",
+      "url": "https://koreatravellist.com/en/places/gyeongbokgung-palace",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Visit Seoul — Inwangsan Mountain",
+      "url": "https://english.visitseoul.net/nature/Inwangsan-Mountain_/3844",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Visit Seoul — Gwangjang Market",
+      "url": "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Visit Seoul — Mangwon Market",
+      "url": "https://english.visitseoul.net/MapoArea/Mangwon-Market/ENP037950",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AREX — all-stop fare matrix",
+      "url": "https://www.airportrailroad.com/train/normal/fare",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "AREX — Express introduction, fare and train times",
+      "url": "https://www.airportrailroad.com/train/express/introduce",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Airport Limousine — route 6002",
+      "url": "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "K-ETA — country and permitted stay table",
+      "url": "https://www.k-eta.go.kr/portal/guide/viewetaalification.do",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "K-ETA — age exemption notice",
+      "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=7011&esntlPnotiMtYn=Y",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "K-ETA — application, fee, processing and validity guide",
+      "url": "https://www.k-eta.go.kr/portal/guide/viewetaapplication.do",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Korea Immigration Service — arrival declaration guidance",
+      "url": "https://www.immigration.go.kr/immigration/3509/subview.do",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Official e-Arrival Card portal",
+      "url": "https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Korea Tourism Organization — transport card guide",
+      "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663&menuSn=479",
+      "accessDate": "2026-11-05"
+    },
+    {
+      "title": "Visit Seoul — public transportation guide",
+      "url": "https://english.visitseoul.net/seoul-transportation",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "planned_per_person_total": {
+      "label": "Estimated per-person trip total including contingency, excluding flights",
+      "value": 1405500,
+      "unit": "per_person_trip",
+      "currency": "KRW",
+      "display": "₩1,405,500"
+    },
+    "per_person_budget_cap": {
+      "label": "Per-person cap excluding flights at the assumed planning conversion",
+      "value": 1200,
+      "unit": "per_person_trip",
+      "currency": "USD",
+      "display": "US$1,200"
+    },
+    "unallocated_per_person_headroom": {
+      "label": "Unallocated headroom beyond the estimated total, which already includes contingency",
+      "value": 274500,
+      "unit": "per_person_trip",
+      "currency": "KRW",
+      "display": "₩274,500"
+    },
+    "tax_inclusive_room_nightly_ceiling": {
+      "label": "Planning ceiling for one twin room shared by both travellers, not a quote",
+      "value": 300000,
+      "unit": "per_room_night",
+      "currency": "KRW",
+      "display": "₩300,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-05"
+    ]
+  },
+  "datePolicy": "All source access dates are explicitly assigned by the original sources.md ledger to 2026-11-05, including qualified indexed/limited-access observations; they are not successful live-price confirmations or new localization checks. Hotel sample dates retain their exposed precision and uncertainty. Future stay is 2027-04-15 through 2027-04-18; November observations are not future availability.",
+  "uncertainties": [
+    "Published temporary K-ETA exemption ends 2026-12-31 KST; April 2027 requires recheck. No extension is established or ruled out.",
+    "Exact-date hotel inventory, tax-inclusive rates and cancellation terms not established. L7 is an undated indexed sample, not a reproduced live quote.",
+    "Blossom dates derive from a 2026 forecast, not a 2027 prediction. Weather, trail access, palace operations and vendor availability require rechecks.",
+    "US$1 = ₩1,400 is an assumed planning conversion. Future-trip costs and route durations are estimates, not quotes or verified future timetables.",
+    "Original full-page and viewport screenshot attempts timed out. Original lightweight DOM/layout check is not screenshot inspection. Separate package-local rendering evidence is recorded in checks/browser-batch9-spot-checks.json and checks/batch9-final-receipt.json; it does not revalidate external sources."
+  ],
+  "editingContract": "Readable English and Simplified Chinese corresponding lines, paragraphs and table cells retain matching complete numeric, currency, date and external URL literals. Headline displays are complete visible semantic values, not substitution fragments. Local source links are relative to the original stage2-pages tree for builder rebasing.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "First-time Seoul visitors sharing a room and balancing markets, walking and nightlife benefit from a manageable route, a clear spending limit and passport-specific entry checks.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

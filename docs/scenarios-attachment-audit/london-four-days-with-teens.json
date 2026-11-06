@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "3cf27d1f06d803d347c957d2759062a893c4f9f4a9199698439ebb6a258e9bca",
+  "sourceListLink": "../w6-london-teens-4days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "3d20eaa865cc5b5a30f554bfc8faa4fa20ee87bee1e6c4a68ce21a4f2f417b0a",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "0ad9a32a7f7133005d11547d539d79d9e454b10f7baec9fedd5b77b541b98621",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

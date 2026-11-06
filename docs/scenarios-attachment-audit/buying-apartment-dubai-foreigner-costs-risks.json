@@ -1,0 +1,95 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "b9f82708404ac58f972125321689760441c09bcd0d4760fd9e21cf3ea8d44b39",
+  "sourceListLink": "buying-apartment-dubai-foreigner-costs-risks-verification.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [
+    "/scenarios/buying-apartment-dubai-foreigner-costs-risks/Dubai-investment-model.xlsx"
+  ],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "002337d64d3b96833813ec8a24a9984d21a2c9af146c0d698c3f08b5fcbf2f3d",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "buying-apartment-dubai-foreigner-costs-risks-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-dubai-buy/Dubai-investment-model.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/buying-apartment-dubai-foreigner-costs-risks/Dubai-investment-model.xlsx"
+        },
+        {
+          "target": "../w4-dubai-buy/Dubai-investment-summary.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-MBL.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-MAG214.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-Beverly.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-Bloom-Heights-A.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/service-charge-evidence.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "8c3faaea1a85077356bea3a1c10cea6b46d2d83953e9102ee558fa2353a7d24b",
+      "faqPairs": 3,
+      "links": [
+        {
+          "target": "buying-apartment-dubai-foreigner-costs-risks-verification.md",
+          "disposition": "expanded-sources"
+        },
+        {
+          "target": "../w4-dubai-buy/Dubai-investment-model.xlsx",
+          "disposition": "hosted-workbook",
+          "publicUrl": "/scenarios/buying-apartment-dubai-foreigner-costs-risks/Dubai-investment-model.xlsx"
+        },
+        {
+          "target": "../w4-dubai-buy/Dubai-investment-summary.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-MBL.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-MAG214.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-Beverly.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/DLD-rental-index-Bloom-Heights-A.pdf",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w4-dubai-buy/service-charge-evidence.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

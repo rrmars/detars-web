@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "4ffcdd3f708778b879b7058c2215b27328033b7971cade567b1e8ce44a0b6690",
+  "sourceListLink": "../w5-taipei-3days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "48a2e5081cd74bce26ddf8649236f7020484eb6734d6e397250719f99052a618",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "8a3e202e8e39a843ddfb775e94b3551feea1fbfb7642e848ddb6dfa2f4771506",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

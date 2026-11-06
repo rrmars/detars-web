@@ -1,0 +1,95 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "US households combining two monthly salary checks with variable freelance income and family bills.",
+  "schemaVersion": 2,
+  "slug": "irregular-income-household-budget-template-us",
+  "translationKey": "irregular-income-household-budget-template-us",
+  "sources": [
+    {
+      "title": "USDA September 2026 food plans, issued October 2026",
+      "url": "https://fns-prod.azureedge.us/sites/default/files/resource-files/CostofFoodSep2026LowModLib.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "CCAoA 2025 price/supply report, published May 2026",
+      "url": "https://info.childcareaware.org/price-and-supply-2025",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "YMCA Wichita Falls preschool rates, effective August 17, 2026",
+      "url": "https://www.ymcawf.org/childcare/preschool/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Progressive's published question and answer",
+      "url": "https://www.progressive.com/answers/average-car-insurance-cost/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Amazon's US membership explanation",
+      "url": "https://www.aboutamazon.com/news/retail/how-to-sign-up-for-a-prime-membership",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "IRS FAQ",
+      "url": "https://www.irs.gov/faqs/estimated-tax/individuals/individuals-2",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "IRS overview",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
+      "accessDate": "2026-11-05"
+    }
+  ],
+  "headlineFigures": {
+    "first_month_breathing_room": {
+      "label": "First month breathing room",
+      "value": 325.53,
+      "currency": "USD",
+      "unit": "first_month",
+      "display": "$325.53"
+    },
+    "conservative_freelance_monthly_draw": {
+      "label": "Conservative freelance monthly draw",
+      "value": 2348.44,
+      "currency": "USD",
+      "unit": "per_month",
+      "display": "$2,348.44"
+    },
+    "first_month_total_separated_cash_pots": {
+      "label": "First month total separated cash pots",
+      "value": 11132.5,
+      "currency": "USD",
+      "unit": "month_end_cash",
+      "display": "$11,132.50"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "modelStatus": "Original run model not established by this localization task; not inferred from folder or product names.",
+    "localizationModel": "openai-codex/gpt-6.1-sol",
+    "researchDates": [
+      "2026-11-05"
+    ],
+    "articleVerificationDate": "2026-11-05",
+    "originalMarkdownSha256": "f1b2f2c49baec1c402280d96421808b2e856dfa1e8b668213e35e122a8e02d0d",
+    "originalAuditSha256": "2cd2eac45565dbc82cf280e3058db4e3199398868fb706c3bc29db53eb2a4ffa"
+  },
+  "datePolicy": "Unknown source-specific access dates stay unknown. Article verification day does not assert successful access to every source. Earlier snapshots, failed attempts and status notes remain distinct.",
+  "editingContract": "Both Markdown files contain complete human-readable literals. This semantic record does not substitute or globally deduplicate individual digits; check_i18n.py compares the two prose files and each named headline display.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "en": "Produced by a general Cowork task on DeTars.xyz"
+  },
+  "domain": "family",
+  "researchDates": [
+    "2026-11-05"
+  ],
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "sourceListLink": "#sources-and-access-dates"
+}

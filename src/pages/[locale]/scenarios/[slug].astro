@@ -1,0 +1,13 @@
+---
+import ScenarioPage from "@/layouts/ScenarioPage.astro";
+import { getScenarios, scenarioSlug } from "@/lib/scenarios";
+
+export async function getStaticPaths() {
+  return (await getScenarios()).filter((entry) => entry.data.locale === "zh").map((entry) => ({
+    params: { locale: "zh", slug: scenarioSlug(entry) }, props: { entry }
+  }));
+}
+const { entry } = Astro.props;
+---
+
+<ScenarioPage entry={entry} />

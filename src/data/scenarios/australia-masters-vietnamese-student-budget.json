@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 2,
+  "slug": "australia-masters-vietnamese-student-budget",
+  "translationKey": "australia-masters-vietnamese-student-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Vietnamese Finance graduate in Ho Chi Minh City with IELTS overall 6.5 and an AUD 120,000 family ceiling, comparing Melbourne/Sydney coursework masters; Simplified Chinese enables route comparison without changing Vietnamese passport, admissions or scholarship eligibility.",
+  "sources": [
+    {
+      "title": "V1 — Home Affairs — Student visa (subclass 500)",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "V2 — Home Affairs — current visa pricing",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "V3 — Federal Register — Migration Regulations 1994, volume 1, Schedule 1 item 1222",
+      "url": "https://www.legislation.gov.au/F1996B03551/2026-10-02/2026-10-02/text/original/epub/OEBPS/document_1/document_1.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "V4 — Home Affairs — Genuine Student requirement",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P1 — Department of Education — managed international education",
+      "url": "https://www.education.gov.au/managed-system-international-education",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P2 — Study Australia — 2027 international education settings",
+      "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/news/australia-confirms-international-education-settings-for-2027",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P3 — Home Affairs minister — Student visa integrity reforms",
+      "url": "https://minister.homeaffairs.gov.au/JulianHill/Pages/student-visa-integrity-reforms-take-effect-today.aspx",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P4 — Home Affairs — GS and financial capacity consultation",
+      "url": "https://www.homeaffairs.gov.au/help-and-support/how-to-engage-us/consultations/consultation-on-proposed-reforms-to-the-genuine-student-requirement-and-financial-capacity-framework",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "P5 — Study Australia — visa application charge increase",
+      "url": "https://www.studyaustralia.gov.au/en/Agent-Hub/agent-news-index/student-visa-application-charge-increase",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D1 — Deakin — 2027 international Master of Finance handbook",
+      "url": "https://handbook.deakin.edu.au/courses-search/course.php?course=M750&year=2027&stutype=international",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D2 — Deakin — international March 2027 intake deadlines",
+      "url": "https://www.deakin.edu.au/international-students/choosing-your-degree/start-in-march",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D3 — Deakin — key dates",
+      "url": "https://www.deakin.edu.au/study/key-dates?international=true",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D4 — Deakin — International 20% Merit Scholarship",
+      "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/deakin-international-20-merit-scholarship",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D5 — Deakin — International Scholarship for Excellence",
+      "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/deakin-international-scholarship-for-excellence",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R1 — RMIT — Master of Finance",
+      "url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-finance-mc201",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R2 — RMIT — Master of Finance international apply information",
+      "url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-finance-mc201/apply-now",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R3 — RMIT — international intake information",
+      "url": "https://www.rmit.edu.au/study-with-us/international-students/intakes-in-australia-for-international-students",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L1 — La Trobe — Master of Business Analytics 2027 international overview",
+      "url": "https://www.latrobe.edu.au/courses/master-of-business-analytics#/overview?location=BU&studentType=int&year=2027",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L2 — La Trobe — Business Analytics entry requirements",
+      "url": "https://www.latrobe.edu.au/courses/master-of-business-analytics#/entry-requirements?location=BU&studentType=int&year=2027",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L3 — La Trobe — academic calendar",
+      "url": "https://www.latrobe.edu.au/calendar/academic-calendar",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "L4 — La Trobe — international Victorian postgraduate applications",
+      "url": "https://www.latrobe.edu.au/study/apply/international/postgrad/vic",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C1 — RMIT — cost of living in Melbourne",
+      "url": "https://www.rmit.edu.au/study-with-us/moving-to-melbourne/costs-of-living",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A1 — Australia Awards Vietnam —2027 key dates",
+      "url": "https://australiaawardsvietnam.org/applicants/key-dates/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M1 — Macquarie — Master of Banking and Finance",
+      "url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "U1 — UTS — Master of Finance",
+      "url": "https://www.uts.edu.au/courses/master-of-finance",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "U2 — UTS — international application dates",
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/application-dates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "U3 — UTS —2027 academic year dates",
+      "url": "https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/academic-year-dates/2027-academic-year-dates",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C2 — Macquarie — Sydney living expenses",
+      "url": "https://www.mq.edu.au/study/information-for/international/living-study-sydney/expenses",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C3 — UTS — cost of living in Sydney",
+      "url": "https://www.uts.edu.au/for-students/international/life-in-sydney/cost-of-living",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C4 — UTS Yura Mudang —2027 residential fees",
+      "url": "https://www.uts.edu.au/for-students/current-students/support/uts-housing-service/our-residence-yura-mudang/fees",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S1 — Macquarie —15,000 Early Acceptance Scholarship",
+      "url": "https://www.mq.edu.au/study/admissions-and-entry/scholarships/international/macquarie-university-15-000-early-acceptance-scholarship/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S2 — Macquarie — ASEAN 10,000 scholarship",
+      "url": "https://www.mq.edu.au/study/admissions-and-entry/scholarships/international/asean-10-000-early-acceptance-scholarship/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "S3 — UTS — Academic Merit International Scholarship",
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-academic-merit-international-scholarship",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "family_budget_ceiling": {
+      "value": 120000,
+      "display": "AUD 120,000",
+      "label": "Family full-course cash ceiling; single Vietnamese student, no assumed wages",
+      "unit": "single_student_cash_ceiling",
+      "currency": "AUD"
+    },
+    "deakin_no_award_total": {
+      "value": 143608,
+      "display": "AUD 143,608",
+      "label": "Rounded cheapest no-award example; approved shortened route and standard Melbourne living",
+      "unit": "conditional_full_course_cash_envelope",
+      "currency": "AUD"
+    },
+    "deakin_lean_award_total": {
+      "value": 118533,
+      "display": "AUD 118,533",
+      "label": "Rounded lean example ONLY with approved 1.5 years, confirmed 25% award and AUD 550/week living",
+      "unit": "conditional_full_course_cash_envelope",
+      "currency": "AUD"
+    },
+    "lean_route_headroom": {
+      "value": 1467,
+      "display": "AUD 1,467",
+      "label": "Rounded remaining headroom; contingency and refundable bond already included, not a guarantee",
+      "unit": "conditional_budget_headroom",
+      "currency": "AUD"
+    },
+    "lean_weekly_living": {
+      "value": 550,
+      "display": "AUD 550",
+      "label": "Unquoted lean Melbourne weekly allocation; actual suitable housing required",
+      "unit": "unquoted_weekly_living_allowance",
+      "currency": "AUD"
+    }
+  },
+  "budgetScenarios": [
+    {
+      "route": "Deakin Finance •1.5yr, no award",
+      "baseline_tuition": 72000,
+      "months": 19,
+      "city": "Melbourne",
+      "scholarship_factor": 1,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 32500,
+      "other_cash": 16550,
+      "tuitionWithReserve": 75600,
+      "livingTotal": 51458,
+      "totalEnvelope": 143608,
+      "overBudget": 23608
+    },
+    {
+      "route": "RMIT Finance •1.5yr, approved credit",
+      "baseline_tuition": 77280,
+      "months": 19,
+      "city": "Melbourne",
+      "scholarship_factor": 1,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 32500,
+      "other_cash": 16550,
+      "tuitionWithReserve": 81144,
+      "livingTotal": 51458,
+      "totalEnvelope": 149152,
+      "overBudget": 29152
+    },
+    {
+      "route": "La Trobe Analytics •2yr",
+      "baseline_tuition": 93600,
+      "months": 25,
+      "city": "Melbourne",
+      "scholarship_factor": 1,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 32500,
+      "other_cash": 17150,
+      "tuitionWithReserve": 98280,
+      "livingTotal": 67708,
+      "totalEnvelope": 183138,
+      "overBudget": 63138
+    },
+    {
+      "route": "Macquarie Banking & Finance •1.5yr, approved related degree",
+      "baseline_tuition": 73800,
+      "months": 19,
+      "city": "Sydney",
+      "scholarship_factor": 1,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 39000,
+      "other_cash": 16550,
+      "tuitionWithReserve": 77490,
+      "livingTotal": 61750,
+      "totalEnvelope": 155790,
+      "overBudget": 35790
+    },
+    {
+      "route": "UTS Finance •1.5yr, no award",
+      "baseline_tuition": 84588,
+      "months": 19,
+      "city": "Sydney",
+      "scholarship_factor": 1,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 39000,
+      "other_cash": 16550,
+      "tuitionWithReserve": 88817,
+      "livingTotal": 61750,
+      "totalEnvelope": 167117,
+      "overBudget": 47117
+    },
+    {
+      "route": "Macquarie •1.5yr, conditional22,500 award",
+      "baseline_tuition": 73800,
+      "months": 19,
+      "city": "Sydney",
+      "scholarship_factor": 0.6951219512195121,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 39000,
+      "other_cash": 16550,
+      "tuitionWithReserve": 53865,
+      "livingTotal": 61750,
+      "totalEnvelope": 132165,
+      "overBudget": 12165
+    },
+    {
+      "route": "UTS •1.5yr, conditional15%award",
+      "baseline_tuition": 84588,
+      "months": 19,
+      "city": "Sydney",
+      "scholarship_factor": 0.85,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 39000,
+      "other_cash": 16550,
+      "tuitionWithReserve": 75495,
+      "livingTotal": 61750,
+      "totalEnvelope": 153795,
+      "overBudget": 33795
+    },
+    {
+      "route": "Deakin Finance •1.5yr, conditional20% award",
+      "baseline_tuition": 72000,
+      "months": 19,
+      "city": "Melbourne",
+      "scholarship_factor": 0.8,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 32500,
+      "other_cash": 16550,
+      "tuitionWithReserve": 60480,
+      "livingTotal": 51458,
+      "totalEnvelope": 128488,
+      "overBudget": 8488
+    },
+    {
+      "route": "Deakin Finance •1.5yr, conditional25% award",
+      "baseline_tuition": 72000,
+      "months": 19,
+      "city": "Melbourne",
+      "scholarship_factor": 0.75,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 32500,
+      "other_cash": 16550,
+      "tuitionWithReserve": 56700,
+      "livingTotal": 51458,
+      "totalEnvelope": 124708,
+      "overBudget": 4708
+    },
+    {
+      "route": "Deakin25% + lean Melbourne living*",
+      "baseline_tuition": 72000,
+      "months": 19,
+      "city": "Lean Melbourne",
+      "scholarship_factor": 0.75,
+      "tuition_reserve_factor": 1.05,
+      "living_annual": 28600,
+      "other_cash": 16550,
+      "tuitionWithReserve": 56700,
+      "livingTotal": 45283,
+      "totalEnvelope": 118533,
+      "overBudget": -1467
+    }
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "All source entries explicitly record November 6, 2026 Asia/Singapore in the original sources.md. Localization on 2026-11-06 is not source refresh, publication or independent current-law certification. No external re-research performed; rules, fees and future dates remain dated snapshots. Calendar-year mappings of recurring deadlines remain interpretations.",
+  "uncertainties": [
+    "No no-scholarship example fits AUD 120,000. The AUD 118,533 lean Deakin example requires written 25% award, approved 1.5-year duration and suitable living at AUD 550/week; AUD 1,467 headroom is not comfortable. Even standard living with a 25% award exceeds ceiling.",
+    "Deakin programme-specific March/July 2027 availability and July Vietnam deadline unverified; Macquarie Vietnam-specific offshore cutoff unverified; La Trobe exact international hard cutoff unverified; RMIT July deadlines TBC. General calendars and late final cutoffs are not visa-ready offshore targets.",
+    "IELTS component scores/test validity, degree equivalence, institution/transcript, graduation date, credit outcome, GPA equivalence, scholarship funding and written offer/payment/refund terms remain applicant-specific unknowns. Chinese locale preserves Vietnamese eligibility, not general eligibility for Chinese citizens.",
+    "No actual rent, OSHC, flight or health/biometrics/translation quote. Living assumptions are flat over 19/25 months; insurance roughly 22/28 months needs exact visa-period quote. Bond is tied-up refundable cash; advance rent already in living. No wages fund the envelope.",
+    "Tuition 5% reserve is a blanket planning uplift, not announced escalation. UTS indicative total already includes estimated increases; RMIT uses stated totals, not annual multiplication. Extra/repeated units or extended study can exceed all allowances.",
+    "Visa and policy details are retained November 6 snapshots, not refreshed legal advice. CoE, genuine funds, OSHC and grant work conditions must be checked at lodging. 2027 planning level is not a hard visa cap; scheduled transfer stream and consultation are not treated as already in force.",
+    "Planning checkpoints December 15, January 8 and April–May are not official visa deadlines or decision guarantees. Australia Awards 2027 round already closed. No future round deadline invented. Shortened study is not assumed sufficient for subclass 485.",
+    "Original Melbourne note repeats generic RMIT interview dates, but final plan/sources explicitly say no Finance selection task; drafts follow that more specific final reconciliation and do not impose an interview deadline.",
+    "No application, account, contact, payment, booking, publication, source-run edit or website repository edit. Parent owns inventory, HTML build and full-package checks; author verifies only assigned MD/JSON and review."
+  ],
+  "editingContract": "Local English and Simplified Chinese Markdown, schemaVersion 2 JSON and author-review only. Preserve useful courses, eligibility, full budgets, scholarships, deadlines, visa/policy status and warnings; numeric/date/currency/URL multiplicities and corresponding table cells checked read-only with content_utils. No shared builder/checker/inventory/README modifications, Review/stars or reader directions to unhosted local attachments.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

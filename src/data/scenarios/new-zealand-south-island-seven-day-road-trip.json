@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 2,
+  "slug": "new-zealand-south-island-seven-day-road-trip",
+  "translationKey": "new-zealand-south-island-seven-day-road-trip",
+  "sources": [
+    {
+      "title": "M1 — Rome2Rio: Queenstown Airport → Queenstown",
+      "url": "https://www.rome2rio.com/s/Queenstown-Airport-(-45.02213%2C168.7393)/Queenstown-(-45.03219%2C168.661)",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M2 — Rome2Rio: Queenstown → Te Anau",
+      "url": "https://www.rome2rio.com/s/Queenstown-New-Zealand/Te-Anau",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M3 — Rome2Rio: Te Anau → Wānaka",
+      "url": "https://www.rome2rio.com/s/Te-Anau/Lake-Wanaka",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M4 — Rome2Rio: Wānaka → Mount Cook Village",
+      "url": "https://www.rome2rio.com/s/W%C4%81naka/Mount-Cook-Village",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M5 — Rome2Rio: Mount Cook Village → Lake Tekapo",
+      "url": "https://www.rome2rio.com/s/Mount-Cook-Village/Lake-Tekapo",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M6 — Rome2Rio: Lake Tekapo → Christchurch",
+      "url": "https://www.rome2rio.com/s/Lake-Tekapo/Christchurch",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "M7 — Rome2Rio: Christchurch centre → airport",
+      "url": "https://www.rome2rio.com/s/Christchurch-Central-City/Christchurch-Airport-CHC",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D1 — DOC: Mount Iron Track",
+      "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/mount-iron-track/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D2 — DOC: Kea Point Track",
+      "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/kea-point-track/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "D3 — DOC: Hooker Valley Track",
+      "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/hooker-valley-track/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C1 — RealNZ: Milford day trip from Te Anau",
+      "url": "https://www.realnz.com/en/experiences/day-cruises/milford-sound-day-trip-from-te-anau/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "C2 — Southern Discoveries: Coach & Nature Cruise",
+      "url": "https://www.southerndiscoveries.co.nz/milford-sound/day-trips/coach-nature-cruise/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R1 — NZTA: SH94 Milford Road",
+      "url": "https://nzta.govt.nz/projects/sh94-milford-road",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "R2 — NZTA Journey Planner",
+      "url": "https://www.journeys.nzta.govt.nz/journey-planner",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "O1 — Omega rental terms",
+      "url": "https://www.omegarentalcars.com/terms-and-conditions/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "O2 — Omega insurance exclusions",
+      "url": "https://www.omegarentalcars.com/insurance/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "O3 — Omega Queenstown Airport branch",
+      "url": "https://www.omegarentalcars.com/queenstown-airport-car-rental/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "O4 — Omega Christchurch Airport branch",
+      "url": "https://www.omegarentalcars.com/car-rental-christchurch-airport/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A1 — Apex FAQ",
+      "url": "https://www.apexrentals.co.nz/rental-info/frequently-asked-questions",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "A2 — Apex excess reduction",
+      "url": "https://www.apexrentals.co.nz/rental-info/excess-reduction-cover",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E1 — EZU Queenstown",
+      "url": "https://www.ezucarrental.com/locations/queenstown",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E2 — EZU FAQ",
+      "url": "https://www.ezucarrental.com/faq",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E3 — EZU NZ rental terms",
+      "url": "https://www.ezucarrental.com/faq/terms",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "F1 — Things petrol / Pricewatch sample",
+      "url": "https://thngs.co.nz/petrol",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "I1 — INZ: Australians travelling to NZ",
+      "url": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/australian-citizens-and-permanent-residents-travelling-to-new-zealand/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "I2 — INZ: Australian Resident Visa",
+      "url": "https://www.immigration.govt.nz/visas/australian-resident-visa/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "I3 — Official NZeTA fees",
+      "url": "https://nzeta.immigration.govt.nz/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "I4 — INZ: IVL rules",
+      "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/fees-processing-times-and-refunds/paying-the-international-visitor-levy/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "I5 — NZ Traveller Declaration",
+      "url": "https://www.travellerdeclaration.govt.nz/about/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "I6 — MPI: declare risk goods",
+      "url": "https://www.mpi.govt.nz/bring-send-to-nz/bringing-and-posting-items-to-nz/how-to-declare-items-when-arriving-in-nz",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "I7 — INZ: Chinese and Pacific visitors from Australia",
+      "url": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/chinese-and-pacific-island-visitors-travelling-from-australia/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H1 — Bella Vista Queenstown",
+      "url": "https://www.newzealand.com/uk/plan/business/bella-vista-queenstown-motel/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H2 — The Embassy — Ambassador",
+      "url": "https://www.theembassyqueenstown.co.nz/accommodation",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H3 — Lakefront Lodge — Studio",
+      "url": "https://www.lakefrontlodgeteanau.com/rooms",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H4 — Distinction Hotel & Villas",
+      "url": "https://www.distinctionhotelsteanau.co.nz/x,1002,690,2859,,,/stay2-save.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H5 — Manuka Crescent — Classic Studio",
+      "url": "https://www.manukacrescentmotel.co.nz/accommodation-wanaka.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H6 — Bella Vista Wānaka",
+      "url": "https://www.newzealand.com/au/plan/business/bella-vista-motel-wanaka-1/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H7 — Mt Cook Lodge",
+      "url": "https://www.hermitage.co.nz/stay",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H8 — Hermitage Hotel",
+      "url": "https://www.hermitage.co.nz/stay",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H9 — The Alps",
+      "url": "https://www.accommodationtekapo.com/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H10 — Grand Suites — One Bedroom",
+      "url": "https://grandsuitestekapo.co.nz/accommodation/one-bedroom-unit/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H11 — Raceway Motel — Two Bedroom",
+      "url": "https://raceway.co.nz/accommodation/two-bedroom-units/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "H12 — Athena Motel Riccarton",
+      "url": "https://www.athenamotel.co.nz/book-now/",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "couple_total_envelope": {
+      "label": "Planning envelope for two, excluding international flights; not a purchasable package",
+      "value": 4500,
+      "unit": "trip_budget_target",
+      "currency": "NZD",
+      "display": "NZ$4,500"
+    },
+    "planned_spending": {
+      "label": "Estimated targets plus published fee references, excluding contingency",
+      "value": 4285,
+      "unit": "trip_spending_target",
+      "currency": "NZD",
+      "display": "$4,285"
+    },
+    "unspent_contingency": {
+      "label": "Small retained buffer, not sufficient for major disruption",
+      "value": 215,
+      "unit": "contingency",
+      "currency": "NZD",
+      "display": "$215"
+    },
+    "accommodation_target": {
+      "label": "Seven-night targets, not advertised-floor sum or booked availability",
+      "value": 1840,
+      "unit": "seven_night_target",
+      "currency": "NZD",
+      "display": "NZ$1,840"
+    },
+    "milford_couple_reference": {
+      "label": "RealNZ published adult from-price multiplied by two, not travel-date quote",
+      "value": 538,
+      "unit": "couple_from_price",
+      "currency": "NZD",
+      "display": "$538"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Source-specific access dates retain the original 2026-11-06 Singapore-local register date; some machine receipts may say 2026-11-05 UTC. Localization on 2026-11-06 is not a research, rule, tariff or availability refresh. Seen dates are distinct from travel dates and tariff effective dates. No external research performed.",
+  "uncertainties": [
+    "Seven nights span eight calendar dates, 2027-03-06 through 2027-03-13. Four-hour limit is personal driving only; Milford coach still involves 4–6 hours passenger road travel. A total-road-time cap is not met.",
+    "March room and car inventory, final room charges and occupancy/night units where flagged, actual rental base price, pickup/return clock times and flight compatibility remain unknown.",
+    "Tekapo The Alps minimum stay, cleaning/cancellation and final couple price are unverified; Manuka nightly/currency unit, Mt Cook nightly/two-person basis and Raceway overnight/occupancy basis need confirmation. Distinction older generic expiry text conflicts with the specific offer.",
+    "Apex cover prices and exact class-specific standard excess, EZU agreed one-way fee and complete all-in comparison remain unverified. Zero excess retains exclusions. Bonds need separate cash or credit capacity.",
+    "Rome2Rio figures are public indexed non-stop baselines after direct pages challenged access; driving padding, mileage, fuel consumption, food, parking, insurance and contingency are estimates. Weather, route selection and future DOC/NZTA conditions need checking.",
+    "Fuel sample is private Pricewatch-based, at least 24 hours delayed, not an official census or travel-date forecast. Main budget assumes Australian citizens; PR and other-passport requirements and Chinese/Pacific pathway eligibility must be checked individually for travel.",
+    "NZ$4,500 is a target envelope excluding international flights, premium activities and major disruption funding, not confirmed buyable inventory. Higher car and Tekapo prices can exceed the small buffer."
+  ],
+  "editingContract": "English and Simplified Chinese reader-first local drafts, exact numeric/date/currency/external URL multiplicity and corresponding table-cell parity. No stars, Review markup, public attachment promises, publication or shared inventory/build/check edits.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Chinese-speaking travellers planning the same gentle South Island trip from Sydney; passport, Australian immigration status, driver eligibility and walking needs remain individual, not changed by language.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

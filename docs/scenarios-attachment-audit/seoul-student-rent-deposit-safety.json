@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "bbc4c2b9c62a58d185eef8bb5680ccbec9353eeb2d8164649ef0041936da3e37",
+  "sourceListLink": "../w6-seoul-student-rent/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "9b61146b1b06d5286aaa909320c4ecd07470bced26ed412ae99169f8a778aacb",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "4487e8a4cab4e84152df88e5833c3f834a981a76293b11b1d83d56a38f51473e",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

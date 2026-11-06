@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "f975a9b84a7b6e594369cc31f9be61072131042c279c7b6113b465f307fb844f",
+  "sourceListLink": "../w5-istanbul-4days/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "32088e435418a4f88ff537826df4bd49ed7de430cd514bac4006b6e9e0a654e6",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "c6e044b14a8392b24addcb9614b119eb354f638b6e23b3925b37b190c4685bc3",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

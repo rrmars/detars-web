@@ -1,0 +1,18 @@
+---
+import Base from "@/layouts/Base.astro";
+import ScenarioIndex from "@/components/ScenarioIndex.astro";
+import { scenarioContentLocale, scenarioIndexCopy } from "@/lib/scenarios";
+import { localeSegment, nonDefaultLocales, type Locale } from "@/lib/site";
+
+export function getStaticPaths() {
+  return nonDefaultLocales.map((locale) => ({ params: { locale: localeSegment[locale] }, props: { locale } }));
+}
+const { locale } = Astro.props as { locale: Locale };
+const contentLocale = scenarioContentLocale(locale);
+const copy = scenarioIndexCopy(locale);
+---
+
+<Base locale={locale} contentLocale={contentLocale} route="/scenarios" title={copy.title} description={copy.description}
+  canonicalLocale={contentLocale} alternateLocales={["en", "zh"]}>
+  <ScenarioIndex locale={locale} />
+</Base>

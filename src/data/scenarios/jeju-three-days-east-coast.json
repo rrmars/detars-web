@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "slug": "jeju-three-days-east-coast",
+  "translationKey": "jeju-three-days-east-coast",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Three friends travelling from Seoul for an east-coast Jeju weekend; English and Simplified Chinese support the same itinerary, with Korean-licence and foreign-IDP routes distinguished and no nationality eligibility assumed.",
+  "sources": [
+    {
+      "title": "Office Holidays — South Korea 2027",
+      "url": "https://www.officeholidays.com/countries/south-korea/2027",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "timeanddate — South Korea 2027",
+      "url": "https://www.timeanddate.com/holidays/south-korea/2027",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tamra default public listing",
+      "url": "https://www.jejutamra.com/rent/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tamra compact listing for requested dates",
+      "url": "https://www.jejutamra.com/rent/?sdate=2027-10-01&edate=2027-10-03&shour=10:00&ehour=18:00&modeltype=c",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "K3 2024 selected UCDW detail",
+      "url": "https://www.jejutamra.com/rent/detail.php?modelid=158&sdate=2027-10-01&shour=10:00&edate=2027-10-03&ehour=18:00&fuel=Gasoline&bohum=wanja",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tamra requirements and insurance guides",
+      "url": "https://www.jejutamra.com/info/?infopage=1",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Tamra requirements and insurance guides",
+      "url": "https://www.jejutamra.com/info/?infopage=2",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "LOTTE official rental information",
+      "url": "https://m.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Korea National Oil Corporation — Opinet regional average selling prices",
+      "url": "https://www.opinet.co.kr/user/dopospdrg/dopOsPdrgAreaView.do",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Jeju Bus Information System — desktop fares/transfer table",
+      "url": "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official route 101 eastbound",
+      "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=1950",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official route 101 airport-bound",
+      "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=1951",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Official route 201 east/southbound",
+      "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2439",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Korea Tourism Organization — east-coast bus itinerary",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Korea Tourism Organization official Seongsan Ilchulbong listing",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110731",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Visit Jeju — Seongsan Ilchulbong ascent description",
+      "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Jeju Olle official route directory",
+      "url": "https://www.jejuolle.org/trail#/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Asia Economy route report",
+      "url": "https://www.asiae.co.kr/en/article/2024101714490329904",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Wowo astronomical table — Seongsan Ilchulbong October 2027",
+      "url": "https://www.qiuwowo.com/richuriluo/en/south_korea/seongsan_ilchulbong/2027-10",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Jeju Haenyeo Museum official visitor guide",
+      "url": "https://www.jeju.go.kr/haenyeo/exhibit/guide.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Breeze Bay Hotel — public Expedia property listing",
+      "url": "https://www.expedia.com.sg/Seogwipo-Hotels-Breeze-Bay-Hotel.h11840121.Hotel-Information",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Playce Camp Jeju — Vio public property page",
+      "url": "https://www.vio.com/Hotel/3179221/en",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Childonga Seongsan",
+      "url": "https://www.diningcode.com/profile.php?rid=Wg08xwEucGJU",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Orrrn",
+      "url": "https://www.diningcode.com/profile.php?rid=Vd3JV3JUDsoY",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Café Hallasan",
+      "url": "https://www.diningcode.com/profile.php?rid=qgKhhlFM7gOE",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "car_trip_budget": {
+      "value": 544100,
+      "display": "₩544,100",
+      "label": "Per-person conditional car total including reserve; flights excluded",
+      "currency": "KRW",
+      "unit": "per_person_planning_amount"
+    },
+    "bus_trip_budget": {
+      "value": 456100,
+      "display": "₩456,100",
+      "label": "Per-person bus alternative including same reserve",
+      "currency": "KRW",
+      "unit": "per_person_planning_amount"
+    },
+    "personal_budget_ceiling": {
+      "value": 600000,
+      "display": "₩600,000",
+      "label": "Per-person land-trip ceiling, not liability cap",
+      "currency": "KRW",
+      "unit": "per_person_planning_amount"
+    },
+    "unspent_trip_reserve": {
+      "value": 100000,
+      "display": "₩100,000",
+      "label": "Per-person unspent reserve, not insurance",
+      "currency": "KRW",
+      "unit": "per_person_planning_amount"
+    },
+    "car_budget_headroom": {
+      "value": 55900,
+      "display": "₩55,900",
+      "label": "Per-person car total below ceiling",
+      "currency": "KRW",
+      "unit": "per_person_planning_amount"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ]
+  },
+  "datePolicy": "Original source access dates remain November 6, 2026 Korea local date (some receipts November 5 UTC); fuel data November 5. Author local arithmetic, weekday, literal and registry checks are not external refreshes. Director separately reports successful Office Holidays re-fetch on November 6; its separate audit owns that evidence. Other sources, including timeanddate, retain original observations only; no fresh official-calendar confirmation claimed here. No publication date invented.",
+  "uncertainties": [
+    "Tamra dated K3 requires 26+ and licence held over one year; LOTTE general 21 minimum does not transfer Tamra pricing. All-in under-26 eligible-car pricing unresolved; reference rates exclude unpriced waiver.",
+    "CDW expires after one accident. UCDW exclusions and ambiguous own-vehicle deductible remain material; liability category deductibles are not a total loss cap, and trip reserve is not accident-liability insurance.",
+    "No October 2027 three-adult hotel quote or availability. Breeze Bay SGD55 was a two-adult November teaser not tied to triple room; repeat blocked. Playce JPY5428 is November two-guest average, not a selected-date quote; two rooms must be compared.",
+    "Holiday dates retained from secondary calendars, not official-calendar certification; later temporary holiday announcements possible. Booking pressure is inference, not measured premium.",
+    "Return timing corrected only in new pages: arrive rental area 17:00, finish return 17:45, allow 30–45 minutes, terminal target 18:30 for assumed 20:30 flight; original supplier booking boundary remains 18:00. Transfers/traffic remain planning estimates.",
+    "Current fares, menu prices, museum/summit opening and astronomical sunrise are dated observations, not 2027 guarantees. Wind/storms can close summit or make trail unsafe; no trip-date forecast or taxi availability established.",
+    "Recomputed per-person car allocation 444100 before reserve, 544100 with reserve, headroom 55900 under 600000; bus 456100. Flights, Seoul airport access, travel insurance and accident/fine exposure excluded."
+  ],
+  "editingContract": "Local English and Simplified Chinese Markdown plus schema v2 JSON only; source-grounded self-checks, whole-body and corresponding table-cell literal parity. No source-run/shared inventory/build/renderer edits, no new Review or public attachment promises.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}
