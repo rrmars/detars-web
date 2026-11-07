@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 2,
+  "slug": "bangkok-family-car-ev-hybrid-petrol",
+  "translationKey": "bangkok-family-car-ev-hybrid-petrol",
+  "sources": [
+    {
+      "title": "ExpatDen secondary annual-tax guide",
+      "url": "https://expatden.com/thailand/how-to-renew-your-car-tax-in-thailand/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ttb hire-purchase factsheet",
+      "url": "https://media.ttbbank.com/1/hire-purchase/salesheet_hire-purchase.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BYD ATTO 3 model and Extended price",
+      "url": "https://reverautomotive.com/model/newatto3/overview",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BYD ATTO 3 technical specifications",
+      "url": "https://reverautomotive.com/model/newatto3/tech-spec",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Excise EV3.5 release",
+      "url": "https://webdev.excise.go.th/act2560/files/secretary/press3-2567.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Excise EV3.5 claim form",
+      "url": "https://webdev.excise.go.th/act2560/files/thaweesak/แบบฟอร์มภาษีสรรพสามิต_2560/01/ยฟ.01-03-ระยะที่-2.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AXA compulsory insurance",
+      "url": "https://www.axa.co.th/en/compulsory-motor-insurance",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Secondary imported-EV excise report",
+      "url": "https://www.chinanews.com/gj/2026/11-04/10725705.shtml",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Honda HR-V model and prices",
+      "url": "https://www.honda.co.th/hrvehev",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Honda HR-V specifications",
+      "url": "https://www.honda.co.th/hrvehev/specification",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mazda CX-30 Essential",
+      "url": "https://www.mazda.co.th/th/cars/mazda-cx30-essential",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mazda3 Sedan",
+      "url": "https://www.mazda.co.th/th/cars/mazda3-sedan",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MG S5 EV PLUS model",
+      "url": "https://www.mgcars.com/th/cars/mg-s5-ev-plus",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MG November campaign",
+      "url": "https://www.mgcars.com/th/promotions/NEW-MGS5-EV-PLUS-Promotion",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOT EV annual-tax example",
+      "url": "https://www.mot.go.th/transportnews/159",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PEA VOLTA retail charging",
+      "url": "https://www.pea.co.th/knowledge/ev-charging",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PEA Ft",
+      "url": "https://www.pea.co.th/our-services/tariff/ft",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PEA September electricity schedule",
+      "url": "https://www.pea.co.th/sites/default/files/users/user34/attachments/Electricity_Tariff_SEP_2026_3.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PTT/OR fuel prices",
+      "url": "https://www.pttor.com/th/oil_price",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Roojai compulsory insurance",
+      "url": "https://www.roojai.com/en/car-insurance/compulsory",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Toyota Corolla Cross grades and prices",
+      "url": "https://www.toyota.co.th/model/corollacross/grade",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "atto_base_tco": {
+      "label": "Conditional financed five-year BYD base TCO, cheapest base total",
+      "value": 972693,
+      "unit": "THB",
+      "display": "THB 972,693"
+    },
+    "charger_allowance": {
+      "label": "Unconfirmed one-time charger installation allowance",
+      "value": 45000,
+      "unit": "THB",
+      "display": "THB 45,000"
+    },
+    "public_annual_energy": {
+      "label": "Annual public-only EV energy cost at assumed consumption and rate",
+      "value": 22356,
+      "unit": "THB_per_year",
+      "display": "THB 22,356"
+    },
+    "installation_payback": {
+      "label": "Simple installation payback before extra meter fees and maintenance",
+      "value": 8.42,
+      "unit": "years",
+      "display": "8.42"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned index, source ledger and independent check read locally with relevant retained evidence. No web/network, new research, contact, build or publication. Source-specific dates follow the original ledger. Local checker-function imports and read-only arithmetic only.",
+    "originalResearchAccessLimitations": "Earlier failed managed-browser fallbacks lacked certified session cleanliness. Later original-run unauthenticated downloads and independent local audit do not retroactively certify those attempts. No new fallback attempted.",
+    "reviewReconciliation": "Independent audit passes financial reconstruction 373/373. Director closeout narrowed AXA to starts-at attribution; current sources.md matches corrected hash 533fee2644ac6b3f10d387e9dad42fe2f017b0b3f064b96ca4a370bfee48088c. No source-run edit."
+  },
+  "datePolicy": "All source access dates November 7, 2026 explicitly stated in original sources.md. Publication/effective dates remain source-specific and unknown if absent. No research refresh, new quote or policy update implied.",
+  "uncertainties": [
+    "Condo permission, metering category, transformer/cable capacity, compliant installed scope and final billing unknown; THB45,000, THB30,000–80,000 and condo6.00 are assumptions.",
+    "MEA-specific tariff/Ft, current Thai VAT primary instrument, January–April 2027 Ft, DLT weight/class/cc and OIC statutory checks remain open.",
+    "Exact 2027 incentive/excise instruments/exceptions, VIN entitlement and delivered retail prices unknown. Never deduct subsidy twice or add reported 35% mechanically.",
+    "Only BYD/Toyota numerical seating primary-supported. MG/Honda/Mazda numerical seat counts, Toyota E20 and Toyota/Mazda cc still unresolved; Mazda E20 supplement is supported.",
+    "Insurance, service, tyres and resale are allowances; consumption is not measured. Resale35/50/45 percent is broad judgment, not completed Thai sales. Mileage sensitivities isolate energy only.",
+    "Actual finance approval/fees, warranty terms and insurance exclusions, station uptime/queues and time cost unresolved. Existing common costs, registration/admin and unexpected repairs excluded, not free.",
+    "Historical browser-cleanliness exception retained; no new source authentication or visual/build certification."
+  ],
+  "editingContract": "Only assigned new JSON, en/zh Markdown and batch27 notes. No original/shared file, inventory, renderer or build changes. No Review markup.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Bangkok resident families, including Chinese-speaking households, comparing Thai-market EV, hybrid and petrol cars and condo charging; Bang Na family-of-four and early-2027 finance assumptions unchanged.",
+  "localeReason": "Chinese makes Bangkok car ownership and condo-charging choices useful to Chinese-speaking resident families; it changes neither Thai policy/finance assumptions nor vehicle or incentive eligibility.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

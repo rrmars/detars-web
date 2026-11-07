@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "44caf871d40631e30b131b3e098bb5155bd5da8c1f8c464b8d1320afa37b70db",
+  "sourceListLink": "../w7-seoul-korean-language-student-indonesia/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f34a5620ff02c87ee91c2cb8deebb503d4b9fcb37eede5b1022b758a1ec12dc4",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "fb01323840a983ce925ac0a35f474259d9cd06a8d112bb5550db7acfe8e50d08",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

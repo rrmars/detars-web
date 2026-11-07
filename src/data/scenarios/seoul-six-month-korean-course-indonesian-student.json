@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 2,
+  "slug": "seoul-six-month-korean-course-indonesian-student",
+  "translationKey": "seoul-six-month-korean-course-indonesian-student",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Prospective Korean-language students, including Chinese-speaking readers, comparing funding and arrival routes; the example remains Putri, a 22-year-old Indonesian citizen planning two 10-week terms in Seoul, not a full year.",
+  "localeReason": "English and Chinese make the budget-planning and language-study route useful to Chinese-speaking prospective students without changing the Indonesian applicant, nationality-specific eligibility or named Yonsei KLI example.",
+  "sources": [
+    {
+      "title": "Indonesian embassy D-4 guidance",
+      "url": "https://sites.google.com/view/koreanembassy/장기-비자/일반연수d-4",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Yonsei KLI Regular Program, 2027 fees, admission, calendar and dorms",
+      "url": "https://www.yskli.com/course.php?mid=E01_01",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bank Indonesia indexed exchange table",
+      "url": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Single House Sinchon live room cards",
+      "url": "https://goshipages.com/singlehousesinchon",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ziptoss Sinchon-area live cards",
+      "url": "https://ziptoss.com/en/map/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%8B%A0%EC%B4%8C%EB%8F%99",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian embassy common documents",
+      "url": "https://sites.google.com/view/koreanembassy/참고사항/공통서류-안내",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian embassy tuberculosis confirmation",
+      "url": "https://sites.google.com/view/koreanembassy/참고사항/결핵진단서-제출-안내",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Jakarta KVAC visa fee schedule",
+      "url": "https://www.visaforkorea-in.com/en-US/visa-center/fee",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian embassy 43-university financial-document exemption list",
+      "url": "https://sites.google.com/view/koreanembassy/참고사항/43개-대학-안내",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian embassy special-institution list",
+      "url": "https://sites.google.com/view/koreanembassy/참고사항/일정한-대학-안내",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian embassy application and processing guidance",
+      "url": "https://sites.google.com/view/koreanembassy/공통사항-안내",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Study in Korea residence and part-time permission guidance",
+      "url": "https://www.studyinkorea.go.kr/cmm/life/residenceAndStayInfo.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Study in Korea foreigner employment hours table",
+      "url": "https://www.studyinkorea.go.kr/en/work/aboutForeignerEmploymentSystem.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Study in Korea registration deadline and documents",
+      "url": "https://studyinkorea.go.kr/en/life/residenceAndStayInfo.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Korea Immigration Service residence-card issuance fee notice",
+      "url": "https://www.immigration.go.kr/immigration_eng/1832/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaW1taWdyYXRpb25fZW5nJTJGMjI5JTJGNTkwMzE0JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Study in Korea living and housing guidance",
+      "url": "https://www.studyinkorea.go.kr/en/life/livingAndHousing.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Fulbright Korea living handbook",
+      "url": "https://www.fulbright.or.kr/handbook/living-in-korea/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHIS-produced 2026 student leaflet hosted by Hallym",
+      "url": "https://media.hallym.ac.kr/bbs/media/275/227379/download.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHIS guidance for foreigners",
+      "url": "https://www.nhis.or.kr/english/wbheaa02900m01.do",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "baseline_cash_krw": {
+      "label": "Named Yonsei six-month cash envelope including holds and reserves",
+      "value": 12283000,
+      "unit": "KRW",
+      "display": "KRW 12,283,000"
+    },
+    "baseline_cash_idr": {
+      "label": "Same baseline at provisional fixed planning exchange rate",
+      "value": 166680310,
+      "unit": "IDR",
+      "display": "IDR 166,680,310"
+    },
+    "funding_shortfall_idr": {
+      "label": "Baseline shortfall against the original total resources",
+      "value": 71680310,
+      "unit": "IDR",
+      "display": "IDR 71,680,310"
+    },
+    "embassy_proof_krw": {
+      "label": "Ordinary Seoul embassy resource proof, not an expense",
+      "value": 10000000,
+      "unit": "KRW",
+      "display": "KRW 10,000,000"
+    },
+    "school_proof_usd": {
+      "label": "Separate Yonsei original bank-balance certificate minimum",
+      "value": 10000,
+      "unit": "USD",
+      "display": "USD 10,000"
+    },
+    "monthly_recurring_krw": {
+      "label": "Assumed monthly goshiwon, food, transport and phone total",
+      "value": 990000,
+      "unit": "KRW_per_month",
+      "display": "KRW 990,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete retained index.html, sources.md, independent-check.md including director addendum, visa-research.md and setup-research.md read locally. These memos and ledger are not new publisher-page verification. No web, network, research refresh, account, contact, publication or build.",
+    "originalResearchAccessLimitations": "Initial original fetch/search used managed profiles not demonstrated clean. Later clean housing/layout checks do not retroactively repair this process deviation. Original no-contact/account statements are attributed, not newly forensically proven.",
+    "reviewReconciliation": "Current index hash matches independent arithmetic audit. Current source ledger hash matches director closing addendum; dorm bathroom and KRW 35,000 daily-card provenance mapping gaps were resolved in that addendum. No monetary correction requested. Future school/visa/housing/products and historical clean-session deviation remain open."
+  },
+  "datePolicy": "All cited original sources were accessed November 7, 2026 according to retained source ledger. Publication/effective dates are separate and unknown if not established. Copy authoring is not a source refresh; 2027 applicability, prices and availability remain unconfirmed.",
+  "uncertainties": [
+    "Actual institute/campus and prior admission are unspecified; Yonsei KLI is a named Regular Program example, not all-school pricing. Slug corrected by parent to six-month scope.",
+    "Ordinary embassy KRW proof, separate school USD certificate and actual funding are distinct; no continuous balance-holding period or individual exemption established. Special list does not cover March 2027.",
+    "Budget includes all sixteen rows with provisional FX, unquoted allowances, reservation hold, NHIS and emergency reserves. No work, scholarship, deposit refund or extra family support assumed; paid costs stay within original savings envelope.",
+    "No future room, term renewal, six-month off-campus lease, exact route or unit-specific link confirmed; deposits/refunds, full extras and dorm gap-lodging availability remain open. Key money is tied up, not available living cash.",
+    "D-4-1 work only after six months plus prior approval; lawful continuing status still needed. Official Sejong standards conflict unresolved. No immediate or unrestricted work claim.",
+    "Visa fees, rules, hospital/form, processing and actual test/document costs need future confirmation. Registration deadline is not a month-one physical-card promise.",
+    "University insurance dates/benefits/premium unknown; private allowance not adequate-product verification; ordinary D-4 NHIS after six months, 2027 rate and first bill unknown. Product-specific banking/phone access unconfirmed.",
+    "Indexed Bank Indonesia full-page retrieval failed; fixed rate is provisional and not executable. Historical original clean-session deviation retained; no new primary-page or visual verification claimed."
+  ],
+  "editingContract": "Only assigned new data, English/Chinese Markdown and batch27 notes authored. Parent's corrected six-month slug used; obsolete new-file names removed. No inventory, renderer, existing guide, original run, build, external lookup, contact or publication. No Review or rating markup.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

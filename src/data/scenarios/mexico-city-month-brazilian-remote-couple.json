@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "slug": "mexico-city-month-brazilian-remote-couple",
+  "translationKey": "mexico-city-month-brazilian-remote-couple",
+  "sources": [
+    {
+      "title": "Banco de México historical table",
+      "url": "https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?accion=consultarCuadroAnalitico&idCuadro=CA113&locale=es&sector=7",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "LATAM advertised return example",
+      "url": "https://www.latamairlines.com/br/pt/destinos/mexico",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "March LATAM page",
+      "url": "https://www.latamairlines.com/br/pt/destinos/mexico/voos-para-cidade-do-mexico",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Living CDMX's stay policy",
+      "url": "https://livingcdmx.com/en/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Living CDMX Morelia",
+      "url": "https://livingcdmx.com/en/properties/departamento-morelia/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Living CDMX Frontera",
+      "url": "https://livingcdmx.com/en/properties/departamento-frontera/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Living CDMX José Vasconcelos",
+      "url": "https://livingcdmx.com/en/properties/departamento-jose-vasconcelos/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Nestey Depa Coyoacán",
+      "url": "https://nesteyliving.com/shop/depa-coyoacan/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "StayWork Narvarte",
+      "url": "https://stayworkcdmx.com/narvarte/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Nestey Joaquina #207",
+      "url": "https://nesteyliving.com/shop/joaquina-studio-107/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CCI Del Valle Norte listing",
+      "url": "https://www.cci.homes/property/departamento-1-recamara-en-del-valle-con-electrodomesticos-y-servicios-incluidos",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Living CDMX Prosperidad",
+      "url": "https://livingcdmx.com/en/properties/departamento-prosperidad/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mexican Consulate in São Paulo",
+      "url": "https://consulmex.sre.gob.mx/saopaulo/index.php/visto-menu/visto-para-turista",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official eVisa guide",
+      "url": "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official eVisa portal",
+      "url": "https://visaelectronica.sre.gob.mx/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "INM visa-required guidance",
+      "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "visa-exempt guidance",
+      "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-no-requieren-visa-para-mexico/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SRE eVisa announcement",
+      "url": "https://www.gob.mx/sre/prensa/electronic-visa-for-brazilian-nationals?idiom=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "General visitor guidance",
+      "url": "https://www.gob.mx/sre/acciones-y-programas/visa-de-visitante-sin-permiso-para-realizar-actividades-remuneradas",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "temporary-residence guidance",
+      "url": "https://www.gob.mx/sre/acciones-y-programas/visa-de-residencia-temporal",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "time-zone comparison",
+      "url": "https://www.zeitverschiebung.net/en/difference/city/3448439/city/3530597",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AT&T standard prepaid",
+      "url": "https://www.att.com.mx/planes/prepago/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AT&T Go",
+      "url": "https://www.att.com.mx/planes/prepago/att-go/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CDC's Mexico guidance",
+      "url": "https://www.cdc.gov/yellow-book/hcp/americas-caribbean/mexico.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mexico City Protección Civil guide",
+      "url": "https://www.proteccioncivil.cdmx.gob.mx/storage/app/media/guia-para-saber-que-hacer-en-caso-de-sismo.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Coyoacán government",
+      "url": "https://coyoacan.cdmx.gob.mx/docs/guia_sismo.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Metro",
+      "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/mexico-city-metro-faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Metrobús",
+      "url": "https://mexicocity.cdmx.gob.mx/e/getting-around/metrobus/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "conditional_total_brl": {
+      "label": "Conditional full-stay total for both, not a verified attainable trip",
+      "value": 21136.36,
+      "unit": "BRL",
+      "display": "BRL 21,136.36"
+    },
+    "conditional_headroom_brl": {
+      "label": "Headroom against hard cap at model rate",
+      "value": 863.64,
+      "unit": "BRL",
+      "display": "BRL 863.64"
+    },
+    "roma_reference_total_brl": {
+      "label": "Full-stay total substituting advertised Morelia housing reference",
+      "value": 22984.85,
+      "unit": "BRL",
+      "display": "BRL 22,984.85"
+    },
+    "preferred_housing_cap_mxn": {
+      "label": "Preferred all-in 31-night housing search target, no qualifying unit confirmed",
+      "value": 22000,
+      "unit": "MXN",
+      "display": "MXN 22,000"
+    },
+    "weak_real_total_brl": {
+      "label": "Full-stay total at assumed MXN 3.00 per BRL",
+      "value": 22400,
+      "unit": "BRL",
+      "display": "BRL 22,400"
+    },
+    "absolute_housing_ceiling_mxn": {
+      "label": "Housing ceiling with fixed flights and other costs including reserve",
+      "value": 24850,
+      "unit": "MXN",
+      "display": "MXN 24,850"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local-only reading of complete original index.html, sources.md and independent-check.md, retained audit calculations and relevant entry/housing/FX/airline/telecom/transit extracts. No network, new research, contact, application, build or publication. Extract hashes identify whole inspected files; relevant portions rather than entire navigation-heavy texts were read for narvarte, cci, evisa_consulate, metro, metrobus, att_go and sre_evisa.",
+    "originalResearchAccessLimitations": "Early managed fetch/search fallbacks used browser profiles whose cleanliness was not established. Later explicitly clean ephemeral Chrome and stateless corroboration do not retrospectively certify full compliance or credential absence. No credentials intentionally supplied/imported and no booking/contact/form/account action reported. Itamaraty verification blocked; LATAM dated itinerary not independently reproduced. CDC/earthquake material was mapped but not independently resampled by original independent reviewer.",
+    "reviewReconciliation": "Current original index and ledger hashes match final-byte appendix in independent-check.md (356fdb90... / 861f31e...). Original review passed arithmetic, not trip readiness or full source certification. Final text already qualifies Narvarte band as sampled 2BR, notes Canada-context throttle ambiguity and LATAM itinerary noncorroboration; retained here without source refresh.",
+    "sourceLedgerPublication": "Source ledger is not published. Internal sourceListLink and evidenceLink are retained for package provenance only; reader Markdown contains no local attachment links."
+  },
+  "datePolicy": "All cited original source access dates are November 7, 2026 as explicitly recorded in assigned source ledger; publication/effective dates separately qualified or unknown. Copy authoring is not research refresh. March 2027 conditions remain future and unverified.",
+  "uncertainties": [
+    "Do not commit yet: conditional BRL 21,136.36 is not verified attainable. No suitable all-in 31-night apartment or March GRU return fare obtained; Morelia reference makes total BRL 22,984.85, over BRL 22,000.",
+    "Routine foreign-employer remote work on the Brazilian eVisa remains unresolved. No inferred permission from BRL pay or temporary-residence rules; no blanket prohibition, tax exemption, employer-compliance clearance or guaranteed admission claimed.",
+    "Visa/exemption and transit eligibility are individual; visa validity differs from admitted stay. Current fee and rules are dated observations, not guaranteed March implementation or personal approval.",
+    "Housing monthly/nightly references and Narvarte sampled 2BR planning band are not March all-in offers. Coyoacan currency, membership, exact colonia/services and foreign-document verification unresolved; annual Joaquina excluded; CCI conflicting totals, furniture, insurance and term unresolved.",
+    "No actual desk/internet/noise/building-quality assessment. Target 50/20 Mbps is chosen screening criterion; SIM onboarding, signal, tethering and sustained data fallback unresolved. AT&T throttle applicability in Mexico unestablished after Canada-context wording.",
+    "Model FX 3.30 and USD visa conversion 20 are assumptions; taxes, spreads, cards, ATM fees, deposits, insurance, day-trip costs, workspace, March transit fares and final flight baggage costs not individually verified. Reserve is not deposit liquidity.",
+    "Time-zone comparison is nonprimary/unconfirmed under original standard; CDC and telecom remain unconfirmed under original restricted source-category convention. Original clean-session procedural exception and limited independent review remain disclosed."
+  ],
+  "editingContract": "Batch27: only this new English Markdown, shared data JSON and batch27 notes. English-only because of specific Brazilian couple finances/passport/employer context and no distinct Chinese-reader need. No shared code/inventory/renderer/source-run edits, build, external lookup or publication; no Review/rating markup.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Brazilian ordinary-passport couple paid in BRL by Brazilian employers, planning a March 2027 Mexico City working month from Sao Paulo/GRU within BRL 22,000.",
+  "localeReason": "English only: the assigned Brazilian couple passport, BRL finances and Brazilian-employer work context has no distinct Chinese-reader need established; no Chinese translation or changed eligibility is implied.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "13ac6b094a4cd315f2684763be1dfd42b3b84ada30c58b81ec585e59f5e20780",
+  "sourceListLink": "../w7-mexico-city-month-brazilian-remote-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "d7803a6cb0cf5e94416e70ec113119442217ba096cf226e0cc5d0c781ca43a25",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
