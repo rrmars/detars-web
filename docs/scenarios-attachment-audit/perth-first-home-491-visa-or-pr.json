@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "b3a0de17838f9ada65a5c038098b19de1eb3819269534bd90c20589331409fa4",
+  "sourceListLink": "../w7-perth-first-home-491-visa-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "aea2bf1334fb58df8990c02ec841f3634f662f5156db7cb7d0ef9e34c8731a1f",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "b1fa4ff8c0323084b45f0bb65d6c8d0b35d39cdabccbbf54f976596f97031e8b",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

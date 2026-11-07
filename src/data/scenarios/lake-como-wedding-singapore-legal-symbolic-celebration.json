@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 2,
+  "slug": "lake-como-wedding-singapore-legal-symbolic-celebration",
+  "translationKey": "lake-como-wedding-singapore-legal-symbolic-celebration",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Priya and Marcus, both Singapore citizens, planning an Indian-heritage symbolic Lake Como celebration with guests travelling from India and Singapore.",
+  "localeReason": "English serves the assigned Singapore-citizen couple and India/Singapore guest logistics. No Chinese-speaking reader or family need is established; citizenship or heritage alone does not justify a Chinese translation.",
+  "sources": [
+    {
+      "title": "L1 · Como civil marriage",
+      "url": "https://www.comune.como.it/servizi/Matrimonio-civile/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L2 · Singapore MFA: no CNI",
+      "url": "https://washington.mfa.gov.sg/consular-services/citizens-services/registry-of-marriages-matters--our-marriage-journey/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L3 · Italy Embassy Singapore: apostille / translation",
+      "url": "https://ambsingapore.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L4 · ROM notice / validity",
+      "url": "https://ask.gov.sg/ourmarriagejourney/questions/cm4b5wmyv00ffcm2jimu3rbct",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L4a · ROM fees",
+      "url": "https://ask.gov.sg/ourmarriagejourney/questions/cm4b5wmzb00ktcm2jwuzuqkxz",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L4b · ROM documents",
+      "url": "https://ask.gov.sg/ourmarriagejourney/questions/cm4b5wmys00e9cm2j2092zfst",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L5 · ROM overseas recognition",
+      "url": "https://ask.gov.sg/ourmarriagejourney/questions/cm4b5wmz200hrcm2jeol1fjpk",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L6 · Como 2026 regulation",
+      "url": "https://www.comune.como.it/export/sites/comune-di-como/.galleries/Regolamenti/Regolamento-per-la-celebrazione-dei-matrimoni-civili-e-per-la-costituzione-delle-unioni-civili.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L7 · Firenze nonresident comparison",
+      "url": "https://www.comune.firenze.it/servizi/anagrafe-e-stato-civile/celebrazione-matrimonio-stranieri-non-residenti",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L8 · Italy government: nonresident foreigners",
+      "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2327/Come-ci-si-sposa-in-Italia-quali-documenti-sono-necessari",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V1 · Erba secondary — UNCONFIRMED",
+      "url": "https://roamrecs.com/guide/villa-erba-wedding-guide",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V2 · Serbelloni secondary — UNCONFIRMED",
+      "url": "https://roamrecs.com/guide/grand-hotel-villa-serbelloni-wedding-guide",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V3 · Cipressi secondary — UNCONFIRMED",
+      "url": "https://roamrecs.com/guide/villa-cipressi-wedding-guide",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V4 · Carlotta primary 2026–2027 tariff",
+      "url": "https://www.villacarlotta.it/site/assets/files/1946/matrimoni_2026-2027.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V5 · Villa Lario Resort primary",
+      "url": "https://villalarioresortmandello.com/it/wedding/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V6 · Salice Blu primary",
+      "url": "https://ristorante-saliceblu-bellagio.it/en/weddings-catering/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V7 · Namaste supplier claim — terms UNCONFIRMED",
+      "url": "https://namastecomo.com/en/catering/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "P1 · Planner market guidance — UNCONFIRMED",
+      "url": "https://www.elenapensini.com/how-much-does-a-lake-como-wedding-cost/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G1 · Italian Ministry: visa-required countries",
+      "url": "https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/visto_ingresso/paesi_soggetti_visto/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G2 · Italian Embassy Singapore: visas",
+      "url": "https://ambsingapore.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G3 · European Commission: Schengen applications",
+      "url": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G4 · VFS Bengaluru information and fees",
+      "url": "https://www.vfsglobal.com/one-pager/italy/india/bangalore/english/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G5 · VFS Bengaluru tourist checklist",
+      "url": "https://www.vfsglobal.com/one-pager/italy/india/bangalore/english/pdf/Checklist-TOURISM-(C)-New.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G6 · Official ETIAS portal — recheck only",
+      "url": "https://travel-europe.europa.eu/etias",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "wedding_ceiling": {
+      "label": "Wedding ceiling",
+      "value": 85000,
+      "unit": "EUR",
+      "display": "€85,000",
+      "status": "Unconfirmed planning model, not supplier quote"
+    },
+    "base_subtotal": {
+      "label": "Unconfirmed base allowances",
+      "value": 76540,
+      "unit": "EUR",
+      "display": "€76,540",
+      "status": "Unconfirmed planning model, not supplier quote"
+    },
+    "contingency_reserve": {
+      "label": "Separate ten-percent contingency",
+      "value": 7654,
+      "unit": "EUR",
+      "display": "€7,654",
+      "status": "Unconfirmed planning model, not supplier quote"
+    },
+    "planned_total": {
+      "label": "Conditional planned total",
+      "value": 84194,
+      "unit": "EUR",
+      "display": "€84,194",
+      "status": "Unconfirmed planning model, not supplier quote"
+    },
+    "remaining_margin": {
+      "label": "Final headroom",
+      "value": 806,
+      "unit": "EUR",
+      "display": "€806",
+      "status": "Unconfirmed planning model, not supplier quote"
+    },
+    "base_headroom": {
+      "label": "Approximate additional base commitment with proportional reserve",
+      "value": 732.73,
+      "unit": "EUR",
+      "display": "€732.73",
+      "status": "Unconfirmed planning model, not supplier quote"
+    }
+  },
+  "planningAssumptions": {
+    "profile": "Two eligible adult Singapore citizens, neither currently married, not requiring Muslim-marriage process; Italian nonresident/nondomicile assumption must be confirmed if pursuing Italy-legal.",
+    "celebration": "Mid-September 2027",
+    "guests": 80,
+    "cateredPeople": 82,
+    "supplierMeals": 12,
+    "weddingDays": 1,
+    "route": "Singapore legal solemnisation followed by explicitly symbolic Hindu-style Italian ceremony, western-style dinner and dancing.",
+    "venueModel": "Exclusive event-space venue with usable indoor plan, not whole-hotel buyout.",
+    "budget": {
+      "rows": [
+        {
+          "item": "Exclusive event-space hire",
+          "quantity": 1,
+          "rate": 14000,
+          "total": 14000,
+          "note": "One event day; not hotel-room buyout"
+        },
+        {
+          "item": "Food, cake and non-premium meal service",
+          "quantity": 82,
+          "rate": 220,
+          "total": 18040,
+          "note": "Aperitivo/meal specification to be confirmed; no Indian-menu quote"
+        },
+        {
+          "item": "Reception drinks and capped bar",
+          "quantity": 82,
+          "rate": 50,
+          "total": 4100,
+          "note": "Avoid duplication with any wine already included in food"
+        },
+        {
+          "item": "Furniture, linen and tableware",
+          "quantity": 1,
+          "rate": 3500,
+          "total": 3500,
+          "note": "Only additional items not included in hire/catering"
+        },
+        {
+          "item": "Mandap-style décor and modest reception flowers",
+          "quantity": 1,
+          "rate": 4500,
+          "total": 4500,
+          "note": "Reuse elements; no large floral production"
+        },
+        {
+          "item": "Full planning and wedding-day coordination",
+          "quantity": 1,
+          "rate": 10000,
+          "total": 10000,
+          "note": "Gross fixed-fee target; scope/tax unconfirmed"
+        },
+        {
+          "item": "Photography",
+          "quantity": 1,
+          "rate": 4500,
+          "total": 4500,
+          "note": "Wedding-day still photography; no videography"
+        },
+        {
+          "item": "Music / DJ and ceremony musicians",
+          "quantity": 1,
+          "rate": 3500,
+          "total": 3500,
+          "note": "Performance fees; production separated below"
+        },
+        {
+          "item": "Wedding-day guest transport",
+          "quantity": 1,
+          "rate": 5000,
+          "total": 5000,
+          "note": "2 coach allowances × €1,750 + €1,500 couple/accessibility/late-return allowance"
+        },
+        {
+          "item": "Priest / symbolic celebrant and ceremony materials",
+          "quantity": 1,
+          "rate": 1800,
+          "total": 1800,
+          "note": "Local-service assumption; any live fire separately authorised"
+        },
+        {
+          "item": "Sound and lighting",
+          "quantity": 1,
+          "rate": 2000,
+          "total": 2000,
+          "note": "Additional hire/crew, not music talent"
+        },
+        {
+          "item": "Admin, insurance and permissions provision",
+          "quantity": 1,
+          "rate": 800,
+          "total": 800,
+          "note": "Includes small SG filing provision; no asserted official aggregate tariff"
+        },
+        {
+          "item": "Supplier meals",
+          "quantity": 12,
+          "rate": 50,
+          "total": 600,
+          "note": "Separate from 82 couple/guest covers"
+        },
+        {
+          "item": "Wet-weather / access infrastructure reserve",
+          "quantity": 1,
+          "rate": 4200,
+          "total": 4200,
+          "note": "For an already usable indoor venue; not full marquee construction"
+        }
+      ],
+      "base": 76540,
+      "contingency": 7654,
+      "total": 84194,
+      "headroom": 806
+    },
+    "contingencyPercent": 10,
+    "approximateAdditionalBaseHeadroomEUR": 732.73,
+    "venueStress": {
+      "extraBaseEUR": 5000,
+      "baseEUR": 81540,
+      "contingencyEUR": 8154,
+      "totalEUR": 89694,
+      "overEUR": 4694
+    },
+    "italyLegalStress": {
+      "illustrativeIncrementEUR": 2500,
+      "incrementReserveEUR": 250,
+      "totalEUR": 86944,
+      "overEUR": 1944
+    },
+    "exclusions": "Guest travel/hotels/airport transfers/visas/insurance, room guarantees, welcome/farewell events, attire/rings/beauty, honeymoon, videography, fireworks and premium whole-party cruises. No exchange rate assumed."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read complete assigned index, sources, independent check and budget JSON after README, VOICE-GUIDE and permitted Berlin examples. No other research folders, network, contact, source changes or build.",
+    "originalResearchAccessLimitations": "Original persistent-browser fallbacks did not meet all-clean-session requirement; historical profile state was not audited. Later clean retries do not cure deviation. No fresh external verification here.",
+    "independentCheckDisposition": "Read full audit and director completion addendum. Arithmetic passed in original; final director hashes supersede preliminary audit hashes. No complete September package, registrar acceptance, fire/menu approval or independent source captures established.",
+    "layoutEvidenceLimit": "No new HTML, browser, pixel or print verification. Source layout addendum is historical, not new-page visual certification."
+  },
+  "datePolicy": "All cited access dates retained as 2026-11-07, not refreshed. Publication/update dates retained separately with unknown where unspecified; month-only values remain month-only. Secondary 2027 labels are not September price guarantees.",
+  "uncertainties": [
+    "No named venue clears complete September gross price, 82-person wet-weather sequence, sacred-fire permission and specified Indian vegetarian menu.",
+    "Singapore-specific no-impediment substitute, registrar acceptance, translations/validity/appointments and legal-Italy costs unresolved.",
+    "Hire, food, planner, coach access/capacity, local priest and weather allowances unconfirmed; weather reserve does not imply full marquee construction.",
+    "Contingency retained; final margin only €806 and approximate additional base margin €732.73. Room guarantees cannot be hidden as guest travel.",
+    "2027 visa fees, appointments and ETIAS requirements need recheck; no ETIAS firm launch/status/fee assumed.",
+    "Original clean-session research deviation unresolved; no new source refresh or legal/venue clearance."
+  ],
+  "editingContract": "Only new assigned JSON, English Markdown and checks/batch35-como-author-note.md; English-only locale decision recorded; no HTML build or inventory/existing-source changes.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

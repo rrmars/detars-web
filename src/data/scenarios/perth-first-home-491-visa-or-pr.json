@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 2,
+  "slug": "perth-first-home-491-visa-or-pr",
+  "translationKey": "perth-first-home-491-visa-or-pr",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Wei Ling and Daniel, Malaysian citizens living in Perth on subclass 491 visas, comparing a first three-bedroom house before or after actual permanent-visa grants; useful to similarly situated temporary-resident couples without transferring their eligibility.",
+  "localeReason": "English and Simplified Chinese: this WA upfront-cash and actual-PR-timing comparison is genuinely useful to Chinese-speaking Malaysian and other 491-holder couples. Translation does not assign ethnicity, language preference or new nationality to Wei Ling and Daniel, change their profile, or transfer their eligibility. This director-approved continuation supersedes the initial English-only authoring decision.",
+  "sources": [
+    {
+      "title": "Treasury residential land",
+      "url": "https://foreigninvestment.gov.au/guidance/types-investments/residential-land",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Treasury Guidance Note 6, version 5",
+      "url": "https://foreigninvestment.gov.au/sites/foreigninvestment.gov.au/files/2026-06/guidance-note-6-residential-land-v5.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Home Affairs subclass 491",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Home Affairs subclass 191",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Home Affairs 191 regional provisional stream",
+      "url": "https://immi.homeaffairs.gov.au/Visa-subsite/Pages/work/191-regional-provisional-stream.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Treasury schedule of fees, version 8",
+      "url": "https://foreigninvestment.gov.au/sites/foreigninvestment.gov.au/files/2026-06/schedule-of-fees-v8.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Treasury fees guidance",
+      "url": "https://foreigninvestment.gov.au/guidance/general/fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RevenueWA foreign transfer duty fact sheet",
+      "url": "https://www.wa.gov.au/system/files/2026-10/foreign-transfer-duty-fact-sheet.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RevenueWA change in foreign status",
+      "url": "https://www.wa.gov.au/government/publications/change-foreign-status",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RevenueWA first home owner rate of duty",
+      "url": "https://www.wa.gov.au/government/publications/duties-fact-sheet-first-home-owner-rate",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WA housing taxation package",
+      "url": "https://www.wa.gov.au/government/announcements/2026-27-housing-taxation-package",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RevenueWA first home owner grant fact sheet",
+      "url": "https://www.wa.gov.au/system/files/2026-10/first-home-owner-grant.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RevenueWA transfer duty assessment",
+      "url": "https://www.wa.gov.au/organisation/department-of-treasury-and-finance/transfer-duty-assessment",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RevenueWA off-the-plan duty concession",
+      "url": "https://www.wa.gov.au/service/financial-management/taxation-and-duty/apply-the-plan-duty-concession",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pepper Money retail product guide",
+      "url": "https://www.pepperbroker.com.au/content/dam/aubroker/broker-au-documents-nc/pepper-money-retail-product-guide.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Yard temporary-visa mortgages FAQ",
+      "url": "https://www.yard.com.au/loans/temporary-visa-home-loans-and-non-resident-mortgages",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hunter Galloway broker 491 table",
+      "url": "https://www.huntergalloway.com.au/491-visa-home-loan/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NAB fixed-rate home-loan information",
+      "url": "https://www.nab.com.au/personal/home-loans/nab-fixed-rate-home-loan",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pepper Money rates and fees",
+      "url": "https://www.pepperbroker.com.au/content/dam/aubroker/broker-au-documents-nc/home-loans/rate-cards/pepper-money-rates-and-fees.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pepper Money home loans promotion",
+      "url": "https://www.pepperbroker.com.au/residential-loans/home-loans",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "22 Nanovich Avenue, Girrawheen sold listing",
+      "url": "https://www.domain.com.au/22-nanovich-avenue-girrawheen-wa-6064-2020834047",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "3 Burrowa Street, Armadale sold listing",
+      "url": "https://www.domain.com.au/3-burrowa-street-armadale-wa-6112-2020995309",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "7 Wythburn Avenue, Balga provisional listing lead",
+      "url": "https://www.realestate.com.au/property-house-wa-balga-150834328",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "21 Gascoyne Drive, Gosnells provisional listing lead",
+      "url": "https://reiwa.com.au/21-gascoyne-drive-gosnells-5047632/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "completed_new_491_cash": {
+      "label": "Completed-new purchase while both hold 491 at baseline price and LVR",
+      "value": 239065,
+      "unit": "AUD upfront cash",
+      "display": "$239,065",
+      "status": "Conditional completed-new purchase at $700,000, 80% LVR; no reserve, generic no-LMI assumption"
+    },
+    "established_pr_cash": {
+      "label": "Eligible established first home after both PR grants",
+      "value": 163350,
+      "unit": "AUD upfront cash",
+      "display": "$163,350",
+      "status": "Same price/LVR/current rules, conditional FHOR; no reserve"
+    },
+    "baseline_cash_difference": {
+      "label": "Baseline upfront difference, not wealth break-even",
+      "value": 75715,
+      "unit": "AUD upfront cash difference",
+      "display": "$75,715",
+      "status": "Completed-new 491 versus eligible established PR; not universal across OTP scenarios"
+    },
+    "otp_high_lvr_cash": {
+      "label": "Conditional 95% OTP net acquisition cash before actual LPF",
+      "value": 84065,
+      "unit": "AUD before LPF and reserve",
+      "display": "$84,065",
+      "status": "Qualifying title/contract/federal status and lender approval required; payment timing unknown"
+    },
+    "pr_reserve_target": {
+      "label": "Baseline PR cash plus illustrative reserve",
+      "value": 183350,
+      "unit": "AUD cash target",
+      "display": "$183,350",
+      "status": "$163,350 plus $20,000 illustrative reserve; no projected savings assumed"
+    }
+  },
+  "planningAssumptions": {
+    "profile": {
+      "names": [
+        "Wei Ling",
+        "Daniel"
+      ],
+      "ages": [
+        33,
+        35
+      ],
+      "occupations": [
+        "accountant",
+        "mechanical engineer"
+      ],
+      "citizenship": "Malaysian",
+      "currentVisas": "Both subclass 491",
+      "combinedGrossIncomeAUD": 185000,
+      "currentSavingsAUD": 95000,
+      "targetBedrooms": 3,
+      "targetPriceRangeAUD": [
+        650000,
+        750000
+      ],
+      "expected191EligibilityYear": 2028,
+      "visaOutcome": "Not individually verified; eligibility is not grant"
+    },
+    "baseline": {
+      "priceAUD": 700000,
+      "lvrPercent": 80,
+      "depositAUD": 140000,
+      "loanAUD": 560000,
+      "priceEqualsDutiableAndLenderValue": true,
+      "notification": "One jointly notified single-title purchase",
+      "491Purchase": "Completed qualifying new home, January–June 2027",
+      "prPurchase": "Eligible established first home only after both actual grants; 2028 hypothetical",
+      "rules": "Freeze current rules/fees for comparison, not future certainty",
+      "otpConcessionIncluded": false,
+      "lmiAUD": 0,
+      "grantAUD": 0,
+      "reserveIncluded": false,
+      "491GeneralDutyAUD": 27265,
+      "491ForeignDutyAUD": 49000,
+      "491FederalFeeAUD": 15600,
+      "prFirstHomeDutyAUD": 16150,
+      "otherAllowancesAUD": 7200,
+      "491TransactionCashAUD": 99065,
+      "prTransactionCashAUD": 23350,
+      "491CashAUD": 239065,
+      "prCashAUD": 163350,
+      "differenceAUD": 75715,
+      "491SavingsGapAUD": 144065,
+      "prSavingsGapAUD": 68350
+    },
+    "rangeRows": [
+      {
+        "priceAUD": 650000,
+        "generalDutyAUD": 24890,
+        "prFHORAUD": 8075,
+        "foreignDutyAUD": 45500,
+        "491CashAUD": 223190,
+        "prCashAUD": 145275,
+        "differenceAUD": 77915
+      },
+      {
+        "priceAUD": 700000,
+        "generalDutyAUD": 27265,
+        "prFHORAUD": 16150,
+        "foreignDutyAUD": 49000,
+        "491CashAUD": 239065,
+        "prCashAUD": 163350,
+        "differenceAUD": 75715
+      },
+      {
+        "priceAUD": 750000,
+        "generalDutyAUD": 29740.5,
+        "prFHORAUD": 24225,
+        "foreignDutyAUD": 52500,
+        "491CashAUD": 255040.5,
+        "prCashAUD": 181425,
+        "differenceAUD": 73615.5
+      }
+    ],
+    "otherAllowances": {
+      "legalSearchAUD": 2200,
+      "buildingPestAUD": 700,
+      "registrationSettlementAUD": 1200,
+      "bankValuationAUD": 600,
+      "adjustmentsInitialInsuranceAUD": 1500,
+      "moveConnectionsAUD": 1000,
+      "totalAUD": 7200,
+      "status": "All unconfirmed allowances, not quotes; registration is not published Landgate fee"
+    },
+    "highLvr": {
+      "lvrPercent": 90,
+      "equityAUD": 70000,
+      "baseLoanAUD": 630000,
+      "491BeforeLmiAUD": 169065,
+      "prBeforeLmiAUD": 93350,
+      "lmiSensitivityAUD": [
+        10000,
+        15000,
+        20000
+      ],
+      "prWithSensitivityAUD": [
+        103350,
+        108350,
+        113350
+      ],
+      "491With15000AUD": 184065,
+      "491GapWith15000AUD": 89065,
+      "prGapWith15000AUD": 13350,
+      "prRemainderBeforeLmiAUD": 1650,
+      "capitalised15000DebtAUD": 645000,
+      "capitalisedTotalLvrPercent": 92.14,
+      "status": "Not premium quotes or approval; LMI protects lender"
+    },
+    "otp": {
+      "combinedDutyAUD": 76265,
+      "preConstructionPercent": 100,
+      "underConstructionPercent": 75,
+      "underConstructionBeforeCapAUD": 57198.75,
+      "capAUD": 50000,
+      "residualDutyAUD": 26265,
+      "cash80AUD": 189065,
+      "gap80AUD": 94065,
+      "cash90BeforeFeeAUD": 119065,
+      "cash90With15000AUD": 134065,
+      "gap90With15000AUD": 39065,
+      "cash95BeforeLpfAUD": 84065,
+      "equity95AUD": 35000,
+      "baseDebt95AUD": 665000,
+      "remainderBeforeLpfReserveAUD": 10935,
+      "reserveAUD": 20000,
+      "targetBeforeLpfAUD": 104065,
+      "gapBeforeLpfAUD": 9065,
+      "status": "Qualifying property/contract/federal classification and actual finance required; net funding not staged liquidity; actual LPF unknown, no double-counted LMI"
+    },
+    "growthSensitivity": {
+      "growthPercent": 5,
+      "newPriceAUD": 735000,
+      "equityAUD": 147000,
+      "prFHORAUD": 21802.5,
+      "prCashAUD": 176002.5,
+      "increaseCashAUD": 12652.5,
+      "remainingDifferenceAUD": 63062.5,
+      "newLoanAUD": 588000,
+      "loanIncreaseAUD": 28000,
+      "status": "No forecast or total-wealth break-even; rent, interest, ongoing costs, savings returns and market risk excluded"
+    },
+    "failedFirstHomeEligibility": {
+      "prCashAUD": 174465,
+      "removedForeignAndFederalAUD": 64600
+    },
+    "eligiblePrNew": {
+      "beforeGrantAUD": 163350,
+      "potentialSubsequentGrantAUD": 10000,
+      "netAfterGrantAUD": 153350,
+      "status": "Not automatically settlement funding"
+    },
+    "repayments": {
+      "loanAUD": 630000,
+      "termYears": 30,
+      "hypotheticalRatesPercent": [
+        6,
+        7,
+        9
+      ],
+      "monthlyAUD": [
+        3777.17,
+        4191.41,
+        5069.12
+      ],
+      "sixToSevenMonthlyIncreaseAUD": 414.24,
+      "status": "Sensitivities not offers or visa premiums; ongoing bills excluded; assessment rate may be higher"
+    },
+    "savings": {
+      "illustrativeReserveAUD": 20000,
+      "prTargetAUD": 183350,
+      "targetGapAUD": 88350,
+      "hypotheticalMonthlySavingAUD": 3000,
+      "after12MonthsAUD": 131000,
+      "after24MonthsAUD": 167000,
+      "remainingTargetGapAfter24AUD": 16350,
+      "status": "No monthly surplus inferred from gross income; no returns, interest or inflation"
+    },
+    "exclusions": "No reserve in acquisition tables, no future loan approval, price/valuation divergence, construction/rent/progress-interest overruns, renovations/furnishing or ongoing ownership bills. No government low-deposit guarantee, professional LMI waiver, future promotion or speculative benefit/refund counted. Contract deposit is part of equity; new-home price includes applicable GST, no extra GST added."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and VOICE-GUIDE first; Berlin JSON and English Markdown for schema/voice only. Complete assigned index.html, sources.md and independent-check.md including director closure; supporting raw tax, federal and lender passages and property evidence within assigned folder. Package check_i18n/content_utils inspected for bounded validation. No other research run, external lookup or source refresh.",
+    "originalResearchAccessLimitations": "Historical ATO and some lender/property reads automatically used persistent managed-browser fallbacks, not demonstrated clean. Clean follow-ups do not cure that exception. Treasury supports decisive federal rules. No clean-session compliance certification.",
+    "independentCheckDisposition": "Original independent arithmetic found zero mismatches in 88 named checks. Director closure adopted property-introduction and staged-liquidity wording fixes. Two listing bodies historically read, two provisional leads; reviewer/author have retained excerpts, not independently reopened primary bodies. No complete verified or clean-session sale set.",
+    "layoutEvidenceLimit": "No new HTML build, browser, pixel, accessibility or print verification; original layout tests are not certification of this new Markdown."
+  },
+  "datePolicy": "Original source read/attempt dates remain 2026-11-07; effective/update/sale dates retained separately. Original model/publication dates remain unknown where unknown. Authoring is not a legal, price or source refresh. January–June 2027 and 2028 are hypothetical purchase horizons, not grants or offers.",
+  "uncertainties": [
+    "Actual 191 eligibility/grant timing, grant conditions and eligible postcode unverified; Home Affairs blocked.",
+    "Both spouses' Australian property/occupation/benefit histories and actual FHOR/FHOG approval/timing unknown.",
+    "Lender approval, actual valuation/security/postcode/LVR, serviceability, LPF/LMI and acquisition costs unknown; income is not borrowing capacity.",
+    "2027/2028 rules, fees, rates, prices and availability not assured; 2026 no-LPF promotion excluded.",
+    "OTP title/vendor/stage/federal new status, qualifying concession, interim deposit/duty liquidity and construction delays unresolved.",
+    "Only two full three-bedroom House listing bodies historically read with access exception; Balga/Gosnells provisional and Gosnells bedroom/type unknown.",
+    "Historical clean-session noncompliance cannot be repaired by authoring; no new external or visual certification."
+  ],
+  "editingContract": "Authoring scope: new data/perth-first-home-491-visa-or-pr.json, en/perth-first-home-491-visa-or-pr.md, zh/perth-first-home-491-visa-or-pr.md and checks/batch35-perth-author-note.md. Director audience judgment superseded the initial English-only choice. Authors did not build or edit inventory, existing package files or sources, or use network/contact/publication; integration and final checks belong to the director.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

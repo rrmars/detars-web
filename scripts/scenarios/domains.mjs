@@ -14,7 +14,7 @@ export const domains = [
 ];
 // First matching rule wins. Existing persisted choices always win on subsequent imports.
 export const rules = [
-  ['ai-tools', /(?:offline-translation|text-to-speech|local-(?:speech|upscalers|music-generation)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review|meeting-notes)/],
+  ['ai-tools', /(?:offline-translation|text-to-speech|local-(?:speech|upscalers|music-generation)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review|meeting-notes|ai-transcription)/],
   ['study', /(?:primary-one|masters|study-abroad|english-test|(?:^|-)mba(?:-|$)|international-school|korean-course|secondary-school)/],
   ['careers', /(?:analyst-switch|job-search|job-offer|backend-job|remote-design|germany-vs-canada|nurse|career-switch)/],
   ['visas', /(?:digital-nomad|working-holiday|retirement|visa|entry-visa|dtv)/],

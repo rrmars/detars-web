@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 2,
+  "slug": "kuala-lumpur-accounting-firm-ai-transcription",
+  "translationKey": "kuala-lumpur-accounting-firm-ai-transcription",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Farah and other decision-makers at a 12-person Kuala Lumpur accounting and tax firm evaluating English, Malay and Mandarin meeting notes without compromising client confidentiality.",
+  "localeReason": "English only: the assigned decision-maker is Farah at a Malaysian professional firm, with English/Malay governance and notice needs. Mandarin speech in client meetings establishes a recognition requirement, not a demonstrated Chinese-reading guide audience. A Chinese guide would not replace the required Bahasa Malaysia and English notices; no distinct Chinese-reader need is established.",
+  "sources": [
+    {
+      "title": "terms prohibit credential sharing",
+      "url": "https://fireflies.ai/terms-of-service",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Multi-Language Mode",
+      "url": "https://guide.fireflies.ai/articles/2585231364",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Business features",
+      "url": "https://guide.fireflies.ai/articles/2063312779-fireflies-business-tier-pricing-and-features",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "billing guide",
+      "url": "https://guide.fireflies.ai/articles/9606045468-fireflies-billing-terms",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Storage guidance",
+      "url": "https://guide.fireflies.ai/articles/9596505232",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "safety policy",
+      "url": "https://guide.fireflies.ai/articles/2154538358-policy-on-keeping-information-safe",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "organisational DPA",
+      "url": "https://fireflies.ai/data-processing-agreement",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Teams Premium",
+      "url": "https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Copilot Business's dated SMB announcement",
+      "url": "https://learn.microsoft.com/en-sg/partner-center/announcements/2025-december",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Enterprise Copilot",
+      "url": "https://www.microsoft.com/en-us/copilot/pricing/enterprise",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Teams live transcription",
+      "url": "https://support.microsoft.com/zh-cn/teams/meetings/start-stop-and-download-live-transcripts-in-microsoft-teams-meetings",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "nine-language multilingual-recognition list",
+      "url": "https://support.microsoft.com/en-us/topic/650cb6d2-8a33-40e7-840d-36bb90216aa4",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Copilot text prompts/responses",
+      "url": "https://support.microsoft.com/office/supported-languages-for-microsoft-365-copilot-94518d61-644b-4118-9492-617eea4801d8",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Enterprise data protection",
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/enterprise-data-protection",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Anthropic processing can have different regional commitments",
+      "url": "https://learn.microsoft.com/zh-cn/copilot/microsoft-365/connect-to-ai-subprocessor",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DPA index",
+      "url": "https://www.microsoft.com/licensing/docs/view/Microsoft-Products-and-Services-Data-Protection-Addendum-DPA",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pro pricing",
+      "url": "https://www.zoom.com/zh-cn/small-business/meetings/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "My Notes guidance",
+      "url": "https://support.zoom.us/hc/en-us/articles/15088797434893",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Automated captions",
+      "url": "https://support.zoom.us/hc/en-us/articles/4403492514829-Viewing-captioning-in-a-meeting-or-webinar",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Meeting Summary language table",
+      "url": "https://support.zoom.com/hc/pt/article?id=zm_kb&sysparm_article=KB0085391",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Summary-language selection",
+      "url": "https://support.zoom.us/hc/en-us/articles/14423152801933",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "processing whitepaper",
+      "url": "https://library.zoom.com/ai/ai-whitepaper/models-processing-storage-and-usage.md",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "privacy guidance",
+      "url": "https://library.zoom.com/ai/ai-whitepaper/data-governance-and-privacy.md",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Subprocessor commitments",
+      "url": "https://www.zoom.com/zh-tw/trust/subprocessors/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "global DPA",
+      "url": "https://media.zoom.com/download/assets/Zoom_GLOBAL_DPA.pdf/34113bbcb88c11ef9263b69c0f9687be",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Plan prices",
+      "url": "https://support.notta.ai/hc/en-us/articles/55339089140123",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "language lists",
+      "url": "https://support.notta.ai/hc/en-us/articles/4403155631131",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Security guidance",
+      "url": "https://support.notta.ai/hc/en-us/articles/4403031459355",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Japanese AI-learning documentation",
+      "url": "https://support.notta.ai/hc/ja/articles/25948519611291",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "privacy policy",
+      "url": "https://www.notta.ai/en/privacy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "terms",
+      "url": "https://www.notta.ai/en/terms",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pricing",
+      "url": "https://otter.ai/pricing",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "supported-language help",
+      "url": "https://help.otter.ai/hc/en-us/articles/360047247414",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "language-setting help updated 6 November 2026",
+      "url": "https://help.otter.ai/hc/en-us/articles/26660468516631",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Storage help",
+      "url": "https://help.otter.ai/hc/en-us/articles/360048258953",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Subprocessor entity-country labels",
+      "url": "https://otter.ai/subprocessors",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "privacy policy",
+      "url": "https://otter.ai/privacy-policy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "external-provider no-training promises",
+      "url": "https://otter.ai/privacy-security",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Enterprise controls",
+      "url": "https://help.otter.ai/hc/en-us/articles/13352505516695",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "terms' public DPA",
+      "url": "https://otter.ai/terms-of-service",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official Act 709 reprint as at 15 September 2026",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2026/10/Akta-709-cetakan-semula-2026-BM.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Amendment Act A1727",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2024/11/Act-A1727.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "commencement gazette",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2024/12/PENETAPAN-TARIKH-PERMULAAN-KUAT-KUASA.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "final cross-border guideline",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2025/08/GP_CBPDT_EN-1.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "final breach guideline",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2025/08/GP_DBN_BM.pdf?read=20261107",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Commissioner's circular",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2025/02/Pekeliling-DBN.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "final DPO guideline",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2025/08/GP_DPO_BM.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Personal Data Protection Regulations 2013",
+      "url": "https://www.pdp.gov.my/wp-content/uploads/2024/06/PERATURAN-PERLINDUGAN-DATA-PERIBADI-2013.pdf",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "firm_monthly_budget": {
+      "label": "Firm planning budget",
+      "value": 600,
+      "unit": "MYR/month",
+      "display": "MYR 600",
+      "status": "Scenario input, not final invoice"
+    },
+    "host_monthly_cost": {
+      "label": "Three monthly Fireflies Business hosts",
+      "value": 391.5,
+      "unit": "MYR/month",
+      "display": "MYR 391.50",
+      "status": "Assumes USD 1 = MYR 4.50; taxes/FX spreads/extras excluded; evaluation only"
+    },
+    "budget_monthly_headroom": {
+      "label": "Headroom before unpriced costs",
+      "value": 208.5,
+      "unit": "MYR/month",
+      "display": "MYR 208.50",
+      "status": "Not an affordability guarantee"
+    },
+    "annual_host_cash": {
+      "label": "Three annual hosts upfront cash",
+      "value": 3078,
+      "unit": "MYR/year",
+      "display": "MYR 3,078.00",
+      "status": "Alternative only after successful evaluation; same FX and exclusions"
+    }
+  },
+  "planningAssumptions": {
+    "firmStaff": 12,
+    "captureHosts": 3,
+    "nonWorkspaceStaff": 9,
+    "monthlyBudgetMYR": 600,
+    "usdToMyr": 4.5,
+    "startMonth": "2027-01",
+    "evaluation": "Fictional information and consenting staff, separately authorised; no test performed",
+    "monthlyHostUSD": 29,
+    "monthlyTotalUSD": 87,
+    "monthlyTotalMYR": 391.5,
+    "headroomMYR": 208.5,
+    "annualHostUSD": 228,
+    "annualThreeHostsUSD": 684,
+    "annualThreeHostsMYR": 3078,
+    "retentionProposal": "Raw recordings and drafts within 30 days after note approval, unless shorter justified period or legal hold; approved notes under firm schedule. Recommendation, not statutory rule.",
+    "exclusions": "Unknown applicable taxes, card/bank spreads, eligible base licences, devices, optional advanced AI/add-ons.",
+    "confidentialClientGate": "No confidential client meetings until contract, cross-border, professional secrecy, Malay-language accuracy and Attachment 1 purposes are cleared."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read README and VOICE-GUIDE first, then Berlin JSON/English schema examples. Read complete assigned index.html, sources.md and independent-check.md, plus reviewer-evidence/ff-dpa.txt Attachment 1. No other research run folder read; no network, source changes, build or inventory edits.",
+    "independentCheckDisposition": "Closing addendum supersedes I1: Notta add-on billing unit corrected; I2 DPA marketing/analytics gate surfaced and raw text read here. I3 historical browser-session cleanliness and I4 bounded independent source inspection remain unresolved. Arithmetic passed; not procurement or compliance approval.",
+    "layoutEvidenceLimit": "Markdown authoring and scoped parity only; no new HTML or visual certification.",
+    "historicalMethodLimitation": "Some original external collection automatically selected browser profiles with unestablished initial cleanliness; no entirely clean-session certification."
+  },
+  "datePolicy": "All cited source read dates remain 2026-11-07. Copywriting is not a refresh. Product availability and prices for January 2027 remain unverified; unknown publication/model values remain unknown.",
+  "uncertainties": [
+    "Malaysian January pricing, tax and actual checkout/renewal terms.",
+    "Three-host concurrency and reviewed-export/use entitlement.",
+    "Full speech/LLM/support/backup and onward-processing locations and subprocessor chain.",
+    "Applicable DPA, no-training scope, Attachment 1 purposes, immediate escalation and deletion exceptions.",
+    "Mixed-language Malaysian room performance; no audio benchmark or accuracy score.",
+    "Professional secrecy/current MIA rules, engagement authority, sensitive-data routes and firm-wide DPO/controller-category registration.",
+    "Notta international Business training and add-on billing scope; Otter Chinese conflict and Business no-training route.",
+    "Historical research clean-session exception and bounded independent source inspection."
+  ],
+  "editingContract": "Only new data JSON, English Markdown and checks/batch35-kl-author-note.md. English-only audience decision; no Chinese file, build, inventory/source changes, networking or publication.",
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

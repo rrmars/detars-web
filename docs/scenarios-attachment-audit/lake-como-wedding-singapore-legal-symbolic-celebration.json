@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "ee36dc53333ce1655aab1da3e5dfaae07b70bc14be2315b7d2933ffba8d9b179",
+  "sourceListLink": "../w7-lake-como-wedding-singapore-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "d7b8f4ccd5279c20f160a1fad096b1318fc7fa82af702c8c8ba6daa6a1c7ad43",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

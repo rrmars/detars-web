@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "5a9d0596f51879b087b382f99412692c85c93ee9714568a84de15f13ecbbe8dd",
+  "sourceListLink": "../w7-kl-accounting-firm-ai-transcription/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "1ddc95eaef6401efe2735a01d12f8645017321ddf842b8d98fd29b40adea84cd",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
