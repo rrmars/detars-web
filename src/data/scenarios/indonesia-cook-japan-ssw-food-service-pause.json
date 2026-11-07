@@ -5,13 +5,18 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "id": "Dibuat oleh tugas Cowork umum di DeTars.xyz"
   },
   "locales": [
-    "en"
+    "en",
+    "id"
   ],
-  "audience": "Rizky, an Indonesian hotel line cook in Yogyakarta preparing for possible Japan food-service SSW(i) work, and similarly situated new overseas Indonesian applicants.",
-  "localeReason": "English only: this is a specific Indonesian applicant route with Indonesian sending procedures, IDR savings and family remittances. No distinct Chinese-reader need is established; adding Chinese would not change nationality, eligibility or the suspended route.",
+  "audience": {
+    "en": "Rizky, an Indonesian hotel line cook in Yogyakarta preparing for possible Japan food-service SSW(i) work, and similarly situated new overseas Indonesian applicants.",
+    "id": "Rizky, juru masak hotel asal Indonesia di Yogyakarta yang bersiap untuk kemungkinan bekerja di bidang layanan makanan Jepang lewat SSW(i), serta pelamar Indonesia baru ke luar negeri dengan situasi serupa."
+  },
+  "localeReason": "English and Indonesian: this is a specific Indonesian applicant route with Indonesian sending procedures, IDR savings and family remittances, so an Indonesian-language page (pilot) serves the intended reader directly. No distinct Chinese-reader need is established; the Indonesian page does not change nationality, eligibility or the suspended route.",
   "sources": [
     {
       "title": "ISA processing update",

@@ -11,6 +11,7 @@ researchDates:
   - "2026-11-07"
 locales:
   - "en"
+  - "id"
 producerDisplayLabel: "Produced by a general Cowork task on DeTars.xyz"
 sources:
   - title: "ISA processing update"
@@ -218,7 +219,9 @@ headlineFigures:
     unit: "IDR shortfall"
     display: "IDR 8,940,000"
     status: "Chosen setup and living assumptions; no broker loan recommended"
-audience: "Rizky, an Indonesian hotel line cook in Yogyakarta preparing for possible Japan food-service SSW(i) work, and similarly situated new overseas Indonesian applicants."
+audience:
+  en: "Rizky, an Indonesian hotel line cook in Yogyakarta preparing for possible Japan food-service SSW(i) work, and similarly situated new overseas Indonesian applicants."
+  id: "Rizky, juru masak hotel asal Indonesia di Yogyakarta yang bersiap untuk kemungkinan bekerja di bidang layanan makanan Jepang lewat SSW(i), serta pelamar Indonesia baru ke luar negeri dengan situasi serupa."
 faq: []
 draft: false
 ---

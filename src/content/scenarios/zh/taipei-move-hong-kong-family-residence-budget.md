@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "zh-Hant"
 producerDisplayLabel: "本文由 DeTars.xyz 的通用 Cowork 任务产出"
 sources:
   - title: "NIA, 香港澳門居民申請在臺灣地區居留送件須知."
@@ -232,7 +233,9 @@ headlineFigures:
     value: 2800
     unit: "TWD/month deficit"
     display: "TWD 2,800"
-audience: "Hong Kong family planning a mid-2027 move to Taiwan on one HK remote UX salary, with an HK registered-nurse spouse and toddler, comparing residence, healthcare, childcare and housing cash flow."
+audience:
+  en: "Hong Kong family planning a mid-2027 move to Taiwan on one HK remote UX salary, with an HK registered-nurse spouse and toddler, comparing residence, healthcare, childcare and housing cash flow."
+  zh-Hant: "計畫在 2027 年中舉家從香港搬到台灣的香港家庭：靠一份香港遠端 UX 薪資，配偶是香港註冊護理師，孩子還是幼兒，要比較居留、醫療、托育與住房的現金流。"
 faq: []
 draft: false
 ---

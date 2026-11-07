@@ -1,9 +1,10 @@
 {
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "zh-Hant"
   ],
-  "sourceDataSha256": "94e6be25bbe8cbc1294ca795bd76230a1d439c5d1167e9a5ca41e374379d58ae",
+  "sourceDataSha256": "9631304926736054a4b6662e072b005ed768c547d3f73177fda6434955cfebd2",
   "sourceListLink": "../w7-taipei-hong-kong-family-move/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -18,6 +19,11 @@
     },
     "zh": {
       "sourceMarkdownSha256": "0e3ffa826352b85c136f631390fa126c67db1430d670ecaafa668404daafbbb8",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh-Hant": {
+      "sourceMarkdownSha256": "0565317d6d1c8affa2179a2b7fbeb38020f947e9cb58e719d73cf4d8621056c6",
       "faqPairs": 0,
       "links": []
     }

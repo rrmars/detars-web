@@ -1,8 +1,9 @@
 {
   "locales": [
-    "en"
+    "en",
+    "id"
   ],
-  "sourceDataSha256": "600cb1863345206600ac133995802e760dc473c565b4cbaad0dfc3ae73449bd9",
+  "sourceDataSha256": "37541dedf3746904c0963a0675581fe7fd002962fb0e43bf3664ae96a4ecf676",
   "sourceListLink": "../w7-indonesia-cook-japan-ssw-food-service/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -12,6 +13,11 @@
   "localePages": {
     "en": {
       "sourceMarkdownSha256": "2b53b3f3580d92a5529eb9840cf6e2a96fd479c12b70210ab26fb08b49bc973b",
+      "faqPairs": 0,
+      "links": []
+    },
+    "id": {
+      "sourceMarkdownSha256": "ac0d3a3d1db2eaba67798fb0c28484f8445b43eefaecfd8881f7832a5b0cd9d9",
       "faqPairs": 0,
       "links": []
     }

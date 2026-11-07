@@ -523,14 +523,19 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "zh-Hant": "本文由 DeTars.xyz 的通用 Cowork 任務產出"
   },
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "zh-Hant"
   ],
-  "audience": "Hong Kong family planning a mid-2027 move to Taiwan on one HK remote UX salary, with an HK registered-nurse spouse and toddler, comparing residence, healthcare, childcare and housing cash flow.",
-  "localeReason": "English and Chinese both serve this Hong Kong-family relocation decision. Traditional Chinese would better match many Hong Kong readers and Taiwan documents; Simplified Chinese is this package's only Chinese locale (zh / rendered zh-Hans), without changing identity or eligibility.",
+  "audience": {
+    "en": "Hong Kong family planning a mid-2027 move to Taiwan on one HK remote UX salary, with an HK registered-nurse spouse and toddler, comparing residence, healthcare, childcare and housing cash flow.",
+    "zh-Hant": "計畫在 2027 年中舉家從香港搬到台灣的香港家庭：靠一份香港遠端 UX 薪資，配偶是香港註冊護理師，孩子還是幼兒，要比較居留、醫療、托育與住房的現金流。"
+  },
+  "localeReason": "English, Simplified Chinese and Traditional Chinese all serve this Hong Kong-family relocation decision. Traditional Chinese (zh-Hant, pilot) matches the written form most Hong Kong and Taiwan readers and Taiwan documents use; it changes no identity, status or eligibility.",
   "domain": "living",
   "researchDates": [
     "2026-11-07"

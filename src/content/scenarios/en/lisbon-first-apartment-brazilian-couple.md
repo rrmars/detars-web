@@ -11,6 +11,7 @@ researchDates:
   - "2026-11-07"
 locales:
   - "en"
+  - "pt-BR"
 producerDisplayLabel: "Produced by a general Cowork task on DeTars.xyz"
 sources:
   - title: "creditworthiness assessment"
@@ -146,7 +147,9 @@ headlineFigures:
     value: 330539
     unit: "EUR"
     display: "€330,539"
-audience: "Brazilian resident couples in Lisbon assessing a first permanent T2 home with salaried and freelance income, using this specific household’s cash and mortgage constraints."
+audience:
+  en: "Brazilian resident couples in Lisbon assessing a first permanent T2 home with salaried and freelance income, using this specific household’s cash and mortgage constraints."
+  pt-BR: "Casais brasileiros residentes em Lisboa que avaliam a compra de um primeiro T2 definitivo, com renda de salário e de freelance, a partir das restrições de caixa e de crédito desta família específica."
 faq: []
 draft: false
 ---
