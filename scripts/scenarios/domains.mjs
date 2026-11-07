@@ -15,9 +15,9 @@ export const domains = [
 // First matching rule wins. Existing persisted choices always win on subsequent imports.
 export const rules = [
   ['ai-tools', /(?:offline-translation|text-to-speech|local-(?:speech|upscalers|music-generation)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review|meeting-notes|ai-transcription)/],
-  ['study', /(?:primary-one|masters|study-abroad|english-test|(?:^|-)mba(?:-|$)|international-school|korean-course|secondary-school)/],
+  ['study', /(?:primary-one|masters|study-abroad|english-test|(?:^|-)mba(?:-|$)|international-school|korean-course|secondary-school|study-spouse)/],
   ['careers', /(?:analyst-switch|job-search|job-offer|backend-job|remote-design|germany-vs-canada|nurse|career-switch|(?:^|-)ssw-|hsp-points)/],
-  ['visas', /(?:digital-nomad|working-holiday|retirement|visa|entry-visa|dtv|long-stay|cplp)/],
+  ['visas', /(?:digital-nomad|working-holiday|retirement|visa|entry-visa|dtv|long-stay|cplp|bno-uk-ilr|express-entry)/],
   ['housing', /(?:first-home|first-apartment|cash-purchase|rent(?:al|ing)?(?:-|$)|home-buying|buying-(?:property|apartment)|first-condo)/],
   ['family', /(?:care-options|rescue-dog|vegetarian-protein|health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move|dental|infant-care|(?:^|-)dog-|aged-care|family-hcmc-posting)/],
   ['business', /(?:freelance-designer|candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing|home-bakery|cafe|sambal|home-tutoring|english-tutor|international-sales|usd-invoicing)/],

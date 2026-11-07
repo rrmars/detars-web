@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "sourceDataSha256": "7c2d5226f70132b80a06cf04c5fde0cd3ae55eb19fbb6265c34bc2400549bd75",
+  "sourceListLink": "../w8-hong-kong-family-bno-uk-settlement/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "bd3ebdd25b127a74f311633224f3083933d3466d26577ad501847b0f06880c72",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh-Hant": {
+      "sourceMarkdownSha256": "acbf0a6dc165deae95857c296aaa4417865bde11a3564546d04ff24b17741fc2",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

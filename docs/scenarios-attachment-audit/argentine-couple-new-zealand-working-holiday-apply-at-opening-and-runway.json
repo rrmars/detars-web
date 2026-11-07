@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "es"
+  ],
+  "sourceDataSha256": "44f9ebd044b55583197e16b8a04330054b14a8c82ba5b24749678795343a65d0",
+  "sourceListLink": "../w8-argentine-couple-nz-working-holiday/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "a4821d130c7e62d2c368dd7ee349aaab72731dadcd6f6f292303ca3a23261557",
+      "faqPairs": 0,
+      "links": []
+    },
+    "es": {
+      "sourceMarkdownSha256": "ffddf804e717585baade9add81748f37694f261f096073e3b00876d79ff4e064",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

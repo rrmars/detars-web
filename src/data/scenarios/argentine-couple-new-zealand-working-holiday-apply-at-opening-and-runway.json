@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 2,
+  "slug": "argentine-couple-new-zealand-working-holiday-apply-at-opening-and-runway",
+  "translationKey": "argentine-couple-new-zealand-working-holiday-apply-at-opening-and-runway",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "es": "Producido por una tarea general de Cowork en DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "es"
+  ],
+  "audience": {
+    "en": "An Argentine couple (Martín, 27, and Sofía, 26) with USD 9,000 in savings planning a New Zealand working holiday from around September 2027, deciding when to apply, where to start and how long the money lasts.",
+    "es": "Una pareja argentina (Martín, 27, y Sofía, 26) con USD 9,000 ahorrados que planea un working holiday en Nueva Zelanda desde alrededor de septiembre de 2027 y decide cuándo solicitar, dónde empezar y cuánto le durará el dinero."
+  },
+  "localeReason": "Spanish serves this couple directly: they are Argentine, and reading the application timing, the per-person fee and funds rules, the insurance wording and the open issues in their own language helps them compare what they are told with the English-only Immigration New Zealand pages. It changes no rule, fee, date or amount.",
+  "sources": [
+    {
+      "title": "www.immigration.govt.nz: /visas/argentina-working-holiday-visa/",
+      "url": "https://www.immigration.govt.nz/visas/argentina-working-holiday-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.immigration.govt.nz: /about-us/news-centre/2026-opening-dates-for-capped-working-holiday-schemes-conf",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/2026-opening-dates-for-capped-working-holiday-schemes-confirmed/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.mfat.govt.nz: /en/countries-and-regions/americas/argentina/new-zealand-embassy/working-holiday",
+      "url": "https://www.mfat.govt.nz/en/countries-and-regions/americas/argentina/new-zealand-embassy/working-holiday-schemes",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.immigration.govt.nz: /work/working-holiday-visas/who-can-apply-for-a-working-holiday-visa/",
+      "url": "https://www.immigration.govt.nz/work/working-holiday-visas/who-can-apply-for-a-working-holiday-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.immigration.govt.nz: /assets/inz/documents/forms-and-guides/Fees-Guide-INZ-1028.pdf",
+      "url": "https://www.immigration.govt.nz/assets/inz/documents/forms-and-guides/Fees-Guide-INZ-1028.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.immigration.govt.nz: /process-to-apply/applying-for-a-visa/fees-processing-times-and-refunds/how-much",
+      "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/fees-processing-times-and-refunds/how-much-visa-applications-cost-and-when-to-pay/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.immigration.govt.nz: /visas/working-holiday-extension-work-visa/",
+      "url": "https://www.immigration.govt.nz/visas/working-holiday-extension-work-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.immigration.govt.nz: /work/working-holiday-visas/finding-short-term-work-when-on-a-working-holiday/",
+      "url": "https://www.immigration.govt.nz/work/working-holiday-visas/finding-short-term-work-when-on-a-working-holiday/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.nzcherrycorp.com: /jobs/",
+      "url": "https://www.nzcherrycorp.com/jobs/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.employment.govt.nz: /pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types",
+      "url": "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/t",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/tax-rates-for-individuals",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /-/media/project/ir/home/documents/forms-and-guides/ir300---ir399/ir340/ir340-ap",
+      "url": "https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir300---ir399/ir340/ir340-apr-2026.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /income-tax/income-tax-for-individuals/acc-clients-and-carers/acc-earners-levy-r",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/acc-clients-and-carers/acc-earners-levy-rates",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/w",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/what-tax-code-should-i-use",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /kiwisaver/kiwisaver-employers/starting-employees-in-kiwisaver/check-employee-el",
+      "url": "https://www.ird.govt.nz/kiwisaver/kiwisaver-employers/starting-employees-in-kiwisaver/check-employee-eligibility-for-kiwisaver",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /managing-my-tax/ird-numbers/ird-numbers-for-individuals/new-arrival-to-new-zeal",
+      "url": "https://www.ird.govt.nz/managing-my-tax/ird-numbers/ird-numbers-for-individuals/new-arrival-to-new-zealand---ird-number-application",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /managing-my-tax/ird-numbers/ird-numbers-for-individuals/living-overseas---ird-n",
+      "url": "https://www.ird.govt.nz/managing-my-tax/ird-numbers/ird-numbers-for-individuals/living-overseas---ird-number-application",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ird.govt.nz: /international-tax/individuals/leaving-new-zealand",
+      "url": "https://www.ird.govt.nz/international-tax/individuals/leaving-new-zealand",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.employment.govt.nz: /pay-and-hours/pay-and-wages/leave-and-holiday-pay/pay-as-you-go-annual-holiday-",
+      "url": "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/leave-and-holiday-pay/pay-as-you-go-annual-holiday-payments",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.employment.govt.nz: /news-and-updates/employment-leave-act-2026",
+      "url": "https://www.employment.govt.nz/news-and-updates/employment-leave-act-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.employment.govt.nz: /leave-and-holidays/sick-leave/",
+      "url": "https://www.employment.govt.nz/leave-and-holidays/sick-leave/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.healthnz.govt.nz: /hospitals-services/eligibility-subsidies/publicly-funded-healthcare",
+      "url": "https://www.healthnz.govt.nz/hospitals-services/eligibility-subsidies/publicly-funded-healthcare",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "safetywing.com: /nomad-insurance",
+      "url": "https://safetywing.com/nomad-insurance",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "orbitprotect.com: /our-insurance/working-holiday-insurance/",
+      "url": "https://orbitprotect.com/our-insurance/working-holiday-insurance/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.anz.co.nz: /personal/moving-to-new-zealand/",
+      "url": "https://www.anz.co.nz/personal/moving-to-new-zealand/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "api.frankfurter.dev: /v1/latest?base=NZD&symbols=USD",
+      "url": "https://api.frankfurter.dev/v1/latest?base=NZD&symbols=USD",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "api.bcra.gob.ar: /estadisticascambiarias/v1.0/Cotizaciones/USD",
+      "url": "https://api.bcra.gob.ar/estadisticascambiarias/v1.0/Cotizaciones/USD",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.tenancy.govt.nz: /rent-bond-and-bills/market-rent/",
+      "url": "https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.roomies.co.nz: /rooms/1097152",
+      "url": "https://www.roomies.co.nz/rooms/1097152",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.roomies.co.nz: /rooms/1097755",
+      "url": "https://www.roomies.co.nz/rooms/1097755",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.roomies.co.nz: /rooms/1081016",
+      "url": "https://www.roomies.co.nz/rooms/1081016",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.roomies.co.nz: /rooms/1096165",
+      "url": "https://www.roomies.co.nz/rooms/1096165",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.roomies.co.nz: /rooms/1068161",
+      "url": "https://www.roomies.co.nz/rooms/1068161",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.roomies.co.nz: /rooms/751262",
+      "url": "https://www.roomies.co.nz/rooms/751262",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.rnz.co.nz: /news/business/583965/demand-for-staff-in-queenstown-higher-than-ever-but-people",
+      "url": "https://www.rnz.co.nz/news/business/583965/demand-for-staff-in-queenstown-higher-than-ever-but-people-can-t-afford-to-live-there",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "fee_per_person": {
+      "label": "Working holiday visa fee per person: NZ$215 application + NZ$455 immigration levy + NZ$100 tourism levy (IVL); matching the fees-guide row to Argentines is our reading",
+      "value": 770,
+      "unit": "NZD",
+      "display": "NZ$770"
+    },
+    "funds_rule": {
+      "label": "Funds required to show (NZ$4,200 on the official page; per-person reading is our assumption)",
+      "value": 4200,
+      "unit": "NZD",
+      "display": "NZ$4,200"
+    },
+    "weekly_take_home": {
+      "label": "Weekly take-home, 40 hours at the NZ$23.95 minimum wage, tax code M, ACC 1.75% (IRD IR340 table)",
+      "value": 794.59,
+      "unit": "NZD per week",
+      "display": "NZ$794.59"
+    },
+    "cash_at_arrival": {
+      "label": "Cash left at arrival from USD 9,000 after visas, placeholder insurance and assumed USD 1,300 flights each",
+      "value": 3915.6,
+      "unit": "USD",
+      "display": "USD 3,915.60"
+    },
+    "funds_gap": {
+      "label": "Shortfall if the NZ$4,200-each funds must stay untouched (flights assumed; moves with flight price)",
+      "value": 740.86,
+      "unit": "USD",
+      "display": "USD 740.86"
+    },
+    "cash_after_one_offs": {
+      "label": "Cash after one-off costs, before weekly spending (assumed costs; 2% conversion allowance assumed)",
+      "value": 5962.26,
+      "unit": "NZD",
+      "display": "NZ$5,962.26"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Martín, 27, and Sofía, 26, Argentine citizens; USD 9,000 savings; arrival around Sept–Nov 2027 depending on the 2027 opening date (not announced as of 2026-11-08).",
+    "costs": "One-way flights USD 1,300 each; 2% currency/card cost; temporary first-week stay NZ$350; food NZ$150 a week; transport NZ$60 a week; phones NZ$30 a month each; other NZ$80 a week; bedding, basics and clothes NZ$300; work clothes NZ$100; SIMs NZ$60; room cost the Grey Lynn listing of NZ$275 a week for two people (may not allow couples); work at minimum wage for 30 or 20 hours; first pay one week after starting; 9 weeks stand in for about 2 months. All are planner assumptions, not sourced.",
+    "rates": "NZD/USD 0.55434 (6 Nov 2026, aggregator, unconfirmed); ARS 1,545.50 per USD (BCRA, 5 Nov 2026); tax brackets and the NZ$23.95 minimum wage assumed unchanged in 2027; ACC earners' levy 1.83% for 2027–28 (published); NZ$4,200 assumed per person; tax code M assumed.",
+    "recommendation": "Apply the day the 2027 round opens, each partner separately; Auckland for the first 3–5 weeks then Central Otago from late November is the author's judgement, not an official recommendation; USD 9,000 is tight."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run (fetch timestamps 2026-11-07 UTC) and that access date is kept for every source. Source dates (the 2026 opening on 24 September 2026, the May 2026 fees guide, bond data for 1 March to 31 August 2026, rates dated 5 and 6 November 2026) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The 2027 opening date, any fee or quota change, and how quickly the 1,000 places fill are not known; no couple or partner provision was found.",
+    "Whether NZ$4,200 is per person, and whether it must stay in the account on arrival, is not stated on the official page; per person is an assumption.",
+    "The NZ$770 fee comes from the 'working holiday scheme' row of the May 2026 fees guide read as the rest-of-world band; the country fee tool on the Argentina page was not displayed, so the mapping is the author's inference. The extension fee (NZ$245 plus levies) is not shown separately for Argentines.",
+    "NZD/USD 0.55434 is from an aggregator because the Reserve Bank page returned an error; the BCRA rate is official but not labelled Com. A 3500; the blue and MEP dollar rates and current Argentine exchange rules for individuals were not researched.",
+    "Flights (USD 1,300 each), living costs, the 2% conversion cost and a couple sharing one NZ$275 room are unsourced assumptions; cash at arrival, the 10.2 weeks with zero income and the USD 740.86 gap move directly with the flight price.",
+    "Insurance uses one insurer's price (USD 815.36 per person for 52 weeks, arithmetic 13 × 62.72); whether Immigration New Zealand accepts it is unverified.",
+    "City rent medians were read by the run's worker and were not independently re-parsed in the recheck; Roomies listings are examples, not availability, with 'available from' dates and no posting dates; only the listing pages whose full addresses appear in the source list are linked (the other listing paths appear only in shortened form).",
+    "PAYE examples other than NZ$163.41 (IRD IR340) are the author's calculations, not IRD table lookups; tax code M for a working holiday visa and KiwiSaver ineligibility for a working holiday visa are the author's readings.",
+    "2027 minimum wage, 2027–28 tax brackets, public holidays 2027–28, the sick-leave qualifying period, tax-refund timing, bank details beyond ANZ, and care-sector job requirements for Sofía were not found.",
+    "The arithmetic recheck (64 money checks, 39 claim checks, 0 failures on the final run) was done by the same author with a separate script, not by an outside reviewer; an earlier one-cent rounding mismatch (NZ$7,063.53 vs NZ$7,063.54) was fixed."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Spanish page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain HTTP fetch, with the fetch tool's managed-browser fallback for client-rendered Immigration New Zealand pages and some 404 fallbacks; no sign-in, cookies or user cookie file. The Reserve Bank of New Zealand page returned 403; BNZ returned 403; ASB, Westpac and Kiwibank were not read.",
+    "independentCheckDisposition": "A separate Decimal-arithmetic script recomputed 64 money figures and 39 claims against the sources with 0 failures on the final run (15 failures on the first run: one real one-cent inconsistency, fixed, and the rest display-precision or wording issues in the check). It was run by the same author, not an outside person. It did not re-verify the tenancy medians and flagged the aggregator exchange rate, unsourced flights and living costs, the single insurer, the per-person NZ$4,200 assumption and the unknown 2027 dates; the guide keeps all of them.",
+    "editingContract": "Only data/argentine-couple-new-zealand-working-holiday-apply-at-opening-and-runway.json, en/ and es/ Markdown for this slug and checks/batch43-argentine-couple-new-zealand-working-holiday-apply-at-opening-and-runway-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

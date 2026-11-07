@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "sourceDataSha256": "f423b4207ae1cf72c1fc22bfa7d140fdebcd1d04a281d5d0a667d2d237bc0449",
+  "sourceListLink": "../w8-recife-developer-canada-express-entry/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "a724cdc8b2587b21a7f97161e97db0b362ec6287c6c19b1557d7bf0cb4f66913",
+      "faqPairs": 0,
+      "links": []
+    },
+    "pt-BR": {
+      "sourceMarkdownSha256": "2869e982def3ca21cb3121442242c56cb001afc49239bd1d9eb4b584962496a2",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

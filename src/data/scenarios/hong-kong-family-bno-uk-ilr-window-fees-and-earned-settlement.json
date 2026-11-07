@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 2,
+  "slug": "hong-kong-family-bno-uk-ilr-window-fees-and-earned-settlement",
+  "translationKey": "hong-kong-family-bno-uk-ilr-window-fees-and-earned-settlement",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "zh-Hant": "本文由 DeTars.xyz 的通用 Cowork 任務產出"
+  },
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "audience": {
+    "en": "A Hong Kong family of four on BN(O) visas who arrived in the UK in March 2022 (parents aged 44 and 42, children aged 15 and 11), planning ILR, citizenship, fees and the older child's university fee status.",
+    "zh-Hant": "2022年3月持 BN(O) 簽證抵英的香港四人家庭（父母 44 歲和 42 歲，子女 15 歲和 11 歲），正在規劃 ILR、入籍、費用，以及年長子女的大學學費身分。"
+  },
+  "localeReason": "Traditional Chinese serves this decision directly: the family come from Hong Kong, and reading the settlement conditions, the unresolved B1 versus B2 English question and the fee example in Traditional Chinese helps them compare what a lawyer, school or the Home Office says with the official GOV.UK wording. It changes no rule, fee or date.",
+  "sources": [
+    {
+      "title": "GOV.UK: gov.uk/british-national-overseas-bno-visa/settle-in-the-uk",
+      "url": "https://www.gov.uk/british-national-overseas-bno-visa/settle-in-the-uk",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/british-national-overseas-bno-visa/fees",
+      "url": "https://www.gov.uk/british-national-overseas-bno-visa/fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/guidance/immigration-rules/immigration-rules-appendix-hong-kong-british-national-overseas",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-hong-kong-british-national-overseas",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/guidance/immigration-rules/immigration-rules-appendix-continuous-residence",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-continuous-residence",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/publications/visa-regulations-revised-table",
+      "url": "https://www.gov.uk/government/publications/visa-regulations-revised-table",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK publishing assets: assets.publishing.service.gov.uk/media/6a9ff9014e17456e2cdf5167/Fees_Table_08_October_26.ods",
+      "url": "https://assets.publishing.service.gov.uk/media/6a9ff9014e17456e2cdf5167/Fees_Table_08_October_26.ods",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/publications/fees-for-citizenship-applications",
+      "url": "https://www.gov.uk/government/publications/fees-for-citizenship-applications",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/life-in-the-uk-test",
+      "url": "https://www.gov.uk/life-in-the-uk-test",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/healthcare-immigration-application",
+      "url": "https://www.gov.uk/healthcare-immigration-application",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/faster-decision-visa-settlement",
+      "url": "https://www.gov.uk/faster-decision-visa-settlement",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/apply-citizenship-indefinite-leave-to-remain",
+      "url": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/publications/register-child-under-18-as-british-citizen-form-mn1",
+      "url": "https://www.gov.uk/government/publications/register-child-under-18-as-british-citizen-form-mn1",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK publishing assets: assets.publishing.service.gov.uk/media/69982ebd9f2f510ba1d0b9ab/form-mn1-03-26.pdf",
+      "url": "https://assets.publishing.service.gov.uk/media/69982ebd9f2f510ba1d0b9ab/form-mn1-03-26.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/publications/form-mn1-guidance/form-mn1-guidance-accessible-version",
+      "url": "https://www.gov.uk/government/publications/form-mn1-guidance/form-mn1-guidance-accessible-version",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/speeches/home-secretary-earned-settlement-statement",
+      "url": "https://www.gov.uk/government/speeches/home-secretary-earned-settlement-statement",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
+      "url": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/consultations/earned-settlement",
+      "url": "https://www.gov.uk/government/consultations/earned-settlement",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK publishing assets: assets.publishing.service.gov.uk/media/6ae90b0e5b14ba0182a272a4/A_Fairer_Pathway_to_Settlement_-_Government_response_to_the_consultation.pdf",
+      "url": "https://assets.publishing.service.gov.uk/media/6ae90b0e5b14ba0182a272a4/A_Fairer_Pathway_to_Settlement_-_Government_response_to_the_consultation.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Hansard: hansard.parliament.uk/commons/2026-11-02/debates/09F388D2-539E-4B0A-ABE2-D3195B14AF0E/ImmigrationEarnedSettlement",
+      "url": "https://hansard.parliament.uk/commons/2026-11-02/debates/09F388D2-539E-4B0A-ABE2-D3195B14AF0E/ImmigrationEarnedSettlement",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Hansard: hansard.parliament.uk/lords/2026-11-02/debates/5D3D04DB-0971-4B22-B841-6414AAFAA8C9/ImmigrationEarnedSettlement",
+      "url": "https://hansard.parliament.uk/lords/2026-11-02/debates/5D3D04DB-0971-4B22-B841-6414AAFAA8C9/ImmigrationEarnedSettlement",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/government/publications/six-monthly-report-on-hong-kong-january-to-june-2026/six-monthly-report-on-hong-kong-1-january-to-30-june-2026",
+      "url": "https://www.gov.uk/government/publications/six-monthly-report-on-hong-kong-january-to-june-2026/six-monthly-report-on-hong-kong-1-january-to-30-june-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UKCISA: ukcisa.org.uk/media/pxhlq2ko/3-years-in-uk-and-islands-settled-in-uk-after-aug-24-public-eng-4.pdf",
+      "url": "https://www.ukcisa.org.uk/media/pxhlq2ko/3-years-in-uk-and-islands-settled-in-uk-after-aug-24-public-eng-4.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UKCISA: ukcisa.org.uk/media/i2bhkmsn/family-member-of-settled-person-after-aug-22-public-eng-29.pdf",
+      "url": "https://www.ukcisa.org.uk/media/i2bhkmsn/family-member-of-settled-person-after-aug-22-public-eng-29.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UKCISA: ukcisa.org.uk/media/ajrfq5qg/long-residence-public-eng-33.pdf",
+      "url": "https://www.ukcisa.org.uk/media/ajrfq5qg/long-residence-public-eng-33.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UKCISA: ukcisa.org.uk/student-advice/fees/full-list-of-categories-for-he-in-england/",
+      "url": "https://www.ukcisa.org.uk/student-advice/fees/full-list-of-categories-for-he-in-england/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "GOV.UK: gov.uk/student-finance-on-or-after-1-january-2027",
+      "url": "https://www.gov.uk/student-finance-on-or-after-1-january-2027",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "base_total": {
+      "label": "Worked-example total for 4 ILR applications, 2 adult naturalisations and 2 child registrations (standard rate, excluding priority, English-test and legal fees)",
+      "value": 18682,
+      "unit": "GBP",
+      "display": "£18,682"
+    },
+    "older_child_total": {
+      "label": "Total if the 15-year-old turns 18 before the citizenship application (adult naturalisation instead of registration)",
+      "value": 19521,
+      "unit": "GBP",
+      "display": "£19,521"
+    },
+    "ilr_fee": {
+      "label": "ILR fee per person (Home Office fee table, 8 October 2026; no Immigration Health Surcharge at ILR)",
+      "value": 3226,
+      "unit": "GBP",
+      "display": "£3,226"
+    },
+    "ilr_stage": {
+      "label": "Stage 1 subtotal: 4 ILR applications plus 2 Life in the UK Tests",
+      "value": 13004,
+      "unit": "GBP",
+      "display": "£13,004"
+    },
+    "citizenship_stage": {
+      "label": "Stage 2 subtotal: 2 adult naturalisations plus 2 child registrations",
+      "value": 5678,
+      "unit": "GBP",
+      "display": "£5,678"
+    },
+    "priority_total": {
+      "label": "Total with the optional £500 priority service on 6 applications (assumes the fee is charged per person; MN1 priority eligibility unconfirmed)",
+      "value": 21682,
+      "unit": "GBP",
+      "display": "£21,682"
+    }
+  },
+  "planningAssumptions": {
+    "family": "Wing, 44, and Mei, 42, with children aged 15 and 11; all four assumed to have entered the UK between 1 March 2022 and 31 March 2022 on BN(O) permission and to have stayed continuously with permission. Their real entry dates, visa dates, travel history, English evidence and criminal-record history were not provided.",
+    "dates": "The 5-year point is the entry-date anniversary; applications may be made 28 days earlier, which gives 1 February 2027 to 3 March 2027. Standard decisions usually take up to 6 months and priority about 30 working days (weekday count, ignoring bank holidays). These are Home Office usual times, not promises.",
+    "fees": "Fees from the Home Office table dated 8 October 2026: ILR £3,226, naturalisation £1,709 plus £130 ceremony fee, child registration £1,000, Life in the UK Test £50, priority £500 (charged per person is assumed). English-test, legal, travel and international tuition costs are excluded.",
+    "recommendation": "Apply for ILR for all four as early as the rules allow; BN(O) keeps the 5-year route per the 2 November 2026 announcements, but the English level (B1 or B2) is contradicted between official statements and no start date for the new rules has been published."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run and that access date is kept. Source dates (2 November 2026 announcements, 8 October 2026 fee table, 16 March 2026 ministerial statement as reported on 22 October 2026) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "B1 versus B2 English for BN(O) ILR is an unresolved contradiction between official statements (16 March 2026 as reported by the Foreign Office versus the 2 November 2026 government response). The current rule in force on 8 November 2026 is B1.",
+    "The original 16 March 2026 Hansard text was not retrieved; the claim rests on the Foreign Office six-monthly report.",
+    "No start date for the earned-settlement rules has been published; a law-firm search snippet claiming April 2026 is contradicted by the 2 November 2026 publications and not relied on.",
+    "Whether BN(O) applicants face the National Insurance and debt conditions is open; the Commons answer names English and criminality only.",
+    "Priority fee charged per person (GBP 500 x 4 and x 2) is an assumption; whether MN1 child registration gets priority is unconfirmed.",
+    "That the children would use the section 3(1) registration route is the run's reading of the MN1 guidance, not stated for BN(O) children on GOV.UK.",
+    "No BN(O) category in UKCISA's England list was found by text search; the underlying regulations were not read, so international fee status for a non-settled BN(O) child is an inference.",
+    "International tuition fee levels, English-test and degree-statement prices, and 2029/30 home fee cap and loan amounts were not collected.",
+    "Statement of Changes of 5 March 2026 appeared in search and was not read.",
+    "Hansard URLs were built from debate IDs and the text was read through the Hansard API.",
+    "All dates depend on each person's real entry date; 1 March 2022 to 31 March 2022 is an assumed range.",
+    "The arithmetic and date recheck was run by the same author with a second pass, not by an outside reviewer."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Traditional Chinese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research read GOV.UK pages through the public GOV.UK Content API and Search API, Hansard through its public API and UKCISA pages by plain HTTP requests, with no browser session, cookies or login. Web-search results were used for discovery only and not relied on. The Immigration Rules caseworker guidance body, the 16 March 2026 Hansard entry, the regulations behind UKCISA categories and HC statement of changes of 5 March 2026 were not read.",
+    "independentCheckDisposition": "The run's recheck recomputed every money total and date against live pages (82 checks, 0 failures after fixing 3 faults in the check script itself). It was run by the same author, not an independent person. It changed no guide text on the figures; remaining issues (B1 versus B2, missing 16 March Hansard, priority-fee assumption, section 3(1) reading, UKCISA absence inference, uncollected prices, unread Statement of Changes, entry-date dependence) are all kept in the guide.",
+    "editingContract": "Only data/hong-kong-family-bno-uk-ilr-window-fees-and-earned-settlement.json, en/ and zh-Hant/ Markdown for this slug and checks/batch43-hong-kong-family-bno-uk-ilr-window-fees-and-earned-settlement-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

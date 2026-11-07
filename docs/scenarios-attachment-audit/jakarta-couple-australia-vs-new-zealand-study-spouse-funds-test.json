@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "id"
+  ],
+  "sourceDataSha256": "7e8e219864030ee3ad8010851feea35d407546b93b4caae7f2738ab78465aacb",
+  "sourceListLink": "../w8-jakarta-couple-australia-vs-nz-study-spouse/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "135c525654dc3050c0e574e206cd6a556c10c9249d358cc5f39b3b8251a06600",
+      "faqPairs": 0,
+      "links": []
+    },
+    "id": {
+      "sourceMarkdownSha256": "363dc756bb291fda6c8ba5fd4303c471a0803aab4e5c1d982721756e5e1e162a",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 2,
+  "slug": "recife-developer-canada-express-entry-crs-french-and-budget",
+  "translationKey": "recife-developer-canada-express-entry-crs-french-and-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "pt-BR": "Produzido por uma tarefa geral do Cowork no DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "audience": {
+    "en": "A couple from Recife, Brazil (Thiago, 29, a software developer, and Camila, 28, a registered nurse) with BRL 140,000 saved, planning Canadian permanent residence through Express Entry with Calgary as the first city.",
+    "pt-BR": "Um casal do Recife (Thiago, 29 anos, desenvolvedor de software, e Camila, 28 anos, enfermeira registrada) com BRL 140.000 de economias, que planeja a residência permanente no Canadá pelo Express Entry, com Calgary como primeira cidade."
+  },
+  "localeReason": "Portuguese serves this couple directly: they live in Recife and will handle Brazilian documents (the Federal Police certificate, sworn translations, a French course in Recife) and talk to Brazilian test centres in Portuguese, while the official Canadian rules stay in English and French. It changes no score, rule, fee or date.",
+  "sources": [
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=441",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=441",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations/category-based-selection.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations/category-based-selection.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/changes.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/changes.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-workers.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-workers.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/high-wage.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/high-wage.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/police-certificates.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/police-certificates.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/brazil.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/brazil.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: ircc.canada.ca/english/information/fees/fees.asp",
+      "url": "https://ircc.canada.ca/english/information/fees/fees.asp",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/after-apply.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/after-apply.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Source page: gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais",
+      "url": "https://www.gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: wes.org/eca-2/",
+      "url": "https://www.wes.org/eca-2/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: wes.org/evaluations/",
+      "url": "https://www.wes.org/evaluations/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: gofarglobal.com/news/canada-wes-credential-evaluation-guide-2026",
+      "url": "https://www.gofarglobal.com/news/canada-wes-credential-evaluation-guide-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: britishcouncil.org.br/exame/ielts/testes-valores-locais",
+      "url": "https://www.britishcouncil.org.br/exame/ielts/testes-valores-locais",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Source page: af.rec.br/tcf/",
+      "url": "https://af.rec.br/tcf/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: bankofcanada.ca/valet/observations/FXCADBRL/json?recent=5",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXCADBRL/json?recent=5",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada / source page: bankofcanada.ca/valet/observations/FXUSDCAD,FXBRLCAD/json?recent=3",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXUSDCAD,FXBRLCAD/json?recent=3",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: calgarytransit.com/fares---passes.html",
+      "url": "https://www.calgarytransit.com/fares---passes.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: alberta.ca/ahcip-moving-to-alberta",
+      "url": "https://www.alberta.ca/ahcip-moving-to-alberta",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: alberta.ca/ahcip-eligibility",
+      "url": "https://www.alberta.ca/ahcip-eligibility",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: real-iq.ca/market-data/calgary",
+      "url": "https://www.real-iq.ca/market-data/calgary",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Source page: sqrft.ca/rent-report/calgary-july-2026/",
+      "url": "https://www.sqrft.ca/rent-report/calgary-july-2026/",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "french_points": {
+      "label": "CRS points added by French (NCLC 7 in all four skills): 12 second language + 50 bonus",
+      "value": 62,
+      "unit": "CRS points",
+      "display": "+62"
+    },
+    "french_score": {
+      "label": "Thiago's CRS score at English CLB 8 plus French NCLC 7 (scenario A2+F; clears 11 of 12 French rounds in 2026)",
+      "value": 420,
+      "unit": "CRS points",
+      "display": "420"
+    },
+    "healthcare_range": {
+      "label": "Healthcare category cut-offs, eight rounds July 2025 to September 2026",
+      "value": 462,
+      "unit": "CRS points",
+      "display": "462–476"
+    },
+    "funds_required": {
+      "label": "Settlement funds for a family of 2 (IRCC table dated 7 July 2025; a 2026 table not confirmed)",
+      "value": 19001,
+      "unit": "CAD",
+      "display": "C$19,001"
+    },
+    "pre_arrival": {
+      "label": "Estimated costs before arrival (includes placeholders and unconfirmed third-party prices)",
+      "value": 8138,
+      "unit": "CAD",
+      "display": "C$8,138"
+    },
+    "left_at_application": {
+      "label": "Left from BRL 140,000 at application, at 3.8986 BRL per CAD (planning figure)",
+      "value": 27772,
+      "unit": "CAD",
+      "display": "C$27,772"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Thiago, 29, software developer, about 6 years' experience; Camila, 28, registered nurse, about 4 years; both with a bachelor's degree; no Canadian work, no job offer. English levels are estimates (Thiago CLB 8-9, Camila CLB 7), not test results.",
+    "rates": "1 CAD = 3.8986 BRL (Bank of Canada, 6 November 2026); savings BRL 140,000 = C$35,910; amounts rounded line by line.",
+    "costs": "Placeholders: French preparation R$6,000, translations R$1,500, medicals R$800 each, flights R$4,500 each, one month's deposit, groceries C$700 a month, phone and internet C$160, utilities C$120, furniture C$2,000, winter clothing C$800, eating out C$300 a month, health contingency C$300, 10% contingency; retake allowances for IELTS and TCF once each. Rent C$1,431 is a third-party average.",
+    "recommendation": "Thiago as principal applicant; invest in French (NCLC 7 in all four skills, +62 CRS points; 420 clears 11 of 12 French rounds in 2026); healthcare draws needed 462-476; the 3 November 2026 Labour Market Integration factor is 0 for them (our inference, not checked against the old grid); not legal or immigration advice."
+  },
+  "datePolicy": "Pages were read on 2026-11-07 UTC (2026-11-08 local) in the original run; sources whose figure was seen only in a search snippet or whose tool did not render have access date unknown. Round dates, table dates (7 July 2025) and the 3 November 2026 rule change are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "FSW education points (21 for a three-year-plus bachelor's) come from memory of the IRCC grid; the lookup table did not render. Camila's FSW total of 67 has zero margin.",
+    "The TEER 1 classification of NOC 21232 and 31301, the IELTS-to-CLB mapping, the 9-18 months of French study, ECA turnaround and about 6 months of PR processing are unconfirmed or estimates; the processing-times tool did not render.",
+    "The inference that the 3 November 2026 CRS change does not alter their scores was not checked against the superseded grid; age counted on the invitation date was not found in the page text. All cut-offs predate the change.",
+    "Budget lines marked placeholder or assumed have no source (French tuition, translations, medicals, flights, deposit, groceries, telecom, utilities, furniture, clothing, eating out, health contingency, 10% contingency, retakes).",
+    "Third-party or snippet prices: WES ECA C$264, WES courier C$97 (column inferred), IELTS R$1,360 (snippet), TCF Canada R$1,335 (Sao Paulo, snippet), Calgary rent C$1,431 (a July 2026 snippet shows C$1,593).",
+    "Not found: TEF Canada price, NNAS fee, panel-physician fee in Recife, sworn translation and apostille prices, Rentals.ca figure, groceries, telecom, deposit rule, airfares.",
+    "The proof-of-funds table (C$19,001) is dated 7 July 2025; a 2026 table was not confirmed. The R$ equivalent is shown as R$74,077 (19,001 x 3.8986 = 74,077.3).",
+    "The re-check after four corrections (French clearing count 3 not 5, the 46% rise in BRL per CAD, runway about 4.8 months, wording) was done by the guide's author, not by an outside reviewer; the earlier full recomputation by a separate reviewer did not reopen every rule page."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Brazilian Portuguese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research read pages through DeTars' fetch pipeline and managed browser profile without sign-ins; Rentals.ca, Numbeo, Telus and NNAS refused automated access. The TEF Canada price, NNAS fee, panel-physician price and Recife translation prices were not found. The IRCC language-equivalency chart and education-points lookup did not render. The URL for French category round 452 (S4) was given in the run only as a query suffix and is not listed.",
+    "independentCheckDisposition": "A separate reviewer recomputed the CRS, FSW, draw statistics and budget arithmetic and checked live IRCC pages; it found the French clearing count for 396 was 3 not 5, the 46% was a rise in BRL per CAD (the real loses about 32%), the runway was about 4.8 months not about 3, and smaller wording and rounding points; the run fixed the four medium items, and the author, not an outsider, re-checked them. The reviewer could not confirm the FSW education value 21. This page also shows R$74,077 and R$1,403 where the run's rounding differed by one real, and notes that displayed lines can differ from totals by C$1.",
+    "editingContract": "Only data/recife-developer-canada-express-entry-crs-french-and-budget.json, en/ and pt-BR/ Markdown for this slug and checks/batch43-recife-developer-canada-express-entry-crs-french-and-budget-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 2,
+  "slug": "hanoi-couple-japan-student-vs-ssw-budgets-and-repayment",
+  "translationKey": "hanoi-couple-japan-student-vs-ssw-budgets-and-repayment",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "vi": "Bài viết do một tác vụ Cowork thông dụng trên DeTars.xyz thực hiện"
+  },
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "audience": {
+    "en": "A married couple in Hanoi (Huy with a 3-year IT college diploma and JLPT N5, Lan with hotel front-desk experience and no Japanese) weighing a Japanese language school against both working as Specified Skilled Workers (i), with VND 180,000,000 saved and a possible VND 250,000,000 family loan.",
+    "vi": "Một cặp vợ chồng ở Hà Nội (Huy có bằng cao đẳng CNTT 3 năm và JLPT N5, Lan có kinh nghiệm lễ tân khách sạn và chưa biết tiếng Nhật) đang cân nhắc học trường tiếng Nhật hay cả hai cùng đi làm theo diện Kỹ năng đặc định (i), với VND 180.000.000 tiết kiệm và khoản vay gia đình có thể lên tới VND 250.000.000."
+  },
+  "localeReason": "Vietnamese serves this decision directly: the couple live in Hanoi, the agency quotes, Vietnamese fee law and recruitment rules they must check are in Vietnamese, and reading the conditions and open issues in Vietnamese helps them compare an agency's paperwork and promises with the official wording. It changes no rule, fee, rate or date.",
+  "sources": [
+    {
+      "title": "moj.go.jp/isa/applications/resources/nyuukokukanri07_00159.html",
+      "url": "https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00159.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/001461504.pdf",
+      "url": "https://www.moj.go.jp/isa/content/001461504.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/status/student.html",
+      "url": "https://www.moj.go.jp/isa/applications/status/student.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/001363332.pdf",
+      "url": "https://www.moj.go.jp/isa/content/001363332.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/930005392.pdf",
+      "url": "https://www.moj.go.jp/isa/content/930005392.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/resources/nyuukokukanri07_00024.html",
+      "url": "https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00024.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/status/dependent.html",
+      "url": "https://www.moj.go.jp/isa/applications/status/dependent.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/001366995.pdf",
+      "url": "https://www.moj.go.jp/isa/content/001366995.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/status/gijinkoku.html",
+      "url": "https://www.moj.go.jp/isa/applications/status/gijinkoku.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "studyinjapan.go.jp/vi/planning/immigration-procedures/",
+      "url": "https://www.studyinjapan.go.jp/vi/planning/immigration-procedures/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "arc.ac.jp/Tokyo/admission/schoolexpense202604/",
+      "url": "https://arc.ac.jp/Tokyo/admission/schoolexpense202604/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "arc.ac.jp/Tokyo/admission/schoolexpense/",
+      "url": "https://arc.ac.jp/Tokyo/admission/schoolexpense/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "naganuma-school.ac.jp/courses/fees.html",
+      "url": "https://www.naganuma-school.ac.jp/courses/fees.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "baito.mynavi.jp/tokyo/ss-1/kd-11-14/",
+      "url": "https://baito.mynavi.jp/tokyo/ss-1/kd-11-14/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "baitoru.com/lp/internationalstudent/",
+      "url": "https://www.baitoru.com/lp/internationalstudent/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/03_00176.html",
+      "url": "https://www.moj.go.jp/isa/03_00176.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/ssw/03_00001.html",
+      "url": "https://www.moj.go.jp/isa/applications/ssw/03_00001.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vn.emb-japan.go.jp/itpr_ja/20241028_TokuteiGinouShiken_Gaishoku.html",
+      "url": "https://www.vn.emb-japan.go.jp/itpr_ja/20241028_TokuteiGinouShiken_Gaishoku.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/930004452.pdf",
+      "url": "https://www.moj.go.jp/isa/content/930004452.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/001335263.pdf",
+      "url": "https://www.moj.go.jp/isa/content/001335263.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/ssw/nyuukokukanri06_00109.html",
+      "url": "https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri06_00109.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/policies/ssw/faq.html",
+      "url": "https://www.moj.go.jp/isa/policies/ssw/faq.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/10_00262.html",
+      "url": "https://www.moj.go.jp/isa/10_00262.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/001452485.pdf",
+      "url": "https://www.moj.go.jp/isa/content/001452485.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/faq/ikusei_qa_00002.html",
+      "url": "https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/applications/ssw/nyuukokukanri05_00002.html",
+      "url": "https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri05_00002.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/content/001472175.pdf",
+      "url": "https://www.moj.go.jp/isa/content/001472175.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/10_00259.html",
+      "url": "https://www.moj.go.jp/isa/10_00259.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vn.emb-japan.go.jp/itpr_ja/11_000001_02216_Tokuteigino_Shikenjouhou_JFTBasic.html",
+      "url": "https://www.vn.emb-japan.go.jp/itpr_ja/11_000001_02216_Tokuteigino_Shikenjouhou_JFTBasic.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ssw.go.jp/about/sswv/exam/",
+      "url": "https://www.ssw.go.jp/about/sswv/exam/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "prometric-jp.com/en/ssw/schedule/jft_basic_overseas/",
+      "url": "https://www.prometric-jp.com/en/ssw/schedule/jft_basic_overseas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "jft.dungmori.com/huong-dan/lich-thi-jft-basic-viet-nam.html",
+      "url": "https://jft.dungmori.com/huong-dan/lich-thi-jft-basic-viet-nam.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vn.emb-japan.go.jp/itpr_ja/11_000001_02662_tokuteiginoushiken_kougyouseihinseizougyou.html",
+      "url": "https://www.vn.emb-japan.go.jp/itpr_ja/11_000001_02662_tokuteiginoushiken_kougyouseihinseizougyou.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vn.emb-japan.go.jp/itpr_ja/20240408_TokuteiGinouShiken_Shukuhaku.html",
+      "url": "https://www.vn.emb-japan.go.jp/itpr_ja/20240408_TokuteiGinouShiken_Shukuhaku.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mhlw.go.jp/stf/newpage_75950.html",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75950.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mhlw.go.jp/content/11302000/001745621.pdf",
+      "url": "https://www.mhlw.go.jp/content/11302000/001745621.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mhlw.go.jp/content/11200000/001753404.pdf",
+      "url": "https://www.mhlw.go.jp/content/11200000/001753404.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vanban.chinhphu.vn/?pageid=27160&docid=219490&classid=1&orggroupid=1",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=219490&classid=1&orggroupid=1",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "baochinhphu.vn/thong-qua-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-102260824105853559.htm",
+      "url": "https://baochinhphu.vn/thong-qua-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-102260824105853559.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Luat-69-2020-QH14-Nguoi-lao-dong-Viet-Nam-lam-viec-o-nuoc-ngoai-theo-hop-dong-2020-439844.aspx",
+      "url": "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Luat-69-2020-QH14-Nguoi-lao-dong-Viet-Nam-lam-viec-o-nuoc-ngoai-theo-hop-dong-2020-439844.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "gf.edu.vn/chi-phi-di-xuat-khau-lao-dong-nhat-ban/",
+      "url": "https://gf.edu.vn/chi-phi-di-xuat-khau-lao-dong-nhat-ban/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "luatvietnam.vn/lao-dong-tien-luong/diem-moi-cua-luat-nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-sua-doi-2026-562-112551-article.html",
+      "url": "https://luatvietnam.vn/lao-dong-tien-luong/diem-moi-cua-luat-nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-sua-doi-2026-562-112551-article.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vanban.chinhphu.vn/default.aspx?pageid=27160&docid=204193",
+      "url": "https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=204193",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "akane.vn/dich-vu/ky-nang-dac-dinh.html",
+      "url": "https://akane.vn/dich-vu/ky-nang-dac-dinh.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "workvisa.guide/vi/xuat-khau-lao-dong-nhat-ban/ky-nang-dac-dinh",
+      "url": "https://workvisa.guide/vi/xuat-khau-lao-dong-nhat-ban/ky-nang-dac-dinh",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "gf.edu.vn/chi-phi-du-hoc-nhat-ban/",
+      "url": "https://gf.edu.vn/chi-phi-du-hoc-nhat-ban/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "visalink.vn/du-hoc-nhat-ban/",
+      "url": "https://visalink.vn/du-hoc-nhat-ban/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ecoi.net/en/document/2130542.html",
+      "url": "https://www.ecoi.net/en/document/2130542.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "moj.go.jp/isa/support/fresc/fresc_4.html",
+      "url": "https://www.moj.go.jp/isa/support/fresc/fresc_4.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "otit.go.jp/trainee/ja/consult/contact/",
+      "url": "https://www.otit.go.jp/trainee/ja/consult/contact/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx",
+      "url": "https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "path_a_arc_cash": {
+      "label": "Path (a) total family cash, ARC case (assumed inputs; see the budget tables)",
+      "value": 339513488,
+      "unit": "VND",
+      "display": "VND 339,513,488"
+    },
+    "path_a_naganuma_cash": {
+      "label": "Path (a) total family cash, Naganuma case (assumed inputs; see the budget tables)",
+      "value": 415724688,
+      "unit": "VND",
+      "display": "VND 415,724,688"
+    },
+    "path_b_mid_cash": {
+      "label": "Path (b) couple total, mid case (assumed inputs; see the budget tables)",
+      "value": 249290000,
+      "unit": "VND",
+      "display": "VND 249,290,000"
+    },
+    "funds_available": {
+      "label": "Funds available (savings plus loan) (assumed inputs; see the budget tables)",
+      "value": 430000000,
+      "unit": "VND",
+      "display": "VND 430,000,000"
+    },
+    "path_a_monthly_saving": {
+      "label": "Path (a) monthly saving after the course (assumed inputs; see the budget tables)",
+      "value": 11636500,
+      "unit": "VND",
+      "display": "VND 11,636,500"
+    },
+    "path_b_monthly_saving": {
+      "label": "Path (b) monthly saving for the couple (assumed inputs; see the budget tables)",
+      "value": 23587500,
+      "unit": "VND",
+      "display": "VND 23,587,500"
+    }
+  },
+  "planningAssumptions": {
+    "exchangeRates": "Vietcombank feed read 8 November 2026 about 02:56 Hanoi time: JPY sell 166.40 VND, transfer-buy 157.25 VND, cash buy 155.67; rates move daily.",
+    "funds": "Savings VND 180,000,000 plus family loan up to VND 250,000,000 = VND 430,000,000.",
+    "pay": "SSW (i) pay JPY 200,000 gross, 80% net; Engineer entry pay JPY 230,000 gross; student part-time 22 h x 4.3 weeks x JPY 1,300 = JPY 122,980 a month. All assumed.",
+    "living": "JPY 100,000 a month as student; JPY 110,000 as Engineer; JPY 85,000 as SSW (i); arrival set-up JPY 250,000; first-month buffer VND 15 million each. All assumed.",
+    "fees": "Agency fee VND 20 million (path a) and service fee VND 60 million mid case, 80 million high case (path b); preparation VND 30 million each; other pre-departure items are unconfirmed agency ranges.",
+    "recommendation": "Both as SSW (i): Lan in accommodation (hotel), Huy in industrial product manufacturing unless he can prove an Engineer/Humanities-eligible credential before paying anyone."
+  },
+  "datePolicy": "Pages were read on 8 November 2026 in the original run and that access date is kept for every source. Source dates (the 13 April 2026 food-service COE stop, the 20 October 2026 ESD memorandum list, the 1 April 2027 ESD start, the 1 March 2027 effective date of Law 22/2026/QH16) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Food service SSW (i) is closed: COE not issued for applications received on or after 13 April 2026 and the Vietnam test stopped new bookings on 6 April 2026 (official pages). Vietnam is not on the ESD memorandum list updated 20 October 2026; status after that date is unknown.",
+    "Whether Huy's 3-year Vietnamese college (cao dang) IT diploma counts as university degree or equivalent for Engineer/Humanities status has no official text; the 7-year experience gap is a reading of the agency wording.",
+    "A married couple each holding SSW (i) is our inference; no official sentence either way and no right to be placed in the same city.",
+    "The hotel (accommodation) skills test fee of VND 1,200,000 and sittings rest on an embassy notice dated 8 April 2024; current dates and fee are unverified. The Prometric calendar grid could not be read and the Hanoi December to January JFT dates are a prep-school transcription.",
+    "Law 69/2020 Article 23 fee caps reached only as a search snippet and a consultancy page; Law 22/2026/QH16 details come from a government newspaper report of the draft explanation and secondary pages; Circular 09/2026/TT-BNV citation is from a consultancy page; Japan annex caps and several decrees were not read.",
+    "The Study in Japan page was a search snippet only; the Hanoi embassy visa procedure page could not be read; no third school fee page was obtained; the agency per-field headroom PDF was not read.",
+    "Osaka, Aichi and Fukuoka minimum wages were read by research workers from the ministry PDFs and not re-read independently; only the national average and Tokyo maximum were reconfirmed.",
+    "SSW pay, 80% net factor, living costs, agency and service fees, preparation costs and buffers are planning assumptions or unconfirmed agency ranges; no dated SSW job advert, deduction rates, DOLAB complaint line or Vietnamese technical-intern hotline number was found.",
+    "The money figures were recomputed with a second method and matched; after the final edits the re-check was done by the same team that wrote the guide, not by an outside reviewer."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Vietnamese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch; where the Embassy of Japan in Vietnam pages and vanban.chinhphu.vn refused it, the tool fell back to its own managed-browser render (no user profile or cookies). thuvienphapluat.vn showed a bot check and was not read; moha.gov.vn timed out; state.gov returned 403 (the 2025 report was read through an ecoi.net mirror).",
+    "independentCheckDisposition": "A first reviewer recomputed the money figures (all matched except a rounding nit, Fukuoka JPY 134,125.6 to 134,126) and raised 10 issues: two timeline sentences (debt gone late 2027 to early 2028, not early-to-mid 2028; wage gap 1.5 to 2 years, not about a year), 'currently bookable' for the hotel test, 'nearest published intake' contradicting the January 2027 Naganuma entry, an unopened Study in Japan page tagged official, an untagged Circular 09/2026 date, several unsourced claims, test fees per try (VND 2.07 to 2.22 million), and a comparison that needed a clause on what each total contains. The run edited all ten and the guide follows the corrected text. The re-check after the edits was mechanical and run by the same team, not by an outside reviewer. Remaining gaps are kept in the guide.",
+    "editingContract": "Only data/hanoi-couple-japan-student-vs-ssw-budgets-and-repayment.json, en/ and vi/ Markdown for this slug and checks/batch43-hanoi-couple-japan-student-vs-ssw-budgets-and-repayment-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

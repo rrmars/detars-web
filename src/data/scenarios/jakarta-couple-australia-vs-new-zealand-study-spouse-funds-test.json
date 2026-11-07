@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 2,
+  "slug": "jakarta-couple-australia-vs-new-zealand-study-spouse-funds-test",
+  "translationKey": "jakarta-couple-australia-vs-new-zealand-study-spouse-funds-test",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "id": "Dibuat oleh tugas Cowork umum di DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "id"
+  ],
+  "audience": {
+    "en": "A Jakarta couple (Rina, about 30, planning a master's from 2027; Bayu, a spouse with trade qualifications) with IDR 650 million in savings, choosing between Australia and New Zealand and needing the visa funds test, spouse work rights and costs.",
+    "id": "Pasangan di Jakarta (Rina, sekitar 30 tahun, berencana kuliah magister mulai 2027; Bayu, pasangan dengan kualifikasi teknis) dengan tabungan IDR 650 juta, yang memilih antara Australia dan Selandia Baru dan perlu memahami uji dana visa, hak kerja pasangan, dan biayanya."
+  },
+  "localeReason": "Indonesian serves this couple directly: they live in Jakarta and have to weigh visa funds rules, spouse work rights and a two-year budget in IDR, and reading the conditions and open issues in their own language helps them compare agents' and universities' paperwork with the official English wording. It changes no rule, fee, rate or date.",
+  "sources": [
+    {
+      "title": "Bank Indonesia: bi.go.id/en/statistik/informasi-kurs/jisdor/default.aspx",
+      "url": "https://www.bi.go.id/en/statistik/informasi-kurs/jisdor/default.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Reserve Bank of Australia: rba.gov.au/statistics/frequency/exchange-rates.html",
+      "url": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Reserve Bank of New Zealand: rbnz.govt.nz/statistics/series/exchange-and-interest-rates/exchange-rates-and-the-trade-weighted-index",
+      "url": "https://www.rbnz.govt.nz/statistics/series/exchange-and-interest-rates/exchange-rates-and-the-trade-weighted-index",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Home Affairs: immi.homeaffairs.gov.au/Visa-subsite/files/changes-to-student-visa-applications-factsheet.pdf",
+      "url": "https://immi.homeaffairs.gov.au/Visa-subsite/files/changes-to-student-visa-applications-factsheet.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Study Australia (Australian Government): studyaustralia.gov.au/en/plan-your-move/bringing-your-family",
+      "url": "https://www.studyaustralia.gov.au/en/plan-your-move/bringing-your-family",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Home Affairs: immi.homeaffairs.gov.au/visas/visa-pricing-estimator?visa=500",
+      "url": "https://immi.homeaffairs.gov.au/visas/visa-pricing-estimator?visa=500",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Study Australia (Australian Government): studyaustralia.gov.au/en/Agent-Hub/agent-news-index/student-visa-application-charge-increase",
+      "url": "https://www.studyaustralia.gov.au/en/Agent-Hub/agent-news-index/student-visa-application-charge-increase",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/visa-processing-priorities/student-visa",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/visa-processing-priorities/student-visa",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Education: education.gov.au/managed-system-international-education/announcements/national-planning-level-2027-announced",
+      "url": "https://www.education.gov.au/managed-system-international-education/announcements/national-planning-level-2027-announced",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Study Australia (Australian Government): studyaustralia.gov.au/en/tools-and-resources/news/australia-confirms-international-education-settings-for-202",
+      "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/news/australia-confirms-international-education-settings-for-2027",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Study Australia (Australian Government): studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas/student-visa-subclass-500",
+      "url": "https://www.studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas/student-visa-subclass-500",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Study Australia (Australian Government): studyaustralia.gov.au/en/plan-your-move/overseas-student-health-cover-oshc",
+      "url": "https://www.studyaustralia.gov.au/en/plan-your-move/overseas-student-health-cover-oshc",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Study Australia (Australian Government): studyaustralia.gov.au/en/life-in-australia/living-and-education-costs",
+      "url": "https://www.studyaustralia.gov.au/en/life-in-australia/living-and-education-costs",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Fair Work Ombudsman: fairwork.gov.au/about-us/workplace-laws/annual-wage-review/annual-wage-review-2026",
+      "url": "https://www.fairwork.gov.au/about-us/workplace-laws/annual-wage-review/annual-wage-review-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Fair Work Ombudsman: fairwork.gov.au/pay-and-wages/minimum-wages",
+      "url": "https://www.fairwork.gov.au/pay-and-wages/minimum-wages",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Fair Work Ombudsman: calculate.fairwork.gov.au/payguides/pact/MA000010/20260701",
+      "url": "https://calculate.fairwork.gov.au/payguides/pact/MA000010/20260701",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Taxation Office: ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "url": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Taxation Office: ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-p",
+      "url": "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/visas/fee-paying-student-visa/",
+      "url": "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/st",
+      "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/student-fund-requirements/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/assets/inz/documents/forms-and-guides/Fees-Guide-INZ-1028.pdf",
+      "url": "https://www.immigration.govt.nz/assets/inz/documents/forms-and-guides/Fees-Guide-INZ-1028.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+      "url": "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+      "url": "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/visas/post-study-work-visa/",
+      "url": "https://www.immigration.govt.nz/visas/post-study-work-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration New Zealand: immigration.govt.nz/process-to-apply/waiting-for-a-visa/processing-a-visa-application/how-long-it-takes-to-process-an-applica",
+      "url": "https://www.immigration.govt.nz/process-to-apply/waiting-for-a-visa/processing-a-visa-application/how-long-it-takes-to-process-an-application/student-visa-wait-times/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Employment New Zealand: employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types",
+      "url": "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Employment New Zealand: employment.govt.nz/news-and-updates/minimum-wage-is-increasing-on-1-april-2026",
+      "url": "https://www.employment.govt.nz/news-and-updates/minimum-wage-is-increasing-on-1-april-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Inland Revenue New Zealand: ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/tax-rates-for-individuals",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/tax-rates-for-individuals",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "University of Queensland: study.uq.edu.au/study-options/programs/master-data-science-5660",
+      "url": "https://study.uq.edu.au/study-options/programs/master-data-science-5660",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "University of Auckland: auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-data-science-mdats.html",
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-data-science-mdats.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "University of Auckland: auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/international-student-fees/postgraduate-international-fees.html",
+      "url": "https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/international-student-fees/postgraduate-international-fees.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "University of Auckland Business Masters: businessmasters.auckland.ac.nz/programme-information/master-of-professional-accounting/",
+      "url": "https://www.businessmasters.auckland.ac.nz/programme-information/master-of-professional-accounting/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "University of Auckland Business Masters: businessmasters.auckland.ac.nz/programme-information/master-of-business-analytics/",
+      "url": "https://www.businessmasters.auckland.ac.nz/programme-information/master-of-business-analytics/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Queensland Residential Tenancies Authority: rta.qld.gov.au/sites/default/files/2023-04/rta-bond-statistics.xlsx",
+      "url": "https://www.rta.qld.gov.au/sites/default/files/2023-04/rta-bond-statistics.xlsx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Queensland Residential Tenancies Authority: rta.qld.gov.au/forms-resources/rta-data-releases/median-rents-quarterly-data",
+      "url": "https://www.rta.qld.gov.au/forms-resources/rta-data-releases/median-rents-quarterly-data",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Victoria Department of Families, Fairness and Housing: dffh.vic.gov.au/publications/rental-report",
+      "url": "https://www.dffh.vic.gov.au/publications/rental-report",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Tenancy Services New Zealand: tenancy.govt.nz/rent-bond-and-bills/market-rent/",
+      "url": "https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "savings_idr": {
+      "label": "Savings the couple has (about AUD 51,950 or NZD 64,427 at mid-market rates of 6 November 2026)",
+      "value": 650,
+      "unit": "IDR million",
+      "display": "IDR 650 million"
+    },
+    "funds_australia": {
+      "label": "Visa funds to show at lodgement, University of Queensland Master of Data Science (AUD 103,056); short of savings by IDR 639 million",
+      "value": 1289,
+      "unit": "IDR million",
+      "display": "IDR 1,289 million"
+    },
+    "funds_nz_data": {
+      "label": "Visa funds to show, Auckland Master of Data Science, 2 years (NZD 82,458)",
+      "value": 832,
+      "unit": "IDR million",
+      "display": "IDR 832 million"
+    },
+    "funds_nz_accounting": {
+      "label": "Visa funds to show, Auckland Master of Professional Accounting, 15 months (NZD 89,792; pro-rata is an assumption)",
+      "value": 906,
+      "unit": "IDR million",
+      "display": "IDR 906 million"
+    },
+    "cost_australia": {
+      "label": "Two-year cost, Brisbane, University of Queensland (AUD 222,649; assumptions and rent median used)",
+      "value": 2786,
+      "unit": "IDR million",
+      "display": "IDR 2,786 million"
+    },
+    "cost_nz_data": {
+      "label": "Two-year cost, Auckland data science (NZD 209,261; NZ partner visa fee unconfirmed; assumptions used)",
+      "value": 2111,
+      "unit": "IDR million",
+      "display": "IDR 2,111 million"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Rina, about 30, IELTS 7.0, master's from 2027; Bayu, IELTS 5.5, trade qualifications that may not be recognised locally, no job assured; IDR 650 million savings.",
+    "fx": "Mid-market rates of 6 November 2026: AUD 1 = IDR 12,512; NZD 1 = IDR 10,089 (12,512 divided by 1.2401). A bank or remitter will give less.",
+    "costs": "Other living 350 a week for the couple in both countries; health cover AUD 4,000 (2 years) and NZD 2,400 (15-24 months); flights 4,000 in either currency; rent AUD 510 a week (Indooroopilly median) and NZD 460 a week (Mount Eden median). All unconfirmed planning inputs, not sourced.",
+    "bayu": "Works 85% of weeks at the statutory minimum wage, 20 or 38 hours a week, no casual loading, no overtime; Australian tax includes the 2% Medicare levy, New Zealand omits the ACC levy.",
+    "recommendation": "Money is the real problem in both countries; the funds test alone exceeds IDR 650 million. If funding is found, lean New Zealand; choose Australia if Bayu's income is the main lever. The Australian family-member rule of 2 October 2026 has an ASEAN exemption naming Indonesia; 'eligible' is not defined on the pages read."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 and that access date is kept for every source; page dates (for example the Home Affairs page last updated 5 November 2026) and exchange-rate dates (6 November 2026) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "'Eligible' in the Australian ASEAN family exemption is not defined beyond the passport list on the pages read; confirm with Home Affairs or a registered migration agent.",
+    "The New Zealand partner visa fee (NZD 1,355) is an inference from the nearest fee-guide row (NZD 295 plus NZD 1,060 levy); whether the NZD 100 International Visitor Levy applies is not confirmed.",
+    "The Australian additional-applicant charge (AUD 1,255) comes from the Home Affairs estimator ('price starts from'); whether it is new from 1 July 2026 was not found.",
+    "Not found: Indonesia's evidence level for Australia, actual processing days, the couple's OSHC price, New Zealand partner visa processing time, minimum study length or cohabitation for the partner visa, partner English requirement, a New Zealand mechanical technician's pay, New Zealand student health insurance price, the minimum wage from 1 April 2027, casual loading percentage.",
+    "Only one Australian programme fee (University of Queensland) and the Auckland fees could be verified; Melbourne fees and suburb rents, Victoria University of Wellington and AUT fees and any priced listing were not found; Auckland accounting and analytics fees show no year; a search snippet of about AUD 38,192 a year is unconfirmed and not used.",
+    "Rents are official medians, not listings; New Zealand figures are bond-lodgement medians; the Wellington Central NZD 328 looks anomalously low.",
+    "Health cover, flights, other living (350 a week), the 85% working rate and pro-rata tuition for the 15-month course are assumptions; all budget results are scenarios, not forecasts.",
+    "Bayu's award classification is not established; Medicare levy exemption for temporary visa holders and the ACC levy were not checked.",
+    "Exchange rates are mid-market; the RBA says its data should not be relied on for regulatory or commercial purposes; the Reserve Bank of New Zealand route gives NZD 1 = IDR 10,145 (0.55% apart).",
+    "The Ministerial Direction 115 PDF, the Department of Education Managed Growth 2027 factsheet and the interactive fee, checklist and processing tools (apart from the fee estimator) were not read; the post-study work visa fee (NZD 320 plus NZD 1,350 levy) comes from a PDF with a column-alignment risk.",
+    "The Australian visa length ('up to 6 years') and the NZD 19.16 starting-out wage appear on the run's page without a traceable source line; the run's 485 note 'must be in Australia at application' was left out for the same reason.",
+    "The money recheck (60 figures, 0 mismatches) was run by the same team that wrote the guide, not an outside reviewer."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-06",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Indonesian page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch, DeTars' managed browser for pages that refused plain requests, and the Home Affairs fee estimator with hypothetical inputs (nothing submitted); no signed-in sessions were used. Several Australian university fee pages and the Victoria fare page were not readable; some tools were interactive and not run.",
+    "independentCheckDisposition": "The run's separate recomputation recomputed 60 money figures with 0 mismatches and compared claims by hand against its source notes. It was run by the same team, not an outside reviewer. It caught a rounding slip (NZD 1 had been rounded to IDR 10,090; the page now uses the stated IDR 10,089) and corrected the savings in NZD from 64,420 to 64,427. Remaining issues kept in the guide: all budget results depend on unsourced assumptions; items not found are disclosed.",
+    "editingContract": "Only data/jakarta-couple-australia-vs-new-zealand-study-spouse-funds-test.json, en/ and id/ Markdown for this slug and checks/batch43-jakarta-couple-australia-vs-new-zealand-study-spouse-funds-test-notes.md were written (plus a scratch generator in checks/). No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "study",
+  "researchDates": [
+    "2026-11-06",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

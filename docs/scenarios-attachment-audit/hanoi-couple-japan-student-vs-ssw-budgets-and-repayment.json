@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "sourceDataSha256": "d6c2827b673644c4d3318f7d6b85517904331bf60d6fa578cef63b477727e3f2",
+  "sourceListLink": "../w8-hanoi-couple-japan-student-vs-ssw/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "5ff52749aea409113708ff404149cd830432948ea69ca3b26d333a2124789483",
+      "faqPairs": 0,
+      "links": []
+    },
+    "vi": {
+      "sourceMarkdownSha256": "829915146ed0b439fda66b2b5fa780f199b13a76ff046e8e55f8dc2b2f3dd014",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
