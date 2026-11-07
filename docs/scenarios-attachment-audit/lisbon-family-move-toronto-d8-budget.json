@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "a34a6220323cf840ed7852390aec5febec7e1b3a7113d754c4add67f282e5321",
+  "sourceListLink": "../w7-lisbon-family-move-from-toronto/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "753f76b1a0270e892fa7484a779570b3133e949ef049e2cca02d59b84589c9db",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "schemaVersion": 2,
+  "slug": "manila-online-english-tutor-income-plan",
+  "translationKey": "manila-online-english-tutor-income-plan",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Carla, a Filipino tutor in Quezon City building a Japan/Korea adult-English business under Philippine payment, contractor and tax constraints.",
+  "localeReason": "English only: the assigned scenario addresses a specific Filipino tutor and Philippine registration/payment context. No distinct Chinese-reader need is evidenced; no Chinese page or eligibility transfer is implied.",
+  "sources": [
+    {
+      "title": "Bizmates FAQ and linked careers bundle",
+      "url": "https://bizmates.ph/faqs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RareJob PH FAQ",
+      "url": "https://tutor.rarejob.com.ph/site/faqs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Native Camp public tutor pages and FAQs",
+      "url": "https://nativecamp.net/tutors",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Engoo teaching landing page",
+      "url": "https://engoo.com/app/teach",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Engoo company history",
+      "url": "https://tutor.engoo.com/blog?p=902",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Cafetalk tutor recruitment",
+      "url": "https://cafetalk.com/tutor/page/?lang=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Preply commission and recruitment",
+      "url": "https://help.preply.com/en/articles/4171383-preply-commission-model",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "italki teacher policy and indexed commission help",
+      "url": "https://www.italki.com/en/instructorterms",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Cafetalk fees and payments",
+      "url": "https://cafetalk.com/tutor/page/payment/?lang=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PayPal PH merchant fees",
+      "url": "https://www.paypal.com/ph/business/paypal-business-fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PayPal PH consumer fees",
+      "url": "https://www.paypal.com/ph/digital-wallet/paypal-consumer-fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PayPal minimum withdrawals",
+      "url": "https://www.paypal.com/cgi-bin/webscr?cmd=xpt/FinancialInstrument/popup/WithdrawMinimumAmount-outside",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wise PHP receiving details",
+      "url": "https://wise.com/help/articles/1uK7hxPhiTohkRobgGNQ3x/how-do-i-receive-money-with-my-php-account-details",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wise PHP transfers",
+      "url": "https://wise.com/help/articles/2932333/guide-to-php-transfers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wise JPY transfers",
+      "url": "https://wise.com/help/articles/2932156/guide-to-jpy-transfers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wise KRW transfers",
+      "url": "https://wise.com/help/articles/2932331/guide-to-krw-transfers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wise PH personal pricing",
+      "url": "https://wise.com/ph/pricing/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wise PH business pricing",
+      "url": "https://wise.com/ph/pricing/business",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Payoneer public pricing",
+      "url": "https://www.payoneer.com/pricing/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Payoneer Request a Payment FAQ",
+      "url": "https://payoneer.custhelp.com/app/answers/detail/a_id/12280/kw/request",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Payoneer receiving accounts",
+      "url": "https://payoneer.custhelp.com/app/answers/detail/a_id/18786",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Payoneer annual account fee country update",
+      "url": "https://payoneer.custhelp.com/app/answers/detail/a_id/43738/~/annual-account-fee",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Payoneer bank withdrawals",
+      "url": "https://www.payoneer.com/withdraw-funds/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Carrd Free",
+      "url": "https://carrd.co/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Carrd Pro",
+      "url": "https://carrd.co/pro",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Calendly pricing",
+      "url": "https://calendly.com/pricing",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Calendly PayPal integration",
+      "url": "https://calendly.com/help/calendly-paypal",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RMO23-2018",
+      "url": "https://bir-cdn.bir.gov.ph/local/pdf/RMO%20NO.23-2018.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RR8-2018",
+      "url": "https://bir-cdn.bir.gov.ph/local/pdf/RR%20No.%208-2018.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RMC14-2024",
+      "url": "https://bir-cdn.bir.gov.ph/local/pdf/RMC%20No.%2014-2024.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RMC77-2024",
+      "url": "https://bir-cdn.bir.gov.ph/BIR/pdf/RMC%20No.%2077-2024.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR Form1701-MS guide",
+      "url": "https://bir-cdn.bir.gov.ph/BIR/pdf/1701-MS%20Guide%20August%202024%20ENCS_Final.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RMC37-2026 and official digest",
+      "url": "https://bir-cdn.bir.gov.ph/BIR/pdf/RMC%20No.%2037-2026%20Digest.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RMC69-2023",
+      "url": "https://bir-cdn.bir.gov.ph/local/pdf/RMC%20No.%2069-2023.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR professionals guide under RMC131-2020",
+      "url": "https://bir-cdn.bir.gov.ph/local/pdf/RMC%20No.%20131-2020%20Professionals.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DTI BNRS FAQ",
+      "url": "https://bnrs.dti.gov.ph/faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RR6-2026",
+      "url": "https://bir-cdn.bir.gov.ph/BIR/pdf/RR%20No.%206-2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIR RMC98-2026",
+      "url": "https://bir-cdn.bir.gov.ph/BIR/pdf/RMC%20No.%2098-2026%20redacted.pdf",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "cash_target_php": {
+      "label": "Monthly spendable business cash target",
+      "value": 60000,
+      "unit": "PHP/month",
+      "display": "PHP 60,000",
+      "status": "Before household/social contributions/startup recovery"
+    },
+    "january_cash_php": {
+      "label": "January modeled cash",
+      "value": 17848,
+      "unit": "PHP",
+      "display": "PHP 17,848",
+      "status": "Assumed bookings, not forecast"
+    },
+    "april_cash_php": {
+      "label": "First modeled target crossing",
+      "value": 60632,
+      "unit": "PHP",
+      "display": "PHP 60,632",
+      "status": "April 2027, not January"
+    },
+    "startup_budget_php": {
+      "label": "Startup budget including untouched contingency",
+      "value": 40000,
+      "unit": "PHP",
+      "display": "PHP 40,000",
+      "status": "Caps not quotations; computer already owned"
+    },
+    "annual_cash_php": {
+      "label": "Annual cash after eligible actual 8% tax",
+      "value": 736832,
+      "unit": "PHP",
+      "display": "PHP 736,832",
+      "status": "Conditional pure-business tax eligibility; household costs excluded"
+    },
+    "direct_only_sessions": {
+      "label": "Direct-only target at assumed price",
+      "value": 129,
+      "unit": "paid sessions/month",
+      "display": "129",
+      "status": "PHP 600, separate 8% direct allowance and 8% tax reserve, PHP 5,000 costs"
+    }
+  },
+  "planningAssumptions": {
+    "profile": {
+      "name": "Carla",
+      "ageAtResearch": 29,
+      "location": "Quezon City, Philippines",
+      "nationality": "Filipino",
+      "TESOL": true,
+      "onlineTeachingYears": 3,
+      "taxStatus": "Assumed resident purely self-employed non-VAT; no salary/other income; actual status unverified"
+    },
+    "period": "January–December 2027",
+    "recommendation": "Hybrid first, direct-led by midyear; conditional contract-compatible platform floor, not guaranteed pay",
+    "platformUnitDefinition": "Two completed 25-minute lessons = PHP 140 and 50 live minutes, not a 60-minute clock-hour wage; availability and gaps extra",
+    "modelAssumptions": {
+      "platform_rate": 140,
+      "platform_paid_units_month": 60,
+      "lesson_price": 600,
+      "lesson_minutes": 50,
+      "direct_processing_reserve": 0.08,
+      "monthly_recurring_cost": 5000,
+      "tax_reserve": 0.08
+    },
+    "monthlyRows": [
+      {
+        "month": "Jan",
+        "lessons": 30,
+        "platform": 8400,
+        "direct": 18000,
+        "gross": 26400,
+        "fees": 1440,
+        "expenses": 5000,
+        "tax_reserve": 2112,
+        "cash": 17848,
+        "platformPaidUnits": 60,
+        "liveTeachingHours": 75
+      },
+      {
+        "month": "Feb",
+        "lessons": 60,
+        "platform": 8400,
+        "direct": 36000,
+        "gross": 44400,
+        "fees": 2880,
+        "expenses": 5000,
+        "tax_reserve": 3552,
+        "cash": 32968,
+        "platformPaidUnits": 60,
+        "liveTeachingHours": 100
+      },
+      {
+        "month": "Mar",
+        "lessons": 90,
+        "platform": 8400,
+        "direct": 54000,
+        "gross": 62400,
+        "fees": 4320,
+        "expenses": 5000,
+        "tax_reserve": 4992,
+        "cash": 48088,
+        "platformPaidUnits": 60,
+        "liveTeachingHours": 125
+      },
+      {
+        "month": "Apr",
+        "lessons": 120,
+        "platform": 5600,
+        "direct": 72000,
+        "gross": 77600,
+        "fees": 5760,
+        "expenses": 5000,
+        "tax_reserve": 6208,
+        "cash": 60632,
+        "platformPaidUnits": 40,
+        "liveTeachingHours": 133.33333333333334
+      },
+      {
+        "month": "May",
+        "lessons": 140,
+        "platform": 2800,
+        "direct": 84000,
+        "gross": 86800,
+        "fees": 6720,
+        "expenses": 5000,
+        "tax_reserve": 6944,
+        "cash": 68136,
+        "platformPaidUnits": 20,
+        "liveTeachingHours": 133.33333333333334
+      },
+      {
+        "month": "Jun",
+        "lessons": 140,
+        "platform": 0,
+        "direct": 84000,
+        "gross": 84000,
+        "fees": 6720,
+        "expenses": 5000,
+        "tax_reserve": 6720,
+        "cash": 65560,
+        "platformPaidUnits": 0,
+        "liveTeachingHours": 116.66666666666667
+      },
+      {
+        "month": "Jul",
+        "lessons": 150,
+        "platform": 0,
+        "direct": 90000,
+        "gross": 90000,
+        "fees": 7200,
+        "expenses": 5000,
+        "tax_reserve": 7200,
+        "cash": 70600,
+        "platformPaidUnits": 0,
+        "liveTeachingHours": 125
+      },
+      {
+        "month": "Aug",
+        "lessons": 150,
+        "platform": 0,
+        "direct": 90000,
+        "gross": 90000,
+        "fees": 7200,
+        "expenses": 5000,
+        "tax_reserve": 7200,
+        "cash": 70600,
+        "platformPaidUnits": 0,
+        "liveTeachingHours": 125
+      },
+      {
+        "month": "Sep",
+        "lessons": 150,
+        "platform": 0,
+        "direct": 90000,
+        "gross": 90000,
+        "fees": 7200,
+        "expenses": 5000,
+        "tax_reserve": 7200,
+        "cash": 70600,
+        "platformPaidUnits": 0,
+        "liveTeachingHours": 125
+      },
+      {
+        "month": "Oct",
+        "lessons": 150,
+        "platform": 0,
+        "direct": 90000,
+        "gross": 90000,
+        "fees": 7200,
+        "expenses": 5000,
+        "tax_reserve": 7200,
+        "cash": 70600,
+        "platformPaidUnits": 0,
+        "liveTeachingHours": 125
+      },
+      {
+        "month": "Nov",
+        "lessons": 150,
+        "platform": 0,
+        "direct": 90000,
+        "gross": 90000,
+        "fees": 7200,
+        "expenses": 5000,
+        "tax_reserve": 7200,
+        "cash": 70600,
+        "platformPaidUnits": 0,
+        "liveTeachingHours": 125
+      },
+      {
+        "month": "Dec",
+        "lessons": 150,
+        "platform": 0,
+        "direct": 90000,
+        "gross": 90000,
+        "fees": 7200,
+        "expenses": 5000,
+        "tax_reserve": 7200,
+        "cash": 70600,
+        "platformPaidUnits": 0,
+        "liveTeachingHours": 125
+      }
+    ],
+    "annual": {
+      "lessons": 1480,
+      "gross": 921600,
+      "fees": 71040,
+      "expenses": 60000,
+      "reserves": 73728,
+      "income_tax_8pct": 53728,
+      "cash_after_actual_tax": 736832,
+      "excess_reserve": 20000,
+      "percentage_tax": 27648,
+      "graduated_taxable": 762912,
+      "graduated_income_tax": 95082.40000000001,
+      "graduated_combined_tax": 122730.40000000001,
+      "graduated_cash": 667829.6
+    },
+    "thresholds": {
+      "hybridPaidDirectLessons": 114,
+      "directOnlyPaidLessons": 129,
+      "platformOnlyPaidUnitsAt140": 504.6583850931677,
+      "platformOnlyPaidUnitsAt230": 307.18336483931944
+    },
+    "annualComparison": {
+      "eligible8PercentTax": 53728,
+      "eligible8PercentCash": 736832,
+      "OSDCombinedTax": 80740,
+      "OSDCash": 709820,
+      "conditionalItemizedCombinedTax": 122730.4,
+      "conditionalItemizedCash": 667829.6,
+      "withoutPercentageTaxDeductionCombinedTax": 128260,
+      "withoutPercentageTaxDeductionCash": 662300
+    },
+    "qualification": "Payment allowance must be actually spent and supportable for itemized deductions. Percentage-tax deductibility/timing unverified. Thresholds/rates/calendars require future confirmation. Not tax advice."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-07",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "No network. README/VOICE-GUIDE read first, batch36 Kyoto JSON and both Markdown read for authoring conventions. Complete assigned index, sources, independent check, model and source register read, plus selected raw Bizmates/RareJob/BIR extracts. No other source run read.",
+    "originalResearchAccessLimitations": "Original discovery included managed-browser lanes with authentication state uninspected. Subsequent clean substantive re-reading does not erase that exception. Engoo remains unconfirmed; Preply/italki numeric tariffs indexed-primary provisional.",
+    "independentCheckDisposition": "Original independent Decimal/HTML review passed all 12 monthly rows and derived arithmetic; director addendum records final itemized-condition fix and original layout check. These are not visual verification of the new Markdown.",
+    "layoutEvidenceLimit": "No build, browser, visual, accessibility or print check performed for these new files."
+  },
+  "datePolicy": "All source access dates retain 2026-11-07 from the assigned ledger, not inferred from authoring date. Historical issue dates and future dates remain separate; no external refresh.",
+  "uncertainties": [
+    "No paid demand, conversion, retention or willingness-to-pay test",
+    "Full Preply/italki tariffs and current English intake; Engoo PH recruitment/pay/specs; unpublished platform rates and signed agreements",
+    "Account-specific collection approval, holds, limits, FX and payer eligibility; Wise Japan route inferred, Korea funding not confirmed",
+    "Actual QC classification, local permits/fees, Carla existing registration, employment/contractor status and other income",
+    "Conditional itemized deductions and tax timing; future amendments, invoice threshold adjustment and official adjusted 2027/2028 filing calendars",
+    "Original managed-browser discovery exception remains; no perfect clean-session certification"
+  ],
+  "editingContract": "Only new data/manila-online-english-tutor-income-plan.json, en/manila-online-english-tutor-income-plan.md and checks/batch37-manila-online-english-tutor-income-plan-notes.md. English only. No inventories, builds, existing files, source files, accounts, contact or publication changed.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

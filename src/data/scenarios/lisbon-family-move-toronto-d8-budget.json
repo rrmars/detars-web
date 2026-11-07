@@ -1,0 +1,659 @@
+{
+  "schemaVersion": 2,
+  "slug": "lisbon-family-move-toronto-d8-budget",
+  "translationKey": "lisbon-family-move-toronto-d8-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A Toronto-based Canadian-planning family moving to Lisbon with two school-age children, a Canadian remote salary and unspecified freelance income.",
+  "localeReason": "English only: specific Toronto/Canadian documents, employer, CAD income and bilateral tax context; no distinct Chinese-reader need is evidenced. Nationalities and legal family relationships still require confirmation.",
+  "sources": [
+    {
+      "title": "D8 residence guidance",
+      "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Residence-visa law, Articles 58 and 61-B",
+      "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "D7, accompaniment and D8 regulation, Articles 24, 24-B and 31-A",
+      "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AIMA means formula",
+      "url": "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Enacted wage history",
+      "url": "https://www.dgert.gov.pt/evolucao-da-remuneracao-minima-mensal-garantida-rmmg",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government 2027 wage announcement",
+      "url": "https://portugal.gov.pt/pt/gc25/comunicacao/noticias/rendimentos-habitacao-servicos-publicos-o-que-pode-esperar-no-proximo-ano",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Current residence law, Articles 75, 81–83 and 107",
+      "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&nid=920&pagina=2&tabela=leis",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AIMA later-family checklist",
+      "url": "https://aima.gov.pt/pt/viver/reagrupamento-familiar-com-familiar-fora-de-territorio-nacional-art-98-o-n-o-1",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Toronto residence-visa guidance—access unresolved",
+      "url": "https://toronto.consuladoportugal.mne.gov.pt/en/consular-matters/visa/residency-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RCMP fingerprint route",
+      "url": "https://www.rcmp.ca/en/criminal-records/criminal-record-checks/where-go",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RCMP times and fees",
+      "url": "https://www.rcmp.ca/en/criminal-records/criminal-record-checks/processing-times-and-fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GAC apostille requirements",
+      "url": "https://international.canada.ca/en/global-affairs/services/document-authentication/requirements",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GAC queue",
+      "url": "https://international.canada.ca/en/global-affairs/services/document-authentication",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ontario authentication",
+      "url": "https://www.ontario.ca/page/authenticate-document-use-outside-canada",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "September 2026 amending law",
+      "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AIMA published tariff",
+      "url": "https://aima.gov.pt/documents/tabela-de-taxas-e-demais-encargos-a-cobrar-pelos-procedimentos-administrativos.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Public enrollment FAQ",
+      "url": "https://www.dgeste.mec.pt/sinf/faqsmatriculas/index_en.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Equivalency FAQ",
+      "url": "https://www.dge.mec.pt/faq-equivalence-foreign-qualifications",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Portuguese-language support framework",
+      "url": "https://www.dge.mec.pt/portugues-lingua-nao-materna",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Free basic education, Constitution Article 74",
+      "url": "https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OIS age comparison",
+      "url": "https://ois.pt/equivalence-table-2/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OIS fees",
+      "url": "https://ois.pt/fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CAISL fees",
+      "url": "https://www.caislisbon.org/join-us/fee-schedule",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CAISL full schedule",
+      "url": "https://resources.finalsite.net/images/v1770227833/carlucci/qwfcn7csw8li8seejwgj/2026-2027EnglishFeeSchedule.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CAISL applications subject to space",
+      "url": "https://www.caislisbon.org/join-us/apply",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "St. Dominic’s fees",
+      "url": "https://www.dominics-int.org/admissions/tuition-fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "St. Dominic’s full schedule",
+      "url": "https://www.dominics-int.org/IB%20-%20St.%20Dominic%27s%20International%20School/Tuition%20fees/Summary%20SDS_TuitionFees_2026-2027%20%281%29.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RE/MAX Santa Maria Maior, Lisbon T3 · 120992315-129",
+      "url": "https://www.remax.pt/en/imoveis/arrendamento-apartamento-t3-lisboa-santa-maria-maior/120992315-129",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RE/MAX Pedrouços–Belém, Lisbon T3 · 121962091-17",
+      "url": "https://www.remax.pt/pt/imoveis/arrendamento-apartamento-t3-lisboa-belem/121962091-17",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ERS foreign-citizen SNS guidance",
+      "url": "https://www.ers.pt/en/users/frequently-asked-questions/faq/access-of-foreign-citizens-to-healthcare-services-in-the-national-health-service-sns/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ERS primary-care guidance",
+      "url": "https://www.ers.pt/en/users/frequently-asked-questions/faq/access-to-primary-health-care-health-centres/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Portugal tax-residence rules",
+      "url": "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CRA departure guidance",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Canada–Portugal income-tax treaty",
+      "url": "https://www.treaty-accord.gc.ca/text-texte.aspx?Lang=eng&id=103231",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Old NHR transition",
+      "url": "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/non-habitual-resident/register-as-a-non-habitual-resident/Pages/default.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IFICI Article 58-A",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IFICI guide",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/incentivos_investigacao.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IFICI registration circular",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Portuguese income-source rule",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs18.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Social-security agreement",
+      "url": "https://www.treaty-accord.gc.ca/text-texte.aspx?lang=eng&id=102185",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bank of Canada: 6 November 2026 daily average",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXEURCAD/json?start_date=2026-11-06&end_date=2026-11-06",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "public_liquidity_eur": {
+      "label": "Public-school first-year liquidity",
+      "value": 74100,
+      "unit": "EUR",
+      "display": "€74,100",
+      "status": "Includes contingency and refundable deposit; excludes tax/contributions and listed other costs."
+    },
+    "public_liquidity_cad": {
+      "label": "Public-school first-year CAD liquidity",
+      "value": 116574.12,
+      "unit": "CAD",
+      "display": "CAD 116,574.12",
+      "status": "Historical EUR/CAD 1.5732; not after-tax affordability."
+    },
+    "international_liquidity_eur": {
+      "label": "CAISL illustrative first-year liquidity",
+      "value": 127550.21,
+      "unit": "EUR",
+      "display": "€127,550.21",
+      "status": "Unconfirmed 5% school uplift; no 2027/28 quote; excludes tax/contributions."
+    },
+    "international_liquidity_cad": {
+      "label": "CAISL illustrative first-year CAD liquidity",
+      "value": 200661.99,
+      "unit": "CAD",
+      "display": "CAD 200,661.99",
+      "status": "Same historical FX; above principal gross salary."
+    },
+    "conditional_d8_monthly": {
+      "label": "Conditional 2027 D8 principal income test",
+      "value": 3880,
+      "unit": "EUR",
+      "display": "€3,880/month",
+      "status": "4 × announced €970; enactment and unchanged formula unverified; preceding three-month professional-income average."
+    },
+    "conditional_family_monthly": {
+      "label": "Conditional family subsistence reference",
+      "value": 2037,
+      "unit": "EUR",
+      "display": "€2,037/month",
+      "status": "2.1 × announced €970; overlaps D8 principal test, not additive or 4M ×2.1."
+    }
+  },
+  "planningAssumptions": {
+    "profile": {
+      "familyName": "Okafor",
+      "principal": "Chidi",
+      "spouse": "Ngozi",
+      "childrenAgesAsDescribed": [
+        8,
+        12
+      ],
+      "citizenship": "Canadian assumed; confirm all four",
+      "birthdaysCompletedGrades": "unknown",
+      "legalMarriageParentageCustody": "needs_context",
+      "principalEmployer": "Toronto company",
+      "principalGrossCAD": 165000,
+      "spouseFreelanceIncomeBudgeted": 0,
+      "spouseIncomeStatus": "Amount unspecified, not inability to work"
+    },
+    "move": {
+      "arrival": "2027-09",
+      "minimumStayUntil": "2029-09",
+      "budgetFrom": "2027-09",
+      "budgetThrough": "2028-08"
+    },
+    "route": {
+      "recommended": "D8 residence with linked accompanying-family visa requests from Canada, local implementation unverified",
+      "d7ReasonNotChosen": "No recurring qualifying passive income established",
+      "wage2026EnactedEUR": 920,
+      "wage2027AnnouncedEUR": 970,
+      "wage2027Enactment": "unverified",
+      "d8IncomeMultiple": 4,
+      "familyResourceMultiple": 2.1,
+      "d8ThreeMonthAverageEUR": 3880,
+      "familyMonthlyEUR": 2037,
+      "familyAnnualEUR": 24444,
+      "d8FamilyInteraction": "Overlapping professional-income and stable sufficient family-resource tests; no automatically additive or multiplied household threshold verified."
+    },
+    "fx": {
+      "EURCAD": 1.5732,
+      "observationDate": "2026-11-06",
+      "accessDate": "2026-11-07",
+      "status": "Bank of Canada business-daily average, not retail rate or 2027 forecast",
+      "adverseAssumptionEURCAD": 1.7
+    },
+    "budgets": {
+      "status": "B1–B3 unconfirmed allowances, except dated school fee anchors",
+      "monthlyCommonEUR": 4250,
+      "annualCommonEUR": 51000,
+      "publicSchoolExtrasEUR": 2000,
+      "publicRecurringEUR": 53000,
+      "setupEUR": 10000,
+      "publicSubtotalEUR": 63000,
+      "contingencyPercent": 10,
+      "publicContingencyEUR": 6300,
+      "publicExpenseEUR": 69300,
+      "depositEUR": 4800,
+      "publicLiquidityEUR": 74100,
+      "internationalSchool2026EUR": 48182,
+      "schoolUpliftPercent": 5,
+      "internationalSchoolAssumptionEUR": 50591.1,
+      "internationalSubtotalEUR": 111591.1,
+      "internationalContingencyEUR": 11159.11,
+      "internationalExpenseEUR": 122750.21,
+      "internationalLiquidityEUR": 127550.21,
+      "groceryOffset": 0,
+      "schoolBusInAdditionToLocalTransport": true,
+      "rentMonthlyEUR": 2400,
+      "carIncluded": false,
+      "taxAndContributionsIncluded": false,
+      "exclusions": [
+        "Income tax",
+        "Social contributions",
+        "Canadian housing and debt",
+        "Employer compliance costs",
+        "FX fees",
+        "Car purchase",
+        "Return holidays",
+        "Later permit renewals"
+      ],
+      "publicAdverseLiquidityCAD": 125970,
+      "internationalAdverseLiquidityCAD": 216835.36,
+      "rentIncreaseMonthlyEUR": 500,
+      "rentIncreaseWithContingencyEUR": 6600,
+      "depositIncreaseExcludedFromSensitivity": true
+    },
+    "sharedTables": [
+      {
+        "id": "table-1",
+        "headers": [
+          "Question",
+          "D7: retirement / own income",
+          "D8: residence for foreign remote work"
+        ],
+        "rows": [
+          [
+            "Who fits?",
+            "Retirees or people living on property, intellectual-property or investment income. No qualifying passive income was stated for this family.",
+            "Employees or independent professionals working remotely for entities/persons domiciled outside Portugal. Chidi’s described job fits this purpose; Ngozi’s foreign-client activity may also fit, but amount/client details are unknown."
+          ],
+          [
+            "Principal income reference",
+            "100% of wage: conditional €970/month; annual illustration 970×12=€11,640. Source and regularity matter, not only savings.",
+            "Average professional income in the preceding three months ≥4×wage: 4×970=€3,880/month; annual equivalent €46,560, not a separate annual test."
+          ],
+          [
+            "Two-adult / two-child resources",
+            "970×(1+0.5+0.3+0.3)=€2,037/month; ×12=€24,444. Adult spouse €485; each minor €291.",
+            "Demonstrate the 4M principal professional-income test and stable sufficient accompanying-family resources. The family subsistence reference is €2,037/month. These overlapping tests are not an automatically additive bill or a verified 4M×2.1 household threshold. Toronto’s documentary treatment remains unverified."
+          ],
+          [
+            "Enacted 2026 comparator",
+            "920×2.1=€1,932/month; ×12=€23,184 for family.",
+            "920×4=€3,680/month principal test."
+          ],
+          [
+            "Key route evidence",
+            "Recurring pension/rent/investment/IP evidence and corresponding receipts; savings-only acceptance not established.",
+            "Employment contract or employer declaration; professional-income proof over three months; tax-residence document. For freelance activity: service/company contract or proof of services."
+          ],
+          [
+            "Residence versus temporary stay",
+            "Residence visa is the entry step, not the residence card.",
+            "Choose the residence D8 route, not the separate temporary-stay remote-work visa, for this two-year move."
+          ]
+        ]
+      },
+      {
+        "id": "table-2",
+        "headers": [
+          "Item",
+          "Dated published cost / timing",
+          "Planning implication"
+        ],
+        "rows": [
+          [
+            "RCMP certified check",
+            "CAD 25 federal fee per adult, plus fingerprint-provider charges; two adult federal fees = CAD 50. Electronic no-match cases: ≤3 business days; manual/match cases: 120 business days; mailing extra.",
+            "Do not time this as a guaranteed one-week task. Confirm certificate freshness before ordering."
+          ],
+          [
+            "GAC apostille",
+            "Service free; 7 Nov 2026 queue: requests received 25 business days earlier; Canadian mailing typically another 5–10 business days.",
+            "Snapshot, not a 2027 service guarantee. Courier/notary/translation costs separate."
+          ],
+          [
+            "Ontario ODS",
+            "CAD 32 per Ontario government official document; CAD 16 per notarized legal document. Mail processing within 15 business days after receipt.",
+            "Count actual documents; do not assume every item needs notarization."
+          ]
+        ]
+      },
+      {
+        "id": "table-3",
+        "headers": [
+          "Option / location",
+          "Teaching and transition",
+          "Published annual band costs",
+          "Illustrative first-year charges for two"
+        ],
+        "rows": [
+          [
+            "Portuguese public; Lisbon, Cascais or Oeiras area of residence",
+            "Portuguese-medium curriculum; PLNM language support framework. Local support, workload and placement must be checked, especially for the older child.",
+            "€0 basic tuition; meals, materials, activities and extra language help are separate. Budget €2,000/year for extras is an unconfirmed allowance, not a school charge.",
+            "Enrollment/equivalency and actual address/priority rules, not purchase of a place. A nearby home does not guarantee the preferred school."
+          ],
+          [
+            "Oeiras International School; Oeiras · IB continuum",
+            "International IB route; verify instructional/support language, entry assessment and campus/commute for each child.",
+            "Years 1–4 €13,980; Year 5 €14,580; Years 7–9 €18,563. Published totals already include registration installments.",
+            "Year 4+Year 8 scenario: 13,980+18,563=€32,543; levy €7,500 for two new siblings + applications 2×250 + insurance 2×20 + yearbook 40 = €40,623, before discounts/meals/bus/extras. If younger enters Year 5: +€600."
+          ],
+          [
+            "CAISL; Linhó, Sintra—not central Lisbon",
+            "American grade structure; EAL/PAL support included in fee page. Check actual placement and campus commute before choosing a coastal home.",
+            "Grades 3–5 €15,632; Grades 6–8 €17,756, each billed in four quarters. Building and initial registration additional.",
+            "15,632+17,756 +2×1,953 annual building +2×600 one-time registration = €38,494. Two annual lunches and regular return buses add 2×(1,212+3,632)=€9,688 → €48,182. New 2027 building cohort fee unknown."
+          ],
+          [
+            "St. Dominic’s; São Domingos de Rana, Cascais municipality · IB",
+            "English instruction stated by school. Check age/grade mapping and language-support provision.",
+            "Grades 1–3 €15,000; Grades 4–5 €15,777; Grades 6–8 €18,111. Displayed annual amounts reconcile to registration plus term payments.",
+            "Grades 1–3 +6–8 scenario: 15,000+18,111 + two-sibling levy 8,925 + family PTA 42 = €42,078, before discounts/meals/bus/extras. Younger Grades 4–5 adds €777. Regular return bus €4,200/child/year; lunch €145/month, charged months not verified."
+          ]
+        ]
+      },
+      {
+        "id": "table-4",
+        "headers": [
+          "Example",
+          "Ask observed",
+          "What the listing says / unresolved"
+        ],
+        "rows": [
+          [
+            "Santa Maria Maior, Lisbon · RE/MAX 120992315-129; 3 bedrooms, 135 m² private gross / 115 m² useful",
+            "€2,300/month; ×12=€27,600",
+            "Partly furnished, lift, parking; advertiser says available from 4 September 2026, not proof of current availability. First 2 rents plus 2-rent deposit: 4×2,300=€9,200 initial cash, including prepaid rent (not all extra expense). Guarantor/equivalent and income proof. Structured bathrooms field conflicts with prose: verify."
+          ],
+          [
+            "Pedrouços–Belém, Lisbon · RE/MAX 121962091-17; 3 bedrooms, 164 m²",
+            "€3,150/month; ×12=€37,800",
+            "Lift, heating, balcony, parking/storage. Advertiser requests ID, work evidence, last 3 payslips and IRS declaration; these are its screening conditions, not universal rental law. Publication date and availability unverified."
+          ]
+        ]
+      },
+      {
+        "id": "table-5",
+        "headers": [
+          "Public-school base case",
+          "Arithmetic / assumption",
+          "EUR annual/one-off",
+          "CAD equivalent"
+        ],
+        "rows": [
+          [
+            "Three-bedroom rent",
+            "2,400 × 12",
+            "€28,800.00",
+            "CAD 45,308.16"
+          ],
+          [
+            "Utilities, internet and phones",
+            "300 × 12",
+            "€3,600.00",
+            "CAD 5,663.52"
+          ],
+          [
+            "Household groceries / home meals",
+            "850 × 12",
+            "€10,200.00",
+            "CAD 16,046.64"
+          ],
+          [
+            "Local transport (no car)",
+            "200 × 12",
+            "€2,400.00",
+            "CAD 3,775.68"
+          ],
+          [
+            "Family bridge/private health reserve",
+            "250 × 12",
+            "€3,000.00",
+            "CAD 4,719.60"
+          ],
+          [
+            "Clothes, leisure and personal spending",
+            "250 × 12",
+            "€3,000.00",
+            "CAD 4,719.60"
+          ],
+          [
+            "Public-school extras and language support",
+            "Annual allowance; tuition €0",
+            "€2,000.00",
+            "CAD 3,146.40"
+          ],
+          [
+            "Flights for four",
+            "One-way allowance",
+            "€2,200.00",
+            "CAD 3,461.04"
+          ],
+          [
+            "Temporary housing / overlap",
+            "One-off allowance",
+            "€2,500.00",
+            "CAD 3,933.00"
+          ],
+          [
+            "Moving, furnishings and setup",
+            "One-off allowance",
+            "€1,800.00",
+            "CAD 2,831.76"
+          ],
+          [
+            "Documents, visas and permits",
+            "Provisional combined allowance",
+            "€1,500.00",
+            "CAD 2,359.80"
+          ],
+          [
+            "Cross-border tax / payroll advice",
+            "One-off allowance",
+            "€2,000.00",
+            "CAD 3,146.40"
+          ],
+          [
+            "Expense subtotal",
+            "Recurring 53,000 + setup 10,000",
+            "€63,000.00",
+            "CAD 99,111.60"
+          ],
+          [
+            "Contingency",
+            "10%×63,000",
+            "€6,300.00",
+            "CAD 9,911.16"
+          ],
+          [
+            "Expense envelope",
+            "63,000+6,300",
+            "€69,300.00",
+            "CAD 109,022.76"
+          ],
+          [
+            "Refundable deposit cash tied up",
+            "2×2,400; not an expense",
+            "€4,800.00",
+            "CAD 7,551.36"
+          ],
+          [
+            "First-year liquidity envelope",
+            "69,300+4,800",
+            "€74,100.00",
+            "CAD 116,574.12"
+          ]
+        ]
+      },
+      {
+        "id": "table-6",
+        "headers": [
+          "International alternative",
+          "Arithmetic",
+          "EUR",
+          "CAD equivalent"
+        ],
+        "rows": [
+          [
+            "Expense subtotal",
+            "63,000−2,000+50,591.10",
+            "€111,591.10",
+            "CAD 175,555.12"
+          ],
+          [
+            "Contingency",
+            "10%×111,591.10",
+            "€11,159.11",
+            "CAD 17,555.51"
+          ],
+          [
+            "Expense envelope",
+            "111,591.10+11,159.11",
+            "€122,750.21",
+            "CAD 193,110.63"
+          ],
+          [
+            "Refundable deposit",
+            "Same hypothetical lease",
+            "€4,800.00",
+            "CAD 7,551.36"
+          ],
+          [
+            "Liquidity envelope",
+            "122,750.21+4,800",
+            "€127,550.21",
+            "CAD 200,661.99"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-07",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read README and adjacent VOICE-GUIDE, then batch36 Kyoto/Osaka JSON/en/zh Markdown as conventions only. Complete assigned index.html, sources.md and independent-check.md read; additional operative legal, IFICI and FX evidence inspected. No other source run, network, source refresh or existing-file change.",
+    "originalResearchAccessLimitations": "Original automatic search/fetch fallbacks used existing managed profiles; clean-session history cannot be certified. Subsequent substantive direct/fresh-session captures do not erase the deviation. No authenticated content relied on according to retained register.",
+    "independentCheckDisposition": "PASS displayed monetary arithmetic for research-only guide; not filing-ready or after-tax affordability. Independent check lacked raw E-P1–P3 public-school captures; new procedural prose softened to reported guidance requiring school confirmation. 2005/2025 equivalency-reference inconsistency remains open.",
+    "layoutEvidenceLimit": "Source HTML had bounded historical layout evidence. No new HTML build, render/browser/accessibility/print verification performed for these Markdown files."
+  },
+  "datePolicy": "Cited source access dates retain 2026-11-07 from assigned evidence, including failed Toronto attempt. FX observation 2026-11-06 is separate; 2026/27 fees are not 2027/28 offers; €970 is announced, not verified enacted. Authoring is not a source refresh.",
+  "uncertainties": [
+    "Toronto intake, linked-family appointments/decisions, current CAD visa tariff and payment method",
+    "Document freshness, apostille/translation practice, banking/accommodation and insurance format",
+    "Enacted 2027 wage/formulas, AIMA tariff, family-integration implementation and actual scheduling",
+    "Birthdays/grades, legal marriage/partnership/parentage/custody, nationality and income/employer approval",
+    "Public-school places, PLNM staffing and updated equivalency/enrollment procedure; missing raw E-P1–P3 independent verification",
+    "2027/28 international school fees/places, new CAISL building cohort and individual placement",
+    "Actual coastal rental supply, school bus routes/commutes, lease terms and insurance underwriting",
+    "Individual Canadian/Portuguese tax residence, IFICI eligibility, payroll/social contributions/employer exposure and net cash flow"
+  ],
+  "editingContract": "Only new data/lisbon-family-move-toronto-d8-budget.json, en/lisbon-family-move-toronto-d8-budget.md and checks/batch37-lisbon-family-move-toronto-d8-budget-notes.md; no Chinese locale without distinct need; no inventories/build scripts/source runs/existing files changed. No network or publication.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

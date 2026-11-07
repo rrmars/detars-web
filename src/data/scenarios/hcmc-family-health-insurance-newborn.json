@@ -1,0 +1,529 @@
+{
+  "schemaVersion": 2,
+  "slug": "hcmc-family-health-insurance-newborn",
+  "translationKey": "hcmc-family-health-insurance-newborn",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "HCMC expat families including Chinese-speaking readers planning a birth; original British Tom, 37, and Vietnamese Anh, 34, eligibility profile remains unchanged.",
+    "zh": "供胡志明市包括中文读者在内的外籍家庭规划生育保障；保留英国籍 Tom 37 岁、越南籍 Anh 34 岁的原有资格背景。"
+  },
+  "localeReason": "Simplified Chinese is genuinely useful for Chinese-speaking expat families navigating HCMC BHYT, inpatient/private cover and newborn gaps. Translation preserves the British/Vietnamese parents, Thu Duc residence, work-permit/contract questions, March 2027 first birth and USD 5,000 annual private-cover budget. No Chinese citizenship, infant nationality, employment eligibility or acceptance is inferred.",
+  "sources": [
+    {
+      "title": "Pacific Cross Foundation product and higher rates",
+      "url": "https://pacificcross.com.vn/foundation-series/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "APRIL MyHEALTH Vietnam policy terms",
+      "url": "https://assets.april.fr/april-international/Products/pdf-product-myhealth-vietnam-terms-and-conditions-en.pdf?vh=9bc35d&func=proxy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Amended BHYT law · qualifying employment and benefit pathways",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-bao-hiem-y-te-11924122017211787.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Consolidated BHYT law · scope and exclusions",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/31/469125-1774925137_v1_1774926278_signed.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Decree 188 · child validity, tariffs and reimbursement",
+      "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/7/45593/57770-1-2025977-978188-2025-nd-cp.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VSS reimbursement instruction · outpatient exception",
+      "url": "https://xaydungchinhsach.chinhphu.vn/huong-dan-muc-huong-bao-hiem-y-te-theo-luong-co-so-moi-01-7-2026-119260722152725353.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VSS household premium guide",
+      "url": "https://baohiemxahoi.gov.vn/tintuc/pages/kinh-te-xa-hoi.aspx?CateID=0&ItemID=26980&OtItem=date",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Historical VSS foreign-national-child answer",
+      "url": "https://baohiemxahoi.gov.vn/chuyen-trang-bhxh-bhyt/tu-van-hoi-dap/Pages/default.aspx?ItemID=89187",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government explanation · newborn pre-card documents",
+      "url": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-thu-tuc-kham-chua-benh-bao-hiem-y-te-119250815064952805.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VSS linked newborn registration procedure",
+      "url": "https://baohiemxahoi.gov.vn/tintuc/pages/chuyen-doi-so.aspx?CateID=0&ItemID=26949&OtItem=date",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government linked-service deadline",
+      "url": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-ve-dang-ky-khai-sinh-thuong-tru-cap-the-bao-hiem-y-te-cho-tre-em-duoi-6-tuoi-tu-thang-9-2026-119260901170341732.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Civil Status Law · future implementation",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-ho-tich-so-03-2026-qh16-119260527163142286.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "APRIL MyHEALTH Vietnam product",
+      "url": "https://www.april-international.com/en/long-term-international-health-insurance/myhealth-vietnam",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pacific Cross conflicting Foundation prices",
+      "url": "https://pacificcross.com.vn/our-prices/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FV Thomson delivery packages",
+      "url": "https://www.fvhospital.com/en/fv-thomson-maternity/delivery-packages/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tâm Anh HCMC birth packages",
+      "url": "https://tamanhhospital.vn/sinh-con-tron-goi/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hạnh Phúc birth packages",
+      "url": "https://goisinh.hanhphuchospital.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vinmec Central Park general tariff",
+      "url": "https://www.vinmec.com/vie/bai-viet/bang-gia-dich-vu-chung-tai-benh-vien-da-khoa-quoc-te-vinmec-central-park",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Raffles Vietnam service model",
+      "url": "https://rafflesmedical.vn/obstetrics-gynaecology-service/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Raffles Vietnam service model",
+      "url": "https://rafflesmedical.vn/about-us-vietnam/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FV direct-billing service",
+      "url": "https://www.fvhospital.com/en/health-insurances-companies/direct-billing-partners/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vinmec insurance partners",
+      "url": "https://www.vinmec.com/vie/doi-tac-bao-hiem/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Raffles insurance billing terms",
+      "url": "https://rafflesmedical.vn/medical-insurance/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "private_budget_usd": {
+      "label": "Annual private-cover budget",
+      "value": 5000,
+      "unit": "USD/year",
+      "display": "US$5,000",
+      "status": "Original budget, not automatically total healthcare budget"
+    },
+    "family_ip_vnd": {
+      "label": "Conditional Premier family inpatient rate sum",
+      "value": 37577000,
+      "unit": "VND",
+      "display": "VND37,577,000",
+      "status": "Higher public table; period/current authority and baby acceptance unknown; not confirmed annual quotation"
+    },
+    "family_ip_usd": {
+      "label": "Conditional inpatient sum at assumed conversion",
+      "value": 1503.08,
+      "unit": "USD",
+      "display": "US$1,503.08",
+      "status": "VND divided by 25,000 assumed FX, not market quote"
+    },
+    "household_year_vnd": {
+      "label": "First household participant example",
+      "value": 1366200,
+      "unit": "VND/year",
+      "display": "VND1,366,200",
+      "status": "Dated VSS category example; not assessed personal contribution"
+    },
+    "liquidity_difference_vnd_m": {
+      "label": "Optional outpatient liquidity difference",
+      "value": 27.413,
+      "unit": "VND millions",
+      "display": "VND27.413m",
+      "status": "Conditional same-period model; not a guaranteed annual saving"
+    }
+  },
+  "planningAssumptions": {
+    "profile": {
+      "tom": {
+        "ageAtResearch": 37,
+        "citizenship": "British",
+        "occupation": "consultant",
+        "workPermit": "Vietnamese work permit",
+        "qualifyingEmploymentContract": "unknown; work permit alone does not establish compulsory BHYT"
+      },
+      "anh": {
+        "ageAtResearch": 34,
+        "citizenship": "Vietnamese",
+        "employmentAndBHYTCategory": "unknown"
+      },
+      "residence": "Thu Duc area, Ho Chi Minh City",
+      "baby": {
+        "firstBaby": true,
+        "dueMonth": "2027-03",
+        "nationality": "unknown",
+        "BHYTEligibility": "foreign/dual-national implementation unresolved",
+        "privateAcceptance": "unknown; unborn, no automatic day-one acceptance established"
+      },
+      "privateAnnualBudgetUSD": 5000
+    },
+    "decision": {
+      "core": "Keep active BHYT, prioritize inpatient cover, self-fund this pregnancy’s delivery",
+      "privateShortlist": "Conditional Pacific Cross Foundation Premier adults IP-only; separately underwritten child policy when eligible",
+      "notPurchaseReady": true,
+      "outpatient": "Do not buy solely to fund this pregnancy; keep liquidity for birth and early baby expenses"
+    },
+    "waiting": {
+      "illustrativeInception": "2026-11-07",
+      "foundationDays": 270,
+      "foundationAnniversary": "2027-08-04",
+      "foundationFreeInfantStart": "After qualification, no earlier than day 15/discharge/application, whichever later; until parent renewal; not day-one cover",
+      "aprilMaternityDays": 365,
+      "aprilAnniversary": "2027-11-07",
+      "aprilQualifiedParent": "more than 365 days",
+      "aprilNewbornNoticeDays": 28,
+      "aprilOtherwise": "Questionnaire/underwriting may restrict or decline; schedule limits and assisted-conception exceptions apply"
+    },
+    "bhyt": {
+      "adultOrdinaryPercent": 80,
+      "eligibleUnderSixPercent": 100,
+      "foreignEmployeeContractMonthsMin": 12,
+      "householdGapDays": 90,
+      "householdActivationDaysAfterFullPayment": 30,
+      "specializedInpatientAdult": "40% × 80% = 32%",
+      "specializedInpatientChild": "40% × 100% = 40%",
+      "specifiedOutpatientEffective": "2026-07-01",
+      "specifiedOutpatientThresholdVND": 379500,
+      "belowThreshold": "50% eligible cost",
+      "atOrAboveThreshold": "50% of individual benefit, only specified routes",
+      "hypotheticalInvoiceVND": 60000000,
+      "hypotheticalEligibleBaseVND": 10000000,
+      "adultPaymentVND": 8000000,
+      "adultOOPVND": 52000000,
+      "childOOPVND": 50000000,
+      "householdMonthlyVND": 113850,
+      "householdAnnualVND": 1366200,
+      "householdReferenceVND": 2530000,
+      "householdRatePercent": 4.5,
+      "notAssumed": "BHYT is not whole private invoice; BHXH cash maternity, branch classification/contracts and foreign/dual-national child eligibility not established"
+    },
+    "registration": {
+      "pendingCardDocument": "Hospital giấy chứng sinh original/copy; newborn medical-record signature; documentation does not create eligibility",
+      "linkedChannels": [
+        "National Public Service Portal",
+        "VNeID"
+      ],
+      "form": "01",
+      "completeDossierWorkingDays": 3,
+      "verificationWorkingDays": 5,
+      "afterTimeNextWorkingDay": "15:00",
+      "VSSStageWithinTotalWorkingDays": 2,
+      "mixedNationalityDossier": "unverified",
+      "futureCivilLawEffective": "2027-03-01",
+      "implementation": "Phased connected-data registration, not universal automatic March 2027 process"
+    },
+    "premiumTables": {
+      "units": "VND integers; source tables used VND1,000",
+      "componentsOrder": [
+        "Tom age 36–40",
+        "Anh age 31–35",
+        "baby age 0–5"
+      ],
+      "rows": [
+        {
+          "source": "PC1",
+          "tier": "Standard",
+          "IP_components_VND": [
+            7860000,
+            7290000,
+            5129000
+          ],
+          "OP_components_VND": [
+            4458000,
+            3600000,
+            4734000
+          ],
+          "IP": 20279000,
+          "OP": 12792000,
+          "combined": 33071000
+        },
+        {
+          "source": "PC1",
+          "tier": "Executive",
+          "IP_components_VND": [
+            9491000,
+            8775000,
+            6312000
+          ],
+          "OP_components_VND": [
+            7151000,
+            6810000,
+            7269000
+          ],
+          "IP": 24578000,
+          "OP": 21230000,
+          "combined": 45808000
+        },
+        {
+          "source": "PC1",
+          "tier": "Premier",
+          "IP_components_VND": [
+            15464000,
+            14321000,
+            7792000
+          ],
+          "OP_components_VND": [
+            9493000,
+            8975000,
+            8945000
+          ],
+          "IP": 37577000,
+          "OP": 27413000,
+          "combined": 64990000
+        },
+        {
+          "source": "PC2",
+          "tier": "Standard",
+          "IP_components_VND": [
+            7199000,
+            6676000,
+            4697000
+          ],
+          "OP_components_VND": [
+            4083000,
+            3297000,
+            4336000
+          ],
+          "IP": 18572000,
+          "OP": 11716000,
+          "combined": 30288000
+        },
+        {
+          "source": "PC2",
+          "tier": "Executive",
+          "IP_components_VND": [
+            8692000,
+            8037000,
+            5781000
+          ],
+          "OP_components_VND": [
+            6549000,
+            6237000,
+            6658000
+          ],
+          "IP": 22510000,
+          "OP": 19444000,
+          "combined": 41954000
+        },
+        {
+          "source": "PC2",
+          "tier": "Premier",
+          "IP_components_VND": [
+            14163000,
+            13116000,
+            7137000
+          ],
+          "OP_components_VND": [
+            8694000,
+            8220000,
+            8192000
+          ],
+          "IP": 34416000,
+          "OP": 25106000,
+          "combined": 59522000
+        }
+      ],
+      "ratePeriod": "unknown, annual solely a conditional comparison assumption",
+      "tariffAuthority": "unknown, conflicting insurer tables",
+      "noDiscountLoadingTaxOrProrationAssumed": true,
+      "premierCombinedDiscrepancyVND": 5468000,
+      "premierPreventiveAnnualVND": 3000000,
+      "premierOPAnnualVND": 48000000,
+      "premierOPPerVisitVND": 2500000,
+      "maximumBenefits": "Standard VND500m / Executive VND1bn / Premier VND2bn per disability per lifetime, not annual reset",
+      "aprilAgeExactPremium": "unknown",
+      "aprilOffer": "15% ending 2026-10-31 expired; not applied",
+      "aprilUnderwriterConflict": "Marketing PTI versus linked wording PVI unresolved"
+    },
+    "hospitals": [
+      {
+        "provider": "FV Thomson",
+        "normalStandardVND": 45000000,
+        "normalNights": 3,
+        "cSectionStandardVND": 55000000,
+        "cSectionNights": 4,
+        "singleNormalVND": 51000000,
+        "singleCSectionVND": 63000000,
+        "familyNormalVND": 61000000,
+        "familyCSectionVND": 75000000,
+        "caveat": "Undated self-pay examples, not 2027 quote; international-insurance clients excluded; excluded pregnancy does not prove package eligibility; NICU unpriced"
+      },
+      {
+        "provider": "Tâm Anh HCMC",
+        "entryWeek": 36,
+        "singletonStandardWithoutAnalgesiaVND": 31430000,
+        "withAnalgesiaVND": 35080000,
+        "firstCSectionVND": 36930000,
+        "bodyAdjustmentDate": "2026-05-04",
+        "caveat": "Older metadata conflicts; late-entry package not full November antenatal care, extras and NICU additional/unknown"
+      },
+      {
+        "provider": "Hạnh Phúc",
+        "cardFromVND": 41600000,
+        "conflictingHeadlineVND": 29900000,
+        "campaignStart": "2024-12-16",
+        "caveat": "Mode/current rate unknown; no budget use; no NICU inclusion inferred"
+      },
+      {
+        "provider": "Vinmec Central Park",
+        "generalTariffEffective": "2025-10-14",
+        "deliveryAndNICU": "unknown; no substitute branch tariff"
+      },
+      {
+        "provider": "Raffles Vietnam",
+        "deliveryPrice": "unknown",
+        "caveat": "Antenatal/medical-centre service established; HCMC inpatient birth/NICU hospital not established; Singapore hospital separately described"
+      }
+    ],
+    "billingAndEvacuation": {
+      "branchMemberProductCashless": "unknown; general partner list not proof",
+      "aprilPlannedAuthorizationWorkingDays": 5,
+      "aprilOutsideUSANonAuthorizedCopayPercent": 20,
+      "aprilEmergencyContactHours": 24,
+      "emergencyQualification": "or as soon as reasonably possible; authorization itself not benefits guarantee",
+      "foundationEvacuation": "Listed included, destination rights unknown",
+      "aprilAssistanceLimitUSD": 1000000,
+      "regionalOption": "Europe+ASEAN excludes Singapore",
+      "destinationTreatmentParentExpenses": "Separate and unverified, no Singapore/Bangkok destination choice or receiving treatment guarantee",
+      "BHYTOverseasSolution": "not established"
+    },
+    "cashModel": {
+      "assumedVNDPerUSD": 25000,
+      "fxStatus": "round-number planning assumption, not researched market rate",
+      "privateBudgetVND": 125000000,
+      "adultsIPVND": 29785000,
+      "infantFullPeriodIPAllowanceVND": 7792000,
+      "familyIPVND": 37577000,
+      "remainingPremiumBudgetVND": 87423000,
+      "optionalFamilyOPVND": 27413000,
+      "familyIPOPVND": 64990000,
+      "usdConversions": {
+        "5010000": "200.40",
+        "7792000": "311.68",
+        "15010000": "600.40",
+        "27413000": "1096.52",
+        "29785000": "1191.40",
+        "32423000": "1296.92",
+        "37577000": "1503.08",
+        "42423000": "1696.92",
+        "45000000": "1800.00",
+        "55000000": "2200.00",
+        "64990000": "2599.60",
+        "82577000": "3303.08",
+        "87423000": "3496.92",
+        "92577000": "3703.08",
+        "109990000": "4399.60",
+        "119990000": "4799.60"
+      },
+      "deliveryRows": [
+        {
+          "premium": 37577000,
+          "birth": 45000000,
+          "total": 82577000,
+          "residual": 42423000
+        },
+        {
+          "premium": 37577000,
+          "birth": 55000000,
+          "total": 92577000,
+          "residual": 32423000
+        },
+        {
+          "premium": 64990000,
+          "birth": 45000000,
+          "total": 109990000,
+          "residual": 15010000
+        },
+        {
+          "premium": 64990000,
+          "birth": 55000000,
+          "total": 119990000,
+          "residual": 5010000
+        }
+      ],
+      "privateMaternityPaymentAssumedVND": 0,
+      "BHYTPaymentAssumedVND": 0,
+      "paymentAssumptionStatus": "Conservative sensitivity only, not actual BHYT ineligibility; FV eligibility and annual premium period unresolved",
+      "additional": [
+        "Prenatal outside package scope",
+        "Complications",
+        "Unpriced NICU",
+        "Household BHYT contributions",
+        "Other extras"
+      ],
+      "routineBabyCare": "not added twice",
+      "maxFamilyOOP": "unknown; residual is not NICU reserve"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-07",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and adjacent voice guide first; batch36 Kyoto JSON and both Markdown files for authoring conventions only. Complete assigned index/sources/independent check/calculations and BHYT research read; PC text 160–430 and APRIL text 1–405 sampled. No other source-run folder or network research. Scoped checks use content_utils.py without bytecode writes. Only four authorized new files written.",
+    "originalResearchAccessLimitations": "Assigned source records automatic managed-browser fallbacks with unknown profile state. Clean-session-only research cannot be certified; no new authoring refresh or procedural cure claimed. No personal submission or contact in original disclosed work.",
+    "independentCheckDisposition": "Original independent arithmetic audit passed components, conversions, delivery/BHYT examples and wait dates; limited high-risk primary sampling, not exhaustive legal/current quotation certification. Two wording fixes already present in final source are preserved. This pass does not inherit original browser/layout checks as verification of new files.",
+    "originalAuditHashNote": "Independent report captures earlier index/source hashes and later director closure hashes. sourceArtifacts above are current bytes actually consumed; older hashes in original check are historical, not asserted current.",
+    "layoutEvidenceLimit": "No HTML generation, full-package build, browser, accessibility or print verification in this assignment; integration belongs to caller."
+  },
+  "datePolicy": "All cited access dates retain 2026-11-07 expressly stated in assigned sources.md, not inferred from current authoring date. Product price effective dates remain unknown; enacted future implementation, historical policy label and sample prices are distinct. Unknown model/publication dates remain unknown.",
+  "uncertainties": [
+    "Current premium frequency, governing tariff, taxes, loading, discount and proration",
+    "Private infant earliest entry, congenital/prematurity/NICU terms and individual acceptance",
+    "Foreign/dual-national infant BHYT eligibility and March 2027 registration implementation/attachments",
+    "Adult active BHYT/category and hospital branch BHYT contract/classification/allocation",
+    "FV insured-client package eligibility and secured 2027 hospital prices",
+    "Product/member/branch inpatient and outpatient cashless status and deposits",
+    "NICU/complication maximum exposure and Vinmec birth amounts",
+    "Singapore/Bangkok destination rights and receiving treatment/parent/return expenses",
+    "Incomplete wider-market age-exact comparison and original clean-session exception"
+  ],
+  "editingContract": "Only new data/hcmc-family-health-insurance-newborn.json, en/hcmc-family-health-insurance-newborn.md, zh/hcmc-family-health-insurance-newborn.md and checks/batch37-hcmc-family-health-insurance-newborn-notes.md; no inventories, build scripts, existing guides or source-run edits, no research/network/publication. Stop at authored files; caller integrates.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

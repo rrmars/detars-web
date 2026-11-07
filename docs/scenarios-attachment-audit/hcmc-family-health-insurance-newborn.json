@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "fcb2372d66a158e3c6c6b240f6db95bacf693d548a294ab16dc632a445575da7",
+  "sourceListLink": "../w7-hcmc-expat-family-health-insurance-newborn/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "586795d13dd4097b0ab855c07672d6327a3c27fc8209838574542932aa078097",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "92f1d7c2543684b76a14afd7b4531b80317c22b074fd72db90bbd09200ad14d6",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "5baf92fd7a9b4ca03f0dee2a5edd85a2e93ada7fea771208b65307561b0830eb",
+  "sourceListLink": "../w7-manila-online-english-tutor-japan-korea/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "944ce6835f15864b3c9cac2bc27a01adaa402edaa071528d268e4880767cd6a4",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
