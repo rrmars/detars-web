@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 2,
+  "slug": "singapore-delivery-pab-ebike-buying-checklist",
+  "translationKey": "singapore-delivery-pab-ebike-buying-checklist",
+  "sources": [
+    {
+      "title": "R1 — PRIMARY: LTA OneMotoring PAB, undated live page",
+      "url": "https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/vehicle-types-and-registrations/active-mobility-devices/PAB.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R2 — PRIMARY: LTA Rules & Code of Conduct, undated live page",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/getting_around/active_mobility/rules_and_public_education/rules_and_code_of_conduct.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M0 — PRIMARY: LTA approved model list, **as at1July2026**,29pages",
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/PAB/List_of_Approved_PAB_Models.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R3 — PRIMARY: LTA Mandatory Theory Test PDF, updated December2025",
+      "url": "https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/pdf/mtt_for_escooters_pab.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R6 — PRIMARY: LTA permitted-device map, correct as of9March2026",
+      "url": "https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/pdf/where_devices_are_allowed_mar2026_web.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R12 — PRIMARY: LTA PAB English handbook, 2021 filename, still linked from live R3",
+      "url": "https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/pdf/pab_english_handbook_20210611.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R7 — UNCONFIRMED (classification): MOT second-reading speech",
+      "url": "https://www.mot.gov.sg/news-resources/newsroom/opening-speech-by-minister-of-state-for-transport-and-for-culture--community-and-youth--mr-baey-yam-keng--at-the-land-transport-and-related-matters--no--2--bill-second-reading/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M1 — PRIMARY: Falcon PEV Venom2/2+ listing, undated",
+      "url": "https://www.falconpev.com.sg/products/venom-2-ebike",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M2 — PRIMARY: JIMOVE MC listing, undated",
+      "url": "https://jimove.sg/products/mc-electric-bicycle-foldable-ebike",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M3 — PRIMARY: MOBOT S3 listing, undated",
+      "url": "https://www.mobot.sg/products/mobot-s3-electric-bicycle",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M4 — PRIMARY: Eko Life JIMOVE MC Pro listing, undated",
+      "url": "https://ekolife.asia/product/buy-jimove-mc-pro-electric-bicycle/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M5 — PRIMARY retailer claim, official identity UNCONFIRMED: MOBOT ECO Drive V3",
+      "url": "https://www.mobot.sg/products/mobot-eco-drive-electric-bicycle",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R4 — PRIMARY: LTA-hosted LTA/SCDF safety posters",
+      "url": "https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/image/Fire%20Safety%20Tips%20for%20PMDs%20and%20PABs_2022.jpeg",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R4 — PRIMARY: LTA-hosted LTA/SCDF safety posters",
+      "url": "https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/image/safe_charging_practices_for_am_devices.jpg",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R10 — PRIMARY: joint LTA/SCDF reply, February2023",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/newsroom/2023/2/media-replies/public-should-use-active-mobility-devices-that-meet-specificatio.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R11 — PRIMARY: SCDF/Town Councils/NFEC HDB common-area leaflet, undated",
+      "url": "https://www.scdf.gov.sg/docs/default-source/media-room-(publications)/posters--leaflets--booklets/publications-(docs)/guidelines-on-hdb-common-areas.pdf?sfvrsn=d403bd9_1",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "P1 — PRIMARY: Grab delivery onboarding, undated",
+      "url": "https://www.grab.com/sg/driver/deliver/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "P2 — PRIMARY: foodpanda document checklist, undated",
+      "url": "https://www.pandariders.sg/document-submission/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "P3 — PRIMARY: Deliveroo Singapore closure notice, undated",
+      "url": "https://deliveroo.com.sg/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R5 — PRIMARY: LTA mandatory commercial third-party liability",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/regulations_licensing/active_mobility/mandatory_third_party_liability_insurance_requirements_for_businesses.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "I1 — UNCONFIRMED (classification): MOM Platform Workers Act commencement release,17December2024",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2024/1217-commencement-of-platform-workers-act-from-1-jan-2025",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "I2 — PRIMARY: Grab complimentary insurance, undated",
+      "url": "https://www.grab.com/sg/driver/finance/insurance/free-insurance/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "I3 — UNCONFIRMED (access): foodpanda insurance",
+      "url": "https://www.pandariders.sg/insurance/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "I4 — PRIMARY: Grab Partner Cover / Chubb, undated",
+      "url": "https://www.grab.com/sg/driver/finance/insurance/partner-cover/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "I5 — PRIMARY: AA distributor / Liberty policy, product undated, wording JAN2024",
+      "url": "https://aas.com.sg/insurances/aa-personal-mobility-plus/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "I5 — PRIMARY: AA distributor / Liberty policy, product undated, wording JAN2024",
+      "url": "https://aas.com.sg/wp-content/uploads/2024/08/Policy-Wording-PMD.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "I6 — UNCONFIRMED (classification): MOM compensation limits, live page, explicit effective date",
+      "url": "https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "E1 — UNCONFIRMED (classification): IPS/NUS Working Paper47,November2022",
+      "url": "https://lkyspp.nus.edu.sg/docs/default-source/ips/ips-working-paper-no-47_current-realities-social-protection-and-future-needs-of-platform-food-delivery-workers-in-singapore.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "E2 — PRIMARY: Grab new-joiner incentive offer, explicit18Sep–31Dec2026 activation window",
+      "url": "https://www.grab.com/sg/newjoinerincentives/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "C1 — UNCONFIRMED (classification): CPFB platform-worker savings, undated",
+      "url": "https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-a-platform-worker",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "C2 — UNCONFIRMED (classification): CPFB opt-in FAQ, undated",
+      "url": "https://www.cpf.gov.sg/service/article/is-there-a-deadline-to-opt-in-as-a-platform-worker-for-increased-cpf-contribution",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "C3 — UNCONFIRMED (classification): CPFB PCTS eligibility FAQ, undated",
+      "url": "https://www.cpf.gov.sg/service/article/how-do-i-qualify-for-platform-workers-cpf-transition-support-pcts",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "bike_price": {
+      "label": "Conditional JIMOVE MC asking price; not an authenticated unit",
+      "value": 1299,
+      "unit": "SGD",
+      "display": "S$1,299"
+    },
+    "budget_ceiling": {
+      "label": "All-in spending ceiling",
+      "value": 1500,
+      "unit": "SGD",
+      "display": "S$1,500"
+    },
+    "initial_outlay": {
+      "label": "Capped illustrative initial outlay, not a checkout quote",
+      "value": 1415.9,
+      "unit": "SGD",
+      "display": "S$1,415.90"
+    },
+    "retained_contingency": {
+      "label": "Unspent reserve under capped assumptions",
+      "value": 84.1,
+      "unit": "SGD",
+      "display": "S$84.10"
+    },
+    "recovery_hurdle": {
+      "label": "Rounded-up gross hourly uplift needed for twelve-month recovery; not forecast",
+      "value": 1.08,
+      "unit": "SGD/hour",
+      "display": "S$1.08/hour"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned index.html, sources.md and independent-check.md read locally after package README and VOICE-GUIDE. Batch32 data/Markdown inspected for schema and voice only. No other source run, network research, build or publication.",
+    "originalResearchAccessLimitations": "Initial automatic browser-backed discovery did not prove clean prior session state; later stateless/fresh-context captures cannot retroactively cure that limitation. Original independent review verdict ISSUES remains, notwithstanding passing arithmetic.",
+    "independentCheckDisposition": "Original independent check verified arithmetic, conduct and four penalty-table mappings. It did not certify exact offered units, the accessory/insurance basket, causal earnings uplift or legislative completeness. Emergency evacuation advice remains unconfirmed as a separately sourced procedure.",
+    "layoutEvidenceLimit": "No current build, rendered HTML or browser certification performed by this author. Historic source-run layout observations do not certify the new Markdown."
+  },
+  "datePolicy": "All retained source access dates are 2026-11-07, including blocked access attempts explicitly identified. Copy editing is not a source refresh. Penalty handbook filename is 2021; still linked at original access date, not an exhaustive later-amendment audit. Future commencement and early-2027 prices remain to recheck.",
+  "planningAssumptions": {
+    "profile": "Rahman, 42, Singapore PR in Woodlands, 35 delivery hours/week, early-2027 switch, SGD 1500 all-in ceiling; inputs not independently verified. Chinese translation changes no eligibility.",
+    "recommendation": "Conditional JIMOVE MC shortlist for reduced fatigue, not an earnings promise; retain bicycle if approval, charging, cover or budget gates fail.",
+    "currency": "SGD",
+    "modelPrices": [
+      799,
+      999,
+      1299,
+      1499,
+      1699
+    ],
+    "excludedECOPrice": 1599,
+    "budgetRows": [
+      {
+        "item": "JIMOVE MC",
+        "sgd": 1299,
+        "status": "dated retailer asking price; variant unresolved"
+      },
+      {
+        "item": "Helmet",
+        "sgd": 40,
+        "status": "assumed cap"
+      },
+      {
+        "item": "Lock",
+        "sgd": 35,
+        "status": "assumed cap"
+      },
+      {
+        "item": "Phone mount",
+        "sgd": 20,
+        "status": "assumed cap"
+      },
+      {
+        "item": "Bag/lights additional",
+        "sgd": 0,
+        "status": "conditional reuse/inclusions, not free offer"
+      },
+      {
+        "item": "Transfer allowance",
+        "sgd": 11,
+        "status": "published fee conservatively budgeted"
+      },
+      {
+        "item": "PAB test",
+        "sgd": 10.9,
+        "status": "published fee per attempt; one successful attempt assumed"
+      }
+    ],
+    "initialOutlaySGD": 1415.9,
+    "contingencySGD": 84.1,
+    "incrementalMonthlyCostsSGD": {
+      "charging": 3,
+      "extraMaintenance": 20,
+      "batteryReserve": 22,
+      "total": 45
+    },
+    "hoursPerMonthFormula": "35 * 52 / 12",
+    "grossHourlyUpliftScenarios": [
+      -1,
+      0,
+      0.5,
+      1,
+      2,
+      3
+    ],
+    "cautiousBaseGrossHourlyUplift": 0,
+    "paybackMonths": [
+      null,
+      null,
+      45.92,
+      13.27,
+      5.48,
+      3.45
+    ],
+    "operatingBreakEvenSGDPerHour": 0.2967,
+    "twelveMonthHurdleSGDPerHour": 1.0747,
+    "roundedUpHurdleSGDPerHour": 1.08,
+    "modelLimits": "Chosen sensitivities, not measured wages; incremental vs bicycle costs, not total operating costs. Before CPF/tax, no paid insurance, finance, residual value, bicycle sale, extra hours or monetised comfort. Do not double-count depreciation after battery reserve."
+  },
+  "uncertainties": [
+    "Exact retailer/model/battery generation, orange seal, registration/plate/transfer, compliant weight and actual physical unit remain unverified; a model-family match is not certification.",
+    "MC 21Ah headline vs 20.8Ah technical table; S3 11.6Ah vs 10.4Ah; Venom 2 vs 2+ identity; MC Pro generation and missing weight; ECO V3 exact-name mismatch excluded.",
+    "Asking prices/range/stock are dated claims, not early-2027 quotations or loaded delivery tests. No daily kilometres, range derating percentage or one-charge full-day promise.",
+    "Accessory caps, suitable existing bag, included lights, tax/delivery/registration/inspection scope and a required paid premium could break the capped basket.",
+    "foodpanda policy blocked; S$1m indexed snippet unconfirmed and not adopted cover. PAB-specific Partner Cover acceptance/full schedules and AA delivery-endorsed current premium unresolved.",
+    "On/off-job, waiting, other-platform cover, excesses, claims deadlines and own-bike loss protection unresolved. Statutory work injury, TPL and PA are not interchangeable.",
+    "Penalty source has 2021 filename linked at 2026 access; published maxima not ticket amounts or complete legislative-currentness certification. Future battery rules/blue-seal phase-out require commencement recheck.",
+    "No PAB-specific HDB storage page retrieved; agency common-area guidance is not universal indoor ban or corridor permission. Evacuation/995 advice is conservative and unconfirmed as separately sourced procedure.",
+    "No causal sustainable hourly earnings uplift established; historical IPS/NUS sample not matched experiment, expense treatment unspecified, no recurring new-joiner incentive.",
+    "CPF opt-in, individual taxes, platform task boundaries and mode-switch procedure/cost unknown. FEDA is not actual cost; PR example does not get citizen-only transition support.",
+    "Original initial clean-session requirement remains unproven; restricted classification labels for authoritative non-enumerated sources retained. No current browser certification."
+  ],
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Singapore delivery riders considering a legal PAB, including Chinese-speaking riders, using a 42-year-old Singapore PR in Woodlands with a tight cash budget as the unchanged example.",
+  "localeReason": "English and Chinese serve Singapore delivery riders comparing the same PAB rules, models, charging and insurance decisions. Chinese improves access without changing PR status, platform age requirements or eligibility.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

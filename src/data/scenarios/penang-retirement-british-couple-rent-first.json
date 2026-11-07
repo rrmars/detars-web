@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 2,
+  "slug": "penang-retirement-british-couple-rent-first",
+  "translationKey": "penang-retirement-british-couple-rent-first",
+  "sources": [
+    {
+      "title": "MOTAC eligibility FAQ",
+      "url": "https://www.motac.gov.my/faq-sistem/2-kelayakan-dan-syarat-asas/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "category overview",
+      "url": "https://www.mm2h.gov.my/category/overview",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "application guidelines",
+      "url": "https://www.mm2h.gov.my/apply/guidelines",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OSC programme notice",
+      "url": "https://www.motac.gov.my/wp-content/uploads/2025/12/Pengumuman-Terkini-Program-MM2H.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official guide",
+      "url": "https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Penang Land Office acquisition PDF",
+      "url": "https://ptg.penang.gov.my/images/artikel/Pembangunan_Tanah/PerolehanTanahOlehWarganegaraAsing.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tourism Board FAQ",
+      "url": "https://smm2h.sarawaktourism.com/faqs/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "current ministry page",
+      "url": "https://mtcp.sarawak.gov.my/web/subpage/webpage_view/262",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official Silver page",
+      "url": "https://sabahmm2h.sabahtourism.com/copy-of-silver-1",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "programme hub",
+      "url": "https://sabahmm2h.sabahtourism.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "terms hub",
+      "url": "https://sabahmm2h.sabahtourism.com/copy-of-terms-conditions-4",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "system notice",
+      "url": "https://www.motac.gov.my/wp-content/uploads/2025/12/Pengumuman-Terkini-Sistem-MM2H.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "operator licensing guideline",
+      "url": "https://www.motac.gov.my/wp-content/uploads/2026/01/MM2H-Garis-Panduan-Permohonan-Lesen-Perniagaan-Pengendalian-Pelancongan-Dalam-Negeri-Bagi-MM2H-1.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK entry guidance",
+      "url": "https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MDEC FAQ, version 10 dated 28 August 2026",
+      "url": "https://mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gleneagles",
+      "url": "https://www.ihhmalaysia-international.com/gleneagles/penang",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pantai",
+      "url": "https://www.ihhmalaysia-international.com/pantai/penang",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Cigna's seniors page",
+      "url": "https://www.cignaglobal.com/seniors-health-insurance",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "November 2024 brochure",
+      "url": "https://www.cignaglobal.com/static/cigna-rebranding/pdf/cignaglobal-uvsl/cgho-senior-plan-sales-brochure-dtc-en_11_24.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DWP qualifying-country list",
+      "url": "https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad/countries-where-we-pay-an-annual-increase-in-the-state-pension",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "annual-increase rules",
+      "url": "https://www.gov.uk/state-pension-if-you-retire-abroad/rates-of-state-pension",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HMRC's classification",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/international-manual/intm343040",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK–Malaysia treaty",
+      "url": "https://www.gov.uk/government/publications/malaysia-tax-treaties/1996-uk-malaysia-double-taxation-agreement-as-amended-by-the-2010-protocol-in-force",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "treaty index",
+      "url": "https://www.gov.uk/government/publications/malaysia-tax-treaties",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official budget tax measures",
+      "url": "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/tax-measures.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK residence rules",
+      "url": "https://www.gov.uk/tax-foreign-income/residence",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHS entitlement after moving abroad",
+      "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/planning-your-healthcare/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "visitor access guidance",
+      "url": "https://www.nhs.uk/nhs-services/visiting-or-moving-to-england/how-to-access-nhs-services-in-england-if-you-are-visiting-from-abroad/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHS exemption",
+      "url": "https://www.nhs.uk/nhs-services/visiting-or-moving-to-england/visitors-who-do-not-need-to-pay-for-nhs-treatment/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PropertyGuru's indexed title",
+      "url": "https://www.propertyguru.com.my/bm/senarai-hartanah/coastal-tower-untuk-disewa-oleh-sr-helen-teoh-502002301",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "iProperty index",
+      "url": "https://www.iproperty.com.my/property/tanjung-bungah/coastal-tower/rent-502002301/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Rummah advertisement",
+      "url": "https://rummah.my/listings/setia-v-residence-persiaran-gurney-b439a9c8-2579-49ab-84e5-4bfa1ce39d16",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_spending": {
+      "label": "Unconfirmed monthly spending for two",
+      "value": 14130,
+      "unit": "MYR/month",
+      "display": "RM14,130",
+      "status": "Unconfirmed planning assumption or derived illustration; not quotation or clearance"
+    },
+    "monthly_surplus": {
+      "label": "Base-case monthly surplus at assumed spendable pensions and FX",
+      "value": 4230,
+      "unit": "MYR/month",
+      "display": "RM4,230",
+      "status": "Unconfirmed planning assumption or derived illustration; not quotation or clearance"
+    },
+    "combined_stress_deficit": {
+      "label": "Monthly deficit with insurance RM5,000 and GBP/MYR 4.80",
+      "value": 310,
+      "unit": "MYR/month deficit",
+      "display": "RM310",
+      "status": "Unconfirmed planning assumption or derived illustration; not quotation or clearance"
+    },
+    "silver_cash_peak": {
+      "label": "Full FD and federal-floor home before fees/taxes",
+      "value": 1260000,
+      "unit": "MYR",
+      "display": "RM1,260,000",
+      "status": "Unconfirmed planning assumption or derived illustration; not quotation or clearance"
+    },
+    "silver_cash_shortfall": {
+      "label": "Full initial FD/property cash above savings",
+      "value": 72000,
+      "unit": "MYR",
+      "display": "RM72,000",
+      "status": "Unconfirmed planning assumption or derived illustration; not quotation or clearance"
+    },
+    "medical_liquidity": {
+      "label": "Separate assumed reserve; no adequacy assurance",
+      "value": 100000,
+      "unit": "MYR",
+      "display": "RM100,000",
+      "status": "Unconfirmed planning assumption or derived illustration; not quotation or clearance"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and VOICE-GUIDE read first; batch32 Taipei JSON/Markdown for schema and voice only; complete assigned index.html, sources.md (all 288 lines) and independent-check.md (all 299 lines) read locally. No other source run read; no network research, build or publication. check_i18n.py and bounded content_utils.py schema inspection only.",
+    "originalResearchAccessLimitations": "Original research did not fully meet its clean-session requirement: automatic existing managed-profile fallbacks and research-profile searches were disclosed; Coastal index evidence was retained as limited. Later isolated layout checks do not cure that deviation. No claim of historical clean-session compliance.",
+    "independentCheckDisposition": "Current-byte update and final director note supersede historical defects. Original report records 88 numeric checks plus 2 renewal checks (90) passing, with state, insurance, tax/NHS, 2027 and source-session gaps retained. This batch does not claim to rerun the historical script or reopen primary sources.",
+    "layoutEvidenceLimit": "No batch33 HTML build, current browser certification, pixel or print certification. Historical source layout checks do not certify new Markdown."
+  },
+  "datePolicy": "All cited original access/attempt dates retained as 2026-11-07. Source publication dates and listing dates are separate. Copy editing is not a source refresh; no late-2027 requirements are guaranteed.",
+  "planningAssumptions": {
+    "profile": "British retired couple Graham 67 and Linda 64 on 2026-11-07, considering late-2027 principal Penang retirement, preferring rent-only. Exact birthdays, schemes, medical histories and personalized eligibility unverified.",
+    "recommendation": "Rent first on a genuine short visit; do not force a property-dependent MM2H commitment. No permanent-residence strategy using repeated visitor entries.",
+    "monthlyBudget": {
+      "currency": "MYR",
+      "fxMYRperGBP": 5.4,
+      "fxMYRperUSD": 4.4,
+      "fxStatus": "Unconfirmed illustrative assumptions, not market quotes",
+      "pensionGBP": 3400,
+      "pensionStatus": "Assumed net/spendable, not personalized post-tax calculation",
+      "savingsGBP": 220000,
+      "monthlyRows": [
+        {
+          "item": "Condo rent",
+          "myr": 3500,
+          "gbpDisplay": "648.15",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "Groceries and household",
+          "myr": 1500,
+          "gbpDisplay": "277.78",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "Eating out",
+          "myr": 900,
+          "gbpDisplay": "166.67",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "Electricity and water",
+          "myr": 450,
+          "gbpDisplay": "83.33",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "Internet and two mobiles",
+          "myr": 180,
+          "gbpDisplay": "33.33",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "Grab/buses and occasional hire",
+          "myr": 700,
+          "gbpDisplay": "129.63",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "International medical insurance placeholder",
+          "myr": 2500,
+          "gbpDisplay": "462.96",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "Routine/excluded care reserve",
+          "myr": 500,
+          "gbpDisplay": "92.59",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "Leisure and personal spending",
+          "myr": 600,
+          "gbpDisplay": "111.11",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "UK return flights sinking fund",
+          "myr": 1800,
+          "gbpDisplay": "333.33",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "UK visit accommodation fund",
+          "myr": 500,
+          "gbpDisplay": "92.59",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        },
+        {
+          "item": "General contingency",
+          "myr": 1000,
+          "gbpDisplay": "185.19",
+          "status": "Unconfirmed planning allowance; insurance not a quote"
+        }
+      ],
+      "totalMYR": 14130,
+      "totalGBP": 2616.67,
+      "incomeMYR": 18360,
+      "surplusMYR": 4230,
+      "surplusGBP": 783.33,
+      "annualMYR": 169560,
+      "annualGBP": 31400,
+      "flights": "2 trips/year × 2 people × MYR5400 assumed return fare /12 = MYR1800/month; not quotes",
+      "ukAccommodation": "MYR6000/year /12 = MYR500/month; mainly family hosting",
+      "exclusions": "No retained UK property or purchased car. Annual tenancy not a short-stay quote. Unknown tax if pensions gross, owner acquisition/ongoing costs and relocation costs not resolved.",
+      "gurneyStress": {
+        "rentMYR": 5000,
+        "spendingMYR": 15630,
+        "spendingGBP": 2894.44,
+        "surplusMYR": 2730,
+        "surplusGBP": 505.56
+      },
+      "combinedStress": {
+        "rentMYR": 3500,
+        "insuranceMYR": 5000,
+        "fxMYRperGBP": 4.8,
+        "spendingMYR": 16630,
+        "spendingGBP": 3464.58,
+        "incomeMYR": 16320,
+        "deficitMYR": 310,
+        "deficitGBP": 64.58
+      }
+    },
+    "rentalCash": {
+      "startupMYR": 12250,
+      "startupGBP": 2268.52,
+      "formula": "(2 security + 0.5 utility + 1 advance) × MYR3500; negotiation assumption, not statutory charge",
+      "sixMonthBufferMYR": 84780,
+      "sixMonthBufferGBP": 15700,
+      "medicalReserveMYR": 100000,
+      "medicalReserveGBP": 18518.52,
+      "combinedEarmarkMYR": 197030,
+      "combinedEarmarkGBP": 36487.04,
+      "overlap": "Advance month overlaps ongoing spending/six-month buffer. Conservative earmark, not six months of wholly additional costs. Medical reserve is not assurance of adequacy."
+    },
+    "silverCapital": {
+      "savingsMYR": 1188000,
+      "fdUSD": 150000,
+      "fdMYR": 660000,
+      "fdGBP": 122222.22,
+      "propertyFederalFloorMYR": 600000,
+      "propertyGBP": 111111.11,
+      "fullCashPeakMYR": 1260000,
+      "fullCashPeakGBP": 233333.33,
+      "shortfallMYR": 72000,
+      "shortfallGBP": 13333.33,
+      "hypotheticalWithdrawalMYR": 330000,
+      "hypotheticalWithdrawalGBP": 61111.11,
+      "recycledAssetsMYR": 930000,
+      "recycledAssetsGBP": 172222.22,
+      "residualMYR": 258000,
+      "residualGBP": 47777.78,
+      "residualAfterBufferMedicalListedFeesMYR": 64220,
+      "residualAfterBufferMedicalListedFeesGBP": 11892.59,
+      "limit": "Optimistic federal-floor illustration, not Penang title approval. Withdrawal timing disputed; later recycling does not finance earlier cash peak. Remaining agent/visa/tax/property costs unquoted. Separate ownership scenario excludes rental startup."
+    },
+    "listedFees": {
+      "processingCoupleMYR": 7500,
+      "participationMYR": 1000,
+      "portalBeforeSSTMYR": 500,
+      "componentsMYR": 9000,
+      "componentsGBP": 1666.67,
+      "operatorRateMYR": 40000,
+      "operatorRateGBP": 7407.41,
+      "operatorScope": "Published rate includes government/tax charges in licensing wording; do not mechanically add to MYR9000. Obtain itemization.",
+      "coupleCategoryRenewalMYR": 3000,
+      "coupleCategoryRenewalGBP": 555.56,
+      "conditionalFiveYearPassCoupleMYR": 5000,
+      "conditionalFiveYearPassCoupleGBP": 925.93,
+      "passLimit": "General MYR500/year/person; actual dependant billing and endorsement unconfirmed. Visa MYR0–50 nationality-dependent."
+    }
+  },
+  "uncertainties": [
+    "No guaranteed late-2027 rules, pass approval or comprehensive rent-only retirement route established.",
+    "Penang land-office PDF unread: state acquisition minima, MM2H exceptions, eligible title, unit limits and consent charges unconfirmed; federal MYR600000 not proof of eligible Penang purchase.",
+    "FD withdrawal after approval versus second-year wording; over-50 minimum-stay inconsistency; actual approval terms needed.",
+    "Federal overall processing time unverified; 90 days concerns postapproval preparation, 6–9 months is planning allowance. Actual spouse billing, bonds, SST/operator scope and property charges unquoted.",
+    "Sarawak FAQ potentially outdated; current ministry rules and principal-Penang residence rights unresolved. Sabah financial details incomplete; verified Sabah residence restriction does not establish a Penang route.",
+    "Coastal Tower index-only; complete listing blocked, no exact date/area/furnishings/lease/availability. Other ad is dated, not 2027 inventory.",
+    "No insurer acceptance, Malaysian-resident eligibility, schedule, exclusion analysis, premium or adequacy of medical liquidity. Hospital examples do not cap serious-illness costs.",
+    "Exact birthdays and pension schemes/service mix, net pension income, State Pension components and Teachers Pension indexation not settled.",
+    "No personalized UK residence/treaty/PAYE/Malaysian foreign-income exemption/NHS ruling. Malaysian domestic conditions/reporting not resolved after failed MY2 retrieval.",
+    "Original clean-session deviation persists; no network refresh and no current browser certification in batch33."
+  ],
+  "editingContract": "Only assigned new English Markdown, schema-v2 JSON and optional batch33-penang author note. No existing package/source edits, inventories, shared scripts, builds, network research, contact or publication.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "British retiree couple with GBP pensions and savings considering rent-first Penang living, MM2H capital commitments, individual medical cover and UK pension/tax/NHS consequences.",
+  "localeReason": "British couple with GBP pensions and specific nationality/retirement assumptions; no distinct Chinese-reader need established. English only.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

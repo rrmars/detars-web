@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "7657fb675038ec25308dbdc14314d3a2d66da924bcc119566825a2486f49d8c2",
+  "sourceListLink": "../w7-auckland-home-tutoring-migrant/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b5b875ff2fb23e6f68fec25bc54609dc8d2d34f9b44af568a404ab7c60d682f8",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

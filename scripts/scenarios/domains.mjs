@@ -20,9 +20,9 @@ export const rules = [
   ['visas', /(?:digital-nomad|working-holiday|retirement|visa|entry-visa|dtv)/],
   ['housing', /(?:first-home|first-apartment|rent(?:al|ing)?(?:-|$)|home-buying|buying-(?:property|apartment))/],
   ['family', /(?:care-options|rescue-dog|vegetarian-protein|health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move|dental|infant-care|(?:^|-)dog-|aged-care)/],
-  ['business', /(?:freelance-designer|candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing|home-bakery|cafe|sambal)/],
+  ['business', /(?:freelance-designer|candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing|home-bakery|cafe|sambal|home-tutoring)/],
   ['buying', /(?:air-purifier|laptop|phone|headphones|robot-vacuum|used-car|ebike|running-watch|solar|family-car)/],
-  ['living', /(?:first-30-days|move-with|one-month|cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian|city-month|taipei-move)/],
+  ['living', /(?:first-30-days|move-with|one-month|cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian|city-month|taipei-move|one-year)/],
   ['travel', /(?:ski-week|safari|itinerary|road-trip|days?|nights?|weekend|autumn|cherry-blossom|without-driving|two-weeks)/],
 ];
 export function assignDomain(slug) {

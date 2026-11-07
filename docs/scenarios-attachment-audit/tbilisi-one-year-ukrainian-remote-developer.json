@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "f014190b66390d23ac495f2993f4bed5a97d6aa9eb45241c57a5a6624e527ee0",
+  "sourceListLink": "../w7-tbilisi-year-ukrainian-remote-developer/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "1a99b9972513e15e065aaabfb1117192945a99e587fc45520f9e64ae3945d610",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

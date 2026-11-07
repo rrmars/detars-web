@@ -1,0 +1,434 @@
+{
+  "schemaVersion": 2,
+  "slug": "auckland-home-tutoring-migrant-checklist",
+  "translationKey": "auckland-home-tutoring-migrant-checklist",
+  "sources": [
+    {
+      "title": "Immigration New Zealand announcement",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-employment-conditions-for-open-work-visa-holders/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wintec career profile",
+      "url": "https://www.wintec.ac.nz/future-you/explore/jobs/education/private-teacher-tutor",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRD self-employed guidance",
+      "url": "https://www.ird.govt.nz/roles/self-employed",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sole-trader guide",
+      "url": "https://www.business.govt.nz/business-stage-or-type/sole-traders/becoming-a-sole-trader",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "record-keeping rules",
+      "url": "https://www.ird.govt.nz/managing-my-tax/record-keeping",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Auckland Council's home-business guidance",
+      "url": "https://www.aucklandcouncil.govt.nz/en/licences-regulations/business-licences/home-based-businesses.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "government advice on choosing where to work",
+      "url": "https://www.business.govt.nz/operations/equipment-premises-and-assets/choosing-where-to-work",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "older H4 residential-zone chapter",
+      "url": "https://unitaryplan.aucklandcouncil.govt.nz/images/Auckland%20Unitary%20Plan%20Operative%20Sealed%2015%20Nov%202016/Chapter%20H%20Zones/H4%20Residential%20-%20Mixed%20Housing%20Suburban%20Zone.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "contractor insurance guidance",
+      "url": "https://www.business.govt.nz/business-stage-or-type/contractors/insurance-cover-for-contractors",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Police vetting registration",
+      "url": "https://www.police.govt.nz/advice-services/businesses-and-organisations/nz-police-vetting-service/register-new-zealand-police",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "vetting process",
+      "url": "https://www.police.govt.nz/advice-services/businesses-and-organisations/nz-police-vetting-service/information-about-vetting",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOJ conviction-history record",
+      "url": "https://www.justice.govt.nz/criminal-records/police-clearance/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Children's Act mandatory workforce checks",
+      "url": "https://www.orangatamariki.govt.nz/working-with-children/childrens-act-requirements/safety-checking/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Privacy Act obligations",
+      "url": "https://www.privacy.org.nz/responsibilities/your-obligations/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IPP3A indirect-collection notification",
+      "url": "https://www.privacy.org.nz/resources-and-learning/a-z-topics/protecting-children-and-young-peoples-privacy/childrens-privacy-guidance-for-the-education-sector/chapter-5-collecting-information/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "children's information-request guidance",
+      "url": "https://www.privacy.org.nz/responsibilities/responding-to-requests-for-personal-information-about-children-and-young-people/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "privacy principles",
+      "url": "https://www.privacy.org.nz/privacy-principles/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NotifyUs guidance",
+      "url": "https://www.privacy.org.nz/responsibilities/privacy-breaches/notify-us/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Faisal Hayat, Epsom",
+      "url": "https://www.nceatutor.co.nz/tutor/faisal-hayat",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pabasara Athukorala, Remuera",
+      "url": "https://www.nceatutor.co.nz/tutor/pabasara-athukorala",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Auckland Maths Tutoring",
+      "url": "https://aucklandmathstutoring.co.nz/services",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "James Kerr / Auckland Maths Tutor",
+      "url": "https://aucklandmathstutor.co.nz/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Expert Maths Tuition",
+      "url": "https://expertmathstuition.co.nz/our-fees-and-policies/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Locations",
+      "url": "https://expertmathstuition.co.nz/locations/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MyTuition",
+      "url": "https://www.mytuition.nz/pricing",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Superprof NZ",
+      "url": "https://www.superprof.co.nz/blog/how-superprof-works/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NCEATutor",
+      "url": "https://www.nceatutor.co.nz/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "First Tutors NZ",
+      "url": "https://firsttutors.com/new-zealand/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "allowable business expenses",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-businesses-and-organisations/types-of-business-expenses",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "apportion home use",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-businesses-and-organisations/types-of-business-expenses/using-your-home-for-your-business",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "capital/low-value asset treatment",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-businesses-and-organisations/types-of-business-expenses/depreciation/claiming-depreciation",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tax residence",
+      "url": "https://www.ird.govt.nz/international-tax/individuals/tax-residency-status-for-individuals",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IR3NR return",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/what-happens-at-the-end-of-the-tax-year/individual-income-tax-return---ir3/non-resident-individual-income-tax-return---ir3nr",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Individual marginal rates",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/tax-rates-for-individuals",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IR3 guidance",
+      "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/what-happens-at-the-end-of-the-tax-year/individual-income-tax-return---ir3",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "first-year payment guidance",
+      "url": "https://www.ird.govt.nz/income-tax/provisional-tax/paying-tax-in-your-first-year-in-business",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "working-day rule",
+      "url": "https://www.ird.govt.nz/managing-my-tax/make-a-payment/when-to-pay",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "provisional payment dates",
+      "url": "https://www.ird.govt.nz/provpaymentdates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "school holiday calendar",
+      "url": "https://www.education.govt.nz/term-dates-and-holidays",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "provisional-tax trigger",
+      "url": "https://www.ird.govt.nz/provisional-tax",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GST registration",
+      "url": "https://www.ird.govt.nz/gst/registering-for-gst",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "the standard rate",
+      "url": "https://www.ird.govt.nz/gst/what-gst-is",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRD's education-centres guide",
+      "url": "https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir200---ir299/ir253/ir253.pdf%3Fmodified%3D20250320193924%26modified%3D20250320193924",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "self-employed cover",
+      "url": "https://www.acc.co.nz/for-business/understanding-your-cover-options/types-of-cover-for-self-employed",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CoverPlus invoice",
+      "url": "https://www.acc.co.nz/for-business/received-an-invoice/explaining-your-invoice/coverplus-invoice",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "levy calculation inputs",
+      "url": "https://www.acc.co.nz/for-business/received-an-invoice/calculate-your-levies",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "levy estimator",
+      "url": "https://www.acc.co.nz/for-business/received-an-invoice/estimate-your-levy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CoverPlus calculator",
+      "url": "https://www.levycalculators.acc.co.nz/cp.jsp",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2027/28 settings",
+      "url": "https://www.acc.co.nz/about-us/our-levies-2/levy-results",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "launch_cash": {
+      "label": "Scenario launch cash, including unspent contingency",
+      "value": 3000,
+      "unit": "NZD",
+      "display": "NZ$3,000"
+    },
+    "blended_rate": {
+      "label": "Proposed blended paid-hour rate, not market average",
+      "value": 60,
+      "unit": "NZD/paid hour",
+      "display": "NZ$60"
+    },
+    "paid_hours": {
+      "label": "Peak-week paid teaching target; not demand guarantee",
+      "value": 20,
+      "unit": "paid hours/week",
+      "display": "20 paid hours/week"
+    },
+    "base_revenue": {
+      "label": "Conditional operating-year revenue",
+      "value": 43200,
+      "unit": "NZD/operating year",
+      "display": "NZ$43,200"
+    },
+    "conditional_cash": {
+      "label": "Operating-year surplus excluding seed balance; estimated tax/unassessed ACC reserve",
+      "value": 31081.6,
+      "unit": "NZD/operating year",
+      "display": "NZ$31,081.60"
+    },
+    "gst_threshold": {
+      "label": "At-least rolling taxable turnover threshold, past or expected next twelve months",
+      "value": 60000,
+      "unit": "NZD rolling taxable turnover",
+      "display": "NZ$60,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned index.html, sources.md and independent-check.md read locally after package README and VOICE-GUIDE; one batch32 JSON/Markdown example and checker helpers read for schema. No other source run or network read.",
+    "originalResearchAccessLimitations": "Original clean-session constraint was not fully met: early managed-tool fallback routes used existing browser routes. Later isolated/no-cookie rereads cannot retroactively cure this. Excluded material and uneven indexed/retrieval-note-only confirmation are disclosed in original ledger and independent check.",
+    "independentCheckDisposition": "Original review passed 49 exact arithmetic assertions under assumptions; no numerical correction needed. New prose adopts its cash-surplus/seed-capital clarification, explicit prelaunch registration gate and mandatory-notification precision. Several tax/deadline/expense claims and L8 were not independently raw-page confirmed in that review.",
+    "layoutEvidenceLimit": "No current browser certification, HTML build, visual or print check. Historical source-run rendering does not certify these new Markdown bytes."
+  },
+  "datePolicy": "All cited source access dates retained as 2026-11-07. Advertisement publication dates remain unknown; Superprof article publication is 2025-08-26. Copy editing is not source refresh; future tax dates are current-rule projections.",
+  "planningAssumptions": {
+    "profile": "Priya, former Indian classroom teacher in Mount Roskill, planning solo home/online maths tuition from February 2027 on a Partner of a Worker Work Visa; actual eVisa and personal documents unverified.",
+    "operatingPeriod": {
+      "start": "2027-02-01",
+      "end": "2028-01-31"
+    },
+    "delivery": "Solo direct bookings; no staff, travel offering or marketplace percentage commission. Existing laptop/broadband/room; home visits conditional, online fallback.",
+    "proposedRatesNZD": [
+      55,
+      60,
+      65
+    ],
+    "paidHourMix": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "teachingRamp": [
+      {
+        "weeks": 6,
+        "hoursPerWeek": 8
+      },
+      {
+        "weeks": 8,
+        "hoursPerWeek": 14
+      },
+      {
+        "weeks": 28,
+        "hoursPerWeek": 20
+      }
+    ],
+    "teachingWeeks": 42,
+    "nonTeachingWeeks": 10,
+    "paidHours": 720,
+    "peakWorkHours": {
+      "paidTeaching": 20,
+      "preparation": 8,
+      "administration": 3,
+      "total": 31
+    },
+    "availableSlots": 24,
+    "launchAllocationNZD": {
+      "capital": 600,
+      "materials": 400,
+      "marketing": 300,
+      "insurance": 600,
+      "accounting": 500,
+      "unspentContingency": 600
+    },
+    "annualCostsNZD": {
+      "materials": 700,
+      "software": 480,
+      "insurance": 600,
+      "marketing": 600,
+      "accounting": 900,
+      "utilities": 720,
+      "adminMisc": 800
+    },
+    "baseNZD": {
+      "revenue": 43200,
+      "expenses": 4800,
+      "profitBeforeACC": 38400,
+      "incomeTaxAcrossPeriods": 5566.4,
+      "accReserve": 1152,
+      "capitalCash": 600,
+      "cashSurplusExcludingSeed": 31081.6
+    },
+    "taxPeriods": [
+      {
+        "period": "February–March 2027",
+        "revenue": 2880,
+        "expenses": 2000,
+        "profit": 880,
+        "tax": 92.4
+      },
+      {
+        "period": "April 2027–January 2028 only",
+        "revenue": 40320,
+        "expenses": 2800,
+        "profit": 37520,
+        "tax": 5474
+      }
+    ],
+    "continuationOutsideFirstOperatingYearNZD": {
+      "revenue": 7200,
+      "expenses": 800,
+      "extraProfit": 6400,
+      "full2027_28Profit": 43920,
+      "full2027_28Tax": 6594,
+      "extraTax": 1120
+    },
+    "cashPolicy": {
+      "receiptReservePercent": 25,
+      "ringFenceNZD": 10800,
+      "taxPlusACCReserveNZD": 6718.4,
+      "bufferInsideRingFenceNZD": 4081.6,
+      "receiptsAfterCostsCapitalAndWholeRingFenceNZD": 27000
+    },
+    "downsideRevenueNZD": 27720,
+    "mature42WeekRevenueNZD": 50400,
+    "fiftyWeekRevenueNZD": 60000,
+    "taxAssumptions": "NZ resident, no other taxable income/losses/student-loan deductions/credits; unchanged rates; no GST registration; no capital or ACC deduction; isolated Apr–Jan calculation assumes no Feb–Mar 2028 income. Expenses/timing are assumptions, not assessed deductibility.",
+    "accReserveStatus": "3% of profit is a provisional savings allocation, not official levy rate/quote; may be insufficient, especially given 31 total work hours."
+  },
+  "uncertainties": [
+    "Actual eVisa category, conditions, expiry and no-hiring application to any changed business structure.",
+    "Current regulator-level tutor-registration guidance unresolved; Wintec is secondary, not a legal exemption.",
+    "All six adverts undated; no exact Mount Roskill rate-plus-duration example; possible identity overlap between Auckland Maths domains; retail prices are not tutor earnings.",
+    "Superprof current commission, Premium and mandatory trial; MyTuition pay/retention/status/eligibility; Tutorly NZ, Trade Me and community advertising fees remain unconfirmed. First Tutors closure undated; NCEATutor Beta/for sale.",
+    "Actual address/zone/overlays/tenancy/covenants and premises permissions; no universal home visitor limit. Insurance exclusions and actual premium; syllabus readiness.",
+    "Tax residence, overseas/other income, credits/deductions, precommencement and expense timing, final filing/payment notices; illustrative cash is not personal assessed take-home.",
+    "ACC classification, total hours, minimum/maximum and part-year treatment; no personal levy quote or reserve adequacy.",
+    "Historic clean-session deviation and uneven independent raw-source depth remain; no live source refresh or current browser certification."
+  ],
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Migrants in Auckland considering solo home-based and online supplementary maths tutoring, using an Indian former teacher in Mount Roskill as the specific scenario.",
+  "localeReason": "English only: migrant tutoring case in Auckland; no distinct Chinese-reader need established.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

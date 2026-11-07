@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 2,
+  "slug": "tbilisi-one-year-ukrainian-remote-developer",
+  "translationKey": "tbilisi-one-year-ukrainian-remote-developer",
+  "sources": [
+    {
+      "title": "April 2025 amendment",
+      "url": "https://matsne.gov.ge/ka/document/view/6463219",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "February 2026 amendment",
+      "url": "https://matsne.gov.ge/ka/document/view/6793257",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Aliens Law",
+      "url": "https://matsne.gov.ge/en/document/view/2278806",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SDA checklist and fees",
+      "url": "https://sda.gov.ge/en/products/migration-residence-permits/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "April residence documents",
+      "url": "https://matsne.gov.ge/ka/document/view/6831591",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "July residence amendment",
+      "url": "https://matsne.gov.ge/ka/document/view/6939703",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Labour Migration Law",
+      "url": "https://matsne.gov.ge/en/document/view/2806732",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "April statutory change",
+      "url": "https://matsne.gov.ge/ka/document/view/6839931",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "July work-rule qualification",
+      "url": "https://matsne.gov.ge/ka/document/view/6940189",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "later residence amendment",
+      "url": "https://matsne.gov.ge/ka/document/view/6986724",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "base fee rule",
+      "url": "https://matsne.gov.ge/ka/document/view/6791218",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "February amendment",
+      "url": "https://matsne.gov.ge/ka/document/view/6796896",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "March amendment",
+      "url": "https://matsne.gov.ge/ka/document/view/6813582",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "current Georgian Tax Code",
+      "url": "https://matsne.gov.ge/ka/document/view/1043717?publication=248",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "English translation",
+      "url": "https://matsne.gov.ge/en/document/view/1043717",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Revenue Service guidance",
+      "url": "https://voice.rs.ge/Default.aspx?id=4236",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "latest amendment",
+      "url": "https://matsne.gov.ge/ka/document/view/7030851",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NAPR's fee schedule",
+      "url": "https://napr.gov.ge/en/page/fees-and-terms",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TBC's expat page",
+      "url": "https://tbcbank.ge/en/for-expats",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bank of Georgia's non-resident page",
+      "url": "https://bankofgeorgia.ge/en/retail/non-resident",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "tourist insurance rule",
+      "url": "https://manage.matsne.gov.ge/ka/document/view/6728816",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ARDI WELCOMER",
+      "url": "https://welcomer.ardi.ge/en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Welcomer through Credo",
+      "url": "https://credobank.ge/en/products/insurance-welcomer",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GPI tourist cover",
+      "url": "https://www.gpih.ge/en/mandatory-tourist-insurance/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ARDI Vitamins",
+      "url": "https://ardi.ge/en/products/vitamini",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Georgian MFA baseline",
+      "url": "https://newyork.mfa.gov.ge/en/veterinary-control",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Georgian veterinary law",
+      "url": "https://matsne.gov.ge/ka/document/view/4367880",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Polish return guidance",
+      "url": "https://www.wetgiw.gov.pl/nadzor-weterynaryjny/podroz-ze-zwierzetami-towarzyszacymi-z-panstw-trzecich-do-polski/printpage",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Saburtalo",
+      "url": "https://www.home.ge/en/binebi/qiravdeba-binebi/for-rent-2-room-new-building-tbilisi-saburtalo-303621.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vake",
+      "url": "https://www.home.ge/en/binebi/qiravdeba-binebi/for-rent-2-room-new-building-tbilisi-vake-444502.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vera",
+      "url": "https://www.home.ge/binebi/qiravdeba-binebi/qiravdeba-bina-2-otakhiani-akhali-ashenebuli-tbilisi-vera-436791.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Rentown Vake example",
+      "url": "https://rentown.ge/listing/qiravdeba-2-otaxiani-bina-vake-100214?lang=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NBG display",
+      "url": "https://nbg.gov.ge/en/monetary-policy/currency",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_recurring": {
+      "label": "Tbilisi recurring allowance including conditional SBS only",
+      "value": 1471.45,
+      "unit": "EUR/month",
+      "display": "EUR 1,471.45"
+    },
+    "living_difference": {
+      "label": "Living-cost difference versus assumed Warsaw proxy, not actual savings",
+      "value": 502.03,
+      "unit": "EUR/month",
+      "display": "EUR 502.03"
+    },
+    "combined_cash": {
+      "label": "Arrival cash plus separate three-month reserve; additional fees excluded",
+      "value": 6701.71,
+      "unit": "EUR",
+      "display": "EUR 6,701.71"
+    },
+    "conditional_tax": {
+      "label": "Income-tax-only illustration if all receipts qualify for SBS",
+      "value": 45,
+      "unit": "EUR/month",
+      "display": "EUR 45.00"
+    },
+    "warsaw_proxy": {
+      "label": "Assumed Warsaw living costs before unknown tax/ZUS",
+      "value": 8480,
+      "unit": "PLN/month",
+      "display": "PLN 8,480"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned index.html, sources.md and independent-check.md read locally after package README and VOICE-GUIDE. Batch32 Taipei data/Markdown and check_i18n.py inspected for schema/voice only. No other source-run folder, network access, fresh source lookup, registration or contact.",
+    "originalResearchAccessLimitations": "Strict all-clean-session compliance was not met: automatic managed-browser discovery/fetch routes occurred. Later clean listing/FX/practical captures do not retroactively cure those exceptions. Preliminary unsupported bank tariffs, historical insurance offers and claimed NFA country-list inspection were withdrawn; they are not reinstated.",
+    "independentCheckDisposition": "Opening director correction receipt supersedes historical comparison-formula failure: final index uses total pre-move minus total post-move liabilities, not avoided minus continuing. Retains unrounded-input totals note. Original independent arithmetic reported 91 passes/0 failures; not claimed as a new author rerun. Personal eligibility, cross-border liabilities, bank KYC, insurance acceptance and NFA route details remain open.",
+    "layoutEvidenceLimit": "No current build, rendered HTML, browser, mobile, print or accessibility certification. Historical source-run checks do not certify this new Markdown."
+  },
+  "datePolicy": "Source-specific access dates retained as 2026-11-07 from the source register; listing/publication/effective dates are separate. Copy editing is not a source refresh; 2027 rules, fees, FX and offers require rechecking.",
+  "planningAssumptions": {
+    "profile": "Oksana, 31, Ukrainian backend contractor in Warsaw; one cat; one-year 2027 Tbilisi move. EUR 4,500/month treated as gross contractor receipts, not net pay.",
+    "recommendation": "Conditional move, not an automatic tax-saving strategy. Start with reversible accommodation and Saburtalo search; compare pet-accepting Vake. Resolve individual work/residence/activity, cross-border, insurance and cat gates first.",
+    "fx": {
+      "date": "2026-11-07",
+      "gelPerEUR": 2.8998,
+      "gelPerUSD": 2.5949,
+      "gelPerPLN": 0.65946,
+      "status": "Indicative NBG display retained from source, not bank execution, tax-accounting FX or 2027 forecast."
+    },
+    "budget": {
+      "tbilisiRentUSD": 700,
+      "tbilisiRentGEL": 1816.43,
+      "nonRentGEL": 2320,
+      "livingGEL": 4136.43,
+      "livingEUR": 1426.45,
+      "conditionalSBSMonthlyExactGEL": 130.491,
+      "conditionalSBSMonthlyEUR": 45,
+      "recurringExactGEL": 4266.921,
+      "recurringEUR": 1471.45,
+      "warsawMonthlyPLN": 8480,
+      "warsawExactGEL": 5592.2208,
+      "warsawEUR": 1928.48,
+      "livingDifferenceExactGEL": 1455.7908,
+      "livingDifferenceEUR": 502.03,
+      "annualDifferenceEUR": 6024.38,
+      "residualEUR": 3028.55,
+      "residualStatus": "Not net or disposable income; excluded liabilities unknown, not zero.",
+      "arrivalGEL": 6632.86,
+      "arrivalEUR": 2287.35,
+      "emergencyGEL": 12800.76,
+      "emergencyEUR": 4414.36,
+      "combinedCashGEL": 19433.62,
+      "combinedCashEUR": 6701.71,
+      "annualRecurringGEL": 51203.05,
+      "annualRecurringEUR": 17657.44,
+      "annualWarsawLivingGEL": 67106.65,
+      "annualWarsawLivingEUR": 23141.82,
+      "rounding": "Totals use unrounded inputs; displayed rounded rows may differ by a few cents.",
+      "status": "Every living/operating/moving allocation unconfirmed; not a market average or quote. Actual Warsaw spending unavailable.",
+      "comparisonFormula": "living-cost difference + total pre-move tax/social liabilities - total post-move tax/social liabilities - annualised incremental moving expense",
+      "exclusions": "Extra VAT, pensions, Polish/Ukrainian liabilities and client withholding unknown. No car, coworking, dependants, debt or holidays. Commission, IE/SBS/work/residence fees, translation, apostille, card and extra deposits additional. Deposit and emergency reserve liquidity, not annual expense; first rent not counted twice."
+    }
+  },
+  "uncertainties": [
+    "Actual Warsaw spending and Polish tax/ZUS; gross versus net income; Poland/Georgia/Ukraine residence, treaties, credits, reporting, FOP and temporary-protection consequences.",
+    "Contract independence, software versus consultancy/staff supply/employment, foreign business-recipient location and permanent/fixed-establishment implications.",
+    "Work-right exemption or permit, residence route, historic IT experience and remuneration, individual eligibility and 2027 rules; no automatic approval.",
+    "Foreign-applicant IE passport/address/translation requirements, SBS effective certificate, tax accounting/FX and reverse-charge forms/deadlines.",
+    "TBC/Bank of Georgia acceptance, compulsory KYC, business-use account, fees and conversion spreads unconfirmed.",
+    "Personalized full-duration health and accident insurance, exemptions, routine care, exclusions and underwriting; GEL 150 reserve is not a quote.",
+    "NFA current country list and Polish-origin/transit exemption, cat certificate window, parasite timing, titre itinerary, EU-return documentation, airline/carrier acceptance and landlord consent.",
+    "Dated rental asks, pet assertions, ownership and future availability unverified; USD lease exposes EUR income to currency risk.",
+    "Original managed-browser exceptions remain recorded; no new external refresh or current browser certification."
+  ],
+  "editingContract": "New assigned English Markdown, shared JSON and optional tbilisi author note only. No source-run/shared-script/inventory/build edits, network, publishing, contact or applications.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Ukrainian remote backend contractor moving from Warsaw to Tbilisi for one year with a cat, comparing lawful stay, contractor taxes and actual relocation cash flow.",
+  "localeReason": "English only: Ukrainian developer moving from Warsaw; no distinct Chinese-reader need established. Nationality, contract and personal eligibility remain specific.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

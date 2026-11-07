@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "22dffb46db8355f7fc3cc0e37f71738f60673525084a452e69b57c59dca5bb8a",
+  "sourceListLink": "../w7-penang-retirement-british-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "4f6883efedb527b0ab78d6e1876d2352323d6db29ab1dd7410943c77b970b895",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

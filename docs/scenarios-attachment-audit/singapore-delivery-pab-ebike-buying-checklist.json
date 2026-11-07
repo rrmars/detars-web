@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "ac9d801736abd67eb27bff580b1f91aa0458e17cf2e95bfbbedfbd9f5782d8e8",
+  "sourceListLink": "../w7-singapore-delivery-ebike-pab/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8889b2f571f18364b22be383ba8d4947047cf713f0a054318cfd29fd7b88936d",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "db57a2101251616fb947512ad9ee55cd4cf6c71c0deb064c0e75c72d62fd19ee",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
