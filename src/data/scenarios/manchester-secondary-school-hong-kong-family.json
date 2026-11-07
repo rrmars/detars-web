@@ -1,0 +1,555 @@
+{
+  "schemaVersion": 2,
+  "slug": "manchester-secondary-school-hong-kong-family",
+  "translationKey": "manchester-secondary-school-hong-kong-family",
+  "sources": [
+    {
+      "title": "N1 — DfE foreign-national/overseas admissions guidance — DfE overseas-admissions guidance",
+      "url": "https://www.gov.uk/guidance/schools-admissions-applications-from-overseas-children",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "N2 — BN(O) permissions and historical welcome evidence — BN(O) visa overview",
+      "url": "https://www.gov.uk/british-national-overseas-bno-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "T1 — Changing schools — Trafford changing-schools gateway",
+      "url": "https://www.trafford.gov.uk/schools-and-learning/starting-school-and-admissions/changing-schools",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S1 — Changing schools live schedule — Stockport administers transfers",
+      "url": "https://www.stockport.gov.uk/changing-schools-during-school-year",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S2 —2027/28 coordinated scheme (full12-page text read) — coordinated scheme",
+      "url": "https://assets.ctfassets.net/ii3xdrqc6nfw/2ohgNuN4neVzWT4PGl3Zo4/06869e370471a867cedc3d85c5e8bf2b/Coordinated_admissions_scheme_for_all_state_schools_in_the_Stockport_area__2027_to_2028.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S3 — community high schools: 2027/28 policy (full 10-page text read) — community-secondary policy",
+      "url": "https://assets.ctfassets.net/ii3xdrqc6nfw/7CbdHr3JccGM9UV6iJhnG9/a85a001431ea2a5622a3fad8f878fa1f/Secondary_school_determined_admission_arrangements_2027_to_2028.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "D02 — School Admissions Code 2021 — School Admissions Code",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1001050/School_admissions_code_2021.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "D03 — School Admission Appeals Code 2022 — Appeals Code",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1108077/School_Admission_Appeals_Code_2022.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "T2 — Secondary appeals overview — Trafford's appeals overview",
+      "url": "https://www.trafford.gov.uk/schools-and-learning/starting-school-and-admissions/school-admissions-appeals/secondary-school-admission-appeals",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "T3 — Which body administers appeals — appeal administration",
+      "url": "https://www.trafford.gov.uk/schools-and-learning/starting-school-and-admissions/school-admissions-appeals/secondary-school-admission-appeals/appeals-process",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S4 — council appeals page — Stockport's independent panel decision",
+      "url": "https://www.stockport.gov.uk/admission-appeals",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "N3 — DfE appeals advice — DfE advice for parents",
+      "url": "https://www.gov.uk/government/publications/admission-appeals-for-school-places/advice-for-parents-and-guardians-on-school-admission-appeals",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "A1 — Altrincham Grammar School for Boys live in-year page — live route",
+      "url": "https://www.agsb.co.uk/page/?pid=54&title=In+Year+Transfers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "A2 — AGSB2027 policy, full11pages read — policy",
+      "url": "https://www.agsb.co.uk/_site/data/files/admissions/policies/CAD8A6631FD7F89F287377CDD683464C.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G1 — Sale Grammar live in-year page — live route",
+      "url": "https://www.salegrammar.co.uk/6740/in-year-admissions",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G2 — Sale2027 policy, full10pages read — policy",
+      "url": "https://0e58658be539ee7325a0-220f04f871df648cf4a4d93a111e3366.ssl.cf3.rackcdn.com/sale/uploads/document/Admissions-Policy-2027-1.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R1 — Stretford Grammar live in-year page — live route",
+      "url": "https://www.stretfordgrammar.com/page/?pid=155",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R2 — Stretford2027 policy, full12pages read: IMPORTANT content discrepancy — policy",
+      "url": "https://www.stretfordgrammar.com/attachments/download.asp?file=2601&type=pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "U1 — Urmston live in-year guidance (whole article read) — live route",
+      "url": "https://www.urmstongrammar.org.uk/page/?pid=28&title=In-Year%26%238217%3B+Admissions+to+Year+7-11",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "U2 — Urmston2027 policy DOCX (entire XML text read by public HTTP) — policy",
+      "url": "https://www.urmstongrammar.org.uk/attachments/download.asp?file=1637&type=docx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "D01 — DfE accountability measures — DfE guidance",
+      "url": "https://www.gov.uk/government/publications/progress-8-school-performance-measure/secondary-accountability-measures-2025-guidance-for-maintained-secondary-schools-academies-and-free-schools",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Comparison identifiers and provenance — official dataset",
+      "url": "https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/bf138f04-daa2-4759-b950-937a17a4c675",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Comparison identifiers and provenance — CSV endpoint",
+      "url": "https://api.education.gov.uk/statistics/v1/data-sets/19e39901-a96c-be76-b9c2-6af54ae076d2/csv",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "D06 — Ofsted reporting framework — Ofsted report cards",
+      "url": "https://www.gov.uk/guidance/understanding-ofsted-report-cards-and-grades",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Inspection evidence (official Ofsted pages inspected) — June 29, 2022",
+      "url": "https://reports.ofsted.gov.uk/provider/23/136498",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Inspection evidence (official Ofsted pages inspected) — September 27, 2022",
+      "url": "https://reports.ofsted.gov.uk/provider/23/136458",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Latest report outcomes extracted directly from official PDFs — March 20, 2024–March 21, 2024",
+      "url": "https://files.ofsted.gov.uk/v1/file/50246375",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Latest report outcomes extracted directly from official PDFs — July 14, 2026",
+      "url": "https://files.ofsted.gov.uk/v1/file/50312798",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Latest report outcomes extracted directly from official PDFs — May 11, 2022–May 12, 2022",
+      "url": "https://files.ofsted.gov.uk/v1/file/50187923",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Latest report outcomes extracted directly from official PDFs — September 22, 2026",
+      "url": "https://files.ofsted.gov.uk/v1/file/50315660",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Latest report outcomes extracted directly from official PDFs — February 24, 2026",
+      "url": "https://files.ofsted.gov.uk/v1/file/50300271",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Inspection evidence (official Ofsted pages inspected) — May 7, 2025",
+      "url": "https://reports.ofsted.gov.uk/provider/23/137843",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sale Grammar — Chinese exam/taught status still unknown — Curriculum",
+      "url": "https://www.salegrammar.co.uk/169/curriculum",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sale Grammar — Chinese exam/taught status still unknown — French page",
+      "url": "https://www.salegrammar.co.uk/4954/french",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Altrincham Grammar School for Boys — strongest verified taught-Chinese evidence — Taught Chinese",
+      "url": "https://www.agsb.co.uk/page/?pid=336&title=KS4",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Altrincham Grammar School for Boys — strongest verified taught-Chinese evidence — September 2026 EAL policy",
+      "url": "https://www.agsb.co.uk/attachments/download.asp?file=381&type=pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Stretford Grammar — published French/Spanish options; Chinese/EAL specifics unknown — Options",
+      "url": "https://www.stretfordgrammar.com/page/?title=GCSE+Options&pid=474",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Urmston Grammar — French/German KS4; Chinese/EAL specifics unknown — Curriculum",
+      "url": "https://www.urmstongrammar.org.uk/page/?title=Our+Curriculum&pid=15",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wellington, Timperley — unusually explicit Cantonese/home-language route — First-language entry policy",
+      "url": "https://www.wellingtontrafford.co.uk/first-language-qualifications/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wellington, Timperley — unusually explicit Cantonese/home-language route — EAL information",
+      "url": "https://wellingtontrafford.co.uk/parents/eal-information/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Priestnall — French/Spanish options and verified trust EAL policy — 2026 options",
+      "url": "https://www.priestnallschool.org.uk/curriculum/year-9-options/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Priestnall — French/Spanish options and verified trust EAL policy — School policies",
+      "url": "https://www.priestnallschool.org.uk/school-information/policies-gdpr/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Kingsway — current school domain found; detailed Chinese/EAL unknown — Exam-board page",
+      "url": "https://thekingswayschool.com/information/exam-boards",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Cheadle Hulme High — KS4 options and verified trust EAL policy — 2026 KS4 options",
+      "url": "https://www.chhs.org.uk/curriculum/key-stage-4/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Cheadle Hulme High — KS4 options and verified trust EAL policy — School policies",
+      "url": "https://www.chhs.org.uk/school-information/policies-gdpr/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Priestnall + CHHS shared EAL source, actually read — Laurus secondary EAL policy",
+      "url": "https://cdn.realsmart.co.uk/thelaurustrust/wp-content/uploads/2026/07/LT-English-as-an-Additional-Language-Policy-Sec-0726.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "D05 — Pearson GCSE Chinese specification (primary exam board; not school-provision evidence) — Pearson Edexcel Chinese specification",
+      "url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Chinese/2017/specification-and-sample-assessments/specification-gcse2017-l12-chinese-issue5.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F01 — SGS fees, 2026/27 (primary school) — Fees",
+      "url": "https://stockportgrammar.co.uk/senior-school/admissions/fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F02 — SGS transfer admission — Application guidance",
+      "url": "https://stockportgrammar.co.uk/senior-school/admissions/apply/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F02 — SGS transfer admission — June 2026 policy",
+      "url": "https://stockportgrammar.co.uk/wp-content/uploads/2013/09/Admission-Policy-and-Procedures-2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F03 — SGS bursaries — Bursary policy",
+      "url": "https://stockportgrammar.co.uk/wp-content/uploads/2013/09/Bursaries-Policy-2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F04 — CHS fees, effective1September2026 — Fees",
+      "url": "https://www.cheadlehulmeschool.co.uk/admissions/fees-and-charges/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F05 — CHS entry — Entry",
+      "url": "https://www.cheadlehulmeschool.co.uk/admissions/senior-school-admissions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F06 — CHS financial assistance — Financial assistance",
+      "url": "https://www.cheadlehulmeschool.co.uk/admissions/financial-assistance/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F07 — MGS fees, 2026/27 — Fees",
+      "url": "https://www.mgs.org/admissions/fees-and-assistance",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F08–F09 — MGS late entry and funding — Late entry",
+      "url": "https://www.mgs.org/admissions/late-entry",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F08–F09 — MGS late entry and funding — FAQ year-group stages",
+      "url": "https://www.mgs.org/admissions/faqs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F10 — deposits and one-offs — SGS April 2026 terms",
+      "url": "https://stockportgrammar.co.uk/wp-content/uploads/2014/09/Terms-Conditions-April-2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Q01 — Express Tuition — Express Tuition",
+      "url": "https://www.expresstuition.org/courses-fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Q02 — Rainbow Seeds Cantonese — Rainbow Seeds Cantonese",
+      "url": "https://rainbowseedscantonese.com/en-gb/pages/childrens-private-cantonese-classes",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "sgs_annual_tuition_lunch": {
+      "label": "SGS 2026/27 tuition and lunch; other extras excluded",
+      "value": 19560,
+      "unit": "GBP/year",
+      "display": "£19,560"
+    },
+    "chs_illustrative_tuition_lunch": {
+      "label": "CHS 2026/27 tuition plus assumed 180 paid lunch days; not all-in",
+      "value": 19314,
+      "unit": "GBP/year illustrative",
+      "display": "£19,314"
+    },
+    "mgs_annual_tuition": {
+      "label": "MGS 2026/27 tuition only; meals and extras not fully costed",
+      "value": 19809,
+      "unit": "GBP/year",
+      "display": "£19,809"
+    },
+    "english_cantonese_scenario": {
+      "label": "From-price English plus annualised Cantonese; assumed schedules, extras unknown",
+      "value": 2181,
+      "unit": "GBP/year from",
+      "display": "£2,181"
+    },
+    "english_maths_cantonese_scenario": {
+      "label": "From-price English and maths plus annualised Cantonese; extras unknown",
+      "value": 3801,
+      "unit": "GBP/year from",
+      "display": "£3,801"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Completely read assigned index.html, sources.md including Appendices A/B, and independent-check.md locally. README/VOICE-GUIDE first; batch29 Nairobi data/English Markdown and check_i18n/content_utils used as structure/contract only. No external lookup, other run folder, or source refresh.",
+    "independentCheckDisposition": "Preserves all five remaining-issue groups and all detailed source conflicts. Earlier arithmetic/raw-CSV checks reported passing; source-register review is not universal external certification; additional reviewer stalled and was cancelled. No raw research CSV exists in assigned retained run, so not independently re-read here.",
+    "originalResearchAccessLimitations": "Automatic unsigned managed-browser fallback and browser-backed search freshness not verified. Later direct stateless HTTP corroborated Stockport transfer dates; this does not cure historical clean-session provenance.",
+    "layoutEvidenceLimit": "Assigned independent-check reports historical source HTML layout at desktop/mobile sizes; no new locale rendering or new-page visual certification in this authoring-only task."
+  },
+  "datePolicy": "Every source entry expressly read November 7, 2026 according to assigned ledger. Local rewriting does not refresh dates. Policy, data, inspection and effective dates remain distinct. No publication date invented.",
+  "planningAssumptions": {
+    "profile": "Hong Kong BN(O) family near Stockport/Trafford border; boy currently Year 8, age 13, strong maths/developing academic English; exact birthday/address missing.",
+    "recommendedEntry": "Year 9 September 2027",
+    "normalYear10": "September 2028",
+    "normalGCSE": "summer 2029",
+    "strategy": "At least two practical non-selective possibilities; grammar routes conditional on tests/eligibility/vacancy; independent full-fee affordability separate. Keep current place/attendance until agreed transfer.",
+    "stockportWindow": {
+      "start": "2027-06-21",
+      "end": "2027-07-02",
+      "status": "Published in retained source; recheck; not Trafford deadline or new normal intake"
+    },
+    "agsbPolicyCutoff": "May 5; target-year implication from September 2027 policy, not individual test invitation",
+    "tutoring": {
+      "expressGBPperHourFrom": 45,
+      "assumedWeeks": 36,
+      "oneSubjectAnnualFrom": 1620,
+      "twoSubjectsAnnualFrom": 3240,
+      "twoSubjectsHours": 72,
+      "cantoneseGBPperHalfHour": 17,
+      "lessonsPerTerm": 11,
+      "assumedEqualTerms": 3,
+      "annualHalfHours": 33,
+      "annualHours": 16.5,
+      "annualGBP": 561,
+      "combinedEnglishFrom": 2181,
+      "combinedEnglishMathsFrom": 3801,
+      "status": "Online primary-provider prices, not averages or personal suitability/availability quotes; no invented exam-centre fee/VAT surcharge."
+    }
+  },
+  "schoolComparison": {
+    "latestAttainmentYear": "2025/26",
+    "latestAttainmentStatus": "provisional",
+    "pairedYear": "2023/24",
+    "pairedStatus": "final",
+    "progressUnavailableYears": [
+      "2024/25",
+      "2025/26"
+    ],
+    "matching": "URN and breakdown_topic=Total as described in assigned register and independent check; unrelated Somerset Wellington excluded. Not a new CSV download.",
+    "schools": [
+      {
+        "school": "Sale Grammar",
+        "urn": 136498,
+        "selective": true,
+        "latestA8": 75.5,
+        "pairedA8": 75.5,
+        "pairedP8": 0.8,
+        "progress95PercentCI": [
+          0.59,
+          1.01
+        ]
+      },
+      {
+        "school": "Altrincham Grammar School for Boys",
+        "urn": 136458,
+        "selective": true,
+        "latestA8": 79.1,
+        "pairedA8": 79.9,
+        "pairedP8": 1.32,
+        "progress95PercentCI": [
+          1.09,
+          1.55
+        ]
+      },
+      {
+        "school": "Stretford Grammar",
+        "urn": 106368,
+        "selective": true,
+        "latestA8": 75.5,
+        "pairedA8": 73.8,
+        "pairedP8": 0.8,
+        "progress95PercentCI": [
+          0.58,
+          1.02
+        ]
+      },
+      {
+        "school": "Urmston Grammar",
+        "urn": 136297,
+        "selective": true,
+        "latestA8": 75.6,
+        "pairedA8": 75.9,
+        "pairedP8": 0.88,
+        "progress95PercentCI": [
+          0.64,
+          1.11
+        ]
+      },
+      {
+        "school": "Wellington, Timperley",
+        "urn": 136377,
+        "selective": false,
+        "latestA8": 55.7,
+        "pairedA8": 56.3,
+        "pairedP8": 0.56,
+        "progress95PercentCI": [
+          0.38,
+          0.74
+        ]
+      },
+      {
+        "school": "Priestnall",
+        "urn": 149936,
+        "selective": false,
+        "latestA8": 55.8,
+        "pairedA8": 56.8,
+        "pairedP8": 0.4,
+        "progress95PercentCI": [
+          0.23,
+          0.58
+        ]
+      },
+      {
+        "school": "The Kingsway School",
+        "urn": 142509,
+        "selective": false,
+        "latestA8": 48.4,
+        "pairedA8": 45,
+        "pairedP8": -0.26,
+        "progress95PercentCI": [
+          -0.44,
+          -0.08
+        ]
+      },
+      {
+        "school": "Cheadle Hulme High",
+        "urn": 137843,
+        "selective": false,
+        "latestA8": 59.3,
+        "pairedA8": 59.7,
+        "pairedP8": 0.87,
+        "progress95PercentCI": [
+          0.69,
+          1.04
+        ]
+      }
+    ]
+  },
+  "independentFees": {
+    "year": "2026/27",
+    "vat": "Published VAT-inclusive amounts; SGS rounded VAT input preserved; do not add VAT again.",
+    "SGS": {
+      "termTuitionBeforeVAT": 5183,
+      "termVAT": 1037,
+      "termTuitionInclusive": 6220,
+      "annualTuition": 18660,
+      "termLunch": 300,
+      "annualLunch": 900,
+      "annualTuitionLunch": 19560,
+      "newBursaryEntryPoints": "11+/16+, not Year 9/10"
+    },
+    "CHS": {
+      "termTuitionInclusive": 6126,
+      "annualTuition": 18378,
+      "lunchPerDay": 5.2,
+      "assumedPaidLunchDays": 180,
+      "illustrativeAnnualLunch": 936,
+      "illustrativeAnnualTuitionLunch": 19314,
+      "newBursaryEntryPoints": "Year 7/12, not other/mid-year entry"
+    },
+    "MGS": {
+      "termTuitionInclusive": 6603,
+      "annualTuition": 19809,
+      "seniorLunchPrice": "unknown",
+      "lateEntryBursary": "none; current full/exceptional late entry only"
+    },
+    "depositAmounts": "unknown, not zero; separately classified up-front cash, not recurring consumption; no double-count on credit"
+  },
+  "uncertainties": [
+    "Exact birthday/current placement, full postcode/current residence evidence, current school, dissatisfaction/safety needs, commute tolerance and sustainable family budget remain missing.",
+    "No future vacancies, waiting-list rank, test invitation or admission probability verified. September 2028 policies/windows and individual out-of-age decisions unknown; qualification is not an offer.",
+    "AGSB current-versus-destination assessment year label unresolved. Sale Year 9/10 subjects/pass score unknown, 2027 document retains 2026/27 wording and governors-versus-headteacher out-of-age authority differs. Stretford 2027 policy adds MFL absent from live page; language/threshold/Chinese acceptability unknown.",
+    "Urmston subjects/marks/dates and annual renewal unclear; once-per-academic-year policy versus 12-month live wording, school-first versus portal-first routing and UK-resident assessment versus national overseas-application guidance unresolved. No proved legal breach. Normal-intake quotas do not establish transfer quotas.",
+    "Individual EAL staffing/support delivery, current GCSE combinations/boards/early course starts and catch-up unknown. Kingsway reliable subject table incomplete; six schools lack verified Chinese-entry arrangements. Policy and general inclusion grades are not personal delivery.",
+    "AGSB taught AQA Chinese is not verified Cantonese teaching/entry; its Chinese page specification hyperlink points to German. Wellington is family-funded/prepared exam-entry support, not teaching; October 16, 2026 is past-cycle only; generic A-level wording conflicts with stated exclusion. Stretford options page/booklet dates inconsistent.",
+    "Continuing Pearson specification for summer 2029, all papers, Cantonese speaking examiner, traditional-character/heritage literacy suitability, school willingness, exam-centre/community-class availability and complete charges unknown.",
+    "2027/28 and 2028/29 fees, future increases, registration/deposit amounts/CHS-MGS terms, recurring extras and tutoring quotes/availability/suitability unverified. Full-fee baseline only; all three published rules do not support new Year 9/10 admissions bursary. Individual eligibility beyond those rules unresolved.",
+    "Historical automatic managed-browser fallbacks and browser-backed searches were not certified fresh; no sign-in/imported cached credentials reported. Later stateless HTTP corroboration of Stockport date does not retroactively certify old sessions.",
+    "Independent-check records monetary arithmetic and raw DfE comparisons passing, but much claim review was register-based, not universal external re-verification. Additional reviewer stalled/cancelled with no completed verdict. Historical local layout report is not new-page layout evidence.",
+    "DfE 2025/26 A8 provisional, 2023/24 A8/P8 final; no 2025/2026 P8, not zero. Ofsted old/new frameworks incomparable; no ranking or causal/selective advantage inferred. No schools contacted, forms/applications/registrations submitted, accounts signed into or new research performed."
+  ],
+  "editingContract": "Batch30 authoring-only: new data JSON, en/zh Markdown and checks/batch30-<slug>-author-note.md. No build, shared/inventory/README edits, source changes, external research or publication. Footer marker delegates unpublished source-ledger sentence to renderer.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "Hong Kong BN(O) families already near south Manchester comparing secondary transfers, academic-English support and Cantonese/Chinese continuity.",
+    "zh": "已在南曼彻斯特附近居住、比较中学转学、学术英语支持及粤语中文延续的香港 BN(O) 家庭。"
+  },
+  "localeReason": "English and Chinese serve the assigned Hong Kong family and Chinese-speaking parents making the same decision; eligibility is unchanged. Traditional Chinese would better fit many Hong Kong readers, but this package has only a Simplified Chinese zh locale, a limitation explicitly acknowledged rather than relabelled zh-Hant.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

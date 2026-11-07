@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 2,
+  "slug": "melbourne-aged-care-mandarin-speaking-mother",
+  "translationKey": "melbourne-aged-care-mandarin-speaking-mother",
+  "sources": [
+    {
+      "title": "My Aged Care assessment entry point — A1",
+      "url": "https://www.myagedcare.gov.au/how-apply-assessment",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Single Assessment System — A2",
+      "url": "https://www.health.gov.au/our-work/single-assessment-system",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Assessment preparation — A3",
+      "url": "https://www.myagedcare.gov.au/assessment/prepare-your-assessment",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Assessment outcome — A4",
+      "url": "https://www.myagedcare.gov.au/receiving-your-assessment-outcome",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Residential means assessments — F3",
+      "url": "https://www.myagedcare.gov.au/means-assessments-residential-aged-care",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Care fee and accommodation regimes — F4",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/charging/fee-and-accommodation-arrangements",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Residential fee schedule effective September 20, 2026 — F1",
+      "url": "https://www.health.gov.au/sites/default/files/2026-09/schedule_of_fees_and_charges_for_residential_care_20_september_2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Basic daily fee pension basis — F6 additional primary source",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/charging/basic-daily-fee",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Means-tested fees and caps — F5",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/charging/means-tested-fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Contributions in residential care — F6",
+      "url": "https://www.health.gov.au/resources/publications/guide-to-aged-care-law/chapter-4-funding-aged-care-services/contributions-in-residential-care",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RAD/RAC retention — F8",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/charging/rad-and-rac-retention",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DAP indexation — F9",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/charging/dap-indexation?language=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Accommodation costs and payment choices — F7",
+      "url": "https://www.myagedcare.gov.au/understanding-aged-care-home-accommodation-costs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Aged-care means assessment corroboration — F3",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/charging/means-assessment",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Services Australia real estate assets — P3",
+      "url": "https://www.servicesaustralia.gov.au/real-estate-assets?context=22526",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DSS care-situation home exemption — U2, outside original source hierarchy",
+      "url": "https://guides.dss.gov.au/social-security-guide/4/6/3/70",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "New-regime residential fee scenarios — F2",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/charging/fees/scenarios2025?language=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Services Australia deeming — P2",
+      "url": "https://www.servicesaustralia.gov.au/deeming?context=22526",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Age Pension payment rates — P1",
+      "url": "https://www.servicesaustralia.gov.au/how-much-age-pension-you-can-get?context=22526",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pension Supplement rates — P4",
+      "url": "https://www.servicesaustralia.gov.au/how-much-pension-supplement-you-can-get?context=22321",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DVA assessable income — U1, conditional under original hierarchy",
+      "url": "https://clik.dva.gov.au/compensation-and-support-reference-library/aged-care-means-testing/4-aged-care-means-testing/43-what-total-assessable-income",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Age Pension assets test — P3",
+      "url": "https://www.servicesaustralia.gov.au/assets-test-for-age-pension?context=22526",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "October 2026 government Star Ratings extract — H5",
+      "url": "https://health.gov.au/resources/publications/star-ratings-quarterly-data-extract-october-2026?language=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Uniting AgeWell Box Hill provider — H1",
+      "url": "https://www.unitingagewell.org/location/box-hill-community/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Uniting AgeWell official rooms — H1",
+      "url": "https://www.myagedcare.gov.au/find-a-provider/search/c1vbwkwml-uniting-agewell-limited/aged-care-homes/uniting-agewell-box-hill-20wv4xl9d/rooms-and-cost",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Campbell Place provider room table — H2",
+      "url": "https://www.australianunity.com.au/assisted-living/aged-care/our-residences/victoria/campbell-place",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Box Hill Views provider — H3",
+      "url": "https://www.opalhealthcare.com.au/residential-aged-care/box-hill-views",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Regis Blackburn provider rooms — H4",
+      "url": "https://www.regis.com.au/residence/regis-blackburn/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government Star Ratings components — H6",
+      "url": "https://www.health.gov.au/our-work/star-ratings-for-residential-aged-care/how-star-ratings-works",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "basic_daily_fee": {
+      "label": "Maximum basic daily fee effective September 20, 2026",
+      "value": 68.93,
+      "unit": "AUD/day",
+      "display": "$68.93"
+    },
+    "agreement_mpir_percent": {
+      "label": "MPIR for October–December 2026 room-price agreements, not 2027 forecast",
+      "value": 8.51,
+      "unit": "percent",
+      "display": "8.51%"
+    },
+    "nccc_lifetime_cap": {
+      "label": "Current indexed NCCC dollar cap, also subject to four payment years",
+      "value": 140652.8,
+      "unit": "AUD",
+      "display": "$140,652.80"
+    },
+    "keep_home_all_dap_cash_bill": {
+      "label": "Illustrative initial 30-day provider cash bill, keep home/all DAP, conditional zero NCCC",
+      "value": 6929.1,
+      "unit": "AUD/30 days",
+      "display": "$6,929.10"
+    },
+    "keep_home_partial_rad_cash_bill": {
+      "label": "Illustrative initial 30-day provider cash bill, 100,000 partial RAD, conditional zero NCCC",
+      "value": 6229.8,
+      "unit": "AUD/30 days",
+      "display": "$6,229.80"
+    },
+    "sell_home_full_rad_cash_bill": {
+      "label": "Illustrative initial 30-day provider cash bill after full RAD received, excludes retention loss and pension",
+      "value": 6015.9,
+      "unit": "AUD/30 days",
+      "display": "$6,015.90"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read assigned index.html, sources.md and independent-check.md completely, then full retained independent-arithmetic-results.json and fee-schedule TXT. No new external lookup or source refresh and no other source-run folder. README/voice first, batch29 Nairobi JSON/English Markdown as structure only. Registry URLs all occur verbatim in assigned source ledger; ledger dates all reads November 7, 2026. Local copying does not refresh them.",
+    "originalResearchAccessLimitations": "Original whole run was not clean-session-only. Early public fetches/accordion and search fallback used existing managed profiles of unestablished storage state. Later empty-cookie/origin incognito checks and complete PDF/workbook downloads do not erase that exception. Current author did not inspect browser profiles or replay historical activity. Original no-contact/no-account statements are retained declarations, not a complete independently audited activity log.",
+    "independentCheckDisposition": "Retained independent results: 52 monetary checks pass plus four exact source-workbook rating/name row assertions. Input index/source hashes agree with current bytes. Previously missing AgeWell/Regis evidence payloads resolved by recovered original output in continuation; not open. U1/U2 hierarchy, original session exceptions and personal/provider facts remain open. Current author reads results, not a claim of rerunning original file-writing script.",
+    "layoutEvidenceLimit": "Source review records director layout sign-off and says reviewer did not duplicate pixel review. No new-page build/render/browser check in this authoring shard; no visual certification claimed."
+  },
+  "datePolicy": "Original source ledger explicitly dates reads November 7, 2026; retain that date, distinguish publication/effective dates. No invented publication date or 2027 MPIR. Fee schedule September 20, 2026; deeming threshold July 1, 2026. MPIR October 1–December 31, 2026 fixed at room-price agreement, DAP separately indexed. Maintenance window and family timeline are explicitly dated, not enduring current claims.",
+  "recommendation": "Secure safe care first; start needs/financial assessments together, retain home temporarily and use DAP as a bridge. Seek appropriately licensed specialist aged-care financial advice before sale, rent, borrowing or large RAD. Do not force unsafe waiting, an unsuitable placement or distressed sale.",
+  "planningAssumptions": {
+    "profile": "Daniel's 82-year-old widowed Australian-citizen Mandarin-speaking mother on full pension; Glen Waverley/Box Hill care preferences.",
+    "targetMoveDate": "2027-02-07",
+    "targetStatus": "Family goal, not placement or assessment guarantee",
+    "currency": "AUD",
+    "homeValue": 1300000,
+    "startingCash": 180000,
+    "illustrativeRoomPrice": 600000,
+    "partialRAD": 100000,
+    "budgetPeriodDays": 30,
+    "feeRateEffectiveDate": "2026-09-20",
+    "mpirAgreementWindow": [
+      "2026-10-01",
+      "2026-12-31"
+    ],
+    "mpirPercent": 8.51,
+    "retentionPercentPerYear": 2,
+    "retentionMaximumYears": 5,
+    "retainedHomeAssetCap": 219858.4,
+    "retainedAssessableAssets": 399858.4,
+    "saleAssessableAssetsIncludingRAD": 1480000,
+    "conditionalAssessablePensionAnnual": 30578.6,
+    "conditionalZeroNCCC": "Depends on minimum pension supplement/energy exclusions not established within original specified source hierarchy; actual Services Australia fee advice needed.",
+    "allDAPWholePensionSensitivity": {
+      "extraNCCCPerDay": 1.57,
+      "extraNCCCPer30Days": 47.1
+    },
+    "scenarioRows": [
+      {
+        "choice": "Keep vacant, all DAP",
+        "radCapital": 0,
+        "cashRemaining": 180000,
+        "basic30": 2067.9,
+        "hotelling30": 664.5,
+        "nccc30": 0,
+        "ncccStatus": "conditional",
+        "dapPerDay": 139.89,
+        "dap30": 4196.7,
+        "cashBill30": 6929.1,
+        "initialRetention30": 0,
+        "cashPlusPrincipalLoss30": 6929.1,
+        "cashShortfallAgainstFullPension30": 4276.89
+      },
+      {
+        "choice": "Keep vacant, partial RAD plus DAP",
+        "radCapital": 100000,
+        "cashRemaining": 80000,
+        "basic30": 2067.9,
+        "hotelling30": 664.5,
+        "nccc30": 0,
+        "ncccStatus": "conditional",
+        "dapPerDay": 116.58,
+        "dap30": 3497.4,
+        "cashBill30": 6229.8,
+        "initialRetention30": 164.4,
+        "cashPlusPrincipalLoss30": 6394.2,
+        "cashShortfallAgainstFullPension30": 3577.59
+      },
+      {
+        "choice": "Sell, full RAD received",
+        "radCapital": 600000,
+        "cashRemaining": 880000,
+        "basic30": 2067.9,
+        "hotelling30": 664.5,
+        "nccc30": 3283.5,
+        "ncccStatus": "maximum under assumptions regardless of pension exclusion",
+        "dapPerDay": 0,
+        "dap30": 0,
+        "cashBill30": 6015.9,
+        "initialRetention30": 986.4,
+        "cashPlusPrincipalLoss30": 7002.3,
+        "pension": "Reassessment required; do not assume full pension or assert exact entitlement"
+      }
+    ],
+    "rounding": "Means annual /364; DAP/retention /365. Accommodation/retention daily cents before multiplying days. First retention assumes balance unchanged until deduction; subsequent amounts fall, timing can differ. No forced retention-only RAD top-up.",
+    "otherAssumptions": "Sole debt-free ownership, vacant retained home, no protected occupant, no other assets/income, contents amounts, grandfathering or prior cap credits. Disclose real facts. Sale before costs/tax. No assumed rent, investment cash return, growth, loan or exact post-sale pension.",
+    "excludedCosts": "Extras, medication/personal spending, home rates/insurance/maintenance, sale/letting expenses, tax, loan costs, interim DAP before RAD receipt, future indices and wealth/cap changes."
+  },
+  "shortlist": [
+    {
+      "name": "Uniting AgeWell Box Hill",
+      "octoberOverallRating": 4,
+      "ratingScale": 5,
+      "liveRatingUpdate": "2026-10-11",
+      "rooms": [
+        {
+          "type": "Superior single ensuite",
+          "rad": 675000,
+          "dapPerDay": 157.38
+        },
+        {
+          "type": "Premium single ensuite",
+          "rad": 725000,
+          "dapPerDay": 169.03
+        }
+      ],
+      "languageStatus": "Indexed provider English/Mandarin services/resources; not verified shift staff. First language-fit candidate only."
+    },
+    {
+      "name": "Campbell Place",
+      "octoberOverallRating": 4,
+      "ratingScale": 5,
+      "rooms": [
+        {
+          "type": "Standard First Floor single private ensuite",
+          "rad": 766000,
+          "dapPerDay": 178.59
+        },
+        {
+          "type": "Standard Ground Floor single private ensuite",
+          "rad": 789000,
+          "dapPerDay": 183.96
+        },
+        {
+          "type": "Suite single private ensuite/lounge",
+          "rad": 1125000,
+          "dapPerDay": 262.29
+        }
+      ],
+      "languageStatus": "Mandarin provision unestablished; multi-faith room not language evidence."
+    },
+    {
+      "name": "Box Hill Views Care Community",
+      "formerName": "BlueCross Box Hill",
+      "octoberOverallRating": 3,
+      "ratingScale": 5,
+      "rooms": [
+        {
+          "type": "Superior single",
+          "rad": 758000,
+          "dapPerDay": 176.73
+        },
+        {
+          "type": "Deluxe single",
+          "rad": 1400000,
+          "dapPerDay": 326.41
+        },
+        {
+          "type": "Deluxe Companion two beds, not single",
+          "rad": 725000,
+          "dapPerDay": 169.03
+        }
+      ],
+      "languageStatus": "Cultural events not verified Mandarin clinical care."
+    },
+    {
+      "name": "Regis Blackburn",
+      "octoberOverallRating": 4,
+      "ratingScale": 5,
+      "rooms": [
+        {
+          "type": "Double Select shared",
+          "rad": 450000,
+          "dapPerDay": 104.92
+        },
+        {
+          "type": "Private Select single ensuite",
+          "rad": 789686,
+          "dapPerDay": 184.12
+        },
+        {
+          "type": "Suite single ensuite",
+          "rad": 1031629,
+          "dapPerDay": 240.53
+        }
+      ],
+      "languageStatus": "Auslan/tactile Auslan and Deaf/deafblind support do not establish Mandarin provision."
+    }
+  ],
+  "uncertainties": [
+    "U1 supplement exclusions remain conditional under original source hierarchy; keep-home zero NCCC not personal advice. U2 exact two-year home-exemption dates also need Services Australia confirmation.",
+    "Original whole-run clean-session condition not fully met. Later clean-context reads do not retrospectively cure early existing-profile use; historical no-contact/account declarations not independently activity-audited here.",
+    "Fee regime/HCP protection, prior care/cap payments, care approval, capacity/authority, ownership/debt/protected occupants, other assets/contents, supplement entitlement and actual pension/fee assessment unknown.",
+    "Actual room offer, agreement-date MPIR, admission fees, indexation, optional extras, vacancy/wait and staff Mandarin by shift unconfirmed with every home. Language advertising is weaker than roster evidence; 600,000 illustration not shortlisted single-room quote.",
+    "October government ratings snapshot is not November live verification for every home. No rent, investment return or exact sale pension invented; transaction/tax/property/personal costs omitted from examples require advice."
+  ],
+  "editingContract": "Batch30 new JSON/en/zh Markdown and this slug's author note only. No build, inventory, README, existing/shared code, source-run, website repository or publication changes. Director owns later integration and link-free unpublished-source footer rendering.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Mandarin-speaking older Melbourne residents and their Chinese- or English-speaking families comparing safe residential care around Box Hill/Glen Waverley and conditional Australian care/pension costs.",
+  "localeReason": "English and Chinese: the mother speaks Mandarin and her Chinese-speaking family must understand the same safety, language, fee and housing decisions. Chinese does not change the Australian-citizen pension/means-test profile or grant family legal authority; Simplified Chinese follows the available locale.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "d2411a96dd3edd7779c7f2c48bf21e0925b27136d632c369120858f0102428a7",
+  "sourceListLink": "../w7-lisbon-first-apartment-brazilian-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "1afa39e4e19af8e15351d9f3dc27a854387611f8f2b6e90cc72ba85bbf8b0911",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

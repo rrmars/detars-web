@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "acff283eb7fe3e2ac9428485b948a55507c69e2a95c87ac1831dc38fb8b83955",
+  "sourceListLink": "../w7-melbourne-aged-care-mother/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "3b2c3f4b8c8f9c6ddea64eea8678d813b264d20cdac8d43b848457e51aab4a02",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "065db996bffc93cee4d02df6108c46678add62e2a91b8804de61052808f4a17f",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 2,
+  "slug": "lisbon-first-apartment-brazilian-couple",
+  "translationKey": "lisbon-first-apartment-brazilian-couple",
+  "sources": [
+    {
+      "title": "creditworthiness assessment",
+      "url": "https://clientebancario.bportugal.pt/en/creditworthiness-assessment",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "public-guarantee FAQ",
+      "url": "https://clientebancario.bportugal.pt/pt-pt/perguntas-frequentes?combine=garantia+publica",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BPI’s eligibility explanation",
+      "url": "https://www.bancobpi.pt/ajuda/credito/credito-habitacao/quem-pode-pedir-credito-habitacao",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Millennium bcp",
+      "url": "https://www.millenniumbcp.pt/credito/credito-habitacao",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Santander",
+      "url": "https://www.santander.pt/credito-habitacao",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bankinter",
+      "url": "https://www.bankinter.pt/credito-habitacao/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bankinter’s document checklist",
+      "url": "https://www.bankinter.pt/credito-habitacao/perguntas-frequentes/qual-a-documentacao-necessaria-para-pedir-um-credito-habitacao-",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bison’s older checklist",
+      "url": "https://www.bisonbank.com/wp-content/uploads/2024/05/PT_Documentacao-Credito-Habitacao.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AT’s enacted 2026 practical tables",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_40129_2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CIMT article 9",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt9.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "article 17",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt17.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government youth-relief FAQ",
+      "url": "https://portugal.gov.pt/gc24/comunicacao/noticias/perguntas-mais-frequentes-sobre-a-isencao-de-imt-e-is",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AT’s exemption FAQ",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/pages/faqs-00001.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CIS article 7-A",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7a.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "stamp-duty schedule",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Casa Pronta’s standard tariff",
+      "url": "https://justica.gov.pt/Servicos/Balcao-Casa-Pronta",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "youth registration reduction",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-d-2024-874170160",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "current CIRS article 16",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "€290,000 / 55 m²",
+      "url": "https://www.idealista.pt/en/imovel/35198581/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "INE’s Webinq release page",
+      "url": "https://webinq.ine.pt/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Santander’s general pre-contract disclosure",
+      "url": "https://www.santander.pt/pdfs/particulares/credito-habitacao/CH_Informacao_Pre-Contratual_Geral.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CIMT article 11",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt11.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 34944752",
+      "url": "https://www.idealista.pt/en/imovel/34944752/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35415037",
+      "url": "https://www.idealista.pt/en/imovel/35415037/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35428726",
+      "url": "https://www.idealista.pt/en/imovel/35428726/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35102976",
+      "url": "https://www.idealista.pt/en/imovel/35102976/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35023824",
+      "url": "https://www.idealista.pt/en/imovel/35023824/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35399009",
+      "url": "https://www.idealista.pt/en/imovel/35399009/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 34939057",
+      "url": "https://www.idealista.pt/en/imovel/34939057/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35348854",
+      "url": "https://www.idealista.pt/en/imovel/35348854/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 34752104",
+      "url": "https://www.idealista.pt/en/imovel/34752104/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35388755",
+      "url": "https://www.idealista.pt/en/imovel/35388755/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35369004",
+      "url": "https://www.idealista.pt/en/imovel/35369004/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Listing 35363858",
+      "url": "https://www.idealista.pt/en/imovel/35363858/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "conditional_search_floor": {
+      "label": "Conditional search floor, not approval",
+      "value": 270000,
+      "unit": "EUR",
+      "display": "€270,000"
+    },
+    "conditional_search_ceiling": {
+      "label": "Conditional search ceiling, subject to accepted net income and positive stressed budget",
+      "value": 300000,
+      "unit": "EUR",
+      "display": "€300,000"
+    },
+    "protected_emergency_reserve": {
+      "label": "Untouched emergency reserve, excluding purchase and renovation costs",
+      "value": 15000,
+      "unit": "EUR",
+      "display": "€15,000"
+    },
+    "model_financing_ltv": {
+      "label": "Illustrative financing; lower levels may work, not an entitlement",
+      "value": 90,
+      "unit": "percent",
+      "display": "90%"
+    },
+    "income_gate_scenario": {
+      "label": "Approximate accepted net-income gate, plus positive stressed budget; not net-pay estimate",
+      "value": 3800,
+      "unit": "EUR/month",
+      "display": "€3,800"
+    },
+    "youth_full_relief_limit": {
+      "label": "2026 mainland full youth acquisition-relief ceiling; not a 2027 promise",
+      "value": 330539,
+      "unit": "EUR",
+      "display": "€330,539"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned index.html, sources.md and independent-check.md read locally. No web research or re-access. README and voice guide read first; batch29 Nairobi files inspected for structure only.",
+    "originalResearchAccessLimitations": "Original web_fetch used persistent managed DeTars browser fallbacks for some BdP, Idealista and DRE sources; search diagnostics included browser/plain-Chrome routes. No intentionally supplied/imported credentials is not a cookie-free attestation. Clean-session provenance remains unproven; fresh local layout contexts do not cure historical source access.",
+    "independentCheckDisposition": "Final director close-out reports 146/146 numerical assertions on source HTML with hash 32cf3c1803bd83bd6d5373eb8e65009ae88e7873c24a36fd790bf482ecff19e0; R1–R3 repaired. Historical audit only, not a new source verification or legal/financial clearance.",
+    "layoutEvidenceLimit": "Assigned independent-check reports sampled final source-page desktop/mobile checks; no new guide build/render or screenshot review in this authoring pass."
+  },
+  "datePolicy": "Every cited source read November 7, 2026 according to the assigned ledger. Relative listing update ages remain relative to that date. Editing is not source refresh; 2027 rates, law, quotes, availability and guarantee extension not assumed.",
+  "planningAssumptions": {
+    "profile": "Brazilian resident couple in early 30s, Lisbon since 2024, residence permits; T2 permanent home by late 2027.",
+    "savingsEUR": 70000,
+    "salaryGrossMonthlyEUR": 3600,
+    "salaryPaymentsAlternatives": [
+      12,
+      14
+    ],
+    "freelanceMonthlyReceiptsEUR": 2000,
+    "acceptedNetScenariosEUR": [
+      3200,
+      3800,
+      4400
+    ],
+    "existingMonthlyDebtEUR": 0,
+    "illustrativeLTVPercent": 90,
+    "alternativeLTVPercent": 80,
+    "loanYears": 35,
+    "baseTANPercent": 4,
+    "stressTANPercent": 5.5,
+    "extraStressTANPercent": 6,
+    "reserveEUR": 15000,
+    "ownerCostsMonthlyEUR": {
+      "lifeInsurance": 60,
+      "homeInsurance": 20,
+      "condominium": 60,
+      "IMIReserve": 40,
+      "maintenance": 70
+    },
+    "otherLivingMonthlyEUR": 1800,
+    "otherClosingCostsEUR": 3000,
+    "legalAllowanceEUR": 1000,
+    "closingContingencyEUR": 551.2,
+    "taxAssumptions": "2026 resident whole-property HPP, VPT no higher than price; both youth-qualified only where specified; no future savings.",
+    "decisionGate": "€270,000–€300,000, preferably below €290,000, Almada/Amadora first; subject to accepted net income around €3,800 or more and a positive stressed budget, negligible existing debt, actual financing/appraisal and protected €15,000 reserve. At €3,200 lower price/expenses or wait.",
+    "assumptionStatus": "All net-income, owner/living cost, legal/contingency and duration figures are planning assumptions, not verified personal earnings, quotes or assessed liabilities."
+  },
+  "uncertainties": [
+    "Personal accepted net income, salary normalisation, freelance recognition/history, expenses, debt and permit policy unknown.",
+    "Youth age, tax residence, IRS dependency, Brazilian/Portuguese rights and inherited-estate classification, deed shares, VPT and whole-property use require case-specific confirmation.",
+    "45% dedicated BdP page conflicts with 50% guarantee FAQ; stricter figure used; complete stress/mixed-rate/retirement method unresolved.",
+    "No settled 2027 taxes, rate offer, availability, price fall or public-guarantee extension assumed.",
+    "Seven detail pages and five main-table cards; extra investor-labelled Arroios card has no confirmed vacant possession. Card areas, absolute dates, condition, use, title and availability incomplete; Almada €269,000 is stale.",
+    "INE Q2 2026 broad transaction release is not T2/parish data; underlying xportal returned 502, detailed methodology and Amadora/Almada values not read.",
+    "Actual fee package, insurance, renovations, moving and process times require personal quotes; avoid double-counting integrated conveyance and CPCV equity.",
+    "Historical clean-session compliance not established; no new research, contacts, applications or personal-data simulations during this authoring pass."
+  ],
+  "editingContract": "Batch30 new English Markdown, data JSON and author note only. No Chinese need, source-run changes, shared/inventory edits, build, publication or research refresh. Footer marker delegates unpublished source-ledger text to renderer.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Brazilian resident couples in Lisbon assessing a first permanent T2 home with salaried and freelance income, using this specific household’s cash and mortgage constraints.",
+  "localeReason": "English only: specific Brazilian-couple income, mortgage, Portuguese residence and ownership-history context; no distinct Chinese-reader need established.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

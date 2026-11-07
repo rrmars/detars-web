@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "a9a2bea680a3a6a74c96345487e523a77e0009833d61fb6b19d9cbacc963c72e",
+  "sourceListLink": "../w7-manchester-hk-family-secondary-school/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "bdf5634815dc66d9a11f103ded00bd57e19168179d5c79aa1a8723a25a8c2100",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "9b2146ca259e9ca734457432d1a9cc4a98eede5c00b41d724672323719bba141",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

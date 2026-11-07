@@ -15,11 +15,11 @@ export const domains = [
 // First matching rule wins. Existing persisted choices always win on subsequent imports.
 export const rules = [
   ['ai-tools', /(?:offline-translation|text-to-speech|local-(?:speech|upscalers|music-generation)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review|meeting-notes)/],
-  ['study', /(?:primary-one|masters|study-abroad|english-test|(?:^|-)mba(?:-|$)|international-school|korean-course)/],
+  ['study', /(?:primary-one|masters|study-abroad|english-test|(?:^|-)mba(?:-|$)|international-school|korean-course|secondary-school)/],
   ['careers', /(?:analyst-switch|job-search|job-offer|backend-job|remote-design|germany-vs-canada|nurse|career-switch)/],
   ['visas', /(?:digital-nomad|working-holiday|retirement|visa|entry-visa|dtv)/],
   ['housing', /(?:first-home|first-apartment|rent(?:al|ing)?(?:-|$)|home-buying|buying-(?:property|apartment))/],
-  ['family', /(?:care-options|rescue-dog|vegetarian-protein|health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move|dental|infant-care|(?:^|-)dog-)/],
+  ['family', /(?:care-options|rescue-dog|vegetarian-protein|health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move|dental|infant-care|(?:^|-)dog-|aged-care)/],
   ['business', /(?:freelance-designer|candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing|home-bakery|cafe)/],
   ['buying', /(?:air-purifier|laptop|phone|headphones|robot-vacuum|used-car|ebike|running-watch|solar|family-car)/],
   ['living', /(?:first-30-days|move-with|one-month|cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian|city-month)/],
