@@ -22,8 +22,8 @@ export const rules = [
   ['family', /(?:care-options|rescue-dog|vegetarian-protein|health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move|dental|infant-care|(?:^|-)dog-|aged-care)/],
   ['business', /(?:freelance-designer|candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing|home-bakery|cafe|sambal)/],
   ['buying', /(?:air-purifier|laptop|phone|headphones|robot-vacuum|used-car|ebike|running-watch|solar|family-car)/],
-  ['living', /(?:first-30-days|move-with|one-month|cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian|city-month)/],
-  ['travel', /(?:ski-week|safari|itinerary|road-trip|days?|nights?|weekend|autumn|cherry-blossom|without-driving)/],
+  ['living', /(?:first-30-days|move-with|one-month|cost-of-living|living-budget|monthly-budget|remote-work-budget|month-canadian|city-month|taipei-move)/],
+  ['travel', /(?:ski-week|safari|itinerary|road-trip|days?|nights?|weekend|autumn|cherry-blossom|without-driving|two-weeks)/],
 ];
 export function assignDomain(slug) {
   const match = rules.find(([, expression]) => expression.test(slug));

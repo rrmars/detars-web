@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "97f2b7e4db7967989f229eb8853307c3acef9c4c7ed8a5df7e37feb7363b3b21",
+  "sourceListLink": "../w7-vietnam-two-weeks-korean-retirees/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8c39d067a30fb19fb20c0d346189f3a1d63d526f54d19cad01b4ff2dbe42a8e5",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "7b3f89389236e21625c08317d7f3141aef9213f35ad946134b21c2856827cae7",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

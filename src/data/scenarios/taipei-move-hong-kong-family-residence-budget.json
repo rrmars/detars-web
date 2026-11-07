@@ -1,0 +1,541 @@
+{
+  "schemaVersion": 2,
+  "slug": "taipei-move-hong-kong-family-residence-budget",
+  "translationKey": "taipei-move-hong-kong-family-residence-budget",
+  "sources": [
+    {
+      "title": "NIA, 香港澳門居民申請在臺灣地區居留送件須知.",
+      "url": "https://www.immigration.gov.tw/5382/5385/7244/7250/7296/%E5%B1%85%E7%95%99/148063/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, HK/Macau FAQ collection.",
+      "url": "https://goldcard.nat.gov.tw/en/tags/hong-kong-macau-residents/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NIA, 外國或香港澳門特定專業人才線上申請就業金卡及延期或變更登記送件須知.",
+      "url": "https://www.immigration.gov.tw/5385/7244/7250/7317/%E5%B1%85%E7%95%99/406403/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, Digital qualifications.",
+      "url": "https://goldcard.nat.gov.tw/en/qualification/field-of-digital/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, How do my spouse and children from Hong Kong or Macao apply for residency in Taiwan?",
+      "url": "https://goldcard.nat.gov.tw/en/faq/how-do-my-spouse-and-children-from-hong-kong-or-macao-apply-for-residency-in-taiwan/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NIA supporting-document table, 港澳居民申請居留相關證明文件.",
+      "url": "https://www.immigration.gov.tw/media/94735/港澳居民申請居留相關證明文件.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, Work FAQ collection.",
+      "url": "https://goldcard.nat.gov.tw/en/tags/work/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WDA, 依一般依薪資、工作經驗等條件申請.",
+      "url": "https://ezworktaiwan.wda.gov.tw/cp.aspx?n=98C816CDB81AA655",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WDA, 申請流程及工作須知.",
+      "url": "https://ezworktaiwan.wda.gov.tw/cp.aspx?n=06CB6C2CFA89541D",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, How do I meet the salary requirements of the Gold Card application?",
+      "url": "https://goldcard.nat.gov.tw/en/faq/how-do-i-meet-the-salary-requirements-of-the-gold-card-application/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, Qualifications / Economy.",
+      "url": "https://goldcard.nat.gov.tw/en/qualification/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, Qualifications / Economy.",
+      "url": "https://goldcard.nat.gov.tw/en/qualification/field-of-economy/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MAC, 香港或澳門居民若欲來臺居留，須符合哪些要件？如何申請？",
+      "url": "https://www.mac.gov.tw/News_Content.aspx?n=B2A19E946103A4B9&s=E52810A9B9763579",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NIA, 投資居留港澳居民申請定居溫馨提醒.",
+      "url": "https://www.immigration.gov.tw/media/102477/投資居留港澳居民申請定居溫馨提醒.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NIA, 香港澳門居民臺灣地區居留證及臺灣地區居留入出境證延期送件須知.",
+      "url": "https://www.immigration.gov.tw/5385/7244/7250/7296/%E5%B1%85%E7%95%99/41864/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NIA-hosted 外國人來臺申請創業家簽證資格審查處理要點.",
+      "url": "https://www.immigration.gov.tw/media/88693/外國人來臺申請創業家簽證資格審查處理要點.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WDA student-work pages.",
+      "url": "https://ezworktaiwan.wda.gov.tw/cp.aspx?n=99329239A3FBA2BB",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WDA student-work pages.",
+      "url": "https://ezworktaiwan.wda.gov.tw/cp.aspx?n=99329239A3FBA2BB&s=B367A990348F663E",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NIA, 香港澳門居民申請在臺灣地區定居送件須知-居留一定期間.",
+      "url": "https://www.immigration.gov.tw/5382/5385/7244/7250/7296/%E5%AE%9A%E5%B1%85/41965",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Gold Card, Is my spouse allowed to work in Taiwan?",
+      "url": "https://goldcard.nat.gov.tw/en/faq/is-my-spouse-allowed-to-work-in-taiwan/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WDA O01 spouse FAQ / eligibility / documentation.",
+      "url": "https://ezworktaiwan.wda.gov.tw/cp.aspx?n=D8C7E224F68FC55A&s=BA8EA90017FBA5A6",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WDA O01 spouse FAQ / eligibility / documentation.",
+      "url": "https://ezworktaiwan.wda.gov.tw/cp.aspx?n=D8C7E224F68FC55A&s=E900E5C75DDFAD99",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WDA O01 spouse FAQ / eligibility / documentation.",
+      "url": "https://ezworktaiwan.wda.gov.tw/en/cp.aspx?Create=1&n=14271038DDC4104F&s=5674AE262BAA2763",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOHW National Health Insurance Act, arts.2,9–15,18,27,40–47",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060001",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOHW NHI implementing rules, art.8",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060002",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Foreign Professionals Act arts.4,23,30",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030295",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHIA non-Taiwanese-citizen FAQ, complete Q1",
+      "url": "https://www.nhi.gov.tw/en/cp-125-b063a-91-2.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHIA non-Taiwanese-citizen FAQ, complete Q1",
+      "url": "https://www.nhi.gov.tw/en/cp-49-fb4a6-24-2.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHIA employee contribution table, effective 2026-01-01, rows for 29,500 / 50,600 / 101,100 and notes",
+      "url": "https://www.nhi.gov.tw/ch/cp-19418-9eefb-2576-1.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHIA category-6 table, main table lines 369–391 in native web extraction",
+      "url": "https://www.nhi.gov.tw/ch/cp-5719-69026-2584-1.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOHW 2027 budget statement, 2026-09-24",
+      "url": "https://www.mohw.gov.tw/cp-2704-88068-1.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HK/Macau Relations Act arts.4,13,20–22",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Q0010003",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taiwan-HK service office official exam FAQ, updated 2026-02-13",
+      "url": "https://www.thec.org.tw/TC/faq_info.aspx?cid=8&id=83&mid=27",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Examination Yuan/MOEX medical-personnel exam rules, current 2026-01-16 version, entire substantive text",
+      "url": "https://law.exam.gov.tw/LawContent.aspx?id=FL016888",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Current-linked Appendix 1 eligibility (p1) and Appendix 7 subjects (pp1–2), whole documents read",
+      "url": "https://law.exam.gov.tw/Download.ashx?FileID=63944&id=FL016888&type=LAW",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Current-linked Appendix 1 eligibility (p1) and Appendix 7 subjects (pp1–2), whole documents read",
+      "url": "https://law.exam.gov.tw/Download.ashx?FileID=63950&id=FL016888&type=LAW",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOHW Nursing Personnel Act arts.1–4,8,10,55-3",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020166",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOHW medical-personnel practice registration/CE regulation arts.3–5",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020181",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOEX Examination Act implementing rules arts.4,9,11",
+      "url": "https://law.exam.gov.tw/LawContent.aspx?id=FL016847",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOE HK/Macau academic recognition rules arts.4–5,10",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Q0030008",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Control Yuan investigation, historical HK nurse eligibility and bridging issues, printed pp17–23 / native lines 534–715",
+      "url": "https://cybsbox.cy.gov.tw/CYBSBoxSSL/edoc/download/69440",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Current-linked Appendix 4 internship standards, whole pp1–2 read",
+      "url": "https://law.exam.gov.tw/Download.ashx?FileID=63947&id=FL016888&type=LAW",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOEX 2025 second-cohort application notes, printed pp4–6 / native lines128–171, HK nursing review requirements",
+      "url": "https://wwwc.moex.gov.tw/mAIn/exam/FileHandler.ashx?File=3740&MCode=7303&PCode=4793&f=114&t=P",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Professional and Technical Personnel Examination Act arts.4,20",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0040001",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOEX examination plan, rows 116100 and 116170, primary search-index text read",
+      "url": "https://wwwc.moex.gov.tw/main/exam/wFrmExamInformation.aspx?menu_id=145",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Examination Yuan first-cohort 2027 announcement",
+      "url": "https://www.exam.gov.tw/News_Content.aspx?n=3915&s=51359",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taipei 115 public preschool admission brochure.",
+      "url": "https://www.doe.gov.taipei/News_Content.aspx?n=F51117419574D4FE&s=E9E32E5DDEC355CF",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taipei 115 public preschool complete admission brochure",
+      "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQyL3JlbGZpbGUvMTAxNzMvOTUyOTM2My83MWM2ZTlkYS04M2MxLTRmOTgtODlkZi0zNmQxNzJlOWE2MWQucGRm&n=6Ie65YyX5biCMTE15a245bm05bqm5YWs56uL5bm85YWS5ZyS5oub55Sf57Ch56ugLnBkZg%3d%3d&icon=..pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taipei 115 nonprofit preschool / care-center admission brochure.",
+      "url": "https://kid-online.tp.edu.tw/Files/%E8%87%BA%E5%8C%97%E5%B8%82115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E9%9D%9E%E7%87%9F%E5%88%A9%E5%B9%BC%E5%85%92%E5%9C%92%E6%9A%A8%E6%95%99%E4%BF%9D%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%8B%9B%E7%94%9F%E7%B0%A1%E7%AB%A0.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official Taipei 115 public fee schedule",
+      "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQyL3JlbGZpbGUvMC8xMjc3MjUvOWI3ZmNmYTgtYjRkOS00MTZkLWE4MGYtOGU5Mzk2NWI5ZWZkLnBkZg%3d%3d&n=6Ie65YyX5biCMTE15a245bm05bqm5YWs56uL5bm85YWS5ZyS5pS26LK75Z%2b65rqWLTExNS44LjEtLnBkZg%3d%3d&icon=..pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Jian’an attached preschool 115-1 actual parent-charge notice",
+      "url": "https://www2.jnps.tp.edu.tw/kindergarten/blog/show_write.asp?blog_id=582&id=47",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taipei Personnel Department, City Hall employee-child nonprofit preschool",
+      "url": "https://dop.gov.taipei/cp.aspx?n=56D93742657EC13A",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tianxi (天喜) quasi-public, 115 admission brochure",
+      "url": "http://tanshischool.com.tw/FilePools/1026/Editor/aaf61500-b073-494f-9f1e-6857b2b43d62.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sacred Heart private preschool, 115 fee/refund notice",
+      "url": "https://0225578119.topschool.tw/Custom/02100",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taipei DOE, 2–under-5 cash allowance",
+      "url": "https://www.doe.gov.taipei/Content_List.aspx?n=2194AC256404AD3C",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Dated two-bedroom rental advertisement 1",
+      "url": "https://www.sinyi.com.tw/rent/houseno/C357335",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Dated two-bedroom rental advertisement 2",
+      "url": "https://taiwanhousing.tw/tw/estate/2842",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Dated two-bedroom rental advertisement 3",
+      "url": "https://www.sinyi.com.tw/rent/houseno/C368347",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Dated two-bedroom rental advertisement 4",
+      "url": "https://www.sinyi.com.tw/rent/houseno/C356799",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taiwan tax guidance",
+      "url": "https://www.etax.nat.gov.tw/etwmain/en/announcement/alien-individual-income-tax/instructions",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hong Kong tax guidance",
+      "url": "https://www.gov.hk/en/residents/taxes/salaries/salariestax/exemption/employee.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hong Kong tax guidance",
+      "url": "https://www.ird.gov.hk/eng/faq/ctr.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taiwan tax guidance",
+      "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Taiwan tax guidance",
+      "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=2daa43e0dc1f4600ae9f821e7ea4ec3a",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "gross_income": {
+      "label": "Assumed monthly gross income at planning FX",
+      "value": 192000,
+      "unit": "TWD/month",
+      "display": "TWD 192,000"
+    },
+    "monthly_allocations": {
+      "label": "Unconfirmed monthly allocations including tax reserve",
+      "value": 175600,
+      "unit": "TWD/month",
+      "display": "TWD 175,600"
+    },
+    "monthly_headroom": {
+      "label": "Thin monthly headroom; no nursing earnings or subsidy",
+      "value": 16400,
+      "unit": "TWD/month",
+      "display": "TWD 16,400"
+    },
+    "move_cash": {
+      "label": "Unconfirmed initial cash including refundable security",
+      "value": 317500,
+      "unit": "TWD",
+      "display": "TWD 317,500"
+    },
+    "fx_deficit": {
+      "label": "Monthly deficit at assumed FX 3.60 holding TWD expenses fixed",
+      "value": 2800,
+      "unit": "TWD/month deficit",
+      "display": "TWD 2,800"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned index.html, sources.md and independent-check.md read locally after README and VOICE-GUIDE. Batch31 Markdown/data inspected for format only. No other source run, network research, build or publication during batch32 authoring.",
+    "originalResearchAccessLimitations": "Strict clean-session-only compliance NOT MET in original research: public fetch/search tools automatically touched existing managed-browser routes. Later anonymous official captures do not retroactively cure this. Rate output from Bank of Taiwan fallback was excluded; planning FX remains an assumption. No new source refresh or access-date claim.",
+    "independentCheckDisposition": "Assigned independent check found no numerical corrections. H5/H6 exact NHI tariff tables could not be independently reopened (403; absent raw captures), and full C2 nonprofit PDF could not independently be re-established due truncation. Conditional amounts/eligibility remain source-author evidence, not newly independently certified. Nursing 2027 dates are indexed primary plans, not final timetables.",
+    "layoutEvidenceLimit": "No batch32 build, rendered HTML, browser or print certification. Original director layout observations do not certify the new Markdown."
+  },
+  "datePolicy": "Every cited source access date retained as 2026-11-07. Document/listing dates are separate; no 2027 rule, quote or vacancy is assumed. Copy editing is not a refresh.",
+  "planningAssumptions": {
+    "profile": "Hong Kong UX designer, HK RN spouse and daughter aged two on 2026-11-07; mid-2027 Taiwan move. Actual passports/status, birthday and eligibility unverified.",
+    "routeOrder": [
+      "Digital Gold Card HF198 first",
+      "HK-family HF199 permissions second",
+      "Wife HF160 / family HF161 professional residence assessed in parallel",
+      "Genuine Taiwan-sponsored professional employment HF171/HF172 fallback"
+    ],
+    "budget": {
+      "fx_twd_per_hkd": 4,
+      "income_hkd": 48000,
+      "savings_hkd": 1200000,
+      "monthly_rows": [
+        {
+          "item": "Rent — unconfirmed base allowance",
+          "twd": 45000,
+          "hkd": 11250,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Building management — separate allowance",
+          "twd": 3000,
+          "hkd": 750,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Electricity, gas and water",
+          "twd": 4000,
+          "hkd": 1000,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Home internet + two mobile plans",
+          "twd": 1600,
+          "hkd": 400,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Groceries, household food + modest eating out",
+          "twd": 24000,
+          "hkd": 6000,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Public transport / occasional taxis; no car",
+          "twd": 4000,
+          "hkd": 1000,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Childcare — gross private fallback, no subsidy",
+          "twd": 22000,
+          "hkd": 5500,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Insurance / NHI envelope — actual quote needed",
+          "twd": 6000,
+          "hkd": 1500,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Self-pay medical / dental / copays reserve",
+          "twd": 4000,
+          "hkd": 1000,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Child supplies, clothing and activities",
+          "twd": 5000,
+          "hkd": 1250,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Leisure / personal spending",
+          "twd": 4000,
+          "hkd": 1000,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "HK visits — monthly sinking fund",
+          "twd": 4000,
+          "hkd": 1000,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "General contingency / replacement reserve",
+          "twd": 8000,
+          "hkd": 2000,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "HK payroll / pension buffer — verify arrangement",
+          "twd": 6000,
+          "hkd": 1500,
+          "status": "unconfirmed planning allowance"
+        },
+        {
+          "item": "Taiwan / HK tax reserve — not a liability ceiling",
+          "twd": 35000,
+          "hkd": 8750,
+          "status": "unconfirmed planning allowance"
+        }
+      ],
+      "monthly_total_twd": 175600,
+      "monthly_headroom_twd": 16400,
+      "rental_combined_twd": {
+        "daan": 63303,
+        "zhongshan": 49139,
+        "neihu": 58070,
+        "banqiao": 40000
+      },
+      "move_cash_twd": [
+        90000,
+        45000,
+        22500,
+        60000,
+        80000,
+        20000
+      ]
+    },
+    "annualAllocationsTWD": 2107200,
+    "initialCashTWD": 317500,
+    "sixFurtherMonthsTWD": 1053600,
+    "remainingAfterBothTWD": 3428900,
+    "nursingIncome": 0,
+    "childcareSubsidies": 0,
+    "assumptionStatus": "Living costs, gap insurance, payroll/pension and tax reserve are unconfirmed planning allocations, not quotations, assessed liability or proof of adequate cover. Savings do not establish investment residence.",
+    "fxStress": {
+      "twdPerHKD": 3.6,
+      "grossTWD": 172800,
+      "monthlyDeficitTWD": 2800
+    },
+    "exclusions": "No business capital/operating losses, adult tuition, car, helper or international school. Refundable security is tied-up cash. First month rent is not counted twice as spending."
+  },
+  "uncertainties": [
+    "Each passport, nationality, permanent status, mainland birthplace/history, marriage/parentage and chosen legal lane.",
+    "Actual Digital duties/employer industry, gross pay, annual tax/salary evidence and accepted buying-cash conversion; no qualification approval.",
+    "Wife HF160 detailed medical-professional conditions and personal qualification; dependent husband remote-work rights not established.",
+    "Exact HK-status dependent spouse individual work-permit applicability is unconfirmed; generic foreign-spouse rule cannot silently be applied.",
+    "No actual Taiwan sponsor/job/category/qualifying employee evidence. Investment/innovation operation and capital unapproved; student/graduate reforms not fully reconciled for a later case.",
+    "Remote HK-job NHIA classification/enrollment unit and family waiver; each residence/employment/travel clock, final 2027 brackets.",
+    "No insurance underwriting, accepted relocation policy, actual quote or proven adequacy of insurance/self-pay reserves.",
+    "Nursing initial school/award, graduation date, theory and actual clinical hours; bridging place, 2027 review procedures, final nursing timetable and HK-language arrangements unconfirmed. No licensing date or nursing wage.",
+    "Child birthday/nationality, HK-permit equivalence, parent/child address/documents, subsidized copayment, private acceptance, July vacancy, final 116 age bands/dates/fees and late-entry bill unconfirmed. Cash allowance not deducted.",
+    "Listings dated, Zhongshan already let, Banqiao no-partitions conflict; true enclosed bedrooms, area basis, physical safety/layout, terms and 2027 availability unverified.",
+    "FX 4.00 and 3.60 are assumptions, not rates. Thin monthly margin can turn negative. MPF buffer is not a mandatory-contribution finding.",
+    "2026 full-year resident tax illustration not 2027/move-year assessment; 2025-return child deduction source; HK relief/provisional taxes can exceed reserve. Not immigration, nursing-registration or tax advice.",
+    "Historic clean-session deviation, H5/H6 independent-table and C2 PDF completeness gaps remain unresolved; no new research or certification."
+  ],
+  "editingContract": "Batch32 new en/zh Markdown, shared schema-v2 JSON and short taipei author note only. No shared inventory/build/check code, source-run edits, build, network, contact or publication. Marker-only footer delegated to builder.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Hong Kong family planning a mid-2027 move to Taiwan on one HK remote UX salary, with an HK registered-nurse spouse and toddler, comparing residence, healthcare, childcare and housing cash flow.",
+  "localeReason": "English and Chinese both serve this Hong Kong-family relocation decision. Traditional Chinese would better match many Hong Kong readers and Taiwan documents; Simplified Chinese is this package's only Chinese locale (zh / rendered zh-Hans), without changing identity or eligibility.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 2,
+  "slug": "vietnam-two-weeks-gentle-route-retirees",
+  "translationKey": "vietnam-two-weeks-gentle-route-retirees",
+  "sources": [
+    {
+      "title": "Korean MOFA notice",
+      "url": "https://vn.mofa.go.kr/vn-ko/brd/m_2203/view.do?page=1&seq=1345931",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vietnam Embassy Japan",
+      "url": "https://vnembassy-jp.org/en/vietnam-extends-visa-exemption-policy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "government news dated 8 March 2025",
+      "url": "https://en.baochinhphu.vn/print/viet-nam-waives-visas-for-citizens-from-12-countries-until-march-2028-111250308085955058.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official tourism guidance",
+      "url": "https://vietnam.travel/plan-your-trip/visa-requirements/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PAI portal",
+      "url": "https://prearrival.immigration.gov.vn/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore MFA",
+      "url": "https://hanoi.mfa.gov.sg/mission-updates/pre-arrival-declaration-for-foreign-travellers-entering-vietnam/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "indexed immigration notice",
+      "url": "https://immigration.gov.vn/khai-thi-thuc-dien-tu/cap-thi-thuc-dien-tu",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Delhi embassy pilot notice dated 21 May 2026",
+      "url": "https://vietnamembassydelhi.in/notice-on-the-implementation-of-the-pre-arrival-information-application-for-foreigners-entering-viet-nam/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "indexed US embassy notice dated 17 June 2026",
+      "url": "https://vn.usembassy.gov/notice-implementation-of-pre-arrival-declaration-for-international-visitors-arriving-at-airports-in-vietnam/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official e-visa portal",
+      "url": "https://evisa.gov.vn/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Paradise",
+      "url": "https://www.paradisevietnam.com/en/hanoi-to-halong-bay",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/en-vn/flights-from-hanoi-to-hue",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Reseller SE19",
+      "url": "https://vexere.com/vn/trains/from-hanoi-to-hue-thua-thien-hue.24.705.en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Danang Transfer",
+      "url": "https://danangtransfer.vn/en/hue-private-car/private-car-from-hue-to-hoi-an/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Railway",
+      "url": "https://ketnoidisan.dsvn.vn/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Newspaper context, 26 March 2026",
+      "url": "https://daibieunhandan.vn/doan-tau-hanh-trinh-ket-noi-di-san-mien-trung-ra-mat-giao-dien-moi-10411212.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "operator",
+      "url": "https://danangtransfer.vn/en/hoian-private-car/transfer-from-hoian-to-danang/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vietnam Airlines",
+      "url": "https://www.vietnamairlines.com/en-vn/flights-from-da-nang-to-ho-chi-minh-city",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Reseller SE21",
+      "url": "https://vexere.com/vn/trains/from-da-nang-to-ho-chi-minh-city.171635.29.en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TheSinhTourist",
+      "url": "https://m.thesinhtourist.vn/tour/mk/tg-sgmt-01/Default.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Les Rives",
+      "url": "https://lesrivesexperience.com/tours/mekong-delta-tour/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Operator page updated 20 October 2026",
+      "url": "https://www.paradisevietnam.com/en/travel-guides/top-3-best-2day-cruises-in-ha-long-bay",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Elegance entry cabin",
+      "url": "https://www.paradisevietnam.com/en/paradise-elegance",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Agency tariff updated 5 October 2026 using 4 October 2026 prices",
+      "url": "https://avastravelagency.com/halong-bay-cruise-indochina-junk",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Operator itinerary",
+      "url": "https://www.indochina-junk.com/bai-tu-long-bay-2-days-1-night-dragon-legend-cruise/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "return limousine",
+      "url": "https://www.indochina-junk.com/luxury-van-transport/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hanoi La Selva Central",
+      "url": "http://hanoilaselvacentralhotel.com/rooms-rates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Century Riverside Hue",
+      "url": "https://century.brghospitality.vn/en/special/a-season-of-love-in-hue-one-visit-a-lifetime-of-fond-memories/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Lantana Boutique Hoi An",
+      "url": "https://lantanahoian.com/promotion/summer-promotion-2026.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Victoria Hoi An Beach Resort & Spa",
+      "url": "https://www.victoriahotels.asia/en/victoria-hoi-an-beach-resort/special-offers/golden-autumn-in-hoi-an/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "New World Saigon",
+      "url": "https://saigon.newworldhotels.com/en/gather-new-memories/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official tourism climate guidance",
+      "url": "https://vietnam.travel/things-to-do/weather-and-climate-vietnam/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Senior guide dated 30 October 2026",
+      "url": "https://direct.samsungfire.com/m/mall/blog/travel/travel_insurance_info_15.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Separate plan guide",
+      "url": "https://direct.samsungfire.com/m/mall/blog/travel/travel_insurance_info_10.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Product page",
+      "url": "https://www.hanainsure.co.kr/w/product/travelLeisure/abroadTravelIntro",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "planned_total_vnd": {
+      "label": "Two-person plan including contingency",
+      "value": 95680000,
+      "unit": "VND",
+      "display": "VND 95,680,000"
+    },
+    "planned_total_krw": {
+      "label": "Two-person plan at assumed rate",
+      "value": 5315556,
+      "unit": "KRW",
+      "display": "KRW 5,315,556"
+    },
+    "budget_ceiling_krw": {
+      "label": "Ceiling excluding international flights",
+      "value": 6000000,
+      "unit": "KRW",
+      "display": "KRW 6,000,000"
+    },
+    "additional_headroom_krw": {
+      "label": "Headroom beyond included contingency",
+      "value": 684444,
+      "unit": "KRW",
+      "display": "KRW 684,444"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read complete assigned index.html, sources.md and independent-check.md locally after i18n README and VOICE-GUIDE. Inspected batch31 Dubai Markdown/data and shared checker/helpers for format only. No other source run folder and no network accessed.",
+    "independentCheckDisposition": "Retained independent audit passes monetary arithmetic and guide-to-ledger alignment: 22 budget/summary rows and 38 example computations, plus contextual examples. Route fits 15 dates and 14 nights. This is historical audit evidence, not newly verified inventory or rules. Cruise late-start permission, PAI, current e-visa tariff, flight/rail inventory, hotel access and personal insurance remain unresolved.",
+    "originalResearchAccessLimitations": "Strict clean-session compliance was not passed: early managed-browser fallback had unproven empty-cookie state. Those substantive outputs were excluded; later replacement evidence does not erase the process exception. Search-only entry evidence remains qualified. No claim that all original research used proven clean sessions.",
+    "layoutEvidenceLimit": "Original audit reports source HTML checks at 1440/390/320px. No new HTML build, rendering or browser review in this authoring pass."
+  },
+  "datePolicy": "All cited access dates retain 2026-11-07 from the assigned ledger; editing is not a source refresh. March 2027 is future planning. Supplier departure samples, publication dates and expired offer windows are not availability claims.",
+  "planningAssumptions": {
+    "profile": "Retired South Korean passport-holding couple from Busan, both 66; Vietnam arrival 2027-03-03 and departure 2027-03-17, not Korea flight dates.",
+    "route": "Hanoi–Ha Long overnight–Hanoi–Hue–Hoi An via Hai Van–HCMC with Mekong day trip",
+    "domesticFlightLegs": 2,
+    "overnightBuses": 0,
+    "days": 15,
+    "nights": 14,
+    "hotelNights": 13,
+    "cruiseNights": 1,
+    "hotelNightsByBase": {
+      "Hanoi": 3,
+      "Hue": 2,
+      "Hoi An": 3,
+      "HCMC": 5
+    },
+    "budget": {
+      "rateVndPerKrw": 18,
+      "rateVndPerUsd": 26000,
+      "rows": [
+        {
+          "item": "Hanoi hotels",
+          "basis": "3 nights × 1,800,000",
+          "vnd": 5400000,
+          "krwRounded": 300000
+        },
+        {
+          "item": "Hue hotels",
+          "basis": "2 nights × 1,500,000",
+          "vnd": 3000000,
+          "krwRounded": 166667
+        },
+        {
+          "item": "Hoi An hotels",
+          "basis": "3 nights × 2,200,000",
+          "vnd": 6600000,
+          "krwRounded": 366667
+        },
+        {
+          "item": "HCMC hotels",
+          "basis": "5 nights × 4,000,000",
+          "vnd": 20000000,
+          "krwRounded": 1111111
+        },
+        {
+          "item": "Overnight cruise, two sharing",
+          "basis": "2 adults × USD 250 × 26,000",
+          "vnd": 13000000,
+          "krwRounded": 722222
+        },
+        {
+          "item": "Cruise return road transfers",
+          "basis": "2 adults × USD 40 × 26,000; only if excluded",
+          "vnd": 2080000,
+          "krwRounded": 115556
+        },
+        {
+          "item": "Domestic flights, with baggage reserve",
+          "basis": "2 people × 2 legs × 1,800,000",
+          "vnd": 7200000,
+          "krwRounded": 400000
+        },
+        {
+          "item": "Six airport/hotel transfers",
+          "basis": "6 × 500,000 average envelope",
+          "vnd": 3000000,
+          "krwRounded": 166667
+        },
+        {
+          "item": "Hue–Hoi An scenic private car",
+          "basis": "1 vehicle × USD 80 × 26,000",
+          "vnd": 2080000,
+          "krwRounded": 115556
+        },
+        {
+          "item": "Local city taxis",
+          "basis": "15 days × 120,000 per couple",
+          "vnd": 1800000,
+          "krwRounded": 100000
+        },
+        {
+          "item": "Meals, drinks and water",
+          "basis": "15 days × 2 people × 300,000",
+          "vnd": 9000000,
+          "krwRounded": 500000
+        },
+        {
+          "item": "Sights and local guiding reserve",
+          "basis": "1 couple × 2,000,000",
+          "vnd": 2000000,
+          "krwRounded": 111111
+        },
+        {
+          "item": "Mekong day trip",
+          "basis": "2 people × 1,500,000",
+          "vnd": 3000000,
+          "krwRounded": 166667
+        },
+        {
+          "item": "Travel insurance reserve",
+          "basis": "2 people × KRW 100,000 × 18",
+          "vnd": 3600000,
+          "krwRounded": 200000
+        },
+        {
+          "item": "Two SIM/eSIM allowances",
+          "basis": "2 × 180,000",
+          "vnd": 360000,
+          "krwRounded": 20000
+        },
+        {
+          "item": "Laundry, tips and incidentals",
+          "basis": "1 couple × 1,080,000",
+          "vnd": 1080000,
+          "krwRounded": 60000
+        },
+        {
+          "item": "Visa exemption",
+          "basis": "2 people × 0",
+          "vnd": 0,
+          "krwRounded": 0
+        }
+      ],
+      "subtotalVnd": 83200000,
+      "contingencyPercent": 15,
+      "contingencyVnd": 12480000,
+      "totalVnd": 95680000,
+      "ceilingVnd": 108000000,
+      "headroomVnd": 12320000
+    },
+    "budgetStatus": "All caps are unquoted two-person allowances. Hold fixed VND basket for FX sensitivity; no multi-currency forecast. Round VND totals to nearest won half-up. International airfare, shopping, major uninsured medical bills and extra international-flight nights excluded. Avoid double-counting included cruise transfers, meals or sights."
+  },
+  "uncertainties": [
+    "No March 2027 all-in two-person hotel/cruise quote, availability or selected flight schedule/baggage; dates and offers are dated examples only.",
+    "Cruise dawn-program opt-out, staying aboard and later breakfast are essential unresolved pacing conditions; protect Hanoi buffer and no consecutive early starts.",
+    "Korean passport exemption and Korea-issued insurance assumptions do not transfer to Chinese-speaking readers of other nationality/residence. Recheck entry/PAI near travel; PAI compulsory status/timing and live e-visa tariff unresolved.",
+    "Primary absolute rail fares are unverified; reseller/newspaper examples remain unconfirmed. Heritage train own-page schedules conflict; car detailed scenic surcharge conflicts with marketing.",
+    "Paradise USD330/cabin does not establish two adults or cabin category; conditional total only. Dragon Legend agency cruise/transfer price must not inherit operator-package transport inclusion. Bai Tu Long is not central Ha Long.",
+    "Hotel seasonal examples are not March offers: Hanoi USD inference and ++, Hue one-guest meal, Victoria two-night average, expired Lantana and New World extras/nonrefundable terms retained. Caps may fail.",
+    "Hotel elevator/shower access and boat boarding suitability unverified; small boat/speedboat is not automatically easy. Insurance eligibility is not acceptance or evacuation coverage; KRW200000 is reserve, not premium.",
+    "15% contingency and extra headroom do not guarantee budget fit; FX sensitivity holds VND constant. Original clean-session process exception remains unresolved."
+  ],
+  "editingContract": "Batch32 new en/zh Markdown, schema-v2 data and checks/batch32-vietnam-author-note.md only. No source-run, existing guide, inventory or shared-code edits; no build, network, publication, bookings or contacts. Marker-only footer delegates unpublished detailed-ledger wording to builder.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Chinese-speaking travellers comparing a slower Vietnam route, retaining the South Korean passport-holding retired couple aged 66 and Korea-issued insurance assumptions.",
+  "localeReason": "English and Simplified Chinese make a gentle Vietnam comparison useful to Chinese-speaking travellers; translation does not change Korean passport entry eligibility, Busan departure profile or Korea-issued insurance eligibility.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

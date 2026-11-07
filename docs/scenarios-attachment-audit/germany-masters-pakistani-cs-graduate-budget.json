@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "7557a6392619b3aad3b77e40ce764c5f643430c95ac0736f251929ba59d64199",
+  "sourceListLink": "../w7-germany-masters-pakistani-cs-graduate/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "95619be848dc3b7805615325e39ab8678e5f5c96fce07f939f603e82de5fca23",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

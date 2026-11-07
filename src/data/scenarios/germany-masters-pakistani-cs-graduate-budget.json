@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 2,
+  "slug": "germany-masters-pakistani-cs-graduate-budget",
+  "translationKey": "germany-masters-pakistani-cs-graduate-budget",
+  "sources": [
+    {
+      "title": "Programme",
+      "url": "https://www.uni-passau.de/en/msc-computer-science/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "uni-assist",
+      "url": "https://my.uni-assist.de/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Programme and academic/language gates",
+      "url": "https://www.uni-koblenz.de/en/degree-programs/web-and-data-science-msc",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Application and selection criteria",
+      "url": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bonn application portal",
+      "url": "https://application.uni-bonn.de/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Applicant guide dated 10 October 2026",
+      "url": "https://www.uni-trier.de/fileadmin/fb4/MAT/Data/DataScience/Information_for_prospective_applicants_DS.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PORTA",
+      "url": "https://porta-system.uni-trier.de/qisserver/pages/zul/applicant.faces",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Programme",
+      "url": "https://www.uni-hildesheim.de/en/studium/studieninteressierte/studiengaenge/masterstudium/data-analytics-msc/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ISMLL portal",
+      "url": "https://www.ismll.uni-hildesheim.de/apply/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Application guide",
+      "url": "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "department portal",
+      "url": "https://apply.cs.uni-saarland.de/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Consular Services Portal",
+      "url": "https://digital.diplo.de/studium",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pakistan qualification and award-minimum requirements",
+      "url": "https://www.uni-assist.de/en/tools/info-country-by-country/details-country/country/pk/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Non-binding grade-conversion formula",
+      "url": "https://www.tum.de/en/studies/application/application-info-portal/grade-conversion-formula-for-grades-earned-outside-germany/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "English evidence and certificate age",
+      "url": "https://www.uni-passau.de/en/apply/requirements-for-study/english",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Application FAQ and independent project",
+      "url": "https://www.uni-passau.de/en/msc-computer-science/faq-application-msc-computer-science",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Application methods",
+      "url": "https://www.uni-passau.de/en/apply/application-methods",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Semester contribution",
+      "url": "https://www.uni-passau.de/en/costs-funding/enrolment-fee/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Fees and foreign-degree route",
+      "url": "https://www.uni-koblenz.de/en/international-relations-office/incomings/degree-seeking-students/fees-and-funding",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Re-registration contribution",
+      "url": "https://www.uni-koblenz.de/de/verwaltung/studium-lehre/studierendensekretariat",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Deadlines and intake labels",
+      "url": "https://www.informatik.uni-bonn.de/en/studies/examination-office/deadlines-at-a-glance",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Fees",
+      "url": "https://www.uni-bonn.de/en/studying/application-admission-and-enrollment/costs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Data Science intake information",
+      "url": "https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/informatikwissenschaften/fuer-studierende/data-science/newintropage",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Initial-enrolment contribution",
+      "url": "https://www.uni-trier.de/studium/beratung-service/service/beitraege-gebuehren/semesterbeitrag/erst-/neueinschreibung",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.ismll.uni-hildesheim.de/da/faq_en.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Regulations overview with conflicting selection weights",
+      "url": "https://www.uni-hildesheim.de/en/fb4/studium-und-promotion/studienorganisation-und-faqs/regulations-international-masters-degree/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Access-regulation register dated 16 April 2024",
+      "url": "https://www.uni-hildesheim.de/qm/processmanagement/document.php?docID=9826",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Linked binding PDF — retrieval timed out; contents unverified",
+      "url": "https://www.uni-hildesheim.de/qm/processmanagement/download.php?fileID=5152",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Re-registration contribution",
+      "url": "https://www.uni-hildesheim.de/dez3/immatrikulationsamt/informationen-zur-rueckmeldung/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FAQ and GRE geography rule",
+      "url": "https://saarland-informatics-campus.de/en/studium-studies/master-english/faq-master-application/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Programme overview",
+      "url": "https://www.uni-saarland.de/en/study/programmes/master/informatics.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "General fees",
+      "url": "https://www.uni-saarland.de/studium/organisation/beitraege.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "English semester-fee page — later retrieval locked",
+      "url": "https://www.uni-saarland.de/en/study/organisation/fees/semester-fee.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "German semester-fee page",
+      "url": "https://www.uni-saarland.de/studium/organisation/beitraege/semesterbeitrag.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Islamabad jurisdiction",
+      "url": "https://pakistan.diplo.de/pk-en/vertretungen/botschaft",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Student-visa instructions",
+      "url": "https://pakistan.diplo.de/pk-en/service/2-study-visa-seite-1676104",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "General visa fee and processing",
+      "url": "https://pakistan.diplo.de/pk-en/service/2208622-2208622",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "APS qualification-country scope",
+      "url": "https://www.uni-assist.de/tools/glossar/erklaerung/begriff/akademische-pruefstelle-aps/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Consular copy certification",
+      "url": "https://pakistan.diplo.de/pk-en/service/legal-uess-1680522",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "uni-assist translations",
+      "url": "https://www.uni-assist.de/en/how-to-apply/plan-your-application/educational-certificates-translations/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Financial proof and Pakistan scholarship restriction",
+      "url": "https://pakistan.diplo.de/pk-en/service/1995528-1995528",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TK 2026 student tariffs",
+      "url": "https://www.tk.de/en/contribution-foreign-students-german-health-insurance-2038022",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Passau insurer notification for enrolment",
+      "url": "https://www.uni-passau.de/en/study/getting-organised/reregistration/health-insurance/health-insurance-for-enrolment",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Foreign Office health-cover guidance dated 21 August 2026",
+      "url": "https://www.auswaertiges-amt.de/en/2804434-2804434",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official study/work summary",
+      "url": "https://www.make-it-in-germany.com/en/visa-recognition/visa-types/studying",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Alternative weekly work rule",
+      "url": "https://www.make-it-in-germany.com/en/visa-recognition/skilled-immigration-act",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "uni-assist payment rules",
+      "url": "https://www.uni-assist.de/en/how-to-apply/apply-online/pay-submit/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Expatrio setup, monthly fee and opening-date accrual",
+      "url": "https://help.expatrio.com/en-US/article/kb-360001034432",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Fintiba pricing for new/reopened accounts from 3 November 2025",
+      "url": "https://www.fintiba.com/news/more-value-for-you",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Baden-Württemberg tuition scope and exemptions",
+      "url": "https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees/tuition-fees-for-international-students",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TUM winter 2027/28 tuition announcement",
+      "url": "https://www.tum.de/en/studies/fees/tuition",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FAU non-EU tuition from summer 2027",
+      "url": "https://www.fau.eu/studying/international-students/application-and-enrollment-for-international-applicants/tuition-fees-for-students-from-non-eu-states/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "family_funding": {
+      "label": "Family funds available in the planning profile",
+      "value": 3500000,
+      "unit": "PKR",
+      "display": "PKR 3,500,000"
+    },
+    "blocked_benchmark": {
+      "label": "November 2026 guidance benchmark; 2027 unverified",
+      "value": 11904,
+      "unit": "EUR/year",
+      "display": "€11,904"
+    },
+    "funding_target_eur": {
+      "label": "First-year target including refundable deposit and contingency",
+      "value": 17257,
+      "unit": "EUR",
+      "display": "€17,257"
+    },
+    "funding_target_pkr": {
+      "label": "Target converted at assumed PKR 325 per euro",
+      "value": 5608525,
+      "unit": "PKR",
+      "display": "PKR 5,608,525"
+    },
+    "funding_shortfall": {
+      "label": "Family-only target shortfall at assumed FX",
+      "value": 2108525,
+      "unit": "PKR",
+      "display": "PKR 2,108,525"
+    },
+    "illustrative_grade": {
+      "label": "Conditional converted grade if degree-award minimum is 2.0/4.0",
+      "value": 2.2,
+      "unit": "German grade",
+      "display": "2.20"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Full assigned index.html, sources.md and independent-check.md read locally after README and VOICE-GUIDE. Assigned retained primary text inspected for programme and scholarship omissions. Batch31 Dubai Markdown/JSON inspected for format only. No other source-run folder or network accessed in batch32 authoring.",
+    "independentCheckDisposition": "Historical check: arithmetic passes, remaining issues. New guide incorporates the retained-text Passau 10 ECTS project/abstract condition, Pakistan scholarship restriction, Passau certificate age, Bonn extra-module points and thesis-prose clarification, Saarland referee forms and local-administration timing qualification. Hildesheim binding rules, future dates/fees and evidence-method limits remain open. No new primary research or unconditional eligibility certification.",
+    "originalResearchAccessLimitations": "Earlier automatic managed-browser/search fallbacks had unaudited prior storage. Fresh empty-context rereads corroborated selected claims but do not retroactively prove strict clean-session compliance; this is not evidence of credential leakage. Indexed-only fee/jurisdiction/work evidence and timed-out Hildesheim binding PDF remain limited. No clean-session-all-calls claim.",
+    "layoutEvidenceLimit": "Source check contains historical desktop/mobile layout evidence. No build, HTML render, new browser check or publication in this authoring pass."
+  },
+  "datePolicy": "All cited access dates are retained as 2026-11-07, not refreshed by copy editing. Programme contributions are WS2026/27, recurring windows do not confirm WS2027/28, and summer 2027 dates remain labelled. TUM tuition alone explicitly labels winter 2027/28. Provider/insurance fees are dated, not guaranteed 2027 prices.",
+  "planningAssumptions": {
+    "budgetVerdict": "no",
+    "profile": "Pakistan-earned four-year BS CS (2026), CGPA 3.2/4.0, age 23, Lahore, junior developer; winter 2027/28 CS/Data Science target. Parental status and official degree-award minimum unknown.",
+    "familyPKR": 3500000,
+    "salaryMonthlyPKR": 180000,
+    "assumedPKRPerEUR": 325,
+    "stressPKRPerEUR": 350,
+    "expensesEUR": 14757,
+    "refundableDepositEUR": 1000,
+    "contingencyEUR": 1500,
+    "targetEUR": 17257,
+    "targetPKR": 5608525,
+    "shortfallPKR": 2108525,
+    "blockedCurrentEUR": 11904,
+    "blockedShortfallPKR": 368800,
+    "livingAnnualEUR": 12000,
+    "salaryMonths": "December 2026–September 2027 inclusive; not guaranteed or necessarily available before visa funding deadline",
+    "allSalarySavedGapPKR": 308525,
+    "sixtyPercentSavingsGapPKR": 1028525,
+    "exclusions": "Tuition; GRE for Saarland; test retakes; new laptop; exceptional verification. Second year needs separate funding. No future German job, unawarded scholarship or unapproved sponsor treated as available funds.",
+    "status": "Rent, food, insurance reserve, miscellaneous living, contributions reserve, permit/test/document/flight/entry-cover/deposit/buffer and FX are assumptions, not supplier quotations. Blocked principal is inside living funding, not another expense."
+  },
+  "uncertainties": [
+    "Official degree-award minimum, module equivalence, independent-project credit assessment, H+ recognition, scientific thesis suitability and top-10% rank remain applicant-specific; no admission probability.",
+    "Passau 10 ECTS project/abstract/full-paper gate and two-year certificate age were omitted in the source guide but corroborated by retained primary text; Bonn points concern qualifying extra module grades, not overall GPA. Koblenz motivation letter and Saarland referee forms need complete programme instructions.",
+    "All winter 2027/28 application windows and semester contributions unverified; Bonn/Trier winter windows absent; other windows recurring only. Early Saarland November round is for following winter, not a reason to wait until January.",
+    "Hildesheim exact grade floor, operative ranking weights and TOEFL test type unresolved; binding PDF timed out. Koblenz/Hildesheim new-enrolment contribution differences unknown.",
+    "2027 visa blocked amount, personalised document/attestation list, entry-cover duration, insurer tariff and actual enrolment-compatible coverage unknown. Pakistan scholarship recognition must be checked; Pakistani-university award insufficient, HEC award accepted in the mission context.",
+    "No routine APS for Pakistan-earned degree found; qualification-country exceptions and future extra verification remain possible. HEC admission stamps do not equal consular certified-copy requirements; no blanket HEC/IBCC/MOFA visa chain established.",
+    "No numerical current appointment/precheck wait or promised decision/arrival established. Generic arrival administration is a planning checklist; exact local statutory timing source not established.",
+    "Housing, flights, test tariffs, bank selling/transfer rate and fees unquoted. Twelve Expatrio charged months can understate earlier-opening costs. Deposit ties up funds; blocked balance not freely available on arrival. Ten salary months may not precede funding deadline.",
+    "Budget no at assumed FX; all-salary and 60% savings scenarios remain short. Tuition exceptions, GRE/retakes/equipment, exceptional verification and year two need additional funds.",
+    "Historic clean-session method exception remains unresolved; indexed-only and inaccessible-rule evidence limits retained; no new external verification or render certification."
+  ],
+  "editingContract": "Batch32 new assigned English Markdown, schema-v2 JSON and germany author note only; no Chinese locale, source-run/shared/inventory edits, build, network, contacts, applications or publication. Marker-only footer delegates detailed-ledger-unpublished wording to builder.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Pakistani CS graduate applying from Lahore for winter 2027/28, comparing German public-university academic gates, Pakistan-specific visa/document routes and PKR-denominated family and salary funding.",
+  "localeReason": "English only: Pakistan-specific applicant, funding, qualification and PKR profile; no distinct Chinese-reader need established.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}
