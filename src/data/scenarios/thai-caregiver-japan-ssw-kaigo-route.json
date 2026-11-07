@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "slug": "thai-caregiver-japan-ssw-kaigo-route",
+  "translationKey": "thai-caregiver-japan-ssw-kaigo-route",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "th": "จัดทำโดยงาน Cowork ทั่วไปบน DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "th"
+  ],
+  "audience": {
+    "en": "A 26-year-old caregiver in Bangkok earning THB 16,500 a month, with about THB 60,000 in savings, weighing work in Japanese elderly care by mid-2028 through the SSW (i) kaigo route: tests, pay after deductions, budget and placement fees.",
+    "th": "ผู้ดูแลผู้สูงอายุวัย 26 ปีในกรุงเทพฯ รายได้เดือนละ THB 16,500 มีเงินเก็บประมาณ THB 60,000 ที่กำลังพิจารณาทำงานดูแลผู้สูงอายุในญี่ปุ่นภายในกลางปี 2028 ผ่านเส้นทาง SSW (i) kaigo: การสอบ รายได้หลังหักค่าใช้จ่าย งบประมาณ และค่านายหน้า"
+  },
+  "localeReason": "Thai serves this decision directly: Nok lives and works in Bangkok, the Care Skills test is offered in Thai, and the Thai Ministry of Labour and Department of Employment rules on licensed agencies, receipts and fees are the first thing she must check against any broker. Reading the conditions and open issues in Thai helps her compare a recruiter's paperwork with the official wording. It changes no rule, fee, pass mark or date.",
+  "sources": [
+    {
+      "title": "Prometric Japan (MHLW SSW test operator): www.prometric-jp.com/en/ssw/exam/fee/",
+      "url": "https://www.prometric-jp.com/en/ssw/exam/fee/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Prometric Japan (MHLW SSW test operator): www.prometric-jp.com/en/ssw/test_list/archives/2",
+      "url": "https://www.prometric-jp.com/en/ssw/test_list/archives/2",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Prometric Japan (MHLW SSW test operator): www.prometric-jp.com/en/ssw/news/archives/313",
+      "url": "https://www.prometric-jp.com/en/ssw/news/archives/313",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Prometric Japan (MHLW SSW test operator): www.prometric-jp.com/en/ssw/hall/overseas/",
+      "url": "https://www.prometric-jp.com/en/ssw/hall/overseas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Prometric Japan (MHLW SSW test operator): www.prometric-jp.com/en/ssw/schedule/overseas/",
+      "url": "https://www.prometric-jp.com/en/ssw/schedule/overseas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Prometric Japan (MHLW SSW test operator): www.prometric-jp.com/en/ssw/schedule/jft_basic_overseas/",
+      "url": "https://www.prometric-jp.com/en/ssw/schedule/jft_basic_overseas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/stf/newpage_000117702.html",
+      "url": "https://www.mhlw.go.jp/stf/newpage_000117702.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Foundation, JFT-Basic: www.jpf.go.jp/jft-basic/e/about/index.html",
+      "url": "https://www.jpf.go.jp/jft-basic/e/about/index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Foundation, JFT-Basic: www.jpf.go.jp/jft-basic/e/index.html",
+      "url": "https://www.jpf.go.jp/jft-basic/e/index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "JLPT overseas test list: www.jlpt.jp/e/application/overseas_list.html",
+      "url": "https://www.jlpt.jp/e/application/overseas_list.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/policies/ssw/nursingcare.html",
+      "url": "https://www.moj.go.jp/isa/policies/ssw/nursingcare.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/status/specifiedskilledworker.html",
+      "url": "https://www.moj.go.jp/isa/applications/status/specifiedskilledworker.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/gaikokujin/other22/index.html",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/gaikokujin/other22/index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Foreign Affairs of Japan: www.mofa.go.jp/policy/economy/fta/thailand.html",
+      "url": "https://www.mofa.go.jp/policy/economy/fta/thailand.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/content/001452485.pdf",
+      "url": "https://www.moj.go.jp/isa/content/001452485.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html",
+      "url": "https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/stf/newpage_000117702_00015.html",
+      "url": "https://www.mhlw.go.jp/stf/newpage_000117702_00015.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Organization for Technical Intern Training (OTIT): www.otit.go.jp/employment_for_skill_development/moc/index.html",
+      "url": "https://www.otit.go.jp/employment_for_skill_development/moc/index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Embassy of Japan in Thailand: www.th.emb-japan.go.jp/itpr_en/pr26_08.html",
+      "url": "https://www.th.emb-japan.go.jp/itpr_en/pr26_08.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/content/12000000/001692285.pdf",
+      "url": "https://www.mhlw.go.jp/content/12000000/001692285.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Thai Ministry of Labour: lb.mol.go.th/",
+      "url": "https://lb.mol.go.th/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Thai regulation mirror site (non-primary): lawplayer.com/th/act/pythainlp_c303fb0b572ce26c",
+      "url": "https://lawplayer.com/th/act/pythainlp_c303fb0b572ce26c",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Thai Department of Employment, licensed agencies: toea.doe.go.th/LBANK-WEB/main.php",
+      "url": "https://toea.doe.go.th/LBANK-WEB/main.php?menu=viewer_agent&gmenu=2",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/ssw/nyuukokukanri06_00112.html",
+      "url": "https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri06_00112.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/stf/newpage_75950.html",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75950.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/content/11302000/001745621.pdf",
+      "url": "https://www.mhlw.go.jp/content/11302000/001745621.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/toukei/saikin/hw/kaigo/jyujisya/24/dl/r06gaiyou.pdf",
+      "url": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/jyujisya/24/dl/r06gaiyou.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/policies/ssw/faq.html",
+      "url": "https://www.moj.go.jp/isa/policies/ssw/faq.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Job board (non-primary): hataraku-japan.jp/zenkoku/MC74,101",
+      "url": "https://hataraku-japan.jp/zenkoku/MC74,101",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kyokai Kenpo insurance rates: www.kyoukaikenpo.or.jp/about/business/insurance_rate/001/",
+      "url": "https://www.kyoukaikenpo.or.jp/about/business/insurance_rate/001/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/content/001692566.pdf",
+      "url": "https://www.mhlw.go.jp/content/001692566.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Frankfurter API, ECB reference rates (non-primary): api.frankfurter.dev/v1/latest",
+      "url": "https://api.frankfurter.dev/v1/latest?base=JPY&symbols=THB,USD,EUR",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "prep_total": {
+      "label": "Estimated 2027 preparation cost (tests, study, documents; test fees from Prometric, the rest estimated)",
+      "value": 19920,
+      "unit": "THB",
+      "display": "THB 19,920"
+    },
+    "savings_left": {
+      "label": "Savings left of THB 60,000 after preparation (estimate)",
+      "value": 40080,
+      "unit": "THB",
+      "display": "THB 40,080"
+    },
+    "arrival_cash": {
+      "label": "Cash needed on arrival in Japan before the first payday (estimate; flight included)",
+      "value": 186628,
+      "unit": "JPY",
+      "display": "¥186,628"
+    },
+    "takehome_tokyo": {
+      "label": "Example A take-home, Tokyo area, gross ¥250,000 (pension, tax and dorm figures unconfirmed or estimated)",
+      "value": 182774,
+      "unit": "JPY",
+      "display": "¥182,774"
+    },
+    "takehome_aichi": {
+      "label": "Example B take-home, Aichi, gross ¥215,000 (pension, tax and dorm figures unconfirmed or estimated)",
+      "value": 159830,
+      "unit": "JPY",
+      "display": "¥159,830"
+    },
+    "care_test_fee": {
+      "label": "Care test fee in Thailand per line listed (Skills/Japanese; per-test reading assumed)",
+      "value": 450,
+      "unit": "THB",
+      "display": "THB 450"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Nok, 26, caregiver in Bangkok on THB 16,500 a month (about ¥77,864), savings about THB 60,000, currently around N5 level; target arrival June to September 2028.",
+    "route": "SSW (i) kaigo recommended; Employment for Skill Development (starts 1 April 2027) is the backup; EPA care route has no Thai programme on the MHLW page (well supported, not fully closed because the JTEPA annex was unreadable).",
+    "tests": "JFT-Basic 200+ (inference) or JLPT N4, then Care Skills (pass mark 60%) and Care Japanese (pass mark 73%) in Bangkok; THB 450 line assumed per test; two sittings of each budgeted as a retake buffer.",
+    "budget": {
+      "fx": "1 JPY = 0.21191 THB; 1 THB = 4.719 JPY (ECB reference rates via Frankfurter API, 6 November 2026; not checked against the Bank of Thailand)",
+      "pay": "Planning gross ¥215,000 to ¥250,000 (estimate); pension 9.15%, income tax, dorm deductions, 50/50 child-support levy split and living cost ¥70,000 are unconfirmed estimates or assumptions.",
+      "estimates": "Study cost, books, documents, flight THB 12,000, setup ¥60,000, three local trips and timeline dates after December 2027 are the run author's own estimates."
+    }
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. Page dates, fiscal years and test periods are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "No Japan- or caregiver-specific placement-fee cap was found on any official page. The 2004 Ministry of Labour fee rule (1x first-month wage service fee, 3x monthly wage expenses) was read only on a mirror site and its current status was not checked; deposit and refund rules and the 1506 hotline are unconfirmed. The THB 15,000 figure from a recruiting website is unsupported and not used.",
+    "Which Bangkok sessions are for the care tests is unclear: the overseas page and the JFT-Basic page showed the same 15 dates between 3 October 2026 and 14 January 2027. The care test period runs 27 April 2026 to 10 March 2027; later dates were not published when read. The JLPT fee and 2027 JLPT dates were not checked.",
+    "Whether the THB 450 care test fee is per test or for both is not stated; the budget assumes per test (worst case THB 900 too high). That 200 points on JFT-Basic is the SSW pass mark is an inference.",
+    "EPA: the MHLW page names Indonesia, the Philippines and Vietnam only; the JTEPA annex (Annex 7) could not be read, so no Thai programme is well supported but not fully closed.",
+    "Employment for Skill Development: kaigo-specific entry details and year-1 language level were not confirmed; Certified Care Worker eligibility and SSW rules on visiting care, family and job changes were not read.",
+    "Pension 9.15%, income-tax withholding, resident-tax timing, dorm deductions and the 50/50 child-support levy split are unconfirmed; the ¥338,200 survey average is for older, long-tenure staff; several job ads exclude overseas applicants and vacancies are not confirmed open.",
+    "Certificate of Eligibility processing time was not verified; study hours and timeline dates after December 2027 are estimates; the exchange rate is an ECB reference rate."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Thai page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch and search with no signed-in session. Two sub-researcher reports (Thai broker rules; routes) rest on pages the run author did not re-open; the Embassy of Japan SSW page returned 403, and the Annex 7 of JTEPA, wage-structure survey and ISA rent-deduction guidelines were not read.",
+    "independentCheckDisposition": "The run author's second-script check recomputed 66 money figures with no failures. It changed the care-test table (no source says a new test period is expected after 10 March 2027, so the guide says dates were not yet published) and the mobile layout; the guide follows that wording and keeps all remaining open issues. The check was by the same author, not an independent person.",
+    "editingContract": "Only data/thai-caregiver-japan-ssw-kaigo-route.json, en/ and th/ Markdown for this slug and checks/batch41-thai-caregiver-japan-ssw-kaigo-route-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

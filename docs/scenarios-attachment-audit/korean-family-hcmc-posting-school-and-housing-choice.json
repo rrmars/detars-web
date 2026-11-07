@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "sourceDataSha256": "8fdbd41722eaecfcd11e38375197dcf6f8c89b0791e646b82709943fc49f4ef4",
+  "sourceListLink": "../w8-korean-family-hcmc-posting/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "810711f3d462945c846b63ed4e5347848430a19998013287faf24fbd008df4c9",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ko": {
+      "sourceMarkdownSha256": "98794b1b8a3ab112cebbb46986b4562a4f821fd8486ee4db3f6382258f19702f",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

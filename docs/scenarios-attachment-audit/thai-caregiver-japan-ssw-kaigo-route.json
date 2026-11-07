@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "th"
+  ],
+  "sourceDataSha256": "89c4ad8cb4dd626451293c1287757d9308d19d0bf9718439bf66bcdb3e1a8488",
+  "sourceListLink": "../w8-thai-caregiver-japan-ssw/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "4bfdf1d241c02c0903e2a93e7f92a98ac6cafa91c2f10f9564627a00b656659c",
+      "faqPairs": 0,
+      "links": []
+    },
+    "th": {
+      "sourceMarkdownSha256": "20fd52e52711524cc2f1a1e0d043b571bad9ad1354c767805c90197f8ac906a4",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

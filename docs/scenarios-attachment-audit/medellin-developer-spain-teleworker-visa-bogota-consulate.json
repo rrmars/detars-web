@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "es"
+  ],
+  "sourceDataSha256": "a61716de432f4d9cd99d5a0b3d9ef2ad6737a6d69ab2cd28437fa07c0fb8f872",
+  "sourceListLink": "../w8-medellin-developer-spain-nomad-visa/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ac6d26b85bfb8c28db210150175ca52f5c11f60f94095e9630dd5a38b79b7466",
+      "faqPairs": 0,
+      "links": []
+    },
+    "es": {
+      "sourceMarkdownSha256": "d9598a183b2c8d530c606d05ccfaf7f797971dc89586bab31adc3b9856cc32f1",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

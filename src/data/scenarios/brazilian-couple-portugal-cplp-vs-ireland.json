@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 2,
+  "slug": "brazilian-couple-portugal-cplp-vs-ireland",
+  "translationKey": "brazilian-couple-portugal-cplp-vs-ireland",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "pt-BR": "Produzido por uma tarefa geral do Cowork no DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "audience": {
+    "en": "A Brazilian couple in Belo Horizonte (one an electrician, one in administration) with BRL 95,000 in savings, weighing Portugal's CPLP residence route against studying English in Dublin: rules, spouse rights, work limits, rent and a six-month budget.",
+    "pt-BR": "Um casal brasileiro em Belo Horizonte (um eletricista, uma na área administrativa) com BRL 95.000 de economias, que pondera a residência CPLP em Portugal contra estudar inglês em Dublin: regras, direitos do cônjuge, limites de trabalho, aluguel e orçamento de seis meses."
+  },
+  "localeReason": "Brazilian Portuguese serves this couple directly: they live in Belo Horizonte, the CPLP route runs through Portuguese-language forms, the Portuguese consulate and AIMA, and the Portuguese statute names are quoted in the guide, so reading the conditions and open issues in their own language helps them check the wording on official pages. It changes no rule, fee or eligibility.",
+  "sources": [
+    {
+      "title": "Irish immigration service (ISD): policy statement on TrustEd Ireland and immigration requirements (February 2026)",
+      "url": "https://www.irishimmigration.ie/wp-content/uploads/2026/02/Policy-Statement-TrustEd-Ireland-and-Immigration-Requirements.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Citizens Information: immigration for non-EEA students",
+      "url": "https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/studying-in-ireland/immigration-nonEEA-students/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Citizens Information: student visas, fees and funds",
+      "url": "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/student-visas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Irish immigration service (ISD): planning to study in Ireland (indirect read)",
+      "url": "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/planning-to-study-in-ireland/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Irish immigration service (ISD): immigration permission stamps (indirect read)",
+      "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Citizens Information: registration of non-EEA nationals (IRP)",
+      "url": "https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/rights-of-residence-in-ireland/registration-of-non-eea-nationals-in-ireland/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Citizens Information: visa requirements for entering Ireland",
+      "url": "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Atlas Language School Dublin: 2026 price list (school)",
+      "url": "https://atlaslanguageschool.com/wp-content/uploads/2026/03/Atlas-Language-School-Price-List-2026-v4-Dec-2025.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ILSC Dublin: price list (school)",
+      "url": "https://www.ilsc.com/language-schools/price-list/dublin",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Citizens Information: minimum wage in Ireland",
+      "url": "https://www.citizensinformation.ie/en/employment/employment-rights-and-conditions/pay-and-employment/minimum-wage/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "gov.ie: register as an electrician (Safe Electric)",
+      "url": "https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/services/register-as-an-electrician/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CRU: international qualifications for electrical registration",
+      "url": "https://www.cru.ie/regulations-policy/safety/international-qualifications/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Daft.ie rental report Q2 2026 (search summary; page not readable)",
+      "url": "https://www.daft.ie/report/ronan-lyons-2016q2-rental",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Daft.ie rental report Q1 2026 (search summary; PDF not readable)",
+      "url": "https://www.rte.ie/documents/news/2026/05/daft.ie-rental-report-2026q1.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Transport for Ireland: Leap card fares (search summary; page not readable)",
+      "url": "https://www.transportforireland.ie/fares/leap-card/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "HelloSafe: student insurance for Ireland (search summary)",
+      "url": "https://hellosafe.com/travel-insurance/student/ireland-student-visa-insurance",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Diário da República: Lei 23/2007 (consolidated)",
+      "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67564445-200304034",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Diário da República: Lei 61/2025",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "VFS Global Brazil: Portugal important information (partly read)",
+      "url": "https://www.vfsglobal.com/portugal/Brazil/important-information.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Viva em Portugal: qualified job-seeker visa status (secondary)",
+      "url": "https://www.vivaemportugal.com.br/vistos/visto-procura-trabalho-qualificado-portugal/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Grow in Portugal: job-seeker visa (secondary)",
+      "url": "https://www.growinportugal.com/pt/portugal-job-seeker-visa",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Portugal Imigrante: CPLP visa and residence (secondary aggregator)",
+      "url": "https://portugalimigrante.pt/vistos/cplp",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "gov.pt: CPLP residence authorisation service page",
+      "url": "https://www.gov.pt/servicos/obter-autorizacao-de-residencia-cplp",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Portuguese government: minimum wage €920 in 2026",
+      "url": "https://portugal.gov.pt/gc25/comunicacao/noticias/governo-aumenta-salario-minimo-para-920-euros-em-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DGEG: electrical installations, professions and recognition",
+      "url": "https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/atividades-e-profissoes/nas-instalacoes-eletricas-de-servico-particular/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DGEG: electrical installations, activities and professionals",
+      "url": "https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/instalacoes-eletricas-de-servico-particular/atividades-e-profissionais/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "INE Portugal: Q2 2026 median new-lease rents",
+      "url": "https://www.ine.pt/xportal/xmain?DESTAQUESdest_boui=770299146&DESTAQUESmodo=2&xlang=pt&xpgid=ine_destaques&xpid=INE",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Navegante: fares (operator snippet)",
+      "url": "https://navegante.pt/viajar/tarifario-navegante",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Frankfurter: ECB reference rate EUR to BRL, 6 November 2026 (secondary republisher)",
+      "url": "https://api.frankfurter.dev/v1/latest?base=EUR&symbols=BRL",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "savings_eur": {
+      "label": "Savings (BRL 95,000 at EUR 1 = BRL 6.1449, ECB reference rate 6 November 2026 via Frankfurter, unconfirmed)",
+      "value": 15460,
+      "unit": "EUR",
+      "display": "€15,460"
+    },
+    "portugal_6m": {
+      "label": "Portugal CPLP, both apply, first 6 months with no income (modelled; assumptions and secondary-source fees included)",
+      "value": 13905,
+      "unit": "EUR",
+      "display": "€13,905"
+    },
+    "ireland_a_6m": {
+      "label": "Ireland A, one enrols, first 6 months with no income (modelled)",
+      "value": 15833,
+      "unit": "EUR",
+      "display": "€15,833"
+    },
+    "ireland_b_6m": {
+      "label": "Ireland B, both enrol, first 6 months with no income (modelled)",
+      "value": 26024,
+      "unit": "EUR",
+      "display": "€26,024"
+    },
+    "ireland_b_oneoff": {
+      "label": "Ireland B one-off costs, which exceed the savings by €76 (modelled; assumptions included)",
+      "value": 15536,
+      "unit": "EUR",
+      "display": "€15,536"
+    }
+  },
+  "planningAssumptions": {
+    "couple": "Beatriz (administration) and Lucas (electrician), Brazilian, living in Belo Horizonte; savings BRL 95,000.",
+    "fx": "EUR 1 = BRL 6.1449 (ECB reference rate for 6 November 2026 via Frankfurter, a secondary republisher; ecb.europa.eu not opened); whole-unit rounding.",
+    "options": "Portugal CPLP residence for both, living in Lisbon (45 m² flat at the INE median); Ireland B both enrol on separate courses (not confirmed as allowed); Ireland A one enrols.",
+    "placeholders": "Flights €650 per person one way; food €300 per person a month; phone and miscellaneous €150 (couple) or €75 (single); Portugal health insurance €30 per person a month; Portugal paperwork €150; Dublin deposit 1 month, Lisbon deposit 2 months; Dublin couple rent taken as the national double-room figure €806, likely understated.",
+    "income": "Modelled gross at 20 hours a week × €14.15 in Ireland and the €920 monthly minimum in Portugal; no tax, social charges or job-search gap; excluded from the base runways."
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. Page dates, price-list years and rent quarters are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Portuguese primary pages (vistos.mne.gov.pt, AIMA) for visa fees, the CPLP document list, tourist entry, the AIMA backlog and the status of the qualified job-seeker visa were unreachable; CPLP fees, the €920 means, the 4-month visa and the 3 to 6 month wait come from portugalimigrante.pt only. The Portugal recommendation is conditional on consulate confirmation, and the CPLP visa must be obtained before arrival.",
+    "Each spouse applying separately under CPLP, and the permit giving a right to work, are an inference plus a secondary source.",
+    "Stamp 2 versus Stamp 2A: the ILEP-listed English course gets Stamp 2 (20 hours in term, 40 in holidays) and a non-listed course gets Stamp 2A (no work), per Citizens Information plus ISD wording relayed from search-index text; the ISD pages themselves returned only titles, so this is an indirect read. It holds only if the school is actually listed. A settle.ie snippet saying 2A for English students contradicts it and was disregarded; a Citizens Information table says Stamp 2 needs a course of at least one year, unreconciled.",
+    "The ILEP and TrustEd lists could not be read, so whether Atlas or ILSC is listed is unconfirmed; school prices are 2026 lists, not 2027.",
+    "Whether both spouses can enrol separately in Ireland is not stated on any page read; the spouse rule rests on Citizens Information only.",
+    "The Portuguese job-seeker visa: the old visa ended on 23 October 2025; the replacement is for highly qualified work and was reported not operational by VFS and two secondary sites (unconfirmed); a \"Lei 62/2026\" claim was not verified.",
+    "Budget assumptions (flights, food, phone, Portugal health insurance, paperwork, deposits) have no source; the Portugal runway of 6.9 months falls to about 6.5 months with another €100 a month in costs.",
+    "Dublin couple rent uses the national double-room figure €806, likely too low; the Daft Q1 2026 1-bed (€2,012) would add about €1,200 a month. Daft figures are search summaries; no dated individual listings were obtained.",
+    "Income is modelled gross, without tax, social charges or a job-search gap; the exchange rate source is a republisher of ECB data.",
+    "Foreign electrician recognition (Safe Electric/CRU in Ireland; DGEG in Portugal) timelines and routes are unknown and could delay Lucas in either option; working as an employee under a registered técnico is an inference.",
+    "Not researched: food and GP costs from sources, tax and social charges, Portuguese electrician wages, Porto city rents, SNS access, other Dublin schools, exact tourist-stay length in Ireland; a WRC notice on Stamp 2 returned 404."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run’s index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The pt-BR page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch and search, with some pages rendered in a managed signed-out browser profile. irishimmigration.ie pages, daft.ie, idealista, vistos.mne.gov.pt, aima.gov.pt and cplp.aima.gov.pt were blocked or unreadable and were not bypassed; the one ISD file read was a PDF policy statement.",
+    "independentCheckDisposition": "The independent check recomputed all 34 money figures with exact fractions and found 0 failures; one rent rounding inconsistency (€801 versus €800) was fixed in the run and a weak Dublin-versus-Lisbon sentence was replaced. Its remaining issues (assumption-driven budgets, understated Dublin couple rent, no dated listings, unreachable Portuguese primary sources, unreadable ISD pages, secondary FX source, gross income, electrician recognition timelines) are carried in the guide as open issues.",
+    "editingContract": "Only data/brazilian-couple-portugal-cplp-vs-ireland.json, en/ and pt-BR/ Markdown for this slug and checks/batch41-brazilian-couple-portugal-cplp-vs-ireland-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

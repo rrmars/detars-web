@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 2,
+  "slug": "medellin-developer-spain-teleworker-visa-bogota-consulate",
+  "translationKey": "medellin-developer-spain-teleworker-visa-bogota-consulate",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "es": "Producido por una tarea general de Cowork en DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "es"
+  ],
+  "audience": {
+    "en": "A 30-year-old Colombian developer in Medellín, a contractor for a US company, and his partner of four years (29), planning a move to Spain in spring 2027 on the teleworker visa; income USD 5,800 and USD 1,500 a month.",
+    "es": "Un desarrollador colombiano de 30 años en Medellín, contratista de una empresa de Estados Unidos, y su pareja desde hace cuatro años (29), que planean mudarse a España en la primavera de 2027 con la visa de teletrabajo; ingresos de USD 5,800 y USD 1,500 al mes."
+  },
+  "localeReason": "Spanish serves this decision directly: the couple lives in Medellín, the Bogotá consulate page, the partner-proof wording (unión marital de hecho), the forms (ES-CO 3, NIE) and the Spanish laws are all in Spanish, so reading the conditions and open issues in Spanish helps them match the guide to the documents they will be asked for. It changes no rule, fee or eligibility.",
+  "sources": [
+    {
+      "title": "BOE, Ley 28/2022 (teleworker provisions added to Ley 14/2013, arts. 74 bis–quinquies)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-21739&p=20221222&tn=0",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Spanish Consulate General in Bogotá, national visa for teleworking (digital nomad)",
+      "url": "https://www.exteriores.gob.es/Consulados/bogota/es/ServiciosConsulares/Paginas/index.aspx?scca=Visados&scco=Colombia&scd=31&scs=Visados+Nacionales+-+Visado+de+residencia+para+teletrabajo+(n%C3%B3mada+digital)",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Spanish consulate in Moscow, news item of 2 May 2023 on the in-Spain route (not Colombia-specific; possibly outdated)",
+      "url": "https://www.exteriores.gob.es/Consulados/moscu/es/Comunicacion/Noticias/Paginas/Articulos/20230502_NOT1.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BOE, Ley 14/2013 (art. 62.4, family members)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10074&tn=0",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UGE-CE (Ministry of Inclusion), authorisations and requirements",
+      "url": "https://www.inclusion.gob.es/web/unidadgrandesempresas/autorizaciones-y-requisitos",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UGE-CE, family members of the earlier cases",
+      "url": "https://www.inclusion.gob.es/web/unidadgrandesempresas/familiares-de-los-supuestos-anteriores",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UGE-CE, indicative documentation (the PDFs were not readable)",
+      "url": "https://www.inclusion.gob.es/web/unidadgrandesempresas/documentacion-orientativa",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BOE, Real Decreto 126/2026 (SMI 2026)",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3815",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BOE, LIRPF consolidated text (art. 93, special regime)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764&tn=0",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Seguridad Social, RETA 2026 contribution bases",
+      "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ECB euro reference rates (6 November 2026)",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "datos.gov.co, TRM series (Superfinanciera)",
+      "url": "https://www.datos.gov.co/resource/32sa-8pi3.json?$order=vigenciahasta%20DESC&$limit=8",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Segurfer, health insurance for immigrants (broker; unconfirmed)",
+      "url": "https://www.segurfer.es/seguros/salud/seguro-medico-para-inmigrantes",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BOE, Ley de Arrendamientos Urbanos (art. 36, deposit and guarantee)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kayak, Bogotá to Valencia flight route (rough; stale example dates)",
+      "url": "https://www.kayak.com/flight-routes/Bogota-BOG/Valencia-VLC",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Capital.es, rent rise in October 2026 (news citing idealista)",
+      "url": "https://capital.es/economia/el-precio-del-alquiler-sube-un-56-interanual-en-octubre/231963/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Merca2, idealista rent report for October 2026 (news)",
+      "url": "https://www.merca2.es/2026/11/03/idealista-precio-alquiler-octubre-56-2491203/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Wayco, coworking rates (Valencia)",
+      "url": "https://wayco.es/tarifas",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CoworkingValencia, rates",
+      "url": "https://coworkingvalencia.com/tarifas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BeWorking, Málaga coworking",
+      "url": "https://www.be-working.com/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "La Aduana Coworking, Málaga",
+      "url": "https://laaduanacoworking.com/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (apartamento…)",
+      "url": "https://www.pisos.com/alquilar/apartamento-camino_de_suarez29009-69253451554_990695/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (la trinidad marmoles perchel norte29009…)",
+      "url": "https://www.pisos.com/alquilar/piso-la_trinidad_marmoles_perchel_norte29009-69212764848_100500/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (teatinos universidad ciudad universitaria29010…)",
+      "url": "https://www.pisos.com/alquilar/piso-teatinos_universidad_ciudad_universitaria29010-67538149208_106000/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (perchel sur plaza de toros vieja29002…)",
+      "url": "https://www.pisos.com/alquilar/piso-perchel_sur_plaza_de_toros_vieja29002-67554616687_109200/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (camino de suarez29011…)",
+      "url": "https://www.pisos.com/alquilar/piso-camino_de_suarez29011-68408587911_100500/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (centro historico la merced29008…)",
+      "url": "https://www.pisos.com/alquilar/piso-centro_historico_la_merced29008-68347946552_100500/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (portada alta camino de antequera29010…)",
+      "url": "https://www.pisos.com/alquilar/piso-portada_alta_camino_de_antequera29010-67546636290_104100/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (eixample gran via46005…)",
+      "url": "https://www.pisos.com/alquilar/atico-eixample_gran_via46005-66680190992_517747/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (el botanic46008…)",
+      "url": "https://www.pisos.com/alquilar/piso-el_botanic46008-67597473901_511048/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (cami fondo…)",
+      "url": "https://www.pisos.com/alquilar/piso-cami_fondo-68345351323_100500/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (sant francesc…)",
+      "url": "https://www.pisos.com/alquilar/piso-sant_francesc-63381350355_100500/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (la malva rosa46011…)",
+      "url": "https://www.pisos.com/alquilar/piso-la_malva_rosa46011-66676047306_104700/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (hort de senabre…)",
+      "url": "https://www.pisos.com/alquilar/piso-hort_de_senabre-66730064234_106100/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (el pla del real mestalla46021…)",
+      "url": "https://www.pisos.com/alquilar/piso-el_pla_del_real_mestalla46021-69221477289_101800/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pisos.com rent listing example (eixample gran via…)",
+      "url": "https://www.pisos.com/alquilar/atico-eixample_gran_via-56726310658_100900/",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "couple_threshold_reading_a": {
+      "label": "Couple income threshold, reading A (SMI 17,094 ÷ 12 = 1,424.50 base; 200% + 75%)",
+      "value": 3917.38,
+      "unit": "EUR per month",
+      "display": "€3,917.38"
+    },
+    "couple_threshold_reading_b": {
+      "label": "Couple income threshold, reading B (headline SMI 1,221 per payment; 200% + 75%)",
+      "value": 3357.75,
+      "unit": "EUR per month",
+      "display": "€3,357.75"
+    },
+    "andres_income_eur": {
+      "label": "Andrés’s income, USD 5,800 at 1 EUR = 1.1165 USD (ECB, 6 November 2026)",
+      "value": 5194.81,
+      "unit": "EUR per month",
+      "display": "€5,194.81"
+    },
+    "smi_2026": {
+      "label": "SMI 2026, headline monthly figure in 14 payments (Real Decreto 126/2026)",
+      "value": 1221,
+      "unit": "EUR per month",
+      "display": "€1,221"
+    },
+    "budget_malaga": {
+      "label": "Illustrative monthly budget, Málaga (low-confidence cost lean; assumed lines included; before IRPF)",
+      "value": 3023.33,
+      "unit": "EUR per month",
+      "display": "€3,023.33"
+    },
+    "budget_gap_valencia": {
+      "label": "Budget difference Valencia minus Málaga from mid-examples (not a robust city ranking)",
+      "value": 267.76,
+      "unit": "EUR per month",
+      "display": "€267.76"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Andrés (30), contractor for a US company, USD 5,800 a month; Laura (29), freelance designer for foreign clients, USD 1,500 a month; partners of four years, unmarried; arrival around April 2027.",
+    "route": "Teleworker visa at the Spanish Consulate General in Bogotá (via BLS), Andrés as main applicant and Laura as pareja de hecho; later residence authorisation of up to 3 years applied for in the 60 days before the visa expires. The in-Spain route (UGE-CE) is unverified for 2026.",
+    "threshold": "Consulate page: 200% of the SMI for the teleworker and 75% for the first relative, plus 25% per further relative; percentages only. SMI 2026 EUR 1,221 in 14 payments (EUR 17,094 a year). Reading A uses 17,094 ÷ 12 = 1,424.50; reading B uses 1,221. Which base the authorities apply is unresolved.",
+    "budget": {
+      "fx": "1 EUR = 1.1165 USD (ECB reference, 6 November 2026); 1 USD = 3,228.26 COP (TRM valid 6 November 2026); 1 EUR = 3,604.35 COP (derived cross rate)",
+      "rent": "Mid-example 1-bedroom asking rents from pisos.com: Málaga 1,100, Valencia 1,300 (small samples; not availability)",
+      "insurance": "ASISA Health Residents age 30, EUR 576.86 a year from one broker page; unconfirmed; Laura assumed the same",
+      "autonomo": "RETA minimum base 1,732.03 at net income 4,050–6,000 a month; rate of about 31.5% is an unconfirmed assumption",
+      "placeholders": "Utilities and internet 120 a month, food/transport/leisure 900 a month, one return flight a year each at USD 950: assumptions without a source"
+    }
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. The rent listings were read on 8 November 2026. The Moscow consulate item is dated 2 May 2023. Page dates are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Which monthly SMI base the authorities apply to the 200% and 75% thresholds (1,221 per payment or 17,094 ÷ 12 = 1,424.50) is unresolved; the recommendation holds on both readings; whether Laura’s own income counts toward the family threshold is not stated.",
+    "UGE-CE pages (teleworker page, application page, guidance PDFs) and the Cancillería apostille pages were blocked and not bypassed; the in-Spain route, UGE processing time and the fee for the residence authorisation are unverified; the 20-day figure comes from a 2023 Moscow consulate news item.",
+    "Apostille cost and timing, BLS service fee and BLS appointment waits were not found; the 10-day consulate decision limit is the legal one and real processing may be longer.",
+    "Whether Andrés, as a contractor, can use the Beckham regime (art. 93 LIRPF) is unresolved: the BOE text names employees with the teleworker visa.",
+    "The 183-day tax-residence rule has no source in the run, and Colombian-side tax is not sourced.",
+    "Whether Andrés can obtain form ES-CO 3 as a contractor, and whether Laura may work for her own clients on the dependant permit, are adviser questions.",
+    "The autónomo rate of about 31.5% and any first-year reduction are unconfirmed; the budget excludes IRPF.",
+    "Insurance prices rest on one broker, flight prices on search snippets and stale example dates, and city rent averages on news pieces (the Málaga average conflicts: 16.7 and 18.8 €/m²); rent listings are examples from small samples, not availability.",
+    "Málaga is a low-confidence lean on cost only; the Valencia–Málaga gap of about 267.76 a month is driven mostly by rent and coworking and is not a robust city ranking.",
+    "Utilities (120), food/transport/leisure (900) and flights (USD 950 each) are assumptions without a source."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run’s index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Spanish page was translated from the English guide. In the original run, most pages were read by plain HTTP; three UGE-CE pages were read in DeTars’ managed browser profile (no login, no verification passed).",
+    "originalResearchAccessLimitations": "UGE-CE teleworker and application pages and PDFs, Cancillería apostille pages, Idealista, Fotocasa, Habitaclia, Yaencontre, SERPAVI, Expedia, Skyscanner, Trip.com, the AEAT Beckham page and the Banco de la República TRM page were blocked or not retrieved and were not bypassed.",
+    "independentCheckDisposition": "The independent check (same author as the run, a second pass) recomputed every money figure and found them reproducible; it noted cosmetic COP and insurance rounding, fixed missing rent-table rows and a wording point in the run, and left open the unsourced 183-day rule, the 31.5% rate, the SMI base, the weak 2023 Moscow source, and single-broker insurance, flights and city averages. The guide follows these limits.",
+    "editingContract": "Only data/medellin-developer-spain-teleworker-visa-bogota-consulate.json, en/ and es/ Markdown for this slug and checks/batch41-medellin-developer-spain-teleworker-visa-bogota-consulate-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

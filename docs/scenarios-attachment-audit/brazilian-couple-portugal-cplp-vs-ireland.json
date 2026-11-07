@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "sourceDataSha256": "59e1134b2ab458dc6f969a9289758e4d1d3843780bd7b58c12f9c4f3cc1dffc2",
+  "sourceListLink": "../w8-brazilian-couple-dublin-vs-portugal/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ed9fa263e782c2dd53776eb4019d0d9b3d3dfd64f8c23fa6c651f91856f3be03",
+      "faqPairs": 0,
+      "links": []
+    },
+    "pt-BR": {
+      "sourceMarkdownSha256": "1d5eef0b68891d3d19637227a23119e79c07f7150028519ccc6436b09c4b6942",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

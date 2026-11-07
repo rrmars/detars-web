@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "sourceDataSha256": "07ff2114d3546dd6892ba5541965559aec86e715b81cf6ac17a6bbd8da8270a7",
+  "sourceListLink": "../w8-vietnamese-student-new-zealand-post-study/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "2a5526ba2d39fb7360527c96f66c0d16e0568877d3ed446691895cba5c651bde",
+      "faqPairs": 0,
+      "links": []
+    },
+    "vi": {
+      "sourceMarkdownSha256": "7db1468b5468f30009e477fc3f299d5a04edce2ac420107d273934cdc79203d8",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 2,
+  "slug": "korean-family-hcmc-posting-school-and-housing-choice",
+  "translationKey": "korean-family-hcmc-posting-school-and-housing-choice",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ko": "DeTars.xyz의 범용 Cowork 작업으로 작성된 글입니다"
+  },
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "audience": {
+    "en": "A Korean family of four (children aged 9 and 13) posted by an employer to Ho Chi Minh City from March 2027 for 3 years, with rent covered up to USD 2,500 and half of school fees: work permit, school, area, health cover and monthly budget.",
+    "ko": "2027년 3월부터 3년간 회사 주재원으로 호찌민시에 가는 한국인 네 식구(자녀 9세와 13세)가 월세 USD 2,500 상한과 학비 절반 지원을 받는 조건에서 취업허가, 학교, 지역, 건강보험, 월 예산을 판단하는 데 쓰는 글입니다."
+  },
+  "localeReason": "Korean serves this decision directly: the family is Korean, KIS teaches in Korean on the Korean curriculum, and the return-to-Korea school rules, NHIS and Korean-side documents are all handled in Korean, so the conditions and open issues are easier to check against Korean forms and offices. It changes no rule, fee or eligibility.",
+  "sources": [
+    {
+      "title": "english.luatvietnam.vn page",
+      "url": "https://english.luatvietnam.vn/decree-no-219-2025-nd-cp-dated-august-07-2025-of-the-government-on-foreign-workers-in-vietnam-407607-doc1.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "flaw.vn page",
+      "url": "https://flaw.vn/en/intra-corporate-transferee-work-permit-exemption-conditions-vietnam/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnam-briefing.com page",
+      "url": "https://www.vietnam-briefing.com/news/vietnam-apostille-rules-decree-293-2026.html/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "zora.vn page",
+      "url": "https://zora.vn/en/from-september-11-2026-vietnam-applies-apostille-certification-instead-of-consular-legalization",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "danangvisarun.com page",
+      "url": "https://danangvisarun.com/blog/vietnam-visa-costs-2026/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "premiatnc.com page",
+      "url": "https://premiatnc.com/vn/blog/vietnam-temporary-residence-card/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "e.vnexpress.net page",
+      "url": "https://e.vnexpress.net/news/travel/visa/vietnam-extends-visa-waiver-for-citizens-of-12-countries-until-2028-4858311.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "lawfirm-vietnam.tistory.com page",
+      "url": "https://lawfirm-vietnam.tistory.com/965",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ishcmc.com page",
+      "url": "https://www.ishcmc.com/school-fees/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ishcmc.com page",
+      "url": "https://www.ishcmc.com/wp-content/uploads/sites/37/2026/10/ISHCMC_2026-27_Fee_Schedule_07.10.26.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ishcmc.com page",
+      "url": "https://www.ishcmc.com/admissions-process/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ishcmc.com page",
+      "url": "https://www.ishcmc.com/language-programs-and-english-support/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ssis.edu.vn page",
+      "url": "https://www.ssis.edu.vn/admissions/tuition-and-fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "resources.finalsite.net page",
+      "url": "https://resources.finalsite.net/images/v1773021428/saigon/mdwplrmltvaxycfqzbt5/TuitionFeesScheduleSY2627.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nordangliaeducation.com page",
+      "url": "https://www.nordangliaeducation.com/bis-hcmc/admissions/tuition-fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "kshcm.net page",
+      "url": "http://kshcm.net/?menu_no=38",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "kshcm.net page",
+      "url": "http://kshcm.net/?menu_no=60",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "kshcm.net page",
+      "url": "http://kshcm.net/?menu_no=37",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "kshcm.net page",
+      "url": "http://kshcm.net/?menu_no=57&board_mode=view&bno=2516",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "goegn.kr page",
+      "url": "https://www.goegn.kr/goegn/cm/cntnts/cntntsView.do?mi=15925&cntntsId=4639",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "family365.kr page",
+      "url": "https://www.family365.kr/2026/09/2027-overseas-korean-3year-admission.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnamrenty.com page",
+      "url": "https://vietnamrenty.com/expat-guide/where-korean-expats-live-in-hcmc/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnam.vn page",
+      "url": "https://www.vietnam.vn/en/metro-ben-thanh-suoi-tien-don-40-trieu-luot-khach-tinh-chuyen-tang-tau",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "router.project-osrm.org page",
+      "url": "https://router.project-osrm.org/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "livinginvietnam.com page",
+      "url": "https://www.livinginvietnam.com/properties/luxury-3br-apartment-for-rent-midtown-m7-14th-floor/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "rentapartment.vn page",
+      "url": "https://rentapartment.vn/cozy-3-bedroom-on-midtown-phu-my-hung-id-2161/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "rentapartment.vn page",
+      "url": "https://rentapartment.vn/bright-3-bedrooms-on-midtown-phu-my-hung-id-2159/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "rentapartment.vn page",
+      "url": "https://rentapartment.vn/high-end-3-bedroom-apartment-in-midtown-2012/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "livinginvietnam.com page",
+      "url": "https://www.livinginvietnam.com/properties/id-2815-masteri-thao-dien-modern-3br-apartment/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnamrenty.com page",
+      "url": "https://vietnamrenty.com/property/masteri-thao-dien-3-bedroom-apartment-for-rent-m02076/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnamrenty.com page",
+      "url": "https://vietnamrenty.com/property/masteri-thao-dien-3-bedroom-apartment-for-rent-32782/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "housingvietnam.com page",
+      "url": "https://housingvietnam.com/property/luxury-3-bedroom-apartment-for-rent-in-estella-heights/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vss.gov.vn page",
+      "url": "https://vss.gov.vn/english/news/Pages/vietnam-social-security.aspx?ItemID=12713&CateID=198",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "dhhlawfirm.vn page",
+      "url": "https://dhhlawfirm.vn/mandatory-social-insurance-for-foreigners-in-vietnam-rates-withdrawal/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nps.or.kr page",
+      "url": "https://www.nps.or.kr/pnsinfo/sclsmise/getOHAF0131M0.do?id=38_01",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mofa.go.kr page",
+      "url": "https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=374542",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nhis.or.kr page",
+      "url": "https://www.nhis.or.kr/nhis/minwon/minwonServiceBoard.do?mode=view&articleNo=10945796",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "fvhospital.com page",
+      "url": "https://www.fvhospital.com/en/outpatient-care/insurance-assistance/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "fvhospital.com page",
+      "url": "https://www.fvhospital.com/en/financial-information/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "fvhospital.com page",
+      "url": "https://www.fvhospital.com/en/outpatient-care/your-visit-experience/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nts.go.kr page",
+      "url": "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?nttSn=1293236&mi=2516",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "brunch.co.kr page",
+      "url": "https://brunch.co.kr/@s-valueup/2118",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "taxsummaries.pwc.com page",
+      "url": "https://taxsummaries.pwc.com/vietnam/individual/taxes-on-personal-income",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "pwc.com page",
+      "url": "https://www.pwc.com/vn/en/publications/news-brief/251212-new-personal-income-tax-law.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietcombank.com.vn page",
+      "url": "https://www.vietcombank.com.vn/api/exchangerates?date=2026-11-06",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "api.frankfurter.dev page",
+      "url": "https://api.frankfurter.dev/v1/2026-11-06?base=USD&symbols=KRW,VND,EUR",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "cand.vn page",
+      "url": "https://cand.vn/evn-chinh-thuc-cong-bo-bieu-gia-dien-sinh-hoat-sau-khi-giam-gia-dien-post826778.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "btaskee.com page",
+      "url": "https://www.btaskee.com/vi-VN/blog/bang-gia-giup-viec-nha/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "btaskee.com page",
+      "url": "https://www.btaskee.com/vi-VN/trong-tre-tai-nha-theo-gio/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "grab.com page",
+      "url": "https://www.grab.com/vn/blog/bang-thong-tin-cac-dich-vu-tren-ung-dung-grab/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vieteltelecom.vn page",
+      "url": "https://vieteltelecom.vn/gia-cuoc-internet-cap-quang-viettel/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnamnet.vn page",
+      "url": "https://vietnamnet.vn/en/living-costs-for-a-family-of-four-in-hcm-city-approximate-vnd44-2-million-month-2303554.html",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "income_monthly_vnd": {
+      "label": "Monthly family income at mid-market rates (KRW 7,500,000 plus USD 1,200 allowance; salary given as net)",
+      "value": 171961229,
+      "unit": "VND",
+      "display": "VND 171,961,229"
+    },
+    "kis_annual_tuition": {
+      "label": "KIS annual tuition for both children (2026 school-year fees)",
+      "value": 194760000,
+      "unit": "VND",
+      "display": "VND 194,760,000"
+    },
+    "ssis_annual_tuition": {
+      "label": "SSIS annual tuition for both children (SY2026/27)",
+      "value": 1513495000,
+      "unit": "VND",
+      "display": "VND 1,513,495,000"
+    },
+    "saving_kis_monthly": {
+      "label": "Indicative monthly saving with KIS (allowance-heavy budget; assumes both children get seats)",
+      "value": 116660357,
+      "unit": "VND",
+      "display": "VND 116,660,357"
+    },
+    "saving_ssis_monthly": {
+      "label": "Indicative monthly saving with SSIS (fallback if KIS has no seat)",
+      "value": 58713065,
+      "unit": "VND",
+      "display": "VND 58,713,065"
+    },
+    "saving_ishcmc_monthly": {
+      "label": "Indicative monthly saving with ISHCMC",
+      "value": 48475357,
+      "unit": "VND",
+      "display": "VND 48,475,357"
+    }
+  },
+  "planningAssumptions": {
+    "family": "Jihoon (employee) and Soyeon with two children aged 9 and 13; 3-year posting to Ho Chi Minh City starting 1 March 2027.",
+    "pay": "KRW 7,500,000 a month plus a USD 1,200 monthly allowance; the salary was given as net; tax treatment of the allowance not modelled.",
+    "companySupport": "The company pays rent up to USD 2,500 and half of school fees.",
+    "fx": "USD/VND 25,590 (mean of Vietcombank transfer-buy 25,400 and sell 25,780, 6 November 2026); USD/KRW 1,358.73 (ECB-based, not Bank of Korea); KRW/VND 18.8338.",
+    "budget": "About VND 37.1 million of the VND 44.2 million living subtotal is planning allowances, not priced facts; savings are indicative, plausibly about VND 10 million a month either way.",
+    "schools": "KIS fees are for the 2026 school year; the first year costs less because of part-year entry; the KIS case assumes both children get seats and ignores the 10% sibling discount.",
+    "plant": "The plant location is unknown and is the deciding fact between Phu My Hung and Thao Dien / An Phu."
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. Page dates, fee years and rent-listing dates are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The visa section rests on secondary sources: no government site was reachable, Decree 219/2025/ND-CP was read only in part (about 74%), and apostille status for Korean documents, residence-card fees and terms, the dependant route and the LD2/TT-only card rule are unconfirmed.",
+    "The budget is allowance-heavy: about VND 37.1 million of the VND 44.2 million living subtotal is allowances; no grocery, insurance, petrol or mobile prices were obtained; tax and net pay are not modelled.",
+    "Return-to-Korea school rules come from one regional education office, not the Ministry; KIS eligibility rules were verified only for kindergarten and KIS accepts transfers only when a seat is vacant.",
+    "Listings are stale or thin: eight rent examples, several stale, one already rented, one with an inferred date; no evidence on flooding, air quality or peak-hour traffic.",
+    "Exchange rates are an ECB-derived USD/KRW and a Vietcombank mid-rate that flatters real transfer spreads; KIS fees are 2026 not 2027; the BIS column mapping is unverified; bus fees and insurer premiums were not obtained."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-06",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run’s index.html, sources.md and independent-check.md; no web research and nobody contacted.",
+    "editingContract": "Reader-facing English rewrite of the run’s guide in the DeTars voice, followed by a Korean translation of the English page. No new research; every condition, figure, date and open issue kept; unconfirmed items stay unconfirmed."
+  },
+  "domain": "family",
+  "researchDates": [
+    "2026-11-06",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

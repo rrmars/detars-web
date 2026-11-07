@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 2,
+  "slug": "vietnamese-student-new-zealand-post-study-work-visa-route",
+  "translationKey": "vietnamese-student-new-zealand-post-study-work-visa-route",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "vi": "Bài viết do một tác vụ Cowork thông dụng trên DeTars.xyz thực hiện"
+  },
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "audience": {
+    "en": "A Vietnamese student planning to study in New Zealand from mid-2027 with a budget of VND 1.6 billion, choosing between a diploma and a bachelor, Auckland and Christchurch, and asking what each means for a Post-Study Work Visa.",
+    "vi": "Một du học sinh Việt Nam dự định học ở New Zealand từ giữa năm 2027 với ngân sách VND 1,6 tỷ, đang chọn giữa diploma và cử nhân, giữa Auckland và Christchurch, và muốn biết mỗi lựa chọn có ý nghĩa gì với Thị thực làm việc sau tốt nghiệp."
+  },
+  "localeReason": "Vietnamese serves this decision directly: the student and the family who fund the study plan in Vietnamese and in VND, so reading the visa conditions, the unconfirmed budget lines and the open issues in Vietnamese helps them check each limit against the provider and Immigration NZ wording. It changes no rule, fee or eligibility.",
+  "sources": [
+    {
+      "title": "Immigration NZ, Fee Paying Student Visa",
+      "url": "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, student visa fund requirements",
+      "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/student-fund-requirements/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, working on a student visa",
+      "url": "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, fees and levies",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/fees-and-levies/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, Post Study Work Visa",
+      "url": "https://www.immigration.govt.nz/visas/post-study-work-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, staying to work after finishing your study",
+      "url": "https://www.immigration.govt.nz/study/after-you-finish-your-study/staying-to-work-after-finishing-your-study/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, qualifications needed for a Post Study Work Visa",
+      "url": "https://www.immigration.govt.nz/study/after-you-finish-your-study/qualifications-needed-for-a-post-study-work-visa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, new and updated post-study work visa options",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration NZ, changes to education quality assurance and student visas",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/changes-to-education-quality-assurance-and-what-it-means-for-student-visas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NZQA, provider categories after EER",
+      "url": "https://www2.nzqa.govt.nz/tertiary/quality-assurance/eer/provider-categories-after-external-evaluation-and-review/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NZQA provider record (Yoobee Colleges Ltd)",
+      "url": "https://www.nzqa.govt.nz/providers/details.do?providerId=932410001",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Employment NZ, minimum wage rates and types",
+      "url": "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Study with New Zealand, cost of living",
+      "url": "https://www.naumainz.studywithnewzealand.govt.nz/studying-in-nz/before-your-arrival/cost-of-living",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "University of Canterbury, international bachelors tuition fees",
+      "url": "https://www.canterbury.ac.nz/study/getting-started/study-and-living-costs/study-costs/international-tuition-fees/bachelors",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Massey University, Bachelor of Business",
+      "url": "https://www.massey.ac.nz/study/all-qualifications-and-degrees/bachelor-of-business-UBBSS/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ara, International Mini Guide 2027",
+      "url": "https://www.ara.ac.nz/siteassets/documents---home/study/priority-learning-groups/international-students/international-brochures--study-guide/05509_international-mini-guide-1.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ara, NZ Diploma in IT Technical Support Level 5",
+      "url": "https://www.ara.ac.nz/products/programme/nz2596-stru-new-zealand-diploma-in-information-technology-technical-support-level-5/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Yoobee, 2027 international fee list",
+      "url": "https://assets.ctfassets.net/fiyflsm3oqjv/5Hhueilbi3VNE37pHibY3O/e8c6a22e14591cee1a67489b91273f0d/2027_Yoobee_International_Fee_List.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "AUT, fees for student accommodation",
+      "url": "https://www.aut.ac.nz/student-life/accommodation/fees-for-aut-student-accommodation",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Vietcombank, public exchange-rate feed (non-primary for NZD)",
+      "url": "https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "open.er-api.com, NZD mid-market rates (non-primary)",
+      "url": "https://open.er-api.com/v6/latest/NZD",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "student_budget_vnd": {
+      "label": "Student's budget",
+      "value": 1.6,
+      "unit": "VND billion",
+      "display": "VND 1.6 billion"
+    },
+    "budget_in_nzd": {
+      "label": "Budget in NZD at the unconfirmed planning rate of 14,300 VND per NZD",
+      "value": 111888,
+      "unit": "NZD",
+      "display": "NZD 111,888"
+    },
+    "route_a_total": {
+      "label": "Route A total (UC Bachelor of Commerce, Christchurch, 3 yrs; assumptions unconfirmed, visa application fee excluded)",
+      "value": 193990,
+      "unit": "NZD",
+      "display": "193,990"
+    },
+    "route_c_total": {
+      "label": "Route C total (Ara Level 5 IT diploma, Christchurch, 1 yr; assumptions unconfirmed, visa application fee excluded)",
+      "value": 51057,
+      "unit": "NZD",
+      "display": "51,057"
+    },
+    "route_d_total": {
+      "label": "Route D total (Yoobee Level 6 Software Development, Christchurch, 2 yrs; assumptions unconfirmed, visa application fee excluded)",
+      "value": 106640,
+      "unit": "NZD",
+      "display": "106,640"
+    },
+    "route_d_margin": {
+      "label": "Route D margin under the budget (smaller than the missing visa fee or higher insurance could be)",
+      "value": 5248,
+      "unit": "NZD",
+      "display": "NZD 5,248"
+    }
+  },
+  "planningAssumptions": {
+    "student": "Minh Anh, Vietnamese citizen, IELTS 6.0 (from her own brief), study from mid-2027, budget VND 1.6 billion.",
+    "exchangeRate": "1 NZD = 14,300 VND (unconfirmed): Vietcombank USD sell 25,780 x mid-market NZD/USD 0.554247 = about 14,288, rounded. Mid-market NZD/VND on 7 November 2026 was 14,080.76 (non-primary).",
+    "rent": "Auckland NZD 363 a week (AUT Akoranga Student Village); Christchurch NZD 235 a week (unconfirmed midpoint of a non-primary 190-280 shared-room range).",
+    "otherCosts": "Non-rent living NZD 9,000 a year, flights NZD 2,000 per return trip (one a year) and insurance NZD 500 a year are all unconfirmed assumptions; IVL NZD 100; the student-visa application fee is excluded because it was not obtained.",
+    "tuition": "Published values held: UC 2027 then 2028 repeated for year 3; Yoobee flat; no work income subtracted."
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. The Short-Term Graduate Work Visa and the PSWV extension apply from 16 November 2026, so they were not in force on the date read. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Only the 3-year Level 7 bachelor gives an open-work PSWV, and INZ does not state '3 years for a bachelor' in those words; the length is the run's reading.",
+    "General IT and business diplomas were not on INZ's PSWV list as read (the run's inference); the list should be checked again before enrolling.",
+    "The Short-Term Graduate Work Visa (6 months, from 16 November 2026) is a future rule; INZ says further details will be published closer to when it becomes available.",
+    "Christchurch is a provisional city pick: Auckland university fees were not read, and the Christchurch rent of NZD 235 a week is an unconfirmed midpoint from a non-primary site against an Auckland university-residence price.",
+    "The student-visa application fee for Vietnamese citizens was not obtained; non-primary figures conflicted and none is used. The IVL page is dated 8 November 2024 and was not re-verified for 2026.",
+    "Non-rent living costs, flights, insurance (a snippet said 899 against the 500 used) and the VND rate are unconfirmed assumptions; tax and KiwiSaver on part-time pay were not researched.",
+    "AUT, Lincoln and Auckland university fees, any Level 5-6 business diploma fee, a Massey 3-year total and whether Massey's BBus is taught in Auckland were not obtained or confirmed; credit transfer from a diploma to a degree was not verified.",
+    "No primary Christchurch weekly rent and no listing-site rent was captured; the Study with New Zealand cost-of-living page returned an error.",
+    "Partner rights on a student visa were not researched; one INZ work-rights criterion line was cut off in extraction; whether NZQA Category 1 matters was not found either way; Ara's Christchurch location, credit counts and Te Pukenga status rest on thin or no support.",
+    "The re-check after the final edits was run by the research director, not an independent reviewer, so it is weaker than the first independent pass."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Vietnamese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research read pages through a managed signed-out browser profile and plain curl for some provider pages; AUT's fee PDF and the Lincoln page returned 403 and Trade Me 406 and were not bypassed; the Study with New Zealand cost-of-living page returned 429; INZ's fee tool is interactive.",
+    "independentCheckDisposition": "The first, independent check recomputed every figure with no arithmetic failure and raised wording issues (tuition and city claim overstated, graduate-diploma open work unsupported, PSWV length unhedged, untraced employment-agreement, holiday-work and IELTS details, tier labels, quote and partner scope, insurance 899 and the D margin, Ara location). The run's page was edited to fix them and this guide follows the corrected wording. The later re-check was done by the research director, not independently; the Ara-in-Christchurch support stays thin.",
+    "editingContract": "Faithful reader-facing rewrite of the run's guide; no new research, no new facts, no softened caveats. The Vietnamese page is a translation of the English page with identical figures, dates and links."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}
