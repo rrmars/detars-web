@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "4c4285520a3fb5f98b1e1bbf9b7cf0957f88e0da83acdf7bef3dd60335e6e3a0",
+  "sourceListLink": "../w7-india-engineering-student-laptop/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "4081daa78daf7239ea057db320d1296b11eff6508ea1c338e5cc23f945ca4135",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 2,
+  "slug": "dubai-family-rental-al-barsha-discovery-gardens",
+  "translationKey": "dubai-family-rental-al-barsha-discovery-gardens",
+  "sources": [
+    {
+      "title": "L1: Al Barsha 1 / Manazil Al Barsha 02 advertisement",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-manazil-al-barsha-02-168365849.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L2: JVC / Hyati Avenue advertisement; conflicting cheque terms",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-village-circle-district-14-hyati-avenue-168792065.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L3: JLT / Al Seef Tower 2 advertisement",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-jumeirah-lake-towers-jlt-cluster-u-al-seef-towers-al-seef-tower-2-162805242.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L4: Discovery Gardens / Building 130 advertisement; cluster conflict",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-discovery-gardens-cactus-cluster-building-130-164577711.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L5: The Greens / Al Arta 3 advertisement; availability-date conflict",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-greens-al-arta-al-arta-3-164567533.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L6: Palmera 2 townhouse advertisement; two bedrooms plus study in prose",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/townhouse-for-rent-dubai-arabian-ranches-palmera-palmera-2-163254587.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L7: Mirdif semi-independent villa advertisement",
+      "url": "https://www.propertyfinder.ae/en/plp/rent/villa-for-rent-dubai-mirdif-mirdif-villas-164447817.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S2: DLD Smart Rental Index announcement; wording errors not adopted",
+      "url": "https://dubailand.gov.ae/en/news-media/smart-rental-index-announcement/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S15: DLD rental-index entry point; no form submitted or unit result",
+      "url": "https://dubailand.gov.ae/en/eservices/rental-index/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "K1: KHDA Delhi Private School L.L.C; Indian curriculum",
+      "url": "https://web.khda.gov.ae/en/Education-Directory/Schools/School-Details?Id=243&CenterID=112",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "K2: KHDA GEMS Our Own Indian School; Indian curriculum",
+      "url": "https://web.khda.gov.ae/en/Education-Directory/Schools/School-Details?Id=237&CenterID=89",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "K3: KHDA Dhruv Global school; Indian curriculum",
+      "url": "https://web.khda.gov.ae/en/Education-Directory/Schools/School-Details?Id=5579&CenterID=503799",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S3: Law 33/2008 amending tenancy law; Article 4(1) and procedural anchors added at director close-out",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2009/Law%20No.%20(33)%20of%202008%20Amending%20Law%20No.%20(26)%20of%202007.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S5: DLD Ejari register/renew service card; route-specific fees and requirements",
+      "url": "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S6: DEWA move-in; provider-hosted reading retained, clean replacement returned 403",
+      "url": "https://dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S8: DLD FAQ; housing fee and landlord service charges",
+      "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S9: Dubai living guide; housing fee in twelve parts",
+      "url": "https://www.investindubai.gov.ae/en/live-and-work/dubai-real-estate-guide",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S10: DEWA slab tariff and November 2026 fuel surcharges",
+      "url": "https://www.dewa.gov.ae/en/consumer/billing/slab-tariff",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S11: Empower charges; ambiguous consumption units and unused worked-example error",
+      "url": "https://www.empower.ae/customer-care/charges-explanation/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S12: RSB RD10 v1.4 dated 6 February 2026; tariff caps not building bills",
+      "url": "https://rsbdubai.gov.ae/media/baufmpnp/rd10-tariffs-v14.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S13: Empower registration; premises-specific charges",
+      "url": "https://www.empower.ae/customer-care/how-to-register/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S4: Law 26/2007; read subject to 2008 amendments",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2007/Law%20No.%20%2826%29%20of%202007%20Regarding%20regulation%20between%20the%20lessor%20and%20the%20lessee.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S1: Decree 43/2013; renewal-increase bands",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Decree%20No.%20%2843%29%20of%202013%20Determining%20Rent%20Increase%20for%20Real%20Property.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S7: DEWA security refunds after final settlement",
+      "url": "https://www.dewa.gov.ae/en/consumer/billing/request-for-refund",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S14: Empower final bill and security refund",
+      "url": "https://www.empower.ae/customer-care/e-final-bill-procedure/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "barsha_recurring": {
+      "label": "Al Barsha 1 modelled recurring housing, unconfirmed unit costs",
+      "value": 112818.95,
+      "unit": "AED/year",
+      "display": "AED 112,818.95"
+    },
+    "discovery_recurring": {
+      "label": "Discovery Gardens modelled recurring housing, unconfirmed unit costs",
+      "value": 107570,
+      "unit": "AED/year",
+      "display": "AED 107,570"
+    },
+    "greens_recurring": {
+      "label": "The Greens modelled recurring housing, unconfirmed unit costs",
+      "value": 135920,
+      "unit": "AED/year",
+      "display": "AED 135,920"
+    },
+    "barsha_signing": {
+      "label": "Al Barsha signing/keys reserve, excludes moving/furniture and later bills",
+      "value": 22028.15,
+      "unit": "AED",
+      "display": "AED 22,028.15"
+    },
+    "discovery_signing": {
+      "label": "Discovery signing/keys reserve, excludes moving/furniture and later bills",
+      "value": 55682.5,
+      "unit": "AED",
+      "display": "AED 55,682.50"
+    },
+    "greens_signing": {
+      "label": "The Greens signing/keys reserve, excludes moving/furniture and later bills",
+      "value": 44450,
+      "unit": "AED",
+      "display": "AED 44,450"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned index.html, sources.md and independent-check.md read locally. README and VOICE-GUIDE read first. Lisbon Markdown/JSON inspected for structure only. No other run folder or network research accessed during batch31 authoring.",
+    "originalResearchAccessLimitations": "Historic clean-session-only exception remains open. Original du/KHDA web_fetch calls fell back to a pre-existing managed browser; DEWA move-in/slab failures also attempted uncertified browser fallback and search diagnostics used an anonymous research-profile browser.request route. No credentials intentionally supplied/imported is not proof of session cleanliness. Replacement fresh nonpersistent contexts do not retroactively cure it. du and prior KHDA directory fallbacks were excluded; three KHDA detail readings were replaced in fresh contexts. Clean DEWA replacement remained 403; retained provider-hosted reading supports S6. Empower clean replacement rendered full text despite transport 307. No new access claims in this pass.",
+    "independentCheckDisposition": "Assigned independent-check reports 121 assertions, including all 69 cost cells, zero failures, rerun after final source changes. Original register gaps for lease payment method, Ejari documents/time and Arabic precedence were closed by director addendum. This is historical arithmetic/register fidelity evidence, not new live law/listing/tariff verification. Real-world unknowns and historic access exception remain open.",
+    "layoutEvidenceLimit": "Source director reports desktop/mobile source-page checks; no new Markdown build, HTML render, layout or browser certification in batch31 authoring."
+  },
+  "datePolicy": "All 25 cited URL access dates are retained as 2026-11-07 from the assigned source register; none was refreshed. March 2027 is future planning, not an offer or settled fee schedule. Availability dates are not publication dates. Relative listing ages remain relative to 7 November 2026.",
+  "planningAssumptions": {
+    "profile": "Indian family moving from Bengaluru in March 2027; parents late 30s, children 6 and 10, Dubai Internet City workplace.",
+    "salaryMonthlyAED": 38000,
+    "allowanceAnnualAED": 120000,
+    "salaryAnnualAED": 456000,
+    "annualCashIfAllowanceAdditionalAED": 576000,
+    "allowanceMonthlyBudgetEquivalentAED": 10000,
+    "bedrooms": "Two, conditional on children sharing; restart genuine three-bedroom search otherwise.",
+    "recommendation": "Al Barsha 1 first; Discovery Gardens value/Jebel Ali school branch; The Greens short-work-commute branch. School feasibility before long lease.",
+    "selectedHousingModels": [
+      {
+        "listingId": "L1",
+        "area": "Al Barsha 1",
+        "rentAED": 87999,
+        "cheques": 12,
+        "recurringAnnualAED": 112818.95,
+        "firstYearSpendAED": 129893.9,
+        "firstYearGrossCashAED": 138793.85,
+        "firstInstalmentAED": 7333.25,
+        "signingReserveAED": 22028.15,
+        "recurringMinusAllowanceAED": -7181.05
+      },
+      {
+        "listingId": "L4",
+        "area": "Discovery Gardens",
+        "rentAED": 83000,
+        "cheques": 2,
+        "recurringAnnualAED": 107570,
+        "firstYearSpendAED": 124382.5,
+        "firstYearGrossCashAED": 133032.5,
+        "firstInstalmentAED": 41500,
+        "signingReserveAED": 55682.5,
+        "recurringMinusAllowanceAED": -12430
+      },
+      {
+        "listingId": "L5",
+        "area": "The Greens",
+        "rentAED": 110000,
+        "cheques": 4,
+        "recurringAnnualAED": 135920,
+        "firstYearSpendAED": 154150,
+        "firstYearGrossCashAED": 164150,
+        "firstInstalmentAED": 27500,
+        "signingReserveAED": 44450,
+        "recurringMinusAllowanceAED": 15920
+      }
+    ],
+    "unconfirmedReservesAED": {
+      "dewaUsageMonthly": 600,
+      "separateCoolingMonthly": 500,
+      "internetMonthly": 400,
+      "gasMonthly": 50,
+      "contentsAnnual": 400,
+      "minorMaintenanceMonthly": 100,
+      "coolingDeposit": 2500,
+      "coolingSetup": 250,
+      "internetSetup": 250,
+      "localMove": 1500,
+      "furnitureAppliances": 10000,
+      "movePermitAdmin": 300
+    },
+    "unconfirmedRentDepositPercent": 5,
+    "unconfirmedBrokerPercentBeforeVAT": 5,
+    "brokerVATPercent": 5,
+    "housingFeePercent": 5,
+    "ejariTrusteeBudgetAED": 220,
+    "dewaApartmentDepositAED": 2000,
+    "dewaSmallMeterActivationAED": 155,
+    "formulas": {
+      "recurring": "1.05R + 20420",
+      "firstYearExtras": "0.0525R + 12455",
+      "firstYearSpend": "1.1025R + 32875",
+      "refundableCash": "0.05R + 4500",
+      "signingReserve": "R/cheques + refundableCash + 0.0525R + 220 + 155 + 250 + 250 + 300"
+    },
+    "exclusions": "School tuition/bus/admission/books/uniform, temporary accommodation, visa/attestation, flights, international shipping beyond local move reserve, vehicles/fuel/tolls, groceries, healthcare and other living costs; actual parking/gas deposits and management/renewal fees unknown. Signing reserve also excludes 11500 moving/furniture and later bills.",
+    "assumptionStatus": "Common tax-inclusive usage reserves, equal instalments and unchanged rent/tariffs isolate rent/payment effects. They are not quotes or proof of identical building efficiency/provider. Refundable deposits are tied-up cash, not spending."
+  },
+  "uncertainties": [
+    "No March 2027 quote, availability, inspected property, measured commute, official unit index result, executed lease or actual all-in bill; no guaranteed 30-minute route.",
+    "No suitable genuine three-bedroom near DIC at AED 120000 established. Palmera headline three beds conflicts with two plus study; Mirdif does not solve commute.",
+    "L2 cheque field two versus headline twelve; L4 Cactus versus Contemporary cluster and unverified Metro walk; L5 October field versus end-August year-unknown prose; L6 area approximations; L7 area basis, shared pool and flight-path claim unverified.",
+    "KHDA establishes Indian curriculum and primary-grade span/location only, not verified CBSE affiliation, seats, individual grade placement, bus, March/April transfer, 2027 grades or fees. No rankings adopted.",
+    "Allowance salary inclusion, payout timing, permitted use and bank/cheque-book readiness unresolved. Extra-cheque prices are hypothetical, not a verified market premium.",
+    "Landlord deposit/broker percentages unconfirmed for selected three homes; cooling provider/capacity/tariff/allocated components, parking/gas/building deposits and admin/renewal charges unknown. No universal deposit or minor-repair threshold.",
+    "Ejari trustee published 220 versus components 219.75; DEWA charges need move-date confirmation. Empower consumption units ambiguous and unused worked example inconsistent; RSB caps not actual approved building charges. No double-counted fuel, VAT, deposits or cooling.",
+    "Amendment notice ninety days unless otherwise agreed is distinct from qualifying twelve-month eviction; breach/nonpayment has separate process. Old two-year freeze superseded; Arabic prevails. Future law/fees/index require recheck.",
+    "Historic clean-session-only exception remains unresolved; no source refresh, contacts, forms, payments or publication during this authoring pass."
+  ],
+  "editingContract": "Batch31 new English Markdown, schema-v2 data and author note only. English-only profile; no source-run/shared/inventory edits, build, web research or publication. Marker-only footer delegates source-ledger/unpublished sentence to builder.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Indian family relocating from Bengaluru with children aged 6 and 10, a Dubai Internet City job and a specific salary/housing allowance, comparing school-first rental corridors and signing liquidity.",
+  "localeReason": "English only: this Indian-family school-transfer, employer-package and Bengaluru-to-Dubai profile has no distinct Chinese-reader need established under the README audience rule.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

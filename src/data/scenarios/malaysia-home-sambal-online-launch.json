@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 2,
+  "slug": "malaysia-home-sambal-online-launch",
+  "translationKey": "malaysia-home-sambal-online-launch",
+  "sources": [
+    {
+      "title": "SSM EzBiz registration and published fees",
+      "url": "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOH food-premises registration",
+      "url": "https://hq.moh.gov.my/fsq/pendaftaran-premis-makanan",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Food Hygiene Regulations 2009, consolidation identified as March 2024",
+      "url": "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Hygiene+Regulation+2009+as+of+19032024.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOH October 2026 home-based food safety guidance",
+      "url": "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Garis+Panduan+Keselamatan+Makanan+Home-Based+Food+2026_Rev+2_Kemaskini+Oktober+2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOH MeSTI and food-safety-assurance programme",
+      "url": "https://hq.moh.gov.my/fsq/mesti",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Food Regulations 1985, updated until August 2026",
+      "url": "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Regulation+1985+Updated+August+2026+PU+A+48-2026_1.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Matching Food Regulations schedules, August 2026",
+      "url": "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Schedules+in+Food+Regulations+1985+Updated+August+2026+PU+A+48-2026_1.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "JAKIM national statement on voluntary SPHM application",
+      "url": "https://www.islam.gov.my/ms/kenyataan-media/4581-kenyataan-media-jabatan-kemajuan-islam-malaysia-berkaitan-cadangan-kerajaan-negeri-untuk-mewajibkan-pengusaha-premis-makanan-dan-minuman-memiliki-sijil-halal-sebelum-memperbaharui-lesen-perniagaan?tmpl=component",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "JAKIM Circular 1/2026 and amended domestic halal manual",
+      "url": "https://www.halal.gov.my/pdf/pekeliling/PPSHMBIL1-2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TikTok Malaysia commission, October 2026 revision",
+      "url": "https://seller-my.tiktok.com/university/essay?knowledge_id=6907739532281602&lang=en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TikTok Malaysia standard and PayLater payment fees",
+      "url": "https://seller-my.tiktok.com/university/essay?knowledge_id=7753792938985218",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TikTok Malaysia support fee and conditional exemptions",
+      "url": "https://seller-my.tiktok.com/university/essay?knowledge_id=7992113007347457",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TikTok Malaysia conditional new-seller incentive",
+      "url": "https://seller-my.tiktok.com/university/course?content_id=5340419923691266&lang=en&learning_id=5333429600651010",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TikTok Malaysia optional BXP programme charges",
+      "url": "https://seller-my.tiktok.com/university/essay?course_type=1&from=search&knowledge_id=8969995510564625&role=1",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shopee Marketplace commission base and waiver; exact sambal table unread",
+      "url": "https://seller.shopee.com.my/edu/article/6799",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shopee standard payment fee; special methods unconfirmed",
+      "url": "https://seller.shopee.com.my/edu/article/16038",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shopee support fee and eligibility",
+      "url": "https://seller.shopee.com.my/edu/article/25269",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SPX terms updated October 30, 2026, excluding glass",
+      "url": "https://spx.com.my/en/terms-of-service.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "J&T public shipping calculator; no route quote submitted",
+      "url": "https://www.jtexpress.my/index.php/shipping-rates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "J&T domestic chargeable and volumetric weight FAQ",
+      "url": "https://jtexpress.my/index.php/faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ninja Van cited-channel weight rounding guidance",
+      "url": "https://www.ninjavan.co/en-my/support/shipper-support/pricing-and-coverage/how-to-calculate-and-check-shipping-rates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ninja Van public minima, not all-in glass-jar rates",
+      "url": "https://www.ninjavan.co/en-my/logistics-solutions/last-mile-parcel-delivery",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "starting_capital": {
+      "label": "Scenario starting capital, not funding obtained",
+      "value": 8000,
+      "unit": "MYR",
+      "display": "RM8,000"
+    },
+    "protected_buffer": {
+      "label": "Uncommitted buffer while premises and safety remain unresolved",
+      "value": 2830,
+      "unit": "MYR",
+      "display": "RM2,830"
+    },
+    "direct_test_price": {
+      "label": "Modelled direct price; actual delivery extra to buyer",
+      "value": 18,
+      "unit": "MYR/jar",
+      "display": "RM18"
+    },
+    "marketplace_test_price": {
+      "label": "Modelled marketplace price; actual delivery extra to buyer",
+      "value": 20,
+      "unit": "MYR/jar",
+      "display": "RM20"
+    },
+    "mixed_monthly_surplus": {
+      "label": "At 300 jars and assumed 40:60 mix, after owner labour, before tax/capital recovery and extra rent",
+      "value": 1882.8,
+      "unit": "MYR/month",
+      "display": "RM1,882.80"
+    },
+    "mixed_break_even": {
+      "label": "Rounded-up jars per month under base mix and RM450 fixed-cost assumptions",
+      "value": 58,
+      "unit": "jars/month",
+      "display": "58"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and voice guide read first; complete assigned index.html, sources.md and independent-check.md read locally. Lisbon English/data read for structure only. No other run folder read, network research, contact, registration, application or quote submission during authoring.",
+    "originalResearchAccessLimitations": "Original source ledger discloses opaque managed-browser fallback routes whose clean/empty session state was not established. Later fresh-context verification of selected platform sources does not cure this historical exception. Do not describe the whole research process as credential-free or fully clean-session. KPDN current regulation text was not retrieved; MBSA home-premises permission and Shopee exact food commission table remain unread/unconfirmed.",
+    "independentCheckDisposition": "Assigned historical review reports 85 exact arithmetic assertions passed plus six kitchen sensitivities, no material arithmetic defect, and a bounded raw-anchor claim audit. Its stale Shopee-support summary wording was corrected in the source final delta. Standard Shopee payment/support/waiver evidence is primary-verified in the ledger; exact sambal commission and special methods remain unknown. This authoring is not a fresh external verification or approval.",
+    "layoutEvidenceLimit": "Original independent check records sampled desktop/mobile observations and later source-HTML layout checks at 1440x1000 and 390x844. No build, render or visual certification of the new locale guides was performed."
+  },
+  "datePolicy": "All cited sources have original access date November 7, 2026 expressly recorded in the assigned source ledger. No external re-access during authoring. Publication/effective dates differ from access dates; early-2027 rates, laws, waivers and approvals are not guaranteed. Copy editing is not research refresh.",
+  "planningAssumptions": {
+    "profile": "Aisyah, 38, Shah Alam; assumes Malaysian citizen/permanent-resident sole-proprietor eligibility, not individually confirmed.",
+    "netFillGrams": 200,
+    "startingCapitalMYR": 8000,
+    "protectedBufferMYR": 2830,
+    "sixthSalesMonthTargetJars": 300,
+    "pricesMYR": {
+      "direct": 18,
+      "marketplace": 20
+    },
+    "deliveryPolicy": "Buyer pays actual postage separately; no verified route quote or nationwide service. Model assumes postage exactly offset, with shipping-base payment fees and adjustments reconciled separately.",
+    "variableCostsMYRPerJar": {
+      "ingredients": 3.2,
+      "glassAndLid": 1.6,
+      "labelSeal": 0.45,
+      "energyCleaning": 0.35,
+      "ownerLabour": 1.5,
+      "protectivePacking": 1.2,
+      "additionalWasteBreakage": 0.4,
+      "total": 8.7
+    },
+    "batch": {
+      "sellableJars": 30,
+      "ingredientsMYR": 96,
+      "labourHours": 3,
+      "hourlyLabourMYR": 15
+    },
+    "salesMix": {
+      "directPercent": 40,
+      "marketplacePercent": 60
+    },
+    "marketplaceCushions": {
+      "basePercentInclusiveTax": 20,
+      "stressPercentInclusiveTax": 25,
+      "separateOrderReserveMYR": 0.54,
+      "status": "Chosen allowances, not published totals, fee range or ceiling; one jar/order, no waivers or optional paid programmes assumed."
+    },
+    "monthlyFixedMYR": {
+      "marketing": 150,
+      "phoneAdmin": 100,
+      "equipmentMaintenance": 100,
+      "compliance": 100,
+      "total": 450
+    },
+    "mixedEconomics": {
+      "averagePriceMYR": 19.2,
+      "sellingFeesMYRPerJar": 2.724,
+      "contributionMYRPerJar": 7.776,
+      "breakEvenJars": 58,
+      "monthlyRevenueAtTargetMYR": 5760,
+      "monthlySurplusAtTargetMYR": 1882.8
+    },
+    "sharedKitchenSensitivity": {
+      "addedMonthlyMYR": 600,
+      "fixedMonthlyMYR": 1050,
+      "breakEvenJars": 136,
+      "surplusAtTargetMYR": 1282.8,
+      "status": "Sensitivity, not a rental quote; actual cost must fit the budget."
+    },
+    "startupMYR": {
+      "ssmTradeNameAndOptionalInformation": 70,
+      "handler": 150,
+      "councilReserve": 500,
+      "tests": 1000,
+      "hygieneEquipment": 650,
+      "labelsPrototype": 300,
+      "initialStock": 1400,
+      "kitchenTrialReserve": 600,
+      "contentAndCourierTrials": 500,
+      "buffer": 2830,
+      "total": 8000
+    },
+    "postageScenariosMYR": [
+      8,
+      12,
+      20
+    ],
+    "packedWeightExampleKg": 0.85,
+    "cartonExampleCm": [
+      20,
+      20,
+      20
+    ],
+    "salesCalendar": [
+      {
+        "month": "2027-01",
+        "jars": 30,
+        "revenueMYR": 576,
+        "surplusMYR": -216.72
+      },
+      {
+        "month": "2027-02",
+        "jars": 60,
+        "revenueMYR": 1152,
+        "surplusMYR": 16.56
+      },
+      {
+        "month": "2027-03",
+        "jars": 100,
+        "revenueMYR": 1920,
+        "surplusMYR": 327.6
+      },
+      {
+        "month": "2027-04",
+        "jars": 160,
+        "revenueMYR": 3072,
+        "surplusMYR": 794.16
+      },
+      {
+        "month": "2027-05",
+        "jars": 220,
+        "revenueMYR": 4224,
+        "surplusMYR": 1260.72
+      },
+      {
+        "month": "2027-06",
+        "jars": 300,
+        "revenueMYR": 5760,
+        "surplusMYR": 1882.8
+      }
+    ],
+    "calendarQualification": "Conditional January–June 2027 ramp, not demand forecast or cumulative cash balance; every financial row uses the same 40:60 illustration despite direct-first launch actions. January all-direct alternative is RM540 revenue / -RM171 surplus. Shift calendar if gates fail; bundles require fresh order/packing calculations.",
+    "decisionGate": "Resolve exact MBSA premises permission and product/process/storage/shelf-life safety before producing for sale. Use an appropriately approved shared kitchen only if actual cost fits; otherwise delay, not a commercial lease. Confirm glass-compatible acceptance, actual platform deductions and delivery economics before expanding.",
+    "assumptionStatus": "Except identified published tariffs, prices, yields, costs, sales mix, volume ramp and postage are planning assumptions, not quotes or market-tested demand. Surplus already deducts owner labour, but excludes tax, capital recovery and extra rent."
+  },
+  "uncertainties": [
+    "MBSA address-specific permission, applicable licence/planning route, property restrictions, fees, inspections and turnaround; no individual approval secured.",
+    "Actual recipe/texture classification, allergens and supplier composition, container dimensions, validated process, shelf life and chilled-chain needs. Nutrition/date marking likely for sauce classification; 200g is not an exemption.",
+    "KPDN current e-commerce regulation body unavailable; listing advice is prudent preparation, not exhaustive verified law.",
+    "Exact Shopee sambal category commission and special payment/programme rates remain unconfirmed; standard payment/support and conditional eligibility are supported by original primary reads.",
+    "TikTok Pantry Food classification is assumed; early-2027 fees, BXP base, waiver continuation and individual eligibility require confirmation.",
+    "No actual postcode/packed-weight/glass-compatible courier quote or fragile cover; SPX newer public glass exclusion stands unless an applicable contract explicitly permits otherwise.",
+    "Halal kitchen eligibility, owner-as-worker treatment, invoice and extra compliance costs unknown; RM220 is conditional base arithmetic, not all-inclusive approval cost. Original legal Gazette was not a complete consolidated amendment-history review.",
+    "Historical clean-session compliance not fully demonstrated; later clean reads do not erase disclosed opaque fallback routes. No new external verification during localization."
+  ],
+  "editingContract": "Batch31 only new English/Chinese Markdown, this schema2 record and sambal author note. No existing source, inventory, shared file, build, HTML, publication or website-repository changes. Footer marker delegates the unpublished-ledger sentence to the builder.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "Malaysian microbusiness owners, including Chinese-speaking readers, testing home-made sambal sales under the specific Shah Alam premises, safety and budget constraints.",
+    "zh": "计划小规模销售自制参巴的马来西亚经营者，包括华语读者；保留莎阿南场所许可、食品安全及预算条件。"
+  },
+  "localeReason": "English and Chinese: Chinese-speaking Malaysian home-food microbusiness owners can directly use the premises, labelling, halal, platform and buyer-paid delivery decisions. This is a locally useful business audience, not a speculative tourist translation; Bahasa Malaysia label obligations and individual eligibility remain unchanged.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

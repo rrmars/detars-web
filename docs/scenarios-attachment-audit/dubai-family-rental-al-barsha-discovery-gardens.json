@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "19de081ef8d2994c414849c45b56aff473d91db80dbe63552a0f1a14c4e863af",
+  "sourceListLink": "../w7-dubai-indian-family-rental/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "a05c628bfd2f6f558c2873e705481726ca8a8ed3fcf6aab1d589ed89a3e86198",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

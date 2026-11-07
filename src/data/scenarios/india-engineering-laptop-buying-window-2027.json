@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 2,
+  "slug": "india-engineering-laptop-buying-window-2027",
+  "translationKey": "india-engineering-laptop-buying-window-2027",
+  "sources": [
+    {
+      "title": "SOLIDWORKS requirements",
+      "url": "https://www.solidworks.com/support/system-requirements",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "configuration-specific certification database",
+      "url": "https://www.solidworks.com/support/hardware-certification/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mac explanation",
+      "url": "https://blogs.solidworks.com/products/solidworks/how-to-run-solidworks-on-a-mac/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Fusion’s Windows requirements",
+      "url": "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-Fusion-360.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MATLAB requirements",
+      "url": "https://www.mathworks.com/support/requirements/matlab-system-requirements.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ansys Student page",
+      "url": "https://ansys.synopsys.com/en-in/academic/students/ansys-student",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ansys platform-support index",
+      "url": "https://ansys.synopsys.com/en-in/it-solutions/platform-support",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2026 R1 platform document",
+      "url": "https://ansys.synopsys.com/content/dam/it-solutions/platform-support/2026-r1/ansys-platform-support-strategy-plans-april-2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2026 R1 graphics guidance",
+      "url": "https://ansys.synopsys.com/content/dam/it-solutions/platform-support/2026-r1/ansys-2026-r1-graphical-display-graphics-cards-tested.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Croma category price",
+      "url": "https://www.croma.com/asus-gaming/bc/b-0028-7",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "exact HN200WS specification",
+      "url": "https://www.croma.com/asus-tuf-fa506ncg-hn200ws-amd-ryzen-7-gaming-laptop-16gb-512gb-ssd-windows-11-home-4gb-graphics-15-6-inch-144-hz-wuxga-full-hd-display-nvidia-geforce-rtx-3050-ms-office-home-2024-graphite-black-2-3-kg-/p/317192",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Lenovo listing",
+      "url": "https://store.lenovo.com/in/en/nb-loq-15iax9-i5-16g-512g-11s-83gs000pin-566.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "category-price example",
+      "url": "https://www.croma.com/l/asus-tuf-a15-with-ms-office-0atz00a.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "exact HN251WS listing",
+      "url": "https://www.croma.com/asus-tuf-a15-fa506ncg-hn251ws-amd-ryzen-7-gaming-laptop-16gb-1tb-ssd-windows-11-home-4gb-graphics-15-6-inch-144-hz-full-ips-hd-display-nvidia-geforce-rtx-3050-ms-office-home-2024-graphite-black-2-30-kg-/p/319623",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HP specification",
+      "url": "https://www.croma.com/hp-victus-15-fb3125ax-amd-ryzen-7-gaming-laptop-16gb-512gb-ssd-windows-11-home-15-6-inch-144-hz-full-hd-ips-display-nvidia-geforce-rtx-3050-performance-blue-2-29-kg-/p/316560",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "manufacturer specifications",
+      "url": "https://www.acer.com/in-en/laptops/nitro/nitro-v-15-amd/pdp/NH.QPFSI.001",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Flipkart price example",
+      "url": "https://www.flipkart.com/acer-nitro-amd-ryzen-5-hexa-core-7535hs-8-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-anv15-41-gaming-laptop/p/itmd07913dbcc842",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Microsoft India’s Windows 11 Pro",
+      "url": "https://www.microsoft.com/en-in/d/windows-11-pro/dg7gmgf0d8h4",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Acer terms",
+      "url": "https://store.acer.com/en-in/offer-terms-conditions-in",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HP-branded programme",
+      "url": "https://www.hpupgradeprogram.com/Redemption/HP_Online_hpupgradeoffer_Home.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.hpupgradeprogram.com/Redemption/FAQs.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ASUS promotion",
+      "url": "https://www.asus.com/in/microsite/promo/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "4A wording",
+      "url": "https://www.asus.com/in/microsite/4aguarantee/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official offer terms",
+      "url": "https://www.lenovo.com/in/en/lenovo-offer-details/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "June 2026 pre-order terms",
+      "url": "https://dlcdnwebimgs.asus.com/files/media/202606/01e3a074-9301-49c8-8d16-093de24598af/rog_launch_assets/ROG-TUF-Pre-Order-SOP.pdf",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "all_in_budget": {
+      "label": "Hard all-in ceiling",
+      "value": 85000,
+      "unit": "INR",
+      "display": "₹85,000"
+    },
+    "first_laptop_example": {
+      "label": "ASUS HN200WS dated category/index example, not current offer",
+      "value": 70990,
+      "unit": "INR",
+      "display": "₹70,990"
+    },
+    "first_reserved_total": {
+      "label": "ASUS HN200WS with assumed protection and extras, OS unresolved",
+      "value": 78490,
+      "unit": "INR",
+      "display": "₹78,490"
+    },
+    "backup_reserved_total": {
+      "label": "Lenovo reserve basket, over ceiling",
+      "value": 85490,
+      "unit": "INR",
+      "display": "₹85,490"
+    },
+    "full_pro_licence": {
+      "label": "Full new Pro download licence incl GST, not Home upgrade quote",
+      "value": 16515,
+      "unit": "INR",
+      "display": "₹16,515"
+    },
+    "laptop_cap": {
+      "label": "Laptop ceiling after reserves, no added OS cost",
+      "value": 77500,
+      "unit": "INR",
+      "display": "₹77,500"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read README and voice guide first; read complete assigned index.html, sources.md and independent-check.md. Lisbon data/English page inspected for structure only. No other run directories or external research accessed.",
+    "originalResearchAccessLimitations": "Original automatic web_fetch fallbacks used a pre-existing managed-browser session of unverified clean state for Autodesk, Croma category and Acer terms. No deliberate credential reading/import, sign-in, forms, seller contact or purchase reported; prior cookie transmission cannot be excluded. Later clean contexts do not cure historical strict clean-session noncompliance.",
+    "independentCheckDisposition": "Final bounded amendment closes HP delisting, unanchored Fusion native-Mac and Acer-specific fee/date narrative defects. Arithmetic and bounded internal source-consistency pass; not independent external reproduction or purchase-readiness clearance. Source-register extraction accounts are not retained primary text for most claims. Lenovo retained evidence route differs from linked local-store route; exact SKU corroborated, not route/seller identity.",
+    "layoutEvidenceLimit": "Original director reports desktop/mobile/narrow checks; reviewer attributes rather than independently validates pixels. No new guide render/build or visual approval in this authoring pass."
+  },
+  "datePolicy": "All source entries explicitly dated November 7, 2026 in assigned ledger. HP price indexed last month; ASUS category/index and Acer page-title evidence are not live checkout quotes. Price observation is not seller-update date. Copy editing is not a source refresh; no July 2027 price, stock or promotion prediction.",
+  "planningAssumptions": {
+    "profile": "Arjun, Pune mechanical-engineering student starting July 2027, two-wheeler commute, four-year usefulness goal.",
+    "currency": "INR",
+    "allInCeiling": 85000,
+    "protectionReserve": 5000,
+    "extrasReserve": 2500,
+    "extras": {
+      "wiredMouse": 500,
+      "paddedWeatherProtectedBagOrSleeve": 1500,
+      "deliveryContingency": 500
+    },
+    "noDiscountsCredited": true,
+    "fullNewProSensitivity": 16515,
+    "institutionEntitlement": "unverified",
+    "homeToProUpgradeCost": "unknown",
+    "applicationLicenceCosts": "unpriced; any required paid licence must fit remaining family budget",
+    "future32GBUpgrade": "unfunded; per-SKU route and cost unverified",
+    "decisionGate": "Wait until June–early July 2027 and reprice complete upfront basket. First choice ASUS TUF FA506NCG-HN200WS; conditional backup Lenovo LOQ 15IAX9 83GS000PIN. No fully verified supported-OS/protected basket under INR 85,000 established.",
+    "models": [
+      {
+        "sku": "FA506NCG-HN200WS",
+        "price": 70990,
+        "priceStatus": "Croma indexed/category example incl taxes",
+        "ramGB": 16,
+        "ssdGB": 512,
+        "gpuVRAMGB": 4,
+        "batteryWh": 48,
+        "massKg": 2.3,
+        "reservedTotal": 78490,
+        "fullProTotal": 95005
+      },
+      {
+        "sku": "83GS000PIN",
+        "price": 77990,
+        "priceStatus": "Opened local-store example incl tax/shipping; Unknown Seller and location unavailable",
+        "ramGB": 16,
+        "ramLayout": "2x8",
+        "ssdGB": 512,
+        "gpuVRAMGB": 6,
+        "batteryWh": 60,
+        "massKg": 2.45,
+        "adapterW": 170,
+        "reservedTotal": 85490,
+        "fullProTotal": 102005
+      },
+      {
+        "sku": "FA506NCG-HN251WS",
+        "price": 78990,
+        "priceStatus": "Indexed category example incl taxes",
+        "ramGB": 16,
+        "ssdTB": 1,
+        "gpuVRAMGB": 4,
+        "batteryWh": "unknown",
+        "massKg": 2.3,
+        "reservedTotal": 86490,
+        "fullProTotal": 103005
+      },
+      {
+        "sku": "15-fb3125AX / BV3E4PA",
+        "price": 81990,
+        "priceStatus": "Historical indexed last month incl taxes, current unconfirmed",
+        "cpuSpelling": "Croma 7445H; manufacturer suffix unconfirmed",
+        "ramGB": 16,
+        "ramLayout": "1x16",
+        "ssdGB": 512,
+        "gpuVRAMGB": 6,
+        "batteryWh": 52.5,
+        "massKg": 2.29,
+        "reservedTotal": 89490,
+        "fullProTotal": 106005
+      },
+      {
+        "sku": "ANV15-41-R2VD / NH.QPFSI.001",
+        "price": 82999,
+        "priceStatus": "Flipkart page-title example; later M429; tax/delivery breakdown unverified",
+        "ramGB": 8,
+        "ssdGB": 512,
+        "gpuVRAMGB": 6,
+        "batteryWh": {
+          "manufacturer": 59,
+          "retailer": 57,
+          "resolution": "unresolved"
+        },
+        "massKgApprox": 2.1,
+        "adapterW": 135,
+        "reservedTotalBeforeRAM": 90499,
+        "fullProTotalBeforeRAM": 107014
+      }
+    ],
+    "assumptionStatus": "Reserves and SSD/RAM shopping targets are planning judgments, not applicable care/accessory/upgrade quotations or proven long-term capability. All candidates bundle Home; supported OS and software costs unresolved."
+  },
+  "uncertainties": [
+    "No verified supported-OS/protection/accessory basket under INR 85,000; no exact institutional/course licence or OS entitlement.",
+    "Gaming GPUs are not established certified workstation configurations; Pro does not certify the GPU. Exact releases/modules matter; Discovery display requirements are not universal solver requirements.",
+    "Unknown Lenovo seller, local fulfilment, Pune stock/delivery, tax/shipping breakdowns and return/replacement duration require confirmation.",
+    "Exact care fees, tax, channel/SKU eligibility, certificate dates, exclusions, claim contributions and battery/adapter coverage unconfirmed. Four years use does not imply four years cover.",
+    "HP price/7445H suffix, HN251WS battery, Acer 59/57Wh conflict and 8GB upgrade cost, ASUS/HP onsite/carry-in conflict remain open.",
+    "No exact 32GB memory path, workload benchmarks, comparable runtime, thermals/noise, loaded carrying mass or weather/drop/crash durability established.",
+    "Lenovo student up-to10% versus max5% wording conflicts; dated cashback is deferred, not upfront cash or stackable guaranteed saving. Expired ASUS terms not applied to these A15s.",
+    "Original strict clean-session compliance not established; later checks cannot cure it. No new external access, transaction, contact or verification performed."
+  ],
+  "editingContract": "Batch31 new English Markdown, schema2 JSON and short laptop author note only. No Chinese need established. No source-run/shared/inventory changes, build, publication or external research. Footer marker only; renderer adds unpublished-ledger sentence.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Indian mechanical-engineering students and families buying for Pune study and a two-wheeler commute, with a hard INR 85,000 all-in budget and India-specific warranty channels.",
+  "localeReason": "English only: Indian student, Pune delivery/local service, institution OS entitlement and India retailer/protection profile; no distinct Chinese-reader need established under README audience rule.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "c9e041b376b7ae3aa15749065293fc38eb02db73e41400eedd72e62ef1852ca3",
+  "sourceListLink": "../w7-malaysia-homemade-sambal-online/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f106e9af67cb7721a800b01ed24941a1eda8278107454e617919b64ec995909b",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "c37706ee7fa62e8222560f97b6aba25eb0a8a45dc8470b84521de442d3d7dc60",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
