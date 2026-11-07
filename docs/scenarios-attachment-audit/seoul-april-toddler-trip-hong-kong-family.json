@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "sourceDataSha256": "b04df6049b4ae492f6b4110b59eb578830e0ccbd3e275429f93f66a1549f2b66",
+  "sourceListLink": "../w7-seoul-toddler-trip-hong-kong-family/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "107a3bcda0ef29ee96363009cd738cc11ab00a975ef94ccafbe967c00ffb7c5f",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh-Hant": {
+      "sourceMarkdownSha256": "ce7631c55a408264a2c5d47d8be5ee9835df95c3633864228919373e37cca096",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

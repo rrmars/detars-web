@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "ddad908b5ea50d3ee17ae9f898c9784d89251006a7262041d2d7cfbb92d36613",
+  "sourceListLink": "../w7-chiang-mai-us-retiree-social-security/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "8bf504799ed401df7772cc566e4ad8a8c0544cb7e749bc734605dd0d50e5a078",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

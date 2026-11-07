@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "id"
+  ],
+  "sourceDataSha256": "c64502b9b5283d89a4253d85483c9e378f594e4255bc2b651f91745e3de4f8a5",
+  "sourceListLink": "../w7-yogyakarta-batik-international-sales/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "c63dd836484c16dd6430e398512de1b6e5fb6bee67bc1a64cea356ad2192b609",
+      "faqPairs": 0,
+      "links": []
+    },
+    "id": {
+      "sourceMarkdownSha256": "164cab2a8bbc7fe1ae164e110bb9779f582b30ba624b070999f5f057a0b12c5b",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

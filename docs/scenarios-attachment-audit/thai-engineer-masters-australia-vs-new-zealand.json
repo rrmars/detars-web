@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "th"
+  ],
+  "sourceDataSha256": "341589beb43574ae534fd933f5cce401416b5703dd92b3967d42c7f097d32f5f",
+  "sourceListLink": "../w7-thai-engineer-masters-australia-vs-nz/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ace86039dad94c81a2a35b7c0e818c3c037a688aa6f8d594c47e9833d6094dc7",
+      "faqPairs": 0,
+      "links": []
+    },
+    "th": {
+      "sourceMarkdownSha256": "94080bc9796cd0d685b472f9012ac69f84aa1377bedd4aa917b284af360df30b",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

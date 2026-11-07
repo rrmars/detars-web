@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "sourceDataSha256": "8582cba548edf1d698a47e34cf3820ee23064fca39fd553e79637d4e6e5ae079",
+  "sourceListLink": "../w8-vietnamese-nurse-germany-recognition/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "090698ee638d5570d458a2e5db0bf80d7aeb48fc62cbb6d78b0ba9b68a03eeb5",
+      "faqPairs": 0,
+      "links": []
+    },
+    "vi": {
+      "sourceMarkdownSha256": "6c668bb80527cb6a41ec9467635dbe5809792d6add5691123a70cbcf52ab727c",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

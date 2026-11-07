@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "slug": "chiang-mai-us-retiree-social-security-budget",
+  "translationKey": "chiang-mai-us-retiree-social-security-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Linda, 66, a single retired Ohio school administrator living on USD 2,350 a month Social Security plus a USD 900 pension and USD 140,000 in savings, planning a Chiang Mai move in October 2027.",
+  "localeReason": "English only: the scenario is a specific US retiree dealing with Thai immigration, US Medicare and US–Thai tax questions, and the sources are English-language government and company pages. No translation was made.",
+  "sources": [
+    {
+      "title": "Royal Thai Embassy Washington: Non-O retirement",
+      "url": "https://washingtondc.thaiembassy.org/en/page/non-o-retirement",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Royal Thai Embassy Washington: Non-O-A",
+      "url": "https://washingtondc.thaiembassy.org/en/page/non-oa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Thailand government retirement extension summary",
+      "url": "https://thailand.go.th/visit-thailand-detail/001_01_134",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Independent retirement guide (non-government)",
+      "url": "https://thailand.immigration.travel/en/retirement/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Royal Gazette retirement order PDF",
+      "url": "https://ratchakitcha.soc.go.th/documents/117219.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Immigration 90-day reporting",
+      "url": "https://samutsakhon.imm.police.go.th/en/over90days.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Immigration public handbook: extension of stay",
+      "url": "https://tak.immigration.go.th/wp-content/uploads/2026/07/3-Public-Handbook-Application-for-Extension-of-Stay.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Immigration public handbook: re-entry permit",
+      "url": "https://tak.immigration.go.th/wp-content/uploads/2026/07/12-Public-Handbook-Application-for-Re-Entry-Permit-to-Return-into-the-Kingdom.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BOI Long-Term Resident visa",
+      "url": "https://ltr.boi.go.th/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Royal Thai Embassy Washington: DTV",
+      "url": "https://washingtondc.thaiembassy.org/en/page/dtv-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Royal Thai Embassy London: DTV",
+      "url": "https://london.thaiembassy.org/en/page/destination-thailand-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Thai general insurers' O-A participating list",
+      "url": "https://longstay.tgia.org/companiesoa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Thai Health O-A / Excellency tariff",
+      "url": "https://www.thaihealth.co.th/en/non-immigrant-o-a-1-year/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Chubb Long Stay Visa Health Premium",
+      "url": "https://www.chubb.com/th-en/personal/long-stay-visa-premium.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bangkok Hospital Chiang Mai: essential check-up",
+      "url": "https://www.bangkokhospital.com/en/chiangmai/package/essential-medical-program-male-female-bcm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bangkok Hospital Chiang Mai: gastro and colonoscopy package",
+      "url": "https://www.bangkokhospital.com/zh/chiangmai/package/bdms-gastro-colonoscopy-bcm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Medicare: avoid penalties",
+      "url": "https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Medicare coverage outside the United States (April 2026)",
+      "url": "https://www.medicare.gov/publications/11037-medicare-coverage-outside-the-united-states.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Medicare: when can I sign up",
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Social Security: payments outside the US",
+      "url": "https://www.ssa.gov/international/payments_outsideUS.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRS: US-Thailand tax treaty",
+      "url": "https://www.irs.gov/pub/irs-trty/thailand.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Thai Revenue Department foreign-income explainer (2024)",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/lorkhor/newspr/2024/FOREIGNERS_PAY_TAX2024.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Thai Revenue Department English overview (older)",
+      "url": "https://www.rd.go.th/english/6045.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRS: US citizens and resident aliens abroad",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Perfect Homes: d'VIENG DV 040, Santitham",
+      "url": "https://perfecthomes.co.th/property/city-condo-to-rent-at-d-vieng-condominium/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Perfect Homes: Palm Springs Parlor PSC 069, Nimman",
+      "url": "https://perfecthomes.co.th/property/prime-one-bedroom-condo-near-one-nimman/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Perfect Homes: The Unique UNQ 048, Nimman",
+      "url": "https://perfecthomes.co.th/property/elegant-condo-living-nimman-suthep/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_outflow_thb": {
+      "label": "Planned monthly outflow",
+      "value": 73948,
+      "unit": "THB/month",
+      "display": "THB 73,948",
+      "status": "About USD 2,112.80 at an assumed 35 THB/USD; allowances, not confirmed 2027 prices"
+    },
+    "gross_income_thb": {
+      "label": "Gross monthly income",
+      "value": 113750,
+      "unit": "THB/month",
+      "display": "THB 113,750",
+      "status": "USD 3,250 at the assumed 35 THB/USD; gross, before tax"
+    },
+    "cushion_thb": {
+      "label": "Unallocated monthly cushion before taxes",
+      "value": 39802,
+      "unit": "THB/month",
+      "display": "THB 39,802",
+      "status": "Before US/Thai tax and unpriced costs"
+    },
+    "extension_deposit_thb": {
+      "label": "Thai-bank deposit for the retirement extension",
+      "value": 800000,
+      "unit": "THB",
+      "display": "THB 800,000",
+      "status": "Dated 2023 summary; revalidate locally"
+    },
+    "thai_insurance_thb": {
+      "label": "Thai insurance monthly allowance",
+      "value": 15846,
+      "unit": "THB/month",
+      "display": "THB 15,846",
+      "status": "Thai Health EX3M, age 66-70, tariff snapshot; not a quote"
+    },
+    "health_reserve_thb": {
+      "label": "Illustrative separate health reserve",
+      "value": 500000,
+      "unit": "THB",
+      "display": "THB 500,000",
+      "status": "Planning choice, not a guarantee of sufficiency"
+    }
+  },
+  "planningAssumptions": {
+    "profile": {
+      "name": "Linda",
+      "age": 66,
+      "state": "Ohio",
+      "maritalStatus": "single",
+      "socialSecurityUsdMonthly": 2350,
+      "pensionUsdMonthly": 900,
+      "savingsUsd": 140000,
+      "targetMove": "October 2027"
+    },
+    "fxAssumption": "35 THB per USD, planning convention only; stress case 30 THB per USD",
+    "recommendation": "Non-Immigrant O retirement visa then annual retirement extensions in Thailand; Thai-bank deposit route preferred for the first extension if feasible; keep Medicare Part B while a US return is plausible; buy suitable Thai health cover",
+    "monthlyBudgetThb": {
+      "rent": 15000,
+      "utilities": 2500,
+      "internetMobile": 1000,
+      "food": 12000,
+      "transport": 3000,
+      "outpatientDental": 3000,
+      "thaiInsurance": 15846,
+      "partB": 7102,
+      "visaAdmin": 500,
+      "travelReserve": 5000,
+      "leisureMisc": 4000,
+      "contingency": 5000,
+      "outflow": 73948,
+      "grossIncome": 113750,
+      "cushion": 39802
+    },
+    "qualification": "Social Security assumed gross; if net of Part B, remove the duplicate deduction. Tax, car, long-term care, uninsured major illness, US plan premiums and one-off moving costs are outside the budget. Not legal, tax or insurance advice."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-07",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "No network. README Locale contract and VOICE-GUIDE read first; batch37 Manila page and data, HCMC pages and batch38 extra-locale examples read for conventions. Only the assigned run folder was read: index.html, sources.md and independent-check.md in full.",
+    "originalResearchAccessLimitations": "Early discovery used managed browser profiles whose cookie state was not proved clean, so a clean-session guarantee cannot be given for those calls; later reads used a fresh context. Three Thai government pages were read through browser fallback. The retirement-order Gazette PDF text was unreadable and was not translated. No insurer, hospital, agent or authority was contacted and no quote was requested.",
+    "independentCheckDisposition": "The separate check recomputed every budget row and derived amount at 35 THB/USD and found them correct. It found one error, the projected age on arrival (67/68), which was corrected to 66 or 67 in the run's page and ledger; this guide uses 66 or 67. It did not certify the newer immigration order, 2027 prices, personal underwriting or tax, or catastrophic-care pricing.",
+    "layoutEvidenceLimit": "The run's own page was layout-tested at 1440, 390 and 320 px. No build, browser, visual, accessibility or print check was performed for these new files."
+  },
+  "datePolicy": "All source access dates keep 7 November 2026 from the run's ledger, not the authoring date. Published dates inside sources, offer end dates and the October 2027 move date are kept separate; no external refresh.",
+  "uncertainties": [
+    "A newer Thai retirement order was retrieved but its text was unreadable and no translation was verified; a secondary guide's claims are unconfirmed",
+    "Hospital prices come from one hospital (two outpatient package examples); no second-hospital price verified",
+    "No verified price for catastrophic care (intensive care, major surgery, cancer treatment)",
+    "Insurance acceptance, exclusions and exact premium; 2027 tariffs; Linda's exact birthday",
+    "Current Medicare enrollment; Special Enrollment Period eligibility; whether Social Security is gross or net of Part B; Medigap and retiree-plan rights",
+    "Legal classification of the USD 900 pension; actual US and Thai tax treatment; FBAR/Form 8938 and Ohio residency",
+    "Thai bank account opening, deposit seasoning and what the Chiang Mai office accepts as income evidence for a first extension",
+    "Extension and re-entry fees come from older handbooks and the extension thresholds from a 2023 summary; 2027 requirements unconfirmed",
+    "Rent listings are advertised examples seen on one day; no Hang Dong condo price verified; deposit terms assumed",
+    "Early managed-browser discovery cannot be certified as clean-session"
+  ],
+  "editingContract": "Only new data/chiang-mai-us-retiree-social-security-budget.json, en/chiang-mai-us-retiree-social-security-budget.md and checks/batch39-chiang-mai-us-retiree-social-security-budget-notes.md. English only. No slugs, manifest, build, checker, other guides or run folders changed; no contact, accounts or publication.",
+  "domain": "living",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 2,
+  "slug": "yogyakarta-batik-international-sales-etsy-first",
+  "translationKey": "yogyakarta-batik-international-sales-etsy-first",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "id": "Dibuat oleh tugas Cowork umum di DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "id"
+  ],
+  "audience": {
+    "en": "Dewi, who runs a batik workshop in Yogyakarta with two artisans and IDR 20 million to start selling silk and cotton scarves abroad in 2027.",
+    "id": "Dewi, pemilik bengkel batik di Yogyakarta dengan dua perajin dan IDR 20 juta untuk mulai menjual syal sutra dan katun ke luar negeri pada 2027."
+  },
+  "localeReason": "English and Indonesian: Dewi is an Indonesian maker in Yogyakarta, so Indonesian serves her directly for the customs, tax and bank steps that run through Indonesian agencies and banks, while English keeps the platform, carrier and buyer-country rules in the language those sources use. Neither page changes eligibility or the unconfirmed items.",
+  "sources": [
+    {
+      "title": "Etsy: countries eligible for Etsy Payments",
+      "url": "https://help.etsy.com/hc/en-us/articles/115015710408-Countries-Eligible-for-Etsy-Payments",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Etsy: payment processing fees",
+      "url": "https://help.etsy.com/hc/en-us/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Etsy: fees policy",
+      "url": "https://www.etsy.com/legal/fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Etsy: fees and taxes for selling",
+      "url": "https://help.etsy.com/hc/en-us/articles/115014483627-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Etsy: receiving your payment deposit",
+      "url": "https://help.etsy.com/hc/en-us/articles/360046998234-How-to-Receive-Your-Etsy-Payments-Deposit",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Etsy: currencies supported for Etsy Payments",
+      "url": "https://help.etsy.com/hc/en-gb/articles/360000337767-Currencies-Supported-for-Etsy-Payments",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Etsy: creativity standards",
+      "url": "https://www.etsy.com/legal/creativity/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shopify Indonesia pricing",
+      "url": "https://www.shopify.com/id-id/pricing",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shopify Payments supported countries",
+      "url": "https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shopify third-party transaction fees",
+      "url": "https://help.shopify.com/en/manual/your-account/manage-billing/billing-charges/types-of-charges/third-party-charges/third-party-transaction-fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Xendit: Shopify integration",
+      "url": "https://docs.xendit.co/docs/shopify",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Xendit: payment channels in Shopify",
+      "url": "https://help.xendit.co/hc/en-us/articles/4411307446809-What-are-the-available-payment-channels-in-Shopify",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Xendit pricing",
+      "url": "https://www.xendit.co/en/pricing/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Xendit: Indonesia business documents",
+      "url": "https://docs.xendit.co/docs/indonesia-business-documents",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Xendit: adding a withdrawal bank account",
+      "url": "https://docs.xendit.co/docs/add-withdrawal-bank-account",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "WooCommerce pricing",
+      "url": "https://woocommerce.com/pricing/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Xendit: WooCommerce integration",
+      "url": "https://docs.xendit.co/docs/woocommerce",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "eBay: international fees for global sellers",
+      "url": "https://www.ebay.com/help/selling/fees-credits-invoices/international-fees-ebay-global-sellers?id=5224",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "eBay: seller fees",
+      "url": "https://www.ebay.com/help/selling/fees/fees-sellers?id=4822",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "eBay: free listings",
+      "url": "https://www.ebay.com/help/selling/listings/listing-tips/free-listings?id=4163",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "eBay Southeast Asia: Payoneer account",
+      "url": "https://export.ebay.com/sea-en/first-steps/how-to-create-seller-account/payoneer-account/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "eBay Southeast Asia: managed payments (Indonesian)",
+      "url": "https://export.ebay.com/sea-id/fees-regulations-policies/transactions/ebay-is-managing-payments/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Payoneer Indonesia",
+      "url": "https://www.payoneer.com/id/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Amazon Handmade programme",
+      "url": "https://sell.amazon.com/programs/handmade",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Amazon Seller Central: registration countries",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200405020?locale=en-U",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Payoneer: adding payment details to an Amazon store",
+      "url": "https://www.payoneer.com/resources/how-to-use-payoneer/video-how-to-add-your-global-payment-service-details-to-your-amazon-store/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OSS Indonesia: individual micro and small business guide",
+      "url": "https://oss.go.id/id/panduan/635970086345c7d71a814499",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian Customs: customs registration",
+      "url": "https://beacukai.go.id/registrasi-kepabeanan",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian Customs: FAQ on postal export consignments",
+      "url": "https://beacukai.go.id/faq-ekspor-barang-kiriman",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian Customs: FAQ on export procedures",
+      "url": "https://beacukai.go.id/faq-tatalaksana-ekspor",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian Customs: export clinic",
+      "url": "https://lampung.beacukai.go.id/mandatory/klinik-ekspor.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "INSW: product restriction lookup",
+      "url": "https://insw.go.id/intr/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tax office: PP 20/2026 amending PP 55/2022",
+      "url": "https://pajak.go.id/id/peraturan/perubahan-atas-peraturan-pemerintah-nomor-55-tahun-2022-tentang-penyesuaian-pengaturan-di",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PP 20/2026 official PDF",
+      "url": "https://pajak.go.id/sites/default/files/lampiran/PP_20_2026_Perubahan%20PP%2055%20Tahun%202022.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tax office press release of 24 June 2026",
+      "url": "https://pajak.go.id/id/siaran-pers/pph-final-umkm-tetap-05-persen-djp-perkuat-ketepatan-sasaran",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tax office: PP 55/2022 income tax provisions",
+      "url": "https://www.pajak.go.id/peraturan/penyesuaian-pengaturan-di-bidang-pajak-penghasilan",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tax office: PP 55/2022 explanation",
+      "url": "https://pajak.go.id/en/node/90281",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Your Europe: textile labels",
+      "url": "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_en.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EU General Product Safety Regulation 2023/988",
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj/eng",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FTC: textile and wool labelling requirements",
+      "url": "https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Etsy Seller Handbook: photography article (could not be read)",
+      "url": "https://www.etsy.com/seller-handbook/article/22504064051",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DHL Express Indonesia 2026 service and rate guide",
+      "url": "https://mydhl.express.dhl/content/dam/downloads/id/en/rate-guide/service_and_rate_guide_id_en_2026.pdf.coredownload.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pos Indonesia: tariff check",
+      "url": "https://www.posindonesia.co.id/id/check-tarif",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IndoShip Global: shipping rates",
+      "url": "https://www.indoshipglobal.com/shipping-rates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IndoShip Global: shipping to the United States",
+      "url": "https://www.indoshipglobal.com/ship-to/united-states",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IndoShip Global: shipping to Germany",
+      "url": "https://www.indoshipglobal.com/ship-to/germany",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IndoShip Global: shipping to the Netherlands",
+      "url": "https://www.indoshipglobal.com/ship-to/netherlands",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US CBP: commercial de-minimis article",
+      "url": "https://www.help.cbp.gov/s/article/Article-1919?language=en_US",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US CBP bulletin on the postal framework",
+      "url": "https://content.govdelivery.com/bulletins/gd/USDHSCBP-3f01456",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Federal Register: suspension of the de minimis exemption for mail shipments",
+      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "European Commission: EU customs reform",
+      "url": "https://taxation-customs.ec.europa.eu/customs/eu-customs-reform_en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "European Commission guidance on the €3 customs duty",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/053e5b4e-f0be-4f20-9a23-3e3b659a6676_en?filename=Customs+Guidance+on+EUR+3+customs+duty.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Swedish Customs: handling fee on distance sales",
+      "url": "https://www.tullverket.se/en/startpage/business/infocus/futuredevelopmentsinthecustomsarea/thecustomsreformpackageareformofthecustomsunion/handlingfeeondistancesales.4.cff3feb19f36d238ff5e21f.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EU VAT One Stop Shop",
+      "url": "https://vat-one-stop-shop.ec.europa.eu/one-stop-shop_en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EU VAT Directive 2006/112",
+      "url": "https://eur-lex.europa.eu/eli/dir/2006/112/oj/eng",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Australian Border Force: import declarations",
+      "url": "https://www.abf.gov.au/imports/Pages/How-to-import/Import-declarations.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Australian Board of Taxation: low value imported goods review",
+      "url": "https://taxboard.gov.au/review/low-value-imported-goods-review",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US International Trade Administration: Australia import tariffs (non-primary)",
+      "url": "https://www.trade.gov/country-commercial-guides/australia-import-tariffs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ATO: GST on low value imported goods (could not be read)",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/gst-on-low-value-imported-goods",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Japan Customs: customs clearance for low-value goods",
+      "url": "https://www.customs.go.jp/english/c-answer_e/imtsukan/1006_e.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Japan Customs: tariff summary",
+      "url": "https://www.customs.go.jp/english/summary/tariff.htm",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "starting_budget": {
+      "label": "Starting budget",
+      "value": 20,
+      "unit": "million IDR",
+      "display": "IDR 20 million",
+      "status": "Proposed envelopes, not quotes"
+    },
+    "shipping_allowance": {
+      "label": "Modelled shipping charge (placeholder)",
+      "value": 400000,
+      "unit": "IDR per order",
+      "display": "IDR 400,000",
+      "status": "No all-in 200 g lane at this price established"
+    },
+    "japan_dhl_base": {
+      "label": "DHL 2026 base, Japan zone 3, 0.5 kg non-document",
+      "value": 1038000,
+      "unit": "IDR",
+      "display": "IDR 1,038,000",
+      "status": "Before surcharges; Japan and Australia lose money at the modelled charge"
+    },
+    "cotton_contribution": {
+      "label": "Cotton scarf contribution after provisions",
+      "value": 308300,
+      "unit": "IDR per scarf",
+      "display": "IDR 308,300",
+      "status": "Assumes IDR 400,000 shipping covers carrier cost"
+    },
+    "silk_contribution": {
+      "label": "Silk scarf contribution after provisions",
+      "value": 557800,
+      "unit": "IDR per scarf",
+      "display": "IDR 557,800",
+      "status": "Assumes IDR 400,000 shipping covers carrier cost"
+    },
+    "scenario_contribution": {
+      "label": "Contribution at 40 orders a month",
+      "value": 17322000,
+      "unit": "IDR per month",
+      "display": "IDR 17,322,000",
+      "status": "Scenario, not forecast; before overhead and acquisition"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-07",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Public pages, rate-guide PDFs and policy documents read on 2026-11-07 with no accounts, contacts, quote requests or form submissions. Some fetches silently fell back to an existing managed browser profile, so the research cannot be certified clean-session; later checks used fresh cookie-empty browser contexts.",
+    "originalResearchAccessLimitations": "Not readable or only partly read: the Etsy photography article, the Australian Taxation Office GST page, the Pos Indonesia tariff page (script shell), the FTC textile guide (partial), parts of the Etsy fee policy, eBay and CBP pages (verification pages) and the Xendit pricing page. Search-index snippets are not treated as full-page reads.",
+    "independentCheckDisposition": "The independent check recomputed every displayed sum, per-scarf row, monthly ramp, budget, buyer-tax example, DHL sensitivity and Shopify break-even and found no arithmetic error. Its main finding was that the first two lanes (Japan and Australia) also lose money at the published DHL base, not only the US; this page states that near the top and in the shipping section, with the Japan, Australia, US and EU figures. It also asked that the IndoShip samples cite H3 to H6, that the 11,000 sensitivity be read beside 11,500 including the 0.5% provision, and that Offsite Ads may become mandatory during September in the ramp; all are reflected. It directly read only the DHL, PP 20/2026, EU customs-guidance and US postal-rule documents, so other fee and legal items remain registry-level and unconfirmed.",
+    "layoutEvidenceLimit": "The original HTML layout was checked by the run at 1440 and 390 pixel widths; no visual check was made of this page, which is Markdown rendered by the site."
+  },
+  "datePolicy": "All source access dates are 2026-11-07 from the run register; a read date is not an effective date. Future dates (2027 launch, 2 December 2026 eBay change, 1 July 2028 EU duty end) stay separate from read dates. No external refresh.",
+  "uncertainties": [
+    "No accepted all-in 200 g shipping lane at the modelled IDR 400,000 charge; Japan and Australia lose money at published DHL bases unless the customer charge changes; 2027 DHL prices and surcharges unconfirmed",
+    "Pos Indonesia 200 g rates, billing steps and US acceptance not obtained; IndoShip samples are 1 kg and their fee inclusion is unconfirmed",
+    "Etsy, eBay, Amazon and gateway approval for Dewi; foreign-card acceptance on an Indonesian Shopify store; Xendit fee stacking; direct Indonesian-bank payout without Payoneer for eBay and Amazon; eBay 2027 conversion fee after the 2 December 2026 change",
+    "Exact scarf tariff classification and restricted-goods status; Japan woven versus knitted treatment; Indonesian KBLI code; EU product-safety representation cost",
+    "Dewi's registration history, elections, other income and 0.5% regime eligibility; treatment of charged shipping; PKP status; current ATO implementation (page unreadable; AU3 is non-primary); full EU import-VAT base (the assumed 20% is not a universal rate)",
+    "All workshop costs, prices, budget envelopes, order targets, production hours and buyer-tax examples are planning assumptions; US$1 = IDR 16,000 is for the listing-fee sum only",
+    "Original managed-browser fallback exception remains; no clean-session certification"
+  ],
+  "editingContract": "Only new data/yogyakarta-batik-international-sales-etsy-first.json, en/ and id/ yogyakarta-batik-international-sales-etsy-first.md and checks/batch39-yogyakarta-batik-international-sales-etsy-first-notes.md. No existing guides, slugs, manifest, build scripts, checker or run folders changed; no publication, contact or build.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 2,
+  "slug": "vietnamese-nurse-germany-recognition-route",
+  "translationKey": "vietnamese-nurse-germany-recognition-route",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "vi": "Bài viết do một tác vụ Cowork thông dụng trên DeTars.xyz thực hiện"
+  },
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "audience": {
+    "en": "A 27-year-old registered nurse in Da Nang, Vietnam, with a 4-year bachelor's degree, 3 years on a hospital ward and German at A2, comparing routes to a nursing job in Germany: costs, recognition, visa, language and a first-year budget.",
+    "vi": "Một điều dưỡng 27 tuổi ở Đà Nẵng, Việt Nam, có bằng cử nhân 4 năm, 3 năm làm ở khoa bệnh viện và tiếng Đức trình độ A2, đang so sánh các con đường để làm điều dưỡng ở Đức: chi phí, công nhận bằng, thị thực, ngôn ngữ và ngân sách năm đầu."
+  },
+  "localeReason": "English and Vietnamese both serve this decision. The person is a Vietnamese nurse in Da Nang weighing recruitment routes, agency fees and a first-year budget, and Vietnamese lets them read the fee caps, warning signs and open questions in their own language; it changes no rule, fee or eligibility.",
+  "sources": [
+    {
+      "title": "Recognition in Germany portal (BIBB), getting recognition: steps and timing",
+      "url": "https://www.anerkennung-in-deutschland.de/html/en/getting-recognition.php",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Recognition in Germany portal, after the notice",
+      "url": "https://www.anerkennung-in-deutschland.de/html/en/after-the-notice.php",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Recognition in Germany portal, financial support",
+      "url": "https://www.anerkennung-in-deutschland.de/html/en/financial-support.php",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PflBG §40 (recognition of foreign nursing training)",
+      "url": "https://www.gesetze-im-internet.de/pflbg/__40.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "LfP Bayern, recognition for nursing professionals",
+      "url": "https://www.lfp.bayern.de/anerkennung/pflegefachkraft/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "LfP Bayern, information sheet for Vietnam (V3_062024)",
+      "url": "https://www.lfp.bayern.de/anerkennungsverfahren/pflegefachkraft/merkblaetter/laender/Merkblatt_Vietnam.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "AufenthG §16d",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__16d.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "AufenthG §18a",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__18a.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "AufenthG §81a",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__81a.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "German Embassy Hanoi, visa page (skilled worker / fees)",
+      "url": "https://vietnam.diplo.de/vn-de/service/2642976-2642976",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "SGB III §296",
+      "url": "https://www.gesetze-im-internet.de/sgb_3/__296.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "SGB III §297",
+      "url": "https://www.gesetze-im-internet.de/sgb_3/__297.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "SGB III §299",
+      "url": "https://www.gesetze-im-internet.de/sgb_3/__299.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BeschV §38",
+      "url": "https://www.gesetze-im-internet.de/beschv_2013/__38.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Federal Ministry of Health, seal Faire Anwerbung Pflege Deutschland",
+      "url": "https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/f/faire-anwerbung-pflege-deutschland-guetesiegel",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Faire Anwerbung Pflege Deutschland, operator site",
+      "url": "https://www.faire-anwerbung-pflege-deutschland.de/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BA/ZAV Triple Win, the programme",
+      "url": "https://www.arbeitsagentur.de/vor-ort/zav/personal-aus-dem-ausland/gesundheit-pflege/triple-win/das-programm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BA/ZAV Triple Win, partner countries",
+      "url": "https://www.arbeitsagentur.de/vor-ort/zav/projects-programs/health-and-care/triple-win",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Vietnam Law 69/2020/QH14, full text on a mirror site",
+      "url": "https://dulieuphapluat.vn/van-ban/lao-dong-van-ban/luat-nguoi-lao-dong-viet-nam-di-lam-viec-o-nuoc-ngoai-theo-hop-dong-nam-2020-23090.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Vietnam Official Gazette record page, Law 69/2020/QH14",
+      "url": "https://congbao.chinhphu.vn/van-ban/luat-so-69-2020-qh14-32699.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "TVöD-P pay table (tarifvertrag-online.de)",
+      "url": "https://tarifvertrag-online.de/entgelttabelle/oeffentlicher-dienst/tvoed-p",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "TVöD-P pay table (oeffentlichen-dienst.de)",
+      "url": "https://www.oeffentlichen-dienst.de/entgelttabelle/tvoed-p.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Klinikum Ingolstadt, nurses from abroad",
+      "url": "https://klinikum-ingolstadt.de/karriere/pflegekraefte-aus-dem-ausland/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "wg-gesucht listing 14258323, Leipzig-Stötteritz room",
+      "url": "https://www.wg-gesucht.de/en/wg-zimmer-in-Leipzig-Leipzig.14258323.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kleinanzeigen listing 3559722324, Stuttgart-Feuerbach room",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/grosses-18-m-wg-zimmer-in-stuttgart-feuerbach-485-warm/3559722324-203-9305",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "wg-gesucht listing 10624957, Stuttgart-Plieningen room",
+      "url": "https://www.wg-gesucht.de/wg-zimmer-in-Stuttgart-Plieningen.10624957.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "EStG §32a income tax tariff 2026",
+      "url": "https://www.gesetze-im-internet.de/estg/__32a.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Vietcombank EUR exchange-rate feed",
+      "url": "https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "left_after_year1_stuttgart": {
+      "label": "Estimated amount left after year-one costs, Stuttgart room",
+      "value": 10645.79,
+      "unit": "EUR",
+      "display": "€10,645.79"
+    },
+    "left_after_year1_leipzig": {
+      "label": "Estimated amount left after year-one costs, Leipzig room",
+      "value": 11887.26,
+      "unit": "EUR",
+      "display": "€11,887.26"
+    },
+    "agency_fee_cap": {
+      "label": "German legal cap on an agent’s fee from the candidate, including VAT",
+      "value": 2000,
+      "unit": "EUR",
+      "display": "€2,000"
+    },
+    "pre_departure_costs": {
+      "label": "Costs to pay before earning anything (exams, visa, recognition fee, translations, flight)",
+      "value": 1560.02,
+      "unit": "EUR",
+      "display": "€1,560.02"
+    },
+    "cash_before_first_pay_stuttgart": {
+      "label": "Cash needed before first salary, Stuttgart",
+      "value": 3862.38,
+      "unit": "EUR",
+      "display": "€3,862.38"
+    },
+    "cash_before_first_pay_leipzig": {
+      "label": "Cash needed before first salary, Leipzig",
+      "value": 3637.38,
+      "unit": "EUR",
+      "display": "€3,637.38"
+    }
+  },
+  "planningAssumptions": {
+    "profile": "27-year-old registered nurse in Da Nang, 4-year bachelor’s degree, 3 years on a ward, German A2 in November 2026; childless, tax class I.",
+    "route": "Employer-pays direct or seal-holding agency route; not Triple Win (Vietnam not a current partner country).",
+    "timeline": "A2 to B1 by March 2027, B2 by autumn 2027, arrival December 2027 – February 2028; planning assumptions, not official.",
+    "budget": {
+      "fx_vnd_per_eur": 28000,
+      "preDepartureFxVndPerEur": 29332.03,
+      "months1to6": "TVöD-P P5 stage 1, 2,907.18 gross",
+      "months7to12": "TVöD-P P7 stage 2, 3,510.30 gross",
+      "socialInsuranceShare": {
+        "Stuttgart": "21.75%",
+        "Leipzig": "22.25%"
+      },
+      "rentExamples": {
+        "Stuttgart": "485 warm (Feuerbach room)",
+        "Leipzig": "380 warm (Stötteritz room)"
+      }
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run’s index.html, sources.md and independent-check.md (and the worker notes only for exact Goethe and LfP URLs). No network research, build or publication during authoring. The Vietnamese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain HTTP plus a managed browser with a persistent profile, not a verified clean session. Make it in Germany, thuvienphapluat.vn, the auswaertiges-amt.de district page and the DOLAB site were blocked and not bypassed; the VKA tariff PDF returned an HTML page. Embassy, Goethe, LfP and WHO items were read by workers; the independent check did not reopen them.",
+    "independentCheckDisposition": "The independent Decimal recomputation matched every money figure after small corrections: Leipzig taxable income 28,671 (was 28,672), Leipzig net pay 25,395.60 (was 25,395.61), Leipzig left after year 1 11,887.26 (was 11,887.27), VND 332,843,280 (was 332,843,560), and the pre-departure subtotal 1,560.02 (an earlier text said about 1,260). The run’s index.html already shows the corrected values and this guide follows them. The check left six issues open (see uncertainties).",
+    "layoutEvidenceLimit": "The run’s own layout check used headless Chrome at 1280 px; a true 390 px reflow was not verified, and no build, browser or visual check was done for these Markdown files."
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept; document and listing dates are separate and stated in the guide. Tariff table validity (1 May 2026 – 31 March 2027) is a source date, not an access date. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "TVöD-P pay figures rest on two agreeing secondary tariff sites; the primary VKA tariff PDF was not re-opened. The table expires on 31 March 2027, so 2027/28 pay will differ.",
+    "Make it in Germany, thuvienphapluat.vn, the auswaertiges-amt.de consular-district page and the DOLAB site were blocked; the Da Nang consular district, the VFS fee, the §81a fee (a €411 figure online is unconfirmed), Decree 112/2021, the DOLAB licence list and the telc/ÖSD accepted-provider list were not obtained.",
+    "No official statement was found on whether a Vietnamese Bachelor of Nursing is equivalent to German nursing training; the timeline and B2 by autumn 2027 are assumptions.",
+    "Vietnam’s Law 69/2020 fee cap (1 month’s pay per 12 months, 3 months for contracts of 36 months or more, brokerage ban, blocked-account deposit) was read only on a mirror site; whether it applies to a German agency is undetermined.",
+    "Triple Win: the Vietnam strand found was a 2021 trainee programme; absence of a current Vietnam programme is worded as “found”, not proven. The Vietnam not on the WHO list finding and its link to BeschV §38 are partly inference; the 2026 WHO list is provisional.",
+    "Tax and cost lines: the €1,230 and €36 lump sums, food, phone, flight, translations, clothes, household start, the Stuttgart deposit, the broadcast fee €18.36 and the Deutschlandticket €63 are assumptions or unverified; annual special payment excluded; real payroll tax may differ by tens of euros a year.",
+    "Rent examples are single advertiser listings (rooms, not flats), possibly already let; the Plieningen posting date is not shown.",
+    "Embassy, Goethe, LfP and WHO items were read by workers; the independent check did not reopen them; the BA’s “B1 = hinreichend” is unconfirmed; Bavaria is the only state checked for B2 and recognition fees."
+  ],
+  "editingContract": "Only data/vietnamese-nurse-germany-recognition-route.json, en/ and vi/ Markdown for this slug and checks/batch39-vietnamese-nurse-germany-recognition-route-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

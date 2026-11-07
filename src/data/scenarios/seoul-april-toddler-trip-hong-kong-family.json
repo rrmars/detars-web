@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 2,
+  "slug": "seoul-april-toddler-trip-hong-kong-family",
+  "translationKey": "seoul-april-toddler-trip-hong-kong-family",
+  "sources": [
+    {
+      "title": "K-ETA eligible countries and allowed stay",
+      "url": "https://www.k-eta.go.kr/portal/guide/viewetaalification.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official temporary K-ETA exemption notice",
+      "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&locale=EN",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KTO visa page",
+      "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=450&vcontsId=140769",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "K-ETA age exemptions and validity",
+      "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=175270&locale=EN",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "e-Arrival target list",
+      "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "e-Arrival general guide",
+      "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "parent or representative procedure",
+      "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official K-ETA fee",
+      "url": "https://www.k-eta.go.kr/portal/guide/viewetafeeinformation.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L7 Myeongdong Bed & Breakfast",
+      "url": "https://app.lottehotel.com/myeongdong-l7/en/offers/packages/260101/bed-breakfast-package",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "LOTTE HOTEL WORLD Family WORLD",
+      "url": "https://app.lottehotel.com/world-hotel/en/offers/packages/260101/family-world",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Westin Josun corporate family-package release",
+      "url": "https://www.shinsegaegroupnewsroom.com/westin-josun-seoul-launches-joyful-familycation-package/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "L7 Hongdae Superior Family Twin",
+      "url": "https://app.lottehotel.com/hongdae-l7/en/rooms/superior-family-twin-room",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Holiday Inn Express Seoul Hongdae",
+      "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/seoul/seohg/hoteldetail",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Conrad Seoul",
+      "url": "https://www.hilton.com/en/hotels/selcici-conrad-seoul/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VisitSeoul airport guide",
+      "url": "https://english.visitseoul.net/airport-to-seoul",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AREX fares and route",
+      "url": "https://www.airportrailroad.com/train/express/introduce",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AREX transport terms",
+      "url": "https://www.airportrailroad.com/policy/transport",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Airport Limousine terms",
+      "url": "https://www.airportlimousine.co.kr/en/sub/sub02_03.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Airport Limousine FAQ",
+      "url": "https://www.airportlimousine.co.kr/sub/sub03_02.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government Easy Law child-restraint guide",
+      "url": "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=684&ccfNo=1&cciNo=2&cnpClsNo=2",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul government and Seoul Metro lift table",
+      "url": "https://english.seoul.go.kr/service/movement/public-transportation/subway-accessibility-facilities/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Danurim device rental",
+      "url": "https://www.seouldanurim.net/en/rent-asst-en/info",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Danurim airport van eligibility",
+      "url": "https://www.seouldanurim.net/en/userAgree",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Incheon family services",
+      "url": "https://www.airport.kr/ap_en/1477/subview.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul Children's Museum admission",
+      "url": "https://www.seoulchildrensmuseum.org/eng/reservation/viewAdmission.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul Children's Museum FAQ",
+      "url": "https://www.seoulchildrensmuseum.org/eng/reservation/faq.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "city toddler-area description",
+      "url": "https://news.seoul.go.kr/welfare/archives/100837",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Children's Grand Park hours and fees",
+      "url": "https://www.sisul.or.kr/open_content/childrenpark/introduce/use.jsp",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Children's Grand Park botanical closure notice",
+      "url": "https://www.sisul.or.kr/open_content/childrenpark/bbs/bbsMsgDetail.do?bcd=notice&msg_seq=8749",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SEA LIFE COEX ticket examples",
+      "url": "https://www.visitsealife.com/coex-seoul/tickets-passes/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Korean FAQ (stroller exit)",
+      "url": "https://www.visitsealife.com/coex-seoul/plan-your-visit/information/help-center/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "English FAQ",
+      "url": "https://www.visitsealife.com/coex-seoul/en/plan-your-visit/information/help-center/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "opening hours",
+      "url": "https://www.visitsealife.com/coex-seoul/en/plan-your-visit/before-you-visit/opening-hours/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Lotte World Aquarium home page",
+      "url": "https://aquarium.lotteworld.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Lotte World Aquarium ticket page",
+      "url": "https://aquarium.lotteworld.com/price/benefit",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul Botanic Park operator",
+      "url": "https://botanicpark.seoul.go.kr/front/main.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul Botanic Park admission",
+      "url": "https://botanicpark.seoul.go.kr/front/introduce/useInfo.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul Botanic Park FAQ",
+      "url": "https://botanicpark.seoul.go.kr/front/introduce/faq.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KTO listing (spring-hours snippet only)",
+      "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=175819",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul parks FAQ",
+      "url": "https://parks.seoul.go.kr/content.do?key=2604070012",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2026 butterfly notice",
+      "url": "https://parks.seoul.go.kr/story/news/detailView.do?bIdx=3695&key=2604070028",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "National Museum of Korea Children's Museum visitor information",
+      "url": "https://www.museum.go.kr/CHILDENG/contents/CE102000000.do",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "reservation rules",
+      "url": "https://www.museum.go.kr/ENG/contents/E0103010000.do?act=intro&schM=child",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pororo Park Yeongdeungpo",
+      "url": "http://www.pororopark.com/branch/park_info.php?uid=32&SEPNum=0&park_uid=lnb32",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pororo Park Geumcheon",
+      "url": "http://www.pororopark.com/branch/park_info.php?uid=33&SEPNum=0&park_uid=lnb33",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seongsu municipal kids café eligibility and rules",
+      "url": "https://umppa.seoul.go.kr/icare/user/kidsCafe/BD_selectKidsCafeView.do?q_fcltyId=SD240701",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KMA 29 March 2026 first-bloom release",
+      "url": "https://www.kma.go.kr/kma/news/press.jsp?bid=press&mode=view&num=1194625",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seoul 2026 festival notice",
+      "url": "https://scpm.seoul.go.kr/seoul-policy/evt0254",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seokchon official indexed tourism listing",
+      "url": "https://english.visitseoul.net/nature/seokchon-lake-park/ENP001136",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government EPIK Korean allergy phrase",
+      "url": "https://www.epik.go.kr/web/epik/epk/koreanlanguage/892",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "budget_ceiling_hkd": {
+      "label": "Trip budget ceiling excluding flights",
+      "value": 18000,
+      "unit": "HKD",
+      "display": "HKD 18,000"
+    },
+    "room_cap_krw": {
+      "label": "Family room cap per night, all taxes and three guests; not a quote",
+      "value": 350000,
+      "unit": "KRW/night",
+      "display": "KRW 350,000"
+    },
+    "planned_total_krw": {
+      "label": "Planned total of ten budget lines at HKD 1 = KRW 170",
+      "value": 2880600,
+      "unit": "KRW",
+      "display": "KRW 2,880,600"
+    },
+    "planned_total_hkd": {
+      "label": "Planned total converted once from KRW",
+      "value": 16944.71,
+      "unit": "HKD",
+      "display": "16,944.71"
+    },
+    "headroom_krw": {
+      "label": "Unallocated headroom under the ceiling",
+      "value": 179400,
+      "unit": "KRW",
+      "display": "KRW 179,400"
+    },
+    "k_eta_allowance_krw": {
+      "label": "Conditional adult K-ETA allowance, not a 2027 fee promise",
+      "value": 20600,
+      "unit": "KRW",
+      "display": "KRW 20,600"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-07",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete index.html, sources.md and independent-check.md (plus arithmetic-check.md and director-evidence.md) read locally. No other run folder, network research, build or publication during batch39 authoring. English written from the run, zh-Hant translated from the English guide.",
+    "originalResearchAccessLimitations": "Strict clean-session-only research is not demonstrated: several worker fetches of the Lotte Aquarium site and some search routes used browser-backed tools whose cookie cleanliness was not exposed, and one K-ETA discovery search used a browser-request route (its result was not relied on). Hotel pages were read in a new ephemeral browser context. No credentials were intentionally used. This cannot be cured retroactively.",
+    "independentCheckDisposition": "Independent check passed all arithmetic with no numeric correction (budget lines, HKD conversions at 170, admission and stress cases). It raised two source-register gaps on the LOTTE HOTEL WORLD kids lounge hours and check-in/out times, and a clean-session provenance caveat. The director's later addendum closed the two register gaps from an existing readback of the same hotel page, with the register hash changing to 88ad8481…; the original reviewer has not re-reviewed that addendum. The guide follows the check: lounge hours and 15:00/11:00 are kept as the hotel's published examples.",
+    "layoutEvidenceLimit": "No batch39 build, rendered HTML, browser or print certification. The original run's own layout tests (1440×1000 and 390×844) do not certify the new Markdown; the independent reviewer did not inspect current pixels."
+  },
+  "datePolicy": "Every source was read on 2026-11-07; the research cut-off is that date, not April 2027. Past dates (2026 bloom, 2026 festival, expired hotel packages) are separate from the 8–12 April 2027 trip dates and are not projected forward. Copy editing is not a refresh.",
+  "planningAssumptions": {
+    "party": "Two Hong Kong parents, one child aged 2.5, one familiar stroller; child assumed under 36 months on the trip",
+    "dates": "8–12 April 2027, Thursday to Monday, four nights, three full sightseeing days",
+    "budget": "HKD 18,000 excluding flights; convention HKD 1 = KRW 170, not a live rate; FX stress at KRW 160",
+    "airport": "Incheon (ICN) assumed; Gimpo would need another plan",
+    "nap": "13:00–15:00 in the hotel room"
+  },
+  "uncertainties": [
+    "2027 adult K-ETA waiver: the temporary waiver ends 31 December 2026 and an extension is unconfirmed",
+    "Exact-date, toddler-inclusive family-room quotes for 8–12 April 2027 (taxes, breakfast, supplements, bedding, cot, early-room terms); WORLD's KRW 347,000 stay period ends 1 January 2027",
+    "A suitable installed child-seat transfer quote (KRW 140,000 each way is an allowance), or a verified step-free rail route; bus stroller and restraint handling",
+    "Lotte World Aquarium ticket, free-age and proof terms; COEX offer eligibility; museum acceptance of foreign age proof; 2027 venue calendars and reservations",
+    "Seokchon Lake current access (live page 404); 2027 bloom timing and festival controls",
+    "Allergy phrases other than the official nuts sentence are author-written and unconfirmed",
+    "Clean-session research provenance is not demonstrated (see originalResearchAccessLimitations)"
+  ],
+  "editingContract": "Only new data/seoul-april-toddler-trip-hong-kong-family.json, en/ and zh-Hant/ Markdown and checks/batch39-seoul-april-toddler-trip-hong-kong-family-notes.md. No shared inventory, slugs, manifest, build or check code, other guides or run folders edited; no build, network, contact or publication. Marker-only footer delegated to builder.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "zh-Hant": "本文由 DeTars.xyz 的通用 Cowork 任務產出"
+  },
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "audience": {
+    "en": "Two Hong Kong parents planning four April nights in Seoul with a 2.5-year-old and a stroller, on HKD 18,000 excluding flights, with naps, entry rules and transfers to work out.",
+    "zh-Hant": "兩位香港家長計畫在四月帶著 2.5 歲孩子和嬰兒車到首爾住四晚，預算 HKD 18,000（不含機票），要安排午睡、入境規定和接送。"
+  },
+  "localeReason": "English and Traditional Chinese (zh-Hant) both serve this Hong Kong family's decision: the parents may read either, and zh-Hant is the written form Hong Kong readers use. It changes no entry rule, price or eligibility. Simplified Chinese was not requested for this guide.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}
