@@ -212,7 +212,7 @@ draft: false
 
 ## 先把孟买的签证路径弄清楚
 
-这里的申请人是**持印度普通护照、居住在孟买的一家人**。印度不在普通短期免签名单内；符合条件的旅游电子签证通过**代理/VFS递交**，不是自己独立在线申请。四个人分别需要签证。领区看居住地，不看出发机场。孟买普通直接受理已于2026年4月20日结束。递交前请重看[日本外务省免签表](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)、[电子签证路径](https://www.mofa.go.jp/j_info/visit/visa/visaonline.html)、[领区表](https://www.bengaluru.in.emb-japan.go.jp/itpr_ja/11_000001_00032.html)和[孟买签证说明](https://www.mumbai.in.emb-japan.go.jp/itpr_en/visa_information.html)。中文翻译不改变这一家的印度护照资格，也不能套用中国护照规则。
+这里的申请人是**持印度普通护照、居住在孟买的一家人**。印度不在普通短期免签名单内；符合条件的旅游电子签证通过**代理/VFS递交**，不是自己独立在线申请。四个人分别需要签证。领区看居住地，不看出发机场。孟买普通直接受理已于2026年4月20日结束。递交前请重看[日本外务省免签表](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)、[电子签证路径](https://www.mofa.go.jp/j_info/visit/visa/visaonline.html)、[领区表](https://www.bengaluru.in.emb-japan.go.jp/itpr_ja/11_000001_00032.html)和[孟买签证说明](https://www.mumbai.in.emb-japan.go.jp/itpr_en/visa_information.html)。
 
 按[孟买VFS说明](https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html)和正文标注2025年11月的[无担保人观光CL-01清单](https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/CL-01-Visitor-Visa-Without-Guarantor.pdf)准备：
 

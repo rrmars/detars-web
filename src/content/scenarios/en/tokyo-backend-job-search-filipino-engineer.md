@@ -173,7 +173,7 @@ You are probably wondering whether N4 will shut every door. Whether six years of
 
 My read: this is realistic. Go and Python give you a useful starting point. Target teams that already work in English and bring engineers from abroad. Your biggest unknown is not Japanese. It is whether your education or qualifications satisfy the work-status route.
 
-For a Filipino backend engineer living in the Philippines, with six years’ experience and JLPT N4. Target: employed in Tokyo by **1 October 2027**. Chinese-speaking engineers can use the translated plan too, but it retains this Filipino profile and departure requirements. This is friendly information, not immigration or legal advice; have the employer’s qualified adviser check your actual documents.
+For a Filipino backend engineer living in the Philippines, with six years’ experience and JLPT N4. Target: employed in Tokyo by **1 October 2027**. The plan keeps this Filipino profile and its departure requirements; check the rules for your own nationality. This is friendly information, not immigration or legal advice; have the employer’s qualified adviser check your actual documents.
 
 ## The short version
 

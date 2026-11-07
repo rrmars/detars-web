@@ -125,7 +125,7 @@ draft: false
 
 The example runs Thursday, June 24, 2027 to Sunday, June 27, 2027, with three hotel nights. All times are Bangkok time, the same as Jakarta. Prices and rules retain their November 6, 2026 research date; no sources were refreshed for this draft. June rooms, tickets, closures and schedules are not confirmed. Nothing was booked, submitted or paid for, no account was created and nobody was contacted.
 
-**The hotel shortlist contains one property with two family-room categories—not two hotels. Neither has confirmed dated inventory, and the seller's occupancy wording conflicts.** Resolve that before paying. The destination plan is useful for Chinese-speaking families too, but the entry section applies only to **Indonesian ordinary-passport holders**. Chinese-language readership does not establish Chinese-passport eligibility.
+**The hotel shortlist contains one property with two family-room categories—not two hotels. Neither has confirmed dated inventory, and the seller's occupancy wording conflicts.** Resolve that before paying. The entry section applies only to **Indonesian ordinary-passport holders**.
 
 ## Put the room decision before the sightseeing
 
@@ -246,7 +246,7 @@ For four people and bags I would use the official taxi queue or a suitably large
 
 ## Indonesian ordinary passports only: entry is a separate decision
 
-**This section is not advice on Chinese-passport eligibility.** The Chinese version translates this same Indonesian profile; other passport holders need their own checks. The following is a dated publication snapshot, not a promise for June 2027 or a fresh immigration check.
+**This section is not advice on eligibility for other passports.** Other passport holders need their own checks. The following is a dated publication snapshot, not a promise for June 2027 or a fresh immigration check.
 
 As published on November 6, 2026, [Indonesia was listed](https://helsinki.thaiembassy.org/en/publicservice/new-visa-exemption-and-visa-on-arrival-voa-to-thailand?menu=5d80876d15e39c3354007bb1&page=5f49f4a199a85e260f4278de) for up to **30 days** of visa-exempt tourism. The [effective-date notice](https://washingtondc.thaiembassy.org/en/page/visaexempt-voajul2024), updated September 17, 2026, says the scheme began September 15, 2026. Older 60-day guidance from July 2024 is not this snapshot's rule. The four-day trip fits; no visa-on-arrival purchase is budgeted. Admission remains immigration's decision; extensions are irrelevant here and not automatic.
 

@@ -140,7 +140,7 @@ draft: false
 
 The trip is Friday, July 9, 2027 to Monday, July 12, 2027, with three hotel nights. Prices and rules below were checked on November 6, 2026, not secured for July 2027. All amounts are GBP; no currency conversion is assumed. Journey, walking, queue and airport-processing times are estimates, not checked July timetables. No rooms, tickets or applications have been reserved, purchased or submitted.
 
-Heathrow is an assumption because the airport was not specified; Bloomsbury near Russell Square is the base. The airport budget uses the Piccadilly line, not Heathrow Express. Confirm the actual airport and flights first. An early-evening departure means a shorter Monday. The entry advice keeps this family's ordinary Canadian passports; reading in Chinese does not change anyone's nationality or eligibility.
+Heathrow is an assumption because the airport was not specified; Bloomsbury near Russell Square is the base. The airport budget uses the Piccadilly line, not Heathrow Express. Confirm the actual airport and flights first. An early-evening departure means a shorter Monday. The entry advice keeps this family's ordinary Canadian passports.
 
 ## Find a room that really accepts your teenagers
 

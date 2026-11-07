@@ -151,7 +151,7 @@ draft: false
 
 You can keep Hanoi, an overnight bay cruise, Hue, Hoi An and the Mekong without spending your nights on the road. **Take two domestic flights, use a private car on the central coast and do the Delta as a day trip from Ho Chi Minh City (HCMC). No overnight buses.** Keep the Hanoi night after the cruise rather than racing to a flight.
 
-The example is a retired couple from Busan, both **66**, with South Korean passports. They arrive in Vietnam on **3 March 2027** and leave on **17 March 2027**: **15 days / 14 nights**, not Korea flight dates. There are **13 hotel nights + 1 cruise night**. Chinese-speaking travellers can use the same pacing ideas, but a translated guide does not transfer Korean passport rights or Korea-issued insurance eligibility to another nationality.
+The example is a retired couple from Busan, both **66**, with South Korean passports. They arrive in Vietnam on **3 March 2027** and leave on **17 March 2027**: **15 days / 14 nights**, not Korea flight dates. There are **13 hotel nights + 1 cruise night**. Korean passport entry rights and Korea-issued insurance eligibility do not transfer to other nationalities; check your own.
 
 For both travellers, the planning total is **VND 95,680,000 / KRW 5,315,556**, including **15% contingency**. It sits below a **KRW 6,000,000** ceiling excluding international flights, with **KRW 684,444** additional headroom. This is an unquoted budget, not a promise of availability. All supplier examples were read on **7 November 2026**, not confirmed for March 2027.
 

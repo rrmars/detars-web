@@ -136,7 +136,7 @@ You can plan an Osaka move without assuming you must already have a Japanese ban
 
 Set aside **¥1,250,000 for the 1K model or ¥1,450,000 for the 1LDK model** in accessible relocation funds. These are rounded planning targets, not quotes or approval thresholds. The model assumes arrival on March 18, 2027, ten temporary nights and permanent move-in on March 28, 2027. If housing or immigration is not ready, extend suitable accommodation and recost the delay rather than force a lease.
 
-Linh's stated route is Engineer/Specialist in Humanities/International Services. Her actual visa, landing permission and rental approval have not been inspected. The Chinese version explains the same Vietnamese applicant; it does not change nationality or eligibility. All prices below are JPY examples inspected on November 7, 2026, not refreshed offers for the move. No VND exchange rate is assumed.
+Linh's stated route is Engineer/Specialist in Humanities/International Services. Her actual visa, landing permission and rental approval have not been inspected. All prices below are JPY examples inspected on November 7, 2026, not refreshed offers for the move. No VND exchange rate is assumed.
 
 ## Choose the layout before ranking the neighbourhoods
 

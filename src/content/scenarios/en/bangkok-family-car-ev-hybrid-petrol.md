@@ -109,7 +109,7 @@ draft: false
 
 If charging would become another errand between work and the school run, start with a hybrid. **Choose Toyota Corolla Cross HEV Premium as the lower-friction default, with Honda HR-V e:HEV EL the close alternative, until your condo charging arrangement is confirmed.** BYD ATTO 3 Extended has the cheapest base financed ownership estimate, **THB 972,693**, but that does not make it the easiest car for your family.
 
-This comparison is for a Bang Na family of four buying in early 2027, keeping the car until early 2032, driving 18,000 km/year including monthly Hua Hin trips: 90,000 km over five years. One assigned condo bay exists, but an approved charger does not. Treat the THB 1.0–1.3m budget as a ceiling, not a target. Chinese-language readers get the same Thai market and finance assumptions, not different eligibility.
+This comparison is for a Bang Na family of four buying in early 2027, keeping the car until early 2032, driving 18,000 km/year including monthly Hua Hin trips: 90,000 km over five years. One assigned condo bay exists, but an approved charger does not. Treat the THB 1.0–1.3m budget as a ceiling, not a target.
 
 Prices and rules are the November 7, 2026 snapshot, not refreshed quotations or guaranteed delivery offers. All amounts are nominal THB, undiscounted. **An EV becomes a stronger choice when permission, safe installation, fair billing and the delivered price are written down—and you accept uncertain resale.** Public-only charging remains an option if your family willingly accepts the routine.
 

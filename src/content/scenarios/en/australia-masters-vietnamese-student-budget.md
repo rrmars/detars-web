@@ -155,7 +155,7 @@ draft: false
 
 **If your family's ceiling is AUD 120,000, none of the five scholarship-free scenarios below fits. The cheapest is Deakin at about AUD 143,608. A lean Deakin route comes to about AUD 118,533 only with an assessed 1.5-year place, a confirmed 25% tuition award and living costs held to AUD 550/week. Those are conditions to secure, not money you already have. Its AUD 1,467 headroom is small.**
 
-This is for one Vietnamese applicant in Ho Chi Minh City with a Bachelor of Finance, IELTS overall 6.5 and no dependants, comparing on-campus coursework degrees in Melbourne and Sydney. Chinese readers can use the same comparison; it does not change the applicant's nationality or eligibility. All money is AUD, with no VND conversion. University fees, rules and source observations below are the November 6, 2026 snapshot, not refreshed quotations or a promise about later rules.
+This is for one Vietnamese applicant in Ho Chi Minh City with a Bachelor of Finance, IELTS overall 6.5 and no dependants, comparing on-campus coursework degrees in Melbourne and Sydney. All money is AUD, with no VND conversion. University fees, rules and source observations below are the November 6, 2026 snapshot, not refreshed quotations or a promise about later rules.
 
 My pick is to investigate Deakin's shortened Finance route and scholarship together, with RMIT as a better-evidenced intake alternative. Keep July 2027 as the calmer main plan unless your documents and funding are ready now. Deferring buys preparation time, not a cheaper Australia. Do not pay a non-refundable deposit or buy flights just to rescue a date.
 

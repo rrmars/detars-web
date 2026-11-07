@@ -183,7 +183,7 @@ draft: false
 
 Worried your holiday will become a race between car parks? Stay in Te Anau twice, let someone else drive Milford Road, then head north through Wānaka, Aoraki and Tekapo. This plan keeps the longest planned self-drive to about 3.5 hours, with walks you can skip without spoiling the day.
 
-The example is for two people travelling from Sydney, from March 6, 2027 to March 13, 2027: seven nights across eight calendar dates, with the last morning reserved for departure. The NZ$4,500 envelope excludes international flights and assumes both travellers are Australian citizens. Chinese-speaking readers can use the same route, but must check their own passports and Australian visa status rather than copy that entry assumption.
+The example is for two people travelling from Sydney, from March 6, 2027 to March 13, 2027: seven nights across eight calendar dates, with the last morning reserved for departure. The NZ$4,500 envelope excludes international flights and assumes both travellers are Australian citizens. Check your own passport and Australian visa status rather than copying that entry assumption.
 
 The four-hour limit here means time you personally drive. Milford by coach still involves 4–6 hours of passenger road travel. If your limit means all road travel, this route does not meet it. A scenic flight would need a separate price and weather plan.
 

@@ -113,7 +113,7 @@ draft: false
 
 If you have IDR 95,000,000 for Korean-language study in Seoul, **it is not enough for this worked Yonsei KLI plan**. The modest outside-window goshiwon budget needs **KRW 12,283,000 / IDR 166,680,310**, leaving an **IDR 71,680,310 shortfall**. Before paying anything non-refundable, find real additional support or rebuild the plan around your actual school's written fees. A parent who supplies financial evidence does not automatically supply the money you will spend.
 
-The example is Putri, 22, an Indonesian citizen with admission to an unspecified Seoul language institute and a visa still pending. She wants two 10-week terms, not a full academic year. The living-cost horizon is March–August 2027: arrival March 1, 2027 and checkout September 1, 2027, or 184 nights. Chinese-speaking prospective students can use the planning method, but the Indonesian applicant and nationality-specific rules do not change.
+The example is Putri, 22, an Indonesian citizen with admission to an unspecified Seoul language institute and a visa still pending. She wants two 10-week terms, not a full academic year. The living-cost horizon is March–August 2027: arrival March 1, 2027 and checkout September 1, 2027, or 184 nights. Nationality-specific rules here apply to the Indonesian applicant; check the rules for your own nationality.
 
 **Yonsei University Korean Language Institute (KLI), Regular Program, Sinchon is a named cost example—not Putri's confirmed institute or an all-school tariff.** The information below was read on November 7, 2026; future prices, rules and places still need confirmation. No part-time wages, scholarship, deposit refund or extra family funding are assumed.
 

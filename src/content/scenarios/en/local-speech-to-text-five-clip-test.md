@@ -94,7 +94,7 @@ draft: false
 
 **Want a transcript without uploading your recording? On this Apple M2 Mac, whisper.cpp small is a sensible starting point if you can manage a native build. It tied faster-whisper small at 7.00% pooled word error rate and took 9.33 seconds across the five clips. That is a useful starting choice, not a promise for your podcast, language or computer.**
 
-All four engines actually ran locally, in five configurations. There were 25 successful measured runs and five unscored warmups on November 5, 2026 (UTC). No account was created and no audio was uploaded. These are short English and Spanish read-speech clips, not a Chinese transcription test; Chinese-speaking readers should try representative Chinese audio before choosing.
+All four engines actually ran locally, in five configurations. There were 25 successful measured runs and five unscored warmups on November 5, 2026 (UTC). No account was created and no audio was uploaded. These are short English and Spanish read-speech clips, not a Chinese transcription test; If you need Chinese, try representative Chinese audio before choosing.
 
 ## Start with the workflow you need
 

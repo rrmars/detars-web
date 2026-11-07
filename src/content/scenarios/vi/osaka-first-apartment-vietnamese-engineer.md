@@ -136,7 +136,7 @@ Bạn có thể lên kế hoạch chuyển đến Osaka mà không cần giả �
 
 Hãy để riêng **¥1.250.000 cho mô hình 1K hoặc ¥1.450.000 cho mô hình 1LDK** dưới dạng tiền chuyển nhà có thể rút ra dùng ngay. Đây là mức dự trù đã làm tròn, không phải báo giá và cũng không phải ngưỡng để được duyệt. Mô hình giả định bạn đến vào ngày 18 tháng 3 năm 2027, ở tạm mười đêm và dọn vào nhà chính thức ngày 28 tháng 3 năm 2027. Nếu nhà ở hoặc thủ tục nhập cảnh chưa sẵn sàng, hãy gia hạn chỗ ở tạm phù hợp và tính lại chi phí cho thời gian trễ, đừng ép ký hợp đồng thuê.
 
-Lộ trình mà Linh nêu là visa Engineer/Specialist in Humanities/International Services. Visa thực tế, giấy phép nhập cảnh và việc được duyệt thuê của cô ấy chưa được kiểm tra. Bản tiếng Trung giải thích cùng một ứng viên người Việt này; nó không thay đổi quốc tịch hay điều kiện đủ tư cách. Tất cả mức giá dưới đây là ví dụ bằng JPY được xem vào ngày 7 tháng 11 năm 2026, không phải ưu đãi đã được làm mới cho thời điểm bạn chuyển đến. Không giả định tỷ giá VND nào.
+Lộ trình mà Linh nêu là visa Engineer/Specialist in Humanities/International Services. Visa thực tế, giấy phép nhập cảnh và việc được duyệt thuê của cô ấy chưa được kiểm tra. Tất cả mức giá dưới đây là ví dụ bằng JPY được xem vào ngày 7 tháng 11 năm 2026, không phải ưu đãi đã được làm mới cho thời điểm bạn chuyển đến. Không giả định tỷ giá VND nào.
 
 ## Chọn kiểu phòng trước khi xếp hạng khu vực
 

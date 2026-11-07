@@ -174,7 +174,7 @@ draft: false
 
 **Worried about paying a deposit from abroad, then discovering you cannot cook or the commute is too long? Start with a legal HDB master room near Buona Vista, Commonwealth or Clementi, and aim for S$1,700–1,900 including bills. That is a planning target, not a room quote. A well-run condo common room can also work if its house rules and actual journey suit you better.**
 
-This example is for a 27-year-old Malaysian engineer earning S$7,000/month, holding an Employment Pass (EP), and starting work at one-north on March 1, 2027. Gender was not supplied, so women-only adverts are not universal recommendations. Chinese-speaking renters can use the same comparisons without assuming the same nationality or pass eligibility. All money is SGD, without conversion.
+This example is for a 27-year-old Malaysian engineer earning S$7,000/month, holding an Employment Pass (EP), and starting work at one-north on March 1, 2027. Gender was not supplied, so women-only adverts are not universal recommendations. Nationality, pass validity and room eligibility differ for each renter; do not assume this example's. All money is SGD, without conversion.
 
 **No fresh self-contained studio was verified, including under S$2,000.** The older S$2,200 studio below is a flagged comparison, not a current candidate or confirmed vacancy. All adverts were seen on November 6, 2026, Singapore time; none establishes a room for March 1, 2027. This page adapts those dated checks without refreshing prices, rules or availability.
 

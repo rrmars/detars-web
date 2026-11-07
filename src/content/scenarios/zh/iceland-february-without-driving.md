@@ -322,9 +322,9 @@ SGD 各行独立四舍五入，相加会比总额多一分。酒店目标和套�
 - Tröll 两日团至少提前24h主动取消，退款扣3%刷卡费。天气条款提供改期或其他活动，可能有差价；现金退款处理未确认。
 - 极光团首次取消的退款承诺，不等于所有多日团都全退，也不等于赔偿酒店或机票。保留运营商取消通知，问清适用的退改途径，查独立酒店和温泉的截止时间，再决定自己取消什么。冰洞去不了，不代表已经运行的套餐必须全退。
 
-## 不要把新加坡护照条件换成居住地或语言
+## 保持新加坡护照的入境前提不变
 
-本例适用于**新加坡护照持有人**，不是所有住在新加坡或阅读中文的人。所保留的[新加坡外交部指引](https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/iceland/)及[欧盟驻新加坡代表团指引](https://www.eeas.europa.eu/singapore/travel-study_en?s=178)说明，短期、非工作的申根访问可免签，在任意滚动 **180天内最多90天**。要计入之前的申根停留。[EU Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)包含冰岛，要求入境时护照签发未超过十年，并在预定离境后至少仍有效三个月。目的、资金、住宿和返程证明仍可能被查；免签不保证入境。
+本例适用于**新加坡护照持有人**，不是所有住在新加坡的人。所保留的[新加坡外交部指引](https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/iceland/)及[欧盟驻新加坡代表团指引](https://www.eeas.europa.eu/singapore/travel-study_en?s=178)说明，短期、非工作的申根访问可免签，在任意滚动 **180天内最多90天**。要计入之前的申根停留。[EU Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)包含冰岛，要求入境时护照签发未超过十年，并在预定离境后至少仍有效三个月。目的、资金、住宿和返程证明仍可能被查；免签不保证入境。
 
 **2027年2月是否适用 ETIAS 仍未确定。** 保留查询时，[欧盟门户](https://travel-europe.europa.eu/etias)写明尚未运行；2026年9月30日的[波兰政府通知](https://www.gov.pl/web/unitedkingdom/introduction-of-etias-in-2027)计划在2027年推出，但没有具体日期。较旧欧盟搜索摘要提到 Q4 2026，不等于启动确认。不要认定一定需要，也别认定一定不用；出发前再查官方门户。没有提交申请或支付费用，行政预留不是已核实的 ETIAS 收费。
 

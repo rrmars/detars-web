@@ -183,7 +183,7 @@ draft: false
 
 ## 付房款前，先保护入职安排
 
-签了工作合同，不等于已经获准工作。例子中的申请人仍是巴西籍，中文版本不会改变国籍或资格。巴西属于[居留条例](https://www.gesetze-im-internet.de/aufenthv/__41.html) §41(2)，不是 §41(1)。不要以为免签入境后办理的路径一定适用于计划中的就业搬迁。出发前查看[德国驻巴西使领馆的国家蓝卡签证路径](https://brasil.diplo.de/br-pt/servicos/visto/vistosnacionais/trabalhoqualificado/cartao-azul-academicos-2632412)，该页日期为2026年7月15日。材料齐全后平均六周的说法不是时限保证。
+签了工作合同，不等于已经获准工作。巴西属于[居留条例](https://www.gesetze-im-internet.de/aufenthv/__41.html) §41(2)，不是 §41(1)。不要以为免签入境后办理的路径一定适用于计划中的就业搬迁。出发前查看[德国驻巴西使领馆的国家蓝卡签证路径](https://brasil.diplo.de/br-pt/servicos/visto/vistosnacionais/trabalhoqualificado/cartao-azul-academicos-2632412)，该页日期为2026年7月15日。材料齐全后平均六周的说法不是时限保证。
 
 请 HR 确认签证有效期和工作批注覆盖这份工作。有效 D 类签证若已允许该工作，可能无需等到实体蓝卡到手才入职。申请正在处理也不自动等于可以工作：[柏林的延续居留规则](https://service.berlin.de/dienstleistung/326233/)区分 §81(4) 下原许可延续，以及本身不赋予工作权的 §81(3)。
 

@@ -336,7 +336,7 @@ At €200/night, rooms become €1,200, consuming €300 more and leaving €104
 
 ## Australian passports: keep the September check open
 
-The dated [EU visa list, Annex II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32018R1806) covers ordinary Australian tourist passports for up to **90 days in any 180-day period across Schengen**, not per country. Other trips count too; arrival and departure make this seven calendar days. Chinese translation does not change this passport profile.
+The dated [EU visa list, Annex II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32018R1806) covers ordinary Australian tourist passports for up to **90 days in any 180-day period across Schengen**, not per country. Other trips count too; arrival and departure make this seven calendar days.
 
 Under the inspected [EU entry rules](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), passport issuance must be within ten years before entry, with validity at least three months beyond final Schengen departure. Leaving September 10, 2027 means at least December 10, 2027. Use the later exit date if connecting within Schengen; check carrier/transit rules and allow extra margin. Carry hotel details, onward tickets and funds evidence. Admission is still a border decision.
 

@@ -141,7 +141,7 @@ draft: false
 
 **If your family can contribute ₹15 lakh, keep Germany on your shortlist—but do not treat that as a funded degree. A tuition-free, 24-month plan comes to about ₹35.09 lakh, including a housing deposit and safety reserve, at an explicitly assumed ₹110 per €1. That is a planning rate, not a live bank quote.** Solve the gap before you commit, rather than relying on a job immediately after landing.
 
-This example keeps the applicant profile specific: an Indian BTech Mechanical graduate in Pune, 7.8 CGPA, IELTS 7.0, aiming for October 2027 entry. Chinese-speaking students can use the comparisons too; the applicant's nationality, degree and eligibility do not change. The information below was researched on November 6, 2026, not refreshed for this draft. Future fees, rules and availability need checking before payment.
+This example keeps the applicant profile specific: an Indian BTech Mechanical graduate in Pune, 7.8 CGPA, IELTS 7.0, aiming for October 2027 entry. The information below was researched on November 6, 2026, not refreshed for this draft. Future fees, rules and availability need checking before payment.
 
 **The other urgent issue is timing:** if you need the newly announced dMAT before APS can finish, an early university deadline may be out of reach even when your academic profile fits. Check that dependency before spending application money.
 

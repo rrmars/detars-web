@@ -217,9 +217,9 @@ Not under the tested non-commercial weight licence for this shop workflow. Free 
 
 No real customer messages were used, and no test text, references, translations or review reasons were uploaded. Initial model downloads did use a cached credential, so do not describe setup as wholly account-free or air-gapped.
 
-### Does the Chinese version mean every language direction was tested?
+### Does including Chinese mean every language direction was tested?
 
-No. Only the listed directions were measured. Chinese is useful here because readers are choosing local translation tools and Chinese directions were actually included; it does not validate other directions or human quality.
+No. Only the listed directions were measured. Chinese directions were actually included, but that does not validate other directions or human quality.
 
 ## Ask DeTars to plan your local translation workflow
 

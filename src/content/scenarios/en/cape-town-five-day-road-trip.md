@@ -123,7 +123,7 @@ draft: false
 
 **Want the coast, penguins and wine country without spending the holiday worrying about the car? Stay in Green Point, use rides for city hops and shared coaches for the Peninsula and Franschhoek. For two adults from Frankfurt, the working total is R29,004 / €1,574.01 excluding flights. That leaves only R478.88 / €25.99 below €1,600, so confirm the room before committing to extras.**
 
-This plan assumes ordinary German passports: arrive on Saturday, February 13, 2027 in the morning and leave on Thursday, February 18, 2027 in the evening. It gives you five sightseeing days, five nights and a gentle departure day. Chinese translation makes the same trip accessible; it does not change passport eligibility. Nothing is booked or arranged.
+This plan assumes ordinary German passports: arrive on Saturday, February 13, 2027 in the morning and leave on Thursday, February 18, 2027 in the evening. It gives you five sightseeing days, five nights and a gentle departure day. Nothing is booked or arranged.
 
 Prices were checked on November 6, 2026, Asia/Singapore; retrievals were late November 5, 2026 UTC and in Cape Town. Published prices below are dated examples, not February offers. Transfers, driving times, food, app rides, rental and insurance are planning estimates. Add traffic, queues and stops. R means South African rand, ZAR. Conversion uses **€1 = R18.4268**, the [ECB reference rate](https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml) dated November 5, 2026, not a February forecast or card rate.
 

@@ -249,7 +249,7 @@ draft: false
 
 Worried that your temporary stay will end before your bank account, work pass and first salary are ready? **Start with a furnished room, have HR issue your EP promptly after arrival, and protect your move-in funds. The room model needs S$3,907 plus your actual unpaid serviced-apartment bill and extras before salary.** You do not need to solve everything at the airport.
 
-This plan is for a 31-year-old data analyst travelling alone from Manila, arriving on an Employment Pass in-principle approval (IPA) on January 4, 2027, with 14 nights in a serviced apartment and salary expected at end-January. Departure from Manila does not establish Philippine nationality. Philippine-passport banking and OFW departure advice below applies only if that is your actual profile; Chinese-speaking EP newcomers can use the sequence without inheriting that eligibility.
+This plan is for a 31-year-old data analyst travelling alone from Manila, arriving on an Employment Pass in-principle approval (IPA) on January 4, 2027, with 14 nights in a serviced apartment and salary expected at end-January. Departure from Manila does not establish Philippine nationality. Philippine-passport banking and OFW departure advice below applies only if that is your actual profile.
 
 The information and advertised prices were checked on November 6, 2026, not for a confirmed January transaction. Recheck rules, bank documents, phone offers and rooms in late December and before committing. All amounts are SGD unless marked PHP or USD.
 

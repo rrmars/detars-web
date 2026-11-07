@@ -12,12 +12,12 @@
   "workbooks": [],
   "localePages": {
     "en": {
-      "sourceMarkdownSha256": "7a9107ab74ba47458c4cf136efd5f6a3adcb6b7b1c5daaf26ba7dc337290b68f",
+      "sourceMarkdownSha256": "41c23867e978eb5fe2b3a6fc8ccd724d5de5459b58490c6f99ee3658845085b0",
       "faqPairs": 0,
       "links": []
     },
     "zh": {
-      "sourceMarkdownSha256": "b1c6b529009aa047b3ad4ac2983c79b279041e1cfb26aa493bbaec547331d34c",
+      "sourceMarkdownSha256": "3eff361c8323b01dd77ecbcd851a18e278892d036e7c420feeece9c7b6fe2b0f",
       "faqPairs": 0,
       "links": []
     }

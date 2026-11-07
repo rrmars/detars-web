@@ -336,7 +336,7 @@ draft: false
 
 ## 澳大利亚护照：九月入境要求仍要再查
 
-当时的[欧盟免签名单附件 II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32018R1806)允许澳大利亚普通护照旅游者在**申根整体任意 180 天内最多停留 90 天**，不是每国重新算。其他申根旅行也计入；含抵离日，本次用七个日历日。中文版不改变护照背景。
+当时的[欧盟免签名单附件 II](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32018R1806)允许澳大利亚普通护照旅游者在**申根整体任意 180 天内最多停留 90 天**，不是每国重新算。其他申根旅行也计入；含抵离日，本次用七个日历日。
 
 按所查[欧盟入境规则](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)，护照须在入境前十年内签发，且最终离开申根后至少仍有效三个月。2027年9月10日离开，至少应有效至2027年12月10日。若在申根内转机，按更晚的最终离境日期；再查承运及过境规则，多留余量。带住宿、后续交通和资金证明，是否准入仍由边检决定。
 

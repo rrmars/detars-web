@@ -183,7 +183,7 @@ All amounts are EUR. Prices and rules were inspected on November 7, 2026, not re
 
 ## Protect the work start before paying for housing
 
-A signed offer is not work permission. The original applicant remains Brazilian; the Chinese translation does not change nationality or eligibility. Brazil is in §41(2), not §41(1), of the [residence ordinance](https://www.gesetze-im-internet.de/aufenthv/__41.html). Do not assume a visa-free in-country route covers a planned employment move. Check the [German mission's national Blue Card visa route](https://brasil.diplo.de/br-pt/servicos/visto/vistosnacionais/trabalhoqualificado/cartao-azul-academicos-2632412), dated July 15, 2026, before travel. Its quoted six-week average after complete documents is not a guarantee.
+A signed offer is not work permission. Brazil is in §41(2), not §41(1), of the [residence ordinance](https://www.gesetze-im-internet.de/aufenthv/__41.html). Do not assume a visa-free in-country route covers a planned employment move. Check the [German mission's national Blue Card visa route](https://brasil.diplo.de/br-pt/servicos/visto/vistosnacionais/trabalhoqualificado/cartao-azul-academicos-2632412), dated July 15, 2026, before travel. Its quoted six-week average after complete documents is not a guarantee.
 
 Ask HR to confirm that the visa's dates and employment endorsement cover your job. A valid D visa authorising that work can allow a start before the plastic Blue Card arrives. A pending application is not automatically permission to work: [Berlin's continuation rules](https://service.berlin.de/dienstleistung/326233/) distinguish §81(4) continuation of existing permission from §81(3), which does not itself grant work rights.
 

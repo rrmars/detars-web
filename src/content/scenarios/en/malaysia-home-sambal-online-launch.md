@@ -120,7 +120,7 @@ draft: false
 
 You want to find out whether people will buy your sambal—not spend your savings on a kitchen you cannot use. **Resolve MBSA permission for the exact premises and validate product safety before launching.** SSM registration alone does not authorise home food production. Keep the **RM2,830** buffer untouched while those questions are open.
 
-This plan follows Aisyah, age 38, in Shah Alam, with **RM8,000** starting capital, **200g** glass jars and a target of **300 jars/month** by the sixth sales month. It assumes she is a Malaysian citizen or permanent resident eligible for sole-proprietor registration; that eligibility still needs confirming. Chinese-speaking Malaysian microbusiness owners can use the same decisions, but translating this guide does not change the national-language label requirements or anyone’s eligibility.
+This plan follows Aisyah, age 38, in Shah Alam, with **RM8,000** starting capital, **200g** glass jars and a target of **300 jars/month** by the sixth sales month. It assumes she is a Malaysian citizen or permanent resident eligible for sole-proprietor registration; that eligibility still needs confirming.
 
 **Test RM18 direct / RM20 marketplace, with buyers paying actual delivery separately.** These are planning prices, not proven demand. Start with one recipe and local fulfilment. If the home cannot be approved, price an appropriately approved shared kitchen; if that does not fit, delay rather than sign a commercial lease. Do not promise ambient shelf stability, halal certification or nationwide shipping before you have support for each claim.
 

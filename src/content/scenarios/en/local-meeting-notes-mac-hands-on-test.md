@@ -63,7 +63,7 @@ The best transcription candidate was **whisper.cpp large-v3-turbo Q5_0**. It had
 
 The small **Qwen2.5 1.5B Instruct Q4_K_M** summary model failed the controlled action-recovery checklist, scoring **3/5**. It is not a recommendation for final action lists. Importantly, its audio-derived inputs came from the **small Whisper model**, not turbo: a turbo-to-Qwen workflow was not tested.
 
-These are hands-on results from **one Apple M2 Mac14,2 with 16 GiB physical unified RAM**, running macOS 26.5.1 (25F80), on **November 7, 2026**. They are not vendor benchmarks or a general Mac leaderboard. Chinese-speaking readers can use the workflow too, but this tiny mixed-language sample does **not** validate general Mandarin recognition or Chinese meeting-note quality.
+These are hands-on results from **one Apple M2 Mac14,2 with 16 GiB physical unified RAM**, running macOS 26.5.1 (25F80), on **November 7, 2026**. They are not vendor benchmarks or a general Mac leaderboard. This tiny mixed-language sample does **not** validate general Mandarin recognition or Chinese meeting-note quality.
 
 ## Know what the clips can—and cannot—tell you
 

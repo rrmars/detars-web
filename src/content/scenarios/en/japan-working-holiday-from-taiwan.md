@@ -161,7 +161,7 @@ draft: false
 
 **Worried that TWD 250,000 will disappear before your first payday? A careful start looks workable in this example: budget JPY 515,000 for preparation and the first two months, without wages, and protect a separate JPY 250,000 emergency reserve. But settle your visa route before buying a non-refundable flight. June 1, 2027 is not yet a safe booking date for a new applicant.**
 
-This plan is for a 26-year-old living in Taipei and applying under Japan's Taiwan Working Holiday scheme. It uses information checked on November 6, 2026, not confirmed travel-date prices or availability. Reading it in another language does not change Taiwan-specific eligibility.
+This plan is for a 26-year-old living in Taipei and applying under Japan's Taiwan Working Holiday scheme. It uses information checked on November 6, 2026, not confirmed travel-date prices or availability.
 
 ## First, find out which visa round you can actually use
 
