@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "5652877d591b0dcfbb9bbc1e8e76a6bfe8e15c0bd1569ed1ff88598861007fcd",
+  "sourceListLink": "../w7-berlin-blue-card-first-rental/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "7a9107ab74ba47458c4cf136efd5f6a3adcb6b7b1c5daaf26ba7dc337290b68f",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "b1c6b529009aa047b3ad4ac2983c79b279041e1cfb26aa493bbaec547331d34c",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "fa2dcc382afec05209eb233357849df2512874dfef665b0cc2716eeacb197711",
+  "sourceListLink": "../w7-local-music-generation-test/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "4435b55061efdccaff5941829ef87a33325f31b8da88830f2dd4d69e0e3c00b9",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "ac4f4fd8b7a7099c72c0db8eb96bdea4568008b3a153fdc811987ff782f93449",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

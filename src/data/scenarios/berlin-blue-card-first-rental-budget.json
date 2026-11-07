@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "slug": "berlin-blue-card-first-rental-budget",
+  "translationKey": "berlin-blue-card-first-rental-budget",
+  "sources": [
+    {
+      "title": "AufenthV §41: nationality and employment conditions",
+      "url": "https://www.gesetze-im-internet.de/aufenthv/__41.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "German missions in Brazil: national Blue Card visa",
+      "url": "https://brasil.diplo.de/br-pt/servicos/visto/vistosnacionais/trabalhoqualificado/cartao-azul-academicos-2632412",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin pending-status and continuation rules",
+      "url": "https://service.berlin.de/dienstleistung/326233/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin EU Blue Card service",
+      "url": "https://service.berlin.de/dienstleistung/324659/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin residence registration",
+      "url": "https://service.berlin.de/dienstleistung/120686/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official basic-account guidance",
+      "url": "https://www.verbraucherportal-bw.de/,Lde/Startseite/Verbraucherschutz/Basiskonto+fuer+Jedermann",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BZSt: tax ID and missing-letter request",
+      "url": "https://online.portal.bzst.de/SharedDocs/Leistungsbeschreibung/DE/erneute_mitteilung_der_ID-Nr.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Make it in Germany: housing and registration",
+      "url": "https://www.make-it-in-germany.com/en/arriving-living/getting-started/housing-registration",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BMG §19: provider confirmation and sham addresses",
+      "url": "https://www.gesetze-im-internet.de/bmg/__19.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BMG §27: temporary registration exceptions",
+      "url": "https://www.gesetze-im-internet.de/bmg/__27.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BMG §29: accommodation establishments",
+      "url": "https://www.gesetze-im-internet.de/bmg/__29.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 1889: Auerstraße",
+      "url": "https://www.farawayhome.com/en/homes/1889",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 3953: Holtzendorffstraße",
+      "url": "https://www.farawayhome.com/en/homes/3953",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 2498: near Helmholtzplatz",
+      "url": "https://www.farawayhome.com/en/homes/2498",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 5656: Schwedter Straße",
+      "url": "https://www.farawayhome.com/en/homes/5656",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 2493: Gleimstraße",
+      "url": "https://www.farawayhome.com/en/homes/2493",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 2492: Gleimstraße",
+      "url": "https://www.farawayhome.com/en/homes/2492",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 2935: Erich-Weinert-Straße",
+      "url": "https://www.farawayhome.com/en/homes/2935",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "FARAWAYHOME 3571: Samariterkiez",
+      "url": "https://www.farawayhome.com/en/homes/3571",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mahlsdorf unfurnished studio M1",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/neubau-erstbezug-ab-november-1-zimmer-apartment-mit-ostbalkon/3517147721-203-3512",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mahlsdorf Menzelstraße 33B M3",
+      "url": "https://www.immobilienscout24.de/expose/171720981",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wilmersdorf 60.3 m² W1",
+      "url": "https://www.immobilienscout24.de/expose/171930284",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wilmersdorf 69.1 m² W2 third-party listing",
+      "url": "https://rentroomgermany.com/de/apartments/2-room-old-building-69-1-m-2nd-floor-first-occupancy-after-core-4a3d4d9b",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Adlershof partial aggregator lead A1",
+      "url": "https://mietradar.online/mietwohnungen/1-zimmer-wohnung-mit-26-m-in-berlin-moissistrasse-31-berlin-p50888a30",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Lankwitz L1 deleted historical example",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/frisch-renovierte-2-zimmer-wohnung-mit-neuer-ebk-und-balkon/3511733841-203-3424",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wedding/Reinickendorf R1 deleted historical example",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmerwohnung-wedding-reinickendorf-01-11/3519055412-203-9667",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Mietspiegel 2026 query",
+      "url": "https://mietspiegel.berlin.de/berliner-mietspiegel/mietspiegelabfrage/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Mietspiegel 2026 PDF",
+      "url": "https://mietspiegel.berlin.de/wp-content/uploads/2026/05/mietspiegel2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mietspiegel scope",
+      "url": "https://mietspiegel.berlin.de/berliner-mietspiegel/erlaeuterungen-zum-mietspiegel/geltungsbereich/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mietspiegel rent definition",
+      "url": "https://mietspiegel.berlin.de/berliner-mietspiegel/erlaeuterungen-zum-mietspiegel/mietenbegriff/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official Mietspiegel edition and downloads",
+      "url": "https://mietspiegel.berlin.de/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BGB §556: operating costs",
+      "url": "https://www.gesetze-im-internet.de/bgb/__556.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BGB §551: deposit",
+      "url": "https://www.gesetze-im-internet.de/bgb/__551.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin rent-brake extension announcement",
+      "url": "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1615170.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BGB §556d: rent-brake rule",
+      "url": "https://www.gesetze-im-internet.de/bgb/__556d.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BGB §556e: prior rent and modernisation",
+      "url": "https://www.gesetze-im-internet.de/bgb/__556e.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BGB §556f: exceptions",
+      "url": "https://www.gesetze-im-internet.de/bgb/__556f.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BGB §549: tenancy categories",
+      "url": "https://www.gesetze-im-internet.de/bgb/__549.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TK 2026 social-security contributions",
+      "url": "https://www.tk.de/en/contribution-rate-social-security-2037092",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Federal 2026 social-security ceilings",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/beitragsgemessungsgrenzen-2386514",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BMF 2026 official tax-validation query",
+      "url": "https://www.bmf-steuerrechner.de/interface/2026Version1.xhtml?code=LSt2026ext&LZZ=2&RE4=566667&STKL=1&KVZ=2.69&PVZ=1&KRV=0&PKV=0&PVS=0&ZKF=0&ALTER1=0&AF=0&f=1&R=0&LZZFREIB=0&LZZHINZU=0",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "annual_gross_salary": {
+      "label": "Original Brazilian developer's annual gross job salary",
+      "value": 68000,
+      "unit": "EUR_per_year",
+      "display": "€68,000"
+    },
+    "monthly_net_baseline": {
+      "label": "Monthly net under explicit 2026 TK/class I assumptions, not 2027 forecast",
+      "value": 3468.96,
+      "unit": "EUR_per_month",
+      "display": "€3,468.96"
+    },
+    "landing_cash_total": {
+      "label": "Landing liquidity with two rent periods before assumed first payday, permanent move extra",
+      "value": 8990,
+      "unit": "EUR",
+      "display": "€8,990"
+    },
+    "third_rent_cash_total": {
+      "label": "Conditional liquidity if third rent period due before salary",
+      "value": 10790,
+      "unit": "EUR",
+      "display": "€10,790"
+    },
+    "delayed_pay_cash_total": {
+      "label": "Liquidity for narrow salary-payment delay to April 30, 2027",
+      "value": 11490,
+      "unit": "EUR",
+      "display": "€11,490"
+    },
+    "bridge_monthly_rent": {
+      "label": "Auerstraße advertised price anchor, not February reservation or full invoice",
+      "value": 1800,
+      "unit": "EUR_per_month",
+      "display": "€1,800"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read complete retained index.html using local HTMLParser text/link extraction, complete sources.md, independent-review.md, calculations.json, and registration/deposit/BMF retained primary snapshots. No network, fresh legal research, browser, build or payroll-engine call. Current local Decimal/date recomputation and content_utils parity checks are documented in scoped notes.",
+    "originalResearchAccessLimitations": "Original sandbox unavailable; initial generic public fetches automatically fell back to existing DeTars managed browser with unverified prior authentication state. Original run is not wholly clean-browser compliant. No deliberate personal sign-in/credential use, account applications, enquiries or contact reported. All eight furnished pages later cookie-free Python re-fetched; key official/payroll pages rechecked in fresh isolated zero-cookie Playwright contexts. This is retained original disclosure, not a new test.",
+    "reviewReconciliation": "Independent review examined earlier HTML hash def930e545b3dfeca0879070b5fbeb64517798b61aaff82fff13f54d15e128ad and reported missing sources.md. Current inspected sources.md exists and final HTML has revised long-term section and third-rent warning; current hash is recorded above. Do not claim independent review certified the later final long-term section. Its arithmetic remains reproducible from unchanged calculations.json and saved BMF response. Official PDF values corrected in source ledger supersede initial mirror-derived values."
+  },
+  "datePolicy": "All source access dates retain original November 7, 2026 observations. Publication dates and advertised availability dates are separate; unknown publication dates remain unknown in retainedDateNote. Copy authoring is not a freshness check. Original run model and publication date remain unknown. No 2027 payroll rates, Mietspiegel edition or rental availability invented.",
+  "uncertainties": [
+    "Eight furnished examples all from FARAWAYHOME, not a representative platform/market survey. Source-authored publication dates unknown; full February dates, authority, total fees and provider-confirmation delivery unverified.",
+    "Unpriced energy charges and visiting-friend clauses need written clarification. No tenant commission does not establish zero administration/tax/broadcast/key/document/cleaning fees. Deposit subtotals are liquidity, not verified invoices or legal category rulings.",
+    "Long-term evidence partial: only Mahlsdorf has independent 1-room and 2-room asks. Wilmersdorf is same-building two-unit evidence; Adlershof aggregator partial; Lankwitz and Wedding deleted historical context. No four/five-area statistical ranges or unrestricted WBS eligibility claimed.",
+    "Wilmersdorf lease terms and larger third-party original offer unverified; smaller unit has no kitchen and AI visualisations. Lankwitz cold-price conflict unresolved; Wedding size and cold-label conflicts retained.",
+    "Mietspiegel conditional net-cold cells are not available asking rents, matched unit appraisals or automatic legal ceilings. Original official PDF correction followed, not initial mirror cells; no new PDF fetch.",
+    "Brazilian applicant unchanged: nationality, qualification and work-permission status still require individual confirmation. 2026 Blue Card thresholds do not certify 2027 eligibility. Registration alone is not work authorisation.",
+    "Monthly net is 2026 class I/TK/childless/no-church/no-benefits model, not actual 2027 payroll; being alone does not determine children or church-tax status. Employer payday/cutoff, bank approval, tax-ID delivery and annual tax outcome unknown.",
+    "Landing cash assumes February 8 arrival, March 31 first pay and two rolling rent periods. Third-rent pre-payday and April 30 salary-delay cases separate; permanent move, kitchen/furniture and overlapping deposits/rent extra. Insurance/work-start delays may require more.",
+    "No new browser/render/build/publication or external research. Pure local literal/table/hash/arithmetic checks do not certify current laws, prices, landlords, eligibility, availability or visual rendering."
+  ],
+  "editingContract": "Only new assigned en/zh Markdown, semantic data and scoped batch25 notes. No source edits, shared code/inventory/README/manifest changes, builds, network, publication or contact. No ratings, Review or AggregateRating.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Professional newcomers planning a first Berlin rental, including Chinese-speaking readers; the worked example remains a 29-year-old Brazilian developer arriving alone with a EUR 68,000 job.",
+  "localeReason": "English and Chinese: address registration, rental cash timing and first-home checks are useful to Chinese-speaking professional newcomers too. Translation does not change the Brazilian applicant, Blue Card route, qualifications, tax assumptions or eligibility.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

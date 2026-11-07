@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "slug": "texas-home-bakery-first-sales-budget",
+  "translationKey": "texas-home-bakery-first-sales-budget",
+  "sources": [
+    {
+      "title": "Texas Legislature: enrolled SB 541",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00541F.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Texas DSHS: Texas Cottage Food Production",
+      "url": "https://www.dshs.texas.gov/retail-food-establishments/permits-retail-food-establishments/texas-cottage-food-production",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Texas Health and Safety Code Chapter 437, readable official static resource",
+      "url": "https://tcss.legis.texas.gov/resources/hs/htm/hs.437.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Texas Secretary of State: Name Filings FAQs",
+      "url": "https://www.sos.state.tx.us/corp/namefilingsfaqs.shtml",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bexar County: Assumed Business Names/DBAs",
+      "url": "https://www.bexar.org/2958/Assumed-Business-NamesDBAs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bexar County: Assumed Name Application",
+      "url": "https://www.bexar.org/DocumentCenter/View/26459/Assumed-Name-Application-for-Certificate-of-Ownership?bidId=",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Texas Comptroller: Fairs, Festivals, Markets and Shows",
+      "url": "https://comptroller.texas.gov/taxes/publications/96-211.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Texas Comptroller: Sales Tax Permit FAQs",
+      "url": "https://comptroller.texas.gov/taxes/sales/faq/permit.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Texas Comptroller: Grocery and Convenience Stores, bakery tax distinction",
+      "url": "https://comptroller.texas.gov/taxes/publications/96-280.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Texas Local Government Code Chapter 211, cottage-food zoning provisions",
+      "url": "https://tcss.legis.texas.gov/resources/lg/htm/lg.211.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "San Antonio Metro Health: Licenses and Food Permits FAQ",
+      "url": "https://www.sa.gov/Directory/Departments/SAMHD/Licenses-Food-Permits",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pearl: Market Guide",
+      "url": "https://atpearl.com/markets/market-guide/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pearl: Become a Vendor",
+      "url": "https://atpearl.com/markets/become-a-vendor/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Square: Learn about Square fees",
+      "url": "https://squareup.com/help/us/en/article/5068-what-are-square-s-fees",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "startup_cash_budget": {
+      "label": "Total startup cash envelope, not supplier quotations",
+      "value": 3000,
+      "unit": "USD",
+      "display": "$3,000"
+    },
+    "untouched_cash_reserve": {
+      "label": "Working cash kept untouched, separate from contingency",
+      "value": 1000,
+      "unit": "USD",
+      "display": "$1,000"
+    },
+    "fifteen_order_hourly_pay": {
+      "label": "15 orders and one conditional monthly event, before personal taxes and startup recovery",
+      "value": 17.79,
+      "unit": "USD_per_hour",
+      "display": "$17.79/hour"
+    },
+    "weekly_market_hourly_pay": {
+      "label": "20 orders and four monthly events; below the wage target",
+      "value": 9.14,
+      "unit": "USD_per_hour",
+      "display": "$9.14/hour"
+    },
+    "first_year_labor_pool": {
+      "label": "Conditional one-event monthly scenario net available for labor, not take-home pay or capital recovery",
+      "value": 5994.37,
+      "unit": "USD",
+      "display": "$5,994.37"
+    },
+    "first_year_hourly_pay": {
+      "label": "Labor pool divided by all modeled work hours, before personal taxes and capital recovery",
+      "value": 22.04,
+      "unit": "USD_per_hour",
+      "display": "$22.04/hour"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Offline authoring only. Complete retained guide, source register, independent check/final recheck, assumptions and law/registration research read. DSHS raw body read in full; relevant sections of Square, Pearl, Comptroller and county captures, and full correct city excerpt inspected. Initial statute-clean-source navigation slice is not substantive law evidence. Legal conclusions are retained findings with explicit gaps, not new external primary verification. Local pure content/table/Decimal checks only; no source scripts run, no build or browser test.",
+    "originalResearchAccessLimitations": "Original sources disclose initial managed-browser/search profile access not demonstrably fresh empty-storage. Later clean-context DSHS, Square and tax captures replace substantive evidence but cannot erase that procedural exception. Original county blank application was read, never completed/submitted. Original source run reports no registrations, purchases, contacts or account activity. This task made no network request.",
+    "supersededFindings": "FINAL ADDENDUM in independent-check.md and independent-final-recheck.json supersede historical wrong monthly hourly-pay cells. Current guide uses 21 h / $17.79 and 23 h / $22.81; no historical $400.23/h or $562.21/h is carried into reader prose.",
+    "sourceTreeBaseline": {
+      "fileCount": 58,
+      "algorithm": "SHA-256 of sorted relative-path:sha256 entries, each newline terminated",
+      "sha256": "7c4f56a6422331e77722eadf6e88bd300ec8a6c35afc9535937fb8232270e3ad"
+    }
+  },
+  "datePolicy": "All external access dates are retained November 7, 2026 UTC as explicitly stated in sources.md. Undated publications remain undated; the Bexar form revision date is April 20, 2023, not a fee-validity promise. Authoring is not a source refresh. March 2027–February 2028 is a hypothetical future operating year, not confirmed demand, law, fees or market availability.",
+  "uncertainties": [
+    "Pearl expressly excludes cottage-law vendors and closes applications in retained policy. No eligible alternative Saturday venue or its fees, insurance, attendance, tent/weights/cancellation/sampling terms were verified. One-event economics are conditional, not accepted/booked revenue.",
+    "Actual recipes, shelf stability/TCS status, allergen lists, yields and finished loaf weight untested. No comprehensive federal or claim-specific label review; no refrigerated/TCS expansion included in budget.",
+    "Annual inflation-adjusted cap, adjustment/proration timing and administrative-rule adoption history unresolved. Future legislation or rules may intervene; statutory cross-reference defect is not a loophole for excluded food.",
+    "Exempt-only sales-tax permit exception not expressly closed for this exact arrangement. Product/service classification depends on final menu and bakery-location test; no blanket cottage-food tax exemption asserted.",
+    "Bexar webpage $13 plus $1 conflicts with form $20/$21; actual launch-year payable DBA fee unknown. Training/DBA envelope is an allowance, not a fee quote.",
+    "Actual HOA/deed/lease documents absent. Municipal zoning non-prohibition is not private-property clearance or waiver of nuisance, address-specific occupancy, signage, traffic or building requirements.",
+    "All costs, insurance provision, selling prices, demand and labor efficiencies are hypothetical. Whole batches and consolidated baking dates assumed; separate bakes, refunds/spoilage, helper labor and custom work require recosting.",
+    "Square fee is a retained commercial domestic online/invoice rate, not a government-verified fee or future guarantee. Full-precision model and actual transaction rounding can differ by cents.",
+    "Labor pool is before personal income/self-employment taxes, benefits and startup recovery. Provisional 25% reserve is not a determined tax rate. No capital payback, guaranteed wage or demand is claimed.",
+    "Original research clean-session exception remains disclosed; later replacement captures do not retroactively cure it. No build, live availability, legal refresh or pixel/layout certification in this task."
+  ],
+  "editingContract": "Only three new assigned files: en Markdown, data JSON and scoped batch25 notes. No Chinese locale, source edits, shared code/inventory/README/manifest changes, builds, network, publication, contact, registration or purchasing. No fabricated ratings, Review or AggregateRating.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A San Antonio nurse planning a Texas home-kitchen bakery with USD 3,000, 15–20 monthly orders and a USD 15/hour target, weighing Instagram preorders against local Saturday markets.",
+  "localeReason": "English only: specific Texas cottage-food operation and local market admission; no distinct Chinese-speaking audience established.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

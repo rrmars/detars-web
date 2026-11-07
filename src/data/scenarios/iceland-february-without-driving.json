@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "slug": "iceland-february-without-driving",
+  "translationKey": "iceland-february-without-driving",
+  "sources": [
+    {
+      "title": "Arctic 2-day cave/lagoon",
+      "url": "https://adventures.is/iceland/multiday-tours/south-coast-icecave-skaftafell-jokulsarlon/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tröll 2-day winter",
+      "url": "https://troll.is/multi-day/2-day-south-coast-winter-tour/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Arctic 3-day tour",
+      "url": "https://adventures.is/iceland/multiday-tours/golden-circle-south-coast-ice-cave-three-day-tour/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gray Line advertised tours",
+      "url": "https://grayline.is/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RE Golden Circle Direct",
+      "url": "https://www.re.is/tour/golden-circle-direct/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Arctic aurora",
+      "url": "https://adventures.is/iceland/day-tours/northern-lights/magical-auroras/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tröll 3-day winter",
+      "url": "https://troll.is/multi-day/3-day-south-coast-golden-circle-winter-tour/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Central Bank USD fixing, 6 Nov 2026",
+      "url": "https://cb.is/statistics/embed-pages/exchange-rate/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gray Line aurora terms",
+      "url": "https://grayline.is/product/2395658113",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RE aurora terms",
+      "url": "https://www.re.is/tour/northern-lights-tour/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Visit Iceland aurora",
+      "url": "https://www.visiticeland.com/the-northern-lights/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "South Iceland February daylight",
+      "url": "https://www.south.is/en/travel-info/practical-information/icelandic-weather/february",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Met Office aurora/cloud forecast",
+      "url": "https://en.vedur.is/weather/forecasts/aurora/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Secondary map-reading explanation, 10 Sep 2026",
+      "url": "https://www.aurora-iceland.com/blog/how-to-read-vedur-aurora-cloud-cover-map",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Weather warnings",
+      "url": "https://en.vedur.is/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Saga winter offer",
+      "url": "https://www.islandshotel.is/offers/luxury-at-hotel-reykjavik-saga/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Marina offer",
+      "url": "https://www.icelandhotelcollectionbyberjaya.com/en/offers/a-night-out-at-reykjavik-marina",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Alda offer",
+      "url": "https://www.icelandhotelcollectionbyberjaya.com/en/hotels/reykjavik/hotel-alda-reykjavik/offers/relax-in-reykjavik",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Canopy offer",
+      "url": "https://www.icelandhotelcollectionbyberjaya.com/en/offers/cosy-at-canopy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Frost & Fire winter offer",
+      "url": "https://frostandfire.is/special-offers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Höfn offer",
+      "url": "https://www.icelandhotelcollectionbyberjaya.com/en/find-existing-reservation/hygge-at-hofn",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Rangá four-night offer",
+      "url": "https://hotelranga.is/offers/ageofaurora/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Flybus tariff",
+      "url": "https://flybus.is/plan-your-trip/prices/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Flybus FAQ",
+      "url": "https://flybus.is/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Strætó fares",
+      "url": "https://www.straeto.is/en/store/pricing",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Klapp capping",
+      "url": "https://www.klappid.is/en/buy-tickets/kapp",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sky Lagoon packages",
+      "url": "https://www.skylagoon.com/packages/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sky Lagoon transport",
+      "url": "https://www.skylagoon.com/sky-lagoon-with-transfer/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Blue Lagoon admission",
+      "url": "https://www.bluelagoon.com/day-visit/the-blue-lagoon",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Blue Lagoon transport",
+      "url": "https://www.bluelagoon.com/transportation-to-blue-lagoon",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Blue Lagoon disruption",
+      "url": "https://www.bluelagoon.com/seismic-activity",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IcelandCover prices",
+      "url": "https://icelandcover.com/pricing/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IcelandCover terms",
+      "url": "https://icelandcover.com/terms-and-conditions",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Dated indicative FX table, 2 Nov 2026",
+      "url": "https://www.livepriceofgold.com/exchange-rate/iceland.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SafeTravel conditions",
+      "url": "https://safetravel.is/travel-conditions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official roads and driving conditions",
+      "url": "https://island.is/en/roads-and-driving-conditions",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gray Line general terms",
+      "url": "https://grayline.is/terms-and-conditions",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RE terms",
+      "url": "https://www.re.is/terms-and-conditions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore MFA: Iceland",
+      "url": "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/iceland/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EU Delegation: Singapore passport visa-free",
+      "url": "https://www.eeas.europa.eu/singapore/travel-study_en?s=178",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EU Your Europe: non-EU entry and passports",
+      "url": "https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official EU ETIAS portal",
+      "url": "https://travel-europe.europa.eu/etias",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Polish government ETIAS notice, 30 Sep 2026",
+      "url": "https://www.gov.pl/web/unitedkingdom/introduction-of-etias-in-2027",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "land_budget_isk": {
+      "label": "Two-person land budget including reserve, excluding flights; allowances not quotes",
+      "value": 737468,
+      "unit": "ISK",
+      "display": "737,468"
+    },
+    "land_budget_sgd": {
+      "label": "Same land budget at assumed SGD/ISK rate",
+      "value": 7762.82,
+      "unit": "SGD",
+      "display": "SGD 7,762.82"
+    },
+    "weather_reserve_isk": {
+      "label": "Included weather contingency, not insurance or unlimited disruption coverage",
+      "value": 90000,
+      "unit": "ISK",
+      "display": "90,000"
+    },
+    "budget_headroom_sgd": {
+      "label": "Margin below SGD ceiling at assumed exchange rate",
+      "value": 1237.18,
+      "unit": "SGD",
+      "display": "SGD 1,237.18"
+    },
+    "city_room_target_isk": {
+      "label": "Tax-inclusive room-night target allowance, not verified February rate",
+      "value": 35000,
+      "unit": "ISK_per_room_night",
+      "display": "ISK 35,000"
+    },
+    "coast_package_allowance_isk": {
+      "label": "Two-person transport-inclusive coast package allowance, not quoted fare",
+      "value": 180000,
+      "unit": "ISK",
+      "display": "ISK 180,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read all retained index.html, all 501 source-list lines, independent-check.md, budget.json and director-notes.md. No external page reopened, browser run, network, booking or contact. Independently recomputed retained arithmetic and compared bilingual literals locally without build.",
+    "originalResearchAccessLimitations": "Original sandbox browser unavailable; some fetches automatically attempted managed-browser rendering. Successful public rendered bodies included ETIAS, Blue Lagoon admission and Visit Iceland; session/profile provenance not reported, so a fully clean research session cannot be certified. Retained disclosure reports no intentional sign-in/import, forms, account use, contact, booking or payment. Some older source-note provider/line-locator claims were superseded by the final sources.md disclosure. These are original-run limitations, not new research activity.",
+    "verificationScope": "Retained independent check is mechanical arithmetic/coherence only, not re-opened external-policy or visual certification. Current authoring uses scoped pure comparison and arithmetic checks only."
+  },
+  "datePolicy": "Source-specific retrieval/attempt date retained as November 7, 2026 in Singapore, not refreshed by authoring. Failed/shell/index-only accesses are qualified in source notes and visible prose; they do not establish successful current primary verification. Publication dates otherwise unknown. FX table November 2; USD fixing November 6; Polish ETIAS notice September 30; secondary map explanation September 10; rental terms March 25, 2024; MFA update November 6, 2026. Seasonal validity never substitutes for exact February 2027 inventory.",
+  "uncertainties": [
+    "No February 2027 rooms, tour seats/departures, assigned package hotel or lagoon slots confirmed. Seven published hotel offers: only Saga, Frost & Fire and Ranga cover the season; four expire in 2026. No Vik/Skaftafell February quote.",
+    "Sky Saman/Ser indexed prices conflict: ISK 14,990/17,990 versus 16,990/19,990. Higher Saman base provisionally used; direct page shell, no confirmed base or slot fare. Lagoon transport and cancellation/current volcanic closure terms incomplete.",
+    "ETIAS February 2027 applicability unresolved; no exact start date or fee verified. Retain Singapore-passport short non-working visit assumptions; Chinese language or Singapore residence does not confer eligibility.",
+    "ISK 35,000 room/night and ISK 180,000 pair package are allowances, not quotes. SGD 1 = ISK 95 is an indicative rounded planning assumption, not executable FX or forecast. Higher hotel and weaker FX can exhaust the ceiling.",
+    "Troll dollar currency unresolved and not converted; direct three-day price differs from cross-sell. Gray Line/RE brand independence not assumed. Advertised starts/sales and pickup fees are not confirmed dated fares.",
+    "Cave seasons are product-specific, not fixed guaranteed opening dates; Katla differs from Vatnajokull. Aurora sightings, retries, available rebooking seats and cash refunds are not guaranteed.",
+    "Selected fare-class, operator-cancelled multiday cash refunds, partial itinerary changes and consequential accommodation/flight liabilities remain to confirm. Generic voluntary cancellation and aurora rules do not override actual multiday fare terms.",
+    "Primary Met Office aurora page timed out; map conventions secondary-supported, check current legend. Nine daylight hours is coarse monthly guidance, not exact-date timetable; no defensible sighting probability.",
+    "Rental stock, fit, shop hours/address, delivery cost and exact five-day cancellation boundary unresolved. Incremental daily prices must be summed; every calendar day/part counts. City traction is not glacier equipment.",
+    "Flybus selected stops/flight timetable, tour luggage/storage, detailed bus-cap/reset/group payment rules and city hotel breakfast inclusions unresolved. Budget uses singles and breakfast cushion.",
+    "Reserve and insurance allowance are not guaranteed disruption coverage. Flights, seventh night, shopping, major equipment, extra tours and extended storm stays not fully covered. Local source list remains a draft-package attachment, not promised public hosting."
+  ],
+  "editingContract": "Only assigned NEW en/slug.md, zh/slug.md, data/slug.json and checks/batch25-slug-notes.md authored. Existing files and source runs immutable; no shared code/inventory/README/manifest edits, builds, network, publication, contact, booking or payment. No ratings or Review schema.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "A Singapore-passport couple in their early thirties planning a no-driving February Iceland trip; Chinese-speaking Singapore residents can use the same planning comparison without inheriting passport eligibility.",
+  "localeReason": "English and Chinese: a popular travel decision for Chinese-speaking Singapore residents too. The Singapore couple’s passport, prior Schengen stay and entry assumptions are retained, not adapted into eligibility for other passports.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

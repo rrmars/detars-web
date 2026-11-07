@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "808a9a2767a82f128a2c3a84a1b321c988c58484c857a54c3ffbcf9f4ce8dde3",
+  "sourceListLink": "../w7-iceland-winter-no-driving-singapore-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "2ebb6333c0e4db3d4489e839c2f7192d7f27e1bf634c4e65d43e7d30a7d7ab43",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "afedd3a5c7b60291c0722e6f447d73528974057dfe9363755d8a91c750044c95",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 2,
+  "slug": "local-music-generation-commercial-use-test",
+  "translationKey": "local-music-generation-commercial-use-test",
+  "sources": [
+    {
+      "title": "MusicGen weight licence",
+      "url": "https://github.com/facebookresearch/audiocraft/blob/main/LICENSE_weights",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AudioLDM small v2 checkpoint card",
+      "url": "https://huggingface.co/cvssp/audioldm-s-full-v2/blob/main/README.md",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CreativeML OpenRAIL-M",
+      "url": "https://huggingface.co/spaces/CompVis/stable-diffusion-license/raw/main/license.txt",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Riffusion model card",
+      "url": "https://huggingface.co/riffusion/riffusion-model-v1",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Stable Audio Open Small public model page",
+      "url": "https://huggingface.co/stabilityai/stable-audio-open-small",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Stability AI Community agreement",
+      "url": "https://stability.ai/community-license-agreement",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Riffusion original README",
+      "url": "https://github.com/riffusion/riffusion/blob/main/README.md",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "completed_clips": {
+      "label": "Completed evaluation clips, not commercial clearance",
+      "value": 10,
+      "unit": "clips",
+      "display": "10"
+    },
+    "wav_total_size": {
+      "label": "Total WAV size in decimal megabytes",
+      "value": 9.58,
+      "unit": "MB",
+      "display": "9.58 MB"
+    },
+    "musicgen_median_wall": {
+      "label": "MusicGen CPU median generation wall time",
+      "value": 159.4,
+      "unit": "seconds",
+      "display": "159.4 s"
+    },
+    "audioldm_median_wall": {
+      "label": "AudioLDM CPU median generation wall time",
+      "value": 27.9,
+      "unit": "seconds",
+      "display": "27.9 s"
+    },
+    "riffusion_final_rss_stop": {
+      "label": "Final Riffusion CPU retry sampled RSS at stop; cutoff overshot",
+      "value": 6.075,
+      "unit": "GB",
+      "display": "6.075 GB"
+    },
+    "riffusion_mps_footprint": {
+      "label": "Observed Riffusion MPS physical footprint at manual stop",
+      "value": 6.535,
+      "unit": "GB",
+      "display": "6.535 GB"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "unknown",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read complete index.html, sources.md, independent verification.json, results.csv, prompts.json, CLAP repeat check, findings and versions; read retained licence texts/card. Local comparison only, no benchmark or network execution. MusicGen licence operative excerpt inspected at lines 105–160.",
+    "originalTestTimezone": "Asia/Singapore; some raw logs/captures November 6 UTC",
+    "retainedCaptureTime": "2026-11-06T23:43:05.405732+00:00",
+    "originalPrivacyBoundary": "Anonymous public downloads; local-files-only offline inference with Python sockets disabled; no audio upload, accounts, cached HF tokens or personal browser session. This is retained original-run evidence, not a new run."
+  },
+  "datePolicy": "Source-specific original access is November 7, 2026 Asia/Singapore, as retained sources.md/findings.md state. UTC capture November 6 is preserved separately. Community agreement updated July 5, 2024; OpenRAIL licence dated August 22, 2022. Original publication date and model author identity remain unknown. Authoring is not a source refresh.",
+  "uncertainties": [
+    "No tested model satisfied every condition; two completed five-prompt sets, one memory-limited attempt and one gated exclusion are not a four-model completed bake-off.",
+    "MusicGen NC and AudioLDM NC-SA weights do not clear monetised model use; no automatic output CC inheritance asserted. Code licence is separate.",
+    "Riffusion commercial permission remains use-restricted; research-intended card wording, no non-infringement warranty or Content ID clearance. No completed long clip within guard.",
+    "Stable Audio Open Small gated terms unavailable anonymously; public Community agreement is not exact checkpoint clearance. Commercial registration and aggregate revenue conditions apply; up to 11s is short of native long-clip request.",
+    "RSS and guard are not physical or whole-system memory. MPS physical footprint overshot; sampled stops can overshoot/miss peaks. Earlier completed clips have no retrospective physical-footprint measurements.",
+    "Riffusion direct Diffusers, widened spectrogram and marked torchaudio inverse-mel compatibility change mean not an untouched-default comparison. CPU float16 exploration is not a completed benchmark.",
+    "CLAP first-10s automated cosine is not quality, full-clip structure or narration-fit scoring. No listening impressions or panel invented.",
+    "Recorded original file metrics passed independent recomputation; historical wall times and memory cannot be remeasured from WAVs. No new generation, benchmark, browser test or external refresh performed.",
+    "English instrumental prompts only; no Chinese prompt, lyrics or Chinese-language output testing.",
+    "Saved page/audio/CSV/scripts are local draft-package attachments, not public hosting promises."
+  ],
+  "editingContract": "Only assigned new en/zh Markdown, shared data JSON and batch25 notes. No existing file or source edits, shared inventory/README/manifest changes, builds, external research, contact or publication. No ratings or Review schema.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Creators including Chinese-speaking readers evaluating local AI instrumental music, commercial model licensing, anonymous access and Mac memory limits.",
+  "localeReason": "English and Chinese: the local technical workflow and licence-versus-memory decision help Chinese-speaking creators too. Translation does not imply Chinese prompts, lyrics or Chinese-language output were tested.",
+  "domain": "ai-tools",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}
