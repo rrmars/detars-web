@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "slug": "annecy-nurse-geneva-cross-border-commute-decision",
+  "translationKey": "annecy-nurse-geneva-cross-border-commute-decision",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "fr": "Produit par une tâche Cowork générale sur DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "audience": {
+    "en": "A 32-year-old French registered nurse (IDE) in Annecy, single, earning about €2,450 net a month, deciding whether to take a Geneva hospital nursing job from mid-2027 and commute across the border.",
+    "fr": "Une infirmière française (IDE) de 32 ans à Annecy, célibataire, qui gagne environ 2 450 € nets par mois et se demande si elle doit accepter un poste d'infirmière dans un hôpital genevois à partir de la mi-2027 en faisant la navette à travers la frontière."
+  },
+  "localeReason": "English and French both serve this decision. The person is a French nurse living in Annecy who would deal with Swiss and French authorities, the Swiss Red Cross, Geneva payroll, LAMal and French tax forms; French lets her read the conditions, the stress test and the open issues in her own language, and it changes no rule, rate or figure.",
+  "sources": [
+    {
+      "title": "Geneva OCPM, G permit for EU/EFTA cross-border employees: conditions, filing and delays",
+      "url": "https://www.ge.ch/demander-permis-travail-frontalier/activite-salariee-frontalier-ue/aele",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "SEM, G permit EU/EFTA: validity",
+      "url": "https://www.sem.admin.ch/sem/fr/home/themen/aufenthalt/eu_efta/ausweis_g_eu_efta.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva OCPM, cross-border permit FAQ: reporting duties and hours cap",
+      "url": "https://www.ge.ch/document/questions-frequentes-relatives-aux-permis-frontaliers-ue/aele",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Swiss Red Cross, recognition of foreign diplomas: PreCheck, fees and timing",
+      "url": "https://www.redcross.ch/fr/notre-offre/professions-de-la-sante-reconnaissance-et-enregistrement/reconnaissance-de-diplomes-etrangers",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Swiss Red Cross, employing health professionals with a foreign diploma",
+      "url": "https://www.redcross.ch/fr/notre-offre/professions-de-la-sante-reconnaissance-et-enregistrement/employer-des-professionnels-de-la-sante-avec-diplome-etranger",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva, authorisation to practise a health profession: who is concerned",
+      "url": "https://www.ge.ch/autorisation-pratiquer-profession-sante/qui-est-concerne-autorisation-pratiquer",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva, applying for a new authorisation to practise",
+      "url": "https://www.ge.ch/autorisation-pratiquer-profession-sante/demander-nouvelle-autorisation-pratiquer",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva State pay scale from 1 January 2026 (regulation B 5 15.20)",
+      "url": "https://silgeneve.ch/legis/data/rsg_b5_15p20.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "HUG, working at HUG: pay rules",
+      "url": "https://www.hug.ch/emploi/travailler-aux-hug",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "HUG operating-theatre nurse posting, 6 November 2026",
+      "url": "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000160134225",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "upreer.ch, nurse salaries in Geneva (unconfirmed)",
+      "url": "https://upreer.ch/fr/salaires/infirmier/geneve/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Federal social insurance office, contributions overview",
+      "url": "https://www.bsv.admin.ch/fr/cotisations-apercu",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva, subsequent ordinary taxation (source tax)",
+      "url": "https://www.ge.ch/demande-rectification-taxation-ordinaire-ulterieure",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva, determining quasi-resident status",
+      "url": "https://www.ge.ch/demande-rectification-taxation-ordinaire-ulterieure/determiner-statut-quasi-resident",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva, when to request subsequent ordinary taxation",
+      "url": "https://www.ge.ch/demande-rectification-taxation-ordinaire-ulterieure/quand-demander-annoncer-taxation-ordinaire-ulterieure",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "impots.gouv.fr, salaried workers in Switzerland",
+      "url": "https://www.impots.gouv.fr/international-particulier/salaries-en-suisse",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Haute-Savoie prefecture, cross-border tax case 2",
+      "url": "https://www.haute-savoie.gouv.fr/Demarches/Frontaliers-franco-suisses/Impots/Cas-2-autres-salaries-imposes-par-la-Suisse",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CLEISS, cross-border workers France–Switzerland: right of option",
+      "url": "https://www.cleiss.fr/faq/droit_d_option_des_frontaliers_france-suisse.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva, health-insurance FAQ for cross-border workers living in France",
+      "url": "https://www.ge.ch/document/faq-assurance-maladie-frontaliers-residant-france",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "URSSAF, cross-border worker in Switzerland: declaring income",
+      "url": "https://www.urssaf.fr/accueil/particulier/travailleur-frontalier-suisse/travail-suisse-declarer-revenus.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Haute-Savoie prefecture, amount of your health contribution",
+      "url": "https://www.haute-savoie.gouv.fr/Demarches/Frontaliers-franco-suisses/Cotisations-maladie/Montant-de-votre-cotisation",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Geneva, 2026 LAMal premiums for people living in France",
+      "url": "https://www.ge.ch/document/primes-assurance-maladie-2026-primes-lamal-personnes-residant-france",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Federal Council release on 2027 health-insurance premiums",
+      "url": "https://www.admin.ch/de/newnsb/BfuGvedj0OOX",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CLEISS, Swiss employee scheme",
+      "url": "https://www.cleiss.fr/docs/regimes/regime_suisse_salaries.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ECB euro foreign exchange reference rates",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ADELAC, A41 toll tariffs 2026",
+      "url": "https://www.a41-adelac.com/sites/adelac/files/2026-02/TARIFS_2026.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Annecy city, LIANE A41 article, 20 May 2026",
+      "url": "https://www.annecy-ville.fr/2026/05/liane-a41-toujours-parmi-autoroutes-plus-cheres-france-2026/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Fondation des Parkings, HUG parking pass",
+      "url": "https://www.geneve-parking.ch/fr/abonnements-et-macarons/abonnement-hug/abonnement-hug",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "HUG MobilHUG, cars",
+      "url": "https://www.hug.ch/mobilhug/voitures",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "HUG MobilHUG, public transport",
+      "url": "https://www.hug.ch/mobilhug/transports-publics",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Léman Pass, fares",
+      "url": "https://www.lemanpass.com/tarifs/",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_gain_step1": {
+      "label": "Estimated monthly gain of commuting over staying, class 15 step 1 (illustrative)",
+      "value": 2410,
+      "unit": "EUR",
+      "display": "€2,410"
+    },
+    "monthly_gain_step5": {
+      "label": "Estimated monthly gain, class 15 step 5 (illustrative)",
+      "value": 2907,
+      "unit": "EUR",
+      "display": "€2,907"
+    },
+    "stress_test_gain": {
+      "label": "Monthly gain at step 1 if tax plus pension were 10 points higher",
+      "value": 1608,
+      "unit": "EUR",
+      "display": "€1,608"
+    },
+    "lamal_median_premium": {
+      "label": "2026 LAMal median monthly premium for France residents, no accident cover, CHF 300 deductible",
+      "value": 489.3,
+      "unit": "CHF",
+      "display": "CHF 489.30"
+    },
+    "car_commute_cost": {
+      "label": "Assumed monthly car commute cost (toll, fuel, parking)",
+      "value": 585,
+      "unit": "EUR",
+      "display": "€585"
+    },
+    "src_recognition_fee": {
+      "label": "Swiss Red Cross recognition fee plus registry fee (if Annex V applies)",
+      "value": 680,
+      "unit": "CHF",
+      "display": "CHF 680"
+    }
+  },
+  "planningAssumptions": {
+    "profile": "French registered nurse (IDE), 32, single, Annecy, about €2,450 net a month today; job start from mid-2027 (1 July 2027 in the French-option example).",
+    "pay": "Geneva State scale from 1 January 2026, class 15 assumed (unconfirmed, from upreer.ch), step 1 and step 5 (CHF 95,260); 13th month not assumed; 2027 scale not published.",
+    "deductions": "AVS/AI/APG 5.3% and AC 1.1% (federal page via search snippet); pension plus accident 9% and source tax 10% are placeholders.",
+    "health": "LAMal 2026 median CHF 489.30 for France residents, age 26+, CHF 300 deductible, no accident cover; French option example uses the 2026 Social Security ceiling (48,060) and an assumed 2025 income of €29,400.",
+    "fx": "ECB reference 2026-11-06: 1 EUR = 0.9143 CHF, 1 CHF = 1.0937 EUR.",
+    "commute": "45 km one way, 6 L/100 km, €1.80 a litre, 17 commute days a month, ADELAC toll €9.40 one way, parking CHF 91.90 a month as a placeholder; no Léman Pass price."
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept; page dates (for example the OCPM page updated 19 October 2026) and the ECB rate date are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Pension plus accident (9%) and Geneva source tax (10%) are unsourced placeholders and the largest uncertainty in the net figures; the stress test shows a 10-point error still leaves about €1,608 a month at step 1.",
+    "Class 15 for a generic staff IDE comes only from an unconfirmed site (upreer.ch); the 13th month is stated only by unconfirmed sites; the 2027 pay scale, the 2027 France-resident LAMal table and the 2027 Social Security ceiling are not published.",
+    "AVS/AI/APG 5.3% and AC 1.1% rest on a search snippet of the federal page; the table was not re-read.",
+    "No Léman Pass price for Annecy was found, so the train comparison is a break-even (below about €585 a month), not a price; the 1 h 30 train time is an unconfirmed snippet; TPG pass, Swiss vignette and French mileage allowance were not found.",
+    "Whether the French DE infirmier is in Annex V of Directive 2005/36/EC, the G permit fee, the issuer of the French good-standing certificate and the SRC language requirement were not verified; MEBEKO not being the nurse body rests on Geneva's page alone.",
+    "French-option example uses the 2026 ceiling and an assumed 2025 income of €29,400; the assumption of no extra French tax under Cas 2A needs an adviser."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No URL was fetched again; the run used public pages without sign-in, and some pages that refused plain fetch were read through DeTars' own managed browser profile, which holds no user sign-ins.",
+    "editingContract": "Only data/annecy-nurse-geneva-cross-border-commute-decision.json, en/ and fr/ Markdown for this slug and checks/batch40-annecy-nurse-geneva-cross-border-commute-decision-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

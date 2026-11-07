@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "sourceDataSha256": "9da397f274dc7ccdbd4883bde60c0e299b4bf9825412fb76b38d80c4511cb6eb",
+  "sourceListLink": "../w8-florianopolis-freelancer-usd-invoicing/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "2abf30533e705c756df162d735ddec5e87451762071d9858e6fe8e5778238c71",
+      "faqPairs": 0,
+      "links": []
+    },
+    "pt-BR": {
+      "sourceMarkdownSha256": "4e062e5c6c8c64331d81f5f29b0b5d775854bbe3f28eed09cebc124b5fd80583",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

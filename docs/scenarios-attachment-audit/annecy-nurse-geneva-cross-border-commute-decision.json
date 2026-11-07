@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "sourceDataSha256": "b5bf499607a90839ad11685496565083462f09415d6fdfc760cd55222c43aa79",
+  "sourceListLink": "../w8-annecy-nurse-geneva-cross-border/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "a720aae64b311548ce61ebb6854b9dfec73ecb58c009d1b8e5481fddf8526536",
+      "faqPairs": 0,
+      "links": []
+    },
+    "fr": {
+      "sourceMarkdownSha256": "fc4628b2e4d299c675e9f911de1e6282adb1a9a173da7adbb80416c83d27afa5",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "sourceDataSha256": "2b513ace53d0fdefdb43839b54b508ecbde18e9df99a90dfef94a29b55ced9f4",
+  "sourceListLink": "../w8-lyon-montreal-family-move/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "35f1cf0f59d6a7aad536b6ec20a24a0e5b38624ecb36208caadddcd9dfdf32fd",
+      "faqPairs": 0,
+      "links": []
+    },
+    "fr": {
+      "sourceMarkdownSha256": "3cf9588e0a1b03c1413fb8134ff0d4ff90b0222dd9131383d34074811c6f5a56",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 2,
+  "slug": "florianopolis-freelancer-usd-invoicing-simples-nacional",
+  "translationKey": "florianopolis-freelancer-usd-invoicing-simples-nacional",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "pt-BR": "Produzido por uma tarefa geral do Cowork no DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "audience": {
+    "en": "A 31-year-old freelance UX designer in Florianópolis, Brazil, with two US clients paying about USD 4,500 a month now and about USD 6,500 a month during 2027, choosing a company structure, tax annex and way to receive USD from January 2027.",
+    "pt-BR": "Uma designer de UX freelancer de 31 anos em Florianópolis, no Brasil, com dois clientes dos EUA que pagam cerca de USD 4.500 por mês agora e cerca de USD 6.500 por mês durante 2027, escolhendo estrutura de empresa, anexo tributário e forma de receber USD a partir de janeiro de 2027."
+  },
+  "localeReason": "English and Brazilian Portuguese both serve this decision. The person lives in Florianópolis and has to deal with a Brazilian accountant, the Receita Federal, Simples Nacional and Brazilian banks, whose terms (MEI, ME, fator R, Anexo III/V, IOF, NFS-e, ISS) stay in Portuguese in the guide; Portuguese lets them read the caveats and the questions for the accountant in their own language. It changes no rule, rate or figure.",
+  "sources": [
+    {
+      "title": "Simples Nacional portal, MEI questions and answers (revenue cap, no extended export limit)",
+      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/PerguntaoMEI.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Simples Nacional portal, Annex XI: occupations permitted to MEI",
+      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/Anexo_XI.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Simples Nacional portal, questions and answers (fator R, exports, immunities)",
+      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/PerguntaoSN.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Simples Nacional portal, roteiro for opting in for 2027",
+      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/Roteiro%20da%20op%C3%A7%C3%A3o%20pelo%20Simles%20Nacional%20para%20o%20ano%20de%202027.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Simples Nacional portal, news on CGSN Resolutions 190/191-2026 (IBS/CBS in Simples from 2027)",
+      "url": "https://www8.receita.fazenda.gov.br/simplesnacional/Noticias/NoticiaCompleta.aspx?id=e595d010-1e04-4c3b-95d9-185fc58594b5",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Simples Nacional portal, MEI monthly payment (DAS) components",
+      "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=t&area=2",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "INSS, monthly contribution table (minimum wage and ceiling)",
+      "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal, income tax tables 2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Lei 15270/2025, copy on the Câmara dos Deputados site",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15270-26-novembro-2025-798354-publicacaooriginal-177117-pl.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PGFN Parecer 83/2019 on IOF on foreign exchange",
+      "url": "https://www.gov.br/pgfn/pt-br/arquivos-avulsos/parecer_83_2019_iof_cambio.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal, IOF guidance page",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/tributos/IOF",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Third-party Simples Nacional Annex III table (unconfirmed)",
+      "url": "https://www.calculadoracontabil.com.br/tabelas/simples-nacional/anexo-iii",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Banco Central do Brasil, PTAX dollar quote for 6 November 2026",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-06-2026'&$format=json",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Wise Brazil, business pricing for receiving money",
+      "url": "https://wise.com/br/pricing/business/receive",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Wise Brazil, personal pricing for receiving money",
+      "url": "https://wise.com/br/pricing/receive",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Wise public comparison endpoint (send quote used as a proxy)",
+      "url": "https://wise.com/gateway/v4/comparisons/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Wise help, taxes on transfers (IOF note)",
+      "url": "https://wise.com/help/articles/2565007/do-i-need-to-pay-any-tax-on-transfers",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Payoneer pricing",
+      "url": "https://www.payoneer.com/pricing/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Payoneer, how withdrawal fees are calculated",
+      "url": "https://www.payoneer.com/resources/how-to-use-payoneer/how-payoneer-calculates-withdrawal-fees/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PayPal Brazil, business fees",
+      "url": "https://www.paypal.com/br/business/paypal-business-fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PayPal Brazil, fees",
+      "url": "https://www.paypal.com/br/webapps/mpp/paypal-fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Remessa Online, receiving money for services provided abroad",
+      "url": "https://www.remessaonline.com.br/receber-dinheiro-servicos-prestados-exterior",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Contabilizei, plans and prices",
+      "url": "https://www.contabilizei.com.br/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Agilize, plans and prices",
+      "url": "https://agilize.com.br/quanto-custa-agilize/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ContaJá, plans and prices",
+      "url": "https://contaja.com.br/quanto-custa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Certisign, e-CNPJ A1 certificate",
+      "url": "https://certisign.com.br/certificados/e-cnpj/a1",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "mei_cap": {
+      "label": "MEI annual revenue cap",
+      "value": 81000,
+      "unit": "BRL",
+      "display": "R$ 81,000"
+    },
+    "fator_r": {
+      "label": "Fator R threshold: Annex III at or above, Annex V below",
+      "value": 0.28,
+      "unit": "ratio",
+      "display": "0.28"
+    },
+    "wise_received_4500": {
+      "label": "BRL received on USD 4,500 via Wise Business ACH with proxy fee (unconfirmed)",
+      "value": 24503.38,
+      "unit": "BRL",
+      "display": "R$ 24,503.38"
+    },
+    "take_home_b_4500": {
+      "label": "Monthly take-home, ME Annex III, export-adjusted, USD 4,500 (estimate)",
+      "value": 21735.82,
+      "unit": "BRL",
+      "display": "R$ 21,735.82"
+    },
+    "take_home_b_6500": {
+      "label": "Monthly take-home, ME Annex III, export-adjusted, USD 6,500 (estimate)",
+      "value": 30922.2,
+      "unit": "BRL",
+      "display": "R$ 30,922.20"
+    },
+    "take_home_pf_4500": {
+      "label": "Monthly take-home as an individual with carnê-leão, USD 4,500 (estimate)",
+      "value": 17444.73,
+      "unit": "BRL",
+      "display": "R$ 17,444.73"
+    }
+  },
+  "planningAssumptions": {
+    "profile": "31-year-old freelance UX designer in Florianópolis (SC) with two US clients, about USD 4,500 a month now and about USD 6,500 a month during 2027.",
+    "fx": "BCB PTAX on 6 November 2026: buy 5.5007, sell 5.5013, mid 5.5010 used for revenue and receipt.",
+    "receiptRoute": "Wise ACH with a proxy conversion fee of 45.65 USD on 4,500 and 62.91 USD on 6,500 (unconfirmed).",
+    "taxInputs": "2026 Simples Annex III/V tables (third-party, unconfirmed), minimum wage R$ 1,621.00, INSS ceiling R$ 8,475.55, 2026 IRPF table with Lei 15270 reduction, used as proxies for 2027.",
+    "company": "RBT12 = 12 × monthly revenue; pro-labore 28% of revenue (case B, Annex III) or one minimum wage R$ 1,621 (case C, Annex V); accountant R$ 259; no other business costs; profit distributions assumed income-tax-exempt; export-adjusted DAS keeps IRPJ + CSLL + CPP shares, with a conservative full-DAS column beside it."
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept; the Wise comparison quote was collected on 2026-11-07 and the PTAX quote is for 2026-11-06. Tax-table and price-page dates are separate source facts. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Annex III and V tables and the slice percentages used to remove ISS, PIS and Cofins for exports come from a third-party site (unconfirmed); the planalto.gov.br law text was blocked. INSS 20% for autônomo, the ME limit R$ 360,000 and the 32% presumed-profit rule were stated from general knowledge and not fetched.",
+    "Brazilian bank tariffs and spreads for receiving international transfers were not found; the 1%, 2% and 3% bank rows are illustrative assumptions, not facts.",
+    "Wise Business publishes no flat USD to BRL percentage; the roughly 1% is a proxy from Wise's public comparison tool (45.65 / 62.91 USD, collected 2026-11-07). Whether a Brazilian CNPJ can get USD account details is not confirmed.",
+    "Payoneer's Brazil-specific withdrawal fee is visible only after sign-in, which was not done; the global range of 1.2% to 4% is used. PayPal stacking is the run's own reading (unconfirmed).",
+    "Florianópolis ISS rate or fixed ISS and the NFS-e rules for issuing an export were not found; JUCESC fees, the Florianópolis alvará fee and the CRC-SC fee table were not found.",
+    "IOF zero rate rests on PGFN Parecer 83/2019; a search snippet says Decreto 6306 art. 15-B was re-worded in 2025 and the current text was not verified.",
+    "The model uses 2026 tables; the 2027 Simples changes (IBS/CBS, new fator R window) may change the DAS and the export treatment. The export-adjusted DAS method is the run's own reading, so a conservative full-DAS column is shown.",
+    "Profit distributions in case B exceed 32% of revenue; take-home assumes they are income-tax-exempt, which needs an accountant's view. The MEI occupation check was a keyword search of Annex XI, not a page-by-page read.",
+    "The 2027 Simples opt-in rule for a new company, the IBS/CBS news item, minimum wage and INSS ceiling, the IRPF table, the Lei 15270 rules and the accountant, Payoneer, PayPal and Remessa fee lines were reported by research workers and not re-opened by the independent check. Accountant price pages carry no \"as of\" date."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Brazilian Portuguese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain HTTP plus a managed Chrome profile that can keep sign-ins from other tasks (used for the Contabilizei home page and an automatic fallback on a Payoneer 404 page), so a clean session cannot be guaranteed for those two. gov.br Portal do Empreendedor pages returned a captcha and planalto.gov.br returned access denied; neither was bypassed. Bank tariff pages returned 404/403 or needed JavaScript.",
+    "independentCheckDisposition": "A second implementation recomputed 61 money figures with exact fractions and found 0 mismatches after two fixes in the run: four 1-centavo float-rounding differences were corrected with half-up rounding, and a reversed take-home range was put in ascending order. The Wise wire row uses an absolute proxy fee plus 6.11 USD (a method choice, about R$ 0.3 apart from the research worker's figure). The check left open: items reported by workers and not re-opened, third-party annex tables and INSS 20%, 2027 changes, the 2019 IOF opinion, missing bank/Wise/Payoneer/Florianópolis data, the dividend-exemption assumption in case B, and blocked gov.br/planalto pages.",
+    "layoutEvidenceLimit": "The original page layout was checked at 1280 and 375 px; this Markdown version was not rendered or built here.",
+    "editingContract": "Only data/florianopolis-freelancer-usd-invoicing-simples-nacional.json, en/ and pt-BR/ Markdown for this slug and checks/batch40-florianopolis-freelancer-usd-invoicing-simples-nacional-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

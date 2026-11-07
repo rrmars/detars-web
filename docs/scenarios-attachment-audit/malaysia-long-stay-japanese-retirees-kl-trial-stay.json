@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "sourceDataSha256": "f5653680387feceb0bd23d5097c0e814682ea5b08355cf1e69dc3cce81e56051",
+  "sourceListLink": "../w8-malaysia-long-stay-japanese-retirees/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "bc4067a9ed577f25b9995f81a08831aa1d33b9cc1c3e45ef443724b8ffb111d1",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ja": {
+      "sourceMarkdownSha256": "5db1c5d194a4575c8c0dbf886f15777d1624d15fca8aae23a5a499fa4594cd48",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

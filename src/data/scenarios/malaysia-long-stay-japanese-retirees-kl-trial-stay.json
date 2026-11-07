@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 2,
+  "slug": "malaysia-long-stay-japanese-retirees-kl-trial-stay",
+  "translationKey": "malaysia-long-stay-japanese-retirees-kl-trial-stay",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ja": "この記事は DeTars.xyz の汎用 Cowork タスクで作成されました"
+  },
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "audience": {
+    "en": "A retired Japanese couple, Hiroshi (67) and Keiko (64), living in Yokohama with about ¥42 million in savings and a ¥290,000 monthly pension, weighing a 2–3 year stay in Malaysia from autumn 2027: where to base themselves, which visa, and the monthly cost.",
+    "ja": "横浜にお住まいで、貯蓄が約¥42百万、年金が月¥290,000の、ヒロシさん（67歳）とケイコさん（64歳）の退職後のご夫妻。2027年の秋から2〜3年のマレーシア滞在を検討しており、拠点にする場所、ビザ、毎月の費用を比べています。"
+  },
+  "localeReason": "The couple are Japanese retirees in Yokohama. Japanese lets them read the visa terms, the Japan-side questions for the ward office, pension service and tax adviser, and the open issues in the language of the offices they will deal with; it changes no rule, fee or eligibility.",
+  "sources": [
+    {
+      "title": "PropertyGuru listing, Inspirasi (Mont Kiara)",
+      "url": "https://www.propertyguru.com.my/property-listing/inspirasi-for-rent-by-roman-lee-501060459",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "iProperty listing, Mont Kiara Palma",
+      "url": "https://www.iproperty.com.my/property/mont-kiara/mont-kiara-palma/rent-502054202/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PropertyGuru listing, Mont Kiara Bayu",
+      "url": "https://www.propertyguru.com.my/property-listing/mont-kiara-bayu-for-rent-by-sonia-500270775",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Trovit, Bangsar condos for rent (aggregator)",
+      "url": "https://homes.trovit.my/for-rent-condo-bangsar",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PropertyGuru listing, Leader Garden (Tanjung Bungah)",
+      "url": "https://www.propertyguru.com.my/property-listing/leader-garden-for-rent-by-irene-goh-501437624",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PropertyGuru listing, Marina Tower (Tanjung Bungah)",
+      "url": "https://www.propertyguru.com.my/property-listing/marina-tower-ratu-mutiara-for-rent-by-kk-kwok-60233135",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PropertyGuru listing, Pearl View (Tanjung Bungah)",
+      "url": "https://www.propertyguru.com.my/property-listing/pearl-view-for-rent-by-chris-ooi-501339955",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PropertyGuru listing, Gurney Paragon (Penang)",
+      "url": "https://www.propertyguru.com.my/property-listing/gurney-paragon-for-rent-by-jae-lee-500584891",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PropertyGenie, top areas in Kuala Lumpur for rental yield 2026",
+      "url": "https://www.propertygenie.com.my/insider-guide/top-10-areas-in-kuala-lumpur-for-rental-yield-2026-NjjUkLPJzYjTXYA3N825e7",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MM2H official site (federal programme: tiers, Silver terms, guidelines)",
+      "url": "https://www.mm2h.gov.my",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOTAC, Insights on the Categories (PDF, not read)",
+      "url": "https://motac.gov.my/wp-content/uploads/2025/12/Insights-on-The-Categories.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Sarawak MM2H FAQ (undated)",
+      "url": "https://smm2h.sarawaktourism.com/faqs",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Sarawak MM2H programme overview and applicant process",
+      "url": "https://smm2h.sarawaktourism.com/programme-overview-and-applicant-process/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "InvestSarawak, new requirements for Sarawak MM2H in 2025 (second-hand, conflicts with the FAQ)",
+      "url": "https://investsarawak.gov.my/new-requirements-for-sarawak-malaysia-my-second-home-s-mm2h-in-2025/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Sarawak MTCP requirements page (did not load)",
+      "url": "https://mtcp.sarawak.gov.my/web/subpage/webpage_view/262",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Sabah MM2H terms and conditions",
+      "url": "https://sabahmm2h.sabahtourism.com/copy-of-terms-conditions-4",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Sabah MM2H categories of application (flattened Chinese-language page)",
+      "url": "https://sabahmm2h.sabahtourism.com/copy-of-categories-of-application",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Embassy of Japan in Malaysia, entry guide (undated)",
+      "url": "https://www.my.emb-japan.go.jp/Japanese/guide2014/guide2014-3.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Malaysian Immigration, visa requirements by country",
+      "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Malaysian Immigration, long-term social visit pass",
+      "url": "https://www.imi.gov.my/index.php/en/main-services/pass/visitor-pass/social-visit-pass/long-term-social-visit-pass/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MDEC, DE Rantau digital nomad pass",
+      "url": "https://www.mdec.my/md-programmes/digital-nomad-pass",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Club of Kuala Lumpur, about the club",
+      "url": "https://www.jckl.org.my/en/about_jckl",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Club of Kuala Lumpur, hospital information",
+      "url": "https://www.jckl.org.my/hospital_info",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kuala Lumpur Japanese clinic guide (September 2026, unconfirmed)",
+      "url": "https://www.ronshoal.com/malaysia/ja/news/kuala-lumpur-japanese-clinic-guide-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "The Smart Local, Don Don Donki Kuala Lumpur (2021 report)",
+      "url": "https://thesmartlocal.my/don-don-donki-kl/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Consulate-General of Japan in Penang",
+      "url": "https://www.penang.my.emb-japan.go.jp/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Consulate-General of Japan in Penang, links to Japanese association and school",
+      "url": "https://www.penang.my.emb-japan.go.jp/link_jap_society_en.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Gleneagles Penang, health screening centre",
+      "url": "https://gleneagles.com.my/penang/health-screening-centre",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nihongo Doctor, Penang directory",
+      "url": "https://nihongo-doctor.com/asia/malaysia/penang",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Gleneagles Penang Gold screening (Indonesian mirror page)",
+      "url": "https://myg03mws009.azurewebsites.net/id/penang/health-screening-centre/gold",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "my1health, Gleneagles Penang guide",
+      "url": "https://my1health.com/guides/gleneagles-penang-hospital-for-indonesian-patients",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Yokohama City, national health insurance exit procedure",
+      "url": "https://www.city.yokohama.lg.jp/kurashi/koseki-zei-hoken/kokuho/todokede/process.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Yokohama City FAQ, national health insurance when moving abroad",
+      "url": "https://www.city.yokohama.lg.jp/faq/kukyoku/kenko/hoken-nenkin/20211014105334007.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ayase City, national health insurance when moving abroad",
+      "url": "https://www.city.ayase.kanagawa.jp/soshiki/hokennenkinka/hokennenkintanto_hoken/2/1/4499.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Health Insurance Association, overseas medical expenses",
+      "url": "https://www.kyoukaikenpo.or.jp/benefit/overseas_medical_expenses/index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Pension Service, moving abroad",
+      "url": "https://www.nenkin.go.jp/service/jukyu/tetsuduki/kyotsu/jukyu/kaigaitenshutsu.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Pension Service, annual status report for overseas recipients",
+      "url": "https://www.nenkin.go.jp/service/jukyu/tetsuduki/kyotsu/jukyu/kaigaigenkyo.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Pension Service, voluntary national pension for Japanese abroad",
+      "url": "https://www.nenkin.go.jp/service/kokunen/kanyu/20140627-02.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Finance, Japan–Malaysia tax convention (scanned PDF)",
+      "url": "https://www.mof.go.jp/tax_policy/summary/international/tax_convention/Malaysia1999_jp_en.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Foreign Affairs of Japan, residence notification FAQ",
+      "url": "https://www.mofa.go.jp/mofaj/comment/faq/toko/todoke.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Foreign Affairs of Japan, online residence notification",
+      "url": "https://www.ezairyu.mofa.go.jp/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Cigna Global, seniors health insurance",
+      "url": "https://www.cignaglobal.com/seniors-health-insurance",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "European Central Bank, reference exchange rates (JPY, MYR, USD per EUR)",
+      "url": "https://data-api.ecb.europa.eu/service/data/EXR/D.JPY+MYR+USD.EUR.SP00.A?startPeriod=2026-11-04&endPeriod=2026-11-08&format=csvdata",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "silver_fixed_deposit": {
+      "label": "MM2H Silver fixed deposit (official page; may be superseded by unread MOTAC documents)",
+      "value": 150000,
+      "unit": "USD",
+      "display": "USD 150,000"
+    },
+    "silver_minimum_property": {
+      "label": "MM2H Silver compulsory minimum home purchase, 10-year resale lock",
+      "value": 600000,
+      "unit": "MYR",
+      "display": "RM 600,000"
+    },
+    "silver_net_cash_out": {
+      "label": "Net cash tied up under Silver at the stated rates, with the 50% deposit withdrawal, before fees and purchase costs",
+      "value": 35274750,
+      "unit": "JPY",
+      "display": "¥35,274,750"
+    },
+    "monthly_shortfall_kl": {
+      "label": "Monthly shortfall against a ¥290,000 pension, Kuala Lumpur rental case (assumption-based budget)",
+      "value": 219600,
+      "unit": "JPY",
+      "display": "¥219,600"
+    },
+    "monthly_shortfall_penang": {
+      "label": "Monthly shortfall against a ¥290,000 pension, Penang rental case (assumption-based budget)",
+      "value": 173775,
+      "unit": "JPY",
+      "display": "¥173,775"
+    },
+    "left_after_silver_fees": {
+      "label": "Left of ¥42,000,000 after Silver and listed fees (purchase costs excluded)",
+      "value": 6393750,
+      "unit": "JPY",
+      "display": "¥6,393,750"
+    }
+  },
+  "planningAssumptions": {
+    "profile": "Hiroshi (67) and Keiko (64), Yokohama, savings ¥42 million, pension ¥290,000 a month, stay of 2–3 years from autumn 2027; no work.",
+    "exchangeRates": "ECB reference rates for 6 November 2026: 1 EUR = 176.77 JPY = 4.5319 MYR = 1.1165 USD; cross rates used 1 MYR = ¥39.00 (exact 39.0057) and 1 USD = ¥158.33. Reference rates, not retail.",
+    "budget": "Rent is the midpoint of undated asking-rent samples (Kuala Lumpur RM 3,400; Penang RM 2,225). Utilities RM 500, groceries RM 2,000, dining RM 1,200, transport RM 600, private insurance placeholder RM 2,500, out-of-pocket medical RM 400, leisure RM 800, Yokohama flat upkeep ¥40,000 a month, Japan visits ¥300,000 a year: all unconfirmed planning placeholders.",
+    "silverFees": "RM 8,500 assumes the RM 5,000 plus RM 2,500 processing fee applies; the source states no trigger."
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. Page dates (for example the Sabah page updated 8 September 2026, a listing dated 31 August 2026, the Yokohama pages updated 2026-10-27 and 2026-02-25) are source dates, not access dates; many pages are undated. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The MOTAC guide and four announcement PDFs, the Sarawak May 2025 guidelines PDF, the Sabah PDFs and the DE Rantau eligibility FAQ were not read; federal figures could be superseded.",
+    "Sarawak deposit conflict: undated FAQ says RM 300,000 per couple or RM 150,000 single; a second-hand 2025 news item says RM 500,000 from 1 January 2025. The Sabah tier table could not be parsed.",
+    "The 90-day visa-free rule comes only from an undated embassy page; no dated Immigration source was found.",
+    "All rents are asking prices from undated search-result summaries (listing sites could not be opened); the Inspirasi unit match is unverified; the Mont Kiara 'typical rent' of RM 6,500–8,000 conflicts and is not used.",
+    "Yokohama's own 1-year rule, the effect on 住民票, its 国保 海外療養費 page, Malaysia's pension-tax treatment, and the voluntary pension age limit are unconfirmed.",
+    "The case for Kuala Lumpur over Penang rests on one community hospital list (about 40% read) and the absence of Penang evidence. No Penang Japanese clinic or hospital price page, insurer quote or non-Cigna insurer research.",
+    "Budget lines other than rent, the insurance placeholder, flat upkeep and flights are assumptions without a source; Malaysian purchase costs, Japanese tax and social-insurance charges are not included."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network, no new research. The run itself used web_search/web_fetch, with an automatic clean headless-browser re-read for pages that returned HTTP 403; listing sites could not be opened.",
+    "editingContract": "Only data/malaysia-long-stay-japanese-retirees-kl-trial-stay.json, en/ and ja/ Markdown for this slug and checks/batch40-malaysia-long-stay-japanese-retirees-kl-trial-stay-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

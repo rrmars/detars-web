@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 2,
+  "slug": "lyon-family-move-to-montreal-lmia-caq-route",
+  "translationKey": "lyon-family-move-to-montreal-lmia-caq-route",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "fr": "Produit par une tâche Cowork générale sur DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "audience": {
+    "en": "A French family of four in Lyon (parents 40 and 38, children 7 and 11) weighing a Montréal software job offer at CAD 115,000 a year from September 2027: work-permit route, schooling, health cover, rent and a first-year budget.",
+    "fr": "Une famille française de quatre personnes à Lyon (parents de 40 et 38 ans, enfants de 7 et 11 ans) qui étudie une offre d’emploi en logiciel à Montréal à CAD 115 000 par an dès septembre 2027 : voie du permis de travail, école, assurance maladie, loyer et budget de la première année."
+  },
+  "localeReason": "French serves this decision directly: the family lives in Lyon, the employer files in French, and Quebec schooling, RAMQ cover and the pharmacist recognition file are all run in French, so reading the conditions and open issues in French helps the parents check forms and officials' wording. It changes no rule, fee or eligibility.",
+  "sources": [
+    {
+      "title": "Quebec, Temporary Foreign Worker Program (French requirement for CAQ renewals)",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, Temporary Foreign Worker Program: overview",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program/program-overview",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, obtaining an offer of employment (advice before authorisations)",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program/obtaining-offer-employment",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, CAQ application and fee",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program/authorizations/application-temporary-selection",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, applying for the federal work permit",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program/authorizations/applying-work-permit",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, situations where a CAQ is not required",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program/authorizations/application-temporary-selection/situations-quebec-acceptance-certificate-not-required",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, spouse and children of temporary workers",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program/spouse-and-children",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, staying permanently (bridging permit with a CSQ)",
+      "url": "https://www.quebec.ca/en/immigration/work-quebec/temporary-workers/temporary-foreign-worker-program/staying-permanently",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ESDC, Quebec LMIA regular process",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/quebec/regular-process.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ESDC, LMIA in Quebec (facilitated occupation list)",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/quebec.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ESDC, median wage and high-wage threshold",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ESDC, high-wage stream requirements and LMIA fee",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/high/requirements.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ESDC, LMIA processing times",
+      "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/labour-market-impact-assessment-processing-times.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, applying for the federal work permit",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5487-applying-work-permit-outside-canada.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IRCC, spouse open work permit eligibility",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children/eligibility.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IRCC, minor children and study permits",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IRCC, fee list",
+      "url": "https://ircc.canada.ca/english/information/fees/fees.asp",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IRCC, International Experience Canada",
+      "url": "https://ircc.canada.ca/iec/index.asp",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IRCC, Francophone Mobility",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/francophone-mobility.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, Programme de l’expérience québécoise (PEQ)",
+      "url": "https://www.quebec.ca/immigration/permanente/travailleurs-qualifies/programme-experience-quebecoise",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, PSTQ invitations 2026",
+      "url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers/skilled-worker-selection-program/invitation/2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, eligibility for instruction in English",
+      "url": "https://www.quebec.ca/en/education/preschool-elementary-and-secondary-schools/guidance-support-students/eligibility-instruction-english/about",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "McGill, eligibility to study in English (non-primary)",
+      "url": "https://www.mcgill.ca/familycare/schooling/eligibility-study-english",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, public school registration",
+      "url": "https://www.quebec.ca/education/prescolaire-primaire-et-secondaire/inscription-scolaire/ecole-publique",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Education, find my service centre",
+      "url": "https://infogeo.education.gouv.qc.ca/public/trouver-mon-css/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CSSDM, registration procedure",
+      "url": "https://www.cssdm.gouv.qc.ca/admission-inscription/procedure-inscription/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, school-day care fees (unconfirmed)",
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/education/services-garde-milieu-scolaire/Service-garde-milieu-scolaire-surveillance-midi-balises-tarification.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "RAMQ, eligibility conditions",
+      "url": "https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/know-eligibility-conditions",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "RAMQ, social security agreements with other countries",
+      "url": "https://www.ramq.gouv.qc.ca/en/citizens/absence-quebec/working-studying-taking-residence-outside-quebec-agreements-other-countries",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, public drug insurance rate adjustment",
+      "url": "https://www.quebec.ca/nouvelles/actualites/details/ajustement-des-tarifs-pour-les-personnes-couvertes-par-le-regime-public-dassurance-medicaments-71515",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CLEISS, Quebec employee scheme",
+      "url": "https://www.cleiss.fr/docs/regimes/regime_quebec-salaries.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CLEISS, secondment to Quebec",
+      "url": "https://www.cleiss.fr/particuliers/partir/travailler/detachement/quebec.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, France–Quebec arrangement for pharmacists",
+      "url": "https://www.quebec.ca/emploi/travailler-hors-quebec/faire-reconnaitre-competences-etranger/entente-quebec-france/pharmacien",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ordre des pharmaciens du Québec, French diplomas",
+      "url": "https://www.opq.org/devenir-pharmacien-au-quebec/admission/diplomes-en-france/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ordre des pharmaciens du Québec, knowledge of French",
+      "url": "https://www.opq.org/devenir-pharmacien-au-quebec/connaissance-du-francais/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ordre des pharmaciens du Québec, permit",
+      "url": "https://www.opq.org/devenir-pharmacien-au-quebec/permis/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ordre des pharmaciens du Québec, registration fees 2025-26 (outdated)",
+      "url": "https://www.opq.org/wp-content/uploads/2025/02/Inscription_tarifs_2025-2026-1.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Job Bank, pharmacist wages, Montréal region",
+      "url": "https://www.jobbank.gc.ca/marketreport/wages-occupation/18196/geo25154",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CMHC, rental market report, fall 2025",
+      "url": "https://eppd1strscr01.blob.core.windows.net/cmhcprdcontainer/sf/project/archive/housing_markets/rentalmarketreportcanadaandselectedmarkets/rental-market-report-2025-fall-en.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "TAL, paying the rent",
+      "url": "https://www.tal.gouv.qc.ca/en/being-a-lessee/paying-the-rent",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "TAL, applicable percentages for rent fixing",
+      "url": "https://www.tal.gouv.qc.ca/en/renewal-of-the-lease-and-fixing-of-rent/applicable-percentages-to-the-criteria-for-the-fixing-of-rent",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "STM, fares (adult single trip and monthly pass)",
+      "url": "https://www.stm.info/en/fares-pricing",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "STM, fares for ages 6–17",
+      "url": "https://www.stm.info/en/fares-pricing/kids-youth-6-17",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank of Canada, EUR/CAD daily rate",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXEURCAD/json?recent=5",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kijiji, Montréal apartment search pages (non-primary, undated)",
+      "url": "https://www.kijiji.ca/v-apartments-condos/ville-de-montreal/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CRA, federal indexation of tax and benefit amounts",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/adjustment-personal-income-tax-benefit-amounts.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Finance Canada, Quebec abatement",
+      "url": "https://www.canada.ca/en/department-finance/programs/federal-transfers/quebec-abatement.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Finance Québec, 2026 tax parameters",
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/parametres/AUTFR_RegimeImpot2026.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "calculateur.online, Quebec and federal tax brackets 2026 (non-primary)",
+      "url": "https://calculateur.online/calculateurs-outils/paliers-imposition-quebec-2026/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CRA, EI premium rates and maximums",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/employment-insurance-ei/ei-premium-rates-maximums.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Retraite Québec, QPP contributions",
+      "url": "https://www.retraitequebec.gouv.qc.ca/fr/programmes/regime-rentes-quebec/travail-et-cotisations",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Quebec, QPIP contribution rates",
+      "url": "https://www.quebec.ca/entreprises-et-travailleurs-autonomes/administrer-gerer/embauche-gestion-personnel/assurance-parentale/taux-cotisations",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CRA, Canada Child Benefit amounts",
+      "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/how-much.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CRA, Canada Child Benefit eligibility",
+      "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/who-apply.html",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "shortfall_year1": {
+      "label": "First-year shortfall on one salary (net pay minus outlays, incl. setup and 10 % contingency; illustrative)",
+      "value": 3464.02,
+      "unit": "CAD",
+      "display": "CAD 3,464.02"
+    },
+    "total_outlays_year1": {
+      "label": "Estimated year-one outlays (assumed and placeholder lines included)",
+      "value": 83134.82,
+      "unit": "CAD",
+      "display": "CAD 83,134.82"
+    },
+    "net_pay_year1": {
+      "label": "Estimated net pay on the offer after tax and payroll deductions (2026 parameters; some rates unconfirmed)",
+      "value": 79670.8,
+      "unit": "CAD",
+      "display": "CAD 79,670.80"
+    },
+    "job_offer_salary": {
+      "label": "Annual salary in the job offer",
+      "value": 115000,
+      "unit": "CAD",
+      "display": "CAD 115,000"
+    },
+    "quebec_high_wage_threshold": {
+      "label": "Quebec high-wage hourly threshold for LMIAs received from 17 July 2026",
+      "value": 36,
+      "unit": "CAD per hour",
+      "display": "CAD 36.00"
+    },
+    "immigration_fees_total": {
+      "label": "Immigration fees the family can total (excludes the employer-paid LMIA fee)",
+      "value": 1113,
+      "unit": "CAD",
+      "display": "CAD 1,113"
+    }
+  },
+  "planningAssumptions": {
+    "family": "Claire (38, hospital pharmacist), Julien (40, software project manager), children 7 and 11; offer from a Montréal software company, start September 2027, CAD 115,000 a year (about €73,099).",
+    "route": "Employer-led LMIA, then CAQ, then employer-specific IRCC work permit; Julien’s NOC/TEER code and the employer’s stream (high-wage 98 business days vs Global Talent Stream 9) are unknown.",
+    "timeline": "LMIA filing about 1 March 2027 at the earliest for a 1 September start; decision about mid-July to mid-August 2027 at the 98-business-day average; IRCC permit times not found.",
+    "budget": {
+      "fxEurCad": "1 EUR = CAD 1.5732 (Bank of Canada daily average, 6 November 2026)",
+      "income": "Julien CAD 115,000 for 12 months; Claire no income (licensure likely 2028 or later)",
+      "taxYear": "2026 tax parameters used as a proxy for 2027 (only EI 2027 published); 12-month steady-state illustration",
+      "rent": "CAD 2,100 a month, an assumption inside the sampled listing range",
+      "placeholders": "utilities 150 a month, groceries 1,400 a month, phones and internet 200 a month, health extras 2,400, one-off setup 20,100, contingency 10 %; school-day care CAD 10 a day is unconfirmed"
+    }
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. Page dates, tax years and fee periods are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Julien’s NOC/TEER code and the employer’s LMIA stream (Global Talent Stream or Quebec facilitated process versus high-wage) are unknown; they decide the timing and whether Claire can get a spouse open work permit.",
+    "IRCC processing times for work and study permits were not found; the 2027 CAQ fee and the CAQ-for-studies fee were not found; the biometrics family cap for the children’s study-permit applications is unconfirmed.",
+    "PEQ is closed (window 2 July to 31 October 2026) with no decision on reopening; PSTQ fees and times were not found and its criteria can change by invitation round.",
+    "Claire’s pharmacist licensure is likely 2028 or later; the Ordre’s 2027-28 fee schedule, any residency or citizenship condition (none seen) and PEBC centre availability from France were not confirmed.",
+    "RAMQ: the official text points to no 3-month wait for arrivals from France, but RAMQ’s own paperwork list was not retrievable; Claire’s cover on an open work permit is unresolved; the SE 401-Q-207 form and the need to be in Quebec to register rest on forum posts or snippets; how to leave the French system was not found.",
+    "Quebec income-tax rates (14, 19, 24, 25.75 %), federal rates and QPP rates come from non-primary pages or search snippets (Revenu Québec and CRA rate pages could not be read); the QPP second ceiling of 85,000 is unverified; 2027 tax parameters are largely unpublished; newcomer part-year rules and filing dates were not found.",
+    "English-school authorization length (3 years, non-renewable) comes only from McGill; the regulation could not be loaded; the service centre for each neighbourhood and 2027-28 registration dates were not verified; grade placement is an inference; school-day care CAD 10 a day is unconfirmed.",
+    "Rent examples are Kijiji asking prices from 8 November 2026, non-primary and possibly gone; a September 2027 lease will be re-priced; CMHC zone averages are not 3-bedroom rents; food, utilities, phone, flights, shipping, lodging, winter gear, furniture and health extras are placeholders.",
+    "International Experience Canada age limit rests on an older IRCC snippet and a non-primary table; Francophone Mobility and intra-company transfer were not verified or researched; no LMIA exemption was found, which is not proof that none exists."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run’s index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The French page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch and search; when a direct request was blocked, the fetch tool rendered some canada.ca (IRCC), RAMQ and CMHC pages in a managed signed-out headless browser profile. Revenu Québec, CRA rate pages, Retraite Québec and the Quebec regulation text could not be read in full; several fee lines are search snippets.",
+    "independentCheckDisposition": "The independent check recomputed every tax, net-pay, outlay, EUR, fee and median figure and found no arithmetic error. Its issues (dangling spouse-fee citation, LMIA filing window of about 1 March 2027 and the mid-July to mid-August decision range, 'Confirmed' wording for IEC, a stray citation on the intra-company row, the unconfirmed biometrics cap for minors, the CCB date of March 2029 possibly April) were fixed in the run; the guide follows the corrected wording.",
+    "editingContract": "Only data/lyon-family-move-to-montreal-lmia-caq-route.json, en/ and fr/ Markdown for this slug and checks/batch40-lyon-family-move-to-montreal-lmia-caq-route-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}
