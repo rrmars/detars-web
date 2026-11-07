@@ -1,0 +1,527 @@
+{
+  "schemaVersion": 2,
+  "slug": "calgary-kenyan-nurse-family-settlement-budget",
+  "translationKey": "calgary-kenyan-nurse-family-settlement-budget",
+  "sources": [
+    {
+      "title": "CRNA competency options",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/international-applicants/options-for-confirming-competency/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "education-verification rules",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/post-secondary-education-verification/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "education requirement",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/post-secondary-education-requirement/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CES wind-down notice",
+      "url": "https://www.nnas.ca/news/update-for-applicants-ces-wind-down-and-your-nnas-application/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RN currency",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/currency-of-practice/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "English proficiency",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/english-language-proficiency/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "exam guidance",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/registration-exams/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CRNA's permit steps",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/international-applicants/five-steps-to-a-permit/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NNAS fee page",
+      "url": "https://www.nnas.ca/fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "expedited requirements",
+      "url": "https://www.nnas.ca/expedited-service/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CRNA bridging guidance",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/bridging-programs/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RNCCAP/ARNAP",
+      "url": "https://touchstoneinstitute.ca/assessment/arnap/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mount Royal admissions/costs",
+      "url": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/HealthCommunityEducation/Programs/BridgetoCanadianNursing/AdmissionRequirementsCosts/index.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MRU FAQ",
+      "url": "https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/HealthCommunityEducation/Programs/BridgetoCanadianNursing/FrequentlyAskedQuestions/index.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bow Valley's RN pathway",
+      "url": "https://www.bowvalleycollege.ca/programs/registered-nurse-pathway-to-canadian-practice",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Path2Practice",
+      "url": "https://www.bowvalleycollege.ca/programs/path2practiceforiens",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CRNA's 2026–27 fee schedule",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/fees/fee-structure-for-2026-2027/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NCLEX fees",
+      "url": "https://www.nclex.com/fees-payment.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NCLEX FAQ",
+      "url": "https://www.nclex.com/faqs.page",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CRNA provisional register",
+      "url": "https://nurses.ab.ca/nursing-in-alberta/application-support/provisional-register/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "International LPN registration",
+      "url": "https://www.clha.com/lpn/apply-to-be-an-lpn/applicants/internationally-educated-nurses/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HCA regulation began February 2, 2026",
+      "url": "https://www.clha.com/hca/hcas/hca-faqs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "international substantial-equivalence route",
+      "url": "https://www.clha.com/hca/apply-to-be-an-hca/applicants/substantially-equivalent-hcas",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HCA fee schedule",
+      "url": "https://www.clha.com/hca/apply-to-be-an-hca/registration-information/fee-schedule",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CPA Alberta",
+      "url": "https://www.cpaalberta.ca/Become-a-CPA/Internationally-Trained-Professional",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IFAC lists ICPAK as a member",
+      "url": "https://www.ifac.org/about-ifac/membership/members/institute-certified-public-accountants-kenya",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Federal Job Bank",
+      "url": "https://www.jobbank.gc.ca/marketreport/requirements/14076/geo25411",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RentBoard indexed advert",
+      "url": "https://www.rentboard.ca/calgary-ab/2715-12th-ave-se/214608",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Building advert",
+      "url": "https://www.rentseeker.ca/building/5470-rk36-3616-richmond-road-calgary-4ahv2s",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "unit link",
+      "url": "https://www.rentseeker.ca/listing/5470-rk36-3616-richmond-road-6877974132408435f6e534cf-calgary-4h1s51",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official station maps",
+      "url": "https://www.calgarytransit.com/rider-information/lrt-and-bus-station-maps.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CBE designation",
+      "url": "https://cbe.ab.ca/find-a-school",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "overflow",
+      "url": "https://cbe.ab.ca/overflow-schools",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Alberta tenancy guidance",
+      "url": "https://www.alberta.ca/starting-a-tenancy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC rental guidance",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/housing/renting.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CMHC",
+      "url": "https://www.cmhc-schl.gc.ca/consumers/renting-a-home/i-want-to-rent/credit-checks-and-bad-credit",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CBE Welcome Centre",
+      "url": "https://cbe.ab.ca/welcome",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Required documentation",
+      "url": "https://cbe.ab.ca/registration-documentation",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CBE age rules",
+      "url": "https://cbe.ab.ca/new-students",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "kindergarten",
+      "url": "https://cbe.ab.ca/kindergarten",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "school charges",
+      "url": "https://cbe.ab.ca/fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "arriving from outside Canada",
+      "url": "https://www.alberta.ca/ahcip-moving-to-alberta",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Apply within three months",
+      "url": "https://www.alberta.ca/ahcip-how-to-apply",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Eligibility",
+      "url": "https://www.alberta.ca/ahcip-eligibility",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Public coverage has limits",
+      "url": "https://www.alberta.ca/ahcip-what-is-covered",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CRA's conditions",
+      "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/who-apply.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Newcomer applications",
+      "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/how-apply.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CRA newcomer guidance",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "published CCB maximums",
+      "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/how-much.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Alberta cold-weather guidance",
+      "url": "https://www.alberta.ca/blizzards-freezing-rain-ice-storms-and-extreme-cold",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Calgary Transit fares",
+      "url": "https://www.calgarytransit.com/fares---passes.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2026 change notice",
+      "url": "https://www.calgarytransit.com/news/calgary-transit-fares-changing-for-2026.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Alberta licence-exchange guidance",
+      "url": "https://www.alberta.ca/exchange-non-alberta-licences",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PR work rights",
+      "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1113&top=23",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SIN",
+      "url": "https://www.canada.ca/en/employment-social-development/services/sin.html",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_spending": {
+      "label": "Two-bedroom monthly model, no car or paid childcare",
+      "value": 4017,
+      "unit": "CAD/month",
+      "display": "$4,017",
+      "status": "Planning assumption or derived illustration; not quote, wage, approval or benefit award"
+    },
+    "setup_cash": {
+      "label": "Two-bedroom travel, setup and earmarked licensing",
+      "value": 13200,
+      "unit": "CAD",
+      "display": "$13,200",
+      "status": "Planning assumption or derived illustration; not quote, wage, approval or benefit award"
+    },
+    "income_free_runway": {
+      "label": "Approximate income-free runway after setup",
+      "value": 3.68,
+      "unit": "months",
+      "display": "3.68 months",
+      "status": "Planning assumption or derived illustration; not quote, wage, approval or benefit award"
+    },
+    "six_month_shortfall": {
+      "label": "Two-bedroom no-income six-month funding gap",
+      "value": 9302,
+      "unit": "CAD",
+      "display": "$9,302",
+      "status": "Planning assumption or derived illustration; not quote, wage, approval or benefit award"
+    },
+    "three_bedroom_spending": {
+      "label": "Three-bedroom monthly model",
+      "value": 4337,
+      "unit": "CAD/month",
+      "display": "$4,337",
+      "status": "Planning assumption or derived illustration; not quote, wage, approval or benefit award"
+    },
+    "staged_ending_cash": {
+      "label": "Two-bedroom month-six cash with hypothetical receipts",
+      "value": 3198,
+      "unit": "CAD",
+      "display": "$3,198",
+      "status": "Planning assumption or derived illustration; not quote, wage, approval or benefit award"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and VOICE-GUIDE read first; batch33 Penang JSON/English Markdown inspected for schema only. Complete assigned index.html, sources.md, independent-check.md, nursing-research.md, housing-research.md, settlement-research.md and independent-computations.json read locally. No other run folders or network research. Bounded check_i18n.py/content_utils.py inspection; no build or inventory edit.",
+    "originalResearchAccessLimitations": "Initial automatic managed-browser fallback blank-storage state not proven; subsequent fresh-context/direct-HTTP verification did not erase that limitation. RentBoard indexed advert only; CES notice detail inaccessible. Preliminary ledgers are superseded by final sources.md and independent-check.md closure.",
+    "independentCheckDisposition": "Original money arithmetic passed; final parent closure implemented NCLEX registration-date trigger, February virtual RNCCAP window, resolved H4/B4/I1/I2 source statuses, removed unused rental alternative and added CES availability caution. Batch34 independently recalculates cash without claiming to repeat external checks.",
+    "layoutEvidenceLimit": "No batch34 HTML build, browser, visual or print certification; historical source screenshots are not certification of this new Markdown."
+  },
+  "datePolicy": "All cited read/attempt dates are 2026-11-07 as stated throughout sources.md. Listing availability and publication dates are separate; future 2027 terms remain conditional. No source refresh.",
+  "planningAssumptions": {
+    "profile": "Achieng 34, Kenyan BScN nurse with eight years experience; accountant husband; children currently 5 and 9; family PR landing by July 2027, exact COPR/visa expiry and nomination conditions uninspected.",
+    "currency": "CAD unless explicitly USD",
+    "budgetInputs": {
+      "savings": 28000,
+      "setup2": [
+        2200,
+        4000,
+        1000,
+        1000,
+        1200,
+        3500,
+        300
+      ],
+      "setup3": [
+        2450,
+        4000,
+        1000,
+        1000,
+        1200,
+        3500,
+        300
+      ],
+      "monthly2": [
+        2200,
+        100,
+        0,
+        80,
+        1000,
+        252,
+        35,
+        100,
+        100,
+        150
+      ],
+      "monthly3": [
+        2450,
+        100,
+        70,
+        80,
+        1000,
+        252,
+        35,
+        100,
+        100,
+        150
+      ],
+      "receipts": [
+        0,
+        0,
+        2500,
+        2500,
+        2500,
+        5000
+      ],
+      "zero2": [
+        10783,
+        6766,
+        2749,
+        -1268,
+        -5285,
+        -9302
+      ],
+      "staged2": [
+        10783,
+        6766,
+        5249,
+        3732,
+        2215,
+        3198
+      ],
+      "zero3": [
+        10213,
+        5876,
+        1539,
+        -2798,
+        -7135,
+        -11472
+      ]
+    },
+    "setupItemOrder": [
+      "refundable deposit",
+      "family one-way flights/baggage",
+      "temporary arrival lodging/transport",
+      "furniture/kitchen/bedding",
+      "winter clothing",
+      "licensing reserve",
+      "temporary insurance"
+    ],
+    "monthlyItemOrder": [
+      "rent/utility package",
+      "utility contingency",
+      "internet",
+      "two mobiles",
+      "groceries/household",
+      "two adult transit passes",
+      "tenant insurance",
+      "uncovered health",
+      "school/lunch/supplies, not paid care",
+      "miscellaneous"
+    ],
+    "derived": {
+      "setup2": 13200,
+      "setup3": 13450,
+      "monthly2": 4017,
+      "monthly3": 4337,
+      "afterSetup2": 14800,
+      "afterSetup3": 14550,
+      "runwayMonths2": 3.68,
+      "runwayMonths3": 3.35,
+      "sixMonthNeed2": 37302,
+      "sixMonthNeed3": 39472,
+      "sixMonthGap2": 9302,
+      "sixMonthGap3": 11472,
+      "stagedReceipts": 12500,
+      "stagedEnd2": 3198,
+      "stagedEnd3": 1028,
+      "extraRoomCash": 2170,
+      "bridgeAdditionalStress": 10000,
+      "bridgeCashLeft": 4800,
+      "bridgeRunwayMonths": 1.19,
+      "careMonthlyStress": 1000,
+      "careSixMonthStress": 6000,
+      "careStagedEnd2": -2802,
+      "warningThreshold": 5000,
+      "warningCrossMonth": 3
+    },
+    "feeComponents": {
+      "rnAccount": 183.75,
+      "rnJuly2027Permit": 193.2,
+      "rnFull2026_27Permit": 483,
+      "nclexBefore2027_02_01": 360,
+      "nclexFrom2027_02_01": 570,
+      "nclexTrigger": "registration completion date, not exam date",
+      "internationalScheduling": 150,
+      "rnKnownSubtotal": 946.95,
+      "optionalNNAS": 750,
+      "optionalRNCCAP": 1900,
+      "hcaApplication": 100,
+      "hcaExamIncludingAdmin": 315,
+      "hcaPartialPermit": 125,
+      "hcaIllustrativeSubtotal": 540,
+      "limits": "Exam taxes/VAT, ECA/report sharing, documents, liability, language, checks, preparation, retakes, full bridge and renewal separate; no July/October 2027 blanket guarantee."
+    },
+    "ccbIllustration": {
+      "period": "July 2026–June 2027 only",
+      "underSixAnnual": 8157,
+      "underSixMonthly": 679.75,
+      "sixToSeventeenAnnual": 6883,
+      "sixToSeventeenPublishedMonthly": 573.58,
+      "maximumThresholdAFNI": 38237,
+      "oneEachMonthly": 1253.33,
+      "bothOlderMonthly": 1147.16,
+      "budget": 0,
+      "limit": "Not July 2027 rates or family award; birthdays, worldwide income, tax residence and payment approval/receipt unresolved."
+    },
+    "exclusions": "No car, paid care, debts, remittances, CPA tuition or full bridge tuition. Deposit tied up, no six-month return; first full-month rent only in recurring costs. Licensing ring-fenced even if paid later. Starting pot before flights/setup; avoid double deductions. Income receipts hypothetical net cash, not salary research."
+  },
+  "uncertainties": [
+    "Applicant education equivalence, recent RN hours, English evidence, prior NCLEX/ECA and permit approval unverified; NNAS/bridge not universal requirements.",
+    "HCA and LPN require separate registration/permit; GN not automatic; no verified jobs or net wages.",
+    "Exact husband degree, professional membership and good standing; CPA 2027 transition/intakes/costs unverified.",
+    "CES wind-down notice detailed effect unread; not evidence existing CES reports invalid.",
+    "College gap fit, admission/clinical conditions, total current tuition, post-July seats, exam places, ATT timing and third-party licensing/renewal prices unresolved.",
+    "RentBoard 403/index-only; both ads not July 2027 inventory, verified owner or occupancy permission. Exact commute, school, care and bedroom-sharing fit unknown.",
+    "Children exact birthdays, July school registration hours, 2027–28 fees/designation/overflow and 2027 transit/CCB rates unresolved.",
+    "AHCIP individual effective date and CCB entitlement/payment not approved; model benefits zero.",
+    "Living, flight, arrival lodging, winter, insurance and stress allowances not quotes; paid care/car/full bridge can worsen shortfall.",
+    "Original automatic-browser empty-storage state not verified; no batch34 network refresh or rendered-page certification."
+  ],
+  "editingContract": "Only assigned new data JSON, English Markdown and checks/batch34-calgary-author-note.md. English only. No source/shared/inventory edits, builds, networking, publication or contact.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Kenyan permanent-resident nurse and accountant family planning Calgary settlement, RN recognition and cash flow with two school-age children.",
+  "localeReason": "Kenya-specific nurse/family and licensing profile; no distinct Chinese-reader need established. English only.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

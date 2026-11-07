@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 2,
+  "slug": "torres-del-paine-five-day-w-trek-refugios",
+  "translationKey": "torres-del-paine-five-day-w-trek-refugios",
+  "sources": [
+    {
+      "title": "government runway notice",
+      "url": "https://chile.travel/en/blog/natales-airfield-to-have-partial-closures-between-january-and-march-2027/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "LATAM route page",
+      "url": "https://www.latamairlines.com/cl/es/destinos/vuelos-desde-santiago-a-punta-arenas",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Grey",
+      "url": "https://www.vertice.travel/alojamiento/refuge-camping-grey/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Paine Grande",
+      "url": "https://www.vertice.travel/alojamiento/paine-grande-shelter-and-camping/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Las Torres hostels",
+      "url": "https://lastorres.com/en/where-to-lodge/hostel/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Francés refuge",
+      "url": "https://lastorres.com/en/refugios/frances-valley-mountain-hostel/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Central refuge",
+      "url": "https://lastorres.com/en/refugios/central-mountain-hostel/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Francés camping",
+      "url": "https://lastorres.com/en/camping/camping-frances/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Central camping",
+      "url": "https://lastorres.com/en/camping/camping-central/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vértice terms",
+      "url": "https://www.vertice.travel/terms-and-conditions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "guided package",
+      "url": "https://chilenativo.travel/destinations/torres-del-paine/classic-w-trek-5-days/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore MFA",
+      "url": "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/chile/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "general Chilean tourism rule",
+      "url": "https://serviciomigraciones.cl/permanencia-transitoria/subcategorias/turistas/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Chile Travel",
+      "url": "https://chile.travel/en/good-to-know/entry-and-visa-requirements/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SAG's arrival declaration",
+      "url": "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hotel VAT exemption",
+      "url": "https://www.sii.cl/preguntas_frecuentes/declaracion_renta/001_140_1165.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CONAF's ticket change",
+      "url": "https://www.conaf.cl/el-1-de-mayo-entra-en-vigencia-nuevo-sistema-tarifario-para-el-parque-nacional-torres-del-paine/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PasesParques",
+      "url": "https://www.pasesparques.cl/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2026 foreign-adult multiday example",
+      "url": "https://parquetorresdelpaine.cl/tarifas-y-horarios-2026/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official trip advice",
+      "url": "https://parquetorresdelpaine.cl/recomendaciones-para-su-viaje-2026/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "special-permission rules",
+      "url": "https://parquetorresdelpaine.cl/permisos-especiales-2026/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "park homepage",
+      "url": "https://parquetorresdelpaine.cl/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "park conduct rules",
+      "url": "https://parquetorresdelpaine.cl/actividades-reguladas-y-no-autorizadas/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bus-Sur",
+      "url": "https://www.bussur.com/destinos/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bus-Sur park page",
+      "url": "https://www.bussur.com/torres-del-paine/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pehoé operator",
+      "url": "https://catamaranpehoe.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vértice itinerary",
+      "url": "https://www.vertice.travel/servicios/5d-west-circuit-independent-without-guide-and-guided/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CONAF's route segments",
+      "url": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Las Torres weather context",
+      "url": "https://lastorres.com/en/torres-del-paine/weather/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Allianz Travel Protect Single Trip wording",
+      "url": "https://www.allianz.sg/content/dam/onemarketing/azsg/www-allianz-sg/assets/documents/allianz-travel-protect/Allianz-Travel-Protect-Single-Trip-Policy-Wording.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Income Travel wording",
+      "url": "https://www.income.com.sg/travel-policy-conditions.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vértice accommodation overview",
+      "url": "https://www.vertice.travel/accommodations/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "trip_total": {
+      "label": "Refugio whole trip for two including 15% reserve",
+      "value": 7878.27,
+      "unit": "SGD",
+      "display": "SGD7,878.27",
+      "status": "Derived planning illustration, not live quotation, reservation or insurance acceptance"
+    },
+    "contingency_rate": {
+      "label": "Contingency on exact CLP subtotal",
+      "value": 15,
+      "unit": "percent",
+      "display": "15%",
+      "status": "Derived planning illustration, not live quotation, reservation or insurance acceptance"
+    },
+    "budget_headroom": {
+      "label": "Headroom after reserve against SGD9500",
+      "value": 1621.73,
+      "unit": "SGD",
+      "display": "SGD1,621.73",
+      "status": "Derived planning illustration, not live quotation, reservation or insurance acceptance"
+    },
+    "camping_saving": {
+      "label": "Four-night camping accommodation/food saving for two before reserve",
+      "value": 474.67,
+      "unit": "SGD",
+      "display": "SGD474.67",
+      "status": "Derived planning illustration, not live quotation, reservation or insurance acceptance"
+    },
+    "guided_trip_total": {
+      "label": "Whole guided replacement trip for two including reserve",
+      "value": 12611.67,
+      "unit": "SGD",
+      "display": "SGD12,611.67",
+      "status": "Derived planning illustration, not live quotation, reservation or insurance acceptance"
+    },
+    "fx_stress_total": {
+      "label": "Trip at CLP675 per SGD holding CLP-equivalent costs fixed",
+      "value": 8753.63,
+      "unit": "SGD",
+      "display": "SGD8,753.63",
+      "status": "Derived planning illustration, not live quotation, reservation or insurance acceptance"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and VOICE-GUIDE first; batch33 Penang data/English schema example; all three assigned run files read completely. Only scoped helper/check source inspection; no other run, network, build or publication.",
+    "independentCheckDisposition": "Original monetary audit passes; historical airline publication claim repaired in final source. New prose preserves that correction. Original browser/layout reports do not certify these Markdown pages.",
+    "originalResearchAccessLimitations": "Original automatic managed-browser/search fallback clean state was not established. No claim of historical clean-session compliance or new primary-source verification.",
+    "layoutEvidenceLimit": "No HTML built, browser/pixel/print verification or inventory integration in batch34."
+  },
+  "datePolicy": "Every cited URL has original access/read date 2026-11-07 from the universal ledger statement. Publication/season dates are distinct; 2027 availability and tariffs are not guaranteed.",
+  "planningAssumptions": {
+    "profile": "Fit Singaporean couple in early 30s, first multiday trek; nationality/passports unchanged in Chinese.",
+    "tripDates": [
+      "2027-02-19",
+      "2027-03-02"
+    ],
+    "trekDates": [
+      "2027-02-22",
+      "2027-02-26"
+    ],
+    "direction": "west to east",
+    "mountainNights": [
+      "Grey",
+      "Paine Grande",
+      "Francés",
+      "Central"
+    ],
+    "routing": [
+      "SCL",
+      "PUQ",
+      "Puerto Natales",
+      "Pudeto",
+      "Paine Grande"
+    ],
+    "recommendation": "Self-guided refugios/full board only after back-to-back training and exact activity insurance acceptance; otherwise guided budget increase or supported day hikes.",
+    "nights": {
+      "mountain": 4,
+      "puertoNatales": 4,
+      "santiago": 3,
+      "total": 11
+    },
+    "fx": {
+      "CLPperSGD": 750,
+      "CLPperUSD": 1000,
+      "status": "Author-selected budgeting assumptions, not market quotes"
+    },
+    "budgetRows": [
+      {
+        "item": "Refugios/full board",
+        "clp": 2376000,
+        "status": "Published 2026–27 from-rate example",
+        "sgdDisplay": "3,168.00"
+      },
+      {
+        "item": "Return domestic flights/bags",
+        "clp": 600000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "800.00"
+      },
+      {
+        "item": "PUQ–Natales return",
+        "clp": 80000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "106.67"
+      },
+      {
+        "item": "Park buses return",
+        "clp": 64000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "85.33"
+      },
+      {
+        "item": "One-way boat with margin",
+        "clp": 64000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "85.33"
+      },
+      {
+        "item": "Eastern shuttle",
+        "clp": 12000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "16.00"
+      },
+      {
+        "item": "2026 park-entry example",
+        "clp": 97000,
+        "status": "Published 2026 tariff; 2027 unknown",
+        "sgdDisplay": "129.33"
+      },
+      {
+        "item": "Seven double-room town nights incl taxes",
+        "clp": 525000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "700.00"
+      },
+      {
+        "item": "Food outside full board incl edge meals",
+        "clp": 340000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "453.33"
+      },
+      {
+        "item": "City/airport local transfers",
+        "clp": 120000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "160.00"
+      },
+      {
+        "item": "Insurance allowance",
+        "clp": 225000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "300.00"
+      },
+      {
+        "item": "Gear/poles allowance",
+        "clp": 375000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "500.00"
+      },
+      {
+        "item": "Extra snacks",
+        "clp": 60000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "80.00"
+      },
+      {
+        "item": "Bedding/bag reserve",
+        "clp": 100000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "133.33"
+      },
+      {
+        "item": "Laundry/tips/extras",
+        "clp": 100000,
+        "status": "Unconfirmed planning allowance",
+        "sgdDisplay": "133.33"
+      }
+    ],
+    "subtotalCLP": 5138000,
+    "contingencyRate": 0.15,
+    "contingencyCLP": 770700,
+    "totalCLP": 5908700,
+    "totalSGD": 7878.27,
+    "ceilingSGD": 9500,
+    "headroomCLP": 1216300,
+    "headroomSGD": 1621.73,
+    "camping": {
+      "perPersonUSD": 1010,
+      "coupleUSD": 2020,
+      "savingUSD": 356,
+      "subtotalCLP": 4782000,
+      "reserveCLP": 717300,
+      "totalCLP": 5499300,
+      "totalSGD": 7332.4,
+      "beddingReserveRetained": true
+    },
+    "guided": {
+      "perPersonUSD": 2900,
+      "coupleUSD": 5800,
+      "subtotalCLP": 8225000,
+      "reserveCLP": 1233750,
+      "totalCLP": 9458750,
+      "totalSGD": 12611.67,
+      "excessSGD": 3111.67,
+      "substitution": "Remove DIY lodging, entry, park buses, boat, shuttle and bedding; add package. East→west replaces DIY route. Exact meals to reconcile."
+    },
+    "fxStress": {
+      "CLPperSGD": 675,
+      "totalSGD": 8753.63,
+      "headroomSGD": 746.37,
+      "limit": "CLP-equivalent costs fixed; USD tariffs and settlement can vary independently."
+    },
+    "excluded": "Singapore–Santiago flights, private rooms/transfers, optional glacier/kayak activities, costly pre-existing-condition cover, all-new wardrobe, heavy alcohol spending"
+  },
+  "uncertainties": [
+    "No bed/tent, meal-slot or flight/seat availability checked; published from-rates are not bookings.",
+    "2027 park tariffs, guide/traction notices, cutoffs and closures unconfirmed.",
+    "First Pehoé sailing 08:00/08:30 conflict; old bus/shuttle PDFs and 19:15/20:00 versus 19:00/19:45 chains not harmonised. Airport pickup times/fares unknown.",
+    "Las Torres bedding/meal allocation, final foreign-currency/tax treatment and cancellation/change conditions require purchase-time checks.",
+    "Insurer issued-policy self-guided-W acceptance, residence eligibility, whole Singapore-return period, medical history and premium unresolved; benefit limits do not establish cover.",
+    "Singapore-specific legal passport-validity/onward details not established; six-month/return-booking advice conservative.",
+    "Boat stated 10kg and dimensions need loaded-pack acceptance; dry-pack aim plus water can exceed limit.",
+    "Weather can remove viewpoints; downstream buffer cannot move fixed mountain nights.",
+    "Original clean-session process limitation remains; no external reopening in batch34."
+  ],
+  "editingContract": "Only assigned new data JSON, en/zh Markdown and batch34-torres-author-note.md; no builds, inventories, existing package/source edits or networking.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "English- and Chinese-speaking Singaporean and other W-trek travellers comparing a first five-day trek; original Singaporean couple, passports and insurance-residence assumptions retained.",
+  "localeReason": "Chinese is useful to Chinese-speaking Singaporean and other travellers planning this trek; translation does not alter nationality, entry entitlement or insurance eligibility.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

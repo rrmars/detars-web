@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "6dd94171618ab4f257e74c2bc05f4b134f23b002856dbdcdd25c444b92c6938a",
+  "sourceListLink": "../w7-berlin-internet-mobile-new-arrival/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "9a9dbe06a3e0400af426f3864815364a9a5f03aea6959549ec2deca03d3a4771",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "cbed454741318b26af9f998a2be862405cd4d59c73a449690dd4480c46bcadff",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

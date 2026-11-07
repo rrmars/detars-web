@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "547ab2a3c357a8a1772b8ccbc56119551f7b2d9eead9f1c85e525ff6833a7a35",
+  "sourceListLink": "../w7-torres-del-paine-w-trek-singapore-couple/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "1a4e964d0cbfd109865d015c505dd9a41f10d7a97cab1655a736fc32f25a6245",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "bed3722127a13c96a29b0fbd06ee1fecab6023ba8277e872d15bee9240f07c54",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

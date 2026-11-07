@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "84b972d6d7c59b57545b6eaaa904d94d4892c1e348d584ce25161f3b4c4401a0",
+  "sourceListLink": "../w7-calgary-kenyan-nurse-family-settlement/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "12c994ad2116cf1005fd900b83e5de233f3868dc7dbc83dbcd85ab447bdb4bb4",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

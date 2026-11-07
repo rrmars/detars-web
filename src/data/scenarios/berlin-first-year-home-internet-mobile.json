@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 2,
+  "slug": "berlin-first-year-home-internet-mobile",
+  "translationKey": "berlin-first-year-home-internet-mobile",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Berlin new arrival Mei, 29, a Chinese-passport data analyst with Blue Card status, two WFH days and weekly China family calls; useful to Chinese-speaking newcomers without changing her profile or approval assumptions.",
+  "localeReason": "English and Simplified Chinese are genuinely useful for Chinese-speaking Berlin arrivals maintaining China contact, understanding passport-channel uncertainty and distinguishing app calls, +86 calls and EU roaming. The original profile and conditional eligibility remain unchanged.",
+  "sources": [
+    {
+      "title": "O2 Home M DSL",
+      "url": "https://www.o2online.de/internet-festnetz/dsl-tarife/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vodafone GigaZuhause 150 Kabel and Station terms",
+      "url": "https://www.vodafone.de/privat/internet.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O2 Home M fibre",
+      "url": "https://www.o2online.de/internet-festnetz/glasfaser/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O2 HomeSpot Home M and separate Flex",
+      "url": "https://www.o2online.de/internet-festnetz/homespot-tarife/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indexed O2 shop legal terms, TV-module variant",
+      "url": "https://www.o2online.de/e-shop/tarif/o2-home-m-100mbits-dsl?vas-module=o2TV&zielgruppe=privatkunden",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indexed O2 shop legal terms, private-customer variant",
+      "url": "https://www.o2online.de/e-shop/tarif/o2-home-m-100mbits-dsl?zielgruppe=privatkunden",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vodafone cable 150 product-information sheet",
+      "url": "https://www.vodafone.de/media/downloads/pdf/PIB-GigaZuhause_Kabel_150.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vodafone business technology and availability comparison",
+      "url": "https://www.vodafone.de/business/internet-festnetz/verfuegbarkeit/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O2 installation and activation guidance",
+      "url": "https://www.o2online.de/service/internet-einrichten-aktivieren/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Telekom fibre installation process",
+      "url": "https://www.telekom.de/hilfe/internet-telefonie/glasfaser/ablauf-bestellung-einrichtung",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CallYa no creditworthiness check",
+      "url": "https://www.vodafone.de/prepaid/schufa.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bundesnetzagentur prepaid identity verification FAQ",
+      "url": "https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/OeffentlicheSicherheit/Autom_Auskunftsverfahren/FAQ/start.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CallYa S, Black bridge, direct eSIM and identification routes",
+      "url": "https://www.vodafone.de/freikarten/callya-allnet-flat-s/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ALDI TALK Kombi-Paket S",
+      "url": "https://www.alditalk.de/kombi-paket-s",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O2 Mobile on Demand M Flex listing",
+      "url": "https://www.o2online.de/tarife/mobilfunktarife/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O2 Mobile on Demand M Flex 2026 product sheet",
+      "url": "https://www.o2online.de/assets/blobs/pdfs/o2-mobile-on-demand-m-flex-2026-download/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ALDI direct new-customer eSIM",
+      "url": "https://www.alditalk.de/esim",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ALDI identification FAQ",
+      "url": "https://www.alditalk.de/faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Deutsche Post POSTIDENT FAQ",
+      "url": "https://www.deutschepost.de/de/p/postident/privatkunden/faq.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Deutsche Post branch accepted-document list",
+      "url": "https://www.deutschepost.de/dam/jcr:2f2c2ca3-f3c3-40a2-911e-4916dc1af7ef/dp-postident-ausweisliste-filiale.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Lebara China calls, German page",
+      "url": "https://www.lebara.de/de/minutenpreis-auslandsanrufe/china-anrufen.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Lebara China calls, English page",
+      "url": "https://www.lebara.de/en/minutenpreis-auslandsanrufe/china-anrufen.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bundesnetzagentur EU roaming guidance",
+      "url": "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Roaming/start.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Telefonica identity and credit privacy notice",
+      "url": "https://www.o2online.de/assets/blobs/pdfs/datenschutzmerkblatt-telefonica/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vodafone pre-contract data use",
+      "url": "https://www.vodafone.de/de/datenschutz/datennutzung-vor-vertragsschluss",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bundesnetzagentur contract and cancellation rules",
+      "url": "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Verbraucherzentrale moving and telecom rights",
+      "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "dsl_first_year": {
+      "label": "A: conditional DSL plus common mobile bridge",
+      "value": 642.61,
+      "unit": "EUR first year",
+      "display": "€642.61",
+      "status": "Illustrative, unresolved O2 terms and conditional hardware reserve"
+    },
+    "cable_first_year": {
+      "label": "B: qualifying cable plus common mobile bridge",
+      "value": 539.73,
+      "unit": "EUR first year",
+      "display": "€539.73",
+      "status": "Illustrative, address and household/equipment promotion conditional"
+    },
+    "fibre_first_year": {
+      "label": "C: already-ready fibre plus common mobile bridge",
+      "value": 664.61,
+      "unit": "EUR first year",
+      "display": "€664.61",
+      "status": "Illustrative, ready fibre, waiver and unresolved O2 terms"
+    },
+    "homespot_first_year": {
+      "label": "D: HomeSpot plus common mobile bridge",
+      "value": 675.61,
+      "unit": "EUR first year",
+      "display": "€675.61",
+      "status": "Illustrative, approval/signal and unresolved O2 terms"
+    },
+    "mobile_bridge_funding": {
+      "label": "One Black plus thirteen S periods",
+      "value": 209.86,
+      "unit": "EUR package funding",
+      "display": "€209.86",
+      "status": "Assumed deliberate tariff change; not exact voucher purchase"
+    },
+    "prepaid_period_count": {
+      "label": "Funded periods in assumed first-year horizon",
+      "value": 14,
+      "unit": "28-day periods",
+      "display": "14",
+      "status": "366-day half-open year; final period extends beyond horizon"
+    }
+  },
+  "planningAssumptions": {
+    "profile": "Mei, 29, Chinese-passport data analyst with Blue Card status, Friedrichshain Berlin job starting 2027-03-01, two WFH days, evening streaming and weekly China family calls. Anmeldung around day 14, bank account weeks 2–3 are assumed timetable, not eligibility findings.",
+    "mobileActivation": "2027-03-01",
+    "homeActivation": "2027-04-01",
+    "exclusiveHorizonEnd": "2028-03-01",
+    "horizonDays": 366,
+    "homeCharges": 11,
+    "prepaidPeriodDays": 28,
+    "prepaidPeriods": 14,
+    "lastPrepaidStart": "2028-02-28",
+    "billingBasis": "Home billed on activation and monthly firsts, no prorating; fees within horizon. Arrival/activation dates not supplied facts or installation guarantees.",
+    "commonMobile": {
+      "blackPeriods": 1,
+      "blackPriceEUR": 79.99,
+      "sPeriods": 13,
+      "sPriceEUR": 9.99,
+      "totalEUR": 209.86,
+      "blackReplacesSUpliftEUR": 70,
+      "sOnlyEUR": 139.86,
+      "aldiPackageChargesEUR": 125.86,
+      "aldiStarterEUR": 9.99,
+      "aldiIncludedCreditEUR": 10,
+      "aldiMinimumFundingEUR": 125.85,
+      "voucherLimit": "Denominations may require more cash and leave balance; do not double-count first ALDI package."
+    },
+    "scenarios": [
+      {
+        "id": "A",
+        "technology": "DSL",
+        "introEUR": 24.99,
+        "introMonths": 12,
+        "laterEUR": 39.99,
+        "routerEUR": 7.99,
+        "connectionEUR": 9.99,
+        "shippingEUR": 9.99,
+        "conditionalHardwareReserveEUR": 49.99,
+        "minimumMonths": 24,
+        "homeFirstYearEUR": 432.75,
+        "combinedFirstYearEUR": 642.61,
+        "twelveHomeChargeCombinedEUR": 675.59,
+        "full24MonthHomeEUR": 1041.49,
+        "laterMonthlyHomeEUR": 47.98
+      },
+      {
+        "id": "B",
+        "technology": "Cable",
+        "introEUR": 19.99,
+        "introMonths": 9,
+        "laterEUR": 44.99,
+        "routerFirst24MonthsEUR": 0,
+        "routerFromMonth25EUR": 4.99,
+        "connectionEUR": 49.99,
+        "shippingEUR": 9.99,
+        "minimumMonths": 24,
+        "equipmentMinimumMonths": 6,
+        "homeFirstYearEUR": 329.87,
+        "combinedFirstYearEUR": 539.73,
+        "twelveHomeChargeCombinedEUR": 584.72,
+        "full24MonthHomeEUR": 914.74,
+        "laterMonthlyHomeEUR": 44.99
+      },
+      {
+        "id": "C",
+        "technology": "Ready FTTH",
+        "introEUR": 24.99,
+        "introMonths": 12,
+        "laterEUR": 39.99,
+        "routerEUR": 9.99,
+        "connectionEUR": 9.99,
+        "shippingEUR": 9.99,
+        "conditionalHardwareReserveEUR": 49.99,
+        "minimumMonths": 24,
+        "homeFirstYearEUR": 454.75,
+        "combinedFirstYearEUR": 664.61,
+        "twelveHomeChargeCombinedEUR": 699.59,
+        "full24MonthHomeEUR": 1089.49,
+        "laterMonthlyHomeEUR": 49.98,
+        "condition": "Existing usable apartment fibre, compatible network equipment and advertised standard-development waiver; no nonstandard works."
+      },
+      {
+        "id": "D",
+        "technology": "HomeSpot 5G/LTE",
+        "introEUR": 29.99,
+        "introMonths": 12,
+        "laterEUR": 39.99,
+        "routerEUR": 5.99,
+        "connectionEUR": 9.99,
+        "shippingEUR": 9.99,
+        "conditionalHardwareReserveEUR": 49.99,
+        "minimumMonths": 24,
+        "homeFirstYearEUR": 465.75,
+        "combinedFirstYearEUR": 675.61,
+        "twelveHomeChargeCombinedEUR": 711.59,
+        "full24MonthHomeEUR": 1053.49,
+        "laterMonthlyHomeEUR": 45.98,
+        "condition": "Same bridge retained for comparability even if earlier activation avoids it; residential address restriction and indoor reception untested."
+      }
+    ],
+    "o2Conflict": {
+      "alternateDSLIntroEUR": 29.99,
+      "extra11ChargesEUR": 55,
+      "extra12ChargesEUR": 60,
+      "reserveReductionIfWaivedEUR": 49.99,
+      "limit": "Indexed shop versus landing page conflicts; no universal quote or maximum. General price-list and AGB endpoints unread; no claim relies on them."
+    },
+    "homespotFlex": {
+      "monthlyEUR": 39.99,
+      "connectionEUR": 49.99,
+      "assumedEquipmentSameAsD": true,
+      "extra11MonthEUR": 150,
+      "combinedFirstYearEUR": 825.61,
+      "limit": "Conditional equipment/reserve model, not a confirmed Flex quote. Check equipment cancellation separately."
+    },
+    "mobilePostpaidComparatorEUR": 399.87,
+    "exclusions": "Existing unlocked tethering phone, electricity/Ethernet, paid office/coworking, TV/streaming, nonstandard works, moving, deposits, premium services and +86 telephone calls. No separate router purchase or cashback/porting/young-person discount. App-to-app calls have assumed no incremental telephone fee, not zero data cost; office access must be arranged."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and VOICE-GUIDE read first; batch33 Penang JSON and English Markdown read for schema/voice only. Complete assigned index.html, sources.md, independent-check.md and research-home/mobile/rules.md read. Final corrected index and ledger supersede stale draft claims; no other run folder or network research. content_utils.py and bounded check_i18n.py source inspected; no build or inventory changes.",
+    "originalResearchAccessLimitations": "Original automatic existing-browser and browser-backed search fallbacks lacked established clean state, including failed reviewer fallback. No substantive claim relies on their empty/error results; historical all-clean-session requirement cannot be certified. Later clean contexts do not cure that exception.",
+    "independentCheckDisposition": "Original independent arithmetic passed conditional inputs, with director closure correcting assumed arrival, stale price-list explanation and narrow-source eID caveat. O2/Flex reconciliation, actual address/approval/ID/device facts and China telephone rates remain open. Original reviewer did not independently certify pixels; author-owned source layout observation is not certification of new Markdown.",
+    "layoutEvidenceLimit": "No new HTML build, browser, pixel or print certification. Source screenshots are visual artifacts, not necessary evidence for this Markdown rewrite."
+  },
+  "datePolicy": "All 27 source read/attempt dates are explicitly 2026-11-07 in the assigned ledger and retained unchanged. Authoring is not a refresh. March 2027 offers, address and personal acceptance remain unknown.",
+  "uncertainties": [
+    "No specific-address availability, free DSL port, ready cable/FTTH, measured performance, indoor signal or employer VPN test.",
+    "O2 landing/indexed offer conflicts, hardware-fee waiver, fibre development variants and conditional Flex equipment/cancellation unresolved; scenarios not quotes or upper bounds.",
+    "March 2027 tariffs/allowances, applicant credit/payment/document approval and household/newcomer promotional eligibility unverified.",
+    "Exact Chinese passport/channel acceptance, eSIM regional phone compatibility and usable electronic residence eID/PIN/NFC unconfirmed; branch route is not guaranteed.",
+    "Current China fixed/mobile telephone rates, connection charges, rounding and bundle eligibility unverified and excluded. App calling is recommendation, not service guarantee.",
+    "Residential cable and 5G delivery deadlines unverified; installation buffers are planning allowances, not Berlin averages or promises. Nonstandard works unquoted.",
+    "Original clean-session requirement not certifiable; no historical compliance or new visual certification claimed."
+  ],
+  "editingContract": "Only assigned new data JSON, English/Chinese Markdown and checks/batch34-berlin-author-note.md. No build, inventory or existing-file edits, networking or publication.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}
