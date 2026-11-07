@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 2,
+  "slug": "bali-wedding-60-guests-perth-couple",
+  "translationKey": "bali-wedding-60-guests-perth-couple",
+  "sources": [
+    {
+      "title": "S1 — Australian Embassy: marriage in Indonesia",
+      "url": "https://indonesia.embassy.gov.au/jakt/marriageind.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S2 — DFAT: CNI process, updated 2026-10-01",
+      "url": "https://www.smartraveller.gov.au/our-role/notarial-services/how-get-certificate-no-impediment-marriage",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S3 — DFAT: getting married overseas, updated 2026-08-18",
+      "url": "https://www.smartraveller.gov.au/planning-trip/advice-your-planned-activities/getting-married-overseas",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S4 — Australian Consulate-General Bali: June 2026 notarial fees",
+      "url": "https://bali.indonesia.embassy.gov.au/blli/Fees.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S5 — WA government: marriages, updated 2026-09-18",
+      "url": "https://www.wa.gov.au/service/justice/civil-law/marriages",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S6 — Indonesian Immigration: visa FAQ, updated 2026-09-30",
+      "url": "https://www.imigrasi.go.id/faq/visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S7 — Indonesian Immigration: B1 tourist VOA",
+      "url": "https://www.imigrasi.go.id/wna/permohonan-visa-republik-indonesia/b1-visa-saat-kedatangan-wisata",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S8 — Indonesian Immigration: All Indonesia announcement, 2026-10-16",
+      "url": "https://www.imigrasi.go.id/siaran_pers/penumpang-internasional-kini-bisa-pesan-whoosh-lewat-all-indonesia",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S9 — Bali government: Love Bali levy FAQ",
+      "url": "https://lovebali.baliprov.go.id/faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M1 — Maya Ubud: March 2026 wedding brochure",
+      "url": "https://mayaresorts.com/assets/pdf/ubud/mr-wedding-brochure-mar-2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "M2 — Maya Ubud: wedding spaces and FAQ",
+      "url": "https://mayaresorts.com/ubud/wedding",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O1 — Atas Ombak: September 2027 rental rates",
+      "url": "https://www.atasombakbali.com/rates.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O2 — Atas Ombak: wedding capacity",
+      "url": "https://www.atasombakbali.com/weddings.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "O3 — Atas Ombak: event guidelines, undated",
+      "url": "https://cdn.elitehavens.com/docs/eventguidelines/indonesia/Villa-Atas-Ombak-Event-Guidelines.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "U1 — Uluwatu Surf Villas: 2026–2027 wedding brochure",
+      "url": "https://uluwatusurfvillas.com/wp-content/uploads/2026/03/USV-Weddings-Events-2026-2027.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "T1 — The edge: Sky Wedding",
+      "url": "https://theedgebali.com/weddings/the-sky-wedding/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "A1 — Aksari Ubud: current capacity and inclusions, no price",
+      "url": "https://inivie.com/aksariresortubud/wedding",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "A2 — Aksari agent package, expired 2025-12-31",
+      "url": "https://www.baliweddingsolutions.com/aksari-chapel/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G1 — Elite Havens: general event guidelines, undated",
+      "url": "https://cdn.elitehavens.com/docs/eventguidelines/indonesia/EH-Event-Guidelines_Indonesia.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "G2 — Elite Havens rental terms via Kalyani, inspected payment/cancellation and use sections",
+      "url": "https://www.villakalyani.com/terms-and-conditions.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "C1 — Bali Catering: Western buffet",
+      "url": "https://www.balicatering.com/western-buffet-package/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "C2 — Bali Catering: logistics, tax and canapé FAQ",
+      "url": "https://www.balicatering.com/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "C3 — Bali Catering: three-hour beverage package",
+      "url": "https://www.balicatering.com/the-beverage-package/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "P1 — Mira Mi: 2026 wedding planning fee article",
+      "url": "https://miramibaliwedding.com/articles/bali-wedding-cost-2026",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V1 — Wildaya: photo/video, beauty and payment policy",
+      "url": "https://www.wildaya.com/bali-wedding-photographer/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "B1 — Bali Celebrant: ceremony packages valid to 2026-12-31",
+      "url": "https://balicelebrant.com/ceremony-packages",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "E1 — Nusa Dua Beach Hotel: services valid to 2027-03-31, not offsite quotes",
+      "url": "https://www.nusaduahotel.com/wedding/a-bespoke-a-la-carte-wedding-celebration/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F1 — Maison Bloom: July 2026 flower-cost guide",
+      "url": "https://www.maisonbloombali.com/blog/wedding-flower-cost",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SB1 — Seseh Beach Villas: full-estate September 2027 rental rates",
+      "url": "https://sesehbeachvillas.com/rates.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SB2 — Seseh Beach Villas: weather-dependent combined-estate wedding capacity",
+      "url": "https://sesehbeachvillas.com/weddings.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian official visa portal; destination retained, no application or functional verification",
+      "url": "https://evisa.imigrasi.go.id/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Love Bali official payment destination; levy facts from S9 FAQ",
+      "url": "https://lovebali.baliprov.go.id/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "All Indonesia official declaration portal; timing from S8 announcement",
+      "url": "https://allindonesia.imigrasi.go.id/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "controlled_total_aud": {
+      "label": "Conditional Maya Ubud planning total including 12% contingency; not a confirmed 2027 quote",
+      "value": 43682.13,
+      "unit": "AUD_wedding_model",
+      "display": "AUD 43,682.13"
+    },
+    "villa_total_aud": {
+      "label": "Atas Ombak comparison including mandatory wedding nights and 15% contingency; not a confirmed quote",
+      "value": 71198.01,
+      "unit": "AUD_wedding_model",
+      "display": "AUD 71,198.01"
+    },
+    "controlled_headroom_aud": {
+      "label": "Remaining room below the AUD 45,000 ceiling after model contingency",
+      "value": 1317.87,
+      "unit": "AUD_model_headroom",
+      "display": "AUD 1,317.87"
+    },
+    "seated_dining_covers": {
+      "label": "60 invited guests plus the couple; children and supplier meals require separate final counts",
+      "value": 62,
+      "unit": "dining_covers",
+      "display": "62"
+    },
+    "perth_registry_aud": {
+      "label": "Current published government Registry notice, ceremony and certified-certificate fees; future fees unconfirmed",
+      "value": 517,
+      "unit": "AUD_current_fees",
+      "display": "AUD 517"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "This authoring task read all 23 HTML lines and all 627 sources.md lines, the complete source register, budget data, legal and venue notes, arithmetic review and verification. Retained material only; no external retrieval, contact, transaction or build.",
+    "originalResearchAccessLimitations": "Several original public fetches and one review fetch automatically fell back to an existing managed browser on failed pages. No substantive legal/price evidence came from those fallbacks; complete session storage was not independently audited, so perfectly clean-session research is not claimed. Later retrieval used cookie-free HTTP. Original isolated visual checks are history, not visual verification of these new Markdown pages.",
+    "reviewLimitations": "The earlier reviewer recomputed arithmetic but could not independently re-fetch Atas policies; retained sources state the director had separately read the complete Atas PDF. Indonesian legal text and district foreign–foreign checklist were not retrieved. Seseh event rules unavailable."
+  },
+  "datePolicy": "Original source access is 2026-11-07 local; some tool timestamps were 2026-11-06 UTC. Per-source access dates are retained rather than refreshed by localization. Unknown homepage access and publication dates remain unknown. March 2026 brochure dates, 2026–2027 filenames and published 2027 rental rows do not establish an all-in 2027 wedding quote.",
+  "uncertainties": [
+    "Perth-first legal marriage and explicitly symbolic Bali celebration recommended; neither model is a confirmed 2027 quote or availability check. Both preserve 60 invited guests plus the couple, not 60 total.",
+    "Maya uses the published 100-person net tier rather than an invented supplement to 50. Reserved 62-seat covered backup, conversion, own bar tariff, package acceptance, furniture/service/power, minimum spends, curfew and payment/cancellation terms remain unconfirmed.",
+    "Atas compulsory three nights, event fee and banjar included. Rain tent with sides/floor, generator, crew, kitchen, furniture and transport are not made free by all-inclusive rental wording. Secondary gathering cap 40 is not a free full-party brunch.",
+    "USV Secrets includes large mandatory room block before suppliers, requires dance floor and supplier framework, has separate community fees and non-refundable staged payments; Temples seats only 60. The edge paid base count unclear. Aksari agent price expired 2025-12-31; dinner separate. Seseh has rental-only floor, not verified event nights/fees/rain rules.",
+    "Supplier compatibility, bar and hotel-music offsite acceptance, planner/photo tax status, current symbolic rate expiry, unquoted caps and 2027 repricing remain unresolved. Known ++ tax is not charged twice; unresolved tax reserve differs from contingency.",
+    "Hypothetical AUD/IDR and USD/IDR rates are not retrieved FX. Perth fees remain AUD; simple IDR sensitivity misses simultaneous USD movement. Refundable damage bonds need additional liquidity. Guest travel exclusions do not remove compulsory stays.",
+    "Indonesian marriage-law text and exact district requirements not retrieved; Embassy guidance is not Indonesian-issued law. Personal religions, ages and sexes unspecified. CNI issuer, certificate count, document acceptance, notice/arrival timing and delivery need confirmation; ten-day notice is not established ten-day physical residence.",
+    "Kalyani terms include supplier restrictions on same-sex ceremonies, not independently established Indonesian law or verified policy at all venues. Symbolic status does not prove venue acceptance.",
+    "Ordinary Australian-passport visitor assumptions only. Temporary/emergency passports and other nationalities need separate checks; no blanket child levy exemption. Tourist route is not vendor work permission. Portals were not functionally tested or submitted; rules require future recheck."
+  ],
+  "editingContract": "Only the assigned English and Simplified Chinese Markdown, semantic JSON and optional batch24 review notes are authored. Exact numeric/date/external-URL multiplicities and table numeric cells checked across languages. No stars, Review or AggregateRating. Original stage2-relative links retained for builder rebasing. No shared inventory/script/README, existing guide or run-file edits; no build.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "A never-married Australian couple living in Perth, planning a late-September Bali celebration for 60 invited guests plus themselves; also useful to Chinese-speaking Australian couples with the same planning questions.",
+    "zh": "住在珀斯、从未结婚的澳大利亚新人，计划九月下旬邀请 60 位宾客到巴厘岛庆祝；同样帮助考虑类似安排的澳大利亚华语新人。"
+  },
+  "localeReason": "English and Simplified Chinese serve Australian couples, including Chinese-speaking Australians considering Bali celebrations. Translation preserves Perth residence, Australian citizenship/ordinary-passport assumptions, never-married profile, 62 dining covers, AUD budget and unresolved personal eligibility; it does not convert the scenario into a mainland-China legal or travel profile.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

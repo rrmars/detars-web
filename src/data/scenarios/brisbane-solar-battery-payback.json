@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 2,
+  "slug": "brisbane-solar-battery-payback",
+  "translationKey": "brisbane-solar-battery-payback",
+  "sources": [
+    {
+      "title": "Solar Choice residential index",
+      "url": "https://www.solarchoice.net.au/solar-panels/solar-power-system-prices/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Solar Choice battery price index",
+      "url": "https://www.solarchoice.net.au/solar-batteries/price/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SolarQuotes battery cost guide",
+      "url": "https://www.solarquotes.com.au/battery-storage/cost/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Advance Electrical & Energy pricing",
+      "url": "https://www.advanceenergy.com.au/solar-battery-prices-brisbane",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "High Energy pricing",
+      "url": "https://high-energy.com.au/pricing/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "iDeal Solar advertised 6.6kW packages",
+      "url": "https://idealsolar.com.au/6-6kw-solar-panel-system",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Solargain Brisbane batteries",
+      "url": "https://www.solargain.com.au/solar-battery-brisbane",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Clean Energy Regulator: solar batteries",
+      "url": "https://cer.gov.au/schemes/renewable-energy-target/small-scale-renewable-energy-scheme/small-scale-renewable-energy-systems/solar-batteries",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Clean Energy Regulator: STC entitlements",
+      "url": "https://cer.gov.au/schemes/renewable-energy-target/small-scale-renewable-energy-scheme/small-scale-technology-certificates/calculate-small-scale-technology-certificate-entitlements",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Australian Government Solar Consumer Guide: solar panels",
+      "url": "https://www.energy.gov.au/solar/get-know-solar-technology/solar-panels",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Nectr standing offer single rate, NTR1061457SRE1",
+      "url": "https://nectr.com.au/plan_pdfs/NTR1061457SRE.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Nectr standing offer TOU, NTR1061461SRE1",
+      "url": "https://nectr.com.au/plan_pdfs/NTR1061461SRE.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Nectr Solar Sharer, NTR1061465SRE1",
+      "url": "https://nectr.com.au/plan_pdfs/NTR1061465SRE.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Energex dynamic connections for installers",
+      "url": "https://www.energex.com.au/our-services/connections/residential-and-commercial-connections/solar-connections-and-other-technologies/dynamic-connections-for-energy-exports/dynamic-connections-for-installers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Queensland Supercharged Solar for Renters",
+      "url": "https://www.business.qld.gov.au/industries/mining-energy-water/energy/renewable/supercharged-solar-for-renters",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Solar Consumer Guide: warranties",
+      "url": "https://www.energy.gov.au/solar/get-know-solar-technology/warranties-and-insurance",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Queensland Battery Booster retailer factsheet",
+      "url": "https://www.energyandclimate.qld.gov.au/__data/assets/pdf_file/0026/52964/retailer-fact-sheet-battery-booster.pdf",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Queensland Budget 2020–21",
+      "url": "https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/redirect/docs/2020/5720T301.pdf",
+      "accessDate": "unknown"
+    }
+  ],
+  "headlineFigures": {
+    "solar_66_net_cost": {
+      "label": "6.6kW net installed scenario budget, not a quote",
+      "value": 6600,
+      "unit": "AUD",
+      "display": "$6,600"
+    },
+    "solar_66_first_year_gross_saving": {
+      "label": "First full operating-year bill reduction at assumed flat tariff, no EV",
+      "value": 1143,
+      "unit": "AUD_per_year",
+      "display": "$1,143"
+    },
+    "solar_66_simple_payback": {
+      "label": "First-year static payback after maintenance, not degradation-adjusted break-even",
+      "value": 6.3,
+      "unit": "years",
+      "display": "6.3"
+    },
+    "battery_incremental_cost": {
+      "label": "Net incremental installed battery scenario cost including inverter work",
+      "value": 9000,
+      "unit": "AUD",
+      "display": "$9,000"
+    },
+    "battery_incremental_first_year_saving": {
+      "label": "Incremental bill reduction beyond solar alone at assumed flat tariff",
+      "value": 758,
+      "unit": "AUD_per_year",
+      "display": "$758"
+    },
+    "battery_incremental_simple_payback": {
+      "label": "Incremental battery simple payback before degradation",
+      "value": 11.9,
+      "unit": "years",
+      "display": "11.9"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read complete retained HTML and all 2,079 lines of sources.md, both research files and verification records. Inspected all five workbook sheets read-only with formulas and caches; all 1,699 formulas and cached numeric values matched the full source ledger. No save or engine recalculation.",
+    "originalResearchAccessLimitations": "Original public research used existing DeTars managed detars, research and search-plain browser paths for some fetches/searches; guaranteed-clean session condition was not met. Retained disclosure reports no personal sign-in import, cached third-party credential use, account activity, forms or external contact. Original final HTML browser tests used separate zero-cookie contexts. Those are original-run observations, not new browser tests.",
+    "supersededDrafts": "sources.md director verification at lines 316–317 and verification.md supersede the tariff draft: all three Nectr BPIDs and Energex limits were verified in the retained run; state closure-document gaps remained unresolved."
+  },
+  "datePolicy": "Dates are retained source-specific Brisbane dates, not refreshed at authoring. S1–S16 explicitly record November 7, 2026 access; historical S17–S18 lack a completed source access date and are unknown, with failed retrieval disclosed. Undated publications remain undated. UTC research timestamps on November 6 do not change the Brisbane November 7 source date.",
+  "uncertainties": [
+    "Three exact tariffs are one retailer's restricted existing-customer offers, not an eligible new-customer shopping shortlist. Household postcode, NMI, meter and network tariff eligibility are unknown. Prices vary; no legacy 44c entitlement assumed.",
+    "27c import, $1.18/day supply and 4c feed-in calibrate the bill; they are assumptions, not a verified offer. Illustrative TOU 45/28/20c rates are not Nectr rates. Compare final bills, not only larger savings. Solar Sharer extracted timezone unspecified.",
+    "Published prices are dated advertisements, national indexes or estimates, not site-specific quotes. No exact Solar Choice 6.6kW index, Brisbane 13kWh average, filtered Brisbane SolarQuotes 10kW series or four like-for-like installer quotes. Net discounts must not be deducted twice.",
+    "SolarQuotes equipment/installed inconsistency; iDeal panel arithmetic, identity and hybrid-compatibility gaps; Solargain small-bundle installation/GST/rebate/expiry basis incomplete. Sizes outside target remain labelled.",
+    "No verified open owner-occupier Queensland grant or state interest-free loan counted. Historical Battery Booster/loan closure documents not retrieved; no exact closure dates claimed. Rental rebate is for eligible rented properties, not owner occupation.",
+    "Federal eligibility and installation-date factors require confirmation for the actual battery and premises. STC price/agent fees vary; future expansion may lose subsidy. VPP capability does not mandate joining.",
+    "Annual energy matching is approximate: no interval, clipping, seasonal mismatch, backup reserve, standby, outage or power-limit simulation. Solar-only battery charging; no VPP/grid-arbitrage cash revenue. Supply charges remain.",
+    "First-year static simple payback differs from degradation-adjusted elapsed break-even. Ten-year model holds nominal tariffs/costs constant; no finance, inflation, replacement or terminal value. Maintenance provision is $100/year for solar-only and combined.",
+    "Wait assumes unchanged net 2028 price, not unchanged subsidy or a forecast. Future multiplier must include market and STC changes. EV assumes daytime availability; no petrol savings or charger cost credited.",
+    "Energex normal/export maximum figures are not a property-specific connection guarantee. Installer, product, licence, roof, warranty and complete scope checks remain separate.",
+    "Workbook is unchanged. Current task compared retained formulas/caches read-only and did not rerun the original calculation engine or browser tests. Static guide will not update after workbook edits."
+  ],
+  "editingContract": "English-only assigned new guide and semantic record, plus optional scoped notes. Original-stage2-relative links retained for builder rebasing. No shared inventory, renderer, README, existing pages or source-run edits; no build, external research, contact or publication. No ratings or review schema.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A northside Brisbane owner-occupier family of four comparing solar and a battery against an approximately AUD 2,600 annual bill, with a possible EV in 2028.",
+  "localeReason": "English only: the decision depends on a specific Brisbane household, Australian tariff and program eligibility. No distinct Chinese-speaking audience was established; no Chinese version is claimed.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,35 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "8e1ae0cd6bcf4b7323553b07f38cf66e20349e0e7a4bcf31e8910c783ed00a87",
+  "sourceListLink": "../w7-bali-wedding-60-guests-australians/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "adbc94dd78e887fb7b5031e749041d10c202e64050fd87fc404d492f66b4cf86",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-bali-wedding-60-guests-australians/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "fe1d2eb9cd12d01f9ca9f4eae4b2029341e3547069384b797e2fc5e011aa22a2",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-bali-wedding-60-guests-australians/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}

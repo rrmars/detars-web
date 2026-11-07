@@ -1,0 +1,24 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "546eb0a95e25624f225632379dfccc1d4f334a2ab30301fe620e39a0c73dcfc7",
+  "sourceListLink": "../w7-brisbane-solar-battery-payback/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "90bb7ef42faf95e1517ae397fce9d46bc46cdbd277ef5971a91884808cff5bd7",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-brisbane-solar-battery-payback/brisbane-model.xlsx",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

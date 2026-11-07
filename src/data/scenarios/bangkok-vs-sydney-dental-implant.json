@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "slug": "bangkok-vs-sydney-dental-implant",
+  "translationKey": "bangkok-vs-sydney-dental-implant",
+  "sources": [
+    {
+      "title": "BIDC — implant fee table",
+      "url": "https://bangkokdentalcenter.com/fees/dental-implant-fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIDH — main dental fees",
+      "url": "https://dentalhospitalthailand.com/dental-prices/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIDH — implant clinic and inclusions",
+      "url": "https://dentalhospitalthailand.com/bangkok-international-dental-hospital/dental-implant-clinic/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Thantakit — 2026 implant prices",
+      "url": "https://www.thantakit.com/what-are-dental-implants-cost-in-bangkok-thailand/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bangkok Smile — published promotions",
+      "url": "https://www.bangkoksmiledental.com/prices.php?procedure=promotion",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "North Sydney Dentistry — complete implant price guide",
+      "url": "https://www.northsydneydentistry.com.au/how-much-are-dental-implants/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Brighter Smile Dental, Maroubra — cost guide",
+      "url": "https://www.brightersmiledental.com.au/blog/dental-implants-cost-sydney",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Reserve Bank of Australia — exchange rates",
+      "url": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Healthdirect Australia — dental implant",
+      "url": "https://www.healthdirect.gov.au/procedures/dental-procedures-and-appliances/dental-implant",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Leeds Teaching Hospitals NHS — dental implants",
+      "url": "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Cambridge University Hospitals NHS — insertion of implants",
+      "url": "https://www.cuh.nhs.uk/patient-information/insertion-of-dental-implants/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Australian Dental Association — overseas dental holidays",
+      "url": "https://teeth.org.au/overseas-dental-holidays",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DFAT Smartraveller — medical tourism",
+      "url": "https://www.smartraveller.gov.au/travel-essentials/travel-health/medical-tourism",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bupa — understanding extras",
+      "url": "https://www.bupa.com.au/health-insurance/understanding-your-health-cover/understanding-your-extras-cover",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIDC — written local warranty",
+      "url": "https://bangkokdentalcenter.com/fees/dental-warranty/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIDH — written local warranty",
+      "url": "https://dentalhospitalthailand.com/dental-prices/dental-warranty/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Thantakit — Premium Care Warranty",
+      "url": "https://www.thantakit.com/dental-work-warranty/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BIDH — single implant crown process",
+      "url": "https://dentalhospitalthailand.com/dental-services/dental-implants/implant-crown/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "sydney_before_rebate": {
+      "label": "Local quote plus unquoted extras allowance, before fund benefit",
+      "value": 6800,
+      "unit": "AUD_cash",
+      "display": "AUD 6,800"
+    },
+    "bangkok_two_trip_low": {
+      "label": "Lower-brand conventional two-trip cash; unquoted travel, no graft or complication",
+      "value": 7991,
+      "unit": "AUD_cash",
+      "display": "7,991"
+    },
+    "sydney_example_net": {
+      "label": "Local cash after illustrative, unconfirmed benefit",
+      "value": 5800,
+      "unit": "AUD_cash",
+      "display": "5,800"
+    },
+    "separate_accessible_reserve": {
+      "label": "Accessible reserve outside baseline, not a worst-case cap",
+      "value": 1500,
+      "unit": "AUD_reserve",
+      "display": "AUD 1,500"
+    },
+    "personal_savings_threshold": {
+      "label": "Judgment threshold for verified net savings, not a medical rule",
+      "value": 2000,
+      "unit": "AUD_cash_savings",
+      "display": "AUD 2,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Full retained HTML, full sources.md, calculations.json, verification.md and all five retained text evidence files read locally. No external research or source refresh. Arithmetic recomputed read-only for this authoring task; no build.",
+    "originalResearchAccessLimitations": "An airline fetch silently fell back to the managed browser after HTTP403 and fare text was discarded. Search fallback reported managed-request and ordinary-Chrome accessibility routes with unestablished clean-session status. Subsequent isolated-browser airline check returned maintenance. Do not certify all original research as clean-session browsing. No clinic forms/contact, accounts, intentional personal sign-in or cached third-party credential calls claimed.",
+    "retainedEvidenceClarifications": "The retained Healthdirect text establishes February 2025 review despite the source register saying unknown. Bangkok Smile retained text includes a 31 January 2027 completion banner, but single-implant applicability remains unconfirmed. Neither change establishes March availability; original files untouched."
+  },
+  "datePolicy": "All eighteen cited source access dates are 2026-11-07, as explicitly retained in the register (Sydney date). RBA observation is 2026-11-06. Copy authoring is not a refresh; undated pages remain undated and original run model/publication date remain unknown.",
+  "uncertainties": [
+    "Recommendation: stay in Sydney and get a second itemised quote. Published local band is clinic advertising, not an ADA survey or population average; the existing quote is not automatically unreasonable.",
+    "No Bangkok March 2027 or later-stage price confirmed. BIDC/BIDH package expiry 30 November 2026; Thantakit September 2026 review is not forward validity. Bangkok Smile offer expiry/component inclusion uncertain despite general January 2027 banner.",
+    "Only BIDH/Thantakit expressly include fixture, abutment and final crown. BIDC/Smile need written confirmation. Model uses different undiscounted Thantakit systems, not identical-product low/high bounds.",
+    "Travel, dental extras, payment uplift and time-off inputs are allowances, not quotes or leave prescriptions. No companion, graft or complication assumed. Suitable insurance premium, visa costs, extra trips, major repairs and routine maintenance excluded. Sydney housing continues.",
+    "Short-trip case is counterfactual, not clinically established or confirmed commercially at model prices. Long-stay duration is not a clinical guarantee. Bone/gum/health, lower-jaw nerve and current imaging need assessment; no personal failure probability inferred.",
+    "Australian fund/product unknown. Local AUD 1000 benefit is illustrative; overseas extras assumed zero unless written approval. Annual limits are not benefits and deposit/claim date does not establish another benefit year.",
+    "Written local warranties do not reimburse travel or overseas repairs and conditions apply. Bangkok Smile single-tooth warranty unconfirmed; Thantakit zirconia fixture coverage unconfirmed. Urgent local care must not be delayed for warranty.",
+    "Sydney takeover/component availability and split-country treatment need prior agreement and separate pricing. Accessible AUD 1500 reserve is separate, not a cap; AUD 2000 savings hurdle is judgment, not a medical threshold.",
+    "Original sources have research-session clean-browser limitations; no fresh prices, clinical diagnosis, clinic ranking or quality certification provided."
+  ],
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "A 52-year-old Sydney resident with one already-extracted lower molar, an AUD 6,500 local quote and possible March 2027 Bangkok travel; useful also to Chinese-speaking Sydney residents comparing overseas care.",
+    "zh": "住在悉尼、52 岁、下磨牙已拔除、本地报价 AUD 6,500、考虑 2027年3月去曼谷治疗的居民；同样帮助悉尼华语居民比较海外牙科方案。"
+  },
+  "localeReason": "English and Simplified Chinese are useful to Chinese-speaking Sydney residents comparing overseas treatment. Translation preserves the Australian/Sydney resident profile, Australian health-fund assumptions and original clinical scenario; it does not imply a different nationality or insurance eligibility.",
+  "editingContract": "Only assigned English and Simplified Chinese Markdown, semantic JSON and optional slug-specific notes are authored. Original stage2 relative links retained for builder rebasing. No shared inventory/script/README/existing-page/run-file edits, external lookup or build.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

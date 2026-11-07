@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 2,
+  "slug": "lagos-analyst-mba-abroad-vs-online",
+  "translationKey": "lagos-analyst-mba-abroad-vs-online",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "A 30-year-old Nigerian bank credit analyst in Lagos with six years of experience, NGN 14 million annual gross earnings and planned US$25,000 savings, comparing overseas and online MBAs for 2027.",
+  "localeReason": "English only: this is a specific Lagos/Nigerian analyst funding and admissions profile; no distinct Chinese-speaking audience was established. No Chinese file or eligibility adaptation is implied.",
+  "sources": [
+    {
+      "title": "Birmingham MBA — 2027 tuition, admissions and international deadline",
+      "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/mba",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Birmingham MBA scholarships — September 2027",
+      "url": "https://www.birmingham.ac.uk/study/scholarships-funding/mba-scholarship",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sheffield MBA — 2027–28",
+      "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/mba-master-business-administration-mba",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sheffield official MBA fee endpoint — overseas 2027",
+      "url": "https://sheffield.ac.uk/api/course-fees/pgt/MGTT01/2027",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sheffield MBA application guidance",
+      "url": "https://sheffield.ac.uk/management/mba/how-apply",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sheffield university-wide postgraduate deadlines — September 2027",
+      "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sheffield MBA Scholarship Scheme — September 2027",
+      "url": "https://sheffield.ac.uk/funding/sheffield-mba-scholarship-scheme",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DeGroote standard Full-Time MBA — September 2027",
+      "url": "https://mbarecruit.degroote.mcmaster.ca/program/mba-programs/full-time-mba/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DeGroote finances — approximate 2027/2028 tuition and awards",
+      "url": "https://mbarecruit.degroote.mcmaster.ca/program/finances/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DeGroote admissions — Fall 2027 dates and discretionary waiver",
+      "url": "https://mbarecruit.degroote.mcmaster.ca/admissions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DeGroote admissions FAQ — competitive tests and English evidence",
+      "url": "https://mbarecruit.degroote.mcmaster.ca/admissions/frequently-asked-questions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DeGroote scholarship competition instructions — 2025 document, 2027 value unconfirmed",
+      "url": "https://mbarecruit.degroote.mcmaster.ca/wp-content/uploads/sites/109/2025/06/DeGroote-School-of-Business-Admission-Scholarship-Application-Instructions.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies tuition and costs — 2026/27 rates and scholarships",
+      "url": "https://giesonline.illinois.edu/tuition-costs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies student tuition — tuition and separate mandatory student fee",
+      "url": "https://onlinestudents.giesbusiness.illinois.edu/newly-admitted/tuition",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies iMBA overview — format and university accreditation statement",
+      "url": "https://giesonline.illinois.edu/explore-programs/online-mba",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies admissions — tests, deadlines and scholarship windows",
+      "url": "https://giesonline.illinois.edu/explore-programs/online-mba/admissions",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies FAQ — format, workload and nationality-inclusive Forté",
+      "url": "https://giesonline.illinois.edu/explore-programs/online-mba/faqs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies iMBA curriculum — cores and focus/elective choices",
+      "url": "https://giesonline.illinois.edu/explore-programs/online-mba/curriculum",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BU Online MBA admissions — Fall 2027 rounds and Fall 2026 price basis",
+      "url": "https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/admissions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BU Online MBA overview and FAQ — funding, format and career-service limits",
+      "url": "https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BU Online MBA Academics — workload, modules and credits",
+      "url": "https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/academics/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK Student visa — dated fee and application conditions",
+      "url": "https://www.gov.uk/student-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK IHS — student rate and permission-length rounding",
+      "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Birmingham living guide — undated 42-week basis, not a 2027 quote",
+      "url": "https://www.birmingham.ac.uk/study/student-experience/advice-support/money-advice/living-costs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Sheffield accommodation — 2026/27 rents priced February 2026",
+      "url": "https://sheffield.ac.uk/accommodation/rents",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "McMaster graduate fees — linked assessment sign-in-gated, 2027 exact fees unconfirmed",
+      "url": "https://registrar.mcmaster.ca/fees/graduate/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "McMaster UHIP — September 2026–August 2027 premiums",
+      "url": "https://studentsuccess.mcmaster.ca/international-students/health-insurance/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CBN NFEM — November 6, 2026 reference observation",
+      "url": "https://www.cbn.gov.ng/rates/exchratebycurrency.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bank of Canada — November 6, 2026 USD/CAD observation",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXUSDCAD/json?start_date=2026-11-06&end_date=2026-11-06",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bank of Canada — November 6, 2026 GBP/CAD observation",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXGBPCAD/json?start_date=2026-11-06&end_date=2026-11-06",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK Graduate visa — 18-month rule from January 2027",
+      "url": "https://www.gov.uk/graduate-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK Student financial evidence — outside-London maintenance",
+      "url": "https://www.gov.uk/student-visa/money",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC DLI list — McMaster including DeGroote",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC PGWP duration — qualifying master's rule",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC PGWP eligibility — language, study and physical presence",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC study financial support — living floor from September 2026",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC fees — study permit, biometrics and PGWP",
+      "url": "https://ircc.canada.ca/english/information/fees/fees.asp",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DeGroote career support — 2023/24 conferrals and separate 2025 industry mix",
+      "url": "https://mbarecruit.degroote.mcmaster.ca/program/career-support/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies online career impact — undated survey claims",
+      "url": "https://giesonline.illinois.edu/explore-programs/online-mba/career-impact",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Gies online career resources",
+      "url": "https://onlinestudents.giesbusiness.illinois.edu/student-resources/career-services",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BU Online MBA career impact — distinct survey cohorts",
+      "url": "https://www.bu.edu/questrom/graduate-programs/mba-programs/online-mba/careers/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AACSB Boston University institutional business accreditation",
+      "url": "https://www.aacsb.edu/accredited/b/boston-university",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "planned_savings": {
+      "label": "Supplied planned savings before protected personal reserve",
+      "value": 25000,
+      "unit": "USD",
+      "display": "US$25,000"
+    },
+    "protected_reserve": {
+      "label": "Illustrative untouched personal reserve, separate from budget contingency",
+      "value": 5000,
+      "unit": "USD",
+      "display": "US$5,000"
+    },
+    "bu_incremental_education_total": {
+      "label": "BU planning education cash at Fall 2026 tuition basis; Lagos household spending excluded",
+      "value": 31377.5,
+      "unit": "USD",
+      "display": "31,377.50"
+    },
+    "gies_incremental_education_total": {
+      "label": "Gies planning education cash at 2026/27 rates; Lagos household spending excluded",
+      "value": 32315.8,
+      "unit": "USD",
+      "display": "32,315.80"
+    },
+    "bu_no_award_reserve_gap": {
+      "label": "BU no-award additional funding gap after deploying US$20,000 and keeping reserve; rounded",
+      "value": 11378,
+      "unit": "USD_rounded",
+      "display": "11,378"
+    },
+    "gies_no_award_reserve_gap": {
+      "label": "Gies no-award additional funding gap after deploying US$20,000 and keeping reserve; rounded",
+      "value": 12316,
+      "unit": "USD_rounded",
+      "display": "12,316"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Retained final HTML parsed in full to readable text, sources.md read through all 776 lines, all three research appendices, model/calculations and final verification/arithmetic records read locally. No external research or refresh. UK manifest inspected for UTC/local dating.",
+    "originalResearchAccessLimitations": "Original research was public and unauthenticated. Early automatic browser-readability fallbacks did not expose session identities, so a clean session cannot be certified for those fallbacks. Crucial school sources were subsequently captured by unauthenticated HTTP. Controlled CBN/layout checks used fresh empty contexts. No login, personal credential import, form submission or school contact was intentionally performed. McMaster's linked fee schedule required sign-in and was not accessed.",
+    "publicationDates": "Unknown except explicit price-year, award-cycle, document, policy and survey-cohort labels retained in prose. Access dates are not publication dates."
+  },
+  "datePolicy": "Every cited URL is individually assigned the retained local research/access date 2026-11-07 from the source register and appendices. UK capture manifest records 2026-11-06 UTC, corresponding to 2026-11-07 Asia/Singapore. FX observations are dated 2026-11-06, not the access date. Authoring is not an external source refresh; undated source publication dates, original model and publication date remain unknown.",
+  "uncertainties": [
+    "Specific Nigerian/Lagos applicant; degree classification/equivalence, management responsibilities, experience chronology, English evidence and employer recognition are not established by age or six years of work.",
+    "Online budgets are incremental education cash, not Lagos household totals. Preserving US$5,000 leaves no-award gaps of US$11,377.50 for BU and US$12,315.80 for Gies; monthly funding is 55–59% of current gross earnings before tax and living.",
+    "UK tuition is published for 2027; DeGroote 2027/2028 tuition is approximate. Gies 2026/27 and BU Fall 2026 prices do not lock a future multi-year total. Gies US$90 application row is an unconfirmed allowance, not a sourced tariff.",
+    "All nonofficial line items are planning allowances with a 10% contingency. No overseas work/internship earnings, scholarships or loan approvals assumed; no post-graduation job-search costs, optional trips, dependants, FX spreads or payment taxes/charges included. Personal reserve is separate. Tuition-credit deposits and proof funds are not double-counted.",
+    "UK living guides do not establish a full 2027 year; Birmingham's 42-week guide has an inconsistent catered total. Sheffield examples are 2026/27 rent only. IHS depends on actual permission dates.",
+    "Canada ancillary/insurance assessment is unconfirmed and C$6,000 is not a cap. UHIP is 2026/27 only; MBA supplementary cover is separate. Standard DeGroote route is 20 months, not co-op or 24 months; actual 2027 teaching location must be confirmed before housing.",
+    "Awards are conditional, tuition-focused and not assumed to stack. Sheffield excludes exceptions entrants and requires self-funding; Birmingham funding days unknown. DeGroote FAQ lower bound differs from newer finance page; competition value is from 2025, 2027 terms unconfirmed; Forté gender/amount unconfirmed. Gies–Coursera Nigerian eligibility and exact autumn 2027 funding/applications remain unconfirmed; BU offers no institutional Online MBA scholarship.",
+    "Birmingham international deadline can close early; Sheffield visa date is university-wide. DeGroote final international is March 14, 2027, not May 31. January online standard deadlines and Gies Spring scholarship-priority date have passed as of the retained reference day.",
+    "Optional GMAT/GRE is not the same as DeGroote's discretionary grade-based waiver. English admissions waivers are personal and do not waive PGWP language evidence. Online live sessions/team assignments may conflict with bank work; longer completion adds costs.",
+    "No Nigeria-specific salary ROI or job probability established. UK cohort employment/median evidence unavailable; DeGroote salary coverage is limited and mixes no 2025 finance salary cohort; BU salary lacks mean/median and sample details; Gies survey dates/sample unavailable. Career services differ from residential placement and AACSB does not guarantee employer recognition.",
+    "No lender quote; hard-currency loan stress assumes 12% APR and 10 years, excludes fees/capitalised study interest. Dated official FX references are not execution quotes; USD holdings do not remove GBP/CAD cross-rate risk. Forgone gross earnings are separate opportunity costs, not added cash charges.",
+    "Immigration is dated general information, not legal/immigration advice. UK 18-month Graduate and potential Canada three-year PGWP require all personal/course conditions; neither guarantees work or residence. Online US study from Lagos creates neither UK Graduate nor Canadian PGWP eligibility. Maintenance floors and fees require future rechecking."
+  ],
+  "editingContract": "Only assigned English Markdown, matching semantic JSON and optional assigned check notes authored. No Chinese page, ratings, Review/AggregateRating, external research, build, shared inventory/script/README edits, source-run changes, publication or contact. Links use original stage2-relative destinations for parent rebasing.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

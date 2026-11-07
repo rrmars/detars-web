@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 2,
+  "slug": "uk-video-editing-laptop-under-1500",
+  "translationKey": "uk-video-editing-laptop-under-1500",
+  "sources": [
+    {
+      "title": "John Lewis — MacBook Air M5 MDH74B/A",
+      "url": "https://www.johnlewis.com/2026-apple-macbook-air-13-6-inch-m5-processor-16gb-ram-512gb-ssd/silver/p115096196",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple UK — 70W power adapter",
+      "url": "https://www.apple.com/uk/shop/product/mkfp4b/a/70w-power-adapter",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "E-catalog — Crucial X9 indexed comparison; provisional offer",
+      "url": "https://e-catalog.co.uk/CRUCIAL-X9.htm",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Overclockers — X9 retailer destination; offer confirmation failed",
+      "url": "https://www.overclockers.co.uk/crucial-2tb-x9-portable-solid-state-drive-sto-cru-01100.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Amazon UK — X9 package; indexed offer only, retailer verification page",
+      "url": "https://www.amazon.co.uk/dp/B0CGW18S6Y",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple UK — standard Air baseline",
+      "url": "https://www.apple.com/uk/shop/buy-mac/macbook-air",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple UK — education Air baseline; eligibility not established",
+      "url": "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Currys — Legion 10280202; indexed offer, live page blocked",
+      "url": "https://www.currys.co.uk/products/lenovo-legion-5-15-gaming-laptop-intel-core-i7-rtx-5060-1-tb-ssd-10280202.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ASUS UK — TUF family listing; exact variant-price match unconfirmed",
+      "url": "https://www.asus.com/uk/laptops/for-gaming/tuf-gaming/filter?Series=TUF-Gaming&Spec=4036",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "ASUS UK — A14 FA401KM specifications",
+      "url": "https://www.asus.com/uk/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a14-2025/techspec/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Currys — indexed Nitro price and retailer-stated former-price interval",
+      "url": "https://www.currys.co.uk/gaming/pc-gaming/gaming-laptops",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Apple UK — Air M5 specifications",
+      "url": "https://www.apple.com/uk/macbook-air/specs/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "John Lewis — unavailable M4 Air",
+      "url": "https://www.johnlewis.com/2025-apple-macbook-air-13-6-inch-m4-processor-16gb-ram-512gb-ssd/sky-blue/p113473414",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "John Lewis — over-budget LOQ",
+      "url": "https://www.johnlewis.com/lenovo-loq-83jg00dbuk-gaming-laptop-amd-ryzen-7-processor-24gb-ram-1tb-ssd-rtx-5060-15-6-full-hd-luna-grey/p115353084",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "John Lewis — unavailable Samsung T7 Shield 2TB",
+      "url": "https://www.johnlewis.com/samsung-t7-shield-usb-3-2-gen-2-portable-ssd-hard-drive-2tb/black/p109808746",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Adobe — Premiere hardware decoding; updated January 7, 2026",
+      "url": "https://helpx.adobe.com/premiere/desktop/get-started/technical-requirements/hardware-accelerated-decoding-and-encoding.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Blackmagic — Resolve 21.1 supported codecs, September 2026",
+      "url": "https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_21_Supported_Codec_List.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Intel — Media Capabilities v1.1, March 2023",
+      "url": "https://cdrdv2-public.intel.com/773553/onevpl_developer-reference-media-intel-hardware_1.1-772607-773553.pdf",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NVIDIA — video decode support matrix",
+      "url": "https://developer.nvidia.com/video-encode-decode-support-matrix",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "NVIDIA — Blackwell SDK 13 announcement, February 24, 2025",
+      "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-0-powered-by-nvidia-blackwell/",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Blackmagic — Resolve product page and Free UHD output limit",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Notebookcheck — M5 Air entry review; March 7, updated October 5, 2026",
+      "url": "https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html",
+      "accessDate": "2026-11-06"
+    },
+    {
+      "title": "Expert Reviews — A14 review, July 1, 2025",
+      "url": "https://www.expertreviews.co.uk/technology/laptops/asus-tuf-gaming-a14-2025-review",
+      "accessDate": "2026-11-06"
+    }
+  ],
+  "headlineFigures": {
+    "purchase_ceiling": {
+      "label": "All-in UK purchase ceiling",
+      "value": 1500,
+      "unit": "GBP",
+      "display": "£1,500"
+    },
+    "air_dated_laptop_offer": {
+      "label": "John Lewis Air M5 price directly checked November 6, 2026; not a January quote",
+      "value": 1199,
+      "unit": "GBP",
+      "display": "£1,199"
+    },
+    "air_conditional_basket": {
+      "label": "Air plus adapter and unconfirmed SSD price, shipping unresolved",
+      "value": 1457.99,
+      "unit": "GBP_conditional_total",
+      "display": "£1,457.99"
+    },
+    "ssd_provisional_price": {
+      "label": "Indexed X9 2TB price; retailer seller, stock, delivery and final price unconfirmed",
+      "value": 199.99,
+      "unit": "GBP_unconfirmed",
+      "display": "£199.99"
+    },
+    "legion_conditional_total": {
+      "label": "Unconfirmed Legion offer plus unconfirmed SSD, excluding unresolved extras",
+      "value": 1498.99,
+      "unit": "GBP_conditional_total",
+      "display": "£1,498.99"
+    },
+    "legion_conditional_headroom": {
+      "label": "Legion conditional headroom before charger, reader or shipping checks",
+      "value": 1.01,
+      "unit": "GBP",
+      "display": "£1.01"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-06"
+    ],
+    "originalVerificationDate": "2026-11-06",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "This guide uses the full retained run HTML, dated source ledger and verification JSON only. No external research, price refresh, browser interaction or benchmark rerun during authoring.",
+    "originalResearchAccessLimitations": "The original clean-browser constraint was not fully maintained: early host-tool fetch failures used the existing managed browser; search fallback receipts included managed/research and ordinary-Chrome lanes without established clean-session status. Failed fallback pages were not product evidence. No account was intentionally opened, authenticated or inspected; no stored credentials were requested or extracted; no purchase, basket action or contact was performed. Later direct requests used no Cookie/Authorization headers or credential materialisation; later review reading and visual checks used fresh non-persistent Chrome contexts without importing sign-ins.",
+    "publicationDates": "Retailer/manufacturer offer pages generally undated. Review, guidance and document dates are retained separately in prose; access dates do not establish publication or offer-update dates."
+  },
+  "datePolicy": "Every cited source has retained access/index observation date 2026-11-06 per the source ledger, including failed retailer offer confirmation. Those dates do not imply successful direct access for indexed/blocked pages. Authoring on 2026-11-07 does not refresh facts. January 2027 prices and availability remain unknown.",
+  "uncertainties": [
+    "One exact laptop offer directly checked, three Windows watch-list candidates only. John Lewis stock indication did not include Bristol postcode checkout or reservation.",
+    "Legion £1,299 conflicts with indexed category £1,499; live price, stock, sale dates, charger, delivered price, panel measurements, GPU power, upgrade topology, ports, weight, battery and noise remain unconfirmed.",
+    "A14 £1,249.99 family starting price is not confirmed for FA401KM RTX 5060. Stock and regional adapter inclusion unresolved; 16GB is soldered. UK GPU specification 105W differs from review 110W.",
+    "Nitro £1,099 live offer and NH.U3PEK.00M consumer-SKU linkage unconfirmed; panel accuracy, travel specifications and measured noise incomplete. Price-history dates are retailer statements, not independently tracked lows.",
+    "X9 £199.99 is provisional indexed evidence, not a confirmed retailer delivered offer. Air £1,457.99 and Legion £1,498.99 totals remain conditional; reader £20 is an allowance. No Studio licence or RAM upgrade budgeted.",
+    "Apple generic HEVC engine and Adobe Premiere guidance do not establish M5 Resolve Sony 4:2:2 performance. Exact clips, installed edition, proxies, grade, export and relinking need testing.",
+    "Windows Free edition codec restrictions are separate from GPU processing. RTX 50 architecture evidence does not certify every 5050/5060 laptop/application path. Studio does not repair missing hardware profiles.",
+    "Resolve Free output assumption is UHD 3840×2160 at up to 60fps with actual preset test; not DCI 4096-wide, higher frame rate or every codec. Codec PDF has a broad >=4K Studio-only encoding footnote.",
+    "Review measurements are individual samples; no comparable same-version PugetBench Resolve or native Sony timeline FPS dataset. Browsing/video battery tests are not editing runtimes; no invented noise dBA or HDR certification.",
+    "January discounts, SKU continuity, final seller, UK keyboard, warranty, return terms and delivery unconfirmed. Education eligibility not established by age or freelance status. External working SSD is not a backup."
+  ],
+  "editingContract": "New English Markdown and matching schema-v2 record only, with optional assigned self-review note. No Chinese audience established. No shared files, source-run files or existing pages edited; no build, external research, purchase or publication. Body external URL registry has exact set coverage; source hashes checked read-only.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Bristol freelance videographer planning a January 2027 UK laptop purchase within £1,500, using Resolve Free with Sony footage and travelling between shoots.",
+  "localeReason": "English only: the retained scenario is a Bristol videographer with specific UK purchase conditions; no distinct Chinese-speaking audience is established.",
+  "domain": "buying",
+  "researchDates": [
+    "2026-11-06"
+  ],
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "sourceListLink": "#sources-and-access-dates"
+}

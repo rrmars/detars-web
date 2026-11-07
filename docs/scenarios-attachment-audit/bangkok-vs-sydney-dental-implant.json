@@ -1,0 +1,43 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "8868725f505a3b9d812a9c10fce9a1a358bde994ae4d3162029fe623fc2a4382",
+  "sourceListLink": "../w7-bangkok-vs-sydney-dental-implant/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "1ab14a24dda3b0fc53f8702fa73b9dc091040c330b56aae4f7ed6372737c0d45",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-bangkok-vs-sydney-dental-implant/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-bangkok-vs-sydney-dental-implant/calculations.json",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    },
+    "zh": {
+      "sourceMarkdownSha256": "aaa6ad690baae43e212a3e672e9ef29ecf443dadb1532af5eed82d0caedbc399",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-bangkok-vs-sydney-dental-implant/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-bangkok-vs-sydney-dental-implant/calculations.json",
+          "disposition": "rewritten-unavailable"
+        }
+      ]
+    }
+  }
+}

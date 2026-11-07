@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "cb338e1b9eac6dfa845f6ff4fa913209a0aceaa3de826f5adbbfaa6933adfa9e",
+  "sourceListLink": "../w7-uk-video-editing-laptop-1500/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "a71adac8e0e4b5ac757cab3c0a8f6779a4a00419452348351de175f037826d8b",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "c023e0c764c6dcba41d6125c8d5dd7a61221372e808561d16f6fc6e19e7e627c",
+  "sourceListLink": "../w7-nigeria-analyst-mba-options/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b81eb920c342b9656f508dec4ca0651385c5c95e50bbaf63d3e26d620e8621be",
+      "faqPairs": 0,
+      "links": [
+        {
+          "target": "../w7-nigeria-analyst-mba-options/index.html",
+          "disposition": "rewritten-unavailable"
+        },
+        {
+          "target": "../w7-nigeria-analyst-mba-options/sources.md",
+          "disposition": "expanded-sources"
+        }
+      ]
+    }
+  }
+}
