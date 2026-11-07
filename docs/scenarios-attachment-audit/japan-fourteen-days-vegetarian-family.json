@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "5ddb20448029e38cf358842ee69507d0ed6452513ba12a8f95d0803dc13b8258",
+  "sourceListLink": "../w7-japan-14-day-vegetarian-family-mumbai/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "de151a361523512f331c504cd77248514b89312733b5353e01893934b10e489a",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "18969275eb48553a1331edb0182edeb30e8134eb2f30c46a83cbb2e7f83b2eb2",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

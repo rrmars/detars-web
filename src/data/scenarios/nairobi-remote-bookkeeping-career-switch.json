@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 2,
+  "slug": "nairobi-remote-bookkeeping-career-switch",
+  "translationKey": "nairobi-remote-bookkeeping-career-switch",
+  "sources": [
+    {
+      "title": "Intuit's global certification route — C1",
+      "url": "https://quickbooks.intuit.com/global/accountants-software/events/certification/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Intuit FAQ — C2",
+      "url": "https://talenteq.intuit.com/QBL_General_QA",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US-only Academy route — C3",
+      "url": "https://academy.app.intuit.com/home?albRedirect=true",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "global country selector — C4",
+      "url": "https://quickbooks.intuit.com/global/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US recertification guidance — C5",
+      "url": "https://quickbooks.intuit.com/accountants/training-certification/certification/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "level-by-level training guidance — X1",
+      "url": "https://central.xero.com/0/article/Become-Xero-advisor-certified",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "certification and renewal page — X2",
+      "url": "https://www.xero.com/uk/certifications/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pearson VUE's Intuit page — O1",
+      "url": "https://www.pearsonvue.com/us/en/intuit.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US Full-Charge Bookkeeper — R1",
+      "url": "https://www.onlinejobs.ph/jobseekers/job/full-charge-bookkeeper-1759927",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK Finance Assistant / Bookkeeper — R2",
+      "url": "https://www.onlinejobs.ph/jobseekers/job/finance-assistant-bookkeeper-1341084",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "UK Bookkeeper / Accounts Assistant — R3",
+      "url": "https://www.onlinejobs.ph/jobseekers/job/bookkeeper-accounts-assistant-remote-1743036",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US “Bookkeeper for Business” on Upwork — R4",
+      "url": "https://www.upwork.com/freelance-jobs/apply/Bookkeeper-for-Business_~022108261670840338683/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OnlineJobs.ph's own platform explanation — G1",
+      "url": "https://blog.onlinejobs.ph/we-are-not-upwork/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Wise's holding-residency list — W1",
+      "url": "https://wise.com/help/articles/2813542/where-do-i-need-to-live-to-hold-money-with-wise",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "US→Kenya examples — W2",
+      "url": "https://wise.com/us/send-money/send-money-to-kenya",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KES transfer guide — W3",
+      "url": "https://wise.com/help/articles/2932362/guide-to-kes-transfers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "pricing — P1",
+      "url": "https://www.payoneer.com/pricing/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "receiving-account FAQ — P3",
+      "url": "https://payoneer.custhelp.com/app/answers/detail/a_id/18786/~/receiving-accounts---faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "annual-account-fee conditions — P4",
+      "url": "https://payoneer.custhelp.com/app/answers/detail/a_id/43738/~/annual-account-fee",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "tariff landing page — B2",
+      "url": "https://ncbagroup.com/ke/tariffs-fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KRA source-of-income FAQ — T1",
+      "url": "https://www.kra.go.ke/component/kra_faq/faq/309",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "income-tax explanation — T1",
+      "url": "https://www.kra.go.ke/individual/filing-paying/types-of-taxes/individual-income-tax/473-what-is-income-tax",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KRA's individual income-tax page — T2",
+      "url": "https://www.kra.go.ke/individual/filing-paying/types-of-taxes/individual-income-tax",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KRA turnover-tax brochure — T3",
+      "url": "https://www.kra.go.ke/images/publications/Everything-About-Turnover-Tax.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HTML page's older date wording — T3",
+      "url": "https://www.kra.go.ke/individual/filing-paying/types-of-taxes/turnover-tax-tot",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KRA VAT guidance — T4",
+      "url": "https://www.kra.go.ke/individual/filing-paying/types-of-taxes/value-added-tax",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VAT Regulations' overseas-use test — T4",
+      "url": "https://new.kenyalaw.org/akn/ke/act/ln/2017/54/eng%402022-12-31/source",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KRA's eTIMS page — T5",
+      "url": "https://www.kra.go.ke/component/kra_services/service/16",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "April 23, 2026 notice — T4",
+      "url": "https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "March 21, 2024 AHL notice — T6",
+      "url": "https://www.kra.go.ke/news-center/public-notices/2099-collection-of-the-affordable-housing-levy-by-kenya-revenue-authority",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BRS's FAQ — T7",
+      "url": "https://brs.go.ke/wp-content/uploads/2024/05/FAQs.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KRA's PIN guidance — T7",
+      "url": "https://www.kra.go.ke/individual/individual-pin-registration/learn-about-pin/about-pin",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ICPAK licensing — T8",
+      "url": "https://licenses.icpak.com/licenses",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KRA instalment guidance — T9",
+      "url": "https://www.kra.go.ke/individual/filing-paying/types-of-taxes/installment-tax",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Kenyan Data Protection Act — D1",
+      "url": "https://www.odpc.go.ke/wp-content/uploads/2024/02/Data-Protection-Act.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "registration regulations — D2",
+      "url": "https://www.odpc.go.ke/wp-content/uploads/2024/02/THE-DATA-PROTECTION-REGISTRATION-OF-DATA-CONTROLLERS-AND-DATA-PROCESSORS-REGULATIONS-2021.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ODPC FAQ — D3",
+      "url": "https://www.odpc.go.ke/faqs/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ICO international-transfer guidance — D4",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/a-guide-to-international-transfers/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IDTA or UK Addendum to EU SCCs — D5",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "transfer-risk assessment/data protection test — D5",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/a-guide-to-international-transfers/transfer-risk-assessments/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "appropriate safeguards — D5",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/a-guide-to-international-transfers/what-are-the-rules-on-international-transfers-of-personal-data/how-do-you-make-a-restricted-transfer-in-accordance-with-the-uk-gdpr/what-are-the-appropriate-safeguards/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Article 28 processor-contract guidance — D6",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/contracts-and-liabilities-between-controllers-and-processors-multi/what-needs-to-be-included-in-the-contract/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "W-8BEN — U2",
+      "url": "https://www.irs.gov/instructions/iw8ben",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sources personal-service income where the work is performed — U1",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/source-of-income-personal-service-income",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "starting_transition_savings": {
+      "label": "Starting savings before setup, not a verified personal bank balance",
+      "value": 250000,
+      "unit": "KES",
+      "display": "KES250,000"
+    },
+    "monthly_collection_exit_hurdle": {
+      "label": "Monthly collections required for three consecutive months; planning gate, not income forecast",
+      "value": 2200,
+      "unit": "USD",
+      "display": "US$2,200"
+    },
+    "unrestricted_six_month_exit_buffer": {
+      "label": "Six months living and business cash at assumed costs, excluding restricted tax funds",
+      "value": 510000,
+      "unit": "KES",
+      "display": "KES510,000"
+    },
+    "target_case_october_free_cash": {
+      "label": "October 2027 free cash under hypothetical ramp; not forecast",
+      "value": 1274500,
+      "unit": "KES",
+      "display": "KES1,274,500"
+    },
+    "immediate_zero_income_runway": {
+      "label": "Immediate resignation with no clients, after assumed setup",
+      "value": 2.59,
+      "unit": "months",
+      "display": "2.59 months"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Assigned index.html, sources.md, independent-check.md, model.json and full independent-arithmetic-results.json read locally. No external lookup or source refresh. Every cited external URL occurs verbatim in retained sources.md, whose blanket read date is November 7, 2026; per-source audit notes preserved. Batch28 example data/English Markdown, README and voice guide read for contract only.",
+    "originalResearchAccessLimitations": "Earlier automatic web_fetch fallbacks used a pre-existing detars managed browser profile, not certified fresh/empty. Affected original URLs are enumerated in sources.md. Later native public spot checks and fresh local layout contexts do not cure historical clean-session provenance. No localization browser/network use. Original no-contact/no-account statements are retained reports, not a replay of prior execution.",
+    "independentCheckDisposition": "Retained independent arithmetic result:270 comparisons, zero failures; final index hash matches sourceArtifacts. Independent source spot checks used public search excerpts only, not complete raw-body legal or monetary verification. January chronology mismatch resolved in director closing addendum: pilot only after compliance/readiness, otherwise defer receipts and recompute date. All seven unresolved issues remain open: clean sessions; bank fees; statutory/ICO body audit; sparse Kenya-accessible rates; individual account access; VAT current consolidation; personal tax/setup completeness.",
+    "layoutEvidenceLimit": "Independent-check narrative reports final director desktop/mobile local layout checks, not new-page rendering. No layout-evidence.json or screenshots inspected for localization and no new-page visual certification claimed."
+  },
+  "datePolicy": "Original ledger expressly dates every listed source read November 7, 2026. Publication/effective dates differ and are not invented from URLs. Editing does not refresh access dates. Recheck applicable 2027 law, rates, platform eligibility and quotes before action.",
+  "planningAssumptions": {
+    "profile": "Wanjiru,29,CPA(K),Nairobi; salary KES120,000/month gross/net unspecified; starting savings KES250,000; desired 2027 switch and twelve-month salary replacement.",
+    "earliestConditionalResignationDecision": "2027-11",
+    "notice": "Do not give irrevocable notice before every gate; contractual notice can delay actual exit. Stay employed and reset if conditions fail.",
+    "fxKESperUSD": 130,
+    "stressFxKESperUSD": 115,
+    "usableMonthlySalaryKES": 90000,
+    "monthlyLivingKES": 70000,
+    "monthlyBusinessKES": 15000,
+    "oneOffSetupKES": 30000,
+    "grossCollectionFeeReservePercent": 5,
+    "grossRestrictedTaxHealthReservePercent": 35,
+    "reserveStatus": "Scenario buffers, not assessed statutory rates or proof of adequacy. Tax/health reserve is never unrestricted resignation cash. Fees assumed spent. No interest, borrowing, salary rise or unpaid-invoice value.",
+    "quoteHypothesisUSDperHour": [
+      15,
+      25
+    ],
+    "quoteStatus": "Unconfirmed direct-client pricing test, not verified Kenya earnings; forty paid hours invoice USD600–1000 before fees/costs/tax.",
+    "retainerExample": "Four USD550 tightly capped simple-business retainers total USD2200, not a forecast.",
+    "exitGate": {
+      "minimumMonthlyCollectedUSD": 2200,
+      "consecutiveMonths": 3,
+      "minimumUnrelatedRepeatClients": 3,
+      "maximumLargestClientRevenuePercent": 40,
+      "recurringCommitmentDays": 90,
+      "minimumUnrestrictedBufferKES": 510000,
+      "bufferMonths": 6,
+      "additionalConditions": "Practice/firm authority, insurance, tax/health/eTIMS, lawful data transfers, employment/notice, benefits replacement and tested delivery capacity; no presumed VAT relief/Wise wallet."
+    },
+    "modelMonths": "November2026–October2027",
+    "collectionTargetsUSD": [
+      0,
+      0,
+      150,
+      300,
+      500,
+      700,
+      1000,
+      1300,
+      1600,
+      2200,
+      2400,
+      2600
+    ],
+    "monthlyFreeCashIdentity": "opening +90000 salary -70000 living -15000 business -setup + USDcollected*130*0.60",
+    "runwayRows": [
+      {
+        "month": "Nov 2026",
+        "usd": 0,
+        "gross_kes": 0,
+        "fee_reserve": 0,
+        "tax_health_reserve": 0,
+        "operating": 15000,
+        "setup": 30000,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": -25000,
+        "closing_kes": 225000,
+        "closing_usd": 1730.7692307692307,
+        "tax_health_cumulative": 0,
+        "action": "Confirm personal budget, employment restrictions and ICPAK status; ring-fence funds."
+      },
+      {
+        "month": "Dec 2026",
+        "usd": 0,
+        "gross_kes": 0,
+        "fee_reserve": 0,
+        "tax_health_reserve": 0,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 5000,
+        "closing_kes": 230000,
+        "closing_usd": 1769.2307692307693,
+        "tax_health_cumulative": 0,
+        "action": "QBO core training; synthetic sample bank reconciliation and month-end pack."
+      },
+      {
+        "month": "Jan 2027",
+        "usd": 150,
+        "gross_kes": 19500,
+        "fee_reserve": 975,
+        "tax_health_reserve": 6825,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 16700,
+        "closing_kes": 246700,
+        "closing_usd": 1897.6923076923076,
+        "tax_health_cumulative": 6825,
+        "action": "Complete Xero training and two synthetic portfolio cases; after compliance and readiness gates, begin targeted outreach and a small paid pilot only if ready. Otherwise defer this month’s illustrative receipts."
+      },
+      {
+        "month": "Feb 2027",
+        "usd": 300,
+        "gross_kes": 39000,
+        "fee_reserve": 1950,
+        "tax_health_reserve": 13650,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 28400,
+        "closing_kes": 275100,
+        "closing_usd": 2116.153846153846,
+        "tax_health_cumulative": 20475,
+        "action": "Expand targeted outreach after compliance; continue the bounded pilot and seek repeat work. If the January pilot was deferred, shift collections and recompute the exit date."
+      },
+      {
+        "month": "Mar 2027",
+        "usd": 500,
+        "gross_kes": 65000,
+        "fee_reserve": 3250,
+        "tax_health_reserve": 22750,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 44000,
+        "closing_kes": 319100,
+        "closing_usd": 2454.6153846153848,
+        "tax_health_cumulative": 43225,
+        "action": "Referrals and weekly pipeline review; measure actual time and collections."
+      },
+      {
+        "month": "Apr 2027",
+        "usd": 700,
+        "gross_kes": 91000,
+        "fee_reserve": 4550,
+        "tax_health_reserve": 31849.999999999996,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 59600,
+        "closing_kes": 378700,
+        "closing_usd": 2913.076923076923,
+        "tax_health_cumulative": 75075,
+        "action": "Convert pilot to monthly close retainer; document SOP and client access."
+      },
+      {
+        "month": "May 2027",
+        "usd": 1000,
+        "gross_kes": 130000,
+        "fee_reserve": 6500,
+        "tax_health_reserve": 45500,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 83000,
+        "closing_kes": 461700,
+        "closing_usd": 3551.5384615384614,
+        "tax_health_cumulative": 120575,
+        "action": "Seek second/third independent recurring client; review pricing and capacity."
+      },
+      {
+        "month": "Jun 2027",
+        "usd": 1300,
+        "gross_kes": 169000,
+        "fee_reserve": 8450,
+        "tax_health_reserve": 59149.99999999999,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 106400,
+        "closing_kes": 568100,
+        "closing_usd": 4370,
+        "tax_health_cumulative": 179725,
+        "action": "Cull low-margin work; quantify paid hours versus admin; check tax instalments."
+      },
+      {
+        "month": "Jul 2027",
+        "usd": 1600,
+        "gross_kes": 208000,
+        "fee_reserve": 10400,
+        "tax_health_reserve": 72800,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 129800,
+        "closing_kes": 697900,
+        "closing_usd": 5368.461538461538,
+        "tax_health_cumulative": 252525,
+        "action": "Test backup internet and absence cover; no exit based on one good month."
+      },
+      {
+        "month": "Aug 2027",
+        "usd": 2200,
+        "gross_kes": 286000,
+        "fee_reserve": 14300,
+        "tax_health_reserve": 100100,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 176600,
+        "closing_kes": 874500,
+        "closing_usd": 6726.923076923077,
+        "tax_health_cumulative": 352625,
+        "action": "First qualifying revenue month only if actually collected; verify client concentration."
+      },
+      {
+        "month": "Sep 2027",
+        "usd": 2400,
+        "gross_kes": 312000,
+        "fee_reserve": 15600,
+        "tax_health_reserve": 109200,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 192200,
+        "closing_kes": 1066700,
+        "closing_usd": 8205.384615384615,
+        "tax_health_cumulative": 461825,
+        "action": "Second qualifying month; review next-quarter recurring commitments and notice."
+      },
+      {
+        "month": "Oct 2027",
+        "usd": 2600,
+        "gross_kes": 338000,
+        "fee_reserve": 16900,
+        "tax_health_reserve": 118299.99999999999,
+        "operating": 15000,
+        "setup": 0,
+        "salary_cash": 90000,
+        "personal": 70000,
+        "free_increment": 207800,
+        "closing_kes": 1274500,
+        "closing_usd": 9803.846153846154,
+        "tax_health_cumulative": 580125,
+        "action": "Third qualifying month; recompute actual cash, tax, health and licensing costs."
+      }
+    ],
+    "targetCaseTotals": {
+      "grossUSD": 12750,
+      "grossKES": 1657500,
+      "feesKES": 82875,
+      "restrictedReserveBeforePaymentsKES": 580125,
+      "usableFreelanceRevenueKES": 994500,
+      "closingFreeKES": 1274500
+    },
+    "paymentModel": "USD1000 budget, fees deducted, fixed130KES/USD. Wise public USD fees11.35/13.41/17.79. Payoneer1% receipt plus assumed2% all-in withdrawal/FX; sensitivity1.2–4% not Kenya quote. SWIFT20USD transit,2%spread,KES750receipt wholly hypothetical. Excludes platform commission, tax, maintenance, unspecified receiving costs. Annual account fee allocation separate from card."
+  },
+  "uncertainties": [
+    "Historical clean-browser-session requirement not established for automatic fallbacks. Later local or search checks do not cure it; no overall source/compliance pass.",
+    "No real/current bank receiving fee, FX spread, sender/intermediary cost, account tax/maintenance or limits; NCBA candidate tariff unparseable and landing-page extraction incomplete. No cheapest route proved.",
+    "D1,D2,D4–D6 detailed statute/ICO response bodies not recoverable in prior audit; later ICO403. D3 ODPC FAQ retained but browser fallback not clean-certified. Transfers, breach rules, territorial applicability, registration purpose/category and exact bookkeeping role require primary-text/professional confirmation.",
+    "No Kenya realized-income sample or verified Kenya-open UK listing. Philippine roles are comparisons, not leads; R3 pay conflicts, R2 period unknown, R4 indexed Upwork date/vacancy/Worldwide status provisional. Quote and retainer prices are hypotheses.",
+    "QBO/Xero Kenyan enrollment and edition access, Wise features, Payoneer approval/networks/business-payer restrictions and bank suitability untested. US-only learning/employment route not a Kenyan route.",
+    "VAT current consolidated export schedule and eligibility unconfirmed; foreign payment insufficient, zero-rated not exempt and not automatically outside threshold. Independent check did not source-pass VAT basic rates/threshold either.",
+    "Salary gross/net, actual PAYE credits and spending/dependants/debts/notice missing. Concurrent AHL interaction, exceptions/later legal changes, SHA/benefit replacement, licences/firm permission/fees/indemnity/permits unconfirmed. CPA(K) not proof of practice authority; setup and reserves may be inadequate. TOT professional exclusion must be assessed; HTML/brochure effective-date inconsistency retained.",
+    "Current job availability, personalized bank/payment quotes and 2027 rules not refreshed. No platform accounts, certification enrollment, forms, outreach, applications or payment tests carried out for this guide. US privacy/sector rules not exhaustively cleared; no US CPA or treaty entitlement claimed."
+  ],
+  "editingContract": "Batch29 new data JSON, English Markdown and author notes only. No Chinese: no distinct reader need. No inventory, README, existing file, build/check code, source-run, website repository or publication changes. Director supplies link-free footer and package rendering.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Kenya-resident CPA(K) professionals staying employed in Nairobi while testing remote US/UK bookkeeping, with Kenyan practice, tax and data obligations unchanged.",
+  "localeReason": "English only: this guide concerns a specific Kenya-resident employment, tax, practice and upskilling context. No distinct Chinese-reader need has been established.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "b4c04aba73a577d123e6b07cf52f9594e92ce30ee8c91350f61e996c154680ca",
+  "sourceListLink": "../w7-nairobi-remote-bookkeeping-switch/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "c304e76779c84d6f99e7961a52ccbe8b0109cab6bde9491f3a171ce91adea75c",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

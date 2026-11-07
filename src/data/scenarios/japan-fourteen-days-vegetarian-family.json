@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 2,
+  "slug": "japan-fourteen-days-vegetarian-family",
+  "translationKey": "japan-fourteen-days-vegetarian-family",
+  "sources": [
+    {
+      "title": "F2 PRIMARY, partial page — en.ain-soph.jp",
+      "url": "https://en.ain-soph.jp/journey-shinjuku",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F1 PRIMARY, public HTTP — foods.jr-cross.co.jp",
+      "url": "https://foods.jr-cross.co.jp/ts-tantan/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R12 — hakonetrip.odakyu-global.com",
+      "url": "https://hakonetrip.odakyu-global.com/passes/hakone-freepass/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R1 — japanrailpass.net",
+      "url": "https://japanrailpass.net/assets/pdf/JRP_Price_Changes_En.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R2 — japanrailpass.net",
+      "url": "https://japanrailpass.net/en/purchase/price/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F8 PRIMARY, public HTTP; HOURS INCONSISTENT — jogesayu-hiroshima.com",
+      "url": "https://jogesayu-hiroshima.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F8 PRIMARY, public HTTP; HOURS INCONSISTENT — jogesayu-hiroshima.com",
+      "url": "https://jogesayu-hiroshima.com/en/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F8 PRIMARY, public HTTP; HOURS INCONSISTENT — jogesayu-hiroshima.com",
+      "url": "https://jogesayu-hiroshima.com/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F8 PRIMARY, public HTTP; HOURS INCONSISTENT — jogesayu-hiroshima.com",
+      "url": "https://jogesayu-hiroshima.com/menu/lunch-menu2026-7/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S03 — kyoto.travel",
+      "url": "https://kyoto.travel/en/news/tax-change/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "H3 — mimaruhotels.com",
+      "url": "https://mimaruhotels.com/en/hotel/namba-station/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "H2 — mimaruhotels.com",
+      "url": "https://mimaruhotels.com/en/hotel/shinmachi-sanjo/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "H1 — mimaruhotels.com",
+      "url": "https://mimaruhotels.com/en/hotel/ueno-east/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F4 PRIMARY, public HTTP — mumokuteki.com",
+      "url": "https://mumokuteki.com/cafe/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F6 PRIMARY, public HTTP — onwashop.com",
+      "url": "https://onwashop.com/en",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F6 PRIMARY, public HTTP — onwashop.com",
+      "url": "https://onwashop.com/en/pages/story",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S04 — osaka-info.jp",
+      "url": "https://osaka-info.jp/en/information/to-tourist/news-lodging-tax/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S05 — policies.env.go.jp",
+      "url": "https://policies.env.go.jp/national-garden/shinjukugyoen/english/guide/information/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V7 PRIMARY/INDEX-ONLY — LIVE UNCONFIRMED — services.vfsglobal.com",
+      "url": "https://services.vfsglobal.com/ind/en/jpn/schedule-an-appointment",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R3 — smart-ex.jp",
+      "url": "https://smart-ex.jp/en/product/plan/service/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R4 — smart-ex.jp",
+      "url": "https://smart-ex.jp/en/product/plan/service/pdf/service_fares_non_reserved.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R3 — smart-ex.jp",
+      "url": "https://smart-ex.jp/en/product/plan/service/pdf/service_fares_reserved.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R11 — smart-ex.jp",
+      "url": "https://smart-ex.jp/en/product/set_dates/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F1 PRIMARY, public HTTP — ts-restaurant.jp",
+      "url": "https://ts-restaurant.jp/tantan/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F7 PRIMARY, public HTTP — vegan-nara.com",
+      "url": "https://vegan-nara.com/menu/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V5 PRIMARY, fallback limitation — www.bengaluru.in.emb-japan.go.jp",
+      "url": "https://www.bengaluru.in.emb-japan.go.jp/itpr_ja/11_000001_00032.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "H5 — www.en.hakoneyutowa-hotel.jp",
+      "url": "https://www.en.hakoneyutowa-hotel.jp/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "H4 — www.en.hakoneyutowa-hotel.jp",
+      "url": "https://www.en.hakoneyutowa-hotel.jp/rooms/condominium-a/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V11 PRIMARY, CLEAN-BROWSER HTTP200 recovery — www.evisa.mofa.go.jp",
+      "url": "https://www.evisa.mofa.go.jp/faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F3 PRIMARY, public HTTP — www.fujiyahotel.jp",
+      "url": "https://www.fujiyahotel.jp/recommend/recommend40.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V8 PRIMARY, fallback limitation — www.in.emb-japan.go.jp",
+      "url": "https://www.in.emb-japan.go.jp/itpr_en/Visa.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S02 — www.japan.travel",
+      "url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S01 — www.japan.travel",
+      "url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R9 — www.jr-odekake.net",
+      "url": "https://www.jr-odekake.net/ticket/guide/assets/pdf/stipulation/2026/covenant2-03.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F5 PRIMARY, public HTTP — www.mercy-vegan.jp",
+      "url": "https://www.mercy-vegan.jp/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "F5 PRIMARY, public HTTP — www.mercy-vegan.jp",
+      "url": "https://www.mercy-vegan.jp/restaurants/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V13 PRIMARY, fallback limitation — www.mofa.go.jp",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/faq.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V1 PRIMARY, fallback limitation — www.mofa.go.jp",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V2 PRIMARY, fallback limitation — www.mofa.go.jp",
+      "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V12 PRIMARY, public PDF — www.mofa.go.jp",
+      "url": "https://www.mofa.go.jp/mofaj/files/000124525.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V3 PRIMARY, fallback limitation — www.mumbai.in.emb-japan.go.jp",
+      "url": "https://www.mumbai.in.emb-japan.go.jp/itpr_en/11_000001_00637.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V4 PRIMARY, fallback limitation — www.mumbai.in.emb-japan.go.jp",
+      "url": "https://www.mumbai.in.emb-japan.go.jp/itpr_en/visa_information.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R5 — www.odakyu-freepass.jp",
+      "url": "https://www.odakyu-freepass.jp/hakone/buy.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V6 PRIMARY, direct HTTP200 — www.vfsglobal.com",
+      "url": "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V9 PRIMARY, complete public PDF — www.vfsglobal.com",
+      "url": "https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/CL-01-Visitor-Visa-Without-Guarantor.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "V10 PRIMARY, public PDF — www.vfsglobal.com",
+      "url": "https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/Visa-Application-Form.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R8 — www.westjr.co.jp",
+      "url": "https://www.westjr.co.jp/global/en/ticket/westqr/kansaimini/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R7 — www.westjr.co.jp",
+      "url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R6 — www.westjr.co.jp",
+      "url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai_hiroshima/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "R14 — www.westjr.co.jp",
+      "url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/sanyo-shinkansen/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "ground_total_jpy": {
+      "label": "Ground total with 15% contingency, flights excluded",
+      "value": 1216700,
+      "unit": "JPY",
+      "display": "¥1,216,700"
+    },
+    "ground_total_inr": {
+      "label": "Ground total at assumed JPY1=INR0.65",
+      "value": 790855,
+      "unit": "INR",
+      "display": "₹790,855"
+    },
+    "base_headroom_inr": {
+      "label": "Headroom below INR900000 at assumed FX",
+      "value": 109145,
+      "unit": "INR",
+      "display": "₹109,145"
+    },
+    "total_lodging_nights": {
+      "label": "Four-base accommodation total",
+      "value": 13,
+      "unit": "nights",
+      "display": "13"
+    },
+    "recommended_rail_local_estimate": {
+      "label": "Three-day Hakone core plus unconfirmed local fares",
+      "value": 82990,
+      "unit": "JPY",
+      "display": "¥82,990"
+    },
+    "hiroshima_stress_overrun": {
+      "label": "Hiroshima option overrun at assumed JPY1=INR0.70",
+      "value": 8040,
+      "unit": "INR",
+      "display": "₹8,040"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Full assigned index.html, sources.md and independent-check.md read locally. No external lookup, other run folder, booking or contact. Source-specific dates are original ledger dates, not refreshed by localization.",
+    "originalResearchAccessLimitations": "Historical automatic managed-browser readability fallbacks were not independently proven clean. V11 general eVisa FAQ recovered in fresh isolated Chromium with HTTP200; V1–V4,V8,V13 returned403 in recovery. Rail price evidence was later direct-HTTP archived according to source records; does not erase original method exception. Appointment evidence index-only and live procedure unconfirmed.",
+    "independentCheckDisposition": "Arithmetic passed, not unqualified factual/clean-session/booking readiness. New drafts explicitly distinguish two-day Hakone benchmark from three-day April6–8 recommendation; remove unsupported induction-hob, station-location and fewer-stopping-service details. Unverified local fares, future quotes, visa appointment/minor signature and historical session issues remain open. No original evidence edited.",
+    "layoutEvidenceLimit": "No new-page HTML build, render or browser QA performed. Original layout audit is not evidence for the new Markdown rendering."
+  },
+  "datePolicy": "All cited URLs have original November7,2026 read dates per ledger, with index-only/failed live appointment limitation retained. Fare sheets are as-of April1,2025. No external source refresh.",
+  "planningAssumptions": {
+    "family": "Mumbai residents, Indian ordinary passports, two parents and children9 and13; rail3adults+1child",
+    "arrival": "2027-04-02",
+    "departure": "2027-04-15",
+    "routeNights": {
+      "Tokyo": 4,
+      "Hakone": 2,
+      "Kyoto": 4,
+      "Osaka": 3
+    },
+    "JPYtoINR": 0.65,
+    "stressJPYtoINR": 0.7,
+    "budgetCeilingINR": 900000,
+    "baseSubtotalJPY": 1058000,
+    "contingencyPercent": 15,
+    "contingencyJPY": 158700,
+    "baseTotalJPY": 1216700,
+    "HiroshimaIncrementBeforeReserveJPY": 70000,
+    "HiroshimaIncrementWithReserveJPY": 80500,
+    "HiroshimaTotalJPY": 1297200,
+    "status": "All budget rows unconfirmed author allowances, not supplier quotes; international flights and airfare-bundled taxes excluded. Regional passes conditional; national pass rejected. Local fare inputs remain unverified."
+  },
+  "uncertainties": [
+    "No April2027 hotel availability or four-person rates verified; kitchen/bedding/package and tax inclusions require actual quote. Operator dietary declarations not independent kitchen or allergy audits.",
+    "smartEX sheets dated2025; 2027 tariff/season timetable unknown. Kyoto–Nara and Kyoto–Osaka local fare inputs estimates, arithmetic not verified tariffs.",
+    "Mumbai live appointment process/slots and minor signing unconfirmed; photo dimensions conflict. Fee500 schedule ends March31,2027.",
+    "Historical clean-session condition not fully satisfied; general FAQ recovery does not revalidate every local visa fact.",
+    "Visa budget leaves INR400 after four couriers. Taxes Tokyo/Hakone unknown; contingency is not a cap. Hiroshima at stress FX exceeds ceiling by INR8040.",
+    "Blossom page2026, not verified2027 forecast; restaurant hours/prices may change, JoGeSaYu hours conflict and lunch change dated after trip."
+  ],
+  "editingContract": "Batch29: new slug data, English and Chinese Markdown, author notes only. No inventory, README, build/check code, existing file or source-run edits; no publication. Director provides link-free footer.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Vegetarian families planning Tokyo–Hakone–Kyoto–Osaka, including Chinese-speaking readers; Mumbai-resident Indian ordinary-passport family with children9 and13 retained.",
+  "localeReason": "Chinese is useful to vegetarian families planning this Japan route, especially stock-free food, kitchen-equipped family rooms and conditional pass decisions. Translation retains Mumbai residence, Indian-passport visa eligibility and child ages; Simplified Chinese is the package locale.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "7ae12398ffe0f7f4e6922fd41f4afee0ce9b8d20b7d87ed09b7654ad6307f7e6",
+  "sourceListLink": "../w7-local-meeting-notes-mac-test/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "a8687259b163a8e79e2617558ccd49fb0e0c13b6370295909ed42e49ddf79e55",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "0ec7360e95d1683ba2fc3895f6da035ab7508fb7f7ac9d83f21382204ec43277",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
