@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "ec9a87a5b373ff4bde82d2422990dfb9ab533f31d6b49ba15449975980dc1a34",
+  "sourceListLink": "../w7-filipino-nurse-uk-nhs-2027/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "5c3c526fed95ab61ab7cd9628d6bbe907c7ee64d2e1626a10e352082ae856c66",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 2,
+  "slug": "osaka-first-apartment-vietnamese-engineer",
+  "translationKey": "osaka-first-apartment-vietnamese-engineer",
+  "sources": [
+    {
+      "title": "Juso · Yodogawa-ku",
+      "url": "https://www.homes.co.jp/chintai/osaka/juso_06107-st/price/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Awaji · Higashiyodogawa-ku",
+      "url": "https://www.homes.co.jp/chintai/osaka/awaji_06171-st/price/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Esaka · Suita City",
+      "url": "https://www.homes.co.jp/chintai/osaka/esaka_06473-st/price/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tenroku · Kita-ku",
+      "url": "https://www.homes.co.jp/chintai/osaka/tenjimbashisujirokuchome_06183-st/price/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hankyu Juso page",
+      "url": "https://www.hankyu.co.jp/station/juso.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Hankyu Awaji page",
+      "url": "https://www.hankyu.co.jp/station/awaji.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Metro station guide",
+      "url": "https://subway.osakametro.co.jp/en/station_guide/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tenroku station page",
+      "url": "https://subway.osakametro.co.jp/en/station_guide/T/t18/index.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "route-map page",
+      "url": "https://subway.osakametro.co.jp/en/guide/routemap.php",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Leon Comfort Juso",
+      "url": "https://www.homes.co.jp/chintai/room/09be8a706a1382b0e93f0fb2fa8b181ed5b15e6f/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Best Estate",
+      "url": "https://www.best-estate.jp/en/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GTN guarantee",
+      "url": "https://www.gtn.co.jp/business/realestate/rent-guarantor/agency",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GTN detailed FAQ",
+      "url": "https://www.gtn.co.jp/business/realestate/rent-guarantor/agency_faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Apartment Japan",
+      "url": "https://apartment-japan.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Iepedia / DBOX",
+      "url": "https://iepedia.jp/how_to/faqs/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Nihon Safety",
+      "url": "https://www.nihon-safety.co.jp/english/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MLIT ordinary residential brokerage rule",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/1_6_bf_000013.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Immigration Services Agency",
+      "url": "https://www.moj.go.jp/isa/publications/faq/newimmiact_4_port-city.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GTN Eazy",
+      "url": "https://www.gtn-mobile.com/s/eazy?language=en_US",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Convenience-store cash billing",
+      "url": "https://www.gtn-mobile.com/s/support/paying-bills?language=en_US",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GTN features",
+      "url": "https://www.gtn-mobile.com/s/features?language=en_US",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Osaka's registration guidance",
+      "url": "https://www.city.osaka.lg.jp/contents/wdu020/enjoy/en/content_d.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PRESTIA's requirements",
+      "url": "https://www.smbctb.co.jp/en/allied/openaccount/application.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Japan Post's foreign-customer route",
+      "url": "https://www.jp-bank.japanpost.jp/kaisetu/kat_gaikokujin.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Card delivery",
+      "url": "https://www.jp-bank.japanpost.jp/app/tetsuzuki/app_tz_ja-caution.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "transfer page",
+      "url": "https://www.jp-bank.japanpost.jp/kojin/sokin/gaitame/kj_sk_gt_index.html",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "monthly_housing_one_k": {
+      "label": "Model monthly rent plus management, not quote",
+      "value": 77000,
+      "unit": "JPY_per_month",
+      "display": "¥77,000"
+    },
+    "monthly_housing_one_ldk": {
+      "label": "Awaji model monthly rent plus management, not quote",
+      "value": 98000,
+      "unit": "JPY_per_month",
+      "display": "¥98,000"
+    },
+    "housing_cash_one_k": {
+      "label": "Model housing cash including April and cleaning reserve",
+      "value": 434435,
+      "unit": "JPY",
+      "display": "¥434,435"
+    },
+    "housing_cash_one_ldk": {
+      "label": "Awaji model housing cash including April and cleaning reserve",
+      "value": 530645,
+      "unit": "JPY",
+      "display": "¥530,645"
+    },
+    "recommended_cash_one_k": {
+      "label": "Rounded accessible funds including stress and contingency",
+      "value": 1250000,
+      "unit": "JPY",
+      "display": "¥1,250,000"
+    },
+    "recommended_cash_one_ldk": {
+      "label": "Rounded accessible funds including stress and contingency",
+      "value": 1450000,
+      "unit": "JPY",
+      "display": "¥1,450,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read complete retained index.html, sources.md and independent-check.md, plus original GTN G2 complete FAQ text and clean Japan Post B7/GTN P1 snapshots. No network, browser, new research, contact or build. Scoped content_utils/check_i18n imports and independent Decimal arithmetic only.",
+    "originalResearchAccessLimitations": "Early public fetches/search used managed-browser or opaque search profiles, not retrospectively certified clean. Later fresh nonpersistent contexts logged empty cookies/origins and corroborated many pages; H5 clean retry returned 403. No deliberate sign-in, credential import, contact, application, bank appointment or booking reported. Later clean reads do not cure earlier procedural uncertainty.",
+    "reviewReconciliation": "Independent-check sections 1–6 describe an earlier candidate. Section 7 final recheck matches current HTML hash 277aca8e257c694d53b74f01db247531b6d23c28eb3fcab0941ea7bbad0a4d59 and resolves Esaka ranking, PRESTIA age/timing, Japan Post validity/companion, COE qualification, Tenroku route qualification and recovered complete G2 evidence. Section 8 records director-attributed original-page visual completion; no new-draft rendering claimed."
+  },
+  "datePolicy": "All external access dates preserve November 7, 2026. Copy authoring is not a source refresh. Publication dates unknown except listing update dates explicitly noted; March/April 2027 prices, stock and eligibility not confirmed. Model and original publication date remain unknown.",
+  "uncertainties": [
+    "Vietnamese applicant remains unchanged: N4 software engineer, Umeda office, Engineer/Specialist in Humanities/International Services route, April 1, 2027 start; actual permission and approval unconfirmed. Dedicated COE primary rule was not independently checked in original run.",
+    "All four commute tests are UNCONFIRMED planning estimates, including proposed Tenroku–Higashi-Umeda route itself. No address-to-office under-40-minute proof or 2027 timetable.",
+    "No selected unit, complete binding quote, Vietnamese newcomer/owner/GTN acceptance, bridge registration/mail eligibility, tested overseas interim payment or recurring card acceptance established.",
+    "HOME’S benchmarks are mixed-stock historical portal asking-rent references, excluding management/parking; search bands are analyst choices. Exact benchmark update dates unknown. Historical H5 fees incomplete and original session cleanliness unresolved.",
+    "GTN 50% initial guarantee, two-year insurance, deposit/key money, cleaning, proration and all relocation allowances are hypothetical, not universal tariffs. Contract-specific fees, renewal, cancellation and deposit deductions need written terms; no duplicated April, May or cleaning charge.",
+    "PRESTIA actual employment exception, residence-card validity, age, fees and bank review remain individual. March offer is not proven employment. Japan Post January 4, 2027 changes require recheck; no unconditional six-month ban or account/payment approval.",
+    "Phone advertised November price/payment options do not establish exact channel identity/activation. Discount is conditional; setup allowance already includes initial fee. Payroll timing, take-home pay and bonus split unknown; gross average is not spending capacity.",
+    "Cash targets include contingency and May reserve, no salary/refund/subsidy/FX credits. Further nonhousing delay requires additional monthly funds and housing beyond May. No new rendering, full-package integration, legal or live-price certification."
+  ],
+  "editingContract": "Only assigned new en/zh Markdown, data JSON and batch26 slug-scoped notes. No changes to source run, inventory, README, renderer, shared receipts; no build, network, contact or publication.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Newcomers comparing Osaka rental cash, guarantors and commutes, including Chinese-speaking readers; the worked applicant remains Vietnamese engineer Linh with N4 Japanese and an Umeda job.",
+  "localeReason": "English and Chinese make first-rental cash, guarantee and commute choices useful to Chinese-speaking newcomers without changing the original Vietnamese applicant or eligibility.",
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

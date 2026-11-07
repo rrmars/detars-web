@@ -1,0 +1,434 @@
+{
+  "schemaVersion": 2,
+  "slug": "kuala-lumpur-international-school-two-kids",
+  "translationKey": "kuala-lumpur-international-school-two-kids",
+  "sources": [
+    {
+      "title": "sayfol.edu.my — admission/fee-structure-terms-of-payment-academic-year-2026-2027",
+      "url": "https://sayfol.edu.my/admission/fee-structure-terms-of-payment-academic-year-2026-2027/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sayfol.edu.my — admission/terms-and-conditions-of-enrolment-and-admission",
+      "url": "https://sayfol.edu.my/admission/terms-and-conditions-of-enrolment-and-admission/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sayfol.edu.my — our-school/primary",
+      "url": "https://sayfol.edu.my/our-school/primary/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sayfol.edu.my — our-school/secondary",
+      "url": "https://sayfol.edu.my/our-school/secondary/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sayfol.edu.my — frequently-asked-questions",
+      "url": "https://sayfol.edu.my/frequently-asked-questions/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sayfol.edu.my — admission/admission-guidelines",
+      "url": "https://sayfol.edu.my/admission/admission-guidelines/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sayfol.edu.my — student-services/school-bus-service-fares",
+      "url": "https://sayfol.edu.my/student-services/school-bus-service-fares/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.sribestariinternational.edu.my — wp-content/uploads/2026/05/2.-SBIS-Fee-Schedule-AY26-27.pdf",
+      "url": "https://www.sribestariinternational.edu.my/wp-content/uploads/2026/05/2.-SBIS-Fee-Schedule-AY26-27.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.sribestariinternational.edu.my — curriculum/primary",
+      "url": "https://www.sribestariinternational.edu.my/curriculum/primary/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.sribestariinternational.edu.my — curriculum/secondary",
+      "url": "https://www.sribestariinternational.edu.my/curriculum/secondary/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.sribestariinternational.edu.my — admissions/faq",
+      "url": "https://www.sribestariinternational.edu.my/admissions/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.sribestariinternational.edu.my — admissions/admission-process-and-fee-schedule",
+      "url": "https://www.sribestariinternational.edu.my/admissions/admission-process-and-fee-schedule/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.sribestariinternational.edu.my — sbis-experience/school-services",
+      "url": "https://www.sribestariinternational.edu.my/sbis-experience/school-services/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — admission-fee",
+      "url": "https://his.edu.my/admission-fee/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — primary",
+      "url": "https://his.edu.my/primary/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — secondary",
+      "url": "https://his.edu.my/secondary/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — bilingual-programme",
+      "url": "https://his.edu.my/bilingual-programme/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — how-to-apply",
+      "url": "https://his.edu.my/how-to-apply/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — faq",
+      "url": "https://his.edu.my/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — wp-content/uploads/2025/04/HIS_APPLICATION-FOR-ADMISSION_2023-12-1.pdf",
+      "url": "https://his.edu.my/wp-content/uploads/2025/04/HIS_APPLICATION-FOR-ADMISSION_2023-12-1.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "his.edu.my — transport",
+      "url": "https://his.edu.my/transport/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/fee-structure",
+      "url": "https://srikdu.edu.my/kota-damansara-international/fee-structure/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/primary-education",
+      "url": "https://srikdu.edu.my/kota-damansara-international/primary-education/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/key-stage-2",
+      "url": "https://srikdu.edu.my/kota-damansara-international/key-stage-2/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/secondary-key-stage-3",
+      "url": "https://srikdu.edu.my/kota-damansara-international/secondary-key-stage-3/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/secondary-mandarin",
+      "url": "https://srikdu.edu.my/kota-damansara-international/secondary-mandarin/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/academic-english-pathway",
+      "url": "https://srikdu.edu.my/kota-damansara-international/academic-english-pathway/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/admission",
+      "url": "https://srikdu.edu.my/kota-damansara-international/admission/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "srikdu.edu.my — kota-damansara-international/wp-content/uploads/2024/12/ACA001-Admission-Registration-Policy.pdf",
+      "url": "https://srikdu.edu.my/kota-damansara-international/wp-content/uploads/2024/12/ACA001-Admission-Registration-Policy.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "drive.google.com — file/d/1zA5wuacCu5o0be2_2cM9Gzyfoozx4fIR/view",
+      "url": "https://drive.google.com/file/d/1zA5wuacCu5o0be2_2cM9Gzyfoozx4fIR/view",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "isp.edu.my — admissions/fees",
+      "url": "https://isp.edu.my/admissions/fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "isp.edu.my — admissions/faq",
+      "url": "https://isp.edu.my/admissions/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "isp.edu.my — admissions/admissions-guidelines",
+      "url": "https://isp.edu.my/admissions/admissions-guidelines/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.tis.edu.my — wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf",
+      "url": "https://www.tis.edu.my/wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.tis.edu.my — wp-content/uploads/2026/08/TIS-Calendar-2027.pdf",
+      "url": "https://www.tis.edu.my/wp-content/uploads/2026/08/TIS-Calendar-2027.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.tis.edu.my — admissions/school-fees",
+      "url": "https://www.tis.edu.my/admissions/school-fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.tis.edu.my — learning/primary",
+      "url": "https://www.tis.edu.my/learning/primary/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.tis.edu.my — learning/secondary-school",
+      "url": "https://www.tis.edu.my/learning/secondary-school/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.tis.edu.my — kuala-lumpur-campus",
+      "url": "https://www.tis.edu.my/kuala-lumpur-campus/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.tis.edu.my — admissions/application-process",
+      "url": "https://www.tis.edu.my/admissions/application-process/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "hibiscus.edu.my — admissions/school-fees",
+      "url": "https://hibiscus.edu.my/admissions/school-fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "hibiscus.edu.my — wp-content/uploads/2024/10/Fee-Structure-2024.pdf",
+      "url": "https://hibiscus.edu.my/wp-content/uploads/2024/10/Fee-Structure-2024.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fairview.edu.my — school-admission/school-fees",
+      "url": "https://fairview.edu.my/school-admission/school-fees/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "annual_family_budget": {
+      "label": "Original Chinese family annual combined school budget, excluding rent and adult commuting",
+      "value": 110000,
+      "unit": "MYR_per_year",
+      "display": "RM110,000"
+    },
+    "sayfol_annual_comparison": {
+      "label": "First-year deposit-three-year comparison, plus unresolved costs",
+      "value": 96879.2,
+      "unit": "MYR_plus_unresolved",
+      "display": "RM96,879.20"
+    },
+    "sayfol_stress_comparison": {
+      "label": "Five-percent recurring-fee stress, plus unresolved costs",
+      "value": 99493.16,
+      "unit": "MYR_plus_unresolved",
+      "display": "RM99,493.16"
+    },
+    "sayfol_first_year_cash": {
+      "label": "Full deposit first-year liquidity, plus unresolved costs",
+      "value": 107839.2,
+      "unit": "MYR_plus_unresolved",
+      "display": "RM107,839.20"
+    },
+    "sayfol_budget_headroom": {
+      "label": "Comparison headroom before unresolved costs",
+      "value": 13120.8,
+      "unit": "MYR",
+      "display": "RM13,120.80"
+    },
+    "bestari_first_year_comparison": {
+      "label": "Sri Bestari first-year model with equipment and deposit allocation, plus unresolved costs",
+      "value": 124268.35,
+      "unit": "MYR_plus_unresolved",
+      "display": "RM124,268.35"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete retained index.html, sources.md, independent-check.md, cost-model.json and the listed school notes/fee/calendar text were read locally. SBIS PDF is hashed alongside its inspected full extraction; no new PDF/web/browser request. Local arithmetic and import-only content checks, no build, no network, no contact, no publication.",
+    "originalResearchAccessLimitations": "Original registered tools sometimes auto-fell-back to browser routes without demonstrated clean-session isolation. Original research did not fully satisfy strict clean-session provenance; no contact, forms, accounts or credential use reported. Independent reflection did not reread/retrieve every primary source; its qualified scope is preserved.",
+    "reviewReconciliation": "Independent check reported arithmetic/final-file consistency pass, not unconditional factual/completeness/method pass. It supplied HTML SHA256 0389026d28c433b73f40e2f1b4f7382d26094fbe858db496c231ed80ee9ee807; compare with sourceArtifacts for the actual retained bytes. No fresh primary-source certification claimed."
+  },
+  "datePolicy": "All source access dates are original November 7, 2026 reads, not copy-authoring refreshes. School publication days remain unknown where unrecorded. Preserve five AY2026/27 baselines, Taylor calendar-2027 fees and exact published KL term, outdated/excluded fee gates and KDU policy dates. No 2027/28 invoice or 2028 progression invented.",
+  "familyProfile": {
+    "nationality": "Chinese; non-Malaysian",
+    "relocation": "July 2027",
+    "requestedYearGroups": [
+      "Year 3",
+      "Year 7"
+    ],
+    "placement": "Exact birth dates and whether stated ages are current or entry ages unresolved; no exact ages invented.",
+    "workplaces": [
+      "Mont Kiara",
+      "KL Sentral"
+    ],
+    "annualBudgetMYR": 110000,
+    "morningTarget": "under 40 minutes",
+    "sharedPhysicalCampusRequired": true
+  },
+  "calendarPlanningClarification": "Student Pass arrangements: count back at least three months from the actual intended first day. For August entry, plan to begin by May; for September entry, by June. Derived count-back guidance, not an official deadline or government processing guarantee. Employer/dependent-pass and permitted-study requirements remain individual. No new external research or confirmed first day implied.",
+  "languageVerificationLimit": "Sri Bestari publications support English curriculum and Mandarin subjects, but an explicit whole-school English-medium statement was not separately verified. Public prose asks the school to confirm each target year group's subject teaching languages. No extra English programme remains the published limitation; no bilingual or Mandarin-medium upgrade implied.",
+  "costPolicy": {
+    "formula": "B = T + J + D/3 + M + X + A + R + U",
+    "depositAllocationYears": 3,
+    "allowancesMYR": {
+      "bus": 14400,
+      "uniform": 1600,
+      "books": 2000,
+      "meals": 5400,
+      "contingency": 3000,
+      "total": 26400
+    },
+    "reserveRate": 0.06,
+    "reserveScope": "Known non-refundable T+J+M; not a legal tax determination",
+    "stressRate": 0.05,
+    "stressScope": "T+M only, then recompute reserve; J,D,X,A fixed",
+    "unknowns": "U = unpriced obligations plus excess over allowances/reserve. HELP deposit omitted unknown, not zero; ParkCity joining omitted unknown, not zero. Cash replaces allocated deposits with full deposit."
+  },
+  "schoolComparisons": [
+    {
+      "id": "sayfol",
+      "name": "Sayfol International School",
+      "feeYear": "AY 2026/27",
+      "tuitionAfterModelledDiscount": "49320",
+      "joining": "12000",
+      "depositCash": "16440",
+      "knownMandatoryCharges": "0",
+      "equipmentAllowance": "0",
+      "taxReserveKnown": "3679.20",
+      "annualComparisonKnownPart": "96879.20",
+      "stressKnownPart": "99493.1600",
+      "cashKnownPart": "107839.20",
+      "unresolvedCosts": "U: actual tax/extras, any required AEP/ESL fee; deposit/refund conflict",
+      "hasUnpricedJoiningOrDeposit": false
+    },
+    {
+      "id": "sbis",
+      "name": "Sri Bestari INTERNATIONAL",
+      "feeYear": "AY 2026/27",
+      "tuitionAfterModelledDiscount": "60188",
+      "joining": "18400",
+      "depositCash": "20480",
+      "knownMandatoryCharges": "1640",
+      "equipmentAllowance": "6000",
+      "taxReserveKnown": "4813.68",
+      "annualComparisonKnownPart": "124268.3466666666666666666667",
+      "stressKnownPart": "127545.2306666666666666666667",
+      "cashKnownPart": "137921.6800000000000000000000",
+      "unresolvedCosts": "U: levy/lockers, actual meal/device/transport prices, any tax beyond reserve",
+      "hasUnpricedJoiningOrDeposit": false
+    },
+    {
+      "id": "help",
+      "name": "HELP International School",
+      "feeYear": "AY 2026/27",
+      "tuitionAfterModelledDiscount": "102939",
+      "joining": "26000",
+      "depositCash": null,
+      "knownMandatoryCharges": "0",
+      "equipmentAllowance": "0",
+      "taxReserveKnown": "7736.34",
+      "annualComparisonKnownPart": "163075.34",
+      "stressKnownPart": "168531.1070",
+      "cashKnownPart": "163075.34",
+      "unresolvedCosts": "U: deposit/3 + technology fee + iPads + any required support and unpriced charges",
+      "hasUnpricedJoiningOrDeposit": true
+    },
+    {
+      "id": "kdu",
+      "name": "Sri KDU International • Kota Damansara",
+      "feeYear": "AY 2026/27",
+      "tuitionAfterModelledDiscount": "116026",
+      "joining": "23000",
+      "depositCash": "20000",
+      "knownMandatoryCharges": "0",
+      "equipmentAllowance": "0",
+      "taxReserveKnown": "8341.56",
+      "annualComparisonKnownPart": "180434.2266666666666666666667",
+      "stressKnownPart": "186583.6046666666666666666667",
+      "cashKnownPart": "193767.5600000000000000000000",
+      "unresolvedCosts": "U: any required English pathway, unpriced charges and tax beyond reserve",
+      "hasUnpricedJoiningOrDeposit": false
+    },
+    {
+      "id": "parkcity",
+      "name": "The International School @ ParkCity",
+      "feeYear": "AY 2026/27",
+      "tuitionAfterModelledDiscount": "139200",
+      "joining": null,
+      "depositCash": "46400",
+      "knownMandatoryCharges": "0",
+      "equipmentAllowance": "0",
+      "taxReserveKnown": "8352.00",
+      "annualComparisonKnownPart": "189418.6666666666666666666667",
+      "stressKnownPart": "196796.2666666666666666666667",
+      "cashKnownPart": "220352.0000000000000000000000",
+      "unresolvedCosts": "U: full joining fee Jp plus 6% reserve on Jp (amount not verified), EAL and extras; same-site status unconfirmed",
+      "hasUnpricedJoiningOrDeposit": true
+    },
+    {
+      "id": "taylor",
+      "name": "Taylor’s International • Kuala Lumpur",
+      "feeYear": "Calendar 2027 • supplemental",
+      "tuitionAfterModelledDiscount": "82080",
+      "joining": "14000",
+      "depositCash": "27360",
+      "knownMandatoryCharges": "0",
+      "equipmentAllowance": "0",
+      "taxReserveKnown": "5764.80",
+      "annualComparisonKnownPart": "137364.80",
+      "stressKnownPart": "141715.0400",
+      "cashKnownPart": "155604.80",
+      "unresolvedCosts": "U: 2028 rates/progression, EAL/EEP, devices and unpriced charges",
+      "hasUnpricedJoiningOrDeposit": false
+    }
+  ],
+  "uncertainties": [
+    "Zero confirmed joint vacancies; no full under-40-minute same-school/workplace match established; requested year groups await birth-date/report/assessment placement.",
+    "Five AY2026/27 schedules are not AY2027/28 quotations; Taylor calendar2027 is supplemental, not an August2027–July2028 invoice. January2028 progression unknown.",
+    "All displayed totals retain unresolved costs. Six-percent reserve is not invoice SST; per-student threshold not family threshold. Unpriced levy/support/bus/device/insurance/immigration may exceed buffers.",
+    "Sayfol conflicting deposit/refund and Year7 test wording; primary ESL may replace language. Sri Bestari September teaching and no extra English programme; first-year model exceeds cap.",
+    "HELP deposit/technology/iPad and calendar conflict unresolved. KDU dated policy priority is not joint admission and English pathway may displace Mandarin.",
+    "ParkCity joining/EAL layout and same physical campus unresolved; tuition alone over budget. Neither third-child discounts nor residence waiver make it a fit.",
+    "Commutes/distances/speeds/gate queues/bus detours all analyst estimates, no live or measured routes, no exact home/office pins, no future route guarantee.",
+    "No fresh research, external link check, source update, render/build, application/contact/payment or publication. Original clean-session failure remains disclosed."
+  ],
+  "editingContract": "Only new assigned en/zh Markdown, semantic data and checks/batch26-kuala-lumpur-international-school-two-kids-notes.md. No existing/shared file, inventory, renderer, README or receipt edits; no build/network/research/contact/publication. No ratings or Review schema.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Chinese-speaking and English-reading families comparing Kuala Lumpur international-school cost and fit; the worked example remains a Chinese/non-Malaysian family seeking Year 3 and Year 7 with Mont Kiara/KL Sentral jobs.",
+  "localeReason": "English and Simplified Chinese make the same KL school-cost/fit decision accessible without changing nationality, original family profile, requested placement or permitted-study requirements.",
+  "domain": "study",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

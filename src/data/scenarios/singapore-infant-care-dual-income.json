@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 2,
+  "slug": "singapore-infant-care-dual-income",
+  "translationKey": "singapore-infant-care-dual-income",
+  "sources": [
+    {
+      "title": "government announcement",
+      "url": "https://www.madeforfamilies.gov.sg/ndr-2026-supporting-families/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ECDA subsidy table",
+      "url": "https://file.go.gov.sg/ecda-subsidy-table-cc-ifc.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AOP caps",
+      "url": "https://www.ecda.gov.sg/parents/choosing-a-preschool/aop",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "POP caps",
+      "url": "https://www.ecda.gov.sg/parents/choosing-a-preschool/pop",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRAS treatment",
+      "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/provision-of-subsidized-services",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "9% rate",
+      "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/current-gst-rates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "We Are Caring commercial reference",
+      "url": "https://wearecaring.com/sg/en/costs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "S$5,000 security bond",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/security-bond",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MOM welfare obligations",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/rest-days-and-well-being",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Helpling's commercial headline",
+      "url": "https://www.helpling.com.sg/pricing",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ECDA eligibility rules",
+      "url": "https://www.ecda.gov.sg/parents/preschool-subsidies/infant-and-childcare-subsidy-scheme/overview",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Income assessment",
+      "url": "https://www.ecda.gov.sg/parents/preschool-subsidies/assessment-of-household-income",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "levy concession",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "normal first-helper levy",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/paying-levy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "My First Skool · Blk 803",
+      "url": "https://www.myfirstskool.com/our-centres/blk-803-tampines/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "My First Skool · Blk 487C",
+      "url": "https://www.myfirstskool.com/our-centres/blk-487c-tampines/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "My First Skool · Blk 627B / Greenverge",
+      "url": "https://www.myfirstskool.com/our-centres/blk-627b-tampines/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Skool4Kidz · GreenLeaf",
+      "url": "https://skool4kidz.com.sg/our-centres/tampines-greenleaf/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Skool4Kidz · GreenRidges",
+      "url": "https://skool4kidz.com.sg/our-centres/tampines-greenridges/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "My First Skool fee guide",
+      "url": "https://www.myfirstskool.com/fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Skool4Kidz fee table",
+      "url": "https://skool4kidz.com.sg/fees-subsidies/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "My First Skool's FAQ",
+      "url": "https://www.myfirstskool.com/about-us/faq/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Skool4Kidz's registration checklist",
+      "url": "https://skool4kidz.com.sg/registration/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Baby Bonus",
+      "url": "https://www.life.gov.sg/family-parenting/benefits-support/baby-bonus-scheme",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "The existing cash schedule",
+      "url": "https://www.life.gov.sg/family-parenting/benefits-support/baby-bonus-scheme/csa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SG Child Support Package transition",
+      "url": "https://www.life.gov.sg/family-parenting/benefits-support/sg-child-support-package",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CDA",
+      "url": "https://www.life.gov.sg/family-parenting/benefits-support/baby-bonus-scheme/cda",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MSF schemes",
+      "url": "https://www.profamilyleave.msf.gov.sg/schemes",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shared leave",
+      "url": "https://www.profamilyleave.msf.gov.sg/schemes/shared-parental-leave",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "aop_monthly_net": {
+      "label": "Conditional AOP programme net with full working-applicant subsidy",
+      "value": 646.15,
+      "unit": "SGD_per_month",
+      "display": "S$646.15"
+    },
+    "pop_monthly_net": {
+      "label": "Conditional POP programme net with full working-applicant subsidy",
+      "value": 706.1,
+      "unit": "SGD_per_month",
+      "display": "S$706.10"
+    },
+    "helper_monthly_equivalent": {
+      "label": "Illustrative first-contract monthly helper equivalent including setup",
+      "value": 1256.06,
+      "unit": "SGD_per_month",
+      "display": "S$1,256.06"
+    },
+    "grandparent_monthly_budget": {
+      "label": "Assumed grandparent and cleaning monthly cost",
+      "value": 1090,
+      "unit": "SGD_per_month",
+      "display": "S$1,090"
+    },
+    "cash_support_total": {
+      "label": "Conditional cash support total after transition, not extra payout",
+      "value": 10000,
+      "unit": "SGD",
+      "display": "S$10,000"
+    },
+    "first_step_grant": {
+      "label": "First-child CDA grant without parent deposit",
+      "value": 5000,
+      "unit": "SGD",
+      "display": "S$5,000"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete retained index.html, sources.md and independent-check.md read locally; relevant retained ECDA, LifeSG, fee and income extracts inspected. No network, new research, contact, registration, build or publication. Local imported parity and Decimal checks only.",
+    "originalResearchAccessLimitations": "Original automatic managed-browser fallbacks had unverified prior cleanliness. Retained independent review and source ledger record later public no-cookie corroboration of decisive numerical material, including income server payload. This does not retroactively certify clean-only research. No login, credential import, forms or contact reported.",
+    "reviewReconciliation": "Current retained index hash matches independent-check reviewed hash dc7322426cd406d19da55c5388f99743c8c817133112dacd3aa6101e14fa8c62. Independent review source-register cleanup B/C is recorded as completed in director closeout; source ledger confirms superseding fresh income payload and usable PDF/GST captures."
+  },
+  "datePolicy": "Original access date November 7, 2026 retained; source publication/effective dates separate and unknown where not stated. Copy authoring is not source refresh. Announced 2027 implementation conditional; 2030 fee target excluded from August 2027 budget.",
+  "uncertainties": [
+    "Baby citizenship at birth, first-child status, lawful marriage, named mother/main applicant, qualifying work hours, assessed bonus-inclusive income and household composition remain unconfirmed. Chinese translation changes no profile or eligibility.",
+    "No actual subsidy award, August vacancy, numerical local wait, private fee or complete extras/deposit total established. All five local candidates are AOPs; POP is scheme-cap comparison and private row hypothetical.",
+    "AOP/POP programme fees assume unchanged published caps, applicable 9% GST, full Basic/Additional award and co-pay conditions. Not all-in or future written quotes.",
+    "Helper wage/living/reserves and grandparent honorarium/cleaning allowance are explicit assumptions. Commercial provider prices unconfirmed; no accommodation/replacement/uninsured cost guarantee. Bond face value is contingent, insurance not double-counted.",
+    "Baby Gift/CDA funds are finite; parent co-matching deposits remain parent money. Actual branch Approved Institution status and eligible charges need confirmation. No assumed legacy cash plus new top-up double-counting.",
+    "Leave and future support need eligibility, employer arrangements and implementation checks. No promised six months paid leave each.",
+    "Original browser-cleanliness procedural exception preserved; no new visual/rendering, legal/medical/financial certification or fresh external verification."
+  ],
+  "editingContract": "Only assigned new en/zh Markdown, data JSON and batch26 notes. No existing source/shared code/inventory/README/receipts edited; no build/network/contact/publication. No Review or rating markup.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Singapore families, including Chinese-speaking parents, comparing infant care and subsidy choices; example remains a Tampines SC+PR couple earning SGD 11,500 with a February 2027 baby and August return to work.",
+  "localeReason": "English and Chinese support Chinese-speaking Singapore families making the same infant-care, grant and backup choices; citizenship, marriage, birth order, applicant and income assumptions are unchanged.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

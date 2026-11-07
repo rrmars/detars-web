@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "7e6bc3fd39f75257bc32885c233424f20ac90aa2440492d310cff36ba612fc62",
+  "sourceListLink": "../w7-singapore-infant-care-dual-income/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "f323a5ac12bc8ad67c8e5750e6050e6e0692a9ed6619434f250df7d478b72964",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "999e8e3bd88ccf573efaa780ddbea31e73ce472b3c9f750c6254811d068042a3",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 2,
+  "slug": "filipino-nurse-uk-nhs-2027",
+  "translationKey": "filipino-nurse-uk-nhs-2027",
+  "sources": [
+    {
+      "title": "NMC joining costs",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/check-ready/costs/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NMC timing",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/check-ready/how-long-is-it-going-to-take/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Qualification verification",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/eligibility-and-qualification-application/qualification-and-registration/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PRC Citizen’s Charter",
+      "url": "https://www.prc.gov.ph/sites/default/files/PRC_CC_03312025.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NMC accepted tests",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-english-language-tests/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IELTS Academic rules",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-english-language-tests/ielts-academic/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OET rules",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-english-language-tests/oet/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "British Council Philippines test prices",
+      "url": "https://www.britishcouncil.ph/exam/ielts/book-test",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CBT rules",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/toc/toc-nursing-and-midwifery/cbt/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Original-document check",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/id-check-process-and-requirements/test-of-competence-overseas-route/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHS overseas-nurse guidance",
+      "url": "https://www.nhsemployers.org/articles/recruitment-overseas-nurses-and-midwives",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OSCE rules",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/toc/toc-nursing-and-midwifery/osce/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Registration decision",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/registration-application/registration-decision/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Health evidence",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/registration-application/health/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Character evidence",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/registration-application/character/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indemnity arrangements",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/registration-application/professional-indemnity/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Test of Competence",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/toc/toc-nursing-and-midwifery/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Qualification English evidence",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/qualified-in-english/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Accepted English-speaking countries",
+      "url": "https://www.nmc.org.uk/globalassets/sitedocuments/registration/accepted-english-speaking-countries.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Recent practice in English",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/recent-practice-in-english/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SIFE eligibility",
+      "url": "https://www.nmc.org.uk/registration/joining-the-register/sife/sife-for-applicants/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DMW online services",
+      "url": "https://onlineservices.dmw.gov.ph/OnlineServices/POEAOnline.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "London embassy exit-clearance information (current checklist unconfirmed)",
+      "url": "https://londonpe.dfa.gov.ph/120-pages/165-overseas-employment-certificate",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHS international recruitment toolkit",
+      "url": "https://www.nhsemployers.org/intl-kit",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Visa timing",
+      "url": "https://www.gov.uk/health-care-worker-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Visa documents",
+      "url": "https://www.gov.uk/health-care-worker-visa/documents-you-must-provide",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Eligible sponsored job",
+      "url": "https://www.gov.uk/health-care-worker-visa/your-job",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "CoS requirements",
+      "url": "https://www.gov.uk/uk-visa-sponsorship-employers/certificates-of-sponsorship",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Healthcare immigration pay scales",
+      "url": "https://www.gov.uk/government/publications/national-pay-scales-for-eligible-healthcare-jobs/national-pay-scales-for-eligible-healthcare-occupation-codes",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Visa English requirements",
+      "url": "https://www.gov.uk/health-care-worker-visa/knowledge-of-english",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Visa costs and maintenance",
+      "url": "https://www.gov.uk/health-care-worker-visa/how-much-it-costs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Partner and child rules",
+      "url": "https://www.gov.uk/health-care-worker-visa/your-partner-and-children",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Approved Philippine TB clinics",
+      "url": "https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-the-philippines/tuberculosis-testing-in-the-philippines",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "TB test conditions",
+      "url": "https://www.gov.uk/tb-test-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Skilled Worker Rules",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-skilled-worker",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Earned-settlement outcome",
+      "url": "https://www.gov.uk/government/consultations/earned-settlement",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Settlement reform announcement",
+      "url": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "England international recruitment code",
+      "url": "https://www.gov.uk/government/publications/code-of-practice-for-the-international-recruitment-of-health-and-social-care-personnel/code-of-practice-for-the-international-recruitment-of-health-and-social-care-personnel-in-england",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHS repayment guidance",
+      "url": "https://www.nhsemployers.org/publications/repayment-clauses-guidance-0",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Immigration Skills Charge",
+      "url": "https://www.gov.uk/uk-visa-sponsorship-employers/immigration-skills-charge",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "England tenancy fees and deposits",
+      "url": "https://www.gov.uk/guidance/fees-you-can-charge-as-part-of-a-tenancy",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Financial evidence guidance",
+      "url": "https://www.gov.uk/guidance/financial-evidence-for-sponsored-or-endorsed-work-routes",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NMC annual fee",
+      "url": "https://www.nmc.org.uk/registration/your-registration/paying-your-fee/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "England NHS pay 2026/27",
+      "url": "https://www.nhsemployers.org/articles/pay-scales-202627",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Recognising overseas experience",
+      "url": "https://www.nhsemployers.org/publications/guidance-recognition-experience-gained-outside-nhs",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2026/27 tax and NI",
+      "url": "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NHS pension contribution bands",
+      "url": "https://www.nhsbsa.nhs.uk/member-hub/cost-being-scheme",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pension tax relief",
+      "url": "https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tax when coming to the UK",
+      "url": "https://www.gov.uk/tax-come-to-uk",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Appendix Children",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-children",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "savings_php": {
+      "label": "Joy’s initial savings",
+      "value": 350000,
+      "unit": "PHP",
+      "display": "PHP 350,000"
+    },
+    "supported_move_total": {
+      "label": "Conditional supported move including protected reserves",
+      "value": 3897.24,
+      "unit": "GBP",
+      "display": "£3,897.24"
+    },
+    "self_funded_total": {
+      "label": "Move without promised employer funding",
+      "value": 6315.24,
+      "unit": "GBP",
+      "display": "£6,315.24"
+    },
+    "band_five_net_monthly": {
+      "label": "Illustrative steady entry Band 5 monthly net at current model rates",
+      "value": 2040.21,
+      "unit": "GBP_per_month",
+      "display": "£2,040.21"
+    },
+    "family_move_total": {
+      "label": "Additional husband and child move fund with lower-duration visa fees",
+      "value": 5711.85,
+      "unit": "GBP",
+      "display": "£5,711.85"
+    },
+    "family_monthly_spending": {
+      "label": "Unconfirmed family spending before childcare",
+      "value": 2200,
+      "unit": "GBP_per_month",
+      "display": "£2,200"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Read complete retained index.html, sources.md and independent-check.md locally; no additional attachments in the run directory. Standard-library HTML parsing preserved all three substantive financial tables; factual prose expanded from retained ledger only. No network, browser, research refresh, contact, application, publication or build. Local content_utils/check_i18n imports and Decimal checks described in scoped author notes.",
+    "originalResearchAccessLimitations": "Original public HTTP/search sometimes automatically fell back to DeTars managed-browser readability whose initial empty-cookie state was not attested. No supplied credentials, sign-in or interaction reported. Key visa/job/English/family/TB/repayment pages subsequently reopened in fresh nonpersistent contexts. Some NMC/nurse-guidance fallback retrievals retain the original procedural limitation; later clean checks do not erase it. Philippine government search snippets are preliminary, not full checklist reads.",
+    "reviewReconciliation": "Retained independent-check.md audited HTML hash 511062d6385b3c512306f385590341dc5e3db0114e2730883c1010c40aebf0d1, matching the inspected artifact. It records 70/70 deterministic checks and historical responsive layout tests. Separate reviewer attempts failed; the final check is director-authored separate arithmetic, not independent-model review. No current Markdown rendering or all-page visual claim."
+  },
+  "datePolicy": "Preserve original November 7, 2026 access dates and source-specific effective/publication dates; authoring is not a fresh source check. Unknown publication/model dates remain unknown. 2026/27 pay, tax, pension and current test/visa fees may change before 2027; no award, immigration reform outcome or future clearance implementation is invented.",
+  "uncertainties": [
+    "Philippine first-time UK/NHS deployment requirements and fees remain unconfirmed: DMW licensed-agency/accreditation or approved direct hire, MWO contract/addendum, orientations, medical, insurance/membership, OEC/digital exit clearance and any cohort quota/exemption need current confirmation. PRC NMC verification alone is not departure clearance.",
+    "No actual job offer, sponsor, CoS, pay-step recognition or repayment contract inspected. Funded model requires upfront OSCE/visa/flight and two months free accommodation. Later reimbursement is a cash-flow gap, not equivalent to prepayment. Mandatory sponsorship/recruitment costs are employer-only.",
+    "GBP1=PHP75 and stress80 are unconfirmed planning rates. Private costs and TB6000PHP reserve are allowances, not tariffs. Local IELTS14470PHP provider price and NHSBSA pension inputs are provisional under original publisher restriction. OET price unknown.",
+    "Current NMC/visa/English/assessment/deadline rules and all fees need recheck for 2027. Eligibility field, actual test dates, medical/character evidence and exam availability are individual. July–August arrival for September registered work is a buffer, not a guarantee.",
+    "Pay model uses England non-London 2026/27 rates, entry Band5 salary and pension; no overtime or remittances. Band4 pre-PIN pay is an offered-role assumption, not universal. NI annual-threshold approximation can differ by payroll pennies; future rates and emergency tax unknown.",
+    "September2027–August2028 higher net illustration assumes no earlier UK taxable income and full allowance across two tax years with unchanged current rates; residence and foreign income may change result. Do not spend the modelled benefit before actual payroll.",
+    "Family child age, eligibility/care arrangements, joining date, remaining grant duration, housing and childcare quote unknown. Family gross fund credits no returned room deposit; excludes childcare, renewal and settlement. One entry Band5 income is below the chosen family monthly budget.",
+    "Maintenance is accessible evidence money, not a fee or a separate duplicate budget line. 28-day hold and31-day ending window apply unless valid exception/certification. Principal certification or residence does not automatically cover newly arriving dependants.",
+    "Current family permissions normally end with actual principal/earlier parental expiry. No fresh visa term from later arrival and no guaranteed settlement in2032. Earned-settlement detail, commencement and family transitional rules remain unresolved.",
+    "No new rendering, live availability, current-law assurance, independent-model certification or external verification. Local literal/table/hash/arithmetic checks cannot certify actual eligibility, quotes or decisions."
+  ],
+  "editingContract": "Only new English Markdown, shared semantic data and checks/batch26-filipino-nurse-uk-nhs-2027-notes.md. No Chinese page assigned. No existing-file, source-run, inventory, README, renderer or shared-receipt edits; no build, network, contact, publishing or ratings.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Filipino registered nurses planning Philippine first deployment and NHS England registration/employment, illustrated by a Cebu nurse travelling alone before her husband and child.",
+  "localeReason": "English only: the specific Philippine deployment and UK professional/employment route is the assigned audience; no distinct Chinese audience established.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

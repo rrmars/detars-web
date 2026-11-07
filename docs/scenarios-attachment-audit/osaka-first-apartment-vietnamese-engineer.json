@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "7717e3876466726a8967d6e8972d85881ba3c02845f8e852f418660ae2f4ccf7",
+  "sourceListLink": "../w7-osaka-first-apartment-vietnamese-engineer/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "310726dff2f045735bd3d1afd95d9cff5858a702f56ed6e059d8984220bd943b",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "fc2366c2f98fcb56d12644f9931df076e3df52deb5ea74f2eb7798c7cb798b4a",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

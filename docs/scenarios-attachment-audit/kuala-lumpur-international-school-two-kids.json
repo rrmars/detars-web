@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "508bae959a4d5c0df136a3e7ca6cce42618fe985a736d072bcbbef1c92ee3b65",
+  "sourceListLink": "../w7-kl-international-school-two-kids/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "1fa90f6913c247ba00ddaaa0d31c2015a09251014b361ef6708e0048fbc3b039",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "29c12e17dc112f1ea2d308eb6028580a8bd6917b5e2f4a96f10b47aad5da9749",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
