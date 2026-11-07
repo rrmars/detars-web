@@ -16,9 +16,9 @@ export const domains = [
 export const rules = [
   ['ai-tools', /(?:offline-translation|text-to-speech|local-(?:speech|upscalers|music-generation)|offline-ocr|background-remov|ai-.*(?:tools|slide)|hands-on-review|meeting-notes|ai-transcription)/],
   ['study', /(?:primary-one|masters|study-abroad|english-test|(?:^|-)mba(?:-|$)|international-school|korean-course|secondary-school)/],
-  ['careers', /(?:analyst-switch|job-search|job-offer|backend-job|remote-design|germany-vs-canada|nurse|career-switch)/],
+  ['careers', /(?:analyst-switch|job-search|job-offer|backend-job|remote-design|germany-vs-canada|nurse|career-switch|(?:^|-)ssw-)/],
   ['visas', /(?:digital-nomad|working-holiday|retirement|visa|entry-visa|dtv)/],
-  ['housing', /(?:first-home|first-apartment|rent(?:al|ing)?(?:-|$)|home-buying|buying-(?:property|apartment))/],
+  ['housing', /(?:first-home|first-apartment|cash-purchase|rent(?:al|ing)?(?:-|$)|home-buying|buying-(?:property|apartment))/],
   ['family', /(?:care-options|rescue-dog|vegetarian-protein|health-insurance|first-baby|meal-plan|wedding|home-gym|household-budget|family-move|dental|infant-care|(?:^|-)dog-|aged-care)/],
   ['business', /(?:freelance-designer|candle-maker|estimated-tax|jewellery|freelancer-income|cash-flow|cash-forecast|kiosk|candle-pricing|home-bakery|cafe|sambal|home-tutoring)/],
   ['buying', /(?:air-purifier|laptop|phone|headphones|robot-vacuum|used-car|ebike|running-watch|solar|family-car|home-internet)/],

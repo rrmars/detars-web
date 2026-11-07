@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 2,
+  "slug": "kyoto-osaka-wheelchair-autumn-five-nights",
+  "translationKey": "kyoto-osaka-wheelchair-autumn-five-nights",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": {
+    "en": "Helen and her husband, Melbourne-based travellers planning a manual-wheelchair Kansai trip; also useful to Chinese-speaking wheelchair travellers without changing the original profile or eligibility.",
+    "zh": "以墨尔本的 Helen 和丈夫为本例，供规划手动轮椅关西旅行的读者，包括中文读者使用；翻译不改变原有人物、保险背景或资格。"
+  },
+  "localeReason": "English and Simplified Chinese are genuinely useful for Chinese-speaking wheelchair travellers planning Kansai. Translation retains Helen, age 58 at research, Melbourne residence, full-time manual-wheelchair use and brief standing transfers, husband and Australian insurance context. No citizenship/passport is invented, and foreign-passport/Temporary Visitor ticket eligibility is conditional rather than transferred to other readers.",
+  "sources": [
+    {
+      "title": "RIHGA Royal Hotel Kyoto · Barrier-free twin",
+      "url": "https://www.rihga.co.jp/kyoto/stay/universal-room/twin",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Universal Room",
+      "url": "https://jrwest-hotels.jp/granvia-kyoto/stay/triple-family-universal-rooms/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "services",
+      "url": "https://jrwest-hotels.jp/granvia-kyoto/stay/service_universal/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "THE OSAKA STATION HOTEL · Accessible Room",
+      "url": "https://osakastation-hotel.jp/en/accessible-hotel/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "1 Queen / 2 Twin Standard Accessible",
+      "url": "https://www.rihga.co.jp/osaka/stay/room/standard-accessible",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "access",
+      "url": "https://www.rihga.co.jp/osaka/stay/universal-room",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Kyoto Marriott Hotel",
+      "url": "https://www.marriott.com/en-gb/hotels/osakm-kyoto-marriott-hotel/overview/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Moxy Osaka Honmachi",
+      "url": "https://www.marriott.com/en-us/hotels/osaox-moxy-osaka-honmachi/overview/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RIHGA Kyoto package published 30 September 2026",
+      "url": "https://www.rihga.co.jp/hubfs/assets/pdf/kyoto/release/2026/20260930--1.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HARUKA product",
+      "url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "JR fare benchmark",
+      "url": "https://www.westjr.co.jp/company/ir/library/fact/pdf/2025/fact2025.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "JR accessibility policy",
+      "url": "https://www.westjr.co.jp/travel-information/en/train-usage-guide/accessibility/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Japanese wheelchair-reservation policy",
+      "url": "https://www.jr-odekake.net/railroad/service/barrierfree/wheelchair/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Boarding/alighting assistance",
+      "url": "https://www.jr-odekake.net/railroad/service/barrierfree/boarding-alighting/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Kyoto JR",
+      "url": "https://eki.jr-odekake.net/barrierfree?id=0610116",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Osaka JR / Umeda",
+      "url": "https://eki.jr-odekake.net/barrierfree?id=0610130",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Namba food outing",
+      "url": "https://osaka-info.jp/en/special/universal/course03/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Nankai Rapi:t",
+      "url": "https://www.nankai.co.jp/en_railway/traffic/express/rapit.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Miyako Taxi Kyoto",
+      "url": "https://www.117385.com/service/fukushi/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tetra Care Taxi Osaka",
+      "url": "https://www.tetracaretaxi.net/cont4/main.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Arashiyama wheelchair map dates to March 2020",
+      "url": "https://kyoto-universal.jp/rental/images/arashiyama_kurumaisu_2020-03.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "City guide",
+      "url": "https://kyoto-universal.jp/route-02-gosho.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ministry access guidance",
+      "url": "https://www.env.go.jp/garden/kyotogyoen/2_guide/ud.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Seasonal guidance",
+      "url": "https://www.env.go.jp/garden/kyotogyoen/1_intro/flower.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Temple benchmark",
+      "url": "https://www.tenryuji.com/en/visit/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "City route",
+      "url": "https://kyoto-universal.jp/route-18-chikurin.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "city congestion tool",
+      "url": "https://ja.kyoto.travel/comfort/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "City guide",
+      "url": "https://kyoto-universal.jp/route-07-nanzernji.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Temple rules",
+      "url": "https://www.eikando.or.jp/haikan.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official autumn calendar",
+      "url": "https://kyoto.travel/en/seasonal-info/autumnleaves/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "restaurant page",
+      "url": "https://mimiu.co.jp/pages/namba",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "official tourism survey",
+      "url": "https://osaka-info.jp/en/special/universal/course03/spot01/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "551 Horai Namba Walk",
+      "url": "https://www.551horai.co.jp/shop/list/20/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2022 official tourism inventory",
+      "url": "https://osakairasshai.start.osaka-info.jp/u_tourism/spot/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "23 November 2027 is Labour Thanksgiving Day",
+      "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NGT Kyoto",
+      "url": "https://ngt-k.com/en/kyoto/same-day-wheelchair-rental/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Osaka hotel delivery",
+      "url": "https://www.ngt-k.com/en/osaka/same-day-wheelchair-rental/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Reco Enmachi, Kyoto",
+      "url": "https://www.recojapan.co.jp/shop/shop38/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Takenoko Cycle",
+      "url": "https://www.takenokocycle.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Youda, Osaka",
+      "url": "https://custom-youda.com/contact/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wording index",
+      "url": "https://www.allcleartravel.com.au/policy-wordings",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "operative PDS",
+      "url": "https://cdn.prod.website-files.com/670988c0b72508f3398b22ff/6adb16051beca6c8f0326c5e_2026_10_29_ALLCLEAR_AU_PDS.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "assessment information",
+      "url": "https://www.covermore.com.au/travel-insurance/existing-medical",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PDS issued on/after 15 October 2025",
+      "url": "https://www.covermore.com.au/sites/cmau/files/2026-05/Cover_More_Australia_Product_Disclosure_Statement_15_October_2025.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Kyoto",
+      "url": "https://www.city.kyoto.lg.jp/gyozai/page/0000236942.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Osaka",
+      "url": "https://www.pref.osaka.lg.jp/o050040/zei/alacarte/shukuhaku.html",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "planned_total_jpy": {
+      "label": "Total including contingency",
+      "value": 667000,
+      "unit": "JPY for both",
+      "display": "¥667,000",
+      "status": "Conditional allowance total, not commercial affordability"
+    },
+    "planned_total_aud": {
+      "label": "Total at fixed planning FX",
+      "value": 7021.05,
+      "unit": "AUD for both",
+      "display": "AUD 7,021.05",
+      "status": "Assumed AUD 1 = JPY 95, no live FX"
+    },
+    "headroom_aud": {
+      "label": "Headroom beyond contingency",
+      "value": 478.95,
+      "unit": "AUD for both",
+      "display": "AUD 478.95",
+      "status": "Finite headroom, not separate guaranteed funding"
+    },
+    "contingency_jpy": {
+      "label": "Contingency",
+      "value": 87000,
+      "unit": "JPY for both",
+      "display": "¥87,000",
+      "status": "15% of JPY 580,000"
+    },
+    "stress_total_aud": {
+      "label": "Total at weaker exchange rate",
+      "value": 7411.11,
+      "unit": "AUD for both",
+      "display": "AUD 7,411.11",
+      "status": "Full JPY envelope fixed at JPY 90/AUD; fees extra within reserves"
+    },
+    "aid_gold_plus_limit": {
+      "label": "AllClear Gold Plus shared aid/hire limit",
+      "value": 3500,
+      "unit": "AUD policy sublimit",
+      "display": "AUD 3,500",
+      "status": "Not premium; shared with necessary hire, depreciation/excess/acceptance apply"
+    }
+  },
+  "planningAssumptions": {
+    "profile": {
+      "name": "Helen",
+      "ageAtResearch": 58,
+      "residence": "Melbourne",
+      "citizenship": "unknown",
+      "passport": "unknown",
+      "partySize": 2,
+      "companion": "husband",
+      "mobility": "Full-time manual-wheelchair user, brief standing transfers only; no stair, bathtub or sedan-transfer ability inferred",
+      "ageAtTravel": [
+        59,
+        60
+      ],
+      "chairDimensions": "unknown",
+      "chairValueOwnershipFunding": "unknown",
+      "diagnosisHistoryInvestigations": "unknown",
+      "husbandAssistanceCapacity": "unknown",
+      "dietaryAllergyNeeds": "unknown"
+    },
+    "travel": {
+      "arrival": "2027-11-18",
+      "departure": "2027-11-23",
+      "days": 6,
+      "nights": 5,
+      "kyotoNights": [
+        "2027-11-18",
+        "2027-11-19",
+        "2027-11-20"
+      ],
+      "osakaNights": [
+        "2027-11-21",
+        "2027-11-22"
+      ],
+      "kyotoCheckout": "2027-11-21",
+      "osakaCheckout": "2027-11-23",
+      "flightTimesTerminals": "unknown",
+      "holidayDeparture": "Labour Thanksgiving Day; published holiday, not future service/crowd guarantee",
+      "internationalFlightsIncluded": false
+    },
+    "rooms": {
+      "status": "No exact guaranteed allocated roll-in room, verified transfer geometry or November 2027 quote/stock established",
+      "kyotoNightlyCapJPY": 65000,
+      "osakaNightlyCapJPY": 60000,
+      "taxAndService": "Room-only caps include compulsory service and consumption tax; accommodation tax separate; actual itemization controls",
+      "requirements": [
+        "Guaranteed category/allocation, not request only",
+        "No lip, track, step or bath transfer for shower entry",
+        "Current photographs and floor plan",
+        "Measured clear openings, shower dimensions/threshold and seat",
+        "Mattress-top height and bedside/toilet-transfer clearance",
+        "Step-free street, room and restaurant route",
+        "All-in price and cancellation rules"
+      ]
+    },
+    "rail": {
+      "mainLegs": [
+        {
+          "route": "KIX–Kyoto HARUKA",
+          "date": "2027-11-18",
+          "adultJPY": 2700,
+          "priceBasis": "Purchases from 2026-11-01; observed 2026-11-07"
+        },
+        {
+          "route": "Kyoto–Osaka JR Kyoto Line",
+          "date": "2027-11-21",
+          "adultJPY": 580,
+          "priceBasis": "2025-04-01 older benchmark",
+          "fastestDaytimeMinutes": 28
+        },
+        {
+          "route": "Osaka–KIX HARUKA",
+          "date": "2027-11-23",
+          "adultJPY": 1900,
+          "priceBasis": "Observed 2026-11-07; no 2027 fare"
+        }
+      ],
+      "bothMainLegsJPY": 10360,
+      "touristTicketEligibility": "Foreign passport and Temporary Visitor; not sold in Japan; Helen eligibility unconfirmed",
+      "wheelchairEnvelopeCM": {
+        "lengthMax": 120,
+        "heightMax": 120,
+        "widthMax": 70
+      },
+      "harukaCar": 3,
+      "reservationChannel": "Staffed station or wheelchair telephone channel; ordinary tourist ticket not wheelchair allocation",
+      "opensIfUnchanged": [
+        "2027-10-18T10:00:00+09:00",
+        "2027-10-23T10:00:00+09:00"
+      ],
+      "assistanceSeparate": true,
+      "stationBufferMinutes": [
+        30,
+        45
+      ],
+      "bufferStatus": "Author advice, not JR minimum",
+      "overseasEnglishChannel": "unconfirmed",
+      "kixTerminalLiftRoute": "unverified",
+      "rapitAlternative": {
+        "fastestMinutes": 34,
+        "surchargeJPY": 700,
+        "baseFareAdditional": true,
+        "totalFare": "unconfirmed",
+        "includedInCostedRoute": false
+      }
+    },
+    "budget": {
+      "currency": "JPY",
+      "baseFXJPYperAUD": 95,
+      "fxStatus": "Fixed author assumption dated 2026-11-07; not live rate, forecast or offer",
+      "rows": [
+        {
+          "key": "kyoto_rooms",
+          "jpy": 195000,
+          "aud": 2052.63,
+          "basis": "3 × JPY 65,000; unquoted room-only cap"
+        },
+        {
+          "key": "osaka_rooms",
+          "jpy": 120000,
+          "aud": 1263.16,
+          "basis": "2 × JPY 60,000; unquoted room-only cap"
+        },
+        {
+          "key": "accommodation_tax",
+          "jpy": 8000,
+          "aud": 84.21,
+          "basis": "3 × 2 × 1,000 + 2 × 2 × 500; actual itemization/future rules control"
+        },
+        {
+          "key": "meals",
+          "jpy": 72000,
+          "aud": 757.89,
+          "basis": "2 × 6 × 6,000"
+        },
+        {
+          "key": "rail",
+          "jpy": 24000,
+          "aud": 252.63,
+          "basis": "10,360 mixed-date main legs + 13,640 urban/fare-change allowance"
+        },
+        {
+          "key": "occupied_chair_taxi",
+          "jpy": 70000,
+          "aud": 736.84,
+          "basis": "Unquoted reserve including dispatch/waiting"
+        },
+        {
+          "key": "admissions",
+          "jpy": 12000,
+          "aud": 126.32,
+          "basis": "1,000 Tenryu-ji pair benchmark + 11,000 flexible allowance"
+        },
+        {
+          "key": "chair_hire_repair",
+          "jpy": 16000,
+          "aud": 168.42,
+          "basis": "Unconfirmed allowance; delivered two-day minimum from 15,200"
+        },
+        {
+          "key": "insurance",
+          "jpy": 57000,
+          "aud": 600,
+          "basis": "AUD 600 allowance × 95; no medical quote"
+        },
+        {
+          "key": "communications",
+          "jpy": 6000,
+          "aud": 63.16,
+          "basis": "Unquoted allowance"
+        }
+      ],
+      "subtotalJPY": 580000,
+      "contingencyPercent": 15,
+      "contingencyJPY": 87000,
+      "totalJPY": 667000,
+      "totalAUD": 7021.05,
+      "ceilingAUD": 7500,
+      "ceilingJPY": 712500,
+      "headroomJPY": 45500,
+      "headroomAUD": 478.95,
+      "stress": {
+        "jpyPerAUD": 90,
+        "totalAUD": 7411.11,
+        "headroomAUD": 88.89,
+        "breakEvenJPYperAUD": 88.93,
+        "method": "Entire JPY envelope fixed, including converted insurance; FX/payment fees must fit reserves"
+      },
+      "exclusions": [
+        "International flights",
+        "Shopping",
+        "Personal care; no paid personal-care service assumed",
+        "Substantial medical costs"
+      ],
+      "taxBands": {
+        "kyoto": {
+          "perPersonRoomJPYMin": 20000,
+          "perPersonRoomJPYUpperExclusive": 50000,
+          "taxJPY": 1000
+        },
+        "osaka": {
+          "perPersonRoomJPYMin": 20000,
+          "taxJPY": 500
+        },
+        "basis": "Two equal-sharing adults, room-only; room/service tax base excludes meals and consumption tax; no double counting if quote includes lodging tax"
+      }
+    },
+    "insurance": {
+      "allClearWordingFrom": "2026-10-29",
+      "allClearGoldAidHireAUD": 2500,
+      "allClearGoldPlusAidHireAUD": 3500,
+      "aidStatus": "Shared aid plus necessary hire limit, not new-for-old, depreciation/excess/conditions apply; ownership/NDIS/loan status unknown",
+      "medicalAcceptance": "Written acceptance required, no assessment submitted",
+      "coverMorePDSIssuedOnOrAfter": "2025-10-15",
+      "coverMoreStatus": "All automatic criteria or assessment; extra premium/terms possible; wheelchair-specific hire not established",
+      "premiumAUDForBoth": 600,
+      "premiumStatus": "Unquoted allowance, not adequate-cover finding"
+    },
+    "chairBackup": {
+      "outOfHoursReplacement": "unconfirmed; no guaranteed 24-hour repair, imported parts or fitted weekend/holiday chair",
+      "ngtDeliveredMinimumJPY": 15200,
+      "minimumDays": 2,
+      "requestBeforeJST": "14:00 on business days",
+      "hours": "09:30–18:30 weekdays; closed weekends/public holidays",
+      "delivery": "Staffed city hotels only; stock-dependent, no guaranteed delivery time",
+      "standardModelSeatWidthCM": 40,
+      "standardModelCapacityKG": 100,
+      "reserveJPY": 16000,
+      "fitStatus": "Not clinically suitable seating guarantee; retain prescribed cushion"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-07",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and adjacent VOICE-GUIDE first; batch35 Perth JSON and English Markdown for schema/voice only. Complete assigned index.html, sources.md and independent-check.md read. No other factual run, external lookup, contact, publication or inventory/build edits. Package content_utils.py/check_i18n.py inspected for scoped authoring checks.",
+    "originalResearchAccessLimitations": "Some original automatic fetch/search routes used managed-browser sessions, including relied-on supplementary Marriott/Moxy overviews. Clean-session history cannot be certified; no new source refresh or cure is claimed. Four main hotels and insurers had direct preserved evidence.",
+    "independentCheckDisposition": "Original independent check passed arithmetic/ledger traceability, not booking readiness, future affordability, full primary re-verification or clean-session compliance. It independently recomputed 15 budget rows; several repeat primary fetches failed and were not counted as successful. Original visual/layout history is not evidence for these new Markdown files.",
+    "layoutEvidenceLimit": "No HTML build, browser, visual, accessibility or print checks performed for these authored files."
+  },
+  "datePolicy": "All cited-source access dates retain 2026-11-07 from the assigned ledger. Historical prices, policy issue dates, old survey dates and future travel remain separate. Authoring is not source refresh. Unknown model/publication date remains unknown.",
+  "uncertainties": [
+    "Exact guaranteed room allocation, genuine zero-lip shower geometry, clear openings and personal transfer fit",
+    "November 2027 accessible-room prices and inventory; hotel caps are not quotes",
+    "Medical underwriting, accepted-condition terms, companion exposure and actual premium; chair ownership/value/aid cover",
+    "Usable overseas rail channel, live lifts, terminal-to-station route and occupied-chair taxi quotations",
+    "Suitable out-of-hours/weekend/holiday replacement chair and imported parts",
+    "2027 prices, hours, fares, leaf peak, weather and crowd conditions; historical third-party surveys not new field checks",
+    "Flight times/terminals, DOB, dimensions, medical history, helper ability and dietary needs remain user-held gaps"
+  ],
+  "editingContract": "Only new data/kyoto-osaka-wheelchair-autumn-five-nights.json, en/kyoto-osaka-wheelchair-autumn-five-nights.md, zh/kyoto-osaka-wheelchair-autumn-five-nights.md and checks/batch36-kansai-author-note.md. No inventory/existing files or source edits, web/contact/publication, build or visual checks.",
+  "domain": "travel",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

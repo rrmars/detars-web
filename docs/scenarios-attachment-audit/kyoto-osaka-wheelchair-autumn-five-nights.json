@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "8626590252dd2d5a6a13035ca50d793cbe3ef0c2aafa8eef57a0049b4c8c4098",
+  "sourceListLink": "../w7-kyoto-osaka-wheelchair-autumn/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "81bfeb3dec5bc9851997aad9f50fe59f59c74768f70358b9611dc56fa501a1a9",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "de804c5d86e46362dfe79f7f5a1133c557ef8c7565061f8d399870f0e29f8a9d",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

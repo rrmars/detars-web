@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "433d39711743c8eac813c1f12e08a4ed9fad1b78bf6e059c5355b293cd131fa5",
+  "sourceListLink": "../w7-cebu-house-ofw-couple-dubai/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "28e3f50f00ef251cafe6e71df746f71fcbe527dbc41a4f960e85ef84502b49bd",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

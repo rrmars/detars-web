@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 2,
+  "slug": "indonesia-cook-japan-ssw-food-service-pause",
+  "translationKey": "indonesia-cook-japan-ssw-food-service-pause",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Rizky, an Indonesian hotel line cook in Yogyakarta preparing for possible Japan food-service SSW(i) work, and similarly situated new overseas Indonesian applicants.",
+  "localeReason": "English only: this is a specific Indonesian applicant route with Indonesian sending procedures, IDR savings and family remittances. No distinct Chinese-reader need is established; adding Chinese would not change nationality, eligibility or the suspended route.",
+  "sources": [
+    {
+      "title": "ISA processing update",
+      "url": "https://www.moj.go.jp/isa/10_00259.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ISA suspension policy",
+      "url": "https://www.moj.go.jp/isa/applications/ssw/03_00001.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OTAFF reservation suspension",
+      "url": "https://otaff.or.jp/tokutei/en/news/cat5/1894/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MAFF field guidance",
+      "url": "https://www.maff.go.jp/j/shokusan/gaisyoku/gaikokujinzai.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MAFF suspension Q&A",
+      "url": "https://www.maff.go.jp/j/shokusan/gaisyoku/attach/pdf/gaikokujinzai-112.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Prometric Indonesia suspension",
+      "url": "https://www.prometric-jp.com/ssw/news/archives/311",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ISA food-service standards",
+      "url": "https://www.moj.go.jp/isa/policies/ssw/foodservice.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SSW food-service overview",
+      "url": "https://www.ssw.go.jp/en/about/visa/food_service_1/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SSW application routes",
+      "url": "https://www.ssw.go.jp/en/about/sswv/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ISA Indonesia procedures",
+      "url": "https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri06_00108.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official P3MI list",
+      "url": "https://siskop2mi.bp2mi.go.id/profil/lembaga/list_lembaga/p3mi",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "English bilateral memorandum",
+      "url": "https://www.moj.go.jp/isa/content/930004301.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "English procedure document",
+      "url": "https://www.moj.go.jp/isa/content/930005013.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ISA eligibility, support and costs FAQ",
+      "url": "https://www.moj.go.jp/isa/policies/ssw/faq.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SSW application documents",
+      "url": "https://www.ssw.go.jp/en/about/apply/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesian individual-route guide",
+      "url": "https://jaripmi.kp2mi.go.id/informasi-pmi/calon-pmi/penempatan-calon-pmi/informasi-negara-tujuan-penempatan-jepang-program-ssw",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SISKOP2MI E-KPMI FAQ",
+      "url": "https://siskop2mi.bp2mi.go.id/publik/faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Mandatory support rules",
+      "url": "https://www.moj.go.jp/isa/policies/ssw/supportssw.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official RSO register",
+      "url": "https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri07_00205.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MHLW recruitment-permission guidance",
+      "url": "https://www.mhlw.go.jp/content/0020190401.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Revised residence-permit fees",
+      "url": "https://www.moj.go.jp/isa/01_00644.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Support-cost warning",
+      "url": "https://www.moj.go.jp/isa/policies/ssw/chuui.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Regulation register",
+      "url": "https://jdih.bp2mi.go.id/index.php/Content/produk/8/889000625",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Full Regulation 17/2025",
+      "url": "https://jdih.bp2mi.go.id/uploads/20250908/20250908221027_889000625_PERMEN_KP2MI_Nomor_17_tahun_2025_tentang_Biaya_Penempatan_PMI.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Japanese embassy visa fees and processing",
+      "url": "https://www.id.emb-japan.go.jp/itpr_id/visa.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Decision register",
+      "url": "https://jdih.bp2mi.go.id/index.php/Content/produk/8/889000129",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Full Decision 148/2023",
+      "url": "https://jdih.bp2mi.go.id/uploads/20230418/20230418132854_889000129_KEPKA__Nomor_148_Tahun__2023_tentang_Berbadan_Hukum_di_Jepang_dengan_Visa_SSW.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Skills exam format",
+      "url": "https://www.prometric-jp.com/en/ssw/test_list/archives/4",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "OTAFF pass standard",
+      "url": "https://otaff.or.jp/tokutei/en/gaisyoku-1/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesia test fees",
+      "url": "https://www.prometric-jp.com/en/ssw/exam/fee/#bge-indonesia",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "JFT levels and format",
+      "url": "https://www.jpf.go.jp/jft-basic/e/about/index.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "JFT dates and booking rules",
+      "url": "https://www.prometric-jp.com/en/ssw/test_list/archives/1",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Next-cycle announcement",
+      "url": "https://www.prometric-jp.com/en/ssw/news/archives/374",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Exact centre/day calendar",
+      "url": "https://www.prometric-jp.com/en/ssw/schedule/jft_basic_overseas/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official centre directory",
+      "url": "https://www.prometric-jp.com/en/ssw/hall/overseas/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tentative annual plan",
+      "url": "https://www.jpf.go.jp/jft-basic/schedule/pdf/test_schedule_2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "July announcement",
+      "url": "https://jlptonline.or.id/news/pendaftaran-ujian-jlpt-2026-juli",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "December announcement",
+      "url": "https://jlptonline.or.id/news/pendaftaran-ujian-jlpt-2026-desember",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official December cities poster",
+      "url": "https://cdn-v2.jlptonline.or.id/images/news/2RFT7qtSRdcMJ5bbLYiKTCUkGNnpUpGJLrvvsFD7.png",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Location directory",
+      "url": "https://jlptonline.or.id/location",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Indonesia fee FAQ",
+      "url": "https://jlptonline.or.id/faq",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Official announcement index",
+      "url": "https://jlptonline.or.id/news",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "N4 pass requirements",
+      "url": "https://www.jlpt.jp/e/guideline/results.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MHLW release",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75722.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MHLW foreign-employment report",
+      "url": "https://www.mhlw.go.jp/content/11655000/001742822.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MHLW release date",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/dl/13.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Accommodation/food-service wage table",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/dl/05.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SSW wage table",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/dl/09.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Survey definitions",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/dl/14.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pension rates and remuneration bands",
+      "url": "https://www.nenkin.go.jp/service/kounen/hokenryo/hoshu/20150515-01.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tokyo health and levy table",
+      "url": "https://www.kyoukaikenpo.or.jp/~/media/Files/shared/hokenryouritu/r8/ippan/R8_13tokyo.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Tokyo table redirect",
+      "url": "https://www.kyoukaikenpo.or.jp/assets/R8_13tokyo.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Employment-insurance rates",
+      "url": "https://www.mhlw.go.jp/content/001692566.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Employer-funded workers’ compensation",
+      "url": "https://www.mhlw.go.jp/www2/topics/seido/daijin/hoken/980916_3.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NTA withholding tables",
+      "url": "https://www.nta.go.jp/publication/pamph/gensen/zeigakuhyo2026/01.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "NTA monthly tax table",
+      "url": "https://www.nta.go.jp/publication/pamph/gensen/zeigakuhyo2026/data/01-07.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Resident-tax explanation",
+      "url": "https://www.foreign.city.shinjuku.lg.jp/en/kurashi/jyuminzei/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bank Indonesia exchange-rate reference",
+      "url": "https://www.bi.go.id/en/statistik/informasi-kurs/transaksi-bi/default.aspx",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "initial_savings": {
+      "label": "Rizky’s current savings",
+      "value": 25,
+      "unit": "million IDR",
+      "display": "IDR 25 million",
+      "status": "Stated applicant profile; no additional savings assumed"
+    },
+    "monthly_family_receipt": {
+      "label": "Family receipt per chosen transfer",
+      "value": 6726000,
+      "unit": "IDR per transfer",
+      "display": "IDR 6,726,000",
+      "status": "Conditional months 3–12; ¥60,000 outflow less hypothetical ¥1,000 friction, at 114 IDR/JPY"
+    },
+    "annual_family_receipt": {
+      "label": "Family receipt over chosen first-year transfer schedule",
+      "value": 67260000,
+      "unit": "IDR over ten transfers",
+      "display": "IDR 67,260,000",
+      "status": "Conditional scenario, not guaranteed earnings or transfer quote"
+    },
+    "arrival_year_cash": {
+      "label": "Unrestricted Japan cash after 11 received salaries in 12 arrival months",
+      "value": 43667580,
+      "unit": "IDR cash equivalent",
+      "display": "IDR 43,667,580",
+      "status": "Assumed immediate work and one-month salary arrears; excludes receivable, separate tax earmark and home reserve"
+    },
+    "two_month_payday_gap": {
+      "label": "Extra liquidity if first full pay takes two months",
+      "value": 8940000,
+      "unit": "IDR shortfall",
+      "display": "IDR 8,940,000",
+      "status": "Chosen setup and living assumptions; no broker loan recommended"
+    }
+  },
+  "planningAssumptions": {
+    "classification": "Illustrative conditional planning assumptions, not a salary offer or official tariff",
+    "fx_idr_per_jpy": 114,
+    "savings_idr": 25000000,
+    "prep_cap_idr": 5000000,
+    "home_reserve_idr": 5000000,
+    "arrival_cash_idr": 15000000,
+    "setup_jpy": 30000,
+    "monthly": {
+      "gross": 220000,
+      "pension": 20130,
+      "health_allowance": 11000,
+      "employment_insurance": 1100,
+      "income_tax_allowance": 4000,
+      "housing": 35000,
+      "utilities": 8000,
+      "food": 30000,
+      "phone": 3000,
+      "commute": 5000,
+      "miscellaneous": 9000,
+      "resident_tax_reserve": 5000,
+      "remittance_months_1_2": 0,
+      "remittance_months_3_12": 60000
+    },
+    "stress": {
+      "gross": 200000,
+      "housing": 45000,
+      "health_allowance": 10000,
+      "pension": 18300,
+      "employment_insurance": 1000,
+      "income_tax_allowance": 3500
+    },
+    "remittance_note": "JPY 60000 is total monthly budget incl transfer fees and spread; illustrative JPY 1000 fee equivalent leaves JPY 59000 delivered. No actual provider quote."
+  },
+  "conditionalResults": {
+    "monthlyDeductionsJPY": 36230,
+    "monthlyNetJPY": 183770,
+    "monthlyLivingJPY": 90000,
+    "monthlyAvailableAfterTaxReserveJPY": 88770,
+    "monthlyRetainedBufferDuringTransfersJPY": 28770,
+    "twelvePaidMonthsNewBufferJPY": 465240,
+    "twelvePaidMonthsUnrestrictedJapanCashJPY": 566819,
+    "twelvePaidMonthsUnrestrictedJapanCashIDR": 64617360,
+    "arrivalYearReceivedSalaries": 11,
+    "arrivalYearCashPayJPY": 2021470,
+    "arrivalYearNewCashBufferJPY": 281470,
+    "arrivalYearUnrestrictedJapanCashJPY": 383049,
+    "arrivalYearUnrestrictedJapanCashIDR": 43667580,
+    "netPayReceivableJPY": 183770,
+    "taxEarmarkJPY": 60000,
+    "familyAnnualReceiptJPY": 590000,
+    "familyAnnualReceiptIDR": 67260000,
+    "arrivalBridgeRounding": "Use unrounded IDR/114; separately rounded yen buckets differ from rounded total by one yen; displayed end-cash conversion differs by six rupiah."
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "README and VOICE-GUIDE first; batch35 Perth JSON/English Markdown as schema/voice examples only. Complete assigned index.html, sources.md and independent-check.md read; budget model, director evidence and retained raw ISA FAQ Q97 inspected. No other source run, web lookup, contact or publication.",
+    "originalResearchAccessLimitations": "Original automatic browser-backed search and embassy fallback were not demonstrably fresh-session retrievals. Later empty-context embassy recheck supports tariff but does not erase earlier procedural limitation. Official primary sources outside original enumerated families were conservatively labelled unconfirmed under that strict filter, not commercial or fictitious.",
+    "independentCheckDisposition": "Retained independent check supports all 62 money-table numeric cells and all 51 JFT centre/month cells, including January 2027. Its Q97 support-system omission is addressed in the new English checklist after inspecting the retained raw primary answer; no source-run file changed.",
+    "layoutEvidenceLimit": "No new HTML build, browser, visual, accessibility or print checks; original HTML layout observations are not certification of the new Markdown."
+  },
+  "datePolicy": "Preserve original 2026-11-07 access dates. Source notices, fee effective dates and future planning dates remain distinct. Copy authoring is not a source refresh; late-2027 departure and future rates remain unconfirmed.",
+  "uncertainties": [
+    "No verified new-overseas food-service COE reopening, skills-test restart or late-2027 departure.",
+    "Published January 2027 JFT dates retained; exact later-2027 dates and live seats not established. JLPT admin charge and 2027 schedule/fee unknown.",
+    "Decision 148/2023 printed maximums are not a certified current worker invoice; reconcile with Regulation 17/2025, current tariffs and case-specific exceptions.",
+    "No restaurant-only SSW entry-wage mean; actual contract, rent, insurer, tax, payday, permit duration and renewal bill unknown.",
+    "Remittance friction, future FX, setup and living costs are assumptions; the lower arrival-year cash case separates receivable from cash.",
+    "Historical fresh-session limitation remains disclosed; no new source retrieval or visual certification."
+  ],
+  "editingContract": "Only new data/indonesia-cook-japan-ssw-food-service-pause.json, en/indonesia-cook-japan-ssw-food-service-pause.md and checks/batch36-indonesia-author-note.md. No Chinese page justified. No inventory, existing package, source-run, website, publication or contact changes.",
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}
