@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Students comparing guest-access research tools for a university literature assignment.",
+  "audience": {
+    "en": "Students comparing guest-access research tools for a university literature assignment.",
+    "zh": "为大学文献作业比较可免登录试用的研究工具的学生。"
+  },
   "schemaVersion": 2,
   "slug": "free-ai-tools-student-research-hands-on-review",
   "translationKey": "free-ai-tools-student-research-hands-on-review",

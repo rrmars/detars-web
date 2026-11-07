@@ -122,7 +122,8 @@ headlineFigures:
     unit: "EUR"
     display: "€732.73"
     status: "Unconfirmed planning model, not supplier quote"
-audience: "Priya and Marcus, both Singapore citizens, planning an Indian-heritage symbolic Lake Como celebration with guests travelling from India and Singapore."
+audience:
+  en: "Priya and Marcus, both Singapore citizens, planning an Indian-heritage symbolic Lake Como celebration with guests travelling from India and Singapore."
 faq: []
 draft: false
 ---

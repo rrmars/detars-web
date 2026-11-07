@@ -69,7 +69,9 @@ headlineFigures:
     unit: "funding_shortfall"
     currency: "GBP"
     display: "£12,070"
-audience: "Prospective sole trader opening a Manchester takeaway coffee kiosk with unpaid owner work and part-time staff."
+audience:
+  en: "Prospective sole trader opening a Manchester takeaway coffee kiosk with unpaid owner work and part-time staff."
+  zh: "准备在曼彻斯特开外带咖啡亭的个体经营者，老板自己的工作不领工资，另有兼职员工。"
 faq: []
 draft: false
 ---

@@ -180,7 +180,9 @@ headlineFigures:
     currency: "USD"
     unit: "three_year_base_cost_excluding_repairs_tax_shipping"
     display: "$818.13"
-audience: "US pet household with a shedding long-haired cat, hardwood floors, rugs and loose cables."
+audience:
+  en: "US pet household with a shedding long-haired cat, hardwood floors, rugs and loose cables."
+  zh: "美国一户养宠物的家庭，家里有一只掉毛的长毛猫，铺着硬木地板和地毯，地上还有散落的线缆。"
 faq:
   - q: "“哪些 Anker eufy 应用支持 Matter？”"
     a: "常见问题列明 eufy 兼容、eufy Clean 当前支持，涉及 Matter 1.4／HomeKit。未来版本的说法针对专用 HomeKit 配置入口，不是全部 Matter 支持。请确认固件，也别推定 C28 同样支持。"

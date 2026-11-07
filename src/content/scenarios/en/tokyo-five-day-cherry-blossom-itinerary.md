@@ -93,7 +93,9 @@ headlineFigures:
     currency: "JPY"
     unit: "five_days_for_two"
     display: "¥17,300"
-audience: "Two adults planning a late-March Tokyo blossom trip with flexible sightseeing days."
+audience:
+  en: "Two adults planning a late-March Tokyo blossom trip with flexible sightseeing days."
+  zh: "两位成年人计划三月下旬去东京赏樱，观光日程可以灵活调整。"
 faq:
   - q: "Should you split five days between Tokyo and Kyoto or Osaka?"
     a: "This end-March 2027 question raises the same choice. For this route, I would keep one Tokyo base and spend the time sightseeing rather than changing hotels. The family in that thread is not the couple this plan is for."

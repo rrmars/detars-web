@@ -84,7 +84,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_month"
     display: "$1,731"
-audience: "Remote workers comparing Canggu monthly rentals and full living costs for a working stay."
+audience:
+  en: "Remote workers comparing Canggu monthly rentals and full living costs for a working stay."
+  zh: "想在仓古（Canggu）按月租房并远程工作的人，需要比较租金和完整的生活成本。"
 faq:
   - q: "能找到有好用书桌、椅子和 Wi-Fi 的房间吗？"
     a: "一位租客在巴厘岛住宿提问里，为两个月的住宿问的就是这些。这里 Lagom 广告中的配置最完整。Berawa 和 Pondok 只列了桌子；椅子、坐姿和通话质量，要自己确认后再依赖。"

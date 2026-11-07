@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Two adults planning a late-March Tokyo blossom trip with flexible sightseeing days.",
+  "audience": {
+    "en": "Two adults planning a late-March Tokyo blossom trip with flexible sightseeing days.",
+    "zh": "两位成年人计划三月下旬去东京赏樱，观光日程可以灵活调整。"
+  },
   "schemaVersion": 2,
   "slug": "tokyo-five-day-cherry-blossom-itinerary",
   "translationKey": "tokyo-five-day-cherry-blossom-itinerary",

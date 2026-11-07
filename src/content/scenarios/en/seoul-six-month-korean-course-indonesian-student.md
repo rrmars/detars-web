@@ -104,8 +104,9 @@ headlineFigures:
     unit: "KRW_per_month"
     display: "KRW 990,000"
 audience:
-  en: "Prospective Korean-language students, including Chinese-speaking readers, comparing funding and arrival routes; the example remains Putri, a 22-year-old Indonesian citizen planning two 10-week terms in Seoul, not a full year."
-  id: "Calon pelajar bahasa Korea, termasuk pembaca berbahasa Mandarin, yang membandingkan pendanaan dan jalur kedatangan; contohnya tetap Putri, warga negara Indonesia berusia 22 tahun yang merencanakan dua term 10 minggu di Seoul, bukan satu tahun penuh."
+  en: "Prospective Korean-language students comparing funding and arrival routes, using Putri, a 22-year-old Indonesian citizen planning two 10-week terms in Seoul, not a full year."
+  zh: "想比较资助方式和入境路线的韩语留学生。示例是 22 岁的印度尼西亚公民 Putri，她计划在首尔上两个 10 周的学期，而不是整整一年。"
+  id: "Calon pelajar bahasa Korea yang membandingkan pendanaan dan jalur kedatangan, dengan contoh Putri, warga negara Indonesia berusia 22 tahun yang merencanakan dua term 10 minggu di Seoul, bukan satu tahun penuh."
 faq: []
 draft: false
 ---

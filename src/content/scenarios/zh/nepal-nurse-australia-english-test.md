@@ -148,7 +148,9 @@ headlineFigures:
     label: "Dated OET full-test fees only, excludes travel and FX"
     unit: "two_test_fee_total"
     currency: "AUD"
-audience: "Nepali nurse age 27 with four years of experience in Kathmandu, comparing Australian nursing-registration and visa English targets around shifts; useful to Chinese-speaking nurses without transferring Nepal prices, local access or qualification eligibility."
+audience:
+  en: "A 27-year-old Nepali nurse with four years of experience in Kathmandu, comparing the English targets for Australian nursing registration and visas around shift work."
+  zh: "一位27岁的尼泊尔护士，在加德满都有四年工作经验，在轮班之余对比澳大利亚护士注册和签证的英语成绩要求。"
 faq: []
 draft: false
 ---

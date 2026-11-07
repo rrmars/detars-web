@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Salaried Indian ordinary-passport holders living in Bengaluru and planning a first France–Italy tourism trip.",
+  "audience": {
+    "en": "Salaried Indian ordinary-passport holders living in Bengaluru and planning a first France–Italy tourism trip.",
+    "zh": "住在班加罗尔、持印度普通护照的受薪人士，计划第一次前往法国和意大利旅游。"
+  },
   "schemaVersion": 2,
   "slug": "schengen-visa-india-application-timeline",
   "translationKey": "schengen-visa-india-application-timeline",

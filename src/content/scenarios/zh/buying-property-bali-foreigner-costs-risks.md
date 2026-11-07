@@ -120,7 +120,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_year_after_simplified_tax_stress"
     display: "$2,328"
-audience: "Singapore-citizen buyers considering a Bali home for personal stays and conditional short-term rental use."
+audience:
+  en: "Singapore-citizen buyers considering a Bali home for personal stays and conditional short-term rental use."
+  zh: "新加坡公民买家，考虑在巴厘岛买一处房子，用于自己小住，并在符合条件时短租。"
 faq:
   - q: "Leasehold 对你意味着什么？"
     a: "这里是有限期限的合同使用权，不是土地永久所有权。看契约、查出租方产权、确认剩余期限；广告中的续期另谈。问答笼统称 1–25 年，并不是 Law5／1960 租赁条文规定的统一法律上限。"

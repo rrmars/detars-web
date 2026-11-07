@@ -164,7 +164,10 @@
     "en",
     "zh"
   ],
-  "audience": "Primarily Filipino BSBA graduates considering study in Canada; the Chinese version helps Chinese-speaking readers compare the same route, rather than implying every scenario needs every language.",
+  "audience": {
+    "en": "Filipino BSBA graduates considering study in Canada on a CAD 70,000 budget.",
+    "zh": "持 BSBA 学位的菲律宾毕业生，正在考虑赴加拿大读书，预算为 CAD 70,000。"
+  },
   "voiceRevisionNotes": "Reader-first bilingual rewrite only; no external refresh, contacts, applications, payments, bookings or publishing. Technical run provenance remains in provenance and sourceListLink; original sources, access dates, headline figures and source artifact hashes are unchanged.",
   "domain": "study",
   "researchDates": [

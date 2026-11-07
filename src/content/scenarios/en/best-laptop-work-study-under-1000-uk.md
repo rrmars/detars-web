@@ -177,7 +177,9 @@ headlineFigures:
     currency: "GBP"
     unit: "illustrative_laptop_and_charger_vat_inclusive"
     display: "£838.99"
-audience: "UK marketing professional starting a part-time master's and choosing a laptop for work, study and commuting."
+audience:
+  en: "UK marketing professional starting a part-time master's and choosing a laptop for work, study and commuting."
+  zh: "一位英国的市场营销从业者，即将开始非全日制硕士学习，正在挑选兼顾工作、学习和通勤的笔记本电脑。"
 faq:
   - q: "Is 8GB enough, or should I insist on 16GB?"
     a: "Ordinary work may run on 8GB, but my preference for calls, tabs, Canva and several years of use is 16GB. The Neo and £899 Surface are not like-for-like memory alternatives to the two leads. This is a workload/headroom judgment, not a new benchmark or prediction that 8GB will fail."

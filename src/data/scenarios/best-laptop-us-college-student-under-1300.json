@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Prospective US computer-science undergraduates choosing a course-compatible college laptop.",
+  "audience": {
+    "en": "Prospective US computer-science undergraduates choosing a course-compatible college laptop.",
+    "zh": "准备就读美国大学计算机专业的本科生，正在挑选与课程兼容的大学笔记本电脑。"
+  },
   "schemaVersion": 2,
   "slug": "best-laptop-us-college-student-under-1300",
   "translationKey": "best-laptop-us-college-student-under-1300",

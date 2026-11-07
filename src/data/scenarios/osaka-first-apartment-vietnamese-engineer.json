@@ -207,8 +207,9 @@
     "vi"
   ],
   "audience": {
-    "en": "Newcomers comparing Osaka rental cash, guarantors and commutes, including Chinese-speaking readers; the worked applicant remains Vietnamese engineer Linh with N4 Japanese and an Umeda job.",
-    "vi": "Người mới đến so sánh tiền mặt thuê nhà, người bảo lãnh và quãng đường đi làm ở Osaka, kể cả độc giả nói tiếng Trung; ví dụ vẫn là kỹ sư người Việt Linh, trình độ tiếng Nhật N4, làm việc tại Umeda."
+    "en": "Newcomers comparing Osaka rental cash, guarantors and commutes through the example of Linh, a Vietnamese engineer with N4 Japanese and a job in Umeda.",
+    "zh": "刚到大阪的新住户，通过越南工程师Linh的例子对比租房现金、担保人和通勤；Linh的日语为N4，工作地点在梅田。",
+    "vi": "Người mới đến so sánh tiền mặt thuê nhà, người bảo lãnh và quãng đường đi làm ở Osaka qua ví dụ Linh, một kỹ sư người Việt có tiếng Nhật N4 và làm việc tại Umeda."
   },
   "localeReason": "English, Chinese and Vietnamese: the worked applicant is a Vietnamese engineer, so Vietnamese-language newcomers are a direct audience. The Vietnamese translation changes neither the original applicant nor eligibility.",
   "domain": "housing",

@@ -174,7 +174,9 @@ headlineFigures:
     value: 180000
     unit: "ISK"
     display: "ISK 180,000"
-audience: "A Singapore-passport couple in their early thirties planning a no-driving February Iceland trip; Chinese-speaking Singapore residents can use the same planning comparison without inheriting passport eligibility."
+audience:
+  en: "A Singapore-passport couple in their early thirties planning a February Iceland trip without driving."
+  zh: "两位三十出头、持新加坡护照的伴侣，计划二月不自驾的冰岛之行。"
 faq: []
 draft: false
 ---

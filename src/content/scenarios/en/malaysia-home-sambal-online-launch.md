@@ -112,8 +112,8 @@ headlineFigures:
     unit: "jars/month"
     display: "58"
 audience:
-  en: "Malaysian microbusiness owners, including Chinese-speaking readers, testing home-made sambal sales under the specific Shah Alam premises, safety and budget constraints."
-  zh: "计划小规模销售自制参巴的马来西亚经营者，包括华语读者；保留莎阿南场所许可、食品安全及预算条件。"
+  en: "Aisyah, age 38, starting a home-made sambal business in Shah Alam, Malaysia, with RM8,000 starting capital and a target of 300 jars/month, working through premises permission, food safety and budget."
+  zh: "38 岁的 Aisyah 在马来西亚莎阿南开始自制参巴生意，启动资金 RM8,000，目标是每月 300 罐，需要依次处理场所许可、食品安全和预算。"
 faq: []
 draft: false
 ---

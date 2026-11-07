@@ -90,7 +90,9 @@ headlineFigures:
     unit: "arrival_cash"
     currency: "EUR"
     display: "€8,700"
-audience: "Single Indian software developer moving to Berlin for EU Blue Card employment and seeking a first rental home."
+audience:
+  en: "Single Indian software developer moving to Berlin for EU Blue Card employment and seeking a first rental home."
+  zh: "一位单身的印度软件开发者，因欧盟蓝卡（EU Blue Card）工作搬到柏林，正在找第一处租住的房子。"
 faq: []
 draft: false
 ---

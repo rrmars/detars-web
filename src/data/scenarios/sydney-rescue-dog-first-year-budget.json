@@ -235,7 +235,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Sydney renter couples planning an adult rescue dog, using a Marrickville two-bedroom apartment and two three-office-day schedules; no distinct Chinese-speaking audience was established.",
+  "audience": {
+    "en": "Sydney renter couples planning an adult rescue dog, using a Marrickville two-bedroom apartment and two three-office-day schedules."
+  },
   "localeDecision": "English only: this is a specific NSW tenancy, local-care and household-budget scenario; no specific Chinese-speaking audience was supplied or established. Chinese was not added speculatively.",
   "budgetModel": {
     "as_of": "2026-11-06",

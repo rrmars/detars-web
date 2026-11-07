@@ -188,7 +188,10 @@
     "en",
     "zh"
   ],
-  "audience": "UK citizen employed in Saudi Arabia considering a Dubai apartment for rental investment and possible later personal use.",
+  "audience": {
+    "en": "UK citizen employed in Saudi Arabia considering a Dubai apartment for rental investment and possible later personal use.",
+    "zh": "一位在沙特阿拉伯工作的英国公民，考虑在迪拜买一套公寓用于出租投资，以后也可能自住。"
+  },
   "domain": "housing",
   "researchDates": [
     "2026-11-05"

@@ -165,7 +165,9 @@ headlineFigures:
     label: "Two-person allowance; blocked Trenitalia lookup is not repaired with an invented fare"
     currency: "EUR"
     unit: "unquoted_train_allowance"
-audience: "First-time Sydney couple with ordinary Australian passports visiting Rome and Florence September 4–10, 2027; English and Simplified Chinese serve the same plan for a destination popular with Chinese-speaking travellers too, without transferring Australian entry eligibility."
+audience:
+  en: "First-time Sydney couple with ordinary Australian passports visiting Rome and Florence September 4–10, 2027."
+  zh: "首次同行的悉尼情侣，持澳大利亚普通护照，于2027年9月4–10日游览罗马和佛罗伦萨。"
 faq: []
 draft: false
 ---

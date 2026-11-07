@@ -146,7 +146,8 @@ headlineFigures:
     currency: "MXN"
     label: "Dated official amount for two adult foreign visitors; 2027 unconfirmed"
     unit: "dated_published_reference"
-audience: "Texas couple using Houston as the departure-city example for a five-night Mexican Caribbean holiday; actual passports and entry eligibility remain unspecified."
+audience:
+  en: "Texas couple using Houston as the departure-city example for a five-night Mexican Caribbean holiday."
 faq: []
 draft: false
 ---

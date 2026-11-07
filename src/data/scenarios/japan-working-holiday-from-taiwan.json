@@ -246,8 +246,9 @@
     "zh-Hant"
   ],
   "audience": {
-    "en": "Taiwan-resident Taiwan-passport applicants planning a Japan Working Holiday and a first Tokyo stay; English and package-only Simplified Chinese retain Taiwan-specific eligibility. Traditional Chinese is likely the better audience fit for eventual Taiwan-facing publication.",
-    "zh-Hant": "居住在台灣、持台灣護照，計畫申請日本打工度假並第一次到東京生活的申請人；保留台灣專屬的資格條件。"
+    "en": "Taiwan-resident applicants with Taiwan passports planning a Japan Working Holiday and a first stay in Tokyo.",
+    "zh": "居住在台湾、持台湾护照，计划申请日本打工度假并第一次到东京生活的申请人。",
+    "zh-Hant": "居住在台灣、持台灣護照，計畫申請日本打工度假並第一次到東京生活的申請人。"
   },
   "localeReason": "Traditional Chinese (zh-Hant, Taiwan usage) added for Taiwan applicants, alongside Simplified Chinese; Taiwan-specific eligibility is unchanged.",
   "domain": "visas",

@@ -93,7 +93,9 @@ headlineFigures:
     currency: "JPY"
     unit: "five_days_for_two"
     display: "¥17,300"
-audience: "Two adults planning a late-March Tokyo blossom trip with flexible sightseeing days."
+audience:
+  en: "Two adults planning a late-March Tokyo blossom trip with flexible sightseeing days."
+  zh: "两位成年人计划三月下旬去东京赏樱，观光日程可以灵活调整。"
 faq:
   - q: "五天要不要分给东京和京都或大阪？"
     a: "这则2027年3月末行程提问也在纠结同一件事。按这条路线，我建议只住东京，把时间留给游览，不用来换酒店。帖中的家庭并不是这份行程所设定的两人，不要直接套用。"

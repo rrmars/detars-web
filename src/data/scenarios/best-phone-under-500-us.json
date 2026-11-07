@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "US phone shoppers prioritizing indoor family photos, battery condition and long software support.",
+  "audience": {
+    "en": "US phone shoppers prioritizing indoor family photos, battery condition and long software support.",
+    "zh": "美国的手机买家，最看重室内家庭照片的效果、电池状况和较长的软件支持期。"
+  },
   "schemaVersion": 2,
   "slug": "best-phone-under-500-us",
   "translationKey": "best-phone-under-500-us",

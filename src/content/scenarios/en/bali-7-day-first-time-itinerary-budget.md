@@ -72,7 +72,9 @@ headlineFigures:
     unit: "per_person"
     currency: "IDR"
     display: "IDR 150,000"
-audience: "Two adult tourists travelling from Singapore on ordinary Singapore passports for their first Bali visit."
+audience:
+  en: "Two adult tourists travelling from Singapore on ordinary Singapore passports for their first Bali visit."
+  zh: "两位持新加坡普通护照的成年游客，从新加坡出发，第一次去巴厘岛。"
 faq: []
 draft: false
 ---

@@ -102,7 +102,9 @@ headlineFigures:
     unit: "retained_cash"
     currency: "GBP"
     display: "£6,000"
-audience: "English for Greater Manchester first-home buyers; Simplified Chinese for Chinese-speaking buyers evaluating the same UK costs, timing and tenure decisions."
+audience:
+  en: "Working first-time-buyer couple in Greater Manchester earning £72,000 gross a year with £38,000 saved, hoping to complete by September 2027."
+  zh: "在大曼彻斯特地区、年总收入 £72,000、存款 £38,000、希望在 2027 年 9 月前完成购房的首次购房夫妇。"
 faq: []
 draft: false
 ---

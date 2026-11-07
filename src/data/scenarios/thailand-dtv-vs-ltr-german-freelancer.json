@@ -223,7 +223,9 @@
   "locales": [
     "en"
   ],
-  "audience": "German freelance designers with EU clients planning most of 2027 and possibly 2028 in Chiang Mai while resolving German home, tax and insurance ties.",
+  "audience": {
+    "en": "German freelance designers with EU clients planning most of 2027 and possibly 2028 in Chiang Mai while resolving German home, tax and insurance ties."
+  },
   "localeReason": "English only: German freelancer/client/tax and insurance profile; no distinct Chinese-reader need established. Chinese would not alter passport, application jurisdiction or treaty eligibility.",
   "domain": "visas",
   "researchDates": [

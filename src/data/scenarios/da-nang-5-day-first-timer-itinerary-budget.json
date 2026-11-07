@@ -157,7 +157,10 @@
     "en",
     "zh"
   ],
-  "audience": "Two adults travelling from Sydney on ordinary Australian passports for their first Da Nang trip.",
+  "audience": {
+    "en": "Two adults travelling from Sydney on ordinary Australian passports for their first Da Nang trip.",
+    "zh": "两位持普通澳大利亚护照的成年人，从悉尼出发，第一次去岘港旅行。"
+  },
   "domain": "travel",
   "researchDates": [
     "2026-11-05"

@@ -120,7 +120,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_year_after_simplified_tax_stress"
     display: "$2,328"
-audience: "Singapore-citizen buyers considering a Bali home for personal stays and conditional short-term rental use."
+audience:
+  en: "Singapore-citizen buyers considering a Bali home for personal stays and conditional short-term rental use."
+  zh: "新加坡公民买家，考虑在巴厘岛买一处房子，用于自己小住，并在符合条件时短租。"
 faq:
   - q: "What does Leasehold mean for you?"
     a: "Here, it means contractual use for a limited term, not permanent ownership of land. Read the deed, check the lessor's title and confirm the remaining term. An advertised extension is separate. The FAQ's general 1–25-year description is not a universal legal maximum under Law5/1960's lease provisions."

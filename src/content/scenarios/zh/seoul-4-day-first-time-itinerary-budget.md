@@ -102,7 +102,9 @@ headlineFigures:
     unit: "per_room_night"
     currency: "KRW"
     display: "₩300,000"
-audience: "First-time Seoul visitors sharing a room and balancing markets, walking and nightlife benefit from a manageable route, a clear spending limit and passport-specific entry checks."
+audience:
+  en: "Two friends in their late twenties sharing a twin room for 3 nights on a first Seoul visit, April 15–18, 2027, travelling from Hong Kong on Hong Kong SAR passports with a US$1,200 cap excluding flights."
+  zh: "两位二十多岁后半的朋友，持香港特区护照从香港出发，首次游首尔，2027年4月15–18日合住一间双床房3晚，预算上限US$1,200，不含机票。"
 faq: []
 draft: false
 ---

@@ -215,7 +215,9 @@
   "locales": [
     "en"
   ],
-  "audience": "An Ohio expectant family, illustrated in Columbus, planning one baby, parental leave and childcare around a May 2027 due date.",
+  "audience": {
+    "en": "An expectant Ohio family, using Columbus as the example, planning one baby, parental leave and childcare around a May 2027 due date."
+  },
   "domain": "family",
   "researchDates": [
     "2026-11-05"

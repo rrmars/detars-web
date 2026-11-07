@@ -59,7 +59,9 @@ headlineFigures:
     value: 3
     unit: "empty_png_exports"
     display: "3"
-audience: "English for sellers evaluating background-removal workflows; Simplified Chinese for Chinese-speaking sellers who need the same practical export and quality limitations."
+audience:
+  en: "Sellers evaluating background-removal workflows, with the practical export and quality limits found in a six-image test."
+  zh: "正在评估抠图（去背景）流程的卖家，可了解一次六图测试中发现的导出和画质限制。"
 faq: []
 draft: false
 ---

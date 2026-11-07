@@ -189,7 +189,10 @@
     "en",
     "zh"
   ],
-  "audience": "Graduate starting a Canary Wharf job in London and comparing flatshares on an entry-level salary.",
+  "audience": {
+    "en": "Graduate starting a Canary Wharf job in London and comparing flatshares on an entry-level salary.",
+    "zh": "在伦敦金丝雀码头开始第一份工作、以入门级薪水比较合租房的毕业生。"
+  },
   "domain": "living",
   "researchDates": [
     "2026-11-05"

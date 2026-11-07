@@ -114,7 +114,9 @@ headlineFigures:
     currency: "GBP"
     unit: "one_off"
     display: "£1,470"
-audience: "England-resident employees renting alone and comparing London and Manchester job offers with Plan 2 deductions."
+audience:
+  en: "England-resident employees renting alone and comparing London and Manchester job offers with Plan 2 deductions."
+  zh: "住在英格兰、独自租房的雇员，正在比较伦敦和曼彻斯特的工作机会，并需计入 Plan 2 学生贷款扣款。"
 faq:
   - q: "Will paying more into any pension reduce my student-loan deduction?"
     a: "A real public question about increasing a workplace pension without salary sacrifice asks exactly this. Not for the RAS arrangement described here or ordinary net-pay contributions: NI remains based on pay before employee pension deductions, and payroll loan deductions follow the NI earnings base. An effective pension salary sacrifice is different. See the HMRC sources above; do not confuse adjusted net income for income-tax purposes with payroll loan earnings."

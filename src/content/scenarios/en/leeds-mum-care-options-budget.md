@@ -149,7 +149,8 @@ headlineFigures:
     value: 267.68
     unit: "GBP_per_week"
     display: "£267.68"
-audience: "An English-speaking adult child working full time and living two hours away, planning assessed care and funding for an 82-year-old mother living alone in Leeds; no distinct Chinese-speaking audience established."
+audience:
+  en: "An adult child working full time and living two hours away, planning assessed care and funding for an 82-year-old mother living alone in Leeds."
 faq: []
 draft: false
 ---

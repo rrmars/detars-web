@@ -87,7 +87,9 @@ headlineFigures:
     currency: "JPY"
     unit: "arrival_cash"
     display: "¥740,420"
-audience: "Foreign professionals planning a Tokyo work-visa move without a Japanese personal guarantor."
+audience:
+  en: "Foreign professionals planning a Tokyo work-visa move without a Japanese personal guarantor."
+  zh: "计划持工作签证搬到东京、但没有日本个人担保人的外籍职场人士。"
 faq:
   - q: "为什么入住要花好几个月租金？"
     a: "公开帖子“初期搬家费，真的有那么贵吗？”也在问这个问题。押金、礼金、中介费和担保费会叠加，最好按表逐项算，别套一个通用倍数。押金退还时可能扣款，礼金则不可退。比较前，可以先看术语解释。"

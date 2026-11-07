@@ -152,8 +152,8 @@
     "zh"
   ],
   "audience": {
-    "en": "English- and Chinese-speaking local-translation users comparing short shop-message workflows; Simplified Chinese directions were tested, without human quality validation.",
-    "zh": "为短店铺消息选择本地翻译流程的英语和中文读者；测试包含简体中文方向，但没有人工质量验证。"
+    "en": "Shop owners who want to handle short customer and product messages locally on a Mac, based on a hands-on test of four engines without human quality validation.",
+    "zh": "想在 Mac 上本地处理简短客户和商品消息的店主；依据是对四个引擎的实测，没有人工质量验证。"
   },
   "domain": "ai-tools",
   "researchDates": [

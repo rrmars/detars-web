@@ -143,7 +143,8 @@ headlineFigures:
     value: 15363.61
     unit: "AUD"
     display: "$15,363.61"
-audience: "Sydney renter couples planning an adult rescue dog, using a Marrickville two-bedroom apartment and two three-office-day schedules; no distinct Chinese-speaking audience was established."
+audience:
+  en: "Sydney renter couples planning an adult rescue dog, using a Marrickville two-bedroom apartment and two three-office-day schedules."
 faq: []
 draft: false
 ---

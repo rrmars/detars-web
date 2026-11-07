@@ -115,8 +115,8 @@ headlineFigures:
     display: "VND27.413m"
     status: "Conditional same-period model; not a guaranteed annual saving"
 audience:
-  en: "HCMC expat families including Chinese-speaking readers planning a birth; original British Tom, 37, and Vietnamese Anh, 34, eligibility profile remains unchanged."
-  zh: "供胡志明市包括中文读者在内的外籍家庭规划生育保障；保留英国籍 Tom 37 岁、越南籍 Anh 34 岁的原有资格背景。"
+  en: "Expat families in HCMC planning a birth, worked through for a couple: Tom, 37, who is British, and Anh, 34, who is Vietnamese."
+  zh: "在胡志明市规划生育保障的外籍家庭；以一对夫妻为例：英国籍的 Tom，37 岁，和越南籍的 Anh，34 岁。"
 faq: []
 draft: false
 ---

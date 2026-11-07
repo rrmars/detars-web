@@ -11,7 +11,10 @@
     "en",
     "zh"
   ],
-  "audience": "Wei Ling and Daniel, Malaysian citizens living in Perth on subclass 491 visas, comparing a first three-bedroom house before or after actual permanent-visa grants; useful to similarly situated temporary-resident couples without transferring their eligibility.",
+  "audience": {
+    "en": "Wei Ling and Daniel, Malaysian citizens living in Perth on subclass 491 visas, comparing a first three-bedroom house before or after actual permanent-visa grants.",
+    "zh": "Wei Ling和Daniel是持491类签证住在珀斯的马来西亚公民，正在对比在实际获得永久签证之前或之后购买第一套三居室房屋。"
+  },
   "localeReason": "English and Simplified Chinese: this WA upfront-cash and actual-PR-timing comparison is genuinely useful to Chinese-speaking Malaysian and other 491-holder couples. Translation does not assign ethnicity, language preference or new nationality to Wei Ling and Daniel, change their profile, or transfer their eligibility. This director-approved continuation supersedes the initial English-only authoring decision.",
   "sources": [
     {

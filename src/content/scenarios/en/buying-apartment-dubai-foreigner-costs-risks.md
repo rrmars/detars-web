@@ -116,7 +116,9 @@ headlineFigures:
     currency: "AED"
     unit: "minimum_loan_principal"
     display: "AED750,000"
-audience: "UK citizen employed in Saudi Arabia considering a Dubai apartment for rental investment and possible later personal use."
+audience:
+  en: "UK citizen employed in Saudi Arabia considering a Dubai apartment for rental investment and possible later personal use."
+  zh: "一位在沙特阿拉伯工作的英国公民，考虑在迪拜买一套公寓用于出租投资，以后也可能自住。"
 faq:
   - q: "Does a 7% gross yield mean the mortgage pays for itself?"
     a: "No. MBL's 7.33% gross example becomes a 4.36% unlevered net yield on the purchase cost, then negative 9,295.13 annual cash after the assumed loan and life payments. Rent is not guaranteed, so check what your actual financing leaves in the account."

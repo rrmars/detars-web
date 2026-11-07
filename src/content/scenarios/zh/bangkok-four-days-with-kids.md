@@ -114,7 +114,9 @@ headlineFigures:
     unit: "estimated_family_admission"
     currency: "THB"
     display: "THB 5,400"
-audience: "English- and Chinese-speaking families planning a gentle Bangkok trip with children and vegetarian needs; the example is two adults and children aged 8 and 12, and all entry eligibility statements apply only to Indonesian ordinary passports, not Chinese passports by translation."
+audience:
+  en: "Families planning a gentle Bangkok trip with children and vegetarian needs; the example is two adults and children aged 8 and 12, and all entry eligibility statements apply only to Indonesian ordinary passports."
+  zh: "想带孩子轻松游曼谷、并有素食需求的家庭；示例为两位成年人和 8 岁、12 岁的孩子，所有入境资格说明仅适用于印度尼西亚普通护照。"
 faq: []
 draft: false
 ---

@@ -237,7 +237,9 @@
   "locales": [
     "en"
   ],
-  "audience": "A Canadian passport holder working Toronto hours remotely for one month in Mexico City in March 2027, with a USD spending budget and separate deposit liquidity.",
+  "audience": {
+    "en": "A Canadian passport holder working Toronto hours remotely for one month in Mexico City in March 2027, with a USD spending budget and separate deposit liquidity."
+  },
   "domain": "living",
   "researchDates": [
     "2026-11-05"

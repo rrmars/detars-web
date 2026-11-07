@@ -146,7 +146,8 @@ headlineFigures:
     value: 12000
     unit: "AUD_cash_reserve"
     display: "$12,000"
-audience: "Australian-citizen first-home-buyer couple in Melbourne with $48,000 savings and $165,000 combined salary, comparing an established two-bedroom home and a June 2027 purchase goal."
+audience:
+  en: "Australian-citizen first-home-buyer couple in Melbourne with $48,000 savings and $165,000 combined salary, comparing an existing two-bedroom home and a June 2027 purchase goal."
 faq: []
 draft: false
 ---

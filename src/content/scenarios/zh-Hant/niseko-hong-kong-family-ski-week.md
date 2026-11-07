@@ -149,8 +149,9 @@ headlineFigures:
     unit: "HKD_rental_model"
     display: "HK$5,160"
 audience:
-  en: "Hong Kong family of two adults and children aged 7 and 11 considering a first Niseko ski week over Lunar New Year, preserving HKSAR-passport-specific entry conditions."
-  zh-Hant: "計畫在農曆新年期間第一次去二世古滑雪一週的香港家庭：兩位大人、七歲與十一歲的孩子，並保留持香港特區護照的入境條件。"
+  en: "Hong Kong family of two adults and children aged 7 and 11 considering a first Niseko ski week over Lunar New Year, with entry conditions for Hong Kong SAR passports."
+  zh: "计划在农历新年期间第一次去二世谷滑雪一周的香港家庭：两位大人，孩子分别为7岁和11岁，涉及持香港特区护照的入境条件。"
+  zh-Hant: "計畫在農曆新年期間第一次去二世古滑雪一週的香港家庭：兩位大人、7歲與11歲的孩子，並涵蓋持香港特區護照的入境條件。"
 faq: []
 draft: false
 ---

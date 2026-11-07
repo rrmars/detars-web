@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Filipino OFW couples in Dubai planning a Cebu family home with AED income, PHP savings and a return around 2030.",
+  "audience": {
+    "en": "Filipino OFW couples in Dubai planning a Cebu family home with AED income, PHP savings and a return around 2030."
+  },
   "localeReason": "English only: the decision depends on Filipino OFW-specific Pag-IBIG eligibility, Philippine property safeguards and an AED/PHP household returning from Dubai. No distinct Chinese-speaking reader need is established; translation would not transfer eligibility.",
   "sources": [
     {

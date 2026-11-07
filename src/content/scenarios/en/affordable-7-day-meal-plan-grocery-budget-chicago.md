@@ -189,7 +189,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_two_adults_week"
     display: "$9.10"
-audience: "Two adults planning budget meals in Chicago, with local grocery repricing and freezer space required."
+audience:
+  en: "Two adults planning budget meals in Chicago, with local grocery repricing and freezer space required."
+  zh: "在芝加哥为两位成年人规划省钱餐食的人，需要按本地超市价格重新核算，并留出冷冻空间。"
 faq:
   - q: "Can two adults really eat for $90 for the week in Chicago?"
     a: "The $80.90 full-package example uses public Sacramento offers, not a Chicago checkout. You need the fixed portions, no discretionary extras and freezer space. Check local prices, stock and usable produce weights first: differences and fees could use up the $9.10 left over."

@@ -161,7 +161,8 @@ headlineFigures:
     label: "Unrounded upper first-month landing estimate; longer stay and upfront insurance can cost more"
     currency: "CAD"
     unit: "first_month_cash_estimate"
-audience: "Filipino newcomer family moving from Manila as permanent residents on May 1, 2027: two adults and one 4-year-old, one CAD 82000 Burnaby salary, comparing two-bedroom rentals and childcare without Canadian credit; English only."
+audience:
+  en: "Filipino newcomer family moving from Manila as permanent residents on May 1, 2027: two adults and one 4-year-old, one CAD 82000 Burnaby salary, comparing two-bedroom rentals and childcare without Canadian credit."
 faq: []
 draft: false
 ---

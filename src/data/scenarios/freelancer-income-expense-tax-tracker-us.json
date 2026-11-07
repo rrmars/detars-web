@@ -111,7 +111,10 @@
     "en",
     "zh"
   ],
-  "audience": "US cash-basis freelancers in Illinois, including Chinese speakers.",
+  "audience": {
+    "en": "US cash-basis freelancers in Illinois.",
+    "zh": "在伊利诺伊州、按收付实现制记账的美国自由职业者。"
+  },
   "domain": "business",
   "researchDates": [
     "2026-11-05"

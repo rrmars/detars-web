@@ -113,7 +113,8 @@ headlineFigures:
     value: 1.01
     unit: "GBP"
     display: "£1.01"
-audience: "Bristol freelance videographer planning a January 2027 UK laptop purchase within £1,500, using Resolve Free with Sony footage and travelling between shoots."
+audience:
+  en: "Bristol freelance videographer planning a January 2027 UK laptop purchase within £1,500, using Resolve Free with Sony footage and travelling between shoots."
 faq: []
 draft: false
 ---

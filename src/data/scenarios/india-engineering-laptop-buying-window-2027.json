@@ -290,7 +290,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Indian mechanical-engineering students and families buying for Pune study and a two-wheeler commute, with a hard INR 85,000 all-in budget and India-specific warranty channels.",
+  "audience": {
+    "en": "Indian mechanical-engineering students and families buying for Pune study and a two-wheeler commute, with a hard INR 85,000 all-in budget and India-specific warranty channels."
+  },
   "localeReason": "English only: Indian student, Pune delivery/local service, institution OS entitlement and India retailer/protection profile; no distinct Chinese-reader need established under README audience rule.",
   "domain": "buying",
   "researchDates": [

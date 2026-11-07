@@ -114,7 +114,9 @@ headlineFigures:
     currency: "EUR"
     unit: "starting_cash_including_emergency_fund"
     display: "€21,217.50"
-audience: "Solo remote software developer planning a year in Lisbon; nationality and legal residence still need confirming."
+audience:
+  en: "Solo remote software developer planning a year in Lisbon; nationality and legal residence still need confirming."
+  zh: "打算在里斯本住一年的独自远程软件开发者；国籍和合法居留身份仍需确认。"
 faq:
   - q: "什么时候申请，哪些活动符合要求？"
     a: "AT 问答 5857解释活动要求和登记程序。通常截止日是成为葡萄牙税务居民次年的1月15日：如果 2027 首次成为居民，而且规则仍适用，就是2028年1月15日。先查具体活动和资格核验机构，赶上截止日不等于符合资格。"

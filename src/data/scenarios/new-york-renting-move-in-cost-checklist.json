@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Solo movers seeking a New York studio or one-bedroom home near a Midtown job.",
+  "audience": {
+    "en": "Solo movers seeking a New York studio or one-bedroom home near a Midtown job.",
+    "zh": "想在纽约找一居室或单间公寓、工作地点在曼哈顿中城附近的独自搬家者。"
+  },
   "schemaVersion": 2,
   "slug": "new-york-renting-move-in-cost-checklist",
   "translationKey": "new-york-renting-move-in-cost-checklist",

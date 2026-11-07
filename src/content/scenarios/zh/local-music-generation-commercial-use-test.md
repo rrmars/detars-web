@@ -66,7 +66,9 @@ headlineFigures:
     value: 6.535
     unit: "GB"
     display: "6.535 GB"
-audience: "Creators including Chinese-speaking readers evaluating local AI instrumental music, commercial model licensing, anonymous access and Mac memory limits."
+audience:
+  en: "Creators evaluating local AI instrumental music, commercial model licensing, anonymous access and Mac memory limits."
+  zh: "评估本地 AI 器乐生成、模型商用授权、匿名访问和 Mac 内存限制的创作者。"
 faq: []
 draft: false
 ---

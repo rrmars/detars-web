@@ -158,7 +158,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Expat sponsor earning AED 28,000/month, moving to Dubai in January 2027 with an employer-paid employee policy and separate cover needed for his wife and children aged 4 and 8.",
+  "audience": {
+    "en": "Expat sponsor earning AED 28,000/month, moving to Dubai in January 2027 with an employer-paid employee policy and separate cover needed for his wife and children aged 4 and 8."
+  },
   "localeReason": "English-only for this specific expat family's Dubai cover comparison and English policy materials; no distinct Chinese-speaking or other regional audience is established by the supplied scenario.",
   "domain": "family",
   "researchDates": [

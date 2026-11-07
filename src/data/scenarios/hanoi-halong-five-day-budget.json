@@ -169,7 +169,10 @@
     "en",
     "zh"
   ],
-  "audience": "Two ordinary Australian-passport friends from Sydney; Chinese helps Chinese-speaking Australian travellers compare the same bay routes, transfers, budget and visa checks without implying different eligibility.",
+  "audience": {
+    "en": "Two friends from Sydney travelling on ordinary Australian passports, planning five days around Hanoi and Ha Long Bay, with bay routes, transfers, budget and visa checks.",
+    "zh": "两位从悉尼出发、持澳大利亚普通护照的朋友，规划河内和下龙湾五天行程，内容包括海湾路线、交通接驳、预算和签证核对。"
+  },
   "domain": "travel",
   "researchDates": [
     "2026-11-06"

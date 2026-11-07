@@ -387,7 +387,10 @@
     "en",
     "zh"
   ],
-  "audience": "Mandarin-speaking older Melbourne residents and their Chinese- or English-speaking families comparing safe residential care around Box Hill/Glen Waverley and conditional Australian care/pension costs.",
+  "audience": {
+    "en": "Daniel and his 82-year-old widowed, Mandarin-speaking mother, looking for residential care near Glen Waverley or Box Hill by February 7, 2027, with a home worth approximately $1,300,000 and savings of $180,000.",
+    "zh": "Daniel 和他 82 岁、丧偶、讲普通话的母亲，希望在 2027 年 2 月 7 日前于 Glen Waverley 或 Box Hill 附近找到合适的养老院，家中房产约值 $1,300,000，存款 $180,000。"
+  },
   "localeReason": "English and Chinese: the mother speaks Mandarin and her Chinese-speaking family must understand the same safety, language, fee and housing decisions. Chinese does not change the Australian-citizen pension/means-test profile or grant family legal authority; Simplified Chinese follows the available locale.",
   "domain": "family",
   "researchDates": [

@@ -127,8 +127,8 @@ headlineFigures:
     currency: "EUR"
     display: "EUR 95"
 audience:
-  en: "For independent travellers planning Istanbul in English, with German-citizen entry guidance clearly separated from the route and budget."
-  zh: "方便中文读者安排路线、住宿和预算；入境部分只针对德国国籍，持其他护照须另查规定。"
+  en: "Independent travellers planning four days in Istanbul, with German-citizen entry guidance clearly separated from the route and budget."
+  zh: "自行安排伊斯坦布尔四天行程的旅行者；德国公民的入境说明与路线和预算分开，持其他护照须另查规定。"
 faq: []
 draft: false
 ---

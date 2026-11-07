@@ -123,7 +123,9 @@ headlineFigures:
     currency: "CAD"
     unit: "starting_cash_including_three_month_reserve"
     display: "$23,575.20"
-audience: "Couple moving from India to Toronto on one salary while the wife initially looks for work."
+audience:
+  en: "Couple moving from India to Toronto on one salary while the wife initially looks for work."
+  zh: "从印度搬到多伦多的夫妻，起初只靠一份薪水生活，妻子同时在找工作。"
 faq:
   - q: "伴侣还没工作，$85,000够吗？"
     a: "按这里的基础开支可以：妻子收入按零算，每月仍剩$942.33。但压力情景比可用收入多$301.17。先补上你家的额外负担和实际雇主扣款，再用这个结论。"

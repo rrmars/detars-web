@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Carla, a Filipino tutor in Quezon City building a Japan/Korea adult-English business under Philippine payment, contractor and tax constraints.",
+  "audience": {
+    "en": "Carla, a Filipino tutor in Quezon City building a Japan/Korea adult-English business under Philippine payment, contractor and tax constraints."
+  },
   "localeReason": "English only: the assigned scenario addresses a specific Filipino tutor and Philippine registration/payment context. No distinct Chinese-reader need is evidenced; no Chinese page or eligibility transfer is implied.",
   "sources": [
     {

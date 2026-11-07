@@ -278,7 +278,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Ukrainian remote backend contractor moving from Warsaw to Tbilisi for one year with a cat, comparing lawful stay, contractor taxes and actual relocation cash flow.",
+  "audience": {
+    "en": "Ukrainian remote backend contractor moving from Warsaw to Tbilisi for one year with a cat, comparing lawful stay, contractor taxes and actual relocation cash flow."
+  },
   "localeReason": "English only: Ukrainian developer moving from Warsaw; no distinct Chinese-reader need established. Nationality, contract and personal eligibility remain specific.",
   "domain": "living",
   "researchDates": [

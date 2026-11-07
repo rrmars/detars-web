@@ -197,7 +197,10 @@
     "en",
     "zh"
   ],
-  "audience": "Couple moving from India to Toronto on one salary while the wife initially looks for work.",
+  "audience": {
+    "en": "Couple moving from India to Toronto on one salary while the wife initially looks for work.",
+    "zh": "从印度搬到多伦多的夫妻，起初只靠一份薪水生活，妻子同时在找工作。"
+  },
   "domain": "living",
   "researchDates": [
     "2026-11-05"

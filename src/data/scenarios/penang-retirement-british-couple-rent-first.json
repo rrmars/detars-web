@@ -404,7 +404,9 @@
   "locales": [
     "en"
   ],
-  "audience": "British retiree couple with GBP pensions and savings considering rent-first Penang living, MM2H capital commitments, individual medical cover and UK pension/tax/NHS consequences.",
+  "audience": {
+    "en": "British retiree couple with GBP pensions and savings considering rent-first Penang living, MM2H capital commitments, individual medical cover and UK pension/tax/NHS consequences."
+  },
   "localeReason": "British couple with GBP pensions and specific nationality/retirement assumptions; no distinct Chinese-reader need established. English only.",
   "domain": "visas",
   "researchDates": [

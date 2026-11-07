@@ -131,7 +131,8 @@ headlineFigures:
     unit: "estimated_route_cost"
     currency: "GBP"
     display: "£700.17"
-audience: "A Leeds, UK sole trader deciding by January 2027 whether to repair a work laptop or replace it within a £700 all-in cash budget."
+audience:
+  en: "A Leeds, UK sole trader deciding by January 2027 whether to repair a work laptop or replace it within a £700 all-in cash budget."
 faq: []
 draft: false
 ---

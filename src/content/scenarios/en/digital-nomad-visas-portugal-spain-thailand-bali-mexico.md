@@ -180,7 +180,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_month_over_six_months_2026"
     display: "USD4,510"
-audience: "Solo US-citizen freelance UX designer comparing overseas remote-work routes while legally resident in the US."
+audience:
+  en: "Solo US-citizen freelance UX designer comparing overseas remote-work routes while legally resident in the US."
+  zh: "独自一人的美国公民、自由职业 UX 设计师，在合法居住于美国期间，比较海外远程工作的几条途径。"
 faq:
   - q: "Does USD5,500/month open all five routes?"
     a: "No. You clear several dated income tests, but still need Thailand's cash history, Bali's qualifying employment agreement, Spain's company/experience/social-security evidence and Mexico's consular and freelance-work clarification. Check those before treating any route as available."

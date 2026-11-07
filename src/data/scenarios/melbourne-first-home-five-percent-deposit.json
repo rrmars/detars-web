@@ -245,7 +245,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Australian-citizen first-home-buyer couple in Melbourne with $48,000 savings and $165,000 combined salary, comparing an established two-bedroom home and a June 2027 purchase goal.",
+  "audience": {
+    "en": "Australian-citizen first-home-buyer couple in Melbourne with $48,000 savings and $165,000 combined salary, comparing an existing two-bedroom home and a June 2027 purchase goal."
+  },
   "localeReason": "English serves this specific Australian-citizen Melbourne household and its local finance/transaction documents; no distinct Chinese-speaking or other regional audience is established by the retained scenario.",
   "domain": "housing",
   "researchDates": [

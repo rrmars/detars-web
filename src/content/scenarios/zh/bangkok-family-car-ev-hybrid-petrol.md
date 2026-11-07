@@ -100,8 +100,9 @@ headlineFigures:
     unit: "years"
     display: "8.42"
 audience:
-  en: "Bangkok resident families, including Chinese-speaking households, comparing Thai-market EV, hybrid and petrol cars and condo charging; Bang Na family-of-four and early-2027 finance assumptions unchanged."
-  th: "ครอบครัวที่อาศัยในกรุงเทพฯ รวมถึงครัวเรือนที่พูดภาษาจีน ที่กำลังเปรียบเทียบรถ EV ไฮบริด และเบนซินในตลาดไทย พร้อมการชาร์จที่คอนโด โดยคงสมมติฐานครอบครัว 4 คนที่บางนาและการเงินช่วงต้นปี 2027 ไว้เหมือนเดิม"
+  en: "Bangkok resident families comparing Thai-market EV, hybrid and petrol cars and condo charging, using a Bang Na family of four and early-2027 finance assumptions."
+  zh: "住在曼谷的家庭，正在比较泰国市场的纯电、混合动力和汽油车以及公寓充电，示例为住在邦那的四口之家，并采用 2027 年初的融资假设。"
+  th: "ครอบครัวที่อาศัยในกรุงเทพฯ ที่กำลังเปรียบเทียบรถ EV ไฮบริด และเบนซินในตลาดไทย พร้อมการชาร์จที่คอนโด โดยใช้ตัวอย่างครอบครัวสี่คนที่บางนาและสมมติฐานการเงินช่วงต้นปี 2027"
 faq: []
 draft: false
 ---

@@ -155,7 +155,8 @@ headlineFigures:
     unit: "monthly_unquoted_insurance_allowance"
     currency: "EUR"
     display: "€300"
-audience: "British-national married/civil-partner retirees legally resident in the UK, both 64 on November 6, 2026, planning an autumn 2027 Portugal move on GBP pensions; English-only because no distinct Chinese-reader reason is established."
+audience:
+  en: "British-national married/civil-partner retirees legally resident in the UK, both 64 on November 6, 2026, planning an autumn 2027 Portugal move on GBP pensions."
 faq: []
 draft: false
 ---

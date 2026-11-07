@@ -4,7 +4,7 @@
     "zh",
     "es"
   ],
-  "sourceDataSha256": "1d997cbbe20976276e96e517e5ba4000e56297a67d2171738d49a55d3f93a47b",
+  "sourceDataSha256": "496587470a052fc9912fd31266f971dfc0e87ef07ee4d1516306e4f2df542ced",
   "sourceListLink": "../w5-remote-job-mx/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -13,17 +13,17 @@
   "workbooks": [],
   "localePages": {
     "en": {
-      "sourceMarkdownSha256": "5a397bb9f0f2be4c0d39fc2f5af082420b3600371783989c3780daef31a1b699",
+      "sourceMarkdownSha256": "4db443548313981d274a214f25c02c0e6843301a9a9bd34943780f2b4c7fff75",
       "faqPairs": 0,
       "links": []
     },
     "zh": {
-      "sourceMarkdownSha256": "84204a05862658a071f643b0ea5002c590303ee447ab089ea7f0b3770bde9c3b",
+      "sourceMarkdownSha256": "1386c8190a4def42c62474a9188597acf434503fe2372bd5c6f836c6a425fe81",
       "faqPairs": 0,
       "links": []
     },
     "es": {
-      "sourceMarkdownSha256": "58da60f2d7fab764053628b6458c6ba75b663ce0ce6b9f5e90a70f00a15046ff",
+      "sourceMarkdownSha256": "2dfb451e3a305e350a9f5f1185def7afa06e3bb56dd681e8cb0542e9a3ea3eac",
       "faqPairs": 0,
       "links": []
     }

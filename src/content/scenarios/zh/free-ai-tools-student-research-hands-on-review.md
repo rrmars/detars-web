@@ -57,7 +57,9 @@ headlineFigures:
     value: 1.702
     unit: "seconds"
     display: "1.702"
-audience: "Students comparing guest-access research tools for a university literature assignment."
+audience:
+  en: "Students comparing guest-access research tools for a university literature assignment."
+  zh: "为大学文献作业比较可免登录试用的研究工具的学生。"
 faq:
   - q: "再订阅一款工具前，先试什么？"
     a: "一则 r/PhD 讨论也在问这个。先用访客工具试范围明确的作业，再决定花钱。这些回答没有替你的论文或其他领域选出最佳订阅。讨论提到 Research Rabbit 和 Scite，但这里没有测试。"

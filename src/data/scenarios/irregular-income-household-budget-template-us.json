@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "US households combining two monthly salary checks with variable freelance income and family bills.",
+  "audience": {
+    "en": "US households combining two monthly salary checks with variable freelance income and family bills.",
+    "zh": "美国家庭：每月有两份工资，另有收入不固定的自由职业收入，还要支付家庭账单。"
+  },
   "schemaVersion": 2,
   "slug": "irregular-income-household-budget-template-us",
   "translationKey": "irregular-income-household-budget-template-us",

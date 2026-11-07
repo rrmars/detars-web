@@ -140,8 +140,8 @@ headlineFigures:
     unit: "AUD_current_fees"
     display: "AUD 517"
 audience:
-  en: "A never-married Australian couple living in Perth, planning a late-September Bali celebration for 60 invited guests plus themselves; also useful to Chinese-speaking Australian couples with the same planning questions."
-  zh: "住在珀斯、从未结婚的澳大利亚新人，计划九月下旬邀请 60 位宾客到巴厘岛庆祝；同样帮助考虑类似安排的澳大利亚华语新人。"
+  en: "A never-married Australian couple living in Perth, planning a late-September Bali celebration for 60 invited guests plus themselves."
+  zh: "住在珀斯、从未结婚的澳大利亚新人，计划九月下旬邀请 60 位宾客到巴厘岛庆祝。"
 faq: []
 draft: false
 ---

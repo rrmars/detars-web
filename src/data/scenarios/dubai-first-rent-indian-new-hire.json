@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Single 29-year-old Indian data analyst moving from Bengaluru to a Business Bay job starting March 1, 2027, earning AED 18,000/month and comparing a first Dubai rental; English only, with the Indian new-hire profile preserved.",
+  "audience": {
+    "en": "Single 29-year-old Indian data analyst moving from Bengaluru to a Business Bay job starting March 1, 2027, earning AED 18,000/month and comparing a first Dubai rental."
+  },
   "sources": [
     {
       "title": "D1 — Dubai Land Department — Register / Renew Tenancy Contract",

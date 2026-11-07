@@ -135,7 +135,8 @@ headlineFigures:
     display: "180"
     label: "DTV entry permission days; actual stamp controls, not six calendar months"
     unit: "entry_permission_days"
-audience: "34-year-old UK freelance designer with controlled asthma, leaving February 2027 for roughly six months each in Chiang Mai and Lisbon, with a £150 monthly insurance budget; UK residence, passport and visa profile remain specific. No distinct Chinese audience established."
+audience:
+  en: "34-year-old UK freelance designer with controlled asthma, leaving February 2027 for roughly six months each in Chiang Mai and Lisbon, with a £150 monthly insurance budget."
 faq: []
 draft: false
 ---

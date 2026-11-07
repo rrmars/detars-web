@@ -247,7 +247,9 @@
   "locales": [
     "en"
   ],
-  "audience": "An English-speaking adult child working full time and living two hours away, planning assessed care and funding for an 82-year-old mother living alone in Leeds; no distinct Chinese-speaking audience established.",
+  "audience": {
+    "en": "An adult child working full time and living two hours away, planning assessed care and funding for an 82-year-old mother living alone in Leeds."
+  },
   "domain": "family",
   "researchDates": [
     "2026-11-06"

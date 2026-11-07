@@ -123,7 +123,9 @@ headlineFigures:
     currency: "JPY"
     unit: "per_person"
     display: "¥15,520"
-audience: "Two adult friends travelling from the UK for a relaxed first Japan visit."
+audience:
+  en: "Two adult friends travelling from the UK for a relaxed first Japan visit."
+  zh: "两位从英国出发的成年朋友，第一次轻松地游览日本。"
 faq:
   - q: "别人能使用新干线最后一排后面的空间吗？"
     a: "JR 东海有此问题。指定特大行李空间供对应预约座位旅客使用，并非所有人都能随意占用。应预约适当座位或安排寄送。"

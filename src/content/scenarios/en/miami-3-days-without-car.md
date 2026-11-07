@@ -111,7 +111,9 @@ headlineFigures:
     currency: "USD"
     unit: "three_days_per_person"
     display: "$329"
-audience: "Three friends in their late twenties planning a South Beach-based Miami trip without a rental car."
+audience:
+  en: "Three friends in their late twenties planning a South Beach-based Miami trip without a rental car."
+  zh: "三位二十多岁后半的朋友，计划住在南海滩、不租车游览迈阿密。"
 faq:
   - q: "Can I do three days in Miami Beach and an Everglades outing without renting?"
     a: "Yes, if you stay within a compact South Beach base and confirm the excursion transfers. A solo traveler's question raises the same concern about the outing and airport taxis. Check the destination carefully: “Everglades” in a tour title does not identify the national park. If you travel alone, recalculate shared rides; this trio's $409 budget is not a solo budget."

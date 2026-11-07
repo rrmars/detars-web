@@ -314,7 +314,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Returning Vietnamese-Australian founders assessing a Ho Chi Minh City specialty cafe with Australian capital, Vietnamese-citizenship route questions and a mid-2027 opening.",
+  "audience": {
+    "en": "Returning Vietnamese-Australian founders assessing a Ho Chi Minh City specialty cafe with Australian capital, Vietnamese-citizenship route questions and a mid-2027 opening."
+  },
   "localeReason": "English only: this is a specific Vietnamese-Australian returnee investment and citizenship scenario. No distinct Chinese-speaking audience need is established; translation would not broaden domestic-investor eligibility or resolve current Vietnamese compliance gaps.",
   "domain": "business",
   "researchDates": [

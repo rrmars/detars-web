@@ -85,7 +85,9 @@ headlineFigures:
     value: 298.6
     unit: "MiB_peak_process_RSS"
     display: "298.6"
-audience: "English- and Chinese-speaking local transcription users comparing small-model workflows on Apple Silicon; these English/Spanish measurements do not validate Chinese recognition."
+audience:
+  en: "Mac users choosing a local transcription workflow on Apple Silicon, comparing small-model setups across five short clips on an Apple M2 Mac."
+  zh: "想在 Apple Silicon 的 Mac 上选择本地转写方案的人，本指南在一台 Apple M2 Mac 上用五段短音频比较小模型方案。"
 faq: []
 draft: false
 ---

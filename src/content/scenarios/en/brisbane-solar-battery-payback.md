@@ -98,7 +98,8 @@ headlineFigures:
     value: 11.9
     unit: "years"
     display: "11.9"
-audience: "A northside Brisbane owner-occupier family of four comparing solar and a battery against an approximately AUD 2,600 annual bill, with a possible EV in 2028."
+audience:
+  en: "A northside Brisbane owner-occupier family of four comparing solar and a battery against an approximately AUD 2,600 annual bill, with a possible EV in 2028."
 faq: []
 draft: false
 ---

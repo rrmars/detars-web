@@ -129,7 +129,9 @@ headlineFigures:
     label: "Dated caps model and one Oyster fee; not a July fare quote"
     currency: "GBP"
     unit: "conditional_planning_amount"
-audience: "Toronto family with two adults and teens aged 14 and 16, holding ordinary Canadian passports; English and Simplified Chinese also support Chinese-speaking family travellers without changing the passport-specific entry assumptions."
+audience:
+  en: "Toronto family with two adults and teens aged 14 and 16, holding ordinary Canadian passports, planning four days in London."
+  zh: "来自多伦多的家庭，两位成年人带着 14 岁和 16 岁的青少年，持普通加拿大护照，计划在伦敦玩四天。"
 faq: []
 draft: false
 ---

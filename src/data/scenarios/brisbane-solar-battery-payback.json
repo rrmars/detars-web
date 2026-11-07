@@ -166,7 +166,9 @@
   "locales": [
     "en"
   ],
-  "audience": "A northside Brisbane owner-occupier family of four comparing solar and a battery against an approximately AUD 2,600 annual bill, with a possible EV in 2028.",
+  "audience": {
+    "en": "A northside Brisbane owner-occupier family of four comparing solar and a battery against an approximately AUD 2,600 annual bill, with a possible EV in 2028."
+  },
   "localeReason": "English only: the decision depends on a specific Brisbane household, Australian tariff and program eligibility. No distinct Chinese-speaking audience was established; no Chinese version is claimed.",
   "domain": "buying",
   "researchDates": [

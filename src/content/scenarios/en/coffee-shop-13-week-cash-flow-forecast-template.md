@@ -45,7 +45,9 @@ headlineFigures:
     currency: "USD"
     unit: "daily_low_cash"
     display: "$3,575.39"
-audience: "Café owners or cash-planning managers adapting a USD forecast to actual sales, payroll and bills."
+audience:
+  en: "Café owners or cash-planning managers adapting a USD forecast to actual sales, payroll and bills."
+  zh: "咖啡店老板或负责现金规划的经理，把一份美元预测表改成符合实际销售、工资和账单的版本。"
 faq:
   - q: "“When are quarterly estimated tax payments due?”"
     a: "For this calendar-year individual federal example, Publication 505 (2026) gives January 15, 2027 for September–December 2026, with exceptions. Use that for the example’s date, not to justify the $3,000 amount. Your entity, state and applicable relief may change the schedule. Replace Payments with confirmed dates and amounts."

@@ -111,7 +111,9 @@ headlineFigures:
     currency: "USD"
     unit: "three_days_per_person"
     display: "$329"
-audience: "Three friends in their late twenties planning a South Beach-based Miami trip without a rental car."
+audience:
+  en: "Three friends in their late twenties planning a South Beach-based Miami trip without a rental car."
+  zh: "三位二十多岁后半的朋友，计划住在南海滩、不租车游览迈阿密。"
 faq:
   - q: "不租车能游 Miami Beach 三天，再加一次 Everglades 郊游吗？"
     a: "可以，前提是住在方便步行的 South Beach 活动圈，并确认郊游接送。一位独行旅客的提问也在担心郊游和机场出租车。看团时要认清目的地：“Everglades”不等于国家公园。独自出行还得重算车费，这里三人同行、每人 $409 的预算不能直接照搬。"

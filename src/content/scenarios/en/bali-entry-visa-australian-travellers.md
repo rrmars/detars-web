@@ -69,7 +69,9 @@ headlineFigures:
     currency: "IDR"
     unit: "per_eligible_tourist"
     display: "IDR500,000"
-audience: "Australian ordinary-passport tourists visiting Bali with a partner whose nationality must be checked separately."
+audience:
+  en: "Australian ordinary-passport tourists visiting Bali with a partner whose nationality must be checked separately."
+  zh: "持澳大利亚普通护照、与伴侣同游巴厘岛的游客；伴侣的国籍需要另行核实。"
 faq:
   - q: "Can we still buy a visa on arrival, and what else do we need?"
     a: "A returning family asks this in “Visa questions!”. For an Australian ordinary-passport tourist, the checked Immigration FAQ retains airport VOA. You still need to deal with the free arrival declaration and the separate Bali levy; use the timing table above. The family's question about children's immunisations needs separate medical advice, not an answer inferred from visa rules."

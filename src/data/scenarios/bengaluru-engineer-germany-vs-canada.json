@@ -11,7 +11,10 @@
     "en",
     "zh"
   ],
-  "audience": "Single 29-year-old Indian backend engineer in Bengaluru with BTech computer science, six years Java/Go/cloud experience, no German/test scores and INR 18 lakh; Simplified Chinese supports route comparison without changing Indian passport, applicant eligibility or costs.",
+  "audience": {
+    "en": "A single 29-year-old backend engineer in Bengaluru with an Indian passport, a BTech in computer science, six years of Java, Go and cloud experience, no German or test scores and INR 18 lakh, comparing Germany and Canada.",
+    "zh": "一位29岁、单身、住在班加罗尔的后端工程师，持印度护照，拥有计算机科学 BTech 学位，有六年 Java、Go 和云计算经验，目前没有德文基础，也没有考试成绩，手头有 INR 18 lakh，正在比较去德国和去加拿大两条路线。"
+  },
   "sources": [
     {
       "title": "G1 — BMAS, 2026 social-insurance regulation",

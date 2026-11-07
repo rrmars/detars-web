@@ -87,7 +87,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_laptop"
     display: "$1,269"
-audience: "Prospective US computer-science undergraduates choosing a course-compatible college laptop."
+audience:
+  en: "Prospective US computer-science undergraduates choosing a course-compatible college laptop."
+  zh: "准备就读美国大学计算机专业的本科生，正在挑选与课程兼容的大学笔记本电脑。"
 faq:
   - q: "Should you prioritize 32GB or a lighter 16GB laptop?"
     a: "The author of this US CS-student request asks that too, mentioning IDEs, Docker, VMs and many tabs. Meet your course requirements first. If multiple local VMs are central to your work, prioritize 24–32GB next—but RAM capacity does not tell you battery life. The $1,199 Zenbook here has 32GB; the education Air at the same conditional price has 16GB. Neither was tested with that student’s workload, so try yours."

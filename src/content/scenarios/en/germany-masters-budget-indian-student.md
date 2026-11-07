@@ -132,7 +132,9 @@ headlineFigures:
     unit: "test_fee"
     currency: "EUR"
     display: "€150"
-audience: "Indian BTech Mechanical graduate in Pune with 7.8 CGPA, IELTS 7.0 and about INR15 lakh family support, targeting October 2027; Simplified Chinese helps students compare routes without changing the Indian applicant profile."
+audience:
+  en: "Indian BTech Mechanical graduate in Pune with 7.8 CGPA, IELTS 7.0 and about INR15 lakh family support, targeting October 2027 and comparing routes to a master's in Germany."
+  zh: "来自浦那的印度机械工程 BTech 毕业生，CGPA 7.8、雅思 7.0，家庭可提供约 INR15 lakh 的资助，目标是 2027 年 10 月入学，比较去德国读硕士的几条途径。"
 faq: []
 draft: false
 ---

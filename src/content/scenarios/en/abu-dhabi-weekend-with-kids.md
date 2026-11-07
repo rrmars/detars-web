@@ -104,7 +104,8 @@ headlineFigures:
     unit: "unquoted_room_ceiling"
     currency: "AED"
     display: "AED 820"
-audience: "Dubai-based family of two adults and children aged 7 and 10 planning a February 2027 car weekend; English-only because no distinct Chinese-reader audience is established."
+audience:
+  en: "Dubai-based family of two adults and children aged 7 and 10 planning a February 2027 car weekend."
 faq: []
 draft: false
 ---

@@ -146,7 +146,8 @@ headlineFigures:
     unit: "MYR"
     display: "RM100,000"
     status: "Unconfirmed planning assumption or derived illustration; not quotation or clearance"
-audience: "British retiree couple with GBP pensions and savings considering rent-first Penang living, MM2H capital commitments, individual medical cover and UK pension/tax/NHS consequences."
+audience:
+  en: "British retiree couple with GBP pensions and savings considering rent-first Penang living, MM2H capital commitments, individual medical cover and UK pension/tax/NHS consequences."
 faq: []
 draft: false
 ---

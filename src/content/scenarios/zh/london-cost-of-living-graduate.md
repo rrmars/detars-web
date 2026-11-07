@@ -117,7 +117,9 @@ headlineFigures:
     currency: "GBP"
     unit: "starting_cash_including_cushion"
     display: "£4,851.53"
-audience: "Graduate starting a Canary Wharf job in London and comparing flatshares on an entry-level salary."
+audience:
+  en: "Graduate starting a Canary Wharf job in London and comparing flatshares on an entry-level salary."
+  zh: "在伦敦金丝雀码头开始第一份工作、以入门级薪水比较合租房的毕业生。"
 faq:
   - q: "£34,000 能租开间吗？"
     a: "预算或收入不变，下面这两套不合适。每月分别差 £510.06 和 £541.56，还没算未知家具和供暖费用。可以继续找其他房，但每套都要算完整账单。"

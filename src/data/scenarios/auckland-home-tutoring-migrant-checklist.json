@@ -422,7 +422,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Migrants in Auckland considering solo home-based and online supplementary maths tutoring, using an Indian former teacher in Mount Roskill as the specific scenario.",
+  "audience": {
+    "en": "Migrants in Auckland considering solo home-based and online supplementary maths tutoring, using an Indian former teacher in Mount Roskill as the specific scenario."
+  },
   "localeReason": "English only: migrant tutoring case in Auckland; no distinct Chinese-reader need established.",
   "domain": "business",
   "researchDates": [

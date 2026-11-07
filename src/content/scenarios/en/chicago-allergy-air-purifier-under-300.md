@@ -107,7 +107,8 @@ headlineFigures:
     display: "4.63 equivalent ACH"
     label: "Calculated from older sample estimated 185 PM1 CFM at Medium, rounded; below 4.8 ACH"
     unit: "estimated_clean_air_changes_per_hour"
-audience: "Chicago renter with allergies choosing a US air purifier for a 300 sq ft bedroom, under a USD 300 unit-price budget, for March 2027; specific Chicago/US purchase context with no distinct Chinese-reader need established."
+audience:
+  en: "Chicago renter with allergies choosing a US air purifier for a 300 sq ft bedroom, under a USD 300 unit-price budget, for March 2027."
 faq: []
 draft: false
 ---

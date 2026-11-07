@@ -63,7 +63,9 @@ headlineFigures:
     value: 7
     unit: "slides"
     display: "7"
-audience: "Person preparing an investor-style presentation for an office coffee-subscription business without creating tool accounts."
+audience:
+  en: "Person preparing an investor-style presentation for an office coffee-subscription business without creating tool accounts."
+  zh: "想为一家办公室咖啡订阅公司准备投资人风格演示文稿、又不想注册任何工具账号的人。"
 faq: []
 draft: false
 ---

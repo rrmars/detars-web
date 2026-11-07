@@ -189,7 +189,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_two_adults_week"
     display: "$9.10"
-audience: "Two adults planning budget meals in Chicago, with local grocery repricing and freezer space required."
+audience:
+  en: "Two adults planning budget meals in Chicago, with local grocery repricing and freezer space required."
+  zh: "在芝加哥为两位成年人规划省钱餐食的人，需要按本地超市价格重新核算，并留出冷冻空间。"
 faq:
   - q: "两名成人在芝加哥每周只花$90，真的够吗？"
     a: "$80.90的整包装例子用的是萨克拉门托公开价，不是芝加哥结账记录。你需要按固定份量吃、不添额外消费，并有冷冻空间。先查当地价格、库存和果蔬可食重量；差价或费用可能花掉剩下的$9.10。"

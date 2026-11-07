@@ -107,8 +107,8 @@ headlineFigures:
     unit: "SGD"
     display: "SGD22,000"
 audience:
-  en: "Singapore families, including Chinese-speaking readers, planning a first Kenya safari; the example retains four Singapore ordinary passports and children aged 9 and 12 at travel."
-  zh: "计划首次肯尼亚 Safari 的新加坡家庭，包括中文读者；示例仍以全员持新加坡普通护照、孩子出行时为 9 岁和 12 岁为前提。"
+  en: "A Singapore family planning a first Kenya safari; all four hold Singapore ordinary passports and the children are aged 9 and 12 at travel."
+  zh: "计划首次肯尼亚 Safari 的新加坡家庭：全家四人持新加坡普通护照，孩子出行时分别为 9 岁和 12 岁。"
 faq: []
 draft: false
 ---

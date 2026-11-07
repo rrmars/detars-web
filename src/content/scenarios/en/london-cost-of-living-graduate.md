@@ -117,7 +117,9 @@ headlineFigures:
     currency: "GBP"
     unit: "starting_cash_including_cushion"
     display: "£4,851.53"
-audience: "Graduate starting a Canary Wharf job in London and comparing flatshares on an entry-level salary."
+audience:
+  en: "Graduate starting a Canary Wharf job in London and comparing flatshares on an entry-level salary."
+  zh: "在伦敦金丝雀码头开始第一份工作、以入门级薪水比较合租房的毕业生。"
 faq:
   - q: "Can I afford a studio on £34,000?"
     a: "Not either of these without a bigger budget or more income. The monthly shortfalls are £510.06 and £541.56, before unknown furniture or heating costs. You can still look elsewhere, but calculate the full bill for each studio."

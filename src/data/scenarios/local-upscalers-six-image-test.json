@@ -11,7 +11,10 @@
     "en",
     "zh"
   ],
-  "audience": "English- and Simplified-Chinese-speaking Mac users choosing local photo enlargement for family archives, product still lifes, small text and line art; results concern the same tested configurations, not different regional products.",
+  "audience": {
+    "en": "Mac users choosing local photo enlargement for family archives, product still lifes, small text and line art.",
+    "zh": "想在 Mac 上本地放大照片的人，涉及家庭影像存档、产品静物、小字和线稿。"
+  },
   "sources": [
     {
       "title": "scikit-image metric documentation",

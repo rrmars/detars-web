@@ -135,7 +135,9 @@ headlineFigures:
     currency: "SGD"
     unit: "per_family_day_including_reserve"
     display: "S$386"
-audience: "Non-resident family with two adults and school-age children planning a Singapore trip."
+audience:
+  en: "Non-resident family with two adults and school-age children planning a Singapore trip."
+  zh: "计划去新加坡旅行的非居民家庭，两位大人带着学龄儿童。"
 faq:
   - q: "可以提前买票吗？"
     a: "万态入园问答建议出游前通过官方售票网站购买，争取理想日期。但先查2027年7月是否已放票，这里没有确认余票。"

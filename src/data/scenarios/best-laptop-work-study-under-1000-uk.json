@@ -289,7 +289,10 @@
     "en",
     "zh"
   ],
-  "audience": "UK marketing professional starting a part-time master's and choosing a laptop for work, study and commuting.",
+  "audience": {
+    "en": "UK marketing professional starting a part-time master's and choosing a laptop for work, study and commuting.",
+    "zh": "一位英国的市场营销从业者，即将开始非全日制硕士学习，正在挑选兼顾工作、学习和通勤的笔记本电脑。"
+  },
   "domain": "buying",
   "researchDates": [
     "2026-11-05"

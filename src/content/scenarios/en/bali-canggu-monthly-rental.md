@@ -84,7 +84,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_month"
     display: "$1,731"
-audience: "Remote workers comparing Canggu monthly rentals and full living costs for a working stay."
+audience:
+  en: "Remote workers comparing Canggu monthly rentals and full living costs for a working stay."
+  zh: "想在仓古（Canggu）按月租房并远程工作的人，需要比较租金和完整的生活成本。"
 faq:
   - q: "Can I find a room with a useful desk, chair and Wi-Fi?"
     a: "A Bali renter's question asks this for a two-month stay. Lagom advertises the most complete setup here. Berawa and Pondok list tables; check the chair, working posture and call quality before relying on them."

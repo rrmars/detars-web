@@ -119,7 +119,8 @@ headlineFigures:
     label: "Salary less first employment-year cash outflow before exclusions"
     currency: "AED"
     unit: "planning_amount"
-audience: "Single 29-year-old Indian data analyst moving from Bengaluru to a Business Bay job starting March 1, 2027, earning AED 18,000/month and comparing a first Dubai rental; English only, with the Indian new-hire profile preserved."
+audience:
+  en: "Single 29-year-old Indian data analyst moving from Bengaluru to a Business Bay job starting March 1, 2027, earning AED 18,000/month and comparing a first Dubai rental."
 faq: []
 draft: false
 ---

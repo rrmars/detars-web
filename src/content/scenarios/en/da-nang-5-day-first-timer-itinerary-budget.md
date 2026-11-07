@@ -99,7 +99,9 @@ headlineFigures:
     currency: "AUD"
     unit: "per_couple_day_including_reserve"
     display: "AUD 120.28"
-audience: "Two adults travelling from Sydney on ordinary Australian passports for their first Da Nang trip."
+audience:
+  en: "Two adults travelling from Sydney on ordinary Australian passports for their first Da Nang trip."
+  zh: "两位持普通澳大利亚护照的成年人，从悉尼出发，第一次去岘港旅行。"
 faq:
   - q: "Can I apply for an e-visa from inside Vietnam?"
     a: "The published answer covers foreigners seeking entry from outside Vietnam. Get approval before travelling. Arriving first is not a way around the visa requirement."

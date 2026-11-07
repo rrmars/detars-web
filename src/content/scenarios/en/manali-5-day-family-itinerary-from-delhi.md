@@ -90,7 +90,9 @@ headlineFigures:
     currency: "INR"
     unit: "per_family_trip"
     display: "₹59,250"
-audience: "Delhi families with two adults and children aged eight and twelve planning gentle Manali outings."
+audience:
+  en: "Delhi families with two adults and children aged eight and twelve planning gentle Manali outings."
+  zh: "来自德里的家庭，两位成年人带着八岁和十二岁的孩子，计划轻松的马纳利出游。"
 faq:
   - q: "“Are these fares final?”"
     a: "The supplier FAQ says confirmation depends on date, pickup and route feasibility. The 2026 chart helps you start a budget. Before committing, get your date-specific total; it does not lock a May 2027 fare."

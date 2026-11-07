@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Texas couple using Houston as the departure-city example for a five-night Mexican Caribbean holiday; actual passports and entry eligibility remain unspecified.",
+  "audience": {
+    "en": "Texas couple using Houston as the departure-city example for a five-night Mexican Caribbean holiday."
+  },
   "sources": [
     {
       "title": "Expedia's Cancún Hotel Zone trend page",

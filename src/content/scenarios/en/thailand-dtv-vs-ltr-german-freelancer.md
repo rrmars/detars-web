@@ -130,7 +130,8 @@ headlineFigures:
     value: 180
     unit: "days"
     display: "180 days"
-audience: "German freelance designers with EU clients planning most of 2027 and possibly 2028 in Chiang Mai while resolving German home, tax and insurance ties."
+audience:
+  en: "German freelance designers with EU clients planning most of 2027 and possibly 2028 in Chiang Mai while resolving German home, tax and insurance ties."
 faq: []
 draft: false
 ---

@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Priya and Marcus, both Singapore citizens, planning an Indian-heritage symbolic Lake Como celebration with guests travelling from India and Singapore.",
+  "audience": {
+    "en": "Priya and Marcus, both Singapore citizens, planning an Indian-heritage symbolic Lake Como celebration with guests travelling from India and Singapore."
+  },
   "localeReason": "English serves the assigned Singapore-citizen couple and India/Singapore guest logistics. No Chinese-speaking reader or family need is established; citizenship or heritage alone does not justify a Chinese translation.",
   "sources": [
     {

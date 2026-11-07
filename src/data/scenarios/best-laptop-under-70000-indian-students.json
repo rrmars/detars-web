@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "India-based incoming B.Tech or computer-science students choosing a commuting laptop.",
+  "audience": {
+    "en": "India-based incoming B.Tech or computer-science students choosing a commuting laptop.",
+    "zh": "印度即将入学的 B.Tech 或计算机专业学生，正在挑选通勤用的笔记本电脑。"
+  },
   "schemaVersion": 2,
   "slug": "best-laptop-under-70000-indian-students",
   "translationKey": "best-laptop-under-70000-indian-students",

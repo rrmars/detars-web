@@ -108,8 +108,8 @@ headlineFigures:
     unit: "SGD_illustrative_12_payments"
     display: "S$4,116"
 audience:
-  en: "New Singapore PR families, especially Chinese-speaking parents, planning a son’s mainstream primary-school application around a genuine Beauty World-area home and wider alternatives."
-  zh: "新加坡新 PR 家庭，尤其是希望围绕美世界真实住址及更大范围备选学校，为儿子规划主流小学报名的中文家长。"
+  en: "New Singapore PR families planning a son’s mainstream primary-school application around a genuine Beauty World-area home and wider alternatives."
+  zh: "新加坡新 PR 家庭，围绕美世界一带的真实住址和更大范围的备选学校，为儿子规划主流小学报名。"
 faq: []
 draft: false
 ---

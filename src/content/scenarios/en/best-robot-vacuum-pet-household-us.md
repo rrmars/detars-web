@@ -180,7 +180,9 @@ headlineFigures:
     currency: "USD"
     unit: "three_year_base_cost_excluding_repairs_tax_shipping"
     display: "$818.13"
-audience: "US pet household with a shedding long-haired cat, hardwood floors, rugs and loose cables."
+audience:
+  en: "US pet household with a shedding long-haired cat, hardwood floors, rugs and loose cables."
+  zh: "美国一户养宠物的家庭，家里有一只掉毛的长毛猫，铺着硬木地板和地毯，地上还有散落的线缆。"
 faq:
   - q: "“Which Anker eufy apps support Matter?”"
     a: "The FAQ lists eufy as compatible and eufy Clean as currently supported, with Matter 1.4/HomeKit. Its future-version wording concerns dedicated HomeKit configuration entries, not all Matter support. Check your firmware and do not assume the same support for C28."

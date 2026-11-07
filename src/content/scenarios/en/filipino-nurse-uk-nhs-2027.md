@@ -194,7 +194,8 @@ headlineFigures:
     value: 2200
     unit: "GBP_per_month"
     display: "£2,200"
-audience: "Filipino registered nurses planning Philippine first deployment and NHS England registration/employment, illustrated by a Cebu nurse travelling alone before her husband and child."
+audience:
+  en: "Filipino registered nurses planning Philippine deployment first, then NHS England registration and employment, shown through a Cebu nurse who travels alone before her husband and child."
 faq: []
 draft: false
 ---

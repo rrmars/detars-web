@@ -292,7 +292,10 @@
     "en",
     "zh"
   ],
-  "audience": "A Singapore-passport couple in their early thirties planning a no-driving February Iceland trip; Chinese-speaking Singapore residents can use the same planning comparison without inheriting passport eligibility.",
+  "audience": {
+    "en": "A Singapore-passport couple in their early thirties planning a February Iceland trip without driving.",
+    "zh": "两位三十出头、持新加坡护照的伴侣，计划二月不自驾的冰岛之行。"
+  },
   "localeReason": "English and Chinese: a popular travel decision for Chinese-speaking Singapore residents too. The Singapore couple’s passport, prior Schengen stay and entry assumptions are retained, not adapted into eligibility for other passports.",
   "domain": "travel",
   "researchDates": [

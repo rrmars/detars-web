@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "England-resident employees renting alone and comparing London and Manchester job offers with Plan 2 deductions.",
+  "audience": {
+    "en": "England-resident employees renting alone and comparing London and Manchester job offers with Plan 2 deductions.",
+    "zh": "住在英格兰、独自租房的雇员，正在比较伦敦和曼彻斯特的工作机会，并需计入 Plan 2 学生贷款扣款。"
+  },
   "schemaVersion": 2,
   "slug": "uk-job-offer-take-home-monthly-budget",
   "translationKey": "uk-job-offer-take-home-monthly-budget",

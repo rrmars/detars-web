@@ -146,7 +146,8 @@ headlineFigures:
     unit: "upfront_housing_cash"
     display: "US$3,269.70"
     currency: "USD"
-audience: "A Canadian passport holder working Toronto hours remotely for one month in Mexico City in March 2027, with a USD spending budget and separate deposit liquidity."
+audience:
+  en: "A Canadian passport holder working Toronto hours remotely for one month in Mexico City in March 2027, with a USD spending budget and separate deposit liquidity."
 faq: []
 draft: false
 ---

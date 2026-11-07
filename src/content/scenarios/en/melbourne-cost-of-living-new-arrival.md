@@ -141,7 +141,9 @@ headlineFigures:
     currency: "AUD"
     unit: "starting_cash_including_reserve"
     display: "$27,986.21"
-audience: "Couple moving to Melbourne on one salary while the partner looks for work, without children or a car."
+audience:
+  en: "Couple moving to Melbourne on one salary while the partner looks for work, without children or a car."
+  zh: "搬到墨尔本的夫妇，靠一份薪水生活，另一半正在找工作，没有孩子也没有车。"
 faq:
   - q: "Is $95,000 enough for two people in Melbourne?"
     a: "With super paid on top, no car and $550/week rent, this budget covers recurring costs with $1,373.11/month left. You still need rental acceptance and permission to live there. If salary includes super and private cover is required, the spare cash falls to $496.33."

@@ -87,7 +87,9 @@ headlineFigures:
     currency: "USD"
     unit: "arrival_cash"
     display: "$10,880"
-audience: "Solo movers seeking a New York studio or one-bedroom home near a Midtown job."
+audience:
+  en: "Solo movers seeking a New York studio or one-bedroom home near a Midtown job."
+  zh: "想在纽约找一居室或单间公寓、工作地点在曼哈顿中城附近的独自搬家者。"
 faq:
   - q: "房东可以同时收首月、末月房租和押金吗？"
     a: "原帖《房东还在要求预付末月房租吗？》问的正是这一点。对本文涵盖的普通租赁，应预留首月房租加最多一个月押金，而不是再加一笔末月预付款。以现行 §7-108及具体房产适用规则为准，不应采信评论中“市场价房源想怎么收都行”的说法。"

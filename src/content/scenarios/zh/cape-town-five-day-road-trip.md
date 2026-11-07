@@ -114,7 +114,9 @@ headlineFigures:
     label: "Remaining margin below ceiling at dated conversion"
     currency: "EUR"
     unit: "conditional_planning_amount"
-audience: "Two adults from Frankfurt with ordinary German passports planning five sightseeing days and five nights in Cape Town; English and Simplified Chinese also serve Chinese-speaking travellers without changing the original entry profile."
+audience:
+  en: "Two adults from Frankfurt with German passports planning five sightseeing days and five nights in Cape Town."
+  zh: "两位来自法兰克福、持德国护照的成年人，计划在开普敦玩五天、住五晚。"
 faq: []
 draft: false
 ---

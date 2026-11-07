@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Café owners or cash-planning managers adapting a USD forecast to actual sales, payroll and bills.",
+  "audience": {
+    "en": "Café owners or cash-planning managers adapting a USD forecast to actual sales, payroll and bills.",
+    "zh": "咖啡店老板或负责现金规划的经理，把一份美元预测表改成符合实际销售、工资和账单的版本。"
+  },
   "schemaVersion": 2,
   "slug": "coffee-shop-13-week-cash-flow-forecast-template",
   "translationKey": "coffee-shop-13-week-cash-flow-forecast-template",

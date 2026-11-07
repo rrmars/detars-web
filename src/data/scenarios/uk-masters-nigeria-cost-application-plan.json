@@ -238,7 +238,10 @@
     "en",
     "zh"
   ],
-  "audience": "English serves Nigerian applicants planning a UK MSc; Chinese helps Chinese-speaking family members and advisers compare study plans; no additional regional-language audience is specified.",
+  "audience": {
+    "en": "Nigerian applicants planning a UK MSc for September 2027 and comparing study plans against a £32,000 family budget.",
+    "zh": "计划2027年9月赴英攻读理学硕士的尼日利亚申请人，正对照 £32,000 的家庭预算比较留学方案。"
+  },
   "audienceRationale": {
     "en": "English serves Nigerian applicants planning a UK MSc; Chinese helps Chinese-speaking family members and advisers compare study plans. These audiences need English and Chinese, with no additional locales.",
     "zh": "英文面向规划英国硕士的尼日利亚申请人；中文方便讲中文的家人和顾问比较留学计划。只提供英文和中文，不增加其他语言。"

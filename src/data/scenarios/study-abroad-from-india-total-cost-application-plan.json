@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Final-year B.Tech students in Pune, India budgeting for an overseas computer-science or data-science master’s.",
+  "audience": {
+    "en": "Final-year B.Tech students in Pune, India budgeting for an overseas computer-science or data-science master’s.",
+    "zh": "印度浦那的 B.Tech 最后一年学生，正在为海外计算机科学或数据科学硕士做预算。"
+  },
   "schemaVersion": 2,
   "slug": "study-abroad-from-india-total-cost-application-plan",
   "translationKey": "study-abroad-from-india-total-cost-application-plan",

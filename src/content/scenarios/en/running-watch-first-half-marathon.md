@@ -101,7 +101,8 @@ headlineFigures:
     unit: "sample_price"
     currency: "USD"
     display: "$249"
-audience: "Austin Android users choosing a first half-marathon watch for April 2027; English-only because no distinct Chinese-reader audience is established."
+audience:
+  en: "Austin Android users choosing a first half-marathon watch for April 2027."
 faq: []
 draft: false
 ---

@@ -190,7 +190,10 @@
     "en",
     "zh"
   ],
-  "audience": "Families visiting Kyoto with older parents and limited tolerance for stairs; Simplified Chinese helps Chinese-speaking adult children discuss rests, chair seating, taxis and dated hotel prices with their parents.",
+  "audience": {
+    "en": "Families visiting Kyoto with older parents who have limited tolerance for stairs, planning rests, chair seating, taxis and dated hotel prices.",
+    "zh": "带年长父母游京都、父母不太能爬楼梯的家庭，要安排休息、椅子座位、出租车和标明日期的酒店价格。"
+  },
   "domain": "travel",
   "researchDates": [
     "2026-11-06"

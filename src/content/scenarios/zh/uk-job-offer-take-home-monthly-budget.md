@@ -114,7 +114,9 @@ headlineFigures:
     currency: "GBP"
     unit: "one_off"
     display: "£1,470"
-audience: "England-resident employees renting alone and comparing London and Manchester job offers with Plan 2 deductions."
+audience:
+  en: "England-resident employees renting alone and comparing London and Manchester job offers with Plan 2 deductions."
+  zh: "住在英格兰、独自租房的雇员，正在比较伦敦和曼彻斯特的工作机会，并需计入 Plan 2 学生贷款扣款。"
 faq:
   - q: "多缴任何一种养老金，都能减少学生贷款扣款吗？"
     a: "真实的公开提问：不采用薪资置换，增加职场养老金缴费问的就是这个问题。对这里的 RAS 或普通税前扣缴，并不能：NI 仍按扣除雇员养老金前的工资计算，工资系统贷款扣款则跟随 NI 收入基数。有效的养老金薪资置换安排不同。参见上文 HMRC 来源；不要把所得税用途的调整后净收入与工资系统贷款收入基数混为一谈。"

@@ -81,7 +81,9 @@ headlineFigures:
     unit: "per_year"
     currency: "USD"
     display: "$194,866"
-audience: "Single employee without children comparing Austin and San Francisco job offers and relocation budgets."
+audience:
+  en: "Single employee without children comparing Austin and San Francisco job offers and relocation budgets."
+  zh: "没有孩子的单身职员，正在比较奥斯汀和旧金山的工作机会以及搬迁预算。"
 faq: []
 draft: false
 ---

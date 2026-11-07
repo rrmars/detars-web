@@ -135,7 +135,9 @@ headlineFigures:
     currency: "SGD"
     unit: "per_family_day_including_reserve"
     display: "S$386"
-audience: "Non-resident family with two adults and school-age children planning a Singapore trip."
+audience:
+  en: "Non-resident family with two adults and school-age children planning a Singapore trip."
+  zh: "计划去新加坡旅行的非居民家庭，两位大人带着学龄儿童。"
 faq:
   - q: "Can I buy tickets ahead?"
     a: "Mandai’s admission FAQ recommends its official ticketing website before your visit to secure your preferred date. First check whether July 2027 tickets are released; their availability is not confirmed here."

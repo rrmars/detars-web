@@ -117,7 +117,9 @@ headlineFigures:
     unit: "AUD cash target"
     display: "$183,350"
     status: "$163,350 plus $20,000 illustrative reserve; no projected savings assumed"
-audience: "Wei Ling and Daniel, Malaysian citizens living in Perth on subclass 491 visas, comparing a first three-bedroom house before or after actual permanent-visa grants; useful to similarly situated temporary-resident couples without transferring their eligibility."
+audience:
+  en: "Wei Ling and Daniel, Malaysian citizens living in Perth on subclass 491 visas, comparing a first three-bedroom house before or after actual permanent-visa grants."
+  zh: "Wei Ling和Daniel是持491类签证住在珀斯的马来西亚公民，正在对比在实际获得永久签证之前或之后购买第一套三居室房屋。"
 faq: []
 draft: false
 ---

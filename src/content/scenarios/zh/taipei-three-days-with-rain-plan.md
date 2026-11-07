@@ -96,7 +96,9 @@ headlineFigures:
     unit: "per_person_allowance"
     currency: "TWD"
     display: "NT$7,630"
-audience: "Two Malaysian-passport friends from Kuala Lumpur; Chinese helps Chinese-speaking travellers use the same food, rain, room and entry plan, without changing eligibility."
+audience:
+  en: "Two Malaysian-passport friends from Kuala Lumpur planning a food-led Taipei weekend with a rain plan, a room and entry checks."
+  zh: "两位从吉隆坡出发、持马来西亚护照的朋友，计划一个以美食为主的台北周末，包括雨天备案、住宿和入境确认。"
 faq: []
 draft: false
 ---

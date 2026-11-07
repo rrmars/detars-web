@@ -173,7 +173,8 @@ headlineFigures:
     unit: "EUR"
     display: "€2,037/month"
     status: "2.1 × announced €970; overlaps D8 principal test, not additive or 4M ×2.1."
-audience: "A Toronto-based Canadian-planning family moving to Lisbon with two school-age children, a Canadian remote salary and unspecified freelance income."
+audience:
+  en: "A Toronto family moving to Lisbon with two school-age children, a Canadian remote salary and unspecified freelance income."
 faq: []
 draft: false
 ---

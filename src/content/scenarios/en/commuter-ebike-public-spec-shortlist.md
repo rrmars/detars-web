@@ -130,7 +130,9 @@ headlineFigures:
     unit: "estimated_start_up_total"
     currency: "USD"
     display: "$1,358"
-audience: "English helps Portland riders compare US listings and local buying rules; Simplified Chinese gives Chinese-speaking residents the same practical help with carrying, charging and the full budget."
+audience:
+  en: "Portland, Oregon riders comparing US e-bike listings and local buying rules, with carrying, charging and the full budget in mind."
+  zh: "在俄勒冈州波特兰骑行的人，对比美国的电动自行车在售信息和当地购买规则，并兼顾搬运、充电和整体预算。"
 faq: []
 draft: false
 ---

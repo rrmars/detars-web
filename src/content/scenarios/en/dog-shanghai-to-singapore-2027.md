@@ -105,7 +105,9 @@ headlineFigures:
     value: 45381.5
     unit: "CNY"
     display: "CNY45,381.50"
-audience: "Shanghai dog owners, including Chinese-speaking households, planning a June2027 move to Singapore with an adult mixed-breed dog; Employment Pass couple and individual eligibility assumptions unchanged."
+audience:
+  en: "Shanghai dog owners planning a June 2027 move to Singapore with an adult mixed-breed dog, with Employment Pass eligibility for a couple and for an individual."
+  zh: "计划在 2027 年 6 月带一只成年混种犬从上海搬到新加坡的养狗人，涵盖夫妻和个人两种情况下的 Employment Pass 资格。"
 faq: []
 draft: false
 ---

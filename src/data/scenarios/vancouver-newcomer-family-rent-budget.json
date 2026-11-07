@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Filipino newcomer family moving from Manila as permanent residents on May 1, 2027: two adults and one 4-year-old, one CAD 82000 Burnaby salary, comparing two-bedroom rentals and childcare without Canadian credit; English only.",
+  "audience": {
+    "en": "Filipino newcomer family moving from Manila as permanent residents on May 1, 2027: two adults and one 4-year-old, one CAD 82000 Burnaby salary, comparing two-bedroom rentals and childcare without Canadian credit."
+  },
   "sources": [
     {
       "title": "Trip Planner",

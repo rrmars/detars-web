@@ -235,6 +235,7 @@ headlineFigures:
     display: "TWD 2,800"
 audience:
   en: "Hong Kong family planning a mid-2027 move to Taiwan on one HK remote UX salary, with an HK registered-nurse spouse and toddler, comparing residence, healthcare, childcare and housing cash flow."
+  zh: "计划在 2027 年中举家从香港搬到台湾的香港家庭：靠一份香港远程 UX 薪资，配偶是香港注册护士，孩子还是幼儿，要比较居留、医疗、托育和住房的现金流。"
   zh-Hant: "計畫在 2027 年中舉家從香港搬到台灣的香港家庭：靠一份香港遠端 UX 薪資，配偶是香港註冊護理師，孩子還是幼兒，要比較居留、醫療、托育與住房的現金流。"
 faq: []
 draft: false

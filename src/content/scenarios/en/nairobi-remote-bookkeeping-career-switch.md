@@ -171,7 +171,8 @@ headlineFigures:
     value: 2.59
     unit: "months"
     display: "2.59 months"
-audience: "Kenya-resident CPA(K) professionals staying employed in Nairobi while testing remote US/UK bookkeeping, with Kenyan practice, tax and data obligations unchanged."
+audience:
+  en: "Kenya-resident CPA(K) professionals staying employed in Nairobi while testing remote US/UK bookkeeping, alongside their Kenyan practice, tax and data obligations."
 faq: []
 draft: false
 ---

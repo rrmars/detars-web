@@ -165,7 +165,9 @@ headlineFigures:
     unit: "residual_per_month"
     currency: "SGD"
     display: "S$3,410"
-audience: "First-time Singapore renters including Chinese-speaking newcomers, illustrated by a Malaysian EP-holder engineer working at one-north; nationality, pass validity and gender-specific room eligibility remain individual."
+audience:
+  en: "First-time Singapore renters, illustrated by a Malaysian EP-holder engineer working at one-north; nationality, pass validity and gender-specific room eligibility differ for each renter."
+  zh: "首次在新加坡租房的人，示例是在 one-north 工作、持 EP 的马来西亚籍工程师；国籍、准证有效期和按性别限定的房间资格因人而异。"
 faq: []
 draft: false
 ---

@@ -180,7 +180,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_month_over_six_months_2026"
     display: "USD4,510"
-audience: "Solo US-citizen freelance UX designer comparing overseas remote-work routes while legally resident in the US."
+audience:
+  en: "Solo US-citizen freelance UX designer comparing overseas remote-work routes while legally resident in the US."
+  zh: "独自一人的美国公民、自由职业 UX 设计师，在合法居住于美国期间，比较海外远程工作的几条途径。"
 faq:
   - q: "每月 USD5,500，五条途径就都能选吗？"
     a: "还不行。你能过几项当时的收入门槛，但仍要补泰国存款历史、巴厘岛合资格雇佣协议、西班牙公司和经验及社保证明，也要让墨西哥领馆明确自由职业安排。先把这些问清，再认定某条路可走。"

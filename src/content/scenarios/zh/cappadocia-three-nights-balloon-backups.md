@@ -102,7 +102,9 @@ headlineFigures:
     label: "Small allowance excluding separately unpriced items"
     currency: "USD"
     unit: "conditional_planning_amount"
-audience: "Two adults from Dubai planning a short Cappadocia trip; English and Simplified Chinese for Chinese-speaking travellers too, without assuming passport eligibility from Dubai residence."
+audience:
+  en: "Two adults from Dubai planning a short Cappadocia trip."
+  zh: "两位来自迪拜的成年人，计划去卡帕多奇亚（Cappadocia）做一次短途旅行。"
 faq: []
 draft: false
 ---

@@ -217,7 +217,10 @@
     "en",
     "zh"
   ],
-  "audience": "Non-resident family with two adults and school-age children planning a Singapore trip.",
+  "audience": {
+    "en": "Non-resident family with two adults and school-age children planning a Singapore trip.",
+    "zh": "计划去新加坡旅行的非居民家庭，两位大人带着学龄儿童。"
+  },
   "domain": "travel",
   "researchDates": [
     "2026-11-05"

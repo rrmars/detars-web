@@ -74,7 +74,9 @@ headlineFigures:
     unit: "per_year"
     currency: "USD"
     display: "$18,247.30"
-audience: "US cash-basis freelancers in Illinois, including Chinese speakers."
+audience:
+  en: "US cash-basis freelancers in Illinois."
+  zh: "在伊利诺伊州、按收付实现制记账的美国自由职业者。"
 faq: []
 draft: false
 ---

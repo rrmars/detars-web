@@ -80,7 +80,9 @@ headlineFigures:
     value: 82.47
     unit: "seconds_excluding_shared_initialization"
     display: "82.47"
-audience: "English- and Simplified-Chinese-speaking small-office users choosing local searchable-PDF OCR, bilingual recognition or invoice extraction, with Mac-specific test limits and no natural-handwriting validation."
+audience:
+  en: "Small-office users choosing local searchable-PDF OCR, bilingual recognition or invoice extraction, with Mac-specific test limits and no natural-handwriting validation."
+  zh: "为小型办公室选择本地可搜索PDF文字识别、双语识别或发票信息提取的用户；测试仅限Mac环境，也没有验证自然手写体。"
 faq: []
 draft: false
 ---

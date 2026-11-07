@@ -192,7 +192,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_pair_before_tax"
     display: "$219"
-audience: "US shopper wearing glasses and using iPhone and Windows for commuting, flights and calls."
+audience:
+  en: "US shopper wearing glasses and using iPhone and Windows for commuting, flights and calls."
+  zh: "一位戴眼镜的美国买家，使用 iPhone 和 Windows，用于通勤、乘机和通话。"
 faq:
   - q: "“WF-1000XM6 能同时连接两台设备吗？”"
     a: "Sony 说可以，即双设备多点连接，但不是保证同时混音。请用自己的笔记本试 Windows 来电交接，确认符合你的习惯。[P6]"

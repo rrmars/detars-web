@@ -246,7 +246,10 @@
     "en",
     "zh"
   ],
-  "audience": "English for Singapore-to-Sydney relocating families; Simplified Chinese for Chinese-speaking families navigating the same school, housing and settlement choices.",
+  "audience": {
+    "en": "Families moving from Singapore to Sydney with a child, working through school, housing and settlement choices; the example is 2 adults and a 6-year-old, all Australian permanent residents, arriving 1 July 2027.",
+    "zh": "带孩子从新加坡搬到悉尼的家庭，要理清学校、住房和安顿的选择；示例是2位成人和一名6岁孩子，全家都是澳大利亚永久居民，2027年7月1日抵达。"
+  },
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",

@@ -69,7 +69,9 @@ headlineFigures:
     currency: "IDR"
     unit: "per_eligible_tourist"
     display: "IDR500,000"
-audience: "Australian ordinary-passport tourists visiting Bali with a partner whose nationality must be checked separately."
+audience:
+  en: "Australian ordinary-passport tourists visiting Bali with a partner whose nationality must be checked separately."
+  zh: "持澳大利亚普通护照、与伴侣同游巴厘岛的游客；伴侣的国籍需要另行核实。"
 faq:
   - q: "还能办落地签吗，还要准备什么？"
     a: "一个重游家庭在“签证问题！”里问到了这些。对持澳大利亚普通护照的游客，已核对的移民局常见问题仍保留机场 VOA。免费的入境申报和单独的旅游税也要办，按上面的时间表准备即可。帖子还问到儿童疫苗，那要另问医疗专业人士，不能从签证规则推断答案。"

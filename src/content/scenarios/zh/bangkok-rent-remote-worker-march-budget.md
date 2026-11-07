@@ -114,7 +114,9 @@ headlineFigures:
     unit: "visa_financial_evidence_snapshot"
     currency: "THB"
     display: "THB 500,000"
-audience: "English for overseas remote workers planning Bangkok rentals; Simplified Chinese for Chinese-speaking readers comparing the same rental, visa and work-from-home decisions."
+audience:
+  en: "Overseas remote workers planning Bangkok rentals and comparing the rental, visa and work-from-home decisions for a March 2027 move."
+  zh: "计划在曼谷租房的海外远程工作者，需要比较 2027 年 3 月入住的租房、签证和居家办公等决定。"
 faq: []
 draft: false
 ---

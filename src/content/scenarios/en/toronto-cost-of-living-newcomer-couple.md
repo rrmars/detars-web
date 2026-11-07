@@ -123,7 +123,9 @@ headlineFigures:
     currency: "CAD"
     unit: "starting_cash_including_three_month_reserve"
     display: "$23,575.20"
-audience: "Couple moving from India to Toronto on one salary while the wife initially looks for work."
+audience:
+  en: "Couple moving from India to Toronto on one salary while the wife initially looks for work."
+  zh: "从印度搬到多伦多的夫妻，起初只靠一份薪水生活，妻子同时在找工作。"
 faq:
   - q: "Is $85,000 enough if my partner has no job yet?"
     a: "At base costs here, yes: your wife’s earnings stay at zero and $942.33/month remains. Stress costs exceed planning income by $301.17. Add your own excluded commitments and actual employer deductions before relying on that answer."

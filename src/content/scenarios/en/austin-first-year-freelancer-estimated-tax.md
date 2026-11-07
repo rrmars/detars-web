@@ -106,7 +106,8 @@ headlineFigures:
     label: "Federal income tax after QBI under illustrative expense split"
     unit: "illustrative_annual_income_tax"
     currency: "USD"
-audience: "Single US resident taxpayer in Austin, Texas, leaving an $88,000 salaried job for first-year cash-basis UX freelancing in 2027 with $95,000 projected receipts; English only for this US federal and Texas-specific filer, with no distinct Chinese-reader need established."
+audience:
+  en: "Single US resident taxpayer in Austin, Texas, leaving an $88,000 salaried job for first-year cash-basis UX freelancing in 2027 with $95,000 projected receipts."
 faq: []
 draft: false
 ---

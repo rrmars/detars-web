@@ -134,7 +134,8 @@ headlineFigures:
     unit: "episode_benchmark"
     display: "$3,218"
     currency: "USD"
-audience: "An Ohio expectant family, illustrated in Columbus, planning one baby, parental leave and childcare around a May 2027 due date."
+audience:
+  en: "An expectant Ohio family, using Columbus as the example, planning one baby, parental leave and childcare around a May 2027 due date."
 faq: []
 draft: false
 ---

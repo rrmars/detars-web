@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "A 35-year-old Toronto retail manager with Canadian permanent residence, CAD 62,000 salary, CAD 6,000 savings and 12 study hours weekly, targeting a first analyst role in 2027.",
+  "audience": {
+    "en": "A 35-year-old Toronto retail manager with Canadian permanent residence, CAD 62,000 salary, CAD 6,000 savings and 12 study hours weekly, targeting a first analyst role in 2027."
+  },
   "localeReason": "English only: the retained scenario concerns an English-language Toronto/GTA job search and Ontario training/funding for this specific permanent-resident profile; no distinct Chinese-language reader need was established. No other regional-language audience is claimed.",
   "sources": [
     {

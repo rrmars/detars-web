@@ -134,7 +134,8 @@ headlineFigures:
     value: 6.67
     unit: "months"
     display: "6.67 months"
-audience: "Returning Vietnamese-Australian founders assessing a Ho Chi Minh City specialty cafe with Australian capital, Vietnamese-citizenship route questions and a mid-2027 opening."
+audience:
+  en: "Returning Vietnamese-Australian founders assessing a Ho Chi Minh City specialty cafe with Australian capital, Vietnamese-citizenship route questions and a mid-2027 opening."
 faq: []
 draft: false
 ---

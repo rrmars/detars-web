@@ -79,8 +79,8 @@ headlineFigures:
     unit: "real_time_factor"
     display: "0.814"
 audience:
-  en: "English- and Chinese-speaking local-tool users choosing offline narration on a Mac; the English-only hands-on test does not validate Chinese synthesis."
-  zh: "为 Mac 选择离线配音工具的英语和中文读者；本次纯英语实测不验证中文合成质量。"
+  en: "Mac users choosing a tool for offline narration, based on a hands-on test of five tools on an Apple M2 Mac."
+  zh: "想在 Mac 上选择离线配音工具的人，依据在 Apple M2 Mac 上对五款工具的实际测试。"
 faq: []
 draft: false
 ---

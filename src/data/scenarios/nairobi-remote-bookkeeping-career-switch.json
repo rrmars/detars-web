@@ -537,7 +537,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Kenya-resident CPA(K) professionals staying employed in Nairobi while testing remote US/UK bookkeeping, with Kenyan practice, tax and data obligations unchanged.",
+  "audience": {
+    "en": "Kenya-resident CPA(K) professionals staying employed in Nairobi while testing remote US/UK bookkeeping, alongside their Kenyan practice, tax and data obligations."
+  },
   "localeReason": "English only: this guide concerns a specific Kenya-resident employment, tax, practice and upskilling context. No distinct Chinese-reader need has been established.",
   "domain": "careers",
   "researchDates": [

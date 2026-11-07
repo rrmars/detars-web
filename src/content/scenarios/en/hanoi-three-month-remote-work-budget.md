@@ -137,7 +137,8 @@ headlineFigures:
     label: "Upper deposit contingency, not a quoted policy"
     currency: "USD"
     unit: "conditional_planning_amount"
-audience: "One Australian freelance designer staying in Hanoi February–April 2027 while keeping Sydney business hours; English-only for this specific Australian work and entry profile."
+audience:
+  en: "One Australian freelance designer staying in Hanoi February–April 2027 while keeping Sydney business hours."
 faq: []
 draft: false
 ---

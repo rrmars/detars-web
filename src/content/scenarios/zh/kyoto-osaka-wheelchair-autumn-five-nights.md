@@ -190,8 +190,8 @@ headlineFigures:
     display: "AUD 3,500"
     status: "Not premium; shared with necessary hire, depreciation/excess/acceptance apply"
 audience:
-  en: "Helen and her husband, Melbourne-based travellers planning a manual-wheelchair Kansai trip; also useful to Chinese-speaking wheelchair travellers without changing the original profile or eligibility."
-  zh: "以墨尔本的 Helen 和丈夫为本例，供规划手动轮椅关西旅行的读者，包括中文读者使用；翻译不改变原有人物、保险背景或资格。"
+  en: "Helen and her husband, Melbourne-based travellers planning a manual-wheelchair Kansai trip."
+  zh: "来自墨尔本的 Helen 和丈夫，正在规划一次使用手动轮椅的关西旅行。"
 faq: []
 draft: false
 ---

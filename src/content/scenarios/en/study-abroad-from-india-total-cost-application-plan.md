@@ -120,7 +120,9 @@ headlineFigures:
     currency: "INR"
     unit: "lakh_per_degree"
     display: "₹4.4 lakh"
-audience: "Final-year B.Tech students in Pune, India budgeting for an overseas computer-science or data-science master’s."
+audience:
+  en: "Final-year B.Tech students in Pune, India budgeting for an overseas computer-science or data-science master’s."
+  zh: "印度浦那的 B.Tech 最后一年学生，正在为海外计算机科学或数据科学硕士做预算。"
 faq:
   - q: "Do you need dMAT?"
     a: "The APS FAQ covers affected B.Tech/B.Eng fields from summer 2027, but includes semester-stage, existing-certificate and transitional exemptions. Check your exact status; saying you are in your final year is not enough. Taking or passing the test does not guarantee admission."

@@ -129,7 +129,9 @@ headlineFigures:
     unit: "dated_family_admission"
     currency: "JPY"
     display: "¥5,070"
-audience: "Hong Kong family of two adults and children aged 5 and 9 at travel, using Hong Kong SAR passports for July 17–20, 2027 in Okinawa; English and package-only Simplified Chinese retain this profile. Traditional Chinese would better serve the Hong Kong audience for eventual publication."
+audience:
+  en: "Hong Kong family of two adults and children aged 5 and 9 at travel, using Hong Kong SAR passports for July 17–20, 2027 in Okinawa."
+  zh: "一个香港家庭，两位大人带着出行时分别为5岁和9岁的孩子，持香港特区护照，于2027年7月17–20日游冲绳。"
 faq: []
 draft: false
 ---

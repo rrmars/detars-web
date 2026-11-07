@@ -132,7 +132,9 @@ headlineFigures:
     unit: "remaining_contingency"
     currency: "AUD"
     display: "AUD 133.65"
-audience: "English- and Chinese-speaking couples planning the same gentle Melbourne–Tasmania road trip; personal entry, licence and rental eligibility are not established by language."
+audience:
+  en: "Couples planning a gentle five-night Melbourne–Tasmania road trip from Hobart to Launceston."
+  zh: "计划从墨尔本出发、在塔斯马尼亚从霍巴特到朗塞斯顿自驾五晚的轻松行程的情侣或夫妻。"
 faq: []
 draft: false
 ---

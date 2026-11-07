@@ -136,8 +136,8 @@ headlineFigures:
     unit: "MYR_cash"
     display: "RM 27,398.44"
 audience:
-  en: "Two Malaysian sisters planning a KL/PJ bubble-tea kiosk with RM 120,000 savings and maximum RM 50,000 borrowing; useful also to Malaysian Chinese-speaking entrepreneurs comparing the same risks."
-  zh: "计划在吉隆坡或八打灵再也开奶茶档口的两位马来西亚姐妹，存款 RM 120,000、最高借款 RM 50,000；同样帮助马来西亚华语创业者比较风险。"
+  en: "Two Malaysian sisters planning a KL/PJ bubble-tea kiosk with RM 120,000 savings and maximum RM 50,000 borrowing."
+  zh: "计划在吉隆坡或八打灵再也开奶茶档口的两位马来西亚姐妹，存款 RM 120,000、最高借款 RM 50,000。"
 faq: []
 draft: false
 ---

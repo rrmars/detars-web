@@ -294,7 +294,10 @@
     "en",
     "zh"
   ],
-  "audience": "US pet household with a shedding long-haired cat, hardwood floors, rugs and loose cables.",
+  "audience": {
+    "en": "US pet household with a shedding long-haired cat, hardwood floors, rugs and loose cables.",
+    "zh": "美国一户养宠物的家庭，家里有一只掉毛的长毛猫，铺着硬木地板和地毯，地上还有散落的线缆。"
+  },
   "domain": "buying",
   "researchDates": [
     "2026-11-05"

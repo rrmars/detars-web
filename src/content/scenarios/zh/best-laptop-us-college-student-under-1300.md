@@ -87,7 +87,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_laptop"
     display: "$1,269"
-audience: "Prospective US computer-science undergraduates choosing a course-compatible college laptop."
+audience:
+  en: "Prospective US computer-science undergraduates choosing a course-compatible college laptop."
+  zh: "准备就读美国大学计算机专业的本科生，正在挑选与课程兼容的大学笔记本电脑。"
 faq:
   - q: "先选 32GB，还是更轻的 16GB？"
     a: "这则美国计算机专业学生求购帖也在纠结这件事，提到了 IDE、Docker、虚拟机和大量标签页。先满足课程要求。如果经常同时跑多台本地虚拟机，再优先考虑 24–32GB，但内存容量不能告诉你续航多久。这里 $1,199 的 Zenbook 有 32GB；同样条件价的教育优惠 Air 有 16GB。两台都没按那位学生的实际任务测过，请用自己的任务试机。"

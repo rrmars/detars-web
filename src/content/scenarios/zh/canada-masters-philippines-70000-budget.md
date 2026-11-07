@@ -102,7 +102,9 @@ headlineFigures:
     unit: "conditional_20_month_family_requirement"
     currency: "CAD"
     display: "CAD 67,615"
-audience: "Primarily Filipino BSBA graduates considering study in Canada; the Chinese version helps Chinese-speaking readers compare the same route, rather than implying every scenario needs every language."
+audience:
+  en: "Filipino BSBA graduates considering study in Canada on a CAD 70,000 budget."
+  zh: "持 BSBA 学位的菲律宾毕业生，正在考虑赴加拿大读书，预算为 CAD 70,000。"
 faq: []
 draft: false
 ---

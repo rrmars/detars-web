@@ -128,7 +128,8 @@ headlineFigures:
     value: 6160
     unit: "GBP_per_project"
     display: "£6,160"
-audience: "A Glasgow-based designer with four years of in-house experience, starting a Scottish sole trade in January 2027 and preparing a B2B whisky-brand identity quote; no distinct Chinese-speaking audience need established."
+audience:
+  en: "A Glasgow-based designer with four years of in-house experience, starting a Scottish sole trade in January 2027 and preparing a B2B whisky-brand identity quote."
 faq: []
 draft: false
 ---

@@ -205,7 +205,9 @@
   "locales": [
     "en"
   ],
-  "audience": "A Manchester-based ovo-lacto vegetarian student, represented by a 21-year-old training four times weekly, planning a January 2027 week around 120g daily protein and a £45 food budget; no distinct Chinese-language audience established.",
+  "audience": {
+    "en": "A Manchester-based ovo-lacto vegetarian student, represented by a 21-year-old training four times weekly, planning a January 2027 week around 120g daily protein and a £45 food budget."
+  },
   "domain": "family",
   "researchDates": [
     "2026-11-06"

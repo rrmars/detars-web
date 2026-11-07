@@ -99,7 +99,9 @@ headlineFigures:
     currency: "AUD"
     unit: "per_couple_day_including_reserve"
     display: "AUD 120.28"
-audience: "Two adults travelling from Sydney on ordinary Australian passports for their first Da Nang trip."
+audience:
+  en: "Two adults travelling from Sydney on ordinary Australian passports for their first Da Nang trip."
+  zh: "两位持普通澳大利亚护照的成年人，从悉尼出发，第一次去岘港旅行。"
 faq:
   - q: "能在越南境内申请电子签证吗？"
     a: "公开回答针对在越南境外申请入境的外国人。请出发前拿到批准，不要靠先抵达绕过签证要求。"

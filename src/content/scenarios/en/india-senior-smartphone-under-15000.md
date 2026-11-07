@@ -116,7 +116,8 @@ headlineFigures:
     value: 14999
     unit: "INR_dated_selling_price"
     display: "₹14,999"
-audience: "English-reading Indian shoppers and family caregivers: a Bengaluru child buying and setting up a phone under ₹15,000 for a 70-year-old father in Coimbatore before Pongal in mid-January 2027."
+audience:
+  en: "A child in Bengaluru buying and setting up a phone under ₹15,000 for a 70-year-old father in Coimbatore before Pongal in mid-January 2027."
 faq: []
 draft: false
 ---

@@ -314,7 +314,10 @@
     "en",
     "zh"
   ],
-  "audience": "US shopper wearing glasses and using iPhone and Windows for commuting, flights and calls.",
+  "audience": {
+    "en": "US shopper wearing glasses and using iPhone and Windows for commuting, flights and calls.",
+    "zh": "一位戴眼镜的美国买家，使用 iPhone 和 Windows，用于通勤、乘机和通话。"
+  },
   "domain": "buying",
   "researchDates": [
     "2026-11-05"

@@ -147,7 +147,9 @@ headlineFigures:
     unit: "SGD"
     display: "SGD8,753.63"
     status: "Derived planning illustration, not live quotation, reservation or insurance acceptance"
-audience: "English- and Chinese-speaking Singaporean and other W-trek travellers comparing a first five-day trek; original Singaporean couple, passports and insurance-residence assumptions retained."
+audience:
+  en: "Singaporean couple in their early 30s planning a first five-day W Trek in Torres del Paine, Chile, comparing refugio stays against a SGD9,500 budget."
+  zh: "30岁出头的新加坡夫妻，计划在智利百内国家公园首次走五天 W 线，并对照 SGD9,500 的预算比较山屋住宿。"
 faq: []
 draft: false
 ---

@@ -135,7 +135,9 @@ headlineFigures:
     unit: "per_month_planning_target"
     currency: "KRW"
     display: "₩800,000"
-audience: "International students planning a first Yonsei Sinchon year; Simplified Chinese helps Chinese-speaking students compare Korean deposit terms, housing bills and residence paperwork without changing nationality or programme eligibility."
+audience:
+  en: "International students planning a first year near Yonsei in Sinchon, comparing Korean deposit terms, housing bills and residence paperwork."
+  zh: "计划在延世大学新村一带度过第一年的国际学生，要比较韩国的押金条款、住房账单和居留手续。"
 faq: []
 draft: false
 ---

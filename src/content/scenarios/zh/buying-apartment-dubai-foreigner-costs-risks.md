@@ -116,7 +116,9 @@ headlineFigures:
     currency: "AED"
     unit: "minimum_loan_principal"
     display: "AED750,000"
-audience: "UK citizen employed in Saudi Arabia considering a Dubai apartment for rental investment and possible later personal use."
+audience:
+  en: "UK citizen employed in Saudi Arabia considering a Dubai apartment for rental investment and possible later personal use."
+  zh: "一位在沙特阿拉伯工作的英国公民，考虑在迪拜买一套公寓用于出租投资，以后也可能自住。"
 faq:
   - q: "毛收益率7%，租金就能养房贷吗？"
     a: "不能这样算。MBL 的7.33%毛收益率例子，按含费购房成本算只剩4.36%无杠杆净收益率，再扣假设本息和寿险，每年现金为负9,295.13。租金并不保证，要看实际融资后账户还剩多少。"

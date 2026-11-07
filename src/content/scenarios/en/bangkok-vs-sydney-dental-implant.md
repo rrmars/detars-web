@@ -95,8 +95,8 @@ headlineFigures:
     unit: "AUD_cash_savings"
     display: "AUD 2,000"
 audience:
-  en: "A 52-year-old Sydney resident with one already-extracted lower molar, an AUD 6,500 local quote and possible March 2027 Bangkok travel; useful also to Chinese-speaking Sydney residents comparing overseas care."
-  zh: "住在悉尼、52 岁、下磨牙已拔除、本地报价 AUD 6,500、考虑 2027年3月去曼谷治疗的居民；同样帮助悉尼华语居民比较海外牙科方案。"
+  en: "A 52-year-old Sydney resident with one already-extracted lower molar, an AUD 6,500 local quote and possible March 2027 Bangkok travel."
+  zh: "住在悉尼、52 岁、下磨牙已拔除、本地报价 AUD 6,500、考虑 2027年3月去曼谷治疗的居民。"
 faq: []
 draft: false
 ---

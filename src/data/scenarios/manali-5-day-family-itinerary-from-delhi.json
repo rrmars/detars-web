@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Delhi families with two adults and children aged eight and twelve planning gentle Manali outings.",
+  "audience": {
+    "en": "Delhi families with two adults and children aged eight and twelve planning gentle Manali outings.",
+    "zh": "来自德里的家庭，两位成年人带着八岁和十二岁的孩子，计划轻松的马纳利出游。"
+  },
   "schemaVersion": 2,
   "slug": "manali-5-day-family-itinerary-from-delhi",
   "translationKey": "manali-5-day-family-itinerary-from-delhi",

@@ -291,7 +291,10 @@
     "en",
     "zh"
   ],
-  "audience": "Solo US-citizen freelance UX designer comparing overseas remote-work routes while legally resident in the US.",
+  "audience": {
+    "en": "Solo US-citizen freelance UX designer comparing overseas remote-work routes while legally resident in the US.",
+    "zh": "独自一人的美国公民、自由职业 UX 设计师，在合法居住于美国期间，比较海外远程工作的几条途径。"
+  },
   "domain": "visas",
   "researchDates": [
     "2026-11-05"

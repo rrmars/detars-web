@@ -182,7 +182,8 @@ headlineFigures:
     unit: "MYR/year"
     display: "MYR 3,078.00"
     status: "Alternative only after successful evaluation; same FX and exclusions"
-audience: "Farah and other decision-makers at a 12-person Kuala Lumpur accounting and tax firm evaluating English, Malay and Mandarin meeting notes without compromising client confidentiality."
+audience:
+  en: "Farah and other decision-makers at a 12-person Kuala Lumpur accounting and tax firm evaluating English, Malay and Mandarin meeting notes without compromising client confidentiality."
 faq: []
 draft: false
 ---

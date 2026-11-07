@@ -54,7 +54,9 @@ headlineFigures:
     currency: "USD"
     unit: "month_end_cash"
     display: "$11,132.50"
-audience: "US households combining two monthly salary checks with variable freelance income and family bills."
+audience:
+  en: "US households combining two monthly salary checks with variable freelance income and family bills."
+  zh: "美国家庭：每月有两份工资，另有收入不固定的自由职业收入，还要支付家庭账单。"
 faq:
   - q: "“When are quarterly estimated tax payments due?”"
     a: "The IRS FAQ lists April 15, June 15, September 15 and January 15 of the following year for calendar-year payment periods, with weekend/holiday adjustments and exceptions. Check the applicable year's dates and your circumstances. This workbook's 25% reserve neither calculates what you owe nor schedules those payments. The IRS overview explains that estimated tax can include self-employment tax; merely moving cash to savings does not pay it."

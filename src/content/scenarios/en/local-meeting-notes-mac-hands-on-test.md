@@ -50,7 +50,9 @@ headlineFigures:
     value: 3
     unit: "of 5 checks"
     display: "3/5"
-audience: "Mac users seeking local meeting transcription, including Chinese-speaking users; a one-machine exploratory test, not validation of general Mandarin or Chinese meeting-note quality."
+audience:
+  en: "Mac users who want private, local meeting transcription; based on a one-machine exploratory test, not a general benchmark."
+  zh: "想在 Mac 上本地、私密地转写会议录音的用户；依据的是一台电脑上的探索性测试，不是通用基准。"
 faq: []
 draft: false
 ---

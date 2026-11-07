@@ -120,7 +120,9 @@ headlineFigures:
     currency: "INR"
     unit: "lakh_per_degree"
     display: "₹4.4 lakh"
-audience: "Final-year B.Tech students in Pune, India budgeting for an overseas computer-science or data-science master’s."
+audience:
+  en: "Final-year B.Tech students in Pune, India budgeting for an overseas computer-science or data-science master’s."
+  zh: "印度浦那的 B.Tech 最后一年学生，正在为海外计算机科学或数据科学硕士做预算。"
 faq:
   - q: "你需要考 dMAT 吗？"
     a: "APS 问答涉及 2027 夏季起受影响的 B.Tech 和 B.Eng 领域，也有学期阶段、已有证书及过渡豁免。只说“应届生”不够，请确认准确状态。参加或通过考试，都不保证录取。"

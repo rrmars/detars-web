@@ -174,7 +174,9 @@ headlineFigures:
     value: 124268.35
     unit: "MYR_plus_unresolved"
     display: "RM124,268.35"
-audience: "Chinese-speaking and English-reading families comparing Kuala Lumpur international-school cost and fit; the worked example remains a Chinese/non-Malaysian family seeking Year 3 and Year 7 with Mont Kiara/KL Sentral jobs."
+audience:
+  en: "A non-Malaysian family from China moving to Kuala Lumpur in July 2027, comparing international-school cost and fit for Year 3 and Year 7 places, with parents working in Mont Kiara and KL Sentral."
+  zh: "2027 年 7 月搬到吉隆坡的中国家庭（非马来西亚籍），为 Year 3 和 Year 7 的孩子比较国际学校的费用和适配度，父母的工作地点在 Mont Kiara 和 KL Sentral。"
 faq: []
 draft: false
 ---

@@ -143,7 +143,8 @@ headlineFigures:
     unit: "estimated_contingency"
     currency: "EUR"
     display: "€139.00"
-audience: "Chicago-based couple of two ordinary U.S.-passport tourists planning May 6–10, 2027 in Barcelona, with four nights and a EUR 1,800 ground budget excluding flights; English-only because no distinct Chinese-reader audience is established."
+audience:
+  en: "Chicago-based couple of two ordinary U.S.-passport tourists planning May 6–10, 2027 in Barcelona, with four nights and a EUR 1,800 ground budget excluding flights."
 faq: []
 draft: false
 ---

@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Chicago renter with allergies choosing a US air purifier for a 300 sq ft bedroom, under a USD 300 unit-price budget, for March 2027; specific Chicago/US purchase context with no distinct Chinese-reader need established.",
+  "audience": {
+    "en": "Chicago renter with allergies choosing a US air purifier for a 300 sq ft bedroom, under a USD 300 unit-price budget, for March 2027."
+  },
   "sources": [
     {
       "title": "AHAM — Air Filtration Standards and two-thirds sizing rule",

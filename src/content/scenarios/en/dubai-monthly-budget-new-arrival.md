@@ -87,7 +87,9 @@ headlineFigures:
     currency: "AED"
     unit: "arrival_cash"
     display: "AED60,770"
-audience: "Single adults moving to Dubai for a Business Bay job, initially without a car or dependants."
+audience:
+  en: "Single adults moving to Dubai for a Business Bay job, initially without a car or dependants."
+  zh: "因 Business Bay 的工作搬到迪拜的单身成年人，起初没有汽车，也没有需要抚养的家属。"
 faq:
   - q: "If an advert says AED70,000 a year, can I pay AED5,833 each month?"
     a: "A newcomer's apartment-and-rent question asks whether AED70,000 means monthly or annual payment. Dividing annual rent by 12 does not give you a right to pay monthly. Check the advert's cheques and signed schedule. These four homes state two or four, not 12. The questioner has a different workplace and budget, so do not copy their arrangement."

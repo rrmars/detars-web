@@ -345,7 +345,10 @@
     "en",
     "zh"
   ],
-  "audience": "Vegetarian families planning Tokyo–Hakone–Kyoto–Osaka, including Chinese-speaking readers; Mumbai-resident Indian ordinary-passport family with children9 and13 retained.",
+  "audience": {
+    "en": "A vegetarian family from Mumbai, two parents and children aged 9 and 13 on Indian ordinary passports, planning Tokyo–Hakone–Kyoto–Osaka.",
+    "zh": "来自孟买的素食家庭，两位家长带着 9 岁和 13 岁的孩子，持印度普通护照，计划东京–箱根–京都–大阪之行。"
+  },
   "localeReason": "Chinese is useful to vegetarian families planning this Japan route, especially stock-free food, kitchen-equipped family rooms and conditional pass decisions. Translation retains Mumbai residence, Indian-passport visa eligibility and child ages; Simplified Chinese is the package locale.",
   "domain": "travel",
   "researchDates": [

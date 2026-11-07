@@ -78,7 +78,9 @@ headlineFigures:
     unit: "first_year_cash"
     currency: "USD"
     display: "$18,164.25"
-audience: "Cash buyers in Phoenix, Arizona comparing used cars within an acquisition budget and keeping money for running costs."
+audience:
+  en: "Cash buyers in Phoenix, Arizona comparing used cars within an acquisition budget and keeping money for running costs."
+  zh: "在亚利桑那州凤凰城用现金买二手车的买家，在购车预算内比较车型，并为日常使用费用留出资金。"
 faq: []
 draft: false
 ---

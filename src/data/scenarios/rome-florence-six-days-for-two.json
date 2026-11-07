@@ -11,7 +11,10 @@
     "en",
     "zh"
   ],
-  "audience": "First-time Sydney couple with ordinary Australian passports visiting Rome and Florence September 4–10, 2027; English and Simplified Chinese serve the same plan for a destination popular with Chinese-speaking travellers too, without transferring Australian entry eligibility.",
+  "audience": {
+    "en": "First-time Sydney couple with ordinary Australian passports visiting Rome and Florence September 4–10, 2027.",
+    "zh": "首次同行的悉尼情侣，持澳大利亚普通护照，于2027年9月4–10日游览罗马和佛罗伦萨。"
+  },
   "sources": [
     {
       "title": "colosseo.it — colosseum-roman-forum-palatine",

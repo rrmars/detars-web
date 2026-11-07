@@ -125,7 +125,8 @@ headlineFigures:
     value: 2598
     unit: "kcal_per_day"
     display: "2,598"
-audience: "A Manchester-based ovo-lacto vegetarian student, represented by a 21-year-old training four times weekly, planning a January 2027 week around 120g daily protein and a £45 food budget; no distinct Chinese-language audience established."
+audience:
+  en: "A Manchester-based ovo-lacto vegetarian student, represented by a 21-year-old training four times weekly, planning a January 2027 week around 120g daily protein and a £45 food budget."
 faq: []
 draft: false
 ---

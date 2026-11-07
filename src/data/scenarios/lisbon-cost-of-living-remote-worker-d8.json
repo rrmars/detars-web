@@ -184,7 +184,10 @@
     "en",
     "zh"
   ],
-  "audience": "Solo remote software developer planning a year in Lisbon; nationality and legal residence still need confirming.",
+  "audience": {
+    "en": "Solo remote software developer planning a year in Lisbon; nationality and legal residence still need confirming.",
+    "zh": "打算在里斯本住一年的独自远程软件开发者；国籍和合法居留身份仍需确认。"
+  },
   "domain": "living",
   "researchDates": [
     "2026-11-05"

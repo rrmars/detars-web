@@ -90,7 +90,9 @@ headlineFigures:
     currency: "INR"
     unit: "per_family_trip"
     display: "₹59,250"
-audience: "Delhi families with two adults and children aged eight and twelve planning gentle Manali outings."
+audience:
+  en: "Delhi families with two adults and children aged eight and twelve planning gentle Manali outings."
+  zh: "来自德里的家庭，两位成年人带着八岁和十二岁的孩子，计划轻松的马纳利出游。"
 faq:
   - q: "“这些是最终车费吗？”"
     a: "供应商问答说还要看日期、接车点和路线能否走。2026 价目表只能帮你起预算，决定前问对应日期总价，它锁不住2027年5月车费。"

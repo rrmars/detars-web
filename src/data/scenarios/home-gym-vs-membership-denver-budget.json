@@ -111,7 +111,10 @@
     "en",
     "zh"
   ],
-  "audience": "适合住在丹佛、想开始力量训练又怕器材买错的上班族；用中文看清居家与会员成本、缺货应对和入门安排，方便按自己的空间与日程作选择。",
+  "audience": {
+    "en": "A 34-year-old Denver office worker who wants to start strength training, weighing a home gym with a $300 equipment target against a gym membership.",
+    "zh": "住在丹佛、想开始力量训练的 34 岁上班族，在 $300 的器材预算和健身房会员之间做选择。"
+  },
   "domain": "family",
   "researchDates": [
     "2026-11-05"

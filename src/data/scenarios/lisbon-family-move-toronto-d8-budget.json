@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "A Toronto-based Canadian-planning family moving to Lisbon with two school-age children, a Canadian remote salary and unspecified freelance income.",
+  "audience": {
+    "en": "A Toronto family moving to Lisbon with two school-age children, a Canadian remote salary and unspecified freelance income."
+  },
   "localeReason": "English only: specific Toronto/Canadian documents, employer, CAD income and bilateral tax context; no distinct Chinese-reader need is evidenced. Nationalities and legal family relationships still require confirmation.",
   "sources": [
     {

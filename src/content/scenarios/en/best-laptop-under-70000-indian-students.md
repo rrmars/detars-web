@@ -114,7 +114,9 @@ headlineFigures:
     currency: "INR"
     unit: "per_laptop"
     display: "₹62,990"
-audience: "India-based incoming B.Tech or computer-science students choosing a commuting laptop."
+audience:
+  en: "India-based incoming B.Tech or computer-science students choosing a commuting laptop."
+  zh: "印度即将入学的 B.Tech 或计算机专业学生，正在挑选通勤用的笔记本电脑。"
 faq:
   - q: "What proof does ASUS need?"
     a: "Its FAQ lists current-session institution ID, a fee receipt or bona fide evidence. Planning to enrol later is not approval now. The same page disagrees on any email versus an education email; ask ASUS which applies before counting a discount."

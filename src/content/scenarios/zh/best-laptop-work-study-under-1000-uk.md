@@ -177,7 +177,9 @@ headlineFigures:
     currency: "GBP"
     unit: "illustrative_laptop_and_charger_vat_inclusive"
     display: "£838.99"
-audience: "UK marketing professional starting a part-time master's and choosing a laptop for work, study and commuting."
+audience:
+  en: "UK marketing professional starting a part-time master's and choosing a laptop for work, study and commuting."
+  zh: "一位英国的市场营销从业者，即将开始非全日制硕士学习，正在挑选兼顾工作、学习和通勤的笔记本电脑。"
 faq:
   - q: "8GB 够吗，还是应坚持16GB？"
     a: "普通工作可能可用 8GB，但通话、多标签、Canva 和数年使用，我倾向16GB。Neo 和£899的 Surface 不是两款优先候选的等内存替代。这是工作负载／余量判断，不是新跑分或预言 8GB 会失效。"

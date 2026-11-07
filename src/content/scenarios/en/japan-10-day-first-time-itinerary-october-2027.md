@@ -123,7 +123,9 @@ headlineFigures:
     currency: "JPY"
     unit: "per_person"
     display: "¥15,520"
-audience: "Two adult friends travelling from the UK for a relaxed first Japan visit."
+audience:
+  en: "Two adult friends travelling from the UK for a relaxed first Japan visit."
+  zh: "两位从英国出发的成年朋友，第一次轻松地游览日本。"
 faq:
   - q: "Can someone else use the space behind the last Shinkansen row?"
     a: "JR Central asks this. Designated oversized space is for passengers with the corresponding reserved seats, not a communal free-for-all. Reserve the appropriate seat or arrange forwarding."

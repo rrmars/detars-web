@@ -87,7 +87,9 @@ headlineFigures:
     currency: "JPY"
     unit: "arrival_cash"
     display: "¥740,420"
-audience: "Foreign professionals planning a Tokyo work-visa move without a Japanese personal guarantor."
+audience:
+  en: "Foreign professionals planning a Tokyo work-visa move without a Japanese personal guarantor."
+  zh: "计划持工作签证搬到东京、但没有日本个人担保人的外籍职场人士。"
 faq:
   - q: "Why can moving in cost several months' rent?"
     a: "The public thread “Initial moving cost, is it really that expensive?” raises the same worry. Deposits, key money, brokerage and guarantee charges add up. Use the itemised table instead of assuming a universal multiplier. Your deposit may come back with deductions; key money is nonrefundable. Check the definitions before comparing fees."

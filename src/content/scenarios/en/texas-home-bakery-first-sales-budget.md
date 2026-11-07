@@ -86,7 +86,8 @@ headlineFigures:
     value: 22.04
     unit: "USD_per_hour"
     display: "$22.04/hour"
-audience: "A San Antonio nurse planning a Texas home-kitchen bakery with USD 3,000, 15–20 monthly orders and a USD 15/hour target, weighing Instagram preorders against local Saturday markets."
+audience:
+  en: "A San Antonio nurse planning a Texas home-kitchen bakery with USD 3,000, 15–20 monthly orders and a USD 15/hour target, weighing Instagram preorders against local Saturday markets."
 faq: []
 draft: false
 ---

@@ -59,7 +59,9 @@ headlineFigures:
     unit: "reserve"
     currency: "USD"
     display: "$3,500"
-audience: "Couple planning an Austin wedding with family contributions, a fixed spending cap and separate contingency money."
+audience:
+  en: "Couple planning an Austin wedding with family contributions, a fixed spending cap and separate contingency money."
+  zh: "在奥斯汀筹备婚礼的新人，有家人出资、固定的支出上限，并另留一笔备用金。"
 faq: []
 draft: false
 ---

@@ -143,7 +143,8 @@ headlineFigures:
     value: 1000
     unit: "CAD"
     display: "CAD 1,000"
-audience: "A 35-year-old Toronto retail manager with Canadian permanent residence, CAD 62,000 salary, CAD 6,000 savings and 12 study hours weekly, targeting a first analyst role in 2027."
+audience:
+  en: "A 35-year-old Toronto retail manager with Canadian permanent residence, CAD 62,000 salary, CAD 6,000 savings and 12 study hours weekly, targeting a first analyst role in 2027."
 faq: []
 draft: false
 ---

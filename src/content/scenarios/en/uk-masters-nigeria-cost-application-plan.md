@@ -147,7 +147,9 @@ headlineFigures:
     unit: "optional_post_course_cost"
     currency: "GBP"
     display: "£2,489.50"
-audience: "English serves Nigerian applicants planning a UK MSc; Chinese helps Chinese-speaking family members and advisers compare study plans; no additional regional-language audience is specified."
+audience:
+  en: "Nigerian applicants planning a UK MSc for September 2027 and comparing study plans against a £32,000 family budget."
+  zh: "计划2027年9月赴英攻读理学硕士的尼日利亚申请人，正对照 £32,000 的家庭预算比较留学方案。"
 faq: []
 draft: false
 ---

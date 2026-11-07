@@ -166,7 +166,8 @@ headlineFigures:
     unit: "trip_insurance_planning_reserve"
     currency: "JPY"
     display: "¥120,000"
-audience: "A single 35-year-old US citizen and US software QA employee earning USD 118000, retaining US tax residence and planning an April 2027 Japan arrival; English-only because no distinct Chinese-speaking audience is established for this specific US employment, consular and tax profile."
+audience:
+  en: "A single 35-year-old US citizen and US software QA employee earning USD 118000, keeping US tax residence and planning an April 2027 Japan arrival."
 faq: []
 draft: false
 ---

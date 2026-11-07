@@ -93,7 +93,8 @@ headlineFigures:
     value: 2500
     unit: "AED_per_year_medicine_limit_including_coinsurance"
     display: "AED 2,500"
-audience: "Expat sponsor earning AED 28,000/month, moving to Dubai in January 2027 with an employer-paid employee policy and separate cover needed for his wife and children aged 4 and 8."
+audience:
+  en: "Expat sponsor earning AED 28,000/month, moving to Dubai in January 2027 with an employer-paid employee policy and separate cover needed for his wife and children aged 4 and 8."
 faq: []
 draft: false
 ---

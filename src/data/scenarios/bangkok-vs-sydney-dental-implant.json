@@ -159,8 +159,8 @@
     "zh"
   ],
   "audience": {
-    "en": "A 52-year-old Sydney resident with one already-extracted lower molar, an AUD 6,500 local quote and possible March 2027 Bangkok travel; useful also to Chinese-speaking Sydney residents comparing overseas care.",
-    "zh": "住在悉尼、52 岁、下磨牙已拔除、本地报价 AUD 6,500、考虑 2027年3月去曼谷治疗的居民；同样帮助悉尼华语居民比较海外牙科方案。"
+    "en": "A 52-year-old Sydney resident with one already-extracted lower molar, an AUD 6,500 local quote and possible March 2027 Bangkok travel.",
+    "zh": "住在悉尼、52 岁、下磨牙已拔除、本地报价 AUD 6,500、考虑 2027年3月去曼谷治疗的居民。"
   },
   "localeReason": "English and Simplified Chinese are useful to Chinese-speaking Sydney residents comparing overseas treatment. Translation preserves the Australian/Sydney resident profile, Australian health-fund assumptions and original clinical scenario; it does not imply a different nationality or insurance eligibility.",
   "editingContract": "Only assigned English and Simplified Chinese Markdown, semantic JSON and optional slug-specific notes are authored. Original stage2 relative links retained for builder rebasing. No shared inventory/script/README/existing-page/run-file edits, external lookup or build.",

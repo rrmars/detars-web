@@ -227,7 +227,8 @@ headlineFigures:
     label: "Annual model replacing annualized tires with first-winter cash; avoid registration duplication"
     unit: "modeled_first_winter_operating_cash"
     currency: "USD"
-audience: "24-year-old new nurse in Columbus, Ohio starting February 2027, commuting 22 miles each way and buying a first US used car within $15,000 including tax and fees. English only: no distinct Chinese audience established."
+audience:
+  en: "24-year-old new nurse in Columbus, Ohio starting February 2027, commuting 22 miles each way and buying a first US used car within $15,000 including tax and fees."
 faq: []
 draft: false
 ---

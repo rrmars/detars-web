@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Foreign professionals planning a Tokyo work-visa move without a Japanese personal guarantor.",
+  "audience": {
+    "en": "Foreign professionals planning a Tokyo work-visa move without a Japanese personal guarantor.",
+    "zh": "计划持工作签证搬到东京、但没有日本个人担保人的外籍职场人士。"
+  },
   "schemaVersion": 2,
   "slug": "tokyo-renting-foreign-professionals",
   "translationKey": "tokyo-renting-foreign-professionals",

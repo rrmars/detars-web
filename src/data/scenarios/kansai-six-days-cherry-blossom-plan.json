@@ -11,7 +11,10 @@
     "en",
     "zh"
   ],
-  "audience": "Two Singapore-passport adults travelling from Singapore for a food-first Kansai holiday, April 3–9, 2027, six nights and five full sightseeing days, with SGD3,200 excluding flights; English and Simplified Chinese help the same travellers and Chinese-speaking readers without transferring Singapore-passport eligibility.",
+  "audience": {
+    "en": "Two Singapore-passport adults travelling from Singapore for a food-first Kansai holiday, April 3–9, 2027, six nights and five full sightseeing days, with SGD3,200 excluding flights.",
+    "zh": "两位持新加坡护照、从新加坡出发的成年人，2027 年 4 月 3–9 日以美食为先游览关西，六晚、五个完整游览日，预算 SGD3,200（不含机票）。"
+  },
   "sources": [
     {
       "title": "JMC's forecast page",

@@ -174,7 +174,9 @@ headlineFigures:
     unit: "couple_from_price"
     currency: "NZD"
     display: "$538"
-audience: "English- and Chinese-speaking travellers planning the same gentle South Island trip from Sydney; passport, Australian immigration status, driver eligibility and walking needs remain individual, not changed by language."
+audience:
+  en: "Travellers planning a gentle seven-day South Island trip from Sydney, with passport, Australian immigration status, driver eligibility and walking needs to check individually."
+  zh: "从悉尼出发、计划轻松游览新西兰南岛七天的旅行者；护照、澳大利亚移民身份、驾驶资格和步行需求需要各自核实。"
 faq: []
 draft: false
 ---

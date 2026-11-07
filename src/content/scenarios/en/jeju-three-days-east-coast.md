@@ -120,7 +120,9 @@ headlineFigures:
     label: "Per-person car total below ceiling"
     currency: "KRW"
     unit: "per_person_planning_amount"
-audience: "Three friends travelling from Seoul for an east-coast Jeju weekend; English and Simplified Chinese support the same itinerary, with Korean-licence and foreign-IDP routes distinguished and no nationality eligibility assumed."
+audience:
+  en: "Three friends travelling from Seoul for an east-coast Jeju weekend, with driving routes for Korean licences and foreign IDPs set out separately."
+  zh: "三位从首尔出发、前往济州岛东海岸过周末的朋友；韩国驾照和外国国际驾照（IDP）的租车路线分开说明。"
 faq: []
 draft: false
 ---

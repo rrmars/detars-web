@@ -200,7 +200,8 @@ headlineFigures:
     value: 2.2
     unit: "German grade"
     display: "2.20"
-audience: "Pakistani CS graduate applying from Lahore for winter 2027/28, comparing German public-university academic gates, Pakistan-specific visa/document routes and PKR-denominated family and salary funding."
+audience:
+  en: "Pakistani CS graduate applying from Lahore for winter 2027/28, comparing German public-university academic gates, Pakistan-specific visa/document routes and PKR-denominated family and salary funding."
 faq: []
 draft: false
 ---

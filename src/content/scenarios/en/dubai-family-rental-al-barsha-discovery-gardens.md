@@ -119,7 +119,8 @@ headlineFigures:
     value: 44450
     unit: "AED"
     display: "AED 44,450"
-audience: "Indian family relocating from Bengaluru with children aged 6 and 10, a Dubai Internet City job and a specific salary/housing allowance, comparing school-first rental corridors and signing liquidity."
+audience:
+  en: "Indian family relocating from Bengaluru with children aged 6 and 10 and a Dubai Internet City job paying AED 38,000/month plus an AED 120,000/year housing allowance, comparing school-first rental areas and signing cash."
 faq: []
 draft: false
 ---

@@ -57,7 +57,9 @@ headlineFigures:
     value: 1.702
     unit: "seconds"
     display: "1.702"
-audience: "Students comparing guest-access research tools for a university literature assignment."
+audience:
+  en: "Students comparing guest-access research tools for a university literature assignment."
+  zh: "为大学文献作业比较可免登录试用的研究工具的学生。"
 faq:
   - q: "Which tool is worth trying before another subscription?"
     a: "A r/PhD discussion asks just that. Try a bounded assignment in the guest tools before buying. These answers do not pick the best subscription for your thesis or another field. Research Rabbit and Scite appear in the discussion but were not tested here."

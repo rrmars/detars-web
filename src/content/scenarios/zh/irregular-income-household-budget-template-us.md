@@ -54,7 +54,9 @@ headlineFigures:
     currency: "USD"
     unit: "month_end_cash"
     display: "$11,132.50"
-audience: "US households combining two monthly salary checks with variable freelance income and family bills."
+audience:
+  en: "US households combining two monthly salary checks with variable freelance income and family bills."
+  zh: "美国家庭：每月有两份工资，另有收入不固定的自由职业收入，还要支付家庭账单。"
 faq:
   - q: "“季度预估税何时到期？”"
     a: "IRS 问答对日历年缴付期列出 4月15日、6月15日、9月15日 和次年 1月15日，遇周末／节假日调整，并有例外。核查适用年度日期及个人情况。工作簿的 25% 预留既不计算应缴税，也不安排这些付款。IRS 概述解释预估税可能包含自雇税；仅把钱转到储蓄账户不等于缴税。"

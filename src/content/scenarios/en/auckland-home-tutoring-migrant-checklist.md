@@ -191,7 +191,8 @@ headlineFigures:
     value: 60000
     unit: "NZD rolling taxable turnover"
     display: "NZ$60,000"
-audience: "Migrants in Auckland considering solo home-based and online supplementary maths tutoring, using an Indian former teacher in Mount Roskill as the specific scenario."
+audience:
+  en: "Migrants in Auckland considering solo home-based and online supplementary maths tutoring, using an Indian former teacher in Mount Roskill as the specific scenario."
 faq: []
 draft: false
 ---

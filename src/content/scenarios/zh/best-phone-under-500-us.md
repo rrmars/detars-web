@@ -168,7 +168,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_handset_before_tax"
     display: "$439.99"
-audience: "US phone shoppers prioritizing indoor family photos, battery condition and long software support."
+audience:
+  en: "US phone shoppers prioritizing indoor family photos, battery condition and long software support."
+  zh: "美国的手机买家，最看重室内家庭照片的效果、电池状况和较长的软件支持期。"
 faq:
   - q: "我的套餐能用 eSIM 吗？"
     a: "Apple 问答介绍的是数字 SIM，也提醒不是所有运营商都支持。选这里的美版 iPhone 前，确认你那份套餐能激活这台机器，“无锁”只是其中一步。"

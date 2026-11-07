@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Nigerian student arriving in September 2027 for an unspecified George Brown diploma programme, with an approximate CAD 1,300 rent ceiling; English-only, preserving the Nigerian profile rather than inventing a Chinese-reader need.",
+  "audience": {
+    "en": "Nigerian student arriving in September 2027 for a George Brown diploma programme, with an approximate CAD 1,300 rent ceiling."
+  },
   "sources": [
     {
       "title": "Ontario Residential Tenancies Act, especially section 5 and sections 105–106",

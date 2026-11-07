@@ -162,7 +162,9 @@ headlineFigures:
     unit: "protected_reserve"
     currency: "JPY"
     display: "¥690,000"
-audience: "Filipino engineer living in the Philippines with six years of Go/Python backend experience and JLPT N4, targeting Tokyo employment by October 1, 2027; Simplified Chinese supports Chinese-speaking engineers without changing nationality, eligibility or Philippine departure obligations."
+audience:
+  en: "Filipino engineer living in the Philippines with six years of Go/Python backend experience and JLPT N4, targeting Tokyo employment by October 1, 2027."
+  zh: "住在菲律宾的菲律宾工程师，有六年 Go/Python 后端经验，日语 JLPT N4，目标是在2027年10月1日前在东京找到工作。"
 faq: []
 draft: false
 ---

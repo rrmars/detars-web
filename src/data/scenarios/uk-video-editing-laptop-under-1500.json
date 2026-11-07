@@ -190,7 +190,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Bristol freelance videographer planning a January 2027 UK laptop purchase within £1,500, using Resolve Free with Sony footage and travelling between shoots.",
+  "audience": {
+    "en": "Bristol freelance videographer planning a January 2027 UK laptop purchase within £1,500, using Resolve Free with Sony footage and travelling between shoots."
+  },
   "localeReason": "English only: the retained scenario is a Bristol videographer with specific UK purchase conditions; no distinct Chinese-speaking audience is established.",
   "domain": "buying",
   "researchDates": [

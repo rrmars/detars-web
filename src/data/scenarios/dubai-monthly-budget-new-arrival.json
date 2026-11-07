@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Single adults moving to Dubai for a Business Bay job, initially without a car or dependants.",
+  "audience": {
+    "en": "Single adults moving to Dubai for a Business Bay job, initially without a car or dependants.",
+    "zh": "因 Business Bay 的工作搬到迪拜的单身成年人，起初没有汽车，也没有需要抚养的家属。"
+  },
   "schemaVersion": 2,
   "slug": "dubai-monthly-budget-new-arrival",
   "translationKey": "dubai-monthly-budget-new-arrival",

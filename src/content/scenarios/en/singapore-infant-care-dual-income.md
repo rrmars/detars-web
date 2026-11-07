@@ -132,7 +132,9 @@ headlineFigures:
     value: 5000
     unit: "SGD"
     display: "S$5,000"
-audience: "Singapore families, including Chinese-speaking parents, comparing infant care and subsidy choices; example remains a Tampines SC+PR couple earning SGD 11,500 with a February 2027 baby and August return to work."
+audience:
+  en: "Singapore families comparing infant care and subsidy choices, using a Tampines SC+PR couple earning SGD 11,500 with a February 2027 baby and August return to work."
+  zh: "比较婴儿托育和补贴选择的新加坡家庭。示例是住在淡滨尼、一位 SC 一位 PR 的夫妻，收入 SGD 11,500，宝宝2027年2月出生，8月返回工作。"
 faq: []
 draft: false
 ---

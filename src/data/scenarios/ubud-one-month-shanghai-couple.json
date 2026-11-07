@@ -11,7 +11,10 @@
     "en",
     "zh"
   ],
-  "audience": "Shanghai remote-working couple, one vegetarian, planning June 1–30, 2027 in Ubud with mainland Chinese licences and CNY 20,000 excluding flights; Simplified Chinese is the primary audience, English supports the same profile.",
+  "audience": {
+    "en": "Shanghai remote-working couple, one vegetarian, planning June 1–30, 2027 in Ubud with mainland Chinese licences and CNY 20,000 excluding flights.",
+    "zh": "一对在上海远程办公的夫妻，其中一人吃素，计划2027年6月1–30日在乌布住一个月，持中国大陆驾照，预算 CNY 20,000（不含机票）。"
+  },
   "sources": [
     {
       "title": "All Indonesia arrival card — allindonesia.imigrasi.go.id",

@@ -165,7 +165,9 @@ headlineFigures:
     unit: "upfront_commitments"
     currency: "MYR"
     display: "MYR 82,260"
-audience: "Hong Kong family with two working parents and two children planning an August 2027 Kuala Lumpur move. Traditional Chinese would fit better, but Simplified Chinese is the package's only Chinese locale."
+audience:
+  en: "Hong Kong family with two working parents and two children planning an August 2027 Kuala Lumpur move."
+  zh: "计划于 2027 年 8 月搬到吉隆坡的香港家庭，父母都在工作，有两个孩子。"
 faq: []
 draft: false
 ---

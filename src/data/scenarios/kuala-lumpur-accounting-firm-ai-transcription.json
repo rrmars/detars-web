@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Farah and other decision-makers at a 12-person Kuala Lumpur accounting and tax firm evaluating English, Malay and Mandarin meeting notes without compromising client confidentiality.",
+  "audience": {
+    "en": "Farah and other decision-makers at a 12-person Kuala Lumpur accounting and tax firm evaluating English, Malay and Mandarin meeting notes without compromising client confidentiality."
+  },
   "localeReason": "English only: the assigned decision-maker is Farah at a Malaysian professional firm, with English/Malay governance and notice needs. Mandarin speech in client meetings establishes a recognition requirement, not a demonstrated Chinese-reading guide audience. A Chinese guide would not replace the required Bahasa Malaysia and English notices; no distinct Chinese-reader need is established.",
   "sources": [
     {

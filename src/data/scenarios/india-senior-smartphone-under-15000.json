@@ -196,7 +196,9 @@
   "locales": [
     "en"
   ],
-  "audience": "English-reading Indian shoppers and family caregivers: a Bengaluru child buying and setting up a phone under ₹15,000 for a 70-year-old father in Coimbatore before Pongal in mid-January 2027.",
+  "audience": {
+    "en": "A child in Bengaluru buying and setting up a phone under ₹15,000 for a 70-year-old father in Coimbatore before Pongal in mid-January 2027."
+  },
   "localeReason": "English serves this specific Indian shopping and caregiver audience. Tamil would be relevant to the father, but no Tamil article or printable translation was produced because translation quality could not be independently verified. No distinct Chinese-speaking or other-language audience is established; only English is justified and delivered.",
   "domain": "buying",
   "researchDates": [

@@ -54,7 +54,9 @@ headlineFigures:
     unit: "per_insured_traveller"
     currency: "EUR"
     display: "€30,000"
-audience: "Salaried Indian ordinary-passport holders living in Bengaluru and planning a first France–Italy tourism trip."
+audience:
+  en: "Salaried Indian ordinary-passport holders living in Bengaluru and planning a first France–Italy tourism trip."
+  zh: "住在班加罗尔、持印度普通护照的受薪人士，计划第一次前往法国和意大利旅游。"
 faq: []
 draft: false
 ---

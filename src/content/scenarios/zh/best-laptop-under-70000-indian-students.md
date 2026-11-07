@@ -114,7 +114,9 @@ headlineFigures:
     currency: "INR"
     unit: "per_laptop"
     display: "₹62,990"
-audience: "India-based incoming B.Tech or computer-science students choosing a commuting laptop."
+audience:
+  en: "India-based incoming B.Tech or computer-science students choosing a commuting laptop."
+  zh: "印度即将入学的 B.Tech 或计算机专业学生，正在挑选通勤用的笔记本电脑。"
 faq:
   - q: "ASUS 要什么学生证明？"
     a: "问答列出当学期院校证件、缴费收据或有效在读证明。未来打算入学，不是现在就获批。同页对任意邮箱还是教育邮箱说法不同，算折扣前先向 ASUS 问清。"

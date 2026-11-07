@@ -132,7 +132,9 @@ headlineFigures:
     unit: "28-day periods"
     display: "14"
     status: "366-day half-open year; final period extends beyond horizon"
-audience: "Berlin new arrival Mei, 29, a Chinese-passport data analyst with Blue Card status, two WFH days and weekly China family calls; useful to Chinese-speaking newcomers without changing her profile or approval assumptions."
+audience:
+  en: "Mei, 29, a Chinese-passport data analyst newly arrived in Berlin on a Blue Card, with two work-from-home days a week and weekly family calls to China, planning her first year of home internet and mobile."
+  zh: "Mei，29岁，持中国护照的数据分析师，凭蓝卡刚到柏林，每周有两天在家办公，每周都要和中国的家人通话，正在规划第一年的家庭网络和手机方案。"
 faq: []
 draft: false
 ---

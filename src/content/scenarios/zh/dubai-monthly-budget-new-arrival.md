@@ -87,7 +87,9 @@ headlineFigures:
     currency: "AED"
     unit: "arrival_cash"
     display: "AED60,770"
-audience: "Single adults moving to Dubai for a Business Bay job, initially without a car or dependants."
+audience:
+  en: "Single adults moving to Dubai for a Business Bay job, initially without a car or dependants."
+  zh: "因 Business Bay 的工作搬到迪拜的单身成年人，起初没有汽车，也没有需要抚养的家属。"
 faq:
   - q: "广告写年租 AED70,000，我能每月付 AED5,833 吗？"
     a: "这则新来者的公寓及租金提问也在问，AED70,000 到底按月还是按年付。年租除以 12 不会让你自动获得按月付款的权利，还是要看广告的支票安排和签下的付款表。这里四套房子写的是两张或四张，不是 12 张。提问者的工作地点和预算不同，别直接照搬。"

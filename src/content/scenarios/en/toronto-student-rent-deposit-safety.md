@@ -179,7 +179,8 @@ headlineFigures:
     currency: "CAD"
     unit: "dated_monthly_pass"
     display: "CAD 128.15"
-audience: "Nigerian student arriving in September 2027 for an unspecified George Brown diploma programme, with an approximate CAD 1,300 rent ceiling; English-only, preserving the Nigerian profile rather than inventing a Chinese-reader need."
+audience:
+  en: "Nigerian student arriving in September 2027 for a George Brown diploma programme, with an approximate CAD 1,300 rent ceiling."
 faq: []
 draft: false
 ---

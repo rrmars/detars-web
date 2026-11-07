@@ -168,7 +168,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_handset_before_tax"
     display: "$439.99"
-audience: "US phone shoppers prioritizing indoor family photos, battery condition and long software support."
+audience:
+  en: "US phone shoppers prioritizing indoor family photos, battery condition and long software support."
+  zh: "美国的手机买家，最看重室内家庭照片的效果、电池状况和较长的软件支持期。"
 faq:
   - q: "Will eSIM work for me?"
     a: "FAQ describes a digital SIM and notes that not all carriers support it. Confirm that your exact plan can activate the US iPhone you choose. “Unlocked” is only part of the check."

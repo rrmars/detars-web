@@ -142,8 +142,9 @@ headlineFigures:
     unit: "KRW"
     display: "KRW 684,444"
 audience:
-  en: "English- and Chinese-speaking travellers comparing a slower Vietnam route, retaining the South Korean passport-holding retired couple aged 66 and Korea-issued insurance assumptions."
-  ko: "느린 베트남 일정을 비교하는 영어·중국어권 여행자. 66세 한국 여권 소지 은퇴 부부와 한국에서 발급한 보험 가정을 그대로 유지합니다."
+  en: "Retired couple from Busan, both aged 66, travelling on South Korean passports with Korea-issued insurance and comparing a slower Vietnam route."
+  zh: "来自釜山的退休夫妻，两人都66岁，持韩国护照，投保的是韩国签发的保险，想比较一条节奏更慢的越南路线。"
+  ko: "부산에 사는 은퇴 부부로, 두 분 모두 66세이며 한국 여권과 한국에서 발급한 보험을 갖고 더 느린 베트남 일정을 비교합니다."
 faq: []
 draft: false
 ---

@@ -406,7 +406,10 @@
     "en",
     "zh"
   ],
-  "audience": "English- and Chinese-speaking Singaporean and other W-trek travellers comparing a first five-day trek; original Singaporean couple, passports and insurance-residence assumptions retained.",
+  "audience": {
+    "en": "Singaporean couple in their early 30s planning a first five-day W Trek in Torres del Paine, Chile, comparing refugio stays against a SGD9,500 budget.",
+    "zh": "30岁出头的新加坡夫妻，计划在智利百内国家公园首次走五天 W 线，并对照 SGD9,500 的预算比较山屋住宿。"
+  },
   "localeReason": "Chinese is useful to Chinese-speaking Singaporean and other travellers planning this trek; translation does not alter nationality, entry entitlement or insurance eligibility.",
   "domain": "travel",
   "researchDates": [

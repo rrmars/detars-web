@@ -114,7 +114,9 @@ headlineFigures:
     currency: "EUR"
     unit: "starting_cash_including_emergency_fund"
     display: "€21,217.50"
-audience: "Solo remote software developer planning a year in Lisbon; nationality and legal residence still need confirming."
+audience:
+  en: "Solo remote software developer planning a year in Lisbon; nationality and legal residence still need confirming."
+  zh: "打算在里斯本住一年的独自远程软件开发者；国籍和合法居留身份仍需确认。"
 faq:
   - q: "When would I need to apply, and what activities qualify?"
     a: "AT FAQ 5857 explains the activity requirements and registration procedure. The usual deadline is January 15 of the year after becoming Portuguese tax-resident: January 15, 2028 if you first become resident in 2027 and the rule still applies. Check your activity and validating body first; meeting a deadline does not make you eligible."

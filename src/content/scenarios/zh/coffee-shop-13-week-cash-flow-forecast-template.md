@@ -45,7 +45,9 @@ headlineFigures:
     currency: "USD"
     unit: "daily_low_cash"
     display: "$3,575.39"
-audience: "Café owners or cash-planning managers adapting a USD forecast to actual sales, payroll and bills."
+audience:
+  en: "Café owners or cash-planning managers adapting a USD forecast to actual sales, payroll and bills."
+  zh: "咖啡店老板或负责现金规划的经理，把一份美元预测表改成符合实际销售、工资和账单的版本。"
 faq:
   - q: "“季度预估税何时到期？”"
     a: "对这个按日历年计算的个人联邦示例，第 505 号出版物（2026）给2026年九月至十二月的日期是 2027年1月15日，并有例外。示例可用这个日期，不能据此认定金额就是 $3,000。经营主体、州和适用减免都可能改变日程，请把 Payments 换成确认后的日期和金额。"

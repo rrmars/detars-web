@@ -170,7 +170,8 @@ headlineFigures:
     value: 12316
     unit: "USD_rounded"
     display: "12,316"
-audience: "A 30-year-old Nigerian bank credit analyst in Lagos with six years of experience, NGN 14 million annual gross earnings and planned US$25,000 savings, comparing overseas and online MBAs for 2027."
+audience:
+  en: "A 30-year-old Nigerian bank credit analyst in Lagos with six years of experience, NGN 14 million annual gross earnings and planned US$25,000 savings, comparing overseas and online MBAs for 2027."
 faq: []
 draft: false
 ---

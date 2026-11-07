@@ -155,7 +155,8 @@ headlineFigures:
     label: "Dated compulsory-registration taxable-turnover threshold; rolling and forward tests differ"
     unit: "taxable_turnover_threshold"
     currency: "GBP"
-audience: "Non-VAT-registered Bristol soy-candle maker selling £18 candles at markets and planning a January 2027 online launch to GB customers; UK selling profile and local obligations are specific. No distinct Chinese audience established."
+audience:
+  en: "A Bristol soy-candle maker, not VAT-registered, selling £18 candles at markets and planning a January 2027 online launch to customers in Great Britain."
 faq: []
 draft: false
 ---

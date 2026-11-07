@@ -148,8 +148,8 @@ headlineFigures:
     unit: "EUR"
     display: "€330,539"
 audience:
-  en: "Brazilian resident couples in Lisbon assessing a first permanent T2 home with salaried and freelance income, using this specific household’s cash and mortgage constraints."
-  pt-BR: "Casais brasileiros residentes em Lisboa que avaliam a compra de um primeiro T2 definitivo, com renda de salário e de freelance, a partir das restrições de caixa e de crédito desta família específica."
+  en: "A Brazilian couple living in Lisbon assessing a first permanent T2 home, with salaried and freelance income and their own cash and mortgage constraints."
+  pt-BR: "Casal brasileiro que mora em Lisboa e avalia a compra de um primeiro T2 definitivo, com renda de salário e de freelance e com as próprias restrições de caixa e de crédito."
 faq: []
 draft: false
 ---

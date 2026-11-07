@@ -168,7 +168,9 @@ headlineFigures:
     value: 1800
     unit: "EUR_per_month"
     display: "€1,800"
-audience: "Professional newcomers planning a first Berlin rental, including Chinese-speaking readers; the worked example remains a 29-year-old Brazilian developer arriving alone with a EUR 68,000 job."
+audience:
+  en: "A 29-year-old Brazilian developer arriving alone in Berlin for a EUR 68,000 job, planning a first rental and the cash needed for the move."
+  zh: "一位29岁的巴西开发者，独自前往柏林，工作年薪 EUR 68,000，正在规划第一次租房和搬家所需的现金。"
 faq: []
 draft: false
 ---

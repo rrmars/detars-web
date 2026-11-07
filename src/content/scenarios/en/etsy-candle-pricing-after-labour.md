@@ -120,7 +120,9 @@ headlineFigures:
     unit: "per_month"
     currency: "USD"
     display: "$500"
-audience: "English helps Ohio makers check US Etsy fees and supplier terms; Simplified Chinese makes the same USD pricing decisions accessible to Chinese-speaking makers selling in the US."
+audience:
+  en: "Ohio makers selling candles on Etsy in the US who want to check Etsy fees and supplier terms before setting a USD price."
+  zh: "在美国 Etsy 上卖蜡烛的俄亥俄州手工艺人，想在用美元定价之前核对 Etsy 费用和供应商条款。"
 faq: []
 draft: false
 ---

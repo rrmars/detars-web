@@ -87,7 +87,9 @@ headlineFigures:
     currency: "USD"
     unit: "arrival_cash"
     display: "$10,880"
-audience: "Solo movers seeking a New York studio or one-bedroom home near a Midtown job."
+audience:
+  en: "Solo movers seeking a New York studio or one-bedroom home near a Midtown job."
+  zh: "想在纽约找一居室或单间公寓、工作地点在曼哈顿中城附近的独自搬家者。"
 faq:
   - q: "Can a landlord ask for first, last and security?"
     a: "The original post “Are landlords still asking for last months rent?” asks precisely that. For the ordinary covered rentals here, plan first rent plus up to one-month security—not another last-month advance. Use current §7-108 and the property-specific rules, not commenters' claims that anything goes for market-rate units."

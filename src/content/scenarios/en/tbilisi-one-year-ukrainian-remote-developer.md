@@ -138,7 +138,8 @@ headlineFigures:
     value: 8480
     unit: "PLN/month"
     display: "PLN 8,480"
-audience: "Ukrainian remote backend contractor moving from Warsaw to Tbilisi for one year with a cat, comparing lawful stay, contractor taxes and actual relocation cash flow."
+audience:
+  en: "Ukrainian remote backend contractor moving from Warsaw to Tbilisi for one year with a cat, comparing lawful stay, contractor taxes and actual relocation cash flow."
 faq: []
 draft: false
 ---

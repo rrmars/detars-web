@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Two adult friends travelling from the UK for a relaxed first Japan visit.",
+  "audience": {
+    "en": "Two adult friends travelling from the UK for a relaxed first Japan visit.",
+    "zh": "两位从英国出发的成年朋友，第一次轻松地游览日本。"
+  },
   "schemaVersion": 2,
   "slug": "japan-10-day-first-time-itinerary-october-2027",
   "translationKey": "japan-10-day-first-time-itinerary-october-2027",

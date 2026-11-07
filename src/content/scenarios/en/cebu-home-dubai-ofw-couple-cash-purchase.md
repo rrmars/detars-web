@@ -155,7 +155,8 @@ headlineFigures:
     unit: "PHP/month"
     display: "PHP 79,687.50"
     status: "48 deposits, fixed price/cost assumptions"
-audience: "Filipino OFW couples in Dubai planning a Cebu family home with AED income, PHP savings and a return around 2030."
+audience:
+  en: "Filipino OFW couples in Dubai planning a Cebu family home with AED income, PHP savings and a return around 2030."
 faq: []
 draft: false
 ---

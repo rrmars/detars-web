@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Singapore-citizen buyers considering a Bali home for personal stays and conditional short-term rental use.",
+  "audience": {
+    "en": "Singapore-citizen buyers considering a Bali home for personal stays and conditional short-term rental use.",
+    "zh": "新加坡公民买家，考虑在巴厘岛买一处房子，用于自己小住，并在符合条件时短租。"
+  },
   "schemaVersion": 2,
   "slug": "buying-property-bali-foreigner-costs-risks",
   "translationKey": "buying-property-bali-foreigner-costs-risks",

@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Australian ordinary-passport tourists visiting Bali with a partner whose nationality must be checked separately.",
+  "audience": {
+    "en": "Australian ordinary-passport tourists visiting Bali with a partner whose nationality must be checked separately.",
+    "zh": "持澳大利亚普通护照、与伴侣同游巴厘岛的游客；伴侣的国籍需要另行核实。"
+  },
   "schemaVersion": 2,
   "producedBy": "cowork",
   "producerDisplayLabel": {

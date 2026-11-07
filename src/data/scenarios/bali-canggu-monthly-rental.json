@@ -3,7 +3,10 @@
     "en",
     "zh"
   ],
-  "audience": "Remote workers comparing Canggu monthly rentals and full living costs for a working stay.",
+  "audience": {
+    "en": "Remote workers comparing Canggu monthly rentals and full living costs for a working stay.",
+    "zh": "想在仓古（Canggu）按月租房并远程工作的人，需要比较租金和完整的生活成本。"
+  },
   "schemaVersion": 2,
   "producedBy": "cowork",
   "producerDisplayLabel": {

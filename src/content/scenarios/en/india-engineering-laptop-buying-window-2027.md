@@ -119,7 +119,8 @@ headlineFigures:
     value: 77500
     unit: "INR"
     display: "₹77,500"
-audience: "Indian mechanical-engineering students and families buying for Pune study and a two-wheeler commute, with a hard INR 85,000 all-in budget and India-specific warranty channels."
+audience:
+  en: "Indian mechanical-engineering students and families buying for Pune study and a two-wheeler commute, with a hard INR 85,000 all-in budget and India-specific warranty channels."
 faq: []
 draft: false
 ---

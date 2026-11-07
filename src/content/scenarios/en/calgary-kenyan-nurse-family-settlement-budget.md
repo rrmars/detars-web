@@ -215,7 +215,8 @@ headlineFigures:
     unit: "CAD"
     display: "$3,198"
     status: "Planning assumption or derived illustration; not quote, wage, approval or benefit award"
-audience: "Kenyan permanent-resident nurse and accountant family planning Calgary settlement, RN recognition and cash flow with two school-age children."
+audience:
+  en: "Kenyan permanent-resident nurse and accountant family planning Calgary settlement, RN recognition and cash flow with two school-age children."
 faq: []
 draft: false
 ---

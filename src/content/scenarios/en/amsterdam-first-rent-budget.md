@@ -134,7 +134,8 @@ headlineFigures:
     unit: "upfront_cash_upper_allowance"
     currency: "EUR"
     display: "€13,600"
-audience: "A couple relocating to the Amsterdam area for work starting April 1, 2027, with €95,000 combined annual gross income, no children and about €2,200 for a one-bedroom rental."
+audience:
+  en: "A couple relocating to the Amsterdam area for work starting April 1, 2027, with €95,000 combined annual gross income, no children and about €2,200 for a one-bedroom rental."
 faq: []
 draft: false
 ---

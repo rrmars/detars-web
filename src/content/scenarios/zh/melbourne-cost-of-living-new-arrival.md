@@ -141,7 +141,9 @@ headlineFigures:
     currency: "AUD"
     unit: "starting_cash_including_reserve"
     display: "$27,986.21"
-audience: "Couple moving to Melbourne on one salary while the partner looks for work, without children or a car."
+audience:
+  en: "Couple moving to Melbourne on one salary while the partner looks for work, without children or a car."
+  zh: "搬到墨尔本的夫妇，靠一份薪水生活，另一半正在找工作，没有孩子也没有车。"
 faq:
   - q: "$95,000 够两人在墨尔本生活吗？"
     a: "退休金另加、无车、周租 $550 时，这份预算能覆盖日常开支，每月剩 $1,373.11。但租房仍需获批，也要确认有权住当地。若工资已含退休金又需私人医保，余量降至 $496.33。"

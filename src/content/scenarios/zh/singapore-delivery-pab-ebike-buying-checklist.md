@@ -136,7 +136,9 @@ headlineFigures:
     value: 1.08
     unit: "SGD/hour"
     display: "S$1.08/hour"
-audience: "Singapore delivery riders considering a legal PAB, including Chinese-speaking riders, using a 42-year-old Singapore PR in Woodlands with a tight cash budget as the unchanged example."
+audience:
+  en: "Singapore delivery riders considering a legal PAB, using a 42-year-old Singapore PR in Woodlands with a tight cash budget as the example."
+  zh: "考虑购买合法 PAB 的新加坡外卖骑手。示例是住在兀兰、现金预算很紧的 42 岁新加坡 PR。"
 faq: []
 draft: false
 ---

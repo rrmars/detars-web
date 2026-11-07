@@ -229,7 +229,10 @@
     "en",
     "zh"
   ],
-  "audience": "Couple moving to Melbourne on one salary while the partner looks for work, without children or a car.",
+  "audience": {
+    "en": "Couple moving to Melbourne on one salary while the partner looks for work, without children or a car.",
+    "zh": "搬到墨尔本的夫妇，靠一份薪水生活，另一半正在找工作，没有孩子也没有车。"
+  },
   "domain": "living",
   "researchDates": [
     "2026-11-05"

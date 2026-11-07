@@ -10,7 +10,9 @@
   "locales": [
     "en"
   ],
-  "audience": "34-year-old UK freelance designer with controlled asthma, leaving February 2027 for roughly six months each in Chiang Mai and Lisbon, with a £150 monthly insurance budget; UK residence, passport and visa profile remain specific. No distinct Chinese audience established.",
+  "audience": {
+    "en": "34-year-old UK freelance designer with controlled asthma, leaving February 2027 for roughly six months each in Chiang Mai and Lisbon, with a £150 monthly insurance budget."
+  },
   "sources": [
     {
       "title": "Genki Native product & public example pricing",

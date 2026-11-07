@@ -155,7 +155,8 @@ headlineFigures:
     label: "Cabin plus guest-bed deferral and before-HST purchase trim; not eventual total"
     unit: "conditional_initial_stage_total"
     currency: "CAD"
-audience: "A south London couple moving a two-bedroom household and one adult domestic cat to Toronto around April 1, 2027, with an assumed CAD 8,000 employer allowance; UK-to-Canada status and pet route remain specific. No distinct Chinese audience established."
+audience:
+  en: "A south London couple moving a two-bedroom household and one adult domestic cat to Toronto around April 1, 2027, with an assumed CAD 8,000 employer allowance."
 faq: []
 draft: false
 ---

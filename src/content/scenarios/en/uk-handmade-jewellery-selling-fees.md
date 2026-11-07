@@ -141,7 +141,8 @@ headlineFigures:
     unit: "estimated_border_cost_per_eu_order"
     display: "£4.35"
     currency: "GBP"
-audience: "Bristol-based VAT-unregistered UK handmade-silver maker comparing January 2027 selling channels at 20, 40 and 80 monthly orders, with GBP 45 goods baskets and conditional EU/NI sales; English-only because no distinct Chinese-reader audience is established."
+audience:
+  en: "Bristol-based VAT-unregistered UK handmade-silver maker comparing January 2027 selling channels at 20, 40 and 80 monthly orders, with GBP 45 goods baskets and conditional EU/NI sales."
 faq: []
 draft: false
 ---

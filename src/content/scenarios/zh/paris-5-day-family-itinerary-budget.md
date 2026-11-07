@@ -144,7 +144,9 @@ headlineFigures:
     unit: "family_admission"
     currency: "EUR"
     display: "€54.40"
-audience: "English for families planning Paris with young children; Simplified Chinese for Chinese-speaking families using the same itinerary, transport and room-budget decisions."
+audience:
+  en: "Families planning Paris with a young child: 2 adults and a child aged 5, July 8–12, 2027, 4 nights and a €2,200 budget excluding flights."
+  zh: "带幼儿游巴黎的家庭：2位大人和一个5岁的孩子，2027年7月8–12日，住4晚，预算€2,200，不含机票。"
 faq: []
 draft: false
 ---

@@ -164,7 +164,8 @@ headlineFigures:
     unit: "paid sessions/month"
     display: "129"
     status: "PHP 600, separate 8% direct allowance and 8% tax reserve, PHP 5,000 costs"
-audience: "Carla, a Filipino tutor in Quezon City building a Japan/Korea adult-English business under Philippine payment, contractor and tax constraints."
+audience:
+  en: "Carla, a Filipino tutor in Quezon City building a Japan/Korea adult-English business under Philippine payment, contractor and tax constraints."
 faq: []
 draft: false
 ---

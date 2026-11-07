@@ -515,7 +515,9 @@
   "locales": [
     "en"
   ],
-  "audience": "Kenyan permanent-resident nurse and accountant family planning Calgary settlement, RN recognition and cash flow with two school-age children.",
+  "audience": {
+    "en": "Kenyan permanent-resident nurse and accountant family planning Calgary settlement, RN recognition and cash flow with two school-age children."
+  },
   "localeReason": "Kenya-specific nurse/family and licensing profile; no distinct Chinese-reader need established. English only.",
   "domain": "careers",
   "researchDates": [

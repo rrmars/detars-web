@@ -309,7 +309,10 @@
     "en",
     "zh"
   ],
-  "audience": "Two adults planning budget meals in Chicago, with local grocery repricing and freezer space required.",
+  "audience": {
+    "en": "Two adults planning budget meals in Chicago, with local grocery repricing and freezer space required.",
+    "zh": "在芝加哥为两位成年人规划省钱餐食的人，需要按本地超市价格重新核算，并留出冷冻空间。"
+  },
   "domain": "family",
   "researchDates": [
     "2026-11-05"

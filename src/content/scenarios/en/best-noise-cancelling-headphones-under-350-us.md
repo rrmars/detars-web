@@ -192,7 +192,9 @@ headlineFigures:
     currency: "USD"
     unit: "per_pair_before_tax"
     display: "$219"
-audience: "US shopper wearing glasses and using iPhone and Windows for commuting, flights and calls."
+audience:
+  en: "US shopper wearing glasses and using iPhone and Windows for commuting, flights and calls."
+  zh: "一位戴眼镜的美国买家，使用 iPhone 和 Windows，用于通勤、乘机和通话。"
 faq:
   - q: "“Do the WF-1000XM6 connect to two devices at once?”"
     a: "Sony says yes: two-device multipoint. That does not promise mixed simultaneous audio or prove the exact Windows-call handoff on your laptop. [P6]"
