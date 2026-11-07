@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 2,
+  "slug": "dog-shanghai-to-singapore-2027",
+  "translationKey": "dog-shanghai-to-singapore-2027",
+  "sources": [
+    {
+      "title": "AVS import overview — S01",
+      "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS detailed Schedule III veterinary conditions — S02",
+      "url": "https://isomer-user-content.by.gov.sg/30/09b135c8-00b2-4859-8d90-9ee700d2b67b/DOGCAT%2083-3%20(w_feeattd1)%2001042026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS Specified dogs — S08",
+      "url": "https://avs.nparks.gov.sg/pets/licensing-a-pet/information-on-dog-and-cat-licences/specified-dogs/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS limits of ownership — S08",
+      "url": "https://avs.nparks.gov.sg/pets/licensing-a-pet/information-on-dog-and-cat-licences/limits-of-ownership/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BCA by-law context — S09, supplementary and unconfirmed",
+      "url": "https://www1.bca.gov.sg/docs/default-source/docs-corp-regulatory/building-maintenance-and-strata-management/smg10-by-laws.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS Project ADORE — S08",
+      "url": "https://avs.nparks.gov.sg/community-animals/population-management/project-adore/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HDB keeping pets — S08, extraction limited",
+      "url": "https://www.hdb.gov.sg/managing-my-home/home-ownership/keeping-pets",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS Animal Quarantine Centre — S03",
+      "url": "https://avs.nparks.gov.sg/about-us/our-centres/animal-quarantine-centre/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS Quarantine Management System — S04",
+      "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/quarantine-management-system/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore Customs change-of-residence pets — S06",
+      "url": "https://www.customs.gov.sg/personal-shipment/moving-to-singapore/importing-personal-pets-as-part-of-a-change-of-residence/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS recognised-agent register — S05, unsuccessful access",
+      "url": "https://avs.nparks.gov.sg/outreach/resources/avs-recognised-pet-agents/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "AVS Changi Animal and Plant Quarantine Station — S05",
+      "url": "https://avs.nparks.gov.sg/about-us/our-centres/changi-animal-plant-quarantine-station/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "GACC accompanied-items quarantine guide — C01",
+      "url": "https://online.customs.gov.cn/static/pages/guides/000629014001/000629014001.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shanghai government Customs-attributed health certificate guide — C02",
+      "url": "https://english.shanghai.gov.cn/en-KeepingAPetInShanghai/20250909/323071e741b8414aadb8f040e98e9bf4.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shanghai Agriculture consultation answer — C02 corroboration",
+      "url": "https://nyncw.sh.gov.cn/zxfk/20250606/eedfc57219134131908b6ccea6a05bcd.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Shanghai government Pudong outbound pet FAQ — C02 corroboration",
+      "url": "https://english.shanghai.gov.cn/en-Pets2/20260818/3c86a9892c20495aa846d3b8b1a69cfa.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore Airlines travelling with pets — A02",
+      "url": "https://www.singaporeair.com/en_UK/sg/travel-info/special-assistance/travelling-with-pets/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "China Eastern / Shanghai Airlines small-animal policy — A01",
+      "url": "https://global.ceair.com/global/static/Announcement/TravelTips/SpecialPassengerServiceNotice/LittleAnimal/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SIA Cargo Live Animals — A03",
+      "url": "https://www.siacargo.com/?p=771/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore Airlines checked-pet checklist — A02",
+      "url": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/travel-info/special-assistance/travelling-with-pets/Customer%20Version%20-%20Pets%20as%20Checked%20Baggage%20Checklist_18June26.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "MU current linked pet application form — A01",
+      "url": "https://global.ceair.com/global/static/Announcement/TravelTips/SpecialPassengerServiceNotice/LittleAnimal/202004/W020250815396773480443.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore Airlines Shanghai–Singapore airport pair — A03",
+      "url": "https://www.singaporeair.com/cn/en/plan-travel/destinations/flights-from-shanghai-to-singapore/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AVS dog and cat licence fees — S07",
+      "url": "https://avs.nparks.gov.sg/pets/licensing-a-pet/information-on-dog-and-cat-licences/licence-fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Pawsport advertised import cost example — P01, unconfirmed",
+      "url": "https://www.pawsport.sg/blog/singapore-pet-import-cost",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Singapore Airlines additional-baggage tariff basis — A04",
+      "url": "https://www.singaporeair.com/en_UK/sg/travel-info/baggage/additional-baggage-charges/",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "minimum_quarantine_days": {
+      "label": "Minimum AQC stay for Schedule III, not guaranteed final duration",
+      "value": 30,
+      "unit": "days",
+      "display": "30"
+    },
+    "hybrid_cargo_low": {
+      "label": "Hybrid cargo low planning total excluding unresolved extras",
+      "value": 23281.5,
+      "unit": "CNY",
+      "display": "CNY23,281.50"
+    },
+    "full_coordination_high": {
+      "label": "Full coordination cargo high planning total excluding unresolved extras",
+      "value": 45381.5,
+      "unit": "CNY",
+      "display": "CNY45,381.50"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Entire assigned HTML, sources, independent check and both retained research reports read locally, plus layout JSON. No external lookup or new source verification. Original URL dates follow retained ledger; failed register access remains unknown with attempt date separately stated. Original research model and publication date remain unknown.",
+    "originalResearchAccessLimitations": "Original managed search/fetch backends used browser profiles not certified clean (research, search-plain, detars). Later clean-context attempt403/direct HTTP reads/local layout checks cannot retrospectively satisfy strict clean-session provenance. Failed Swiftrider/Customs paths were not evidence. No new browser/network route used in localization. Historical no-contact claims are retained statements, not a replay certification of prior execution.",
+    "independentCheckDisposition": "Arithmetic/calendar and mechanical delivery passed within original scope; NO OVERALL PASS. New locale drafts incorporate supported F02–F08 clarifications: portal discrepancy, approved examiner/non-pregnancy/fit-to-travel, QMS delay/amendments, Customs permit validity, crate recovery trigger, chip reader exception and ties-to-even rounding. F01 historical session failure and F09 operational unknowns remain open. No original file changed.",
+    "layoutEvidenceLimit": "Original layout-check.json read for source context only. Original screenshots/browser results are not new-page render or visual certification; author did not rerun them. Director handles package rendering separately."
+  },
+  "datePolicy": "Original ledger explicitly dates source reads November 7, 2026; source-specific dates and extraction limits retained. Failed recognised-agent register has unknown accessDate and November 7 attemptDate. Announced December 1, 2026 AQC rates used for June 2027, no future rule/quote guarantee. Copy editing is not a source refresh.",
+  "planningAssumptions": {
+    "latestRecommendedPlanningStart": "2026-12-01",
+    "planningStartStatus": "Author buffer judgment, not statutory deadline or guarantee of kennel/flight availability",
+    "exampleExportDate": "2027-06-15",
+    "dog": "One four-year-old18kg microchipped mixed-breed dog vaccinated in Shanghai; actual records/classification not supplied or independently verified",
+    "fx": {
+      "SGD_to_CNY": 5.5,
+      "USD_to_CNY": 7.2,
+      "status": "Round planning conversion factors, not observed market exchange rates"
+    },
+    "baseline": "Exactly30 aircon AQC days, gross annual unsterilised licence90 because status unknown, normal import50, manifest cargo, no pet-import tax in totals pending determination. China allowances7700–17800CNY, SG subtotal2833SGD. All allowances unconfirmed.",
+    "rounding": "Two decimals ROUND_HALF_EVEN; SGD from unrounded converted totals. Four contingency CNY half-cent ties deliberately end .72.",
+    "coordinationPremium": "Hypothetical6000–12000CNY coordination-only increment over hybrid, excludes clearance and pass-through; not advertised provider package",
+    "contingency": "15 percent judgment, not fee or cap; unresolved extras still separate"
+  },
+  "uncertainties": [
+    "No individual dog breed, sterilisation, chip/vaccine/lab records or measurements verified. Mainland-China Schedule III minimum quarantine remains even with titre pass; no AQC space/release date confirmed.",
+    "No private estate/landlord consent or individual HDB/ADORE eligibility confirmed; BCA context outside original narrow core-source whitelist remains supplementary/unconfirmed.",
+    "PALS/GoBusiness source discrepancy unresolved. Customs same-transport relief is not automatic EP exemption; cargo relief, valuation, pet GST and declaring/permit charges remain open. No tax rate asserted.",
+    "Shanghai official-hosted but non-direct-GACC workflow remains unconfirmed under original source scope. Final seven-day AVS exam/endorsement and cargo-specific export channel must be coordinated; no holiday-adjusted exact deadline claimed.",
+    "No June2027 flight/operator/aircraft/station/pet slot approval, lab shipment or cargo rate; heat/ground exposure/substitution, crate/gross weight and different carrier breed rules remain go/no-go checks. Current MU form resolved older form conflict only, not actual summer acceptance.",
+    "Pawsport recognition, taxes, inclusions and future price unchecked. No routine appointment-inspection tariff or airline-handler holding fee established; CAPQ35/day is not airline tariff.",
+    "Budget excludes pet-import tax, beyond-reserve cargo customs charges, extra quarantine/treatment/tests/vaccines, rebooking/holding, oversized-crate recovery, breed premiums/bank fees and housing/boarding/passenger travel. Reserve250SGD and15percent contingency are not caps; freight can exceed allowance.",
+    "Strict original clean-browser-session requirement not satisfied; later checks do not cure history. Mechanical/arithmetic correctness is not overall compliance, verified price, transport approval or execution readiness."
+  ],
+  "editingContract": "Batch28 new slug data, en/zh Markdown and author notes only; no inventory, existing guide, checker, build, source-run, publication, contact or new research. Director provides link-free footer.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "audience": "Shanghai dog owners, including Chinese-speaking households, planning a June2027 move to Singapore with an adult mixed-breed dog; Employment Pass couple and individual eligibility assumptions unchanged.",
+  "localeReason": "Chinese is directly useful to Shanghai Chinese-speaking pet owners handling local veterinary/export records and Singapore arrival planning. Simplified Chinese is the package locale; translation changes no breed, housing, tax or transport eligibility.",
+  "domain": "family",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

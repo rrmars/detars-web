@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "bf26ff9204ec5b7e7e9c65fad4741bd23486636b0db94781d85c7b2e1bbc25fb",
+  "sourceListLink": "../w7-hcmc-specialty-cafe-break-even/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "98c10d12a729232efab1130ac85a925ba753d2cb7c9c25076f63367e7a08f087",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

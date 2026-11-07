@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh"
+  ],
+  "sourceDataSha256": "77612d8cde2b2bf2b540d4d9cccf21a78f1f1bf9007a45f2ba2f9226febd60e5",
+  "sourceListLink": "../w7-dog-shanghai-to-singapore-2027/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "00051f9e2a67f5bf314162174319305d6695fc1016ff0c5c4c5884ddeb35caf9",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh": {
+      "sourceMarkdownSha256": "373548d6b4c29f6088cee6f98a204cdc14d1ce4ca35b74bff779726b42e49ce7",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

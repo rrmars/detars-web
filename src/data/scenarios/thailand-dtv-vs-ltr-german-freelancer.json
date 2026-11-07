@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 2,
+  "slug": "thailand-dtv-vs-ltr-german-freelancer",
+  "translationKey": "thailand-dtv-vs-ltr-german-freelancer",
+  "sources": [
+    {
+      "title": "Thai e-Visa",
+      "url": "https://thaievisa.go.th/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "TDAC",
+      "url": "https://tdac.immigration.go.th/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "Berlin visa categories and current DTV1 checklist",
+      "url": "https://berlin.thaiembassy.org/de/page/visaarten-und-die-erforderlichen-unterlagen",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin general entry information",
+      "url": "https://berlin.thaiembassy.org/de/page/allgemeine-informationen",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Osaka DTV document announcement",
+      "url": "https://osaka.thaiembassy.org/en/content/announcement-updated-requirements-dtv?cate=68ba81bef5a86e0c40362e03",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin exemption scheme",
+      "url": "https://berlin.thaiembassy.org/de/page/ma%C3%9Fnahmen-bez%C3%BCglich-der-visumbefreiung-und-des-vis",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin e-Visa procedure and jurisdiction",
+      "url": "https://berlin.thaiembassy.org/de/page/e-visa-e-visa-system",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BOI LTR criteria/process",
+      "url": "https://ltr.boi.go.th/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "detailed work-from-Thailand checklist",
+      "url": "https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-06-11-2025.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BOI FAQ",
+      "url": "https://ltr.boi.go.th/page/faq.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Budapest ordinary ED versus ED Plus",
+      "url": "https://budapest.thaiembassy.org/en/publicservice/non-immigrant-ed-and-ed-plus-visa",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Berlin fees",
+      "url": "https://berlin.thaiembassy.org/de/page/visageb%C3%BChren",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RD Revenue Code §§39–41",
+      "url": "https://www.rd.go.th/english/37749.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RD foreigner tax guidance",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/lorkhor/newspr/2024/FOREIGNERS_PAY_TAX2024.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "P161/2566",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "P162/2566",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn162A.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Royal Decree 743",
+      "url": "https://ltr.boi.go.th/documents/royal-decree-743.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Income Tax Notification 427",
+      "url": "https://ltr.boi.go.th/documents/Notification%20of%20Income%20Tax%20No.427%20(EN).pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "London TDAC information",
+      "url": "https://london.thaiembassy.org/en/page/visa-general-information",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RD-hosted Germany–Thailand treaty",
+      "url": "https://www.rd.go.th/fileadmin/download/nation/germany_e_221057.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EStG §1",
+      "url": "https://www.gesetze-im-internet.de/estg/__1.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AO §8",
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AO §9",
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__9.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EStG §49",
+      "url": "https://www.gesetze-im-internet.de/estg/__49.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "AStG §2",
+      "url": "https://www.gesetze-im-internet.de/astg/__2.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "EStG §50d",
+      "url": "https://www.gesetze-im-internet.de/estg/__50d.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "RD orders register",
+      "url": "https://www.rd.go.th/1598.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "DVKA self-employed overseas guidance and agreement-country list",
+      "url": "https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/entsendung-ins-ausland/selbststaendige/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SGB V §16",
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__16.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "BMG insurance abroad",
+      "url": "https://www.bundesgesundheitsministerium.de/krankenversicherung-im-ausland",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "SGB IV §4",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__4.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "KSK foreign-stay guidance",
+      "url": "https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Informationsschriften/Auslandsaufenthalt_-_Auswirkungen_auf_die_soziale_Absicherung.pdf",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "dtv_germany_fee": {
+      "label": "Published Berlin DTV issuance fee, recheck before payment",
+      "value": 350,
+      "unit": "EUR",
+      "display": "€350"
+    },
+    "dtv_funds_proof": {
+      "label": "Berlin DTV bank evidence threshold or equivalent, not spending; sponsor alternative",
+      "value": 500000,
+      "unit": "THB",
+      "display": "THB 500,000"
+    },
+    "conditional_dtv_subtotal": {
+      "label": "Germany issuance plus one unconfirmed extension allowance, travel excluded",
+      "value": 397.5,
+      "unit": "EUR",
+      "display": "€397.50"
+    },
+    "thai_residence_days": {
+      "label": "Aggregate calendar-year domestic residence threshold, not treaty exception",
+      "value": 180,
+      "unit": "days",
+      "display": "180 days"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Complete assigned HTML, ledger, independent check and research handoffs read locally; relevant retained primary extracts inspected. No web, new research, contact, application, publication or package build. Local scoped checker imports and arithmetic only.",
+    "originalResearchAccessLimitations": "Early original generic fetch/search automatically used managed-browser/search routes without proven fresh storage. No supplied/imported/intentionally used credentials observed. Later decisive empty Chromium/anonymous HTTP reads support content but do not retroactively certify investigation-wide clean-session compliance. Earlier BOI TLS-bypass copies not final basis.",
+    "retainedEvidenceGaps": "No raw AStG §2, EStG §50d, SGB IV §4 or KSK publication in retained evidence directory. Narrow adviser-screening/scheme statements follow the completed independent check of official instruments, not a fresh authoring source read. Saved BOI main body does not expose remote-worker category; independent check supplies current-summary review and conflicts. No exhaustive treaty/MLI or Gazette certification.",
+    "reviewReconciliation": "Independent check supports DTV-first, all monetary arithmetic and day example, with explicit U01–U04 limits. This draft applies F03 subsidiary-direction caveat and F04 mandatory Germany submission/payment versus strongly advised remaining until decision. Later official RD treaty OCR supersedes earlier research-handoff nonofficial-mirror gap, not current-consolidation gap."
+  },
+  "datePolicy": "Source-specific primary-source access dates are November 7, 2026 as stated in the original ledger. The e-Visa/TDAC action endpoints have unknown successful-access dates and are not used as independently read substantive authority. Publication/effective dates are source-specific where stated, otherwise unknown. Copy editing does not refresh sources or certify 2027–2028 law.",
+  "uncertainties": [
+    "U01: THB 1,900 DTV/ED/exemption extension amount not directly primary-verified; conditional totals only, no assured count or duration.",
+    "U02: no blanket statutory work-permit exemption verified for every DTV arrangement; Thai clients/local or mixed paid work need case-specific permission/advice.",
+    "U03: exact 2027 Chiang Mai DTV/ED extension/conversion eligibility, documents, financial seasoning, fee, lead time and reporting/TM30 workflow unresolved. No universal school year or Bangkok-to-Chiang-Mai checklist transfer.",
+    "U04: 2027 tax reforms and current treaty amendments/MLI consolidation not exhaustively established. Rival earning-year/following-year exemption and worldwide-without-remittance proposals not treated as enacted law; RD register last-updated August 3, 2026 limits negative evidence.",
+    "BOI summary versus detailed checklist: USD 50m versus more-than-USD 50m boundary and reversed subsidiary ownership wording; subsidiary/boundary cases need BOI confirmation. Does not cure missing freelance employment relationship.",
+    "Jonas-specific income versus turnover/profit, savings history, degree/IP/funding, employment facts, German dwelling/business access and return-work days, dates, policy status and income allocation missing.",
+    "No personal tax bill, filing-category/half-year determination, VAT/business-registration result or automatic treaty credit/exemption. Thai-performed services ordinarily Thai-source; domestic 180 days distinct from treaty 183 days.",
+    "No quoted medical premium, German contribution/Anwartschaft, tuition, advice, translation, travel or accommodation; no insurance return/readmission guarantee.",
+    "Historical original clean-session exception and retained raw-source packaging gaps remain explicit; no fresh source, legal completeness or release/render verification claimed."
+  ],
+  "editingContract": "Only new batch28 slug JSON, English Markdown and batch28 slug notes. No Chinese page, shared/inventory/check/build changes; director renders link-free footer. No Review markup.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "German freelance designers with EU clients planning most of 2027 and possibly 2028 in Chiang Mai while resolving German home, tax and insurance ties.",
+  "localeReason": "English only: German freelancer/client/tax and insurance profile; no distinct Chinese-reader need established. Chinese would not alter passport, application jurisdiction or treaty eligibility.",
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

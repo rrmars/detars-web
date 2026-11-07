@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 2,
+  "slug": "ho-chi-minh-city-cafe-break-even",
+  "translationKey": "ho-chi-minh-city-cafe-break-even",
+  "sources": [
+    {
+      "title": "Vietcombank public exchange-rate XML",
+      "url": "https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government English text: Investment Law143/2025",
+      "url": "https://en.baochinhphu.vn/print/viet-nams-law-on-investment-2025-111260731145214387.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government full text: Decree168/2025 business registration",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep-119250702175708554.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government full text: Resolution198/2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-198-2025-qh15-ve-mot-so-co-che-chinh-sach-dac-biet-phat-trien-kinh-te-tu-nhan-119250517191622422.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "2026 Investment Law consolidation metadata—operative provisions unresolved",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-142-2026-vbhn-lq-vpqh-470555.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government: Decree141/2026 household threshold amendments",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-so-141-2026-nd-cp-nang-nguong-doanh-thu-khong-phai-chiu-thue-len-1-ty-dong-119260504154326455.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government CIT-rate explanation",
+      "url": "https://xaydungchinhsach.chinhphu.vn/thue-suat-thue-thu-nhap-doanh-nghiep-moi-ap-dung-tu-1-10-2025-119250730082233732.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government: SME first-registration CIT exemption",
+      "url": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-ve-mien-giam-thue-thu-nhap-doanh-nghiep-de-phat-trien-kinh-te-tu-nhan-11926011908115524.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government: temporary VAT reduction",
+      "url": "https://baochinhphu.vn/giam-thue-gia-tri-gia-tang-tu-01-7-2025-den-het-31-12-2026-10225070118590677.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government:2027 regional minimum wages",
+      "url": "https://en.baochinhphu.vn/regional-minimum-wages-to-rise-by-78-percent-from-2027-111261103161845526.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Congthuong newspaper reporting Vietnam Social Security contributions",
+      "url": "https://congthuong.vn/6-truong-hop-phai-tham-gia-bao-hiem-xa-hoi-tu-17-390182.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Every Half full-time barista vacancy on Hoteljob",
+      "url": "https://www.hoteljob.vn/viec-lam/336014-every-half-tuyen-dung-barista-full-time",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "HCMC Gazette:Decision5083/QĐ-UBND12Aug2026",
+      "url": "https://congbao.hochiminhcity.gov.vn/cong-bao/van-ban/quyet-dinh/so/5083-qd-ubnd/ngay/12-08-2026/tai-ve/49890",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government:continue Food Decree15/2018 until replacement takes effect",
+      "url": "https://baochinhphu.vn/tiep-tuc-ap-dung-nghi-dinh-15-2018-nd-cp-ve-an-toan-thuc-pham-cho-den-khi-co-quy-dinh-moi-102260408123934123.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government signed Food Decree15/2018—unread scanned clauses",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2018/02/15.signed.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Ministry of Public Security:compulsory fire/explosion insurance list",
+      "url": "https://bocongan.gov.vn/bai-viet/44-co-so-phai-mua-bao-hiem-chay-no-bat-buoc-tu-ngay-0172025-d1-t1734",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government:8Sep2026 direction, including fire amendment347/2026",
+      "url": "https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-8-9-2026-102260908172131419.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Dak Lak government industry/trade agency:signage enforcement",
+      "url": "https://socongthuong.daklak.gov.vn/vi/news/hoat-dong-nganh-cong-thuong-34/doi-quan-ly-thi-truong-so-3-tang-cuong-tuyen-truyen-kiem-tra-va-xu-ly-vi-pham-ve-bien-hieu-6330.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VCPMC published music-licensing process",
+      "url": "https://www.vcpmc.org/thu-tuc-cap-phep.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government copyright-agency legal index",
+      "url": "https://cov.gov.vn/van-ban-phap-luat.html?id=17",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "District3 Lê Văn Sỹ rental listing178050",
+      "url": "https://batdongsanonline.vn/CHO-THUE-MAT-BANG-KINH-DOANH-LE-VAN-SY-QUAN-3-178050/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bình Thạnh102Ung Văn Khiêm rental listing172700",
+      "url": "https://batdongsanonline.vn/cho-thue-kinh-doanh-hoac-van-phong-172700/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Bình Thạnh Hàng Xanh/Điện Biên Phủ rental listing175189",
+      "url": "https://batdongsanonline.vn/CHO-THUE-MAT-BANG-GAN-NGA-TU-HANG-XANH-DIEN-BIEN-PHU-BINH-THANH-175189/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "PenConcept café fit-out reference",
+      "url": "https://penconcept.vn/chi-phi-thi-cong-quan-cafe/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Vinbarista rental-scheme equipment package reference",
+      "url": "https://vinbarista.com/en/blog/coffee-machine-for-rent-vinbarista-thread1146.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Là Việt Horeca price category",
+      "url": "https://laviet.coffee/en/product-category/horeca/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ROOTS Dalat Milk450ml retail listing",
+      "url": "https://roots.vn/san-pham/sua-tuoi-thanh-trung-nguyen-chat-pure-pasteurized-fresh-milk-450ml-dalat-milk",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Là Việt Bold product specification",
+      "url": "https://laviet.coffee/en/san-pham/bold-3/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VCPMC tariff index",
+      "url": "https://www.vcpmc.org/bieu-muc.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "VCPMC older schedule",
+      "url": "https://www.vcpmc.org/bieu-muc-2018-lc9.html",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "operating_break_even": {
+      "label": "Daily operating break-even including founder economic pay, before depreciation and tax",
+      "value": 130,
+      "unit": "transactions_per_day",
+      "display": "130/day"
+    },
+    "conservative_break_even": {
+      "label": "Daily threshold including depreciation and conservative owner-add-back tax reserve",
+      "value": 147,
+      "unit": "transactions_per_day",
+      "display": "147/day"
+    },
+    "operating_surplus": {
+      "label": "Base monthly operating surplus at 150 daily transactions",
+      "value": 22.96,
+      "unit": "VND_million",
+      "display": "VND22.96m"
+    },
+    "opening_cash": {
+      "label": "Unquoted opening cash allocation",
+      "value": 1080,
+      "unit": "VND_million",
+      "display": "VND1,080m"
+    },
+    "cafe_reserve": {
+      "label": "Uncommitted cafe reserve excluding private costs",
+      "value": 960,
+      "unit": "VND_million",
+      "display": "VND960m"
+    },
+    "zero_sales_reserve": {
+      "label": "Conditional zero-sales reserve at fixed economic burn",
+      "value": 6.67,
+      "unit": "months",
+      "display": "6.67 months"
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-07"
+    ],
+    "originalVerificationDate": "2026-11-07",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Final content is supported only by the assigned run's HTML, ledger, independent check, calculation schedule and retained artifacts; no network, new research, contact or publication. An author also inspected a model.json outside the assigned folders by following a source reference. That scope deviation is recorded, not hidden; the external model is excluded from final evidence/dependencies. All retained figures are independently supported by the assigned run's HTML and independent calculation schedule. Local scoped checks and arithmetic only; no author package build.",
+    "originalResearchAccessLimitations": "Early automatic persistent managed-browser/ordinary-Chrome routes lacked certified cookie-empty isolation. Later clean non-persistent reruns and no-cookie HTTP improved content provenance but do not retroactively certify the entire research process. P4 was not clean-rerun successfully. Independent L1/T4 TLS retries failed.",
+    "reviewReconciliation": "Independent comparison reports 153 numeric cells across six financial tables without discrepancy, nine HTML tables total, on index hash f5837ee1e50008b66ad47144109d4a4a4ec7b070d13f2b06baf91eeb0fd076ae. Financial arithmetic passes; compliance and commercial validation remain unresolved. Added immediate supplier-stress depreciation/tax-bridge loss warning recommended by reviewer."
+  },
+  "datePolicy": "Source-specific access dates all explicitly November 7, 2026 in original ledger; copied without refresh. Publication/effective dates and failed or metadata-only reads remain source-specific. Mid-2027 costs, law and quotes are not verified by editing.",
+  "uncertainties": [
+    "Current dual-national election/Investment consolidation, Enterprise Law/Decree296, company route and fees, capital/representative/residency, VSIC and company invoicing unresolved.",
+    "Food exemption, local authority, fee and clock unresolved; no 40-seat or household shortcut. Fire whole-building managed/design/acceptance thresholds and September amendment effect unresolved; insurance categories are not approval tests.",
+    "Signage specifications/HCMC approvals, copyright134 operative rules, repertoire/related rights and actual royalties unresolved.",
+    "Payroll contribution base/owner/relief categories, union2%, exact-ward2027 wage annex and legal roster unresolved. CIT consolidation/annualisation/SME eligibility/owner-pay and other deductibility unresolved;20% reserve is not asserted applicable tax.2027 VAT extension unverified.",
+    "Historical2024 rent asks are not current availability or averages;100m² and40-seat layout, all-in32m rent and35m ceiling are assumptions. Supplier marketing is not a quote; no wholesale quality-matched beans/milk or verified specialty-menu basket/demand.",
+    "Reserve timing excludes private relocation/living/personal tax/debt service and foreign-route legal package. Extra pre-opening paid rent, major works, VAT timing, bonuses and capex replacement can erode runway. No investment return is implied by operating break-even.",
+    "Early research session-isolation exception remains; no new retrieval or all-package visual/build certification."
+  ],
+  "quantitativeModel": {
+    "unit": "million VND unless stated",
+    "fx_vnd_per_aud": 17000,
+    "investment_aud": 120000,
+    "days_per_month": 30,
+    "seats": 40,
+    "floor_area_m2": 100,
+    "gross_ticket_vnd": 60000,
+    "vat_rate_2027_assumed": 0.1,
+    "variable_cost_share_net": 0.32,
+    "monthly_depreciation": 15,
+    "startup": {
+      "Refundable rent deposit (3 × 32)": 96,
+      "First month rent advance": 32,
+      "Fit-out (100 m² × 3.8m)": 380,
+      "Espresso machine, grinders, water": 200,
+      "Refrigeration and light food equipment": 80,
+      "Furniture and smallwares": 70,
+      "POS, network and CCTV": 25,
+      "Registration, advice, health/training allowance": 25,
+      "Opening ingredients and consumables": 22,
+      "Launch marketing": 15,
+      "Pre-opening payroll": 35,
+      "Contingency": 100
+    },
+    "fixed": {
+      "Gross employee and relief wages": 55,
+      "Owner-manager economic pay": 15,
+      "Employer insurance provision (21.5% × 70)": 15.05,
+      "Union funding provision (2% × 70)": 1.4,
+      "Rent": 32,
+      "Electricity, water and internet": 9,
+      "Marketing": 5,
+      "Accounting and POS subscriptions": 3,
+      "Maintenance": 3,
+      "Cleaning and waste": 2,
+      "Music/business insurance accrual": 1.5,
+      "Miscellaneous": 2
+    },
+    "menu": [
+      {
+        "name": "Americano",
+        "gross": 50000,
+        "cost": 10600,
+        "recipe": "18g arabica × 450,000/kg + 2,000 packaging + 500 water/ice"
+      },
+      {
+        "name": "Latte",
+        "gross": 65000,
+        "cost": 15800,
+        "recipe": "18g arabica × 450,000/kg + 150ml milk × 38,000/litre + 2,000 packaging"
+      },
+      {
+        "name": "Vietnamese milk coffee",
+        "gross": 45000,
+        "cost": 10400,
+        "recipe": "20g blend × 300,000/kg + 30g condensed milk × 80,000/kg + 2,000 packaging"
+      },
+      {
+        "name": "Fruit tea",
+        "gross": 55000,
+        "cost": 13000,
+        "recipe": "3,000 tea + 6,000 fruit + 2,000 syrup + 2,000 packaging"
+      },
+      {
+        "name": "Bought-in pastry",
+        "gross": 45000,
+        "cost": 22000,
+        "recipe": "Supplier unit cost assumption 22,000 incl serving material"
+      }
+    ],
+    "basket_per_300_transactions": {
+      "Latte": 150,
+      "Americano": 60,
+      "Vietnamese milk coffee": 60,
+      "Fruit tea": 30,
+      "Bought-in pastry": 20
+    },
+    "variable_cost_components": {
+      "recipe_and_serving": 0.2725555555555556,
+      "waste": 0.015,
+      "payments": 0.01,
+      "promotions_channel_allowance": 0.0224444444444444
+    },
+    "scenario_orders_per_day": [
+      90,
+      120,
+      130,
+      150,
+      180
+    ]
+  },
+  "editingContract": "Only new slug data JSON, English Markdown and batch28 notes. No existing/inventory/renderer/checker/source-run edits, network, build or publication. No Review markup.",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en"
+  ],
+  "audience": "Returning Vietnamese-Australian founders assessing a Ho Chi Minh City specialty cafe with Australian capital, Vietnamese-citizenship route questions and a mid-2027 opening.",
+  "localeReason": "English only: this is a specific Vietnamese-Australian returnee investment and citizenship scenario. No distinct Chinese-speaking audience need is established; translation would not broaden domestic-investor eligibility or resolve current Vietnamese compliance gaps.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-07"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "sourceListLink": "#sources-and-access-dates"
+}

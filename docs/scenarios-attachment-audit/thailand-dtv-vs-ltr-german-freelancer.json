@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "en"
+  ],
+  "sourceDataSha256": "cf27e1db139ef59cf28ca6b383c4719702c04a0439a9b59a0680cae59852476f",
+  "sourceListLink": "../w7-thailand-dtv-vs-ltr-german-designer/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "37d914229762b6224613fac0432f6e0923288e4a594f8c66c10a6a7cc3f0d088",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}
