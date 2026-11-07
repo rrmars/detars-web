@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 2,
+  "slug": "surabaya-teen-singapore-secondary-aeis-plan-a-local-sponsor-and-budgets",
+  "translationKey": "surabaya-teen-singapore-secondary-aeis-plan-a-local-sponsor-and-budgets",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "id": "Dibuat oleh tugas Cowork umum di DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "id"
+  ],
+  "audience": {
+    "en": "A Surabaya family with a 13-year-old daughter, Nadia, weighing a Singapore secondary school from January 2028 (government school through AEIS, private school, or staying in Surabaya) on a budget of IDR 1.4 billion a year.",
+    "id": "Keluarga di Surabaya dengan putri berusia 13 tahun, Nadia, yang menimbang sekolah menengah di Singapura mulai Januari 2028 (sekolah negeri lewat AEIS, sekolah swasta, atau tetap di Surabaya) dengan anggaran IDR 1,4 miliar per tahun."
+  },
+  "localeReason": "Indonesian serves this decision directly: the family lives in Surabaya and will compare the conditions and open issues with what a school, an agent or a host family tells them, so having the sponsor rule, the budgets and the unconfirmed items in Indonesian helps them ask the right questions. It changes no rule, fee, date or eligibility requirement.",
+  "sources": [
+    {
+      "title": "MOE AEIS",
+      "url": "https://www.moe.gov.sg/international-students/aeis",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOE AEIS test details",
+      "url": "https://www.moe.gov.sg/international-students/aeis/test-details",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOE AEIS eligibility criteria",
+      "url": "https://www.moe.gov.sg/international-students/aeis/eligibility-criteria",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOE international students admission",
+      "url": "https://www.moe.gov.sg/international-students/admission",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOE AEIS outcome",
+      "url": "https://www.moe.gov.sg/international-students/aeis/outcome",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOE AEIS apply",
+      "url": "https://www.moe.gov.sg/international-students/aeis/apply",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOE S-AEIS",
+      "url": "https://www.moe.gov.sg/international-students/s-aeis",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOE government-school fees",
+      "url": "https://www.moe.gov.sg/financial-matters/fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ICA long-term visit and study",
+      "url": "https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ICA visa guidelines (not read in full; unconfirmed)",
+      "url": "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/visa-guidelines",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOM work passes for LTVP holders",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-passes-for-holders-of-long-term-visit-passes-issued-by-ica",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Student-insurance.com comparison site (unconfirmed)",
+      "url": "https://student-insurance.com/countries/singapore/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Stamford American International School fees",
+      "url": "https://www.sais.edu.sg/fees/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Surabaya Intercultural School admissions (fee types only)",
+      "url": "https://www.sis.sch.id/admissions",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MG Student Homestay (agent site, unconfirmed)",
+      "url": "https://www.mgboarding.com/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank Indonesia transaction exchange rates",
+      "url": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/default.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank Indonesia JISDOR",
+      "url": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IRAS current GST rates",
+      "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/current-gst-rates",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "annual_budget": {
+      "label": "Family budget per year, all in",
+      "value": 1.4,
+      "unit": "IDR billion",
+      "display": "IDR 1.4 billion"
+    },
+    "moe_monthly_fee": {
+      "label": "MOE government secondary fee per month at the ASEAN rate (2027 rate; 2028 not published)",
+      "value": 1111.8,
+      "unit": "SGD",
+      "display": "S$1,111.80"
+    },
+    "aeis_fee": {
+      "label": "AEIS fee for Secondary, before 9% GST (2026 exercise; 2027 fee not published)",
+      "value": 630,
+      "unit": "SGD",
+      "display": "S$630"
+    },
+    "plan_a_steady_year": {
+      "label": "Plan A (government school + homestay, mid case) steady year; homestay and other lines partly assumed",
+      "value": 782.5,
+      "unit": "IDR million",
+      "display": "IDR 782.5 million"
+    },
+    "plan_a_parent_steady_year": {
+      "label": "Plan A with a parent on a Long-Term Visit Pass (2-bedroom at S$3,800 a month, partly assumed), steady year",
+      "value": 1416.6,
+      "unit": "IDR million",
+      "display": "IDR 1,416.6 million"
+    },
+    "surabaya_stay_year": {
+      "label": "Plan C: stay at Surabaya Intercultural School, Grade 8 (aggregator figure, unconfirmed, plus assumed extras)",
+      "value": 345000000,
+      "unit": "IDR",
+      "display": "IDR 345,000,000"
+    }
+  },
+  "planningAssumptions": {
+    "family": "Nadia, 13, born about 2013, lives in Surabaya; family budget IDR 1.4 billion a year, all in; target entry January 2028. A parent runs a trading business in Surabaya.",
+    "fx": "S$1 = IDR 14,242.22 (Bank Indonesia transaction rate, sell, updated 6 November 2026). Rent converted from USD at 18,130 / 14,242.22 = 1.27298 SGD per USD (our own cross-rate).",
+    "fees": "MOE ASEAN rate S$1,111.80 a month assumed to hold in 2028 and to be billed for 12 months; Stamford annual totals S$53,210 (Grade 6-8) and S$56,110 (Grade 9-12) used as stated; AEIS S$630 plus 9% GST.",
+    "placeholders": "Assumed, not sourced: uniform, books, CCA and local transport S$1,500 a year; private-school bus, uniform and lunch S$4,000; flights S$2,400; health cover S$500; pocket money and transport S$1,200; two-person living cost S$3,010 a month (2 x Numbeo S$1,505, deliberately high); Surabaya extras IDR 40 million; a 3-5% yearly fee uplift is plausible but not modelled.",
+    "recommendation": "Plan A (government school through AEIS with homestay or guardian) if the family has a Singapore Citizen or PR aged 21 or older who can be the required local sponsor; otherwise Plan B (private school) is the Singapore route; Plan C (stay in Surabaya) is the fallback. Keep Plan B and Plan C funded in case Nadia is not placed."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 (Singapore time) and that access date is kept; source page dates (for example MOE pages dated 1 July and 17 July 2026, ICA pages dated 29 October to 6 November 2026, Bank Indonesia rates updated 6 November 2026) are not access dates. The 2027 AEIS dates are inferred from the 2026 pattern and are unconfirmed. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Who can be the required Singapore sponsor (Citizen or PR aged 21 or older; companies cannot) and whether a guardian or homestay host qualifies: no ICA or MOE page found says. This is the deciding condition for Plan A.",
+    "AEIS for January 2028 entry is not published: the July, early September and December 2027 steps and the S-AEIS fallback timing are inferred from the 2026 pattern; the age-to-level mapping (age at 1 January) is an inference; the 2027 fee is not published.",
+    "MOE publishes no AEIS pass rate or number of places (none found); a third-party blog saying MOE never has was not opened. Placement has no school choice.",
+    "The ICA 2-3 month advance for the Student's Pass sits awkwardly with results expected about December 2027; timing to be checked with the school.",
+    "Student's Pass details not confirmed: whether Indonesians need an entry visa or the Multiple Journey Visa, medical exam content, any health-insurance rule (sources conflict), Long-Term Visit Pass validity, and whether the parent pass applies to private-school students.",
+    "2028 MOE fees, months billed per year, and uniform, bus, CCA, Edusave and deposit costs were not found; all budget placeholders for these are assumptions.",
+    "Stamford: the school page's semester figures (S$25,970 x 2 and S$27,420 x 2) do not add to its annual totals; annual totals used; which grade Nadia would join in January 2028 is not verified (Budget C uses Grade 6-8); no 2027-28 schedule found.",
+    "Overseas Family School figures (aggregator) and Surabaya Intercultural School figures (aggregator; academic year not stated) are unconfirmed; official amounts were not found and other Surabaya schools were not found.",
+    "Rent medians are USD asking medians from one aggregator (unconfirmed); no dated individual listing and no URA, SRX or HDB median; homestay prices come from one undated agent page.",
+    "The 12-month SGD/IDR range was not found; a 5% move shifts a S$100,000 budget by about IDR 71 million.",
+    "The arithmetic recheck of every money figure was done by the same team that wrote the guide, not an outside reviewer."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Indonesian page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch, with DeTars' managed clean browser for a few pages that needed rendering; no signed-in sessions were used. data.gov.sg, PropertyGuru and Numbeo blocked automated access and were not worked around; the ICA visa-guidelines page and the Overseas Family School fee page could not be read.",
+    "independentCheckDisposition": "The recomputation recomputed every money figure with no failures. It was run by the same team, not an outside reviewer. Its wording fixes (single MOE fee figure for secondary schools; four-year stay marked as an assumption; S-AEIS covers Secondary 1-2; steady-year basis for Plan A/B ranges; headroom about IDR 520-700 million; Stamford semester discrepancy and unverified grade disclosed; Surabaya figure's missing academic year) are applied in the guide. Open items are the disclosed gaps.",
+    "editingContract": "Only data/surabaya-teen-singapore-secondary-aeis-plan-a-local-sponsor-and-budgets.json, en/ and id/ Markdown for this slug and checks/batch44-surabaya-teen-singapore-secondary-aeis-plan-a-local-sponsor-and-budgets-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "study",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

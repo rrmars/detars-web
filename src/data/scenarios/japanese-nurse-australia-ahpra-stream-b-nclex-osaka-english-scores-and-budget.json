@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 2,
+  "slug": "japanese-nurse-australia-ahpra-stream-b-nclex-osaka-english-scores-and-budget",
+  "translationKey": "japanese-nurse-australia-ahpra-stream-b-nclex-osaka-english-scores-and-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ja": "この記事は DeTars.xyz の汎用 Cowork タスクで作成されました"
+  },
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "audience": {
+    "en": "Aya, a 30-year-old nurse in Osaka with a bachelor's degree, 7 years in acute care and ¥3,500,000 saved, who wants to work as a registered nurse in Australia from 2028 and needs the registration steps, English scores, visa options and budget.",
+    "ja": "大阪在住の30歳の看護師アヤさん（学士、急性期での勤務7年、貯蓄¥3,500,000）が、2028年からオーストラリアで正看護師として働くために、登録の手順、英語のスコア、ビザの選択肢、予算を知りたい場合の案内です。"
+  },
+  "localeReason": "Japanese serves this decision directly: the nurse lives in Osaka, her qualification, payslip and savings are in yen and Japanese, and reading the stream, English-score, visa and budget conditions in Japanese helps her compare an agent's or test centre's explanation with the regulator's English wording. It changes no rule, score, fee or date.",
+  "sources": [
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Registration-Standards/General-registration-for-IQRN",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Registration-Standards/General-registration-for-IQRN",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ahpra: ahpra.gov.au/documents/default.aspx?record=WD25%2f34535&dbid=AP&chksum=g%2fcnXo43y6g1kn8Eb",
+      "url": "https://www.ahpra.gov.au/documents/default.aspx?record=WD25%2f34535&dbid=AP&chksum=g%2fcnXo43y6g1kn8EbqUITg%3d%3d",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ahpra: ahpra.gov.au/documents/default.aspx?record=WD25%2f34537&dbid=AP&chksum=Kl8ZrvblHf5u4iYN%2b",
+      "url": "https://www.ahpra.gov.au/documents/default.aspx?record=WD25%2f34537&dbid=AP&chksum=Kl8ZrvblHf5u4iYN%2b8fe0A%3d%3d",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ahpra: ahpra.gov.au/documents/default.aspx?record=WD25%2f34540&dbid=AP&chksum=0zocZYfzwPXQflfwMp6",
+      "url": "https://www.ahpra.gov.au/documents/default.aspx?record=WD25%2f34540&dbid=AP&chksum=0zocZYfzwPXQflfwMp6vGA%3d%3d",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ahpra: ahpra.gov.au/documents/default.aspx?record=WD25%2f34624&dbid=AP&chksum=wMZjpjsi%2f3KWz%2by",
+      "url": "https://www.ahpra.gov.au/documents/default.aspx?record=WD25%2f34624&dbid=AP&chksum=wMZjpjsi%2f3KWz%2byWv9%2bAHA%3d%3d",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Before-you-apply/Meeting-the-registration-",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Before-you-apply/Meeting-the-registration-requirements",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Self-check-and-Portfolio/Steps-after-Self-",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Self-check-and-Portfolio/Steps-after-Self-check",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Self-check-and-Portfolio/Completing-the-Se",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Self-check-and-Portfolio/Completing-the-Self-check",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Examination/Registered-nurses",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Examination/Registered-nurses",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Examination/Multiple-choice-question-exam",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Examination/Multiple-choice-question-exam",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Examination/Objective-structured-clinical-",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Examination/Objective-structured-clinical-exam",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ahpra: ahpra.gov.au/documents/default.aspx?record=WD20%2F30349&dbid=AP&chksum=aZBr735AzvaSOm4alj2",
+      "url": "https://www.ahpra.gov.au/documents/default.aspx?record=WD20%2F30349&dbid=AP&chksum=aZBr735AzvaSOm4alj2Tbw%3D%3D",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Orientation-Part-1-and-Part-2",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Orientation-Part-1-and-Part-2",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Registration/Registration-application-stag",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Registration/Registration-application-stages",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Accreditation/IQNM/Before-you-apply/Immigration-and-employmen",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Accreditation/IQNM/Before-you-apply/Immigration-and-employment",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Registration-and-Endorsement/Fees",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Registration-and-Endorsement/Fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Nursing and Midwifery Board of Australia: nursingmidwiferyboard.gov.au/Registration-Standards/English-language-skills",
+      "url": "https://www.nursingmidwiferyboard.gov.au/Registration-Standards/English-language-skills",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ahpra: ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-",
+      "url": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Eiken Foundation (IELTS): eiken.or.jp/ielts/students_info/2026/0731_ielts202691.html",
+      "url": "https://www.eiken.or.jp/ielts/students_info/2026/0731_ielts202691.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Eiken Foundation (IELTS): eiken.or.jp/ielts/test/",
+      "url": "https://www.eiken.or.jp/ielts/test/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IELTS: ielts.org/take-a-test/booking-your-test/one-skill-retake",
+      "url": "https://ielts.org/take-a-test/booking-your-test/one-skill-retake",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "IELTS: ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "url": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "OET: oet.com/test/oet-test-on-computer",
+      "url": "https://oet.com/test/oet-test-on-computer",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "OET: oet.com/test/oet-test-on-paper",
+      "url": "https://oet.com/test/oet-test-on-paper",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "OET: oet.com/test/book-a-test",
+      "url": "https://oet.com/test/book-a-test",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Pearson PTE: pearsonpte.com/pte-academic",
+      "url": "https://www.pearsonpte.com/pte-academic",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NCSBN / Pearson VUE NCLEX: nclex.com/fees-payment.page",
+      "url": "https://www.nclex.com/fees-payment.page",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NCSBN / Pearson VUE NCLEX: nclex.com/files/October_2026_Quarterly_International_Test_Centers_Information.pdf",
+      "url": "https://www.nclex.com/files/October_2026_Quarterly_International_Test_Centers_Information.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NCSBN / Pearson VUE NCLEX: nclex.com/testing-locations.page",
+      "url": "https://www.nclex.com/testing-locations.page",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-4",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482/core-skills-stream",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/suf",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/sufficient-english",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/nominati",
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/nominating-a-position/salary-requirements",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-t",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-table",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list",
+      "url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Department of Home Affairs: immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ANMAC: anmac.org.au/skilled-migrants/fees",
+      "url": "https://www.anmac.org.au/skilled-migrants/fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NSW Health: health.nsw.gov.au/pds/ActivePDSDocuments/IB2026_018.pdf",
+      "url": "https://www1.health.nsw.gov.au/pds/ActivePDSDocuments/IB2026_018.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NSW Health: health.nsw.gov.au/careers/conditions/awards/nurses.pdf",
+      "url": "https://www.health.nsw.gov.au/careers/conditions/awards/nurses.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Queensland Health: health.qld.gov.au/hrpolicies/wage-rates/nursing",
+      "url": "https://www.health.qld.gov.au/hrpolicies/wage-rates/nursing",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "aussieclinicians.com (third party, unconfirmed): aussieclinicians.com/nursing/qld-registered-nurse-pay/",
+      "url": "https://aussieclinicians.com/nursing/qld-registered-nurse-pay/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "e-Stat, Ministry of Health, Labour and Welfare wage survey: e-stat.go.jp/stat-search/file-download?statInfId=000040421116&fileKind=4",
+      "url": "https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040421116&fileKind=4",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Reserve Bank of Australia: rba.gov.au/statistics/frequency/exchange-rates.html",
+      "url": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Australian Taxation Office: ato.gov.au/businesses-and-organisations/super-for-employers/quarterly-super-to-30-june-202",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers/quarterly-super-to-30-june-2026/how-much-super-to-pay",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "total_budget": {
+      "label": "Pathway budget total (59% is our own allowance, not quotes; exchange rate A$1 = ¥108.92)",
+      "value": 26775,
+      "unit": "A$",
+      "display": "A$26,775"
+    },
+    "left_of_savings": {
+      "label": "Left from ¥3,500,000 savings after the full budget (thin if a retake or the visa fee is paid by you)",
+      "value": 583497,
+      "unit": "JPY",
+      "display": "¥583,497"
+    },
+    "osce_fee": {
+      "label": "OSCE fee, the only step needing travel to Australia (second-sitting fee unconfirmed)",
+      "value": 4000,
+      "unit": "A$",
+      "display": "A$4,000"
+    },
+    "visa_482": {
+      "label": "Skills in Demand visa 482, Core Skills, main applicant (from; budgeted as if the employer does not pay)",
+      "value": 4015,
+      "unit": "A$",
+      "display": "A$4,015"
+    },
+    "ielts_fee": {
+      "label": "Computer IELTS Academic at an Eiken centre per sitting from 1 September 2026 (you need 7/7/7/6.5)",
+      "value": 29700,
+      "unit": "JPY",
+      "display": "¥29,700"
+    },
+    "nsw_year1": {
+      "label": "NSW RN year 1 base pay from 1 July 2026 (before penalties and super; placement of an overseas RN not stated)",
+      "value": 81748,
+      "unit": "A$",
+      "display": "A$81,748"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Aya, 30, bachelor's degree in nursing, 7 years in acute care, ¥3,500,000 saved, target: working as an RN in Australia from 2028; she estimates IELTS 6.5.",
+    "stream": "Stream B is an inference from the published criteria; only the Ahpra Self-check assigns the stream. Calendar months in the timeline are planning estimates, not official dates.",
+    "exchange": "A = ¥108.92 and A = US/bin/zsh.6900 (Reserve Bank of Australia, 6 November 2026). Each A$ and ¥ cell is rounded to whole units and totals add the rounded cells.",
+    "budget": "A$10,886 / ¥1,185,810 is officially priced; A$15,889 / ¥1,730,693 (59%) is allowance: test preparation ¥50,000, documents ¥100,000, return flights ¥200,000, accommodation A$160 x 8 nights, food A$70 x 8 days, one-way flight ¥150,000, shipping ¥50,000, rent A$2,000 x 2, bond A$2,000, living costs A$1,500 x 2. The NCLEX base case assumes registering after 1 February 2027 and the US$150 scheduling fee unchanged (assumed).",
+    "pay": "NSW weekly rates from 1 July 2026; hourly = weekly / 38, annual = weekly x 52.17857; Japan figures are the national average for ages 30 to 34 and for all ages, not Aya's salary."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run and that access date is kept for every source. Source dates (fee schedules, test-score effective dates, 1 February 2027, 30 June 2027, 1 July 2027) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Stream B is an inference from the published criteria; only the Ahpra Self-check assigns the stream, and completing the stages does not guarantee registration.",
+    "The comparable-jurisdiction list read is dated April 2025; no later list was found on 2026-11-08.",
+    "Whether a visitor visa 600 or an ETA 601 is the right permission to sit the OSCE is unconfirmed; the A$250 visitor charge was read from the price-list data because the visible table did not load fully.",
+    "OET yen fee and OET on Computer availability in Japan, the IELTS fee of ¥27,500 at other centres, the PTE yen price, and TOEFL and Cambridge fees are unconfirmed or not researched; the NCLEX scheduling fee after 1 February 2027 is assumed unchanged.",
+    "Whether a second OSCE sitting costs another A$4,000 is unconfirmed.",
+    "Which ANMAC assessment applies (Modified A$395 or Full A$595), and whether the 482 needs a skills assessment for the nominated RN code, is unconfirmed.",
+    "The 189 70-point total is our own sum; the scores defining Proficient English, current invitation cut-offs and state 190 nurse lists were not read; the further requirements of the 186 were not read; who pays the 482 charge is unknown.",
+    "Queensland pay-point dollar figures come from a third-party site; the NSW placement of an overseas-qualified RN is not stated; the 12% super figure was not re-read for 2026-27.",
+    "A$15,889 / ¥1,730,693 (59%) of the budget is allowance, not quotes.",
+    "The arithmetic recheck of the money figures was a separate pass within the same project, not an outside review."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Japanese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "Some Ahpra, NMBA and Home Affairs pages were read through a clean browser because plain requests were blocked; the Queensland Health pay tables were not readable (bot challenge not bypassed); the ATO super page was read through a managed browser profile and not re-read for 2026-27; the Home Affairs visitor-visa price was read from the page's price-list data.",
+    "independentCheckDisposition": "A separate recomputation of the money arithmetic and claim check found 161 of 161 automated checks passing and listed nine remaining issues (allowances are not facts; which ANMAC assessment applies; visitor visa versus ETA; Queensland pay table unreadable; 189 English definition and cut-offs not read; Stream B is an inference; NSW placement not stated; visitor-visa price read from price-list data; ATO page read through a managed browser profile). The guide keeps all of them. The recheck was a separate pass within the same project, not an outside review. The page names the NMBA, not Ahpra, as the source of the 'unlikely to meet criterion 2' list for Japan.",
+    "editingContract": "Only data/japanese-nurse-australia-ahpra-stream-b-nclex-osaka-english-scores-and-budget.json, en/ and ja/ Markdown for this slug and checks/batch44-japanese-nurse-australia-ahpra-stream-b-nclex-osaka-english-scores-and-budget-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "th"
+  ],
+  "sourceDataSha256": "0385a5fd76417bff034cdb5bbaaf0e3f018405c04e3e51b3e2f6c37dacd30c79",
+  "sourceListLink": "../w8-thai-engineer-singapore-employment-pass/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "ff3b5aee80f0551879fad06f4f4f58ab52276b02204abae626ae63e4bac95d0a",
+      "faqPairs": 0,
+      "links": []
+    },
+    "th": {
+      "sourceMarkdownSha256": "9aa4b99bd6ec57d353f4727f3723c942ad80d419b8a0c536caa28fff129eda33",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "sourceDataSha256": "f1f2612fd6100bdeed2a1f75fb46d112558fc5229ddaae83ba2412ea9b465662",
+  "sourceListLink": "../w8-japanese-nurse-australia-ahpra/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "eadfadfb45a3409a73646bc662e5facaf803b665dd22e2c9a91c27acb4782818",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ja": {
+      "sourceMarkdownSha256": "b1b9f9984ebb80e2f3f27ce8b530cad96d7e5393e4b6e4afdf7e44fc6a067464",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

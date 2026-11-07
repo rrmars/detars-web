@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "es"
+  ],
+  "sourceDataSha256": "ffbdc0d049a7f5bc3a8e07ff42799a7b46f1888ca948719454451971816707f1",
+  "sourceListLink": "../w8-puebla-translator-resico-usd-invoicing/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "3cf520f853414472e69da8296106401d9ebd905facd372de63a24c85c1035608",
+      "faqPairs": 0,
+      "links": []
+    },
+    "es": {
+      "sourceMarkdownSha256": "b744f8abdefbbb7ea8dd876cbca60dce73ba5387720b483fea4acdc35fa5735c",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

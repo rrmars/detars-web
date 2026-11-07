@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "id"
+  ],
+  "sourceDataSha256": "f6bc4aa2eaf59fcd07e81b1e4fceec089b1663c0fdc23533263daf5ef7424b81",
+  "sourceListLink": "../w8-surabaya-teen-singapore-secondary-aeis/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "3c54848728ee1e48fd4b657638d0cf6c596fe05fdfdb0b0739a9b060f366d04d",
+      "faqPairs": 0,
+      "links": []
+    },
+    "id": {
+      "sourceMarkdownSha256": "891999aae587a62d7de38dca9545883b63f4154be408435ff9c1766438c75031",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

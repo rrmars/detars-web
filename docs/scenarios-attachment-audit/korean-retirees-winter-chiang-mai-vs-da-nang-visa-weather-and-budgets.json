@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "sourceDataSha256": "e853245171c82c94806613073c0951c90ce83b385f9f29f94b47933e43a5811d",
+  "sourceListLink": "../w8-korean-retirees-winter-chiang-mai-vs-da-nang/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "64feac592f7c684ebb4510a4d519ad401e6b65588fcece27e264a37ee1e96552",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ko": {
+      "sourceMarkdownSha256": "0e6c94526165dce97b5be31365788ab87c221a227a0dee22423ea2a2976f9ba6",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

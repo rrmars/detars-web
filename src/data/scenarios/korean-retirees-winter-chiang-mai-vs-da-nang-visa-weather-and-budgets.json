@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 2,
+  "slug": "korean-retirees-winter-chiang-mai-vs-da-nang-visa-weather-and-budgets",
+  "translationKey": "korean-retirees-winter-chiang-mai-vs-da-nang-visa-weather-and-budgets",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ko": "DeTars.xyz의 범용 Cowork 작업으로 작성된 글입니다"
+  },
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "audience": {
+    "en": "A retired Busan couple (aged 63 and 66, pension income KRW 2,900,000 a month, savings KRW 220 million) choosing between Chiang Mai and Da Nang for four winter months away from 2027–28, with Korean-passport visa rules, weather, smoke and budgets.",
+    "ko": "부산의 은퇴 부부(63세와 66세, 월 연금 수입 KRW 2,900,000, 저축 KRW 220 million)가 2027~28년부터 매년 겨울 넉 달을 치앙마이와 다낭 중 어디에서 보낼지, 한국 여권의 비자 규정, 날씨, 연기, 예산을 따져 보는 상황입니다."
+  },
+  "localeReason": "Korean serves this decision directly: the couple live in Busan, and the Korean embassy notices, National Health Insurance Service and pension pages, and Korean insurers they must check are in Korean, so reading the conditions and open issues in Korean helps them compare an official statement with what an agent or landlord tells them. It changes no rule, fee, date or price.",
+  "sources": [
+    {
+      "title": "tatnews.org",
+      "url": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "thailawonline.com",
+      "url": "https://www.thailawonline.com/new-visa-rules-thailand-30-day-visa-exemption/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "tdac.info",
+      "url": "https://tdac.info/travel-requirements-for-koreans",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://www.facebook.com/KoreanEmbassyThailand/posts/1509799377848030/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "seoul.thaiembassy.org",
+      "url": "https://seoul.thaiembassy.org/en/publicservice/visa-exemption-scheme?page=5fa4ac18af46ee3780556b72&menu=5fa4b2b321ace90bbc52e372",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "washingtondc.thaiembassy.org",
+      "url": "https://washingtondc.thaiembassy.org/en/page/visaexempt-voajul2024",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "london.thaiembassy.org",
+      "url": "https://london.thaiembassy.org/en/page/destination-thailand-visa",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "tdac.immigration.go.th",
+      "url": "https://tdac.immigration.go.th/arrival-card/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "thailawonline.com",
+      "url": "https://www.thailawonline.com/extension-based-on-retirement-in-thailand/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "overseas.mofa.go.kr",
+      "url": "https://overseas.mofa.go.kr/vn-ko/brd/m_2203/view.do?seq=1345931",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vnembassy-jp.org",
+      "url": "https://vnembassy-jp.org/en/vietnam-extends-visa-exemption-policy",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "evisa.gov.vn",
+      "url": "https://evisa.gov.vn/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnamtourism.com",
+      "url": "https://vietnamtourism.com/ko/visa/south-korea",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vietnamtourism.com",
+      "url": "https://vietnamtourism.com/ko/extending-your-stay-in-vietnam-official-options",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nhis.or.kr",
+      "url": "https://www.nhis.or.kr/nhis/policy/wbhada05000m01.do",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nhis.or.kr",
+      "url": "https://www.nhis.or.kr/nhis/minwon/minwonServiceBoard.do?mode=view&articleNo=10945796",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "easylaw.go.kr",
+      "url": "https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?csmSeq=699&ccfNo=2&cciNo=6&cnpClsNo=1",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "m.nps.or.kr",
+      "url": "https://m.nps.or.kr/elctcvlcpt/comm/getOHAC0000M5.do?menuId=MN24001078",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "direct.hi.co.kr",
+      "url": "https://direct.hi.co.kr/service.do?m=da100e959d",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "safetywing.com",
+      "url": "https://safetywing.com/nomad-insurance",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "money-magazine.co.kr",
+      "url": "https://money-magazine.co.kr/senior-parent-overseas-travel-insurance/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "lazygalsguideto.com",
+      "url": "https://lazygalsguideto.com",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "open.er-api.com",
+      "url": "https://open.er-api.com/v6/latest/KRW",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "propertyscout.co.th",
+      "url": "https://propertyscout.co.th/en/1-br-condo-rawee-waree-residence-close-nimmanhaemin-3507182/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "propertyscout.co.th",
+      "url": "https://propertyscout.co.th/en/1-br-condo-the-nimmana-close-nimmanhaemin-3194668/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "propertyscout.co.th",
+      "url": "https://propertyscout.co.th/en/chiang-mai/nimmanhaemin/rentals/condo/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "monthlychiangmai.com",
+      "url": "https://www.monthlychiangmai.com/guides/average-rental-costs/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "dananglandlord.com",
+      "url": "https://dananglandlord.com/property/1-bedroom-apartment-for-rent-near-my-khe-beach-c369",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "dananglandlord.com",
+      "url": "https://dananglandlord.com/property/modern-1br-apartment-in-ngu-hanh-son-with-pool-gym-f160",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "xmetr.com",
+      "url": "https://xmetr.com/en/properties/id9981-long-term-rental-1-bedroom-apartment-near-my-khe-beach-in-da-nang-vietnam",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "thailand.sbexcursion.com",
+      "url": "https://thailand.sbexcursion.com/en/journal/chiang-mai-burning-season",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "vinmec.com",
+      "url": "https://www.vinmec.com/eng/hospital/vinmec-da-nang-hospital",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "flightsfrom.com",
+      "url": "https://www.flightsfrom.com/PUS-DAD",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "flightsfrom.com",
+      "url": "https://www.flightsfrom.com/PUS-CNX",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "da_nang_total": {
+      "label": "Four-month total for two in Da Nang (low to high insurance; allowances, insurance and Vietnam e-visa fee are estimates or unconfirmed)",
+      "value": 11,
+      "unit": "KRW million",
+      "display": "KRW 11.0–11.4 million"
+    },
+    "chiang_mai_total": {
+      "label": "Four-month total for two in Chiang Mai (low to high insurance; includes an assumed 30% short-stay rent premium)",
+      "value": 12.2,
+      "unit": "KRW million",
+      "display": "KRW 12.2–12.5 million"
+    },
+    "da_nang_income_share": {
+      "label": "Da Nang four-month total as a share of four months of pension income (Chiang Mai: 105–108%)",
+      "value": 95,
+      "unit": "percent",
+      "display": "95–98%"
+    },
+    "insurance_range": {
+      "label": "Working range for two people's travel insurance over 120 days (our estimate, not a quote)",
+      "value": 1630,
+      "unit": "USD",
+      "display": "USD 1,630–1,900"
+    },
+    "evisa_fee_each": {
+      "label": "Vietnam single-entry e-visa government fee per person, up to 90 days (unconfirmed: seen only in a search snippet of the official portal)",
+      "value": 25,
+      "unit": "USD",
+      "display": "USD 25"
+    },
+    "pension_four_months": {
+      "label": "Pension income over four months (KRW 2,900,000 × 4), the yardstick for the trip totals",
+      "value": 11600000,
+      "unit": "KRW",
+      "display": "KRW 11,600,000"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Seo-yeon, 63, and Jae-ho, 66, of Busan; pension income KRW 2,900,000 a month (KRW 11,600,000 over four months); savings KRW 220 million; figures given by the couple.",
+    "window": "1 December 2027 to 31 March 2028 = 122 days; budget uses exit-and-re-enter routes TH-B (Thailand) and VN-B (Vietnam, one 90-day single e-visa each).",
+    "rent": "Chiang Mai THB 18,000 base plus an assumed 30% short-stay premium (midpoint of an unconfirmed 20–40% range) = THB 23,400 a month; Da Nang VND 15,000,000 a month with no premium.",
+    "allowances": "Food, transport, utilities, leisure, flights (KRW 1,000,000) and the extra exit trip (KRW 400,000) are round planning allowances, not sourced data.",
+    "insurance": "Estimated by scaling an outdated blog price for ages 60–69: about USD 190.4 per four weeks; USD 1,630–1,900 for two people over 120 days; not a quote.",
+    "fx": "1 THB = KRW 40.41, 100 VND = KRW 5.32, 1 USD = KRW 1,357 (mid-market feed updated 7 November 2026, unconfirmed)."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run and that access date is kept for every source. Source dates (rule windows, 14 March 2028, listing dates) are not access dates. Copy editing and translation are not a refresh; rules, rents and rates will change before winter 2027–28.",
+  "uncertainties": [
+    "Thailand's stay length for Koreans is unresolved: the Korean embassy in Thailand says 90 days per entry under the 1981 agreement (Korean side only, read from a Facebook post behind a login wall, no date); the Royal Thai Embassy Seoul page (30 December 2025, before the reform) says 60 days, extendable to 90; no Thai post-reform page was found, and whether a 90-day entry can be extended by 30 days is not confirmed.",
+    "The land-border cap of 2 entries a year is official for the 30/15-day schemes; the Korean embassy says it does not apply to Korea, but no Thai page confirms it.",
+    "Vietnam's 45-day exemption for Koreans ends 14 March 2028 and renewal is only 'to be considered'; the USD 25 e-visa fee was seen only in a search snippet of the official portal.",
+    "Burning-season timing (February to May, 2026 ban reported from 1 January, smoke on 2 January 2026) and all Chiang Mai air-quality figures come from unconfirmed pages; no Da Nang air-quality data was looked up.",
+    "No December to February climate data was found for Chiang Mai, and Da Nang figures are search snippets, so the guide does not say which city is warmer or wetter.",
+    "The 30% Chiang Mai short-stay premium is a midpoint of an unconfirmed 20–40% range; no Da Nang equivalent was found, so the cost gap may be overstated. About three-quarters of the KRW 1,141,306 gap (KRW 872,856) comes from that premium; without it Chiang Mai is still about KRW 268,450 dearer.",
+    "Food, transport, utilities, leisure and flight lines are planning allowances; insurance is an estimate; Korean insurer prices, the SafetyWing 60–69 rate and its maximum age (reported as 69) were not confirmed.",
+    "NHIS: two official pages conflict on short visits home mid-winter; whether NHIS reimburses care abroad and any pension-service duty to report a short stay were not found.",
+    "No Chiang Mai hospital's own page was read; only Vinmec Da Nang (222 beds, Korean interpreters) is an official page.",
+    "The arithmetic was recomputed once more by the team that wrote the guide, not an outside reviewer; the figures matched."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local run files read; no new research, network access or source refresh.",
+    "editingContract": "Reader-facing rewrite of the finished research guide with the re-check's wording corrections applied (cost-gap attribution, land-border cap, income share for Da Nang, no unsupported climate comparison, burning-ban start date, snippet-only fees). Korean page translates the English page; no facts added."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

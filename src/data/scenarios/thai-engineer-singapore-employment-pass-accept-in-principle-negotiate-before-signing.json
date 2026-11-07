@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 2,
+  "slug": "thai-engineer-singapore-employment-pass-accept-in-principle-negotiate-before-signing",
+  "translationKey": "thai-engineer-singapore-employment-pass-accept-in-principle-negotiate-before-signing",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "th": "จัดทำโดยงาน Cowork ทั่วไปบน DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "th"
+  ],
+  "audience": {
+    "en": "A 29-year-old Thai full-stack developer in Bangkok (THB 115,000 a month) deciding whether to accept a Singapore fintech offer of SGD 8,200 a month plus a one-month bonus, starting April 2027, and what to negotiate first.",
+    "th": "นักพัฒนา full-stack ชาวไทยอายุ 29 ปีในกรุงเทพฯ (รายได้เดือนละ THB 115,000) ที่กำลังตัดสินใจว่าจะรับข้อเสนองานฟินเทคในสิงคโปร์เดือนละ SGD 8,200 พร้อมโบนัสหนึ่งเดือน เริ่มงานเดือนเมษายน 2027 หรือไม่ และควรต่อรองอะไรก่อน"
+  },
+  "localeReason": "Thai serves this decision directly: the person weighing the offer is a Thai engineer in Bangkok, and reading the salary floor, the employer-classification question, the two fixes and the open issues in Thai helps them prepare the written questions to put to a Singapore employer. It changes no rule, threshold, fee, rate or date.",
+  "sources": [
+    {
+      "title": "www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/faq/employment-pass/how-do-i-know-if-my-company-is-considered-part-of",
+      "url": "https://www.mom.gov.sg/faq/employment-pass/how-do-i-know-if-my-company-is-considered-part-of-the-financial-services-sector",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/faq/employment-pass/what-is-a-fixed-monthly-salary",
+      "url": "https://www.mom.gov.sg/faq/employment-pass/what-is-a-fixed-monthly-salary",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/passes-and-permits/employment-pass/key-facts",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/key-facts",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/passes-and-permits/employment-pass/experienced-tech-professionals-wit",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/experienced-tech-professionals-with-skills-in-shortage",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool",
+      "url": "https://www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/passes-and-permits/employment-pass/eligibility/compass-c1-salary-benc",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility/compass-c1-salary-benchmarks",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/-/media/mom/documents/work-passes-and-permits/compass/c1-salary-bench",
+      "url": "https://www.mom.gov.sg/-/media/mom/documents/work-passes-and-permits/compass/c1-salary-benchmarks-upcoming.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/-/media/mom/documents/work-passes-and-permits/compass/compass-c2-list",
+      "url": "https://www.mom.gov.sg/-/media/mom/documents/work-passes-and-permits/compass/compass-c2-list-of-top-tier-institutions-upcoming.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/passes-and-permits/employment-pass/eligibility/compass-c5-skills-bonu",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility/compass-c5-skills-bonus-shortage-occupation-list-sol",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.mom.gov.sg/-/media/mom/documents/work-passes-and-permits/compass/sol-guidebook-u",
+      "url": "https://www.mom.gov.sg/-/media/mom/documents/work-passes-and-permits/compass/sol-guidebook-upcoming.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.cpf.gov.sg/service/article/who-is-exempted-from-receiving-cpf-contributions",
+      "url": "https://www.cpf.gov.sg/service/article/who-is-exempted-from-receiving-cpf-contributions",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-resid",
+      "url": "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-relie",
+      "url": "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-reliefs-rebates-and-deductions/tax-reliefs/earned-income-relief",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.xe.com/currencyconverter/convert/",
+      "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=THB",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.rd.go.th/english/6045.html",
+      "url": "https://www.rd.go.th/english/6045.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "settlrglobal.com/blog/thailand-income-tax-brackets-2026-pit-rates-and-withholding-expl",
+      "url": "https://settlrglobal.com/blog/thailand-income-tax-brackets-2026-pit-rates-and-withholding-explained",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "hrm.flowhrpayroll.com/",
+      "url": "https://hrm.flowhrpayroll.com/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "rentinsingapore.com.sg/ID822942",
+      "url": "https://rentinsingapore.com.sg/ID822942",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "homesbyjo.sg/insights/condo-rents-stalled-record-highs-2026",
+      "url": "https://homesbyjo.sg/insights/condo-rents-stalled-record-highs-2026",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.thailand-property.com/condos-for-rent/bts/ari/1-bedroom",
+      "url": "https://www.thailand-property.com/condos-for-rent/bts/ari/1-bedroom",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "livingcost.org/cost/thailand/bangkok",
+      "url": "https://livingcost.org/cost/thailand/bangkok",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "livingcost.org/cost/singapore/singapore",
+      "url": "https://livingcost.org/cost/singapore/singapore",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "mrtgo.sg/fares",
+      "url": "https://mrtgo.sg/fares",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "winfredquek.com/insights/rental-agent-commissions-landlord-tenant",
+      "url": "https://winfredquek.com/insights/rental-agent-commissions-landlord-tenant",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.homejourney.sg/blog/agent-commission-rentals-singapore-explained-homejourney-2026022",
+      "url": "https://www.homejourney.sg/blog/agent-commission-rentals-singapore-explained-homejourney-202602221200",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.skyscanner.com.sg/routes/bkkt/sins/bangkok-to-singapore.html",
+      "url": "https://www.skyscanner.com.sg/routes/bkkt/sins/bangkok-to-singapore.html",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "fs_shortfall": {
+      "label": "Shortfall of SGD 8,200 fixed pay against the financial-services Employment Pass minimum at age 29 for new applications from 1 January 2027 (SGD 8,264)",
+      "value": 64,
+      "unit": "SGD",
+      "display": "SGD 64"
+    },
+    "fix_pay": {
+      "label": "Fixed monthly pay to ask for if the employer is financial services and files after 31 December 2026 (clears the age-30 figure of SGD 8,541)",
+      "value": 8700,
+      "unit": "SGD",
+      "display": "SGD 8,700"
+    },
+    "takehome_sg": {
+      "label": "Average monthly take-home in a full year in Singapore (13 months, resident tax, no CPF; thresholds and tax rates assumed unchanged)",
+      "value": 8359,
+      "unit": "SGD",
+      "display": "SGD 8,359"
+    },
+    "takehome_bkk": {
+      "label": "Monthly take-home in Bangkok now (Thai deductions and social security from secondary sources, unconfirmed)",
+      "value": 100177,
+      "unit": "THB",
+      "display": "THB 100,177"
+    },
+    "savings_room": {
+      "label": "Monthly savings with a room at SGD 1,200 (assumed spending, illustrative)",
+      "value": 5589,
+      "unit": "SGD",
+      "display": "SGD 5,589"
+    },
+    "tax_resident": {
+      "label": "2027 tax on SGD 82,000 as a tax resident with an April 2027 start (Year of Assessment 2028 rates assumed unchanged; the same income taxed as non-resident would be SGD 12,300)",
+      "value": 3465,
+      "unit": "SGD",
+      "display": "SGD 3,465"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Krit, 29, single, full-stack developer with six years' experience and a Chulalongkorn University bachelor's degree; THB 115,000 a month in Bangkok with no bonus assumed; offer SGD 8,200 a month fixed plus a one-month bonus, start 1 April 2027; age 29 at application (assumed).",
+    "rate": "SGD 1 = THB 26.18, derived from European Central Bank reference rates of 6 November 2026 (EUR/THB 37.459 and EUR/SGD 1.4309); a commercial mid-market quote that evening was 26.13 (unconfirmed); the April 2027 rate is unknown.",
+    "tax": "Singapore: 2027 income SGD 82,000 (nine months plus the bonus paid in December 2027), only Earned Income Relief of SGD 1,000 claimed, resident rates as published for Year of Assessment 2024 onward assumed unchanged for 2028 (unconfirmed). Thailand: 50% expense deduction capped at THB 100,000, personal allowance THB 60,000, social security THB 875 a month, all from secondary sources (unconfirmed).",
+    "spending": "Bangkok non-rent spending: utilities THB 3,500, food THB 14,000, transport THB 3,000, leisure THB 8,000; rent THB 18,000. Singapore non-rent: utilities and phone SGD 150, food SGD 700, transport SGD 120, leisure SGD 500, medical gap SGD 100; rent SGD 1,200, SGD 2,200 or SGD 3,600. Setup basics SGD 300, SIM and miscellaneous SGD 50, medical exam SGD 100, flight allowance SGD 150, deposit of two months. All are planner assumptions, not quotes.",
+    "recommendation": "Accept in principle, negotiate before signing: ask HR in writing for the MOM sector classification; if financial services, ask for filing on or before 31 December 2026 (age-29 minimum SGD 7,727) or fixed monthly pay of at least SGD 8,700; keep the April start; do not resign in Bangkok until the in-principle approval letter is issued."
+  },
+  "datePolicy": "Pages were read on 2026-11-07 (UTC evening, early 8 November 2026 in Singapore) and that access date is kept; the guide was prepared on 2026-11-08. Source dates (rule start of 1 January 2027, page stamps, release months) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The employer's MOM sector classification (financial services or not) and its PMET mix (COMPASS C3 and C4) are visible only to the employer; the SGD 64 shortfall applies only if it is classed as financial services.",
+    "Whether age is measured at submission, and whether the submission date or the approval date decides the before-or-after 1 January 2027 threshold, is unconfirmed; the guide's reading is submission.",
+    "Chulalongkorn University is on the top-tier list that applies from 1 January 2027; that it sits in Group A (all faculties) is read from the layout of the extracted list, not stated outright.",
+    "The shortage-occupation list read in full applies to 2026; the 2027 guide was downloaded but not read in full, so software titles are assumed to remain listed.",
+    "Year of Assessment 2028 Singapore tax rates are not announced and are assumed unchanged; whether the straddle rule applies to a late start is the guide's reading of the IRAS wording.",
+    "Monetary Authority of Singapore and Bank of Thailand rate pages were not retrieved; the exchange rate is a European Central Bank cross.",
+    "Thai tax deductions (50% capped at THB 100,000; THB 60,000) and the social security amount (THB 875 a month) come from secondary sources; the official Revenue Department English page shows older deduction figures. Krit's Bangkok bonus and benefits are unknown.",
+    "Rent listings are third-party examples from one site; of the 11 rows three were re-opened and matched, eight rely on the first reading. The two-month deposit, the agent-fee convention, living costs and the flight price are assumed or unconfirmed.",
+    "Who bears the SGD 105 application fee is a contract matter (unconfirmed).",
+    "The money arithmetic (47 figures) was recomputed with a second method by the same author as the guide, not by an outside reviewer; the savings comparison remains illustrative because its inputs are assumptions."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Thai page was translated from the English guide.",
+    "originalResearchAccessLimitations": "Most pages were read with plain fetch; two CPF Board pages and some third-party pages fell back to DeTars' managed browser using a clean profile without the user's cookies or sign-ins. The MOM Self-Assessment Tool needs an employer login and was not opened. PropertyGuru, 99.co, EdgeProp, Roomgo and SRX blocked or failed automated reading and were not used; MAS and Bank of Thailand rate pages were not obtained.",
+    "independentCheckDisposition": "The run's recomputation of 47 money figures with a different method matched with no mismatches. It was done by the run's own author, not an outside reviewer. It re-opened 3 of the 11 rent listings (prices matched) and confirmed the claims against the source notes, listing as open: employer sector and PMET mix, the 2027 shortage list not read in full, Thai deductions and social security from secondary sources, MAS and Bank of Thailand rates not obtained, and the Group A reading for Chulalongkorn. The guide keeps all of them.",
+    "editingContract": "Only data/thai-engineer-singapore-employment-pass-accept-in-principle-negotiate-before-signing.json, en/ and th/ Markdown for this slug and checks/batch44-thai-engineer-singapore-employment-pass-accept-in-principle-negotiate-before-signing-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

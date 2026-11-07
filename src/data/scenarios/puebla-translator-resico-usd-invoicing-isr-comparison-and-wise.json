@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 2,
+  "slug": "puebla-translator-resico-usd-invoicing-isr-comparison-and-wise",
+  "translationKey": "puebla-translator-resico-usd-invoicing-isr-comparison-and-wise",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "es": "Producido por una tarea general de Cowork en DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "es"
+  ],
+  "audience": {
+    "en": "A freelancer in Puebla, Mexico, paid in US dollars by US agencies for written work (planning cases USD 3,200 and USD 4,500 a month), weighing a move to RESICO, IVA at 0% on exports, and the cheapest way to receive the money.",
+    "es": "Quien trabaja como freelance en Puebla, México, y a quien pagan en dólares agencias de Estados Unidos por trabajo escrito (casos de planificación de USD 3,200 y USD 4,500 al mes), que evalúa pasarse a RESICO, el IVA a tasa 0% en exportaciones y la forma más barata de recibir el dinero."
+  },
+  "localeReason": "Spanish serves this decision directly: she lives in Puebla, and the SAT pages, the tax rules (RESICO, ISR, IVA, CFDI) and her contador's advice are all in Spanish, so reading the conditions and open issues in Spanish lets her match each point to the official wording and bring it to her contador. It changes no rule, rate, fee or date.",
+  "sources": [
+    {
+      "title": "banxico.org.mx: /tipcamb/tipCamMIAction.do?idioma=sp",
+      "url": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sat.gob.mx: /portal/public/personas-fisicas/pf-simplificado-de-confianza",
+      "url": "https://www.sat.gob.mx/portal/public/personas-fisicas/pf-simplificado-de-confianza",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "gob.mx: /sat/articulos/sabes-a-quien-beneficiara-el-nuevo-regimen-simplificado",
+      "url": "https://www.gob.mx/sat/articulos/sabes-a-quien-beneficiara-el-nuevo-regimen-simplificado-de-confianza?idiom=es",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sat.gob.mx: /minisitio/NormatividadRMFyRGCE/documentos2026/rmf/compiladas/Compilad",
+      "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/compiladas/Compilado_Primera_Modificacion_a_la-Resolucion_Miscelanea_Fiscal_para_2026.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sat.gob.mx: /minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo-8-RMF-",
+      "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo-8-RMF-2026_DOF-28122025.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/lisr/articulo-113-e",
+      "url": "https://fisc.mx/ley/lisr/articulo-113-e",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/lisr/articulo-113-f",
+      "url": "https://fisc.mx/ley/lisr/articulo-113-f",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/lisr/articulo-106",
+      "url": "https://fisc.mx/ley/lisr/articulo-106",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/lisr/articulo-102",
+      "url": "https://fisc.mx/ley/lisr/articulo-102",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "ppef.hacienda.gob.mx: /es/PPEF2027",
+      "url": "https://www.ppef.hacienda.gob.mx/es/PPEF2027",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "siemprealdia.co: /mexico/fiscal/reforma-al-isr",
+      "url": "https://siemprealdia.co/mexico/fiscal/reforma-al-isr/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "heru.app: /blog/paquete-economico-2027-resico-cambios",
+      "url": "https://www.heru.app/blog/paquete-economico-2027-resico-cambios/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/liva/articulo-29",
+      "url": "https://fisc.mx/ley/liva/articulo-29",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/liva/articulo-5-d",
+      "url": "https://fisc.mx/ley/liva/articulo-5-d",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/liva/articulo-6",
+      "url": "https://fisc.mx/ley/liva/articulo-6",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "gob.mx: /cms/uploads/attachment/file/136558/reg_ley_isr_iva.pdf",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/136558/reg_ley_isr_iva.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sat.gob.mx: /minisitio/NormatividadRMFyRGCE/documentos2026/rmf/rmf/RMF_2026-DOF-28",
+      "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/rmf/RMF_2026-DOF-28122025.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "omawww.sat.gob.mx: /tramitesyservicios/Paginas/documentos/Anexo_20_Guia_de_llenado_CFDI.p",
+      "url": "http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/Anexo_20_Guia_de_llenado_CFDI.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "omawww.sat.gob.mx: /tramitesyservicios/Paginas/anexo_20.htm",
+      "url": "http://omawww.sat.gob.mx/tramitesyservicios/Paginas/anexo_20.htm",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "fisc.mx: /ley/cff/articulo-20",
+      "url": "https://fisc.mx/ley/cff/articulo-20",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /gb/pricing/receive",
+      "url": "https://wise.com/gb/pricing/receive",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /help/articles/3EsxRDF4uNpQncdgH480os/fees-for-receiving-money-by-swif",
+      "url": "https://wise.com/help/articles/3EsxRDF4uNpQncdgH480os/fees-for-receiving-money-by-swift",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /help/articles/2827506/how-do-i-receive-money-with-my-usd-account-deta",
+      "url": "https://wise.com/help/articles/2827506/how-do-i-receive-money-with-my-usd-account-details",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /mx/pricing/send-money",
+      "url": "https://wise.com/mx/pricing/send-money",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /gateway/v3/comparisons?sourceCurrency=USD&targetCurrency=MXN&sendAmou",
+      "url": "https://wise.com/gateway/v3/comparisons?sourceCurrency=USD&targetCurrency=MXN&sendAmount=3200&sourceCountry=MX&targetCountry=MX",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /mx/pricing/receive",
+      "url": "https://wise.com/mx/pricing/receive",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /help/articles/2810318/can-i-get-usd-account-details",
+      "url": "https://wise.com/help/articles/2810318/can-i-get-usd-account-details",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "wise.com: /help/articles/2978013",
+      "url": "https://wise.com/help/articles/2978013",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "payoneer.com: /fees",
+      "url": "https://www.payoneer.com/fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "payoneer.com: /resources/how-to-use-payoneer/how-payoneer-calculates-withdrawal-fees",
+      "url": "https://www.payoneer.com/resources/how-to-use-payoneer/how-payoneer-calculates-withdrawal-fees/",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "paypal.com: /mx/business/paypal-business-fees",
+      "url": "https://www.paypal.com/mx/business/paypal-business-fees",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "bbva.mx: /content/dam/public-web/mexico/documents/tarifario-general/Tarifario.p",
+      "url": "https://www.bbva.mx/content/dam/public-web/mexico/documents/tarifario-general/Tarifario.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "banorte.com: /Personal/Internacional/Cobros-Internacionales/Recepcion-de-Transferen",
+      "url": "https://www.banorte.com/Personal/Internacional/Cobros-Internacionales/Recepcion-de-Transferencias-Internacionales",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "santander.com.mx: /personas/comisiones",
+      "url": "https://www.santander.com.mx/personas/comisiones",
+      "accessDate": "2026-11-07"
+    }
+  ],
+  "headlineFigures": {
+    "resico_3200": {
+      "label": "Monthly ISR under RESICO at USD 3,200 a month (assumed FIX 18.6297, 2026 tariff; RESICO rate band unconfirmed mirror text)",
+      "value": 894.23,
+      "unit": "MXN",
+      "display": "MXN 894.23"
+    },
+    "general_3200": {
+      "label": "Monthly ISR in the general regime at USD 3,200 a month, contador MXN 1,200 assumed fully deductible",
+      "value": 11260.6,
+      "unit": "MXN",
+      "display": "MXN 11,260.60"
+    },
+    "resico_4500": {
+      "label": "Monthly ISR under RESICO at USD 4,500 a month (assumes the rate applies to the whole month's income: our reading, unconfirmed)",
+      "value": 1676.67,
+      "unit": "MXN",
+      "display": "MXN 1,676.67"
+    },
+    "general_4500": {
+      "label": "Monthly ISR in the general regime at USD 4,500 a month, contador MXN 1,200 assumed fully deductible",
+      "value": 18526.18,
+      "unit": "MXN",
+      "display": "MXN 18,526.18"
+    },
+    "deduction_breakeven": {
+      "label": "Monthly deductions needed for the general regime to match RESICO at USD 3,200 (about 81% of income)",
+      "value": 48096.52,
+      "unit": "MXN",
+      "display": "MXN 48,096.52"
+    },
+    "rate_step_income": {
+      "label": "Approximate monthly income in USD where the RESICO rate steps from 1.50% to 2.00% at MXN 83,333.33 (our reading, unconfirmed)",
+      "value": 4473,
+      "unit": "USD",
+      "display": "USD 4,473"
+    }
+  },
+  "planningAssumptions": {
+    "income": "Flat USD 3,200 or USD 4,500 a month, paid by two agencies (two payments a month); Banxico FIX 18.6297 MXN/USD (6 November 2026) used for all of 2026 and 2027.",
+    "tax": "2026 monthly ISR tariff (Anexo 8 RMF 2026) applied to 2027; RESICO cap MXN 3.5M and current rate bands; contador MXN 1,200 a month, fully deductible in the general regime and unchanged in RESICO; sensitivity of MXN 3,000 of other deductible expenses; subsidio al empleo assumed not to apply (no source checked); the RESICO rate applied to the whole month's income (our reading).",
+    "routes": "Wise 0.72% proportional; Payoneer 3% (1% + 2%, upper bound of a generic global table); PayPal 4.45% + 3.50% = 7.95% plus USD 0.30 per payment, volume tiers ignored; SWIFT at BBVA USD 34.80 per payment plus an assumed 1.5% bank spread; route fees not deducted for tax.",
+    "recommendation": "RESICO if the contador confirms eligibility; Wise on the numbers found (one comparison snapshot, unconfirmed). IVA at 0% under LIVA art. 29, last paragraph, is unconfirmed."
+  },
+  "datePolicy": "Pages were read on 2026-11-07 (about 20:55–21:15 UTC, which is 2026-11-08 local time in the original run); the access date 2026-11-07 is kept. Source dates (FIX of 6 November 2026, Anexo 8 of 28 December 2025, tariff v.230 of October 2026, Anexo 20 guide of 16 January 2026) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Statute texts (LISR 113-E, 113-F, 102, 106; LIVA 29, 5-D, 6; CFF 20) were read on the non-primary mirror fisc.mx because diputados.gob.mx and dof.gob.mx timed out; they are unconfirmed.",
+    "The RESICO switch deadline and procedure were not found on a primary page (RMF rule 3.13.2 points to ficha 28/CFF).",
+    "IVA at 0% on translation (LIVA art. 29, last paragraph) is unconfirmed: no SAT criterion names translators, one contador blog argues 16%, and no official text addresses Wise, Payoneer or PayPal as payers under RLIVA art. 58; the RLIVA text read is the 2006 original and the three later 2026 RMF modifications were not read for rule 4.6.5.",
+    "Whole-month application of the RESICO rate (and so the cliff near USD 4,473 a month) is the run's own reading, unconfirmed.",
+    "Wise's 0.72% is one public comparison-feed snapshot for USD 3,200; the Wise Mexico fee table could not be read and eligibility for Mexican residents was not confirmed; USD 6.11 applies if the agency pays by wire.",
+    "Payoneer Mexico figures, the Santander incoming-wire fee and all bank exchange spreads were not found; the 3% Payoneer figure, the 7.95% PayPal figure and the 1.5% SWIFT spread are assumptions; PayPal volume tiers were ignored.",
+    "The 2027 ISR reform (RESICO cap MXN 5M) is known only from blogs and the 2027 tariff is not published; the 2026 table and the MXN 3.5M cap are used.",
+    "The Banxico 'para pagos' figure of 18.7147 comes from a table whose columns could not be read reliably; the FIX-versus-DOF rate to stamp on the CFDI is unconfirmed. The CFDI Exportacion value 01, the NumRegIdTrib recommendation and PPD/99 with a Complemento de pago are the run's own reading or not re-verified; CFDI cancellation rules and issuance deadlines were not researched.",
+    "The arithmetic recheck was done inside the project that wrote the guide, not by an outside reviewer."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Spanish page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetches (and a headless browser render for the PPEF 2027 page, the Payoneer fee page and one fisc.mx page, with no sign-ins). diputados.gob.mx, dof.gob.mx and ordenjuridico.gob.mx timed out and a justia page returned a bot check, so no statute text was read on a primary site; the Wise Mexico fee table is JavaScript-rendered and was not readable; the Santander page was unreachable.",
+    "independentCheckDisposition": "The run's recomputation reproduced every printed money figure (0 mismatches) and the 11-row tariff. The first pass raised six wording issues (TipoCambio firmness and the 18.7147 reading, 'Mexican bank' added to RLIVA 58, Wise stated too firmly, PayPal tiers, unlabelled items, savings quoted to the cent); the run's page was edited and these pages follow the edited version. Six source and coverage gaps remain open and are kept. The recheck was run inside the same project that wrote the guide, not by an outside reviewer.",
+    "editingContract": "Only data/puebla-translator-resico-usd-invoicing-isr-comparison-and-wise.json, en/ and es/ Markdown for this slug and checks/batch44-puebla-translator-resico-usd-invoicing-isr-comparison-and-wise-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "business",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}
