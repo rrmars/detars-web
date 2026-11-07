@@ -1,21 +1,32 @@
 ---
 import { ctaLabel, navItems } from "@/lib/nav";
-import { hreflangMap, localeLabels, locales, withLocale, type Locale } from "@/lib/site";
+import { scenarioChrome } from "@/lib/scenario-i18n";
+import { hreflangMap, isScenarioOnly, localeLabels, locales, withLocale, type AnyLocale, type Locale } from "@/lib/site";
 
-type Props = { locale: Locale; route: string; languageLocales?: readonly Locale[] };
+type Props = { locale: AnyLocale; route: string; languageLocales?: readonly AnyLocale[] };
 const { locale, route, languageLocales = locales } = Astro.props;
+// Scenario-only locales have just the Scenarios section: their brand, CTA and any non-scenario link go
+// to the English site instead of a localized page that does not exist.
+const scenarioOnly = isScenarioOnly(locale);
+const chrome = isScenarioOnly(locale) ? scenarioChrome[locale] : undefined;
+const homeHref = scenarioOnly ? withLocale("en", "/") : withLocale(locale, "/");
+const navLinks = scenarioOnly
+  ? [{ href: withLocale(locale, "/scenarios"), label: chrome!.scenarios, current: route === "/scenarios" || route.startsWith("/scenarios/") }]
+  : navItems.map((item) => ({ href: withLocale(locale, item.route), label: item.label[locale as Locale], current: route === item.route || route.startsWith(`${item.route}/`) }));
+const ctaHref = scenarioOnly ? withLocale("en", "/download") : withLocale(locale, "/download");
+const ctaText = scenarioOnly ? chrome!.cta : ctaLabel[locale as Locale];
 ---
 
 <header class="site-header" id="site-header">
   <div class="shell hd">
-    <a class="brand" href={withLocale(locale, "/")} aria-label="DeTars home">
+    <a class="brand" href={homeHref} aria-label="DeTars home">
       <img class="mark" src="/brand/detars-mark.png" width="36" height="36" alt="" decoding="async" /> De<span class="dot">Tars</span>
     </a>
     <nav class="site-nav" aria-label="Primary">
       {
-        navItems.map((item) => (
-          <a href={withLocale(locale, item.route)} aria-current={route === item.route || route.startsWith(`${item.route}/`) ? "page" : undefined}>
-            {item.label[locale]}
+        navLinks.map((item) => (
+          <a href={item.href} aria-current={item.current ? "page" : undefined}>
+            {item.label}
           </a>
         ))
       }
@@ -42,7 +53,7 @@ const { locale, route, languageLocales = locales } = Astro.props;
           }
         </div>
       </details>
-      <a class="cta" href={withLocale(locale, "/download")}>{ctaLabel[locale]}</a>
+      <a class="cta" href={ctaHref} {...(scenarioOnly ? { hreflang: "en" } : {})}>{ctaText}</a>
     </div>
   </div>
 </header>

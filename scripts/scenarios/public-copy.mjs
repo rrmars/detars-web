@@ -1,7 +1,7 @@
 // Only publication-status copy and unavailable-file directions change here.
 // Research, prices, measured outcomes and consequential limitations are untouched.
 export function publicCopy(body, locale) {
-  const replacements = locale === 'en' ? [
+  const replacements = locale !== 'en' && locale !== 'zh' ? [] : locale === 'en' ? [
     [/The local draft package’s HTML and XLSX comparison of five laptops is described in the /g, 'The five-laptop comparison is described in the '],
     [/The local draft package contains the /g, 'Supporting material includes the '],
     [/In the local draft package, use the /g, 'Use the '],

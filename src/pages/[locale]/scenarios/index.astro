@@ -1,18 +1,22 @@
 ---
 import Base from "@/layouts/Base.astro";
 import ScenarioIndex from "@/components/ScenarioIndex.astro";
-import { scenarioContentLocale, scenarioIndexCopy } from "@/lib/scenarios";
-import { localeSegment, nonDefaultLocales, type Locale } from "@/lib/site";
+import { getIndexableScenarioLocales, scenarioIndexCopy } from "@/lib/scenarios";
+import { localeSegment, scenarioLocales, scenarioNonDefaultLocales, type AnyLocale } from "@/lib/site";
 
 export function getStaticPaths() {
-  return nonDefaultLocales.map((locale) => ({ params: { locale: localeSegment[locale] }, props: { locale } }));
+  return scenarioNonDefaultLocales.map((locale) => ({ params: { locale: localeSegment[locale] }, props: { locale } }));
 }
-const { locale } = Astro.props as { locale: Locale };
-const contentLocale = scenarioContentLocale(locale);
+const { locale } = Astro.props as { locale: AnyLocale };
 const copy = scenarioIndexCopy(locale);
+// A locale index is a real, self-canonical page only when the locale has translated guides (zh always does).
+// Otherwise it is a localized shell over the English guides: canonical -> English, not in the sitemap, and
+// hreflang lists only the indexes that are real. The switcher still offers every index that exists.
+const indexable = await getIndexableScenarioLocales();
+const selfIndexable = indexable.includes(locale);
 ---
 
-<Base locale={locale} contentLocale={contentLocale} route="/scenarios" title={copy.title} description={copy.description}
-  canonicalLocale={contentLocale} alternateLocales={["en", "zh"]}>
+<Base locale={locale} route="/scenarios" title={copy.title} description={copy.description}
+  canonicalLocale={selfIndexable ? locale : "en"} alternateLocales={indexable} languageLocales={scenarioLocales}>
   <ScenarioIndex locale={locale} />
 </Base>

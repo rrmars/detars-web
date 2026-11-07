@@ -1,10 +1,12 @@
 ---
 import ScenarioPage from "@/layouts/ScenarioPage.astro";
 import { getScenarios, scenarioSlug } from "@/lib/scenarios";
+import { localeSegment } from "@/lib/site";
 
+// One page per real translation (every locale except English, which lives at the site root).
 export async function getStaticPaths() {
-  return (await getScenarios()).filter((entry) => entry.data.locale === "zh").map((entry) => ({
-    params: { locale: "zh", slug: scenarioSlug(entry) }, props: { entry }
+  return (await getScenarios()).filter((entry) => entry.data.locale !== "en").map((entry) => ({
+    params: { locale: localeSegment[entry.data.locale], slug: scenarioSlug(entry) }, props: { entry }
   }));
 }
 const { entry } = Astro.props;

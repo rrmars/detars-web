@@ -1,6 +1,9 @@
 import { glob } from "astro/loaders";
 import { defineCollection } from "astro:content";
 import { z } from "astro:schema";
+import { scenarioLocales } from "./lib/site";
+
+const scenarioLocaleEnum = z.enum(scenarioLocales);
 
 // Research reports — see site-pack 17 (content engine spec).
 // Each report is produced by the research pack, evidence-sealed, peer-reviewed,
@@ -43,18 +46,18 @@ const scenarios = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    locale: z.enum(["en", "zh"]),
+    locale: scenarioLocaleEnum,
     slug: z.string(),
     translationKey: z.string(),
     domain: z.string(),
     publishedAt: z.coerce.date().nullable(),
     updatedAt: z.coerce.date().nullable(),
     researchDates: z.array(z.string()),
-    locales: z.array(z.enum(["en", "zh"])),
+    locales: z.array(scenarioLocaleEnum),
     producerDisplayLabel: z.string(),
     sources: z.array(z.object({ title: z.string(), url: z.string().url(), accessDate: z.string() })),
     headlineFigures: z.record(z.string(), z.unknown()),
-    audience: z.union([z.string(), z.object({ en: z.string().optional(), zh: z.string().optional() })]),
+    audience: z.union([z.string(), z.record(z.string(), z.string())]),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     draft: z.boolean().default(false)
   })

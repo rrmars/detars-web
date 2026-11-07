@@ -13,6 +13,8 @@ test("IndexNow includes only actual published research/scenario translations", (
       ["scenarios", "en", "bilingual", false],
       ["scenarios", "zh", "bilingual", false],
       ["scenarios", "zh", "not-ready", true],
+      ["scenarios", "pt-BR", "bilingual", false],
+      ["scenarios", "ko", "only-draft", true],
       ["research", "en", "original", false]
     ]) {
       const dir = join(root, "src/content", section, locale);
@@ -23,7 +25,9 @@ test("IndexNow includes only actual published research/scenario translations", (
     assert.ok(urls.includes("https://detars.xyz/scenarios/english-only"));
     assert.ok(urls.includes("https://detars.xyz/zh/scenarios/bilingual"));
     assert.ok(urls.includes("https://detars.xyz/research/original"));
-    assert.ok(!urls.some((url) => /zh\/scenarios\/english-only|not-ready|\/ja\//.test(url)));
+    assert.ok(urls.includes("https://detars.xyz/pt-br/scenarios/bilingual"));
+    assert.ok(urls.includes("https://detars.xyz/pt-br/scenarios"), "a locale index with a published guide");
+    assert.ok(!urls.some((url) => /zh\/scenarios\/english-only|not-ready|only-draft|\/ja\/|\/ko\//.test(url)), "no drafts, no index shells");
     assert.deepEqual(urls, [...new Set(urls)].sort());
   } finally {
     rmSync(root, { recursive: true, force: true });

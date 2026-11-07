@@ -9,12 +9,12 @@ import {
   siteName,
   toAbsoluteUrl,
   withLocale,
-  type Locale
+  type AnyLocale
 } from "@/lib/site";
 import "@/styles/global.css";
 
 type Props = {
-  locale: Locale;
+  locale: AnyLocale;
   route: string;
   title: string;
   description: string;
@@ -22,13 +22,13 @@ type Props = {
   ogDescription?: string;
   jsonLd?: Record<string, unknown>[];
   /** Point the canonical URL at another locale when this page duplicates it. */
-  canonicalLocale?: Locale;
+  canonicalLocale?: AnyLocale;
   /** Locales listed as hreflang alternates (default: all). */
-  alternateLocales?: readonly Locale[];
+  alternateLocales?: readonly AnyLocale[];
   /** Restrict a detail-page switch to translations that actually exist. */
-  languageLocales?: readonly Locale[];
+  languageLocales?: readonly AnyLocale[];
   /** English content fallback may retain a localized navigation shell. */
-  contentLocale?: Locale;
+  contentLocale?: AnyLocale;
   ogType?: "website" | "article";
 };
 
@@ -53,13 +53,19 @@ const alternates = alternateLocales.map((entry) => ({
   href: toAbsoluteUrl(withLocale(entry, route))
 }));
 
-const ogFile: Record<Locale, string> = {
+// Scenario-only locales have no localized social image yet and share the English one.
+const ogFile: Record<AnyLocale, string> = {
   en: "og.png",
   zh: "og-zh.png",
   "zh-Hant": "og-zh-hant.png",
   ja: "og-ja.png",
   fr: "og-fr.png",
-  es: "og-es.png"
+  es: "og-es.png",
+  id: "og.png",
+  "pt-BR": "og.png",
+  vi: "og.png",
+  th: "og.png",
+  ko: "og.png"
 };
 const ogImage = toAbsoluteUrl(`/og/${ogFile[contentLocale]}`);
 

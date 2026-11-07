@@ -1,46 +1,52 @@
 ---
 import { navItems } from "@/lib/nav";
-import { getScenarioCards, scenarioContentLocale, scenarioDate, scenarioDomain, scenarioDomains, scenarioIndexCopy, scenarioUrl } from "@/lib/scenarios";
-import { withLocale, type Locale } from "@/lib/site";
+import { getScenarioCards, scenarioDate, scenarioDomain, scenarioDomainName, scenarioDomains, scenarioUrl } from "@/lib/scenarios";
+import { scenarioChipLabel, scenarioCopy } from "@/lib/scenario-i18n";
+import { hreflangMap, isScenarioOnly, localeHtmlLang, withLocale, type AnyLocale, type Locale } from "@/lib/site";
 
-type Props = { locale: Locale };
+type Props = { locale: AnyLocale };
 const { locale } = Astro.props;
-const contentLocale = scenarioContentLocale(locale);
-const copy = scenarioIndexCopy(locale);
+const copy = scenarioCopy(locale);
 const cards = await getScenarioCards(locale);
+const pageLang = localeHtmlLang[locale];
+const hasFallback = locale !== "en" && cards.some((entry) => entry.data.locale !== locale);
+// Scenario-only locales have no Packs/Research pages to point to.
+const sectionNav = isScenarioOnly(locale) ? [] : navItems.filter((item) => ["/packs", "/scenarios", "/research"].includes(item.route));
+const chipLabel = (entry: (typeof cards)[number], language: AnyLocale) =>
+  language === "en" ? (entry.data.locales.length === 1 ? "English" : "EN") : scenarioChipLabel[language];
 ---
 
-<nav class="mobile-section-nav shell" aria-label={contentLocale === "zh" ? "相关栏目" : "Related sections"}>
-  {navItems.filter((item) => ["/packs", "/scenarios", "/research"].includes(item.route)).map((item) =>
-    <a href={withLocale(locale, item.route)} aria-current={item.route === "/scenarios" ? "page" : undefined}>{item.label[locale]}</a>
+{sectionNav.length > 0 && <nav class="mobile-section-nav shell" aria-label={copy.related} lang={pageLang}>
+  {sectionNav.map((item) =>
+    <a href={withLocale(locale as Locale, item.route)} aria-current={item.route === "/scenarios" ? "page" : undefined}>{item.label[locale as Locale]}</a>
   )}
-</nav>
-<section class="shell scenario-intro" lang={contentLocale}>
+</nav>}
+<section class="shell scenario-intro" lang={pageLang}>
   <span class="kicker">{copy.kicker}</span>
   <h1>{copy.heading}</h1>
   <p class="lead">{copy.intro}<br /><strong>{copy.invitation}</strong></p>
-  <div class="intro-bottom"><p>{copy.quiet}</p><a href={withLocale(locale, "/download")}>{copy.action}</a></div>
-  {locale !== "en" && locale !== "zh" && <p class="fallback-note">These guides are available in English and, where translated, Simplified Chinese. You are viewing the English collection.</p>}
+  <div class="intro-bottom"><p>{copy.quiet}</p><a href={isScenarioOnly(locale) ? withLocale("en", "/download") : withLocale(locale, "/download")} {...(isScenarioOnly(locale) ? { hreflang: "en" } : {})}>{copy.action}</a></div>
+  {hasFallback && <p class="fallback-note" data-fallback-note>{copy.fallbackNote}</p>}
 </section>
-<section class="shell scenario-collection" lang={contentLocale} data-scenario-collection>
-  <div class="filters" role="group" aria-label={contentLocale === "zh" ? "按领域筛选" : "Filter by domain"}>
+<section class="shell scenario-collection" lang={pageLang} data-scenario-collection>
+  <div class="filters" role="group" aria-label={copy.filter}>
     <button type="button" data-filter="all" aria-pressed="true" aria-controls="scenario-cards">{copy.all}</button>
-    {scenarioDomains.map((domain) => <button type="button" data-filter={domain.id} aria-pressed="false" aria-controls="scenario-cards">{domain[contentLocale]}</button>)}
+    {scenarioDomains.map((domain) => <button type="button" data-filter={domain.id} aria-pressed="false" aria-controls="scenario-cards">{scenarioDomainName(domain.id, locale)}</button>)}
   </div>
-  <div class="results-head"><span data-result-count data-count-label={copy.count} aria-live="polite" aria-atomic="true">{cards.length} {copy.count}</span><span>{contentLocale === "zh" ? "答案 · 假设 · 下一步" : "Answers · assumptions · next steps"}</span></div>
+  <div class="results-head"><span data-result-count data-count-label={copy.count} aria-live="polite" aria-atomic="true">{`${cards.length} ${copy.count}`}</span><span>{copy.meta}</span></div>
   <div class="scenario-cards" id="scenario-cards">
-    {cards.map((entry, index) => <article class:list={["scenario-card", { featured: index === 0 }]} data-domain={entry.data.domain} lang={entry.data.locale}>
-      <div class="card-top"><span>{scenarioDomain(entry, locale)}</span><span class="number">{String(index + 1).padStart(2, "0")}</span></div>
+    {cards.map((entry, index) => <article class:list={["scenario-card", { featured: index === 0 }]} data-domain={entry.data.domain} data-card-locale={entry.data.locale} lang={entry.data.locale}>
+      <div class="card-top"><span lang={pageLang}>{scenarioDomain(entry, locale)}</span>{entry.data.locale !== locale && locale !== "en" && <span class="fallback-tag" lang="en" data-english-fallback>English</span>}<span class="number">{String(index + 1).padStart(2, "0")}</span></div>
       <div class="language-chips" aria-label={copy.languages}>
-        {entry.data.locales.map((language) => <a href={withLocale(language, `/scenarios/${entry.data.slug}`)} hreflang={language === "zh" ? "zh-Hans" : "en"} lang={language}>{language === "zh" ? "中文" : entry.data.locales.length === 1 ? "English" : "EN"}</a>)}
+        {entry.data.locales.map((language) => <a href={withLocale(language, `/scenarios/${entry.data.slug}`)} hreflang={hreflangMap[language]} lang={language}>{chipLabel(entry, language)}</a>)}
       </div>
       <h2><a href={scenarioUrl(entry)}>{entry.data.title}</a></h2>
       <p class="answer">{entry.data.description}</p>
-      <div class="card-bottom"><span class="badge">{copy.producer}</span><span class="date">{copy.researched} · {scenarioDate(entry.data.publishedAt, locale)}</span></div>
-      <a class="card-action" href={scenarioUrl(entry)}>{copy.read}<span class="sr-only"> {entry.data.title}</span></a>
+      <div class="card-bottom"><span class="badge" lang={pageLang}>{copy.producer}</span><span class="date" lang={pageLang}>{copy.researched} · {scenarioDate(entry.data.publishedAt, locale)}</span></div>
+      <a class="card-action" href={scenarioUrl(entry)} lang={pageLang}>{copy.read}<span class="sr-only"> {entry.data.title}</span></a>
     </article>)}
   </div>
-  <p class="collection-note">{copy.note}</p>
+  <p class="collection-note" lang={pageLang}>{copy.note}</p>
 </section>
 
 <script>
@@ -77,6 +83,7 @@ const cards = await getScenarioCards(locale);
   .scenario-card { min-width: 0; border: 1px solid var(--line); border-radius: 16px; background: rgba(255,255,255,.025); padding: 24px; display: flex; flex-direction: column; overflow-wrap: anywhere; }
   .scenario-card[hidden] { display: none; }
   .scenario-card.featured { border-color: #ff6a3d66; background: linear-gradient(155deg,#ff6a3d0d,rgba(255,255,255,.025) 70%); }
+  .fallback-tag { margin-inline-start: auto; font-size: 10px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 1px 5px; line-height: 1.5; }
   .card-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; color: var(--accent2); font-size: 12px; line-height: 1.5; }
   .number { font: 11px var(--sg); color: var(--faint); }
   .language-chips { display: flex; gap: 5px; margin-top: 14px; }

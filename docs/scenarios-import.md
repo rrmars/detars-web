@@ -15,7 +15,7 @@ The importer reads the **current manifest**, never a frozen 53/85/90 count. It i
 
 ## Owned outputs
 
-- `src/content/scenarios/{en,zh}/<slug>.md`: required shared frontmatter, full visible original article, first body H1 removed, public-link/status edits, real FAQ metadata, expanded sources.
+- `src/content/scenarios/<locale>/<slug>.md` (any declared locale; see Locales below): required shared frontmatter, full visible original article, first body H1 removed, public-link/status edits, real FAQ metadata, expanded sources.
 - `src/data/scenarios/<slug>.json`: original semantic information with private filesystem provenance and historical Review schema removed; outside the content collection.
 - `src/data/scenario-domains.json`: exactly ten approved bilingual domains plus persistent slug assignments.
 - `public/scenarios/<slug>/*.xlsx`: only generated, privacy-approved publication copies. No HTML/PDF/CSV/evidence/source packages are published.
@@ -46,3 +46,12 @@ No public price, legal, availability, safety, source reachability, financial-mod
 `node --test scripts/import-scenarios.test.mjs` checks the shared contract, all ten domains/53 frozen assignments, only actual locales, real FAQ pairs, public source expansion, local link targets, removal of private locators/review schema/stale notices, line caps and llms coverage. With `SCENARIOS_PACKAGE`, it additionally verifies current input hashes, literal numeric preservation across every article and exact FAQ excerpts.
 
 The final rerun receipt is `docs/scenarios-import-verification.json`: hash inventory from two complete imports against the same manifest. Workbook gate details and any exclusions are in the privacy report; release integration/build/browser checks remain director-owned.
+
+## Locales
+
+A guide may be published in any locale the site declares: `en, zh, zh-Hant, ja, fr, es` (full site chrome) and `id, pt-BR, vi, th, ko` (scenario-only). English is required for every guide. The list lives in `src/lib/site.ts` (`locales`, `scenarioOnlyLocales`) and is mirrored in `scripts/scenarios/content.mjs` (`segments`, `labels`, `text`); `import-scenarios.test.mjs` fails if they drift. Content directories use the locale id (`zh-Hant`, `pt-BR`); URL segments are lower-case (`/zh-hant/`, `/pt-br/`).
+
+- **Importer.** Takes every locale present in `manifest.pages[slug]`, rejects unknown ones, requires `en`, requires `data.locales` to match, requires `data.producerDisplayLabel[locale]` to equal the site label, and writes the same checks per locale (FAQ pair count, source links, no local paths, approved workbooks). Translated FAQ sections are found by position: the `##` section at the English FAQ section's position, with the same question count (the date-evidence inventory only covers en/zh). Text the importer itself writes (sources heading/anchor, downloads, "not published") is localized in `content.mjs`.
+- **Scenario-only locales** (`id`, `pt-BR`, `vi`, `th`, `ko`) have a localized scenario index, article chrome, domain names, a one-link header and a small footer. Every other link (home, pricing, terms, privacy, refunds, download) goes to the English page, marked `hreflang="en"`. Non-scenario pages never list these locales in the language switcher or hreflang.
+- **Index fallback.** Every non-English locale has a scenario index listing every guide once: the locale's own translation where it exists, otherwise the English guide, tagged "English" and linked to the English URL. A locale index is a real page (self-canonical, in the sitemap, in hreflang and IndexNow) only if it has at least one translated guide (en and zh always); the rest are localized shells with `canonical` -> the English index and no sitemap entry. Detail pages exist only where a translation exists, and their switcher and hreflang list exactly those translations.
+- **Scratch imports.** `SCENARIOS_SITE_ROOT=<dir>` redirects importer output (used by the tests). `node scripts/verify-scenarios-build.mjs` (after `npm run build`) checks canonical, hreflang, switcher, dead links, sitemap and index rules for every locale.

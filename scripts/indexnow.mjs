@@ -9,27 +9,41 @@ const HOST = "detars.xyz";
 const KEY = "473acfa8ad1a5dd5eb541d231be60302";
 const ORIGIN = `https://${HOST}`;
 
+// URL segment of a content locale: English is the root, every other id is lower-cased (zh-Hant -> zh-hant).
+const segment = (locale) => (locale === "en" ? "" : `/${locale.toLowerCase()}`);
+
 export function collectUrls(root = ".") {
   const urls = new Set();
   for (const section of ["research", "scenarios"]) {
-    for (const locale of ["en", "zh"]) {
-      urls.add(`${ORIGIN}${locale === "zh" ? "/zh" : ""}/${section}`);
+    // Research has en/zh only. Scenarios may exist in any locale directory; a locale index is submitted
+    // only when it has a published guide (en/zh always), because other indexes canonicalize to English.
+    let locales = ["en", "zh"];
+    if (section === "scenarios") {
+      try {
+        locales = [...new Set([...locales, ...readdirSync(join(root, "src/content", section), { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name)])];
+      } catch (error) {
+        if (error.code !== "ENOENT") throw error;
+      }
+    }
+    for (const locale of locales) {
       let files;
       try {
         files = readdirSync(join(root, "src/content", section, locale)).sort();
       } catch (error) {
-        if (error.code === "ENOENT") continue;
+        if (error.code === "ENOENT") { if (locale === "en" || locale === "zh") urls.add(`${ORIGIN}${segment(locale)}/${section}`); continue; }
         throw error;
       }
+      const published = [];
       for (const file of files.filter((f) => /\.(md|mdx)$/.test(f))) {
         const body = readFileSync(join(root, "src/content", section, locale, file), "utf8");
         const match = body.match(/^---\r?\n([\s\S]*?)\r?\n---/);
         if (!match) throw new Error(`Missing frontmatter: ${section}/${locale}/${file}`);
         const data = parse(match[1]);
         if (data.draft) continue;
-        const slug = file.replace(/\.(md|mdx)$/, "");
-        urls.add(`${ORIGIN}${locale === "zh" ? "/zh" : ""}/${section}/${slug}`);
+        published.push(`${ORIGIN}${segment(locale)}/${section}/${file.replace(/\.(md|mdx)$/, "")}`);
       }
+      if (locale === "en" || locale === "zh" || published.length) urls.add(`${ORIGIN}${segment(locale)}/${section}`);
+      for (const url of published) urls.add(url);
     }
   }
   return [...urls].sort();

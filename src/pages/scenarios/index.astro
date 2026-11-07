@@ -1,10 +1,12 @@
 ---
 import Base from "@/layouts/Base.astro";
 import ScenarioIndex from "@/components/ScenarioIndex.astro";
-import { scenarioIndexCopy } from "@/lib/scenarios";
+import { getIndexableScenarioLocales, scenarioIndexCopy } from "@/lib/scenarios";
+import { scenarioLocales } from "@/lib/site";
 const copy = scenarioIndexCopy("en");
+const indexable = await getIndexableScenarioLocales();
 ---
 
-<Base locale="en" route="/scenarios" title={copy.title} description={copy.description} alternateLocales={["en", "zh"]}>
+<Base locale="en" route="/scenarios" title={copy.title} description={copy.description} alternateLocales={indexable} languageLocales={scenarioLocales}>
   <ScenarioIndex locale="en" />
 </Base>

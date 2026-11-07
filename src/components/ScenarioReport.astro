@@ -1,43 +1,49 @@
 ---
 import { render } from "astro:content";
 import { scenarioDate, scenarioDomain, type Scenario } from "@/lib/scenarios";
+import { scenarioCopy } from "@/lib/scenario-i18n";
 import { withLocale } from "@/lib/site";
 
 type Props = { entry: Scenario };
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
-const zh = d.locale === "zh";
+const copy = scenarioCopy(d.locale);
 const audience = typeof d.audience === "string" ? d.audience : d.audience[d.locale] ?? d.audience.en;
 ---
 
-<article class="scenario-report shell" lang={d.locale}>
+<article class="scenario-report shell" lang={d.locale} data-copied={copy.copied} data-copy-fail={copy.copyFail} data-table-label={copy.tableLabel}>
   <header class="report-head">
-    <a class="back" href={withLocale(d.locale, "/scenarios")}>← {zh ? "所有场景" : "All scenarios"}</a>
+    <a class="back" href={withLocale(d.locale, "/scenarios")}>← {copy.back}</a>
     <span class="kicker">{scenarioDomain(entry, d.locale)}</span>
     <h1>{d.title}</h1>
-    <p class="meta"><span>{zh ? "通用 Cowork 任务" : "General Cowork task"}</span><span>·</span><span>{zh ? "原始调研" : "Original research"} · <time datetime={d.publishedAt?.toISOString()}>{scenarioDate(d.publishedAt, d.locale)}</time></span></p>
+    <p class="meta"><span>{copy.producer}</span><span>·</span><span>{copy.originalResearch} · <time datetime={d.publishedAt?.toISOString()}>{scenarioDate(d.publishedAt, d.locale)}</time></span></p>
     {audience && <p class="audience">{audience}</p>}
   </header>
-  <p class="scroll-hint">{zh ? "宽表格可在表格内左右滑动。" : "Wide tables scroll horizontally within the article."}</p>
+  <p class="scroll-hint">{copy.scrollHint}</p>
   <div class="prose report-body"><Content /></div>
   <div class="request-tools" data-request-tools hidden>
-    <button type="button" class="btn-ghost" data-copy-request>{zh ? "复制上面的请求" : "Copy the request above"}</button>
+    <button type="button" class="btn-ghost" data-copy-request>{copy.copyRequest}</button>
     <span role="status" data-copy-status></span>
   </div>
   <!-- The importer appends one fully expanded, dated source list to Content.
        Keep a single source-list owner so long guides do not repeat every citation. -->
   <footer class="report-foot">
     <p>{d.producerDisplayLabel}</p>
-    <p>{zh ? "原始调研日期" : "Original research date"}: {d.researchDates.length ? d.researchDates.join(" · ") : scenarioDate(d.publishedAt, d.locale)}</p>
-    {d.updatedAt && <p>{zh ? "文章复核日期" : "Article recheck date"}: <time datetime={d.updatedAt.toISOString()}>{scenarioDate(d.updatedAt, d.locale)}</time></p>}
+    <p>{copy.researchDate}: {d.researchDates.length ? d.researchDates.join(" · ") : scenarioDate(d.publishedAt, d.locale)}</p>
+    {d.updatedAt && <p>{copy.recheckDate}: <time datetime={d.updatedAt.toISOString()}>{scenarioDate(d.updatedAt, d.locale)}</time></p>}
   </footer>
 </article>
 
 <script>
   document.querySelectorAll<HTMLElement>(".scenario-report").forEach((report) => {
     const body = report.querySelector(".report-body");
-    const heading = [...(body?.querySelectorAll("h2") ?? [])].find((node) => /(?:Ask|让).*DeTars/i.test(node.textContent ?? ""));
+    const headings = [...(body?.querySelectorAll("h2") ?? [])];
+    // en/zh headings are matched by their original wording. Other languages name DeTars in the
+    // request heading too, so the last "DeTars" heading that is followed by a request block wins.
+    const classic = report.lang === "en" || report.lang === "zh";
+    const heading = classic ? headings.find((node) => /(?:Ask|让).*DeTars/i.test(node.textContent ?? ""))
+      : headings.filter((node) => /DeTars/i.test(node.textContent ?? "")).at(-1);
     let node = heading?.nextElementSibling;
     while (node && !["H2", "BLOCKQUOTE", "PRE"].includes(node.tagName)) node = node.nextElementSibling;
     const request = node && ["BLOCKQUOTE", "PRE"].includes(node.tagName) ? node.textContent?.trim() : undefined;
@@ -46,21 +52,20 @@ const audience = typeof d.audience === "string" ? d.audience : d.audience[d.loca
     const status = report.querySelector<HTMLElement>("[data-copy-status]");
     if (!request || !tools || !button || !status) return;
     tools.hidden = false;
-    const zh = report.lang === "zh";
     button.addEventListener("click", async () => {
       try {
         await navigator.clipboard.writeText(request);
-        status.textContent = zh ? "已复制，可以填写你的情况了。" : "Copied. Fill in your own details.";
+        status.textContent = report.dataset.copied ?? "";
       } catch {
-        status.textContent = zh ? "请选中上面的请求并手动复制。" : "Please select the request above and copy it manually.";
+        status.textContent = report.dataset.copyFail ?? "";
       }
     });
   });
   // Native CSS scrolling works without JavaScript; add keyboard access and labels.
   document.querySelectorAll<HTMLTableElement>(".scenario-report .report-body table").forEach((table, index) => {
     table.tabIndex = 0;
-    const zh = table.closest("article")?.getAttribute("lang") === "zh";
-    table.setAttribute("aria-label", zh ? `数据表 ${index + 1}，可左右滚动` : `Data table ${index + 1}, horizontally scrollable`);
+    const label = table.closest<HTMLElement>("article")?.dataset.tableLabel ?? "Data table {n}";
+    table.setAttribute("aria-label", label.replace("{n}", String(index + 1)));
   });
 </script>
 
