@@ -130,7 +130,7 @@ test('optional current-package input snapshot and real source FAQs still match',
       assert.deepEqual(numbers(publishedBody), numbers(originalBody), `${slug}/${locale}: visible numeric literals changed`);
       const externalUrls = body => [...body.matchAll(/https?:\/\/[^\s<>)]+/g)].map(m => m[0]).sort();
       assert.deepEqual(externalUrls(publishedBody), externalUrls(originalBody), `${slug}/${locale}: external citations changed`);
-      for (const line of originalBody.split('\n').filter(line => line.trim() && !/draft.package|本地草稿|local files|local downloads|public downloads|public download|本地文件|配套文件|同级|公开下载|\]\((?!https?:|#)|(?:\.\.\/)|\/(?:Volumes|Users)\//i.test(line))) assert.ok(publishedBody.includes(line), `${slug}/${locale}: unrequested article change: ${line.slice(0, 100)}`);
+      for (const line of originalBody.split('\n').filter(line => line.trim() && !/draft.package|本地草稿|local files|local downloads|public downloads|public download|本地文件|配套文件|同级|公开下载|\]\((?!https?:|#)|(?:\.\.\/)|\/(?:Volumes|Users)\//i.test(line))) assert.ok(publishedBody.includes(line.replace(/(?<=\S) $/, '')), `${slug}/${locale}: unrequested article change: ${line.slice(0, 100)}`);
       for (const section of (locale === 'en' || locale === 'zh') ? evidence.faqInventory.sectionsBySlug[slug]?.[locale] || [] : []) {
         for (const question of section.questions) assert.ok(sourceText.includes(question.sourceExcerpt), `${slug}/${locale}: evidence no longer matches source`);
       }
@@ -176,7 +176,8 @@ test('every sources link points at a heading id that exists in the built page (w
   for (const [slug, guide] of Object.entries(audit.guides)) for (const locale of guide.locales) {
     if (locale === 'en' || locale === 'zh') continue;
     const html = read(`dist${scenarioPath(locale, slug)}index.html`);
-    assert.ok(html.includes(`href="#${sourcesAnchor(locale)}"`) || !html.includes('href="#'), `${slug}/${locale}: sources link`);
+    const anchor = sourcesAnchor(locale);
+    assert.ok(html.includes(`href="#${anchor}"`) || html.includes(`href="#${encodeURIComponent(anchor)}"`) || !html.includes('href="#'), `${slug}/${locale}: sources link`);
     assert.ok(html.includes(`id="${sourcesAnchor(locale)}"`), `${slug}/${locale}: heading id ${sourcesAnchor(locale)}`);
     checked++;
   }

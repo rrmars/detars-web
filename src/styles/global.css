@@ -27,6 +27,9 @@ body {
   min-height: 100vh;
 }
 body[data-locale="en"] { font-family: "Space Grotesk", "Noto Sans SC", system-ui, sans-serif; }
+/* Scenario-only scripts: name the system faces explicitly so Thai and Hangul do not fall through to a CJK-first stack. */
+body[data-locale="th"] { font-family: "Space Grotesk", "Noto Sans Thai", "Thonburi", "Leelawadee UI", "Tahoma", system-ui, sans-serif; }
+body[data-locale="ko"] { font-family: "Space Grotesk", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif; }
 
 a { color: inherit; text-decoration: none; }
 img { max-width: 100%; }

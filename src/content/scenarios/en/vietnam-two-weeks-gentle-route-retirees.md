@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "ko"
 producerDisplayLabel: "Produced by a general Cowork task on DeTars.xyz"
 sources:
   - title: "Korean MOFA notice"
@@ -140,7 +141,9 @@ headlineFigures:
     value: 684444
     unit: "KRW"
     display: "KRW 684,444"
-audience: "English- and Chinese-speaking travellers comparing a slower Vietnam route, retaining the South Korean passport-holding retired couple aged 66 and Korea-issued insurance assumptions."
+audience:
+  en: "English- and Chinese-speaking travellers comparing a slower Vietnam route, retaining the South Korean passport-holding retired couple aged 66 and Korea-issued insurance assumptions."
+  ko: "느린 베트남 일정을 비교하는 영어·중국어권 여행자. 66세 한국 여권 소지 은퇴 부부와 한국에서 발급한 보험 가정을 그대로 유지합니다."
 faq: []
 draft: false
 ---

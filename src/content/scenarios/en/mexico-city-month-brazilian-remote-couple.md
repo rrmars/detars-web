@@ -11,6 +11,7 @@ researchDates:
   - "2026-11-07"
 locales:
   - "en"
+  - "pt-BR"
 producerDisplayLabel: "Produced by a general Cowork task on DeTars.xyz"
 sources:
   - title: "Banco de México historical table"
@@ -128,7 +129,9 @@ headlineFigures:
     value: 24850
     unit: "MXN"
     display: "MXN 24,850"
-audience: "Brazilian ordinary-passport couple paid in BRL by Brazilian employers, planning a March 2027 Mexico City working month from Sao Paulo/GRU within BRL 22,000."
+audience:
+  en: "Brazilian ordinary-passport couple paid in BRL by Brazilian employers, planning a March 2027 Mexico City working month from Sao Paulo/GRU within BRL 22,000."
+  pt-BR: "Casal brasileiro com passaporte comum, pago em BRL por empregadores brasileiros, que planeja um mês de trabalho na Cidade do México em março de 2027, saindo de São Paulo/GRU, com orçamento de até BRL 22.000."
 faq: []
 draft: false
 ---

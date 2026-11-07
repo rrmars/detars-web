@@ -1,9 +1,10 @@
 {
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "es"
   ],
-  "sourceDataSha256": "1e686aa20ce120a8bc84a36858020ef8b0122491805c27902ffd6cfb78ed5803",
+  "sourceDataSha256": "1d997cbbe20976276e96e517e5ba4000e56297a67d2171738d49a55d3f93a47b",
   "sourceListLink": "../w5-remote-job-mx/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -18,6 +19,11 @@
     },
     "zh": {
       "sourceMarkdownSha256": "84204a05862658a071f643b0ea5002c590303ee447ab089ea7f0b3770bde9c3b",
+      "faqPairs": 0,
+      "links": []
+    },
+    "es": {
+      "sourceMarkdownSha256": "58da60f2d7fab764053628b6458c6ba75b663ce0ce6b9f5e90a70f00a15046ff",
       "faqPairs": 0,
       "links": []
     }

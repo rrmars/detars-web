@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "vi"
 producerDisplayLabel: "Produced by a general Cowork task on DeTars.xyz"
 sources:
   - title: "V1 — Home Affairs — Student visa (subclass 500)"
@@ -144,7 +145,9 @@ headlineFigures:
     label: "Unquoted lean Melbourne weekly allocation; actual suitable housing required"
     unit: "unquoted_weekly_living_allowance"
     currency: "AUD"
-audience: "Vietnamese Finance graduate in Ho Chi Minh City with IELTS overall 6.5 and an AUD 120,000 family ceiling, comparing Melbourne/Sydney coursework masters; Simplified Chinese enables route comparison without changing Vietnamese passport, admissions or scholarship eligibility."
+audience:
+  en: "Vietnamese Finance graduate in Ho Chi Minh City with IELTS overall 6.5 and an AUD 120,000 family ceiling, comparing Melbourne/Sydney coursework masters; Simplified Chinese enables route comparison without changing Vietnamese passport, admissions or scholarship eligibility."
+  vi: "Cử nhân Tài chính người Việt tại TP. Hồ Chí Minh, IELTS tổng thể 6,5 và mức trần ngân sách gia đình AUD 120.000, so sánh các chương trình thạc sĩ coursework ở Melbourne/Sydney; hộ chiếu Việt Nam, điều kiện tuyển sinh và học bổng không thay đổi."
 faq: []
 draft: false
 ---

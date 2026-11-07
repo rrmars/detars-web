@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "zh-Hant"
 producerDisplayLabel: "Produced by a general Cowork task on DeTars.xyz"
 sources:
   - title: "N1 — DfE foreign-national/overseas admissions guidance — DfE overseas-admissions guidance"
@@ -223,6 +224,7 @@ headlineFigures:
 audience:
   en: "Hong Kong BN(O) families already near south Manchester comparing secondary transfers, academic-English support and Cantonese/Chinese continuity."
   zh: "已在南曼彻斯特附近居住、比较中学转学、学术英语支持及粤语中文延续的香港 BN(O) 家庭。"
+  zh-Hant: "已住在曼徹斯特南部附近、正在比較中學轉校、學術英語支援與粵語／中文延續性的香港 BN(O) 家庭。"
 faq: []
 draft: false
 ---

@@ -1,9 +1,10 @@
 {
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "zh-Hant"
   ],
-  "sourceDataSha256": "a9a2bea680a3a6a74c96345487e523a77e0009833d61fb6b19d9cbacc963c72e",
+  "sourceDataSha256": "29ab203433d4b2be5ebe2538ffbf0439fbeecc9e6f0463dfcc98d5ffe5e3ec22",
   "sourceListLink": "../w7-manchester-hk-family-secondary-school/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -18,6 +19,11 @@
     },
     "zh": {
       "sourceMarkdownSha256": "9b2146ca259e9ca734457432d1a9cc4a98eede5c00b41d724672323719bba141",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh-Hant": {
+      "sourceMarkdownSha256": "51242ba1caa77c5e349c1bfc6859e930bccd4771401867b205fc1e91089ec4e9",
       "faqPairs": 0,
       "links": []
     }

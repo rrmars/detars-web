@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "zh-Hant"
 producerDisplayLabel: "本文由 DeTars.xyz 的通用 Cowork 任务产出"
 sources:
   - title: "EDB example calendar"
@@ -147,7 +148,9 @@ headlineFigures:
     value: 5160
     unit: "HKD_rental_model"
     display: "HK$5,160"
-audience: "Hong Kong family of two adults and children aged 7 and 11 considering a first Niseko ski week over Lunar New Year, preserving HKSAR-passport-specific entry conditions."
+audience:
+  en: "Hong Kong family of two adults and children aged 7 and 11 considering a first Niseko ski week over Lunar New Year, preserving HKSAR-passport-specific entry conditions."
+  zh-Hant: "計畫在農曆新年期間第一次去二世古滑雪一週的香港家庭：兩位大人、七歲與十一歲的孩子，並保留持香港特區護照的入境條件。"
 faq: []
 draft: false
 ---

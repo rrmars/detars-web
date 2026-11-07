@@ -212,13 +212,19 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "es": "Producido por una tarea general de Cowork en DeTars.xyz"
   },
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "es"
   ],
-  "audience": "English serves Mexico-based applicants seeking global teams; Simplified Chinese serves Chinese-speaking readers based in Mexico. No additional language is needed without a regional audience requirement.",
+  "audience": {
+    "en": "English serves Mexico-based applicants seeking global teams; Simplified Chinese serves Chinese-speaking readers based in Mexico. No additional language is needed without a regional audience requirement.",
+    "es": "Solicitantes radicados en México que buscan empleo en equipos globales, y lectores de habla china radicados en México."
+  },
+  "localeReason": "Latin American Spanish (Mexican reader) added for Mexico-based applicants; Simplified Chinese remains. No change to eligibility.",
   "domain": "careers",
   "researchDates": [
     "2026-11-05"

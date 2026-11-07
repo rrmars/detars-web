@@ -1,9 +1,10 @@
 {
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "vi"
   ],
-  "sourceDataSha256": "18a4158f8239f3a08dc7d44aef39ef416a26293413d28433164f0677b93531a0",
+  "sourceDataSha256": "d0373922772b6f80a4ca6895459455a2ce09c3bc078f88a910fc8f4146f7099d",
   "sourceListLink": "../w6-australia-masters-vietnam/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -18,6 +19,11 @@
     },
     "zh": {
       "sourceMarkdownSha256": "d47be0db8202f1f57f7852ffb08a3e3af73c33fa73b489b992d493c8710b1329",
+      "faqPairs": 0,
+      "links": []
+    },
+    "vi": {
+      "sourceMarkdownSha256": "b5c7be2f378a9126a2911d8c94bc1fa79365e00cd5074ba978abfb2a15dc84c1",
       "faqPairs": 0,
       "links": []
     }

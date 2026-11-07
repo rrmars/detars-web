@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "th"
 producerDisplayLabel: "本文由 DeTars.xyz 的通用 Cowork 任务产出"
 sources:
   - title: "ExpatDen secondary annual-tax guide"
@@ -98,7 +99,9 @@ headlineFigures:
     value: 8.42
     unit: "years"
     display: "8.42"
-audience: "Bangkok resident families, including Chinese-speaking households, comparing Thai-market EV, hybrid and petrol cars and condo charging; Bang Na family-of-four and early-2027 finance assumptions unchanged."
+audience:
+  en: "Bangkok resident families, including Chinese-speaking households, comparing Thai-market EV, hybrid and petrol cars and condo charging; Bang Na family-of-four and early-2027 finance assumptions unchanged."
+  th: "ครอบครัวที่อาศัยในกรุงเทพฯ รวมถึงครัวเรือนที่พูดภาษาจีน ที่กำลังเปรียบเทียบรถ EV ไฮบริด และเบนซินในตลาดไทย พร้อมการชาร์จที่คอนโด โดยคงสมมติฐานครอบครัว 4 คนที่บางนาและการเงินช่วงต้นปี 2027 ไว้เหมือนเดิม"
 faq: []
 draft: false
 ---

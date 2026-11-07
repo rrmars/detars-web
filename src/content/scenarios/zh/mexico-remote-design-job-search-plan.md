@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "es"
 producerDisplayLabel: "本文由 DeTars.xyz 的通用 Cowork 任务产出"
 sources:
   - title: "HireTalent.lat — Product Designer Salary in Latin America"
@@ -129,7 +130,9 @@ headlineFigures:
     value: 95
     unit: "new_messages"
     display: "95"
-audience: "English serves Mexico-based applicants seeking global teams; Simplified Chinese serves Chinese-speaking readers based in Mexico. No additional language is needed without a regional audience requirement."
+audience:
+  en: "English serves Mexico-based applicants seeking global teams; Simplified Chinese serves Chinese-speaking readers based in Mexico. No additional language is needed without a regional audience requirement."
+  es: "Solicitantes radicados en México que buscan empleo en equipos globales, y lectores de habla china radicados en México."
 faq: []
 draft: false
 ---

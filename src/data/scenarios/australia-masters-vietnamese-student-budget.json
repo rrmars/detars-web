@@ -5,13 +5,18 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "vi": "Bài viết do một tác vụ Cowork thông dụng trên DeTars.xyz thực hiện"
   },
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "vi"
   ],
-  "audience": "Vietnamese Finance graduate in Ho Chi Minh City with IELTS overall 6.5 and an AUD 120,000 family ceiling, comparing Melbourne/Sydney coursework masters; Simplified Chinese enables route comparison without changing Vietnamese passport, admissions or scholarship eligibility.",
+  "audience": {
+    "en": "Vietnamese Finance graduate in Ho Chi Minh City with IELTS overall 6.5 and an AUD 120,000 family ceiling, comparing Melbourne/Sydney coursework masters; Simplified Chinese enables route comparison without changing Vietnamese passport, admissions or scholarship eligibility.",
+    "vi": "Cử nhân Tài chính người Việt tại TP. Hồ Chí Minh, IELTS tổng thể 6,5 và mức trần ngân sách gia đình AUD 120.000, so sánh các chương trình thạc sĩ coursework ở Melbourne/Sydney; hộ chiếu Việt Nam, điều kiện tuyển sinh và học bổng không thay đổi."
+  },
   "sources": [
     {
       "title": "V1 — Home Affairs — Student visa (subclass 500)",
@@ -377,6 +382,7 @@
     "No application, account, contact, payment, booking, publication, source-run edit or website repository edit. Parent owns inventory, HTML build and full-package checks; author verifies only assigned MD/JSON and review."
   ],
   "editingContract": "Local English and Simplified Chinese Markdown, schemaVersion 2 JSON and author-review only. Preserve useful courses, eligibility, full budgets, scholarships, deadlines, visa/policy status and warnings; numeric/date/currency/URL multiplicities and corresponding table cells checked read-only with content_utils. No shared builder/checker/inventory/README modifications, Review/stars or reader directions to unhosted local attachments.",
+  "localeReason": "Vietnamese added for the Vietnamese applicant profile; Simplified Chinese remains for route comparison. Neither changes Vietnamese passport, admissions or scholarship eligibility.",
   "domain": "study",
   "researchDates": [
     "2026-11-06"

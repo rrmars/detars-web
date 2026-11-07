@@ -1,9 +1,10 @@
 {
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "th"
   ],
-  "sourceDataSha256": "b6888e43bb9ac83d754688227957bc347b63588db9aed1775f605a8296179e35",
+  "sourceDataSha256": "ffc335af6702ca6fc08edc6b476b3b128c4cf003d2e2536e952b590a5782364a",
   "sourceListLink": "../w7-bangkok-family-car-ev-hybrid-petrol/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -18,6 +19,11 @@
     },
     "zh": {
       "sourceMarkdownSha256": "23c51f9870880aaf6171e9c96de1d77914348605c97164d840a0c82a5db1b92f",
+      "faqPairs": 0,
+      "links": []
+    },
+    "th": {
+      "sourceMarkdownSha256": "f6949e1d25e128220ef7d317f7e755d247d6d577d449c45fc1236060e8d8d78f",
       "faqPairs": 0,
       "links": []
     }

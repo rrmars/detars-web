@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "vi"
 producerDisplayLabel: "Produced by a general Cowork task on DeTars.xyz"
 sources:
   - title: "Juso · Yodogawa-ku"
@@ -123,7 +124,9 @@ headlineFigures:
     value: 1450000
     unit: "JPY"
     display: "¥1,450,000"
-audience: "Newcomers comparing Osaka rental cash, guarantors and commutes, including Chinese-speaking readers; the worked applicant remains Vietnamese engineer Linh with N4 Japanese and an Umeda job."
+audience:
+  en: "Newcomers comparing Osaka rental cash, guarantors and commutes, including Chinese-speaking readers; the worked applicant remains Vietnamese engineer Linh with N4 Japanese and an Umeda job."
+  vi: "Người mới đến so sánh tiền mặt thuê nhà, người bảo lãnh và quãng đường đi làm ở Osaka, kể cả độc giả nói tiếng Trung; ví dụ vẫn là kỹ sư người Việt Linh, trình độ tiếng Nhật N4, làm việc tại Umeda."
 faq: []
 draft: false
 ---

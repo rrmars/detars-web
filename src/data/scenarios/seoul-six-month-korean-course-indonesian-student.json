@@ -5,14 +5,19 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "id": "Dibuat oleh tugas Cowork umum di DeTars.xyz"
   },
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "id"
   ],
-  "audience": "Prospective Korean-language students, including Chinese-speaking readers, comparing funding and arrival routes; the example remains Putri, a 22-year-old Indonesian citizen planning two 10-week terms in Seoul, not a full year.",
-  "localeReason": "English and Chinese make the budget-planning and language-study route useful to Chinese-speaking prospective students without changing the Indonesian applicant, nationality-specific eligibility or named Yonsei KLI example.",
+  "audience": {
+    "en": "Prospective Korean-language students, including Chinese-speaking readers, comparing funding and arrival routes; the example remains Putri, a 22-year-old Indonesian citizen planning two 10-week terms in Seoul, not a full year.",
+    "id": "Calon pelajar bahasa Korea, termasuk pembaca berbahasa Mandarin, yang membandingkan pendanaan dan jalur kedatangan; contohnya tetap Putri, warga negara Indonesia berusia 22 tahun yang merencanakan dua term 10 minggu di Seoul, bukan satu tahun penuh."
+  },
+  "localeReason": "English, Chinese and Indonesian: the worked example is an Indonesian applicant and Indonesian-language readers are a direct audience for the funding and arrival route. The Indonesian translation changes no nationality-specific eligibility or the named Yonsei KLI example.",
   "sources": [
     {
       "title": "Indonesian embassy D-4 guidance",

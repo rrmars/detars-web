@@ -1,9 +1,10 @@
 {
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "zh-Hant"
   ],
-  "sourceDataSha256": "be3cf4b63b4d3057131f3c3323fef5ffe54dff1333a3c4ece080283ecf9a053a",
+  "sourceDataSha256": "7c808234a865df9f28759aacc28a47ad80a9e57a80b699fbee805afa6b2c42b4",
   "sourceListLink": "../w6-japan-wh-taiwan/sources.md",
   "footerDisposition": "expanded-external-sources",
   "dateBasis": "provenance.researchDates",
@@ -18,6 +19,11 @@
     },
     "zh": {
       "sourceMarkdownSha256": "e45fb1fef10aebf13080a76f05ece472f5a0371f9ea65cafd2305276f5a30f18",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh-Hant": {
+      "sourceMarkdownSha256": "4e1686954e6ea3c74457bc5f2a11f8a4d6d270fc22d1832c1ae8956568345d5f",
       "faqPairs": 0,
       "links": []
     }

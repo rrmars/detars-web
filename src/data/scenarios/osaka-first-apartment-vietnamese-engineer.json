@@ -198,14 +198,19 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "vi": "Bài viết do một tác vụ Cowork thông dụng trên DeTars.xyz thực hiện"
   },
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "vi"
   ],
-  "audience": "Newcomers comparing Osaka rental cash, guarantors and commutes, including Chinese-speaking readers; the worked applicant remains Vietnamese engineer Linh with N4 Japanese and an Umeda job.",
-  "localeReason": "English and Chinese make first-rental cash, guarantee and commute choices useful to Chinese-speaking newcomers without changing the original Vietnamese applicant or eligibility.",
+  "audience": {
+    "en": "Newcomers comparing Osaka rental cash, guarantors and commutes, including Chinese-speaking readers; the worked applicant remains Vietnamese engineer Linh with N4 Japanese and an Umeda job.",
+    "vi": "Người mới đến so sánh tiền mặt thuê nhà, người bảo lãnh và quãng đường đi làm ở Osaka, kể cả độc giả nói tiếng Trung; ví dụ vẫn là kỹ sư người Việt Linh, trình độ tiếng Nhật N4, làm việc tại Umeda."
+  },
+  "localeReason": "English, Chinese and Vietnamese: the worked applicant is a Vietnamese engineer, so Vietnamese-language newcomers are a direct audience. The Vietnamese translation changes neither the original applicant nor eligibility.",
   "domain": "housing",
   "researchDates": [
     "2026-11-07"

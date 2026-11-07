@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "id"
 producerDisplayLabel: "本文由 DeTars.xyz 的通用 Cowork 任务产出"
 sources:
   - title: "Indonesian embassy D-4 guidance"
@@ -102,7 +103,9 @@ headlineFigures:
     value: 990000
     unit: "KRW_per_month"
     display: "KRW 990,000"
-audience: "Prospective Korean-language students, including Chinese-speaking readers, comparing funding and arrival routes; the example remains Putri, a 22-year-old Indonesian citizen planning two 10-week terms in Seoul, not a full year."
+audience:
+  en: "Prospective Korean-language students, including Chinese-speaking readers, comparing funding and arrival routes; the example remains Putri, a 22-year-old Indonesian citizen planning two 10-week terms in Seoul, not a full year."
+  id: "Calon pelajar bahasa Korea, termasuk pembaca berbahasa Mandarin, yang membandingkan pendanaan dan jalur kedatangan; contohnya tetap Putri, warga negara Indonesia berusia 22 tahun yang merencanakan dua term 10 minggu di Seoul, bukan satu tahun penuh."
 faq: []
 draft: false
 ---

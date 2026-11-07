@@ -534,17 +534,20 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "zh-Hant": "本文由 DeTars.xyz 的通用 Cowork 任務產出"
   },
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "zh-Hant"
   ],
   "audience": {
     "en": "Hong Kong BN(O) families already near south Manchester comparing secondary transfers, academic-English support and Cantonese/Chinese continuity.",
-    "zh": "已在南曼彻斯特附近居住、比较中学转学、学术英语支持及粤语中文延续的香港 BN(O) 家庭。"
+    "zh": "已在南曼彻斯特附近居住、比较中学转学、学术英语支持及粤语中文延续的香港 BN(O) 家庭。",
+    "zh-Hant": "已住在曼徹斯特南部附近、正在比較中學轉校、學術英語支援與粵語／中文延續性的香港 BN(O) 家庭。"
   },
-  "localeReason": "English and Chinese serve the assigned Hong Kong family and Chinese-speaking parents making the same decision; eligibility is unchanged. Traditional Chinese would better fit many Hong Kong readers, but this package has only a Simplified Chinese zh locale, a limitation explicitly acknowledged rather than relabelled zh-Hant.",
+  "localeReason": "Traditional Chinese (zh-Hant) added for Hong Kong BN(O) families, alongside Simplified Chinese; eligibility is unchanged.",
   "domain": "study",
   "researchDates": [
     "2026-11-07"

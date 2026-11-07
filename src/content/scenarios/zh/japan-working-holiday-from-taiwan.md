@@ -12,6 +12,7 @@ researchDates:
 locales:
   - "en"
   - "zh"
+  - "zh-Hant"
 producerDisplayLabel: "本文由 DeTars.xyz 的通用 Cowork 任务产出"
 sources:
   - title: "Working Holiday index"
@@ -150,7 +151,9 @@ headlineFigures:
     unit: "monthly_estimate"
     display: "180,000"
     currency: "JPY"
-audience: "Taiwan-resident Taiwan-passport applicants planning a Japan Working Holiday and a first Tokyo stay; English and package-only Simplified Chinese retain Taiwan-specific eligibility. Traditional Chinese is likely the better audience fit for eventual Taiwan-facing publication."
+audience:
+  en: "Taiwan-resident Taiwan-passport applicants planning a Japan Working Holiday and a first Tokyo stay; English and package-only Simplified Chinese retain Taiwan-specific eligibility. Traditional Chinese is likely the better audience fit for eventual Taiwan-facing publication."
+  zh-Hant: "居住在台灣、持台灣護照，計畫申請日本打工度假並第一次到東京生活的申請人；保留台灣專屬的資格條件。"
 faq: []
 draft: false
 ---

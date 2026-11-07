@@ -240,14 +240,19 @@
   "producedBy": "cowork",
   "producerDisplayLabel": {
     "en": "Produced by a general Cowork task on DeTars.xyz",
-    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "zh-Hant": "本文由 DeTars.xyz 的通用 Cowork 任務產出"
   },
   "locales": [
     "en",
-    "zh"
+    "zh",
+    "zh-Hant"
   ],
-  "audience": "Hong Kong family of two adults and children aged 7 and 11 considering a first Niseko ski week over Lunar New Year, preserving HKSAR-passport-specific entry conditions.",
-  "localeReason": "English and Simplified Chinese make this Hong Kong family decision accessible in the supported locales. Traditional Chinese would better suit the Hong Kong audience, but it is unsupported by this package; no Traditional Chinese version is claimed.",
+  "audience": {
+    "en": "Hong Kong family of two adults and children aged 7 and 11 considering a first Niseko ski week over Lunar New Year, preserving HKSAR-passport-specific entry conditions.",
+    "zh-Hant": "計畫在農曆新年期間第一次去二世古滑雪一週的香港家庭：兩位大人、七歲與十一歲的孩子，並保留持香港特區護照的入境條件。"
+  },
+  "localeReason": "Traditional Chinese (zh-Hant) added for the Hong Kong audience, alongside Simplified Chinese. It changes no HKSAR-passport entry condition.",
   "domain": "travel",
   "researchDates": [
     "2026-11-06"
