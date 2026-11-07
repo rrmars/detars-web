@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "sourceDataSha256": "76f297a85aa8383f0c97bb300c4717b3f4e978bc8aeb5afccecd5c861b80b657",
+  "sourceListLink": "../w8-japanese-working-holiday-canada/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b4e4dc7c1d4cfa5f8c8a718334e2d61b40a9fae3d2219b70cc7556dfb756b9d1",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ja": {
+      "sourceMarkdownSha256": "3a390c299c9ad24564620c7759c32a773c1dd0a8a48681e198cf70da99a00a5d",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

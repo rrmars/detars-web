@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "sourceDataSha256": "eb67e154d99dc50df64e3f2b9c2ed8f9d47cd56156baaf2beb1fcb34f3572c39",
+  "sourceListLink": "../w8-french-graduate-uk-masters/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "b0f5cd75ef0ef562c9bc293e4bec2bff97f6251581a6aed75bfb8a686e3cf6a2",
+      "faqPairs": 0,
+      "links": []
+    },
+    "fr": {
+      "sourceMarkdownSha256": "436a1e87db8425472186b481f8456b38f037e7ed2b0312fc1ba5b76758e0c208",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

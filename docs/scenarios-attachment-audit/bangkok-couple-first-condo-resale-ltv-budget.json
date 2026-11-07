@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "th"
+  ],
+  "sourceDataSha256": "50a36c3011d96de890a2fdcf52dd3e34442d78ebe84d7f597d4a1fe3ab2a6280",
+  "sourceListLink": "../w8-bangkok-couple-first-condo/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "464435daf19db58c06879577dba4c981b95870c7da645602321468eb341b3a14",
+      "faqPairs": 0,
+      "links": []
+    },
+    "th": {
+      "sourceMarkdownSha256": "64baa1d5169f01ebcba7ae04be3ffe264e4fc36a6097641cbd780ecd11ced6fd",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

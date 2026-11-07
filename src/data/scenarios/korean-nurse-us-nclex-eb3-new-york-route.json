@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 2,
+  "slug": "korean-nurse-us-nclex-eb3-new-york-route",
+  "translationKey": "korean-nurse-us-nclex-eb3-new-york-route",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ko": "DeTars.xyz의 범용 Cowork 작업으로 작성된 글입니다"
+  },
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "audience": {
+    "en": "A Korean registered nurse with a BSN, an IELTS Academic score of 6.5 overall and about ₩25,000,000 in savings, weighing RN work in the US through NCLEX-RN and an EB-3 green card, with or without a recruitment agency.",
+    "ko": "BSN을 가졌고 IELTS 아카데믹 종합 6.5를 받았으며 저축이 약 ₩25,000,000인 한국 간호사로, NCLEX-RN과 EB-3 영주권을 통한 미국 RN 취업을 채용 에이전시를 거치거나 거치지 않고 고민하는 분을 위한 가이드입니다."
+  },
+  "localeReason": "Korean serves this decision directly: the reader is a nurse in Korea who must match Korean school and licence paperwork to New York, TruMerit and HRSA requirements and read an agency contract before signing. Reading the conditions, the wait arithmetic and the open issues in Korean helps compare a recruiter's terms with the official wording. It changes no fee, score, date or rule.",
+  "sources": [
+    {
+      "title": "nclex.com: /fees-payment.page",
+      "url": "https://www.nclex.com/fees-payment.page",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nclex.com: /registration.page",
+      "url": "https://www.nclex.com/registration.page",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nclex.com: /scheduling.page",
+      "url": "https://www.nclex.com/scheduling.page",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nclex.com: /testing-locations.page",
+      "url": "https://www.nclex.com/testing-locations.page",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "op.nysed.gov: /professions/registered-professional-nursing/license-requirements/pathway-5",
+      "url": "https://www.op.nysed.gov/professions/registered-professional-nursing/license-requirements/pathway-5",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "op.nysed.gov: /professions/registered-professional-nursing/license-requirements",
+      "url": "https://www.op.nysed.gov/professions/registered-professional-nursing/license-requirements",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "trumerit.org: /support/fee-schedule/",
+      "url": "https://www.trumerit.org/support/fee-schedule/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "trumerit.org: /",
+      "url": "https://www.trumerit.org/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "trumerit.org: /services/certification/visascreen-visa-credentials-assessment/",
+      "url": "https://www.trumerit.org/services/certification/visascreen-visa-credentials-assessment/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "hrsa.gov: /office-global-health/foreign-healthcare-worker-requirements",
+      "url": "https://www.hrsa.gov/office-global-health/foreign-healthcare-worker-requirements",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "trumerit.org: /updated-english-language-proficiency-elp-exams-and-score-requirements-by-the-he",
+      "url": "https://www.trumerit.org/updated-english-language-proficiency-elp-exams-and-score-requirements-by-the-health-resources-and-services-administration-hrsa/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ecfr.gov: /current/title-20/chapter-V/part-656/section-656.5",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-V/part-656/section-656.5",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ecfr.gov: /current/title-20/chapter-V/part-656/section-656.12",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-V/part-656/section-656.12",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ecfr.gov: /current/title-20/chapter-V/part-655/subpart-H/section-655.731",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-V/part-655/subpart-H/section-655.731",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ag.ny.gov: /press-release/2025/attorney-general-james-recovers-over-660000-foreign-recruite",
+      "url": "https://ag.ny.gov/press-release/2025/attorney-general-james-recovers-over-660000-foreign-recruited-nurses-exploited",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "uscis.gov: /green-card/green-card-processes-and-procedures/visa-availability-priority-dates",
+      "url": "https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "uscis.gov: /node/100890",
+      "url": "https://www.uscis.gov/node/100890",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mygcvisa.com: /visa-bulletin/2026/visa-bulletin-november-2026.aspx",
+      "url": "https://www.mygcvisa.com/visa-bulletin/2026/visa-bulletin-november-2026.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "travel.state.gov: /content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-november",
+      "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-november-2026.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mygcvisa.com: /visa-bulletin/2026/visa-bulletin-december-2026.aspx",
+      "url": "https://www.mygcvisa.com/visa-bulletin/2026/visa-bulletin-december-2026.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "uscis.gov: /g-1055",
+      "url": "https://www.uscis.gov/g-1055",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "uscis.gov: /sites/default/files/document/forms/g-1055.pdf",
+      "url": "https://www.uscis.gov/sites/default/files/document/forms/g-1055.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ecfr.gov: /current/title-22/chapter-I/subchapter-B/part-22/section-22.1",
+      "url": "https://www.ecfr.gov/current/title-22/chapter-I/subchapter-B/part-22/section-22.1",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "kr.usembassy.gov: /visas/immigrant-visas/",
+      "url": "https://kr.usembassy.gov/visas/immigrant-visas/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "sev.severance.healthcare: /sev/patient-carer/appointment/visa/usa.do",
+      "url": "https://sev.severance.healthcare/sev/patient-carer/appointment/visa/usa.do",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "api.bls.gov: /publicAPI/v2/timeseries/data/",
+      "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "index.go.kr: /unify/idx-info.do?pop=1&idxCd=5032",
+      "url": "https://www.index.go.kr/unify/idx-info.do?pop=1&idxCd=5032",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "federalreserve.gov: /releases/h10/current/",
+      "url": "https://www.federalreserve.gov/releases/h10/current/",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "base_total": {
+      "label": "Base budget, sourced fees plus estimates (estimate-heavy: about 68% is planning estimates)",
+      "value": 11794792,
+      "unit": "KRW",
+      "display": "₩11,794,792"
+    },
+    "full_total": {
+      "label": "Full budget with contingencies (estimate)",
+      "value": 12911792,
+      "unit": "KRW",
+      "display": "₩12,911,792"
+    },
+    "nclex_fee": {
+      "label": "NCLEX-RN registration fee from 1 February 2027 (was $200)",
+      "value": 350,
+      "unit": "USD",
+      "display": "$350"
+    },
+    "ny_median": {
+      "label": "New York RN median annual pay, BLS May 2025",
+      "value": 109440,
+      "unit": "USD",
+      "display": "$109,440"
+    },
+    "ag_restitution": {
+      "label": "New York Attorney General restitution to 71 nurses, 29 May 2025",
+      "value": 663668.66,
+      "unit": "USD",
+      "display": "$663,668.66"
+    },
+    "sourced_subtotal": {
+      "label": "Sourced fees subtotal A, USD fees at ₩1,334 plus the Severance medical (the rest of the base budget is estimates)",
+      "value": 3724592,
+      "unit": "KRW",
+      "display": "₩3,724,592"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Jiyeon, a Korean nurse with a BSN, IELTS Academic 6.5 overall (Speaking score not stated), savings about ₩25,000,000.",
+    "route": "Credential and sit NCLEX-RN on your own account first; New York (Pathway 5) as the first board; then an employer-filed Schedule A EB-3 petition and consular processing at the US Embassy Seoul. Agency or direct is judged by contract terms.",
+    "timing": "Arithmetic, not a forecast: Final Action 15 June 2024 against 1 November 2026 is about 28.5 months; a petition filed in December 2027 with the same gap would become current around April to May 2030; 3 to 6 months of consular steps (estimate) gives arrival in the second half of 2030, range 2029 to 2031 or later.",
+    "budget": {
+      "fx": "₩1,334 per US$1 (Federal Reserve H.10, 30 October 2026: 1,333.99)",
+      "estimates": "Centre trip ₩700,000, verification and copies ₩300,000, flight $1,300 and settling in $4,000 (base), IELTS retake ₩300,000 and vaccination ₩150,000 (contingency) are the run author's own estimates with no source.",
+      "sourced": "Sourced fees subtotal A is $2,388 and ₩3,724,592 including the ₩539,000 Severance medical (hospital price list, not on the primary list)."
+    }
+  },
+  "datePolicy": "Sources were read on 7 and 8 November 2026 (access date recorded as 2026-11-08 in the original run). Fee dates such as the NCLEX rise to $350 on 1 February 2027 and the HRSA list of 12 May 2026 are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The EB-3 Final Action Date of 15 June 2024 comes from a third-party mirror; the State Department bulletin page was blocked. If the official date differs, the 28.5 months and the 2030 scenario change one-for-one. The USCIS Dates for Filing of 1 August 2024 is from the official chart. The December 2026 bulletin was not confirmed as published; a prediction page showed 22 July 2024 (unconfirmed).",
+    "Whether NYSED accepts an application with no US Social Security number is unconfirmed; the Pathway 5 page only says the number is used to resume an online draft.",
+    "No Korean nurse-specific pay figure was obtained from an official source; the Korean bar is the all-worker average monthly wage of ₩3,834,000 for 2025, and the 3.2× comparison is crude. The NCLEX first-time pass rate for Korean-educated nurses was not obtained.",
+    "The budget is estimate-heavy: ₩8,070,200 of the ₩11,794,792 base (about 68%) is planning estimates with no source; the sourced-only subtotal is ₩3,724,592. Severance's price is a hospital page, the embassy panel-physician list was not verified, and vaccine and test-centre travel costs are unverified.",
+    "The HRSA English table was read through a browser fallback only and copied by hand; the US Embassy Seoul pages, the DOL Schedule A page and BLS web tables could not be read. BLS series codes were not checked against BLS's own code table, though the ordering p10 < median < p90 holds in all three states.",
+    "No federal exit-fee rule specific to EB-3 nurses was found; 20 CFR 655.731(c)(10)(i) is an H-1B rule used only as the nearest analogue. Whether 656.12(b) covers every Schedule A fee is a legal question. The warning-sign checklist is the author's own judgement from the cited rules and one enforcement case; no agency was reviewed.",
+    "That US territories such as Guam carry no international scheduling fee is the author's inference, not stated by NCSBN. Whether the reader's IELTS Speaking score is 7 or higher and how long a score stays valid for TruMerit are unknown. Rules for endorsement into other states were not researched.",
+    "The arithmetic was recomputed by the same team that wrote the guide, not an outsider; it found no errors in the sums."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Korean page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain curl and fetch with no signed-in session; travel.state.gov, the US Embassy Seoul, the DOL Schedule A page, nysenate.gov and BLS HTML pages were blocked or timed out, and HRSA was read through a browser fallback. A single browser-read call to travel.state.gov sent work Chrome's cookies for that site and returned only a Cloudflare check page; nothing was read from it.",
+    "independentCheckDisposition": "The run's second script recomputed the money figures (92 checks passed, 0 failed), caught and fixed an OET score quoted from the superseded HRSA list, and left the open issues in place. The check was by the same author, not an independent person; the guide keeps all remaining open issues. Layout fixes it reported are not carried into the pages.",
+    "editingContract": "Only data/korean-nurse-us-nclex-eb3-new-york-route.json, en/ and ko/ Markdown for this slug and checks/batch42-korean-nurse-us-nclex-eb3-new-york-route-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

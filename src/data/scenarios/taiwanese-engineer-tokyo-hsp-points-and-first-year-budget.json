@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 2,
+  "slug": "taiwanese-engineer-tokyo-hsp-points-and-first-year-budget",
+  "translationKey": "taiwanese-engineer-tokyo-hsp-points-and-first-year-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "zh-Hant": "本文由 DeTars.xyz 的通用 Cowork 任務產出"
+  },
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "audience": {
+    "en": "A 31-year-old Taiwanese backend engineer in Taipei with a master's in computer science, 7 years' experience, JLPT N2 and TWD 1.8M saved, weighing HSP(i)(b) against the standard work status for a JPY 9.2 million Tokyo job starting in April 2027.",
+    "zh-Hant": "一位 31 歲、住在台北的台灣後端工程師，擁有資訊工程碩士學位、7 年相關經驗、JLPT N2 和 TWD 1.8M 的存款，正在比較 HSP(i)(b) 與一般工作簽證身分，考慮 2027 年 4 月起接下年薪 JPY 9.2 million 的東京工作。"
+  },
+  "localeReason": "Traditional Chinese for Taiwan serves this decision directly: the engineer lives and saves in Taiwan, must compare Japanese immigration, pension and tax wording with Taiwan-side questions (household registration, Taiwan returns, Taiwan pension coverage), and sets all home-side figures in NT$. It changes no rule, fee, point value or date.",
+  "sources": [
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/content/930001673.xls",
+      "url": "https://www.moj.go.jp/isa/content/930001673.xls",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/content/001398888.xls",
+      "url": "https://www.moj.go.jp/isa/content/001398888.xls",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/content/930001658.pdf",
+      "url": "https://www.moj.go.jp/isa/content/930001658.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/content/930001665.pdf",
+      "url": "https://www.moj.go.jp/isa/content/930001665.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/resources/newimmiact_3_preferential_index.html",
+      "url": "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_preferential_index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/status/designatedactivities02_00004.html",
+      "url": "https://www.moj.go.jp/isa/applications/status/designatedactivities02_00004.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/status/newimmiact_3_procedure_index.html",
+      "url": "https://www.moj.go.jp/isa/applications/status/newimmiact_3_procedure_index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/10_00279.html",
+      "url": "https://www.moj.go.jp/isa/10_00279.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/status/gijinkoku.html",
+      "url": "https://www.moj.go.jp/isa/applications/status/gijinkoku.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/resources/newimmiact_3_system_index.html",
+      "url": "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_system_index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/resources/newimmiact_3_index.html",
+      "url": "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/procedures/16-1.html",
+      "url": "https://www.moj.go.jp/isa/applications/procedures/16-1.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/procedures/10_00136.html",
+      "url": "https://www.moj.go.jp/isa/applications/procedures/10_00136.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/applications/procedures/16-2.html",
+      "url": "https://www.moj.go.jp/isa/applications/procedures/16-2.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan–Taiwan Exchange Association (not on the official-source list): www.koryu.or.jp/tw/visa/taipei/general/detail1/",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/general/detail1/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan–Taiwan Exchange Association (not on the official-source list): www.koryu.or.jp/tw/visa/taipei/jurisdiction/",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/jurisdiction/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan–Taiwan Exchange Association (not on the official-source list): www.koryu.or.jp/tw/visa/taipei/tabid2596.html",
+      "url": "https://www.koryu.or.jp/tw/visa/taipei/tabid2596.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan–Taiwan Exchange Association (not on the official-source list): www.koryu.or.jp/tw/faq/visa/working/",
+      "url": "https://www.koryu.or.jp/tw/faq/visa/working/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Immigration Services Agency of Japan (ISA): www.moj.go.jp/isa/support/guidance/index.html",
+      "url": "https://www.moj.go.jp/isa/support/guidance/index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kyokai Kenpo insurance rates: www.kyoukaikenpo.or.jp/about/business/insurance_rate/rate_prefectures/r08",
+      "url": "https://www.kyoukaikenpo.or.jp/about/business/insurance_rate/rate_prefectures/r08",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kyokai Kenpo insurance rates: www.kyoukaikenpo.or.jp/assets/R8_13tokyo.pdf",
+      "url": "https://www.kyoukaikenpo.or.jp/assets/R8_13tokyo.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Tokyo Hello Work, MHLW (search hit only, not opened): jsite.mhlw.go.jp/tokyo-hellowork/list/tachikawa/kyushokusha/koyouhokenryouritu08",
+      "url": "https://jsite.mhlw.go.jp/tokyo-hellowork/list/tachikawa/kyushokusha/koyouhokenryouritu08.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "National Tax Agency (NTA): www.nta.go.jp/publication/pamph/gensen/zeigakuhyo2027/data/01-07.pdf",
+      "url": "https://www.nta.go.jp/publication/pamph/gensen/zeigakuhyo2027/data/01-07.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "National Tax Agency (NTA): www.nta.go.jp/publication/pamph/gensen/2026kaisei.pdf",
+      "url": "https://www.nta.go.jp/publication/pamph/gensen/2026kaisei.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "National Tax Agency (NTA): www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2732.htm",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2732.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "National Tax Agency (NTA): www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2582.htm",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2582.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Tokyo Metropolitan Bureau of Taxation: www.tax.metro.tokyo.lg.jp/kazei/life/kojin_ju",
+      "url": "https://www.tax.metro.tokyo.lg.jp/kazei/life/kojin_ju",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Pension Service: www.nenkin.go.jp/service/jukyu/seido/sonota-kyufu/dattai-ichiji/20150406.html",
+      "url": "https://www.nenkin.go.jp/service/jukyu/seido/sonota-kyufu/dattai-ichiji/20150406.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Pension Service: www.nenkin.go.jp/international/english/japanese-system/benefit/payment.files/A.p",
+      "url": "https://www.nenkin.go.jp/international/english/japanese-system/benefit/payment.files/A.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/content/12500000/001537487.pdf",
+      "url": "https://www.mhlw.go.jp/content/12500000/001537487.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Health, Labour and Welfare (MHLW): www.mhlw.go.jp/content/12401000/001510680.pdf",
+      "url": "https://www.mhlw.go.jp/content/12401000/001510680.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan Pension Service: www.nenkin.go.jp/service/shaho-kyotei/kunibetsu/kyoteitimesystem.html",
+      "url": "https://www.nenkin.go.jp/service/shaho-kyotei/kunibetsu/kyoteitimesystem.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Japan–Taiwan Exchange Association (not on the official-source list): www.koryu.or.jp/Portals/0/images/news/20160615/sozei-J.pdf",
+      "url": "https://www.koryu.or.jp/Portals/0/images/news/20160615/sozei-J.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "National Tax Agency (NTA) (search hit only, not opened): www.nta.go.jp/taxes/shiraberu/kokusai/nichitai/index.htm",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/kokusai/nichitai/index.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Taiwan Ministry of Finance (search hit only, not opened): www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974",
+      "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=dot70257",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Land, Infrastructure, Transport and Tourism (MLIT): www.mlit.go.jp/totikensangyo/const/1_6_bf_000013.html",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/1_6_bf_000013.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UR Urban Renaissance Agency (not on the official-source list): www.ur-net.go.jp/chintai/rent/requirements/",
+      "url": "https://www.ur-net.go.jp/chintai/rent/requirements/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UR Urban Renaissance Agency (not on the official-source list): www.ur-net.go.jp/chintai/kanto/tokyo/",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "SUUMO listing site (non-official): suumo.jp/chintai/soba/tokyo/sc_suginami/",
+      "url": "https://suumo.jp/chintai/soba/tokyo/sc_suginami/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Rental-terms page (non-official): www.frrcw.com/tools/rental-terms",
+      "url": "https://www.frrcw.com/tools/rental-terms",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Statistics Bureau of Japan: www.stat.go.jp/data/kakei/sokuhou/tsuki/pdf/fies_gaikyo2025.pdf",
+      "url": "https://www.stat.go.jp/data/kakei/sokuhou/tsuki/pdf/fies_gaikyo2025.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank of Taiwan rate mirror (non-official): www.twrates.com/bankrate/bot.html",
+      "url": "https://www.twrates.com/bankrate/bot.html?date=2026-11-06",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "points_base": {
+      "label": "HSP(i)(b) base score on the stated assumptions (no bonus items); 90 with JLPT N2; 70 qualifies, 80 shortens PR to 1 year",
+      "value": 80,
+      "unit": "points",
+      "display": "80 points"
+    },
+    "lump_sum": {
+      "label": "Lump-sum withdrawal payment example (36 months at the pension cap, before 20.42% withholding)",
+      "value": 2145000,
+      "unit": "JPY",
+      "display": "JPY 2,145,000"
+    },
+    "movein_koenji": {
+      "label": "Move-in cost, Koenji 1K example (our arithmetic on SUUMO listing figures, ±20%, unconfirmed)",
+      "value": 601500,
+      "unit": "JPY",
+      "display": "JPY 601,500"
+    },
+    "cash_before_pay": {
+      "label": "Cash needed before the first pay (estimate)",
+      "value": 973373,
+      "unit": "JPY",
+      "display": "JPY 973,373"
+    },
+    "monthly_takehome": {
+      "label": "Monthly take-home before resident tax on JPY 9.2 million (FY2026 rates; employment-insurance rate unconfirmed)",
+      "value": 608710,
+      "unit": "JPY",
+      "display": "JPY 608,710"
+    },
+    "first_year_surplus": {
+      "label": "First-year surplus, April 2027 to March 2028 (estimate; spending lines other than rent and initial costs are our estimates)",
+      "value": 3551147,
+      "unit": "JPY",
+      "display": "JPY 3,551,147"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Wei-Ting, 31, backend engineer in Taipei, master's in computer science, 7 years of directly related work, JLPT N2, single, TWD 1.8M saved, offer JPY 9.2 million a year, start April 2027; employer category and location, exact birth date, university and JLPT certificate are unknown.",
+    "route": "Ask the employer to file the COE as HSP(i)(b); the standard Engineer / Specialist in Humanities / International Services status is the fallback. The 80-point base score has no margin: the salary is JPY 0.2 million above the JPY 9.0 million line.",
+    "points": "Master's 20 + 7 years 15 + salary 9-10 million at age 30-34 35 + age 10 = 80; +10 for JLPT N2 = 90. If ISA counts less than JPY 9.0 million as annual salary: 75 (85 with N2). Points sheet read from ISA's Excel form; the legal ordinance PDF could not be read.",
+    "tax": "JPY 9.2 million as 12 equal months of JPY 766,667, no bonus; Kyokai Kenpo Tokyo and employees' pension; under 40; no dependants; FY2026 rates (FY2027 not published). Employment-insurance rate (0.5%) and resident-tax basic deduction (430,000) unconfirmed.",
+    "budget": {
+      "fx": "Midpoint 0.2072 TWD per JPY of the Bank of Taiwan spot buy 0.2047 and sell 0.2097 on 6 November 2026, read via a mirror site (unconfirmed); 1 TWD about 4.83 JPY.",
+      "housing": "Koenji 1K example, rent 120,000 plus management 10,000; move-in cost JPY 601,500 and Nishi-Kasai 1K JPY 443,250 are our arithmetic on SUUMO listing figures (+/-20%, unconfirmed).",
+      "estimates": "Visa fee about JPY 15,000, flight NT$8,000, shipping NT$10,000, temporary lodging 150,000, household goods 120,000, utilities 27,500 a month, food 45,000, other living 40,000 are estimates with no source."
+    }
+  },
+  "datePolicy": "All sources were read on 2026-11-08 in the original run and that access date is kept. Source dates (form header 1 April 2023, file modification dates, the PR guideline from 1 April 2027, FY2026 and FY2027 rates, the 6 November 2026 exchange rate) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "HSP points: the legal ordinance PDF and the amended bonus notice could not be read (vertical text), so the Excel form was not cross-checked; how ISA counts annual salary is unconfirmed; a second column in the form shows 5 rather than 10 for the listed-university row; the salary margin above the JPY 9.0 million line is only JPY 0.2 million. J-Skip thresholds were not read (unverified).",
+    "Standard-status spouse-work and parents entries are the author's summary and unconfirmed; employer category and location, exact birth date, university and JLPT certificate are unknown.",
+    "COE validity (commonly 3 months), airport residence-card issuance, My Number steps and the E-COE phone-at-counter claim are unconfirmed; the Taipei visa fee of about JPY 15,000 and the visa-exempt rule come from the Japan-Taiwan Exchange Association, not a Japanese government page; the filing window December 2026 to January 2027 is an inference.",
+    "FY2027 insurance rates are not published; the employment-insurance rate (0.5%) was seen only in a search summary; the resident-tax basic deduction (430,000) is assumed; the 2027 part-year refund (about 217,150) and the lump-sum refund (about 413,900) are estimates; the first resident-tax bill in June 2028 is an inference from the 1 January rule.",
+    "Lump-sum cap: the law raising it to 8 years was promulgated on 20 June 2025 but no start date was found; re-check at departure. The 2017 start of the Taiwan-Japan private-sector tax arrangement is unconfirmed; the NTA and Taiwan Ministry of Finance pages were search hits only; Taiwan was not on the pension-agreement leaflet list (separate list page not opened); no Taiwan-side official page was read.",
+    "SUUMO listings are examples, not availability, and all listing figures are unconfirmed (foreigner-friendliness, lease type and guarantor terms unchecked); the guarantor, fire-insurance and key-exchange figures come from blog-type pages; UR requirements come from a page outside the official-source list and no UR rent was obtained; no NHK fee and no Tokyo-specific living-cost table.",
+    "The exchange rate comes from a mirror site, not the Bank of Taiwan's own page; all TWD figures are approximate (+/-5% or more) and rest on FY2026 rates, no bonus, one monthly take-home for 12 months and estimated spending lines.",
+    "Some of the research used temporary working copies of public pages kept outside the project's normal folder; none of this changes a figure on the page."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The zh-Hant page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain HTTP fetches with no signed-in session; one ISA page fell back to an anonymous managed-browser session; UR list pages are JavaScript-rendered and could not be read; the Bank of Taiwan page blocked automated fetches, so a mirror was used.",
+    "independentCheckDisposition": "The check recomputed 77 figures with no failures after three rounds; its earlier findings (missing source rows, softened tags, rent-range wording, month-ratio order, agency fee assumed at the full 1.1, downside exchange-rate case, hedged TWD column) were resolved in the guide. The check file does not say who ran it, so the page claims only that the sums were recomputed. Its optional note that the Tozai range of 110,000-125,000 is rounded outward from 112,000-118,500 is shown beside the range.",
+    "editingContract": "Only data/taiwanese-engineer-tokyo-hsp-points-and-first-year-budget.json, en/ and zh-Hant/ Markdown for this slug and checks/batch42-taiwanese-engineer-tokyo-hsp-points-and-first-year-budget-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "careers",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "sourceDataSha256": "b61929af1d25c60b98867e58b2a11e70d6cee3dc66b3be061c871dfe16b6d8e6",
+  "sourceListLink": "../w8-taiwanese-engineer-tokyo-hsp/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "e24817d033c800a29f00228aff3e15cb4171ea74a3eda9387a86da275bea6ccb",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh-Hant": {
+      "sourceMarkdownSha256": "35786bf4774272499664303c576a712bf1e1cdf7a3f877d417b102e3c53ec311",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

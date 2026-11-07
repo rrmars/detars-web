@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "slug": "french-graduate-uk-masters-manchester-budget-shortfall",
+  "translationKey": "french-graduate-uk-masters-manchester-budget-shortfall",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "fr": "Produit par une tâche Cowork générale sur DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "audience": {
+    "en": "A 23-year-old French graduate in Toulouse with EUR 44,000 (EUR 38,000 from family plus EUR 6,000 of her own), weighing a one-year UK master's from September 2027 in Manchester or London: visa rules, costs and the Graduate route.",
+    "fr": "Une jeune diplômée française de 23 ans à Toulouse, avec EUR 44 000 (EUR 38 000 de sa famille et EUR 6 000 à elle), qui hésite sur un master d’un an au Royaume-Uni dès septembre 2027 à Manchester ou à Londres : règles de visa, coûts et Graduate route."
+  },
+  "localeReason": "French serves this decision directly: Léa is a French citizen living in Toulouse, her family money is in euros, and she must read the GOV.UK Student-visa and Graduate-route conditions, the euro-to-pound shortfall and the open issues in her own language before paying any deposit. It changes no rule, fee, rate or date.",
+  "sources": [
+    {
+      "title": "www.gov.uk/student-visa",
+      "url": "https://www.gov.uk/student-visa",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/student-visa/course",
+      "url": "https://www.gov.uk/student-visa/course",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/student-visa/money",
+      "url": "https://www.gov.uk/student-visa/money",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants",
+      "url": "https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/student-visa/knowledge-of-english",
+      "url": "https://www.gov.uk/student-visa/knowledge-of-english",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/student-visa/family-members",
+      "url": "https://www.gov.uk/student-visa/family-members",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/healthcare-immigration-application/how-much-pay",
+      "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/guidance/academic-technology-approval-scheme",
+      "url": "https://www.gov.uk/guidance/academic-technology-approval-scheme",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/graduate-visa",
+      "url": "https://www.gov.uk/graduate-visa",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.gov.uk/graduate-visa/how-much-it-costs",
+      "url": "https://www.gov.uk/graduate-visa/how-much-it-costs",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ukcisa.org.uk/student-advice/working/student-work/",
+      "url": "https://www.ukcisa.org.uk/student-advice/working/student-work/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.lse.ac.uk/study-at-lse/international-students/fee-status-classification",
+      "url": "https://www.lse.ac.uk/study-at-lse/international-students/fee-status-classification",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.kcl.ac.uk/study/postgraduate-taught/fees-and-funding/tuition-fees",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/fees-and-funding/tuition-fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.lse.ac.uk/study-at-lse/graduate/msc-data-science",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-data-science",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc/fees",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc/fees",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.manchester.ac.uk/study/masters/courses/list/21299/msc-economics-and-data-science/",
+      "url": "https://www.manchester.ac.uk/study/masters/courses/list/21299/msc-economics-and-data-science/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.alliancembs.manchester.ac.uk/study/masters/msc-international-business-and-management/",
+      "url": "https://www.alliancembs.manchester.ac.uk/study/masters/msc-international-business-and-management/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.manchester.ac.uk/study/masters/courses/list/22043/msc-business-analytics-and-artificial-intelligence/",
+      "url": "https://www.manchester.ac.uk/study/masters/courses/list/22043/msc-business-analytics-and-artificial-intelligence/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.mmu.ac.uk/study/postgraduate/course/msc-data-science",
+      "url": "https://www.mmu.ac.uk/study/postgraduate/course/msc-data-science",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.chevening.org/scholarship/france/",
+      "url": "https://www.chevening.org/scholarship/france/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.chevening.org/resource-hub/guidance/eligibility/",
+      "url": "https://www.chevening.org/resource-hub/guidance/eligibility/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.chevening.org/scholarships/application-timeline/",
+      "url": "https://www.chevening.org/scholarships/application-timeline/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/",
+      "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.marshallscholarship.org/apply/eligibility",
+      "url": "https://www.marshallscholarship.org/apply/eligibility",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.britishcouncil.fr/en/study-uk/scholarships/great-scholarships",
+      "url": "https://www.britishcouncil.fr/en/study-uk/scholarships/great-scholarships",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "study-uk.britishcouncil.org/scholarships-funding/great-scholarships/france",
+      "url": "https://study-uk.britishcouncil.org/scholarships-funding/great-scholarships/france",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.timeshighereducation.com/news/uk-close-turing-exchange-scheme-when-it-rejoins-erasmus (non-primary)",
+      "url": "https://www.timeshighereducation.com/news/uk-close-turing-exchange-scheme-when-it-rejoins-erasmus",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "erasmus-plus.ec.europa.eu/the-uk-and-erasmus",
+      "url": "https://erasmus-plus.ec.europa.eu/the-uk-and-erasmus",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ucl.ac.uk/scholarships/ucl-global-masters-scholarship",
+      "url": "https://www.ucl.ac.uk/scholarships/ucl-global-masters-scholarship",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme",
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/equity-merit-scholarships/",
+      "url": "https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/equity-merit-scholarships/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.service-public.gouv.fr/particuliers/vosdroits/F12214",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12214",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-gbp.en.html",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-gbp.en.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest",
+      "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.manchester.ac.uk/study/postgraduate-research/funding/living-costs/",
+      "url": "https://www.manchester.ac.uk/study/postgraduate-research/funding/living-costs/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.kcl.ac.uk/study/student-experience/living-expenses",
+      "url": "https://www.kcl.ac.uk/study/student-experience/living-expenses",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.lse.ac.uk/student-life/accommodation",
+      "url": "https://www.lse.ac.uk/student-life/accommodation",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "tfl.gov.uk/fares/free-and-discounted-travel/18-plus-student-oyster-photocard",
+      "url": "https://tfl.gov.uk/fares/free-and-discounted-travel/18-plus-student-oyster-photocard",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.spareroom.co.uk/flatshare/manchester (non-primary)",
+      "url": "https://www.spareroom.co.uk/flatshare/manchester",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.spareroom.co.uk/flatshare/london (non-primary)",
+      "url": "https://www.spareroom.co.uk/flatshare/london",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION%5E904&maxBedrooms=0&minBedrooms=0 (non-primary)",
+      "url": "https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION%5E904&maxBedrooms=0&minBedrooms=0",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION%5E87490&maxBedrooms=0&minBedrooms=0 (non-primary)",
+      "url": "https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION%5E87490&maxBedrooms=0&minBedrooms=0",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "funds_gbp": {
+      "label": "EUR 44,000 in pounds at the ECB rate of 6 November 2026 (EUR 1 = GBP 0.83415)",
+      "value": 36702.6,
+      "unit": "GBP",
+      "display": "£36,702.60"
+    },
+    "mmu_total": {
+      "label": "Full-year cost of MMU MSc Data Science, the cheapest example (illustrative; IHS visa length assumed, unconfirmed)",
+      "value": 40910,
+      "unit": "GBP",
+      "display": "£40,910"
+    },
+    "mmu_shortfall": {
+      "label": "MMU shortfall against EUR 44,000 (about EUR 5,044)",
+      "value": 4207,
+      "unit": "GBP",
+      "display": "£4,207"
+    },
+    "ambs_shortfall": {
+      "label": "Alliance MBS (Manchester) shortfall against EUR 44,000 (about EUR 21,588)",
+      "value": 18007,
+      "unit": "GBP",
+      "display": "£18,007"
+    },
+    "breakeven_manchester": {
+      "label": "Break-even tuition in Manchester before any buffer (illustrative)",
+      "value": 16792.6,
+      "unit": "GBP",
+      "display": "£16,792.60"
+    },
+    "graduate_total": {
+      "label": "Graduate visa cost for 18 months (£937 fee plus £1,552.50 IHS), applying from 1 January 2027",
+      "value": 2489.5,
+      "unit": "GBP",
+      "display": "£2,489.50"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Léa, 23, French citizen in Toulouse, EUR 44,000 (EUR 38,000 family plus EUR 6,000 own), one-year master's from September 2027.",
+    "fx": "ECB reference rate on 6 November 2026: EUR 1 = GBP 0.83415, so GBP 1 = EUR 1.1988; October 2026 range GBP 0.8338 to GBP 0.8537 per EUR 1. EUR 44,000 = £36,702.60.",
+    "budget": "Tuition + Student visa fee £558 + IHS £1,164 + university living-cost estimate for 12 months (Manchester £18,188; King's £21,240). IHS assumes a 16-month visa (£776 + £388) and is unconfirmed; flights, laptop, deposit, insurance, 2027/28 price rises and Graduate-visa costs are not included.",
+    "programmes": "Five illustrative examples: Alliance MBS IBM £34,800, Manchester Econ & DS £35,300, MMU Data Science £21,000 (course length and fee year not confirmed), LSE Data Science £41,900, KCL Data Science £42,900."
+  },
+  "datePolicy": "All pages were read on 2026-11-08 in the original run and that access date is kept. Page dates, fee years and deadlines are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The IHS amount assumes a 16-month Student visa for a 12-month master's (£776 + £388 = £1,164); the visa-length rule was not read. If the visa were 12 months or less, IHS would be £776 and every total £388 lower. Unconfirmed.",
+    "MMU MSc Data Science: course length and fee year were not confirmed; £21,000 is the typical annual overseas fee on the page for a September 2027 start.",
+    "Living-cost estimates are 2026/27 and rents were seen on one day; 2027/28 prices will probably be higher (not quantified). Manchester's £18,188 comes from a page on its postgraduate-research site that also covers taught master's; applying it to a taught master's is an assumption.",
+    "GREAT Scholarships 2027-28 list not confirmed (2026-27 only); no scholarship is guaranteed. LSE Graduate Support Scheme 2027/28 application only 'expected to open in late November 2026'.",
+    "ATAS exemption for French nationals not verified; whether a deposit counts toward visa funds not checked; no finding on any 2027 change to Student-visa fees or a student levy. A degree taught in French not being accepted as English proof is a reading of the list, unconfirmed.",
+    "Not found: UCL (HTTP 403) and Imperial fees, a London business master's fee, 2027/28 hall prices, an ONS Manchester rent figure, TfL Travelcard prices. Rent listings, the Turing statement and the French bourse reading are unconfirmed. Whether a job could sponsor a Skilled Worker visa after the Graduate route was not researched.",
+    "The Graduate visa is 18 months for applications on or after 1 January 2027 (2 years on or before 31 December 2026); the rules and fees may change again before 2028."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The French page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch and search; some scholarship pages (chevening.org, study-uk.britishcouncil.org, britishcouncil.fr, marshallscholarship.org, ucl.ac.uk/scholarships) were read through a managed headless browser with no sign-ins. UCL pages returned HTTP 403 and were not bypassed.",
+    "independentCheckDisposition": "A recheck recomputed every money figure with no wrong amount; it corrected the Graduate total conversion from about EUR 2,985 to about EUR 2,984, asked for the French-degree English point to be marked as an inference, the Erasmus+ timing to read 'second half of 2027 at the earliest', and the Manchester living-cost page's research-student scope to be noted. The run does not say who performed the recheck; the guide does not claim it was an outside person.",
+    "editingContract": "Only data/french-graduate-uk-masters-manchester-budget-shortfall.json, en/ and fr/ Markdown for this slug and checks/batch42-french-graduate-uk-masters-manchester-budget-shortfall-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "study",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

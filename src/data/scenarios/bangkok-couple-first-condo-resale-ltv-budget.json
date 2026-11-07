@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "slug": "bangkok-couple-first-condo-resale-ltv-budget",
+  "translationKey": "bangkok-couple-first-condo-resale-ltv-budget",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "th": "จัดทำโดยงาน Cowork ทั่วไปบน DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "th"
+  ],
+  "audience": {
+    "en": "A Bangkok couple (aged 30 and 32, THB 93,000 a month combined) renting at THB 14,000 with THB 650,000 saved, deciding whether to buy a first condo of up to THB 4.0 million in 2027, with loan-to-value rules, fees and a reserve.",
+    "th": "คู่รักในกรุงเทพฯ (อายุ 30 และ 32 ปี รายได้รวมเดือนละ THB 93,000) ที่เช่าอยู่ THB 14,000 และมีเงินเก็บ THB 650,000 กำลังตัดสินใจว่าจะซื้อคอนโดหลังแรกไม่เกิน THB 4.0 ล้านในปี 2027 หรือไม่ โดยดูกฎ LTV ค่าธรรมเนียม และเงินสำรอง"
+  },
+  "localeReason": "Thai serves this decision directly: the couple live in Bangkok, the Bank of Thailand notices, bank pages and government fee announcements they must check are mostly in Thai, and reading the conditions and open issues in Thai helps them compare a bank's or agent's paperwork with the official wording. It changes no rule, rate, fee or date.",
+  "sources": [
+    {
+      "title": "Bank of Thailand: www.bot.or.th/th/news-and-media/news/news-20260514.html",
+      "url": "https://www.bot.or.th/th/news-and-media/news/news-20260514.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank of Thailand: www.bot.or.th/th/news-and-media/news/news-20250320.html",
+      "url": "https://www.bot.or.th/th/news-and-media/news/news-20250320.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank of Thailand: www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2563/EngPDF/25630013.pdf",
+      "url": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2563/EngPDF/25630013.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank of Thailand: www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2563/EngPDF/25630026.pdf",
+      "url": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2563/EngPDF/25630026.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank of Thailand: www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/ThaiPDF/25690131.pdf",
+      "url": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/ThaiPDF/25690131.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "LAD company/news site (not the Department of Lands): www.lad.co.th/post/ด่วน-ครม-ลดค่าโอนบ้าน-2569-เหลือ-0-01-ถึงปี-2570-เช็กเงื่อนไข",
+      "url": "https://www.lad.co.th/post/ด่วน-ครม-ลดค่าโอนบ้าน-2569-เหลือ-0-01-ถึงปี-2570-เช็กเงื่อนไขบ้าน-คอนโดไม่เกิน-7-ล้านบาท",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Revenue Department: www.rd.go.th/681.html",
+      "url": "https://www.rd.go.th/681.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Revenue Department: www.rd.go.th/english/6042.html",
+      "url": "https://www.rd.go.th/english/6042.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Revenue Department: www.rd.go.th/683.html",
+      "url": "https://www.rd.go.th/683.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Agency blog (non-primary): sw19.co.th/th/blog/sale-taxes",
+      "url": "https://sw19.co.th/th/blog/sale-taxes",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kasikornbank home loan page: www.kasikornbank.com/th/personal/loan/home-loan/pages/home-loan.aspx",
+      "url": "https://www.kasikornbank.com/th/personal/loan/home-loan/pages/home-loan.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Krungthai home loan page: krungthai.com/th/personal/loan/housing-loan/16",
+      "url": "https://krungthai.com/th/personal/loan/housing-loan/16",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Banmuang news article (non-primary): www.banmuang.co.th/news/finance/496971",
+      "url": "https://www.banmuang.co.th/news/finance/496971",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Blog (non-primary): ninethanakarn.com/blog/dsr-calculator-guide.html",
+      "url": "https://ninethanakarn.com/blog/dsr-calculator-guide.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Agency guide (non-primary): propertysights.com/th/blog/ค่าส่วนกลางคอนโด",
+      "url": "https://propertysights.com/th/blog/ค่าส่วนกลางคอนโด",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Thai Law Online glossary (search snippet only): thailawonline.com/th/glossary/common-area-fees/",
+      "url": "https://thailawonline.com/th/glossary/common-area-fees/",
+      "accessDate": "unknown"
+    },
+    {
+      "title": "AP Thai developer page: www.apthai.com/th/blog/homestory/condominium-near-bts-skytrain-less-than-3-milli",
+      "url": "https://www.apthai.com/th/blog/homestory/condominium-near-bts-skytrain-less-than-3-million",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "price_ceiling": {
+      "label": "Price ceiling for a resale condo (aim for THB 3.5–3.8 million; stretch to THB 4.5 million only with written ~100% financing)",
+      "value": 4,
+      "unit": "THB million",
+      "display": "THB 4.0 million"
+    },
+    "cash_100": {
+      "label": "Upfront cash, THB 4.0M resale, bank lends 100% (assumed costs and fit-out; fee cut unconfirmed)",
+      "value": 120950,
+      "unit": "THB",
+      "display": "THB 120,950"
+    },
+    "cash_90": {
+      "label": "Upfront cash, THB 4.0M resale, 10% down payment (assumed costs; fee cut unconfirmed)",
+      "value": 520910,
+      "unit": "THB",
+      "display": "THB 520,910"
+    },
+    "stretch_payment": {
+      "label": "Monthly instalment at THB 4.5M with ~100% financing at 5% (planning rate, assumed)",
+      "value": 24157,
+      "unit": "THB",
+      "display": "THB 24,157"
+    },
+    "fee_cut_cost": {
+      "label": "Extra registration fees at THB 4.0M with a THB 3.6M loan if the unconfirmed 0.01% cut has ended (2% + 1%)",
+      "value": 116000,
+      "unit": "THB",
+      "display": "THB 116,000"
+    },
+    "reserve_six_months": {
+      "label": "Six-month housing-cost reserve at 5% interest, THB 3.6M loan (to THB 138,287 at a THB 4.0M loan)",
+      "value": 125403,
+      "unit": "THB",
+      "display": "THB 125,403"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Ploy, 30, THB 52,000 a month; Ton, 32, THB 41,000 a month; combined THB 93,000 treated as gross income; renting at THB 14,000 a month; THB 650,000 saved; no other debts (assumed).",
+    "loan": "30-year term; planning rate 5.00% (about MRR 6.58% minus 1.5%, assumed); stress rate 6.50%; KBank 3-year average 3.18% as a low case; 35 sqm unit; bank lends 100% or 90% of price.",
+    "costs": "Appraisal THB 5,000; fire insurance THB 2,000 a year; fit-out THB 80,000 (new) or THB 110,000 (resale incl. light refurbishment); repairs reserve THB 500 a month; sinking fund THB 750 per sqm; prepaid common fees 12 months (new) or 2 months (resale); 2% a year return on tied-up cash; property tax assumed negligible (not verified). All are planner assumptions, not sourced.",
+    "recommendation": "Resale, ceiling THB 4.0 million, keep a six-month reserve; first contract under THB 10M is already at 100% LTV under BOT FPG 1/2563 (2020 text read); the temporary relaxation applies to other cases."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run and that access date is kept; the thailawonline entry was a search snippet only, so its access date is unknown. Source dates (rates windows, Notification dates, 30 June 2027) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The 0.01% transfer and mortgage fee cut, its THB 7M limit and its 30 June 2027 end date rest on a company/news page; the Cabinet page returned a bot-check and was not read, no Department of Lands source was found and the Gazette text was not seen. The deadline is unconfirmed.",
+    "Seller-side taxes: no current official source for the 3.3% specific business tax; Revenue Department pages dated 2020 show 0.1% and conflict; stamp duty (0.5%) and withholding tax come from one agency blog.",
+    "SCB rates were not obtained (page error or redirect loop). GHB's 2.60% is a news report and applies only up to THB 3M; KBank's own MRR 6.58% is dated 2 March 2026.",
+    "The standing 100% LTV for a first contract under THB 10M was read from the 2020 BOT Notification FPG 1/2563; later amendments to the LTV notification were not read.",
+    "The 60-70% bank debt-service cap is a blog figure; the 40%, 50% and 60% rows are scenarios, not any bank's answer.",
+    "Appraisal, insurance, fit-out, repairs, sinking fund THB 750 per sqm, prepaid common fees, the 5.00% planning rate and the 2% return on cash are assumptions; property tax is unverified.",
+    "No verified THB 3.5-4.5M listing was found; the price band is taken as given. Listings shown are examples, not availability.",
+    "The arithmetic recheck (loan, instalment, budget and rent figures) was done by the same author with a second method, not by an outside reviewer."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Thai page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain fetch plus DeTars' managed browser for pages that refused plain requests (KBank, Krungthai, GHB, SCB, GSB, thaigov, ddproperty); no signed-in sessions were imported. The thaigov.go.th and ddproperty pages showed bot checks and were not read. SCB and Department of Lands primary pages were not obtained; the Gazette text was not seen.",
+    "independentCheckDisposition": "The run author's second-method recheck recomputed 206 figures with no failures. It was run by the same author, not an independent person. After the parent's LTV correction it changed the headline: the standing first-contract limit under THB 10M is 100% (BOT FPG 1/2563), the page shows 100% and 90% financing side by side, and the recommendation keeps the THB 4.0M ceiling with THB 4.5M only on written ~100% financing. Remaining issues: fee-cut primary confirmation, a current primary source for SBT 3.3%, SCB rates, later LTV amendments. The guide keeps all of them.",
+    "editingContract": "Only data/bangkok-couple-first-condo-resale-ltv-budget.json, en/ and th/ Markdown for this slug and checks/batch42-bangkok-couple-first-condo-resale-ltv-budget-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

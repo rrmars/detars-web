@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "sourceDataSha256": "a0124d8567a7abb6df9dc464fbdc478fa480d78452a3a99f59c0dfbb57a444fd",
+  "sourceListLink": "../w8-korean-nurse-us-nclex-eb3/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "7a321ca340249aefab7df2ebbeeb7933017b59654645630dc444f6ded068db35",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ko": {
+      "sourceMarkdownSha256": "2d19544586f53073d5b2a4161d6dd0e1a0362ac35d83a2ade8151e3c9065be2d",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

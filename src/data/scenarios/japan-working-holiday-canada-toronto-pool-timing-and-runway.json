@@ -1,0 +1,354 @@
+{
+  "schemaVersion": 2,
+  "slug": "japan-working-holiday-canada-toronto-pool-timing-and-runway",
+  "translationKey": "japan-working-holiday-canada-toronto-pool-timing-and-runway",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ja": "この記事は DeTars.xyz の汎用 Cowork タスクで作成されました"
+  },
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "audience": {
+    "en": "A 29-year-old hotel front-desk worker in Fukuoka with ¥1,600,000 in savings and a TOEIC score of 780, weighing Canada's Working Holiday (IEC): when to apply, Toronto or Vancouver, health cover, fees and a cash runway for an arrival between May 2027 and June 2027.",
+    "ja": "福岡のホテルでフロント係として働く29歳で、貯蓄が¥1,600,000、TOEICが780点の方。カナダのワーキングホリデー（IEC）について、申請の時期、トロントかバンクーバーか、医療保険、費用、2027年5月から2027年6月の到着に向けた手元資金の持ちを検討している。"
+  },
+  "localeReason": "Japanese serves this decision directly: the person lives and works in Fukuoka, applies from Japan with a Japanese passport and plans around a Japanese-yen savings figure, and needs to compare Japanese-issued insurance with Canadian options. Reading the conditions, the 31st-birthday limit and the open issues in Japanese helps compare them with the Canadian official pages. It changes no rule, fee, date or figure.",
+  "sources": [
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility/eligibility-by-country.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility/eligibility-by-country.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC: www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=928&top=25",
+      "url": "https://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=928&top=25",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/become-candidate.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/become-candidate.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/rounds-invitations.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/rounds-invitations.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC: ircc.canada.ca/english/work/iec/selections.asp",
+      "url": "https://ircc.canada.ca/english/work/iec/selections.asp",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/become-candidate/chances.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/become-candidate/chances.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/apply-work-permit.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/apply-work-permit.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/prepare-arrival.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/prepare-arrival.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/after-apply-next-steps.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/after-apply-next-steps.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/japan.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/japan.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/start-working.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/start-working.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "IRCC: ircc.canada.ca/english/information/fees/fees.asp",
+      "url": "https://ircc.canada.ca/english/information/fees/fees.asp",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/about.html",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/about.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "Government of British Columbia: www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/wages/minimum-wage",
+      "url": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/wages/minimum-wage",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of British Columbia: www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/wages/tips-gratuities",
+      "url": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/wages/tips-gratuities",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Ontario: www.ontario.ca/document/your-guide-employment-standards-act-0/minimum-wage",
+      "url": "https://www.ontario.ca/document/your-guide-employment-standards-act-0/minimum-wage",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Ontario: www.ontario.ca/document/your-guide-employment-standards-act-0/tips-or-other-gratuities",
+      "url": "https://www.ontario.ca/document/your-guide-employment-standards-act-0/tips-or-other-gratuities",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Job Bank (Government of Canada): www.jobbank.gc.ca/wagereport/occupation/6653",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/6653",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Job Bank (Government of Canada): www.jobbank.gc.ca/marketreport/outlook-occupation/6653/ON",
+      "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/6653/ON",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Job Bank (Government of Canada): www.jobbank.gc.ca/wagereport/occupation/6546",
+      "url": "https://www.jobbank.gc.ca/wagereport/occupation/6546",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Job Bank (Government of Canada): www.jobbank.gc.ca/marketreport/outlook-occupation/6546/ON",
+      "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/6546/ON",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of British Columbia: www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/are-you-eligible",
+      "url": "https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/are-you-eligible",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of British Columbia: www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/are-you-eligible/working-holiday-programs",
+      "url": "https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/are-you-eligible/working-holiday-programs",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of British Columbia: www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/how-to-enrol",
+      "url": "https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/how-to-enrol",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of British Columbia: www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/premiums",
+      "url": "https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/premiums",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Ontario: www.ontario.ca/page/apply-ohip-and-get-health-card",
+      "url": "https://www.ontario.ca/page/apply-ohip-and-get-health-card",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "t@biho (insurer price page): tabiho.jp/plan-workingholiday/canada/index.html",
+      "url": "https://tabiho.jp/plan-workingholiday/canada/index.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "AIG agency page (kaigaihoken.jp): www.kaigaihoken.jp/price/study.html",
+      "url": "https://www.kaigaihoken.jp/price/study.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BestQuote (broker page, unconfirmed): bestquotetravelinsurance.ca/iec-travel-insurance",
+      "url": "https://bestquotetravelinsurance.ca/iec-travel-insurance",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Zumper (listing aggregator, unconfirmed): www.zumper.com/rent-research/vancouver-bc",
+      "url": "https://www.zumper.com/rent-research/vancouver-bc",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Zumper (listing aggregator, unconfirmed): www.zumper.com/rooms-for-rent/vancouver-bc",
+      "url": "https://www.zumper.com/rooms-for-rent/vancouver-bc",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Zumper (listing aggregator, unconfirmed): www.zumper.com/rent-research/toronto-on",
+      "url": "https://www.zumper.com/rent-research/toronto-on",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Kijiji classifieds (unconfirmed): www.kijiji.ca/b-room-rental-roommate/british-columbia/metrotown/k0c36l9007",
+      "url": "https://www.kijiji.ca/b-room-rental-roommate/british-columbia/metrotown/k0c36l9007",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Rentals.ca (blocked, no data used): rentals.ca/national-rent-report",
+      "url": "https://rentals.ca/national-rent-report",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/individuals/tax-rates-brackets/current-year.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/tax-rates-brackets/current-year.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/adjustment-personal-income-tax-benefit-amounts.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/adjustment-personal-income-tax-benefit-amounts.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/canada-pension-plan-cpp/cpp-contribution-rates-maximums-exemptions.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/canada-pension-plan-cpp/cpp-contribution-rates-maximums-exemptions.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/employment-insurance-ei/ei-premium-rates-maximums.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/employment-insurance-ei/ei-premium-rates-maximums.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of British Columbia: www2.gov.bc.ca/gov/content/taxes/income-taxes/personal/credits/basic",
+      "url": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/personal/credits/basic",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/content/dam/cra-arc/formspubs/pbg/td1on/td1on-26e.pdf",
+      "url": "https://www.canada.ca/content/dam/cra-arc/formspubs/pbg/td1on/td1on-26e.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/federal-non-refundable-tax-credits-newcomers-emigrants.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/federal-non-refundable-tax-credits-newcomers-emigrants.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals/filing-dates-tax-return.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals/filing-dates-tax-return.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit/individuals.html",
+      "url": "https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit/individuals.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/employment-social-development/services/sin/temporary-residents.html",
+      "url": "https://www.canada.ca/en/employment-social-development/services/sin/temporary-residents.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government of Canada: www.canada.ca/en/employment-social-development/services/sin/apply.html",
+      "url": "https://www.canada.ca/en/employment-social-development/services/sin/apply.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "TD newcomer page (no figures extracted): www.td.com/ca/en/personal-banking/solutions/new-to-canada",
+      "url": "https://www.td.com/ca/en/personal-banking/solutions/new-to-canada",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Bank of Canada: www.bankofcanada.ca/valet/observations/FXCADJPY/json?recent=5",
+      "url": "https://www.bankofcanada.ca/valet/observations/FXCADJPY/json?recent=5",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "savings_cad": {
+      "label": "¥1,600,000 savings at the planning rate of 115.6 yen per CAD (assumed 3% spread over the Bank of Canada rate; not a quoted rate)",
+      "value": 13841,
+      "unit": "CAD",
+      "display": "CAD 13,841"
+    },
+    "fees_total": {
+      "label": "IEC fee, open work permit holder fee and biometrics (official; 2027 fees not published)",
+      "value": 369.75,
+      "unit": "CAD",
+      "display": "CAD 369.75"
+    },
+    "funds_min": {
+      "label": "Minimum proof of funds required (a floor, not a budget)",
+      "value": 2500,
+      "unit": "CAD",
+      "display": "CAD 2,500"
+    },
+    "landing_vancouver": {
+      "label": "Cash on landing, Vancouver (savings minus upfront costs; most upfront items are assumptions)",
+      "value": 6644,
+      "unit": "CAD",
+      "display": "CAD 6,644"
+    },
+    "landing_toronto": {
+      "label": "Cash on landing, Toronto (savings minus upfront costs; most upfront items are assumptions)",
+      "value": 6664,
+      "unit": "CAD",
+      "display": "CAD 6,664"
+    },
+    "lowest_cash": {
+      "label": "Lowest cash in the Vancouver scenario where work is found after 6 weeks (illustrative model)",
+      "value": 2579,
+      "unit": "CAD",
+      "display": "CAD 2,579"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Yuki, 29, hotel front desk in Fukuoka, TOEIC 780, savings ¥1,600,000, target arrival May to June 2027. Birthday not known to the guide.",
+    "timing": "Apply the day the 2027 Japan pool opens (no date announced); the invitation must come before the 31st birthday. Plan for mid-May to June 2027; the 2026 first-round date (week of 2 March 2026) is an unconfirmed search snippet.",
+    "city": "Toronto is a low-confidence lean for a hotel front-desk job, based on Job Bank outlook (Good in the Toronto region, Limited in Lower Mainland–Southwest); no official time-to-hire measure exists.",
+    "budget": {
+      "fx": "Bank of Canada 112.2334 yen per CAD on 2026-11-06; planning rate 115.6 (112.2334 x 1.03, an assumed 3% spread, not a quoted rate).",
+      "assumptions": "One-way flight ¥150,000, return-ticket reserve ¥120,000, temporary stay 14 nights at CAD 70, setup CAD 500, food CAD 450, transit CAD 130, phone CAD 50, misc CAD 200 a month are planning assumptions; rents are listing examples (unconfirmed).",
+      "tax": "Illustrative tax example uses 2026 rates as a proxy for 2027, 231 days of residence, 3 idle weeks, 8 part-time weeks (20 h) and 22 full-time weeks (35 h) at provincial minimum wage; refund about CAD 264 (BC) and CAD 265 (Ontario)."
+    }
+  },
+  "datePolicy": "Sources were read on 2026-11-07 and 2026-11-08 in the original run and those access dates are kept. Page dates, wage years and tax years are source dates, not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The 2027 pool opening date, the Japan 2027 quota and round dates are not published; the 2026 quota of 6,433 and round dates come from a search-result snippet only (unconfirmed).",
+    "Whether biometrics will be requested is decided in the applicant's account.",
+    "Toronto as the starting city is a low-confidence judgement; no official source measures time-to-hire, and Job Bank medians (reference period 2023-24) appear floored to the current minimum wage (inference).",
+    "OHIP: the page does not name IEC, so acceptance of an open IEC permit is unconfirmed. BC MSP has a wait of the rest of the arrival month plus 2 months, and its working-holiday sub-page (last updated October 2022) adds six consecutive months of employment and at least 18 hours a week.",
+    "Insurance: only the t@biho price is from an insurer price page; the BestQuote price is an unconfirmed broker page and AIG, guard.me, Allianz, Cigna and Manulife prices were not obtained.",
+    "Rents are listing examples or aggregator medians (unconfirmed); Rentals.ca and CMHC data could not be read. Bank newcomer fees and ID rules were not obtained.",
+    "Flights, food, transit, temporary stay, setup and the 3% exchange spread are planning assumptions. Ontario basic personal amount CAD 12,989 was read from a PDF with moderate confidence in its placement. The Ontario Health Premium and surtax were assumed nil (not verified); BC/Ontario 2027 tax parameters and the earliest 2027 filing date were not available.",
+    "Tax example is a rough proxy: it uses a weekly CPP exemption (applied once a year, CPP would be about CAD 802 and the refund about CAD 246) and counts income tax only as withheld.",
+    "Some pages were read in a persistent browser profile that cannot be certified clean (no sign-in or cookie import); most government pages were read with a plain page request."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Japanese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain page requests for most government pages and a persistent managed browser profile for rent sites, Job Bank, an insurer table and bank pages; that profile cannot be certified clean. Rentals.ca was blocked by a verification wall and not bypassed; bank newcomer pages loaded without usable figures; the 2026 Japan quota and round dates are a search snippet only.",
+    "independentCheckDisposition": "A second read-through recomputed the money figures (all within CAD 1 or ¥1, two yen totals ¥1.2 out from rounding) and re-checked the main claims against the official pages. It corrected the BC MSP wait source and added the 18 hours a week and six-month employment conditions, noted that the EI page already lists 2027 at 1.64%, asked for the tax method to be stated, added the Japan residence requirement and the 2023-24 Job Bank reference period, and added a yen rounding note; the guide follows those corrections. The check file does not record who performed it, so it is not described as an outside audit.",
+    "editingContract": "Only data/japan-working-holiday-canada-toronto-pool-timing-and-runway.json, en/ and ja/ Markdown for this slug and checks/batch42-japan-working-holiday-canada-toronto-pool-timing-and-runway-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}
