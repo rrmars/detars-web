@@ -1,5 +1,10 @@
 import { SUPPORT_EMAIL } from "@/lib/legal";
-import { withLocale, type Locale } from "@/lib/site";
+import { withLocale, type AnyLocale, type Locale } from "@/lib/site";
+
+export const mobileMenuLabel: Record<AnyLocale, string> = {
+  en: "Menu", zh: "菜单", "zh-Hant": "選單", ja: "メニュー", fr: "Menu", es: "Menú",
+  id: "Menu", "pt-BR": "Menu", vi: "Menu", th: "เมนู", ko: "메뉴"
+};
 
 export type NavItem = { route: string; label: Record<Locale, string> };
 
@@ -53,6 +58,7 @@ export const footerGroups: { title: Record<Locale, string>; items: FooterItem[] 
   {
     title: { en: "Resources", zh: "资源", "zh-Hant": "資源", ja: "リソース", fr: "Ressources", es: "Recursos" },
     items: [
+      navItems.find((item) => item.route === "/scenarios")!,
       { route: "/research", label: { en: "Research", zh: "研究", "zh-Hant": "研究", ja: "リサーチ", fr: "Recherche", es: "Investigación" } },
       { route: "/faq", label: { en: "FAQ", zh: "常见问题", "zh-Hant": "常見問題", ja: "FAQ", fr: "FAQ", es: "Preguntas" } },
       { route: "/updates", label: { en: "Updates", zh: "更新", "zh-Hant": "更新", ja: "アップデート", fr: "Nouveautés", es: "Novedades" } }

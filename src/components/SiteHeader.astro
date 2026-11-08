@@ -1,5 +1,5 @@
 ---
-import { ctaLabel, navItems } from "@/lib/nav";
+import { ctaLabel, mobileMenuLabel, navItems } from "@/lib/nav";
 import { scenarioChrome } from "@/lib/scenario-i18n";
 import { hreflangMap, isScenarioOnly, localeLabels, locales, withLocale, type AnyLocale, type Locale } from "@/lib/site";
 
@@ -54,6 +54,16 @@ const ctaText = scenarioOnly ? chrome!.cta : ctaLabel[locale as Locale];
         </div>
       </details>
       <a class="cta" href={ctaHref} {...(scenarioOnly ? { hreflang: "en" } : {})}>{ctaText}</a>
+      <details class="mobile-menu">
+        <summary aria-label={mobileMenuLabel[locale]} title={mobileMenuLabel[locale]}>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" /></svg>
+        </summary>
+        <nav class="mobile-nav" aria-label={mobileMenuLabel[locale]}>
+          {navLinks.map((item) => (
+            <a href={item.href} aria-current={item.current ? "page" : undefined}>{item.label}</a>
+          ))}
+        </nav>
+      </details>
     </div>
   </div>
 </header>
@@ -65,9 +75,14 @@ const ctaText = scenarioOnly ? chrome!.cta : ctaLabel[locale as Locale];
     addEventListener("scroll", onScroll, { passive: true });
     onScroll();
     document.addEventListener("click", (e) => {
-      document.querySelectorAll("details.lang-menu[open]").forEach((d) => {
+      document.querySelectorAll("details.lang-menu[open], details.mobile-menu[open]").forEach((d) => {
         if (!d.contains(e.target)) d.removeAttribute("open");
       });
+    });
+    h.addEventListener("keydown", (e) => {
+      if (e.key !== "Escape") return;
+      const d = e.target.closest("details[open]");
+      if (d) { d.removeAttribute("open"); d.querySelector("summary")?.focus(); }
     });
   })();
 </script>
@@ -75,6 +90,13 @@ const ctaText = scenarioOnly ? chrome!.cta : ctaLabel[locale as Locale];
   .site-nav { gap: 20px; }
   @media (min-width: 861px) and (max-width: 1180px) { .site-nav { gap: 12px; font-size: 12px; } .hd-right { gap: 10px; } }
   @media (max-width: 1000px) { .site-nav { display: none; } }
+  .mobile-menu { display: none; position: relative; }
+  .mobile-menu > summary { list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: center; width: 44px; height: 44px; border: 1px solid var(--line2); border-radius: 9px; color: var(--text); }
+  .mobile-menu > summary::-webkit-details-marker { display: none; }
+  .mobile-nav { position: absolute; right: 0; top: calc(100% + 10px); width: min(290px, calc(100vw - 44px)); max-height: calc(100dvh - 100px); overflow-y: auto; display: flex; flex-direction: column; gap: 4px; padding: 8px; border: 1px solid var(--line2); border-radius: 12px; background: #0e0b09; box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5); }
+  .mobile-nav a { min-height: 44px; display: flex; align-items: center; padding: 10px 14px; border-radius: 8px; font-size: 15px; color: var(--muted); }
+  .mobile-nav a:hover, .mobile-nav a[aria-current="page"] { color: var(--accent2); background: rgba(255, 106, 61, 0.1); }
+  @media (max-width: 1000px) { .mobile-menu { display: block; } }
   .lang-menu { position: relative; }
   .lang-menu > summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 7px; font-family: var(--sg); font-size: 13px; color: var(--muted); border: 1px solid var(--line); border-radius: 9px; padding: 7px 11px; transition: border-color 0.2s, color 0.2s; white-space: nowrap; }
   .lang-menu > summary::-webkit-details-marker { display: none; }
@@ -85,6 +107,7 @@ const ctaText = scenarioOnly ? chrome!.cta : ctaLabel[locale as Locale];
   .lang-pop a { font-size: 14px; color: var(--muted); padding: 9px 12px; border-radius: 8px; transition: background 0.15s, color 0.15s; }
   .lang-pop a:hover { background: rgba(255, 255, 255, 0.05); color: var(--text); }
   .lang-pop a.on { color: var(--accent2); background: rgba(255, 106, 61, 0.1); }
+  @media (max-width: 480px) { .hd-right > .cta { display: none; } }
   @media (max-width: 600px) {
     .brand { gap: 6px; font-size: 18px; }
     .brand .mark { width: 30px; height: 30px; }
