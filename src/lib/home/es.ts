@@ -1,18 +1,21 @@
 import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeEs: HomeCopy = {
-  metaTitle: "DeTars | Lánzale una línea. Hace el resto.",
+  metaTitle: "DeTars | ¿IA para todo el mundo? Esta es para ti.",
   metaDescription:
-    "Para el trabajo personal que no cabe en una sola conversación: dale un objetivo a DeTars desde una app de chat que ya usas, trabaja sola durante horas y vuelve con un resultado terminado.",
-  heroEyebrow: "Tu propia IA que hace el trabajo de verdad",
-  heroH1: "Lánzale una línea a DeTars. <span class='grad'>Hace el resto.</span>",
-  heroSub: "Para el trabajo personal que no cabe en una sola conversación.",
+    "Tus objetivos, tus proyectos, tu día a día. Una compañera de IA para ayudarte a avanzar.",
+  heroEyebrow: "Tu compañera de IA personal",
+  heroH1: "¿IA para todo el mundo?<br><span class='grad'>Esta es para ti.</span>",
+  heroSub: "Tus objetivos, tus proyectos, tu día a día.<br>Una compañera de IA para ayudarte a avanzar.",
   heroPrimary: "Empieza por un objetivo →",
   heroSecondary: "Mira cómo trabaja para ti",
+  futureKicker: "El futuro que estamos construyendo",
+  futureH2: "Más en tu dispositivo.<br>Más posibilidades para ti.",
+  futureP: "A medida que los modelos mejoran y la potencia de cálculo se hace más accesible, queremos que DeTars pueda hacer más en tu propio dispositivo, con la IA local y la nube colaborando y tu privacidad en el centro.",
   proof: [
     { n: "Horas", l: "sin vigilancia · incluso toda la noche" },
     { n: "Todos", l: "los modelos principales · cambia cuando quieras" },
-    { n: "100%", l: "lo que sabe se queda en tu máquina" }
+    { n: "Tu dispositivo", l: "Un hogar para tu compañera de IA" }
   ],
   verify: "· Todo lo que se afirma aquí puedes comprobarlo en tu propia máquina — no es retórica de presentación",
   hookKicker: "Por qué ahora",
@@ -84,18 +87,16 @@ export const homeEs: HomeCopy = {
     },
     {
       idx: "04",
-      h3: "Es tuya — y nadie te la puede quitar",
-      story:
-        "Vive en tu propia máquina y te va conociendo con el tiempo. Pero todo lo que recuerda sobre ti <b>necesita tu visto bueno primero</b>; esa memoria es un archivo en tu disco, no una cuenta en el servidor de alguien. Nadie puede inutilizarla con un aviso, como les pasó a Rewind o Humane.",
-      head: "~/detars/memory",
-      lab: "local",
+      h3: "Tu IA, con la privacidad en el centro",
+      story: "El almacenamiento local no significa que todas las tareas funcionen sin conexión: cuando usas un modelo en la nube, los datos pertinentes de la tarea se envían a su proveedor. <b>Nuestra dirección: más trabajo en tu dispositivo, con la IA local y la nube colaborando.</b>",
+      head: "local + cloud",
+      lab: "En el dispositivo",
       body: [
-        "<span class='dim'>./profile.mem</span>",
-        "<span class='dim'>./projects/*.mem</span>",
-        "nueva memoria → <span class='hl'>esperando tu ok</span>",
-        "<span class='ok'>✓ funciona sin conexión · nada se sube</span>"
+        "<span class='dim'>DeTars</span>",
+        "Tareas en la nube → se envían datos pertinentes",
+        "Nuestra dirección → más capacidad local"
       ],
-      foot: "<b>Real:</b> memoria e identidad son archivos en tu disco — la soberanía está grabada en la arquitectura."
+      foot: "<b>Nuestra dirección:</b> más capacidades locales, no una promesa de que todo funcione sin conexión."
     },
     {
       idx: "05",

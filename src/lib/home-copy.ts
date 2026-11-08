@@ -15,6 +15,9 @@ export type HomeCopy = {
   heroSub: string;
   heroPrimary: string;
   heroSecondary: string;
+  futureKicker: string;
+  futureH2: string;
+  futureP: string;
   proof: { n: string; l: string }[];
   verify: string;
   hookKicker: string;
@@ -37,18 +40,21 @@ export type HomeCopy = {
 };
 
 const en: HomeCopy = {
-  metaTitle: "DeTars | Toss it one line. It runs the rest.",
+  metaTitle: "DeTars | AI for everyone? This one’s for you.",
   metaDescription:
-    "For the personal work that takes more than one chat: hand DeTars a goal from a chat app you already use, it works on its own for hours, then comes back with a finished result.",
-  heroEyebrow: "Your own AI that gets real work done",
-  heroH1: "Toss DeTars one line. <span class='grad'>It runs the rest.</span>",
-  heroSub: "For the personal work that takes more than one chat.",
+    "Your goals, your projects, your everyday life. An AI partner to help you move them forward.",
+  heroEyebrow: "Your personal AI partner",
+  heroH1: "AI for everyone?<br><span class='grad'>This one’s for you.</span>",
+  heroSub: "Your goals, your projects, your everyday life.<br>An AI partner to help you move them forward.",
   heroPrimary: "Start with a goal →",
   heroSecondary: "See it work for you",
+  futureKicker: "The future we’re building",
+  futureH2: "More on your device.<br>More possibilities for you.",
+  futureP: "As models become more capable and computing power more accessible, we’re working toward a DeTars that can do more on your own device—with local and cloud intelligence working together, and your privacy at the heart of it.",
   proof: [
     { n: "Hours", l: "it works unattended · even overnight" },
     { n: "All", l: "the major models · switch anytime" },
-    { n: "100%", l: "what it knows stays on your machine" }
+    { n: "Your device", l: "A home for your AI partner" }
   ],
   verify: "· Every claim here is one you can check on your own machine — not slide-deck rhetoric",
   hookKicker: "Why now",
@@ -120,18 +126,16 @@ const en: HomeCopy = {
     },
     {
       idx: "04",
-      h3: "It's yours — and no one can take it",
-      story:
-        "It lives on your own machine and learns you over time. But everything it remembers about you <b>needs your nod first</b>; that memory is a file on your disk, not an account on someone's server. No one can brick it with a notice the way Rewind or Humane did.",
-      head: "~/detars/memory",
-      lab: "local",
+      h3: "Your AI, with privacy at the heart of it",
+      story: "Local storage does not mean every task stays offline: when you use a cloud model, relevant task inputs are sent to its provider. <b>Our direction is more work on your own device, with local and cloud intelligence working together.</b>",
+      head: "local + cloud",
+      lab: "On-device",
       body: [
-        "<span class='dim'>./profile.mem</span>",
-        "<span class='dim'>./projects/*.mem</span>",
-        "new memory → <span class='hl'>awaiting your ok</span>",
-        "<span class='ok'>✓ works offline · nothing uploaded</span>"
+        "<span class='dim'>DeTars</span>",
+        "Cloud tasks → relevant inputs sent",
+        "Our direction → more local capability"
       ],
-      foot: "<b>Real:</b> memory and identity are files on your disk — sovereignty baked into the architecture."
+      foot: "<b>Our direction:</b> more local capability, not a promise that every task runs offline."
     },
     {
       idx: "05",
@@ -176,18 +180,21 @@ const en: HomeCopy = {
 };
 
 const zh: HomeCopy = {
-  metaTitle: "DeTars | 一句话甩给它,剩下的它替你跑完",
+  metaTitle: "DeTars | AI 可以服务所有人。 这个，是为你的。",
   metaDescription:
-    "那些一次对话做不完的私人事务,交给 DeTars:从你常用的聊天软件甩一句话过去,它自己跑上几小时,做完带着成品回来找你。",
-  heroEyebrow: "会自己干活的私人 AI",
-  heroH1: "一句话甩给 DeTars,<span class='grad'>剩下的它替你跑完。</span>",
-  heroSub: "那些一次对话做不完的私人事务,交给它。",
+    "你的目标、你的项目、你的日常。 一个陪你把事情往前推进的 AI 伙伴。",
+  heroEyebrow: "你的私人 AI 伙伴",
+  heroH1: "AI 可以服务所有人。<br><span class='grad'>这个，是为你的。</span>",
+  heroSub: "你的目标、你的项目、你的日常。<br>一个陪你把事情往前推进的 AI 伙伴。",
   heroPrimary: "从一个目标开始 →",
   heroSecondary: "看它怎么陪你做事",
+  futureKicker: "我们正在创造的未来",
+  futureH2: "更多事情，在你的设备上完成。<br>更多可能，为你打开。",
+  futureP: "随着模型能力提升、算力日益普及，我们希望让 DeTars 在你的设备上完成更多事情。让本地与云端智能各展所长、协同配合，把保护你的隐私放在核心位置。",
   proof: [
     { n: "几小时", l: "无人值守 · 挂着跑一整夜" },
     { n: "所有", l: "主流模型 · 随用随切" },
-    { n: "100%", l: "它知道的一切都留在你电脑上" }
+    { n: "你的设备", l: "AI 伙伴在这里安家" }
   ],
   verify: "· 这里每一条,你都能在自己电脑上验证,不是 PPT 上的修辞",
   hookKicker: "为什么是现在",
@@ -259,18 +266,16 @@ const zh: HomeCopy = {
     },
     {
       idx: "04",
-      h3: "它是你的,记得你,谁也拿不走",
-      story:
-        "它住在你自己的电脑里,用得越久越懂你。但它学到的每一条,都要<b>你点头才记住</b>;记忆是你硬盘上的文件,不是某家公司服务器上的账号。没有谁能像 Rewind、Humane 那样,一纸通知就把它砖掉。",
-      head: "~/detars/memory",
-      lab: "本地",
+      h3: "你的 AI，把隐私放在心上",
+      story: "本地存储不等于所有任务都离线运行：使用云模型时，相关任务输入会发送给对应服务商。<b>我们的方向，是让更多事情在你的设备上完成，让本地与云端智能协同配合。</b>",
+      head: "local + cloud",
+      lab: "本地设备",
       body: [
-        "<span class='dim'>./profile.mem</span>",
-        "<span class='dim'>./projects/*.mem</span>",
-        "新记忆 → <span class='hl'>等你确认</span>",
-        "<span class='ok'>✓ 离线可用 · 一字不上传</span>"
+        "<span class='dim'>DeTars</span>",
+        "云模型任务 → 发送相关输入",
+        "未来方向 → 更多本地能力"
       ],
-      foot: "<b>底气:</b>记忆与身份是你磁盘上的文件,主权写死在架构里。"
+      foot: "<b>我们的方向：</b>持续增强本地能力，不是承诺所有任务都能离线完成。"
     },
     {
       idx: "05",

@@ -1,18 +1,21 @@
 import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeJa: HomeCopy = {
-  metaTitle: "DeTars | 一行、放り込むだけ。あとは走り切る。",
+  metaTitle: "DeTars | みんなのためのAI？ これは、あなたのために。",
   metaDescription:
-    "一度のチャットでは終わらない、あなたの用事のために。使い慣れたチャットアプリから一行渡せば、DeTarsは自分で何時間も動き、仕上がった成果を持って戻ってくる。",
-  heroEyebrow: "本当の仕事をこなす、あなた専用のAI",
-  heroH1: "DeTarsに一行、放り込むだけ。<span class='grad'>あとは走り切る。</span>",
-  heroSub: "一度のチャットでは終わらない、あなたの用事のために。",
+    "あなたの目標、プロジェクト、毎日の暮らし。 一緒に前へ進めるAIパートナー。",
+  heroEyebrow: "あなたのAIパートナー",
+  heroH1: "みんなのためのAI？<br><span class='grad'>これは、あなたのために。</span>",
+  heroSub: "あなたの目標、プロジェクト、毎日の暮らし。<br>一緒に前へ進めるAIパートナー。",
   heroPrimary: "目標をひとつ渡す →",
   heroSecondary: "どう働くかを見る",
+  futureKicker: "私たちがつくる未来",
+  futureH2: "あなたのデバイスで、もっと。<br>あなたの可能性を、もっと。",
+  futureP: "モデルの能力が高まり、計算資源がより身近になるにつれて、DeTarsがあなたのデバイス上でできることを増やしていきたいと考えています。ローカルとクラウドのAIが協力し、プライバシーをその中心に据える未来へ。",
   proof: [
     { n: "数時間", l: "付きっきり不要 · 一晩中でも" },
     { n: "すべての", l: "主要モデル · いつでも切替" },
-    { n: "100%", l: "知ったことはあなたのマシンの中" }
+    { n: "あなたのデバイス", l: "AIパートナーの居場所" }
   ],
   verify: "· ここにあるものはすべて、あなたのマシンで確かめられる——スライドの修辞ではない",
   hookKicker: "なぜ、今なのか",
@@ -84,18 +87,16 @@ export const homeJa: HomeCopy = {
     },
     {
       idx: "04",
-      h3: "あなたのもの——誰にも奪えない",
-      story:
-        "それはあなた自身のマシンの中で生き、時間をかけてあなたを学ぶ。だが、あなたについて覚えることはすべて<b>まずあなたの了承が要る</b>。その記憶はあなたのディスク上のファイルであって、誰かのサーバー上のアカウントではない。RewindやHumaneのように、一通の通知で文鎮化させられることはない。",
-      head: "~/detars/memory",
-      lab: "local",
+      h3: "あなたのAI。プライバシーを中心に。",
+      story: "ローカル保存は、すべてのタスクがオフラインで動くという意味ではありません。クラウドモデルを使う場合、関連するタスク入力はその提供元に送られます。<b>私たちは、ローカルとクラウドのAIを連携させながら、あなたのデバイスでできることを増やす方向を目指しています。</b>",
+      head: "local + cloud",
+      lab: "デバイス上",
       body: [
-        "<span class='dim'>./profile.mem</span>",
-        "<span class='dim'>./projects/*.mem</span>",
-        "new memory → <span class='hl'>awaiting your ok</span>",
-        "<span class='ok'>✓ works offline · nothing uploaded</span>"
+        "<span class='dim'>DeTars</span>",
+        "クラウドタスク → 関連する入力を送信",
+        "目指す方向 → ローカル能力の拡充"
       ],
-      foot: "<b>本物：</b>記憶と人格はあなたのディスク上のファイル——主権がアーキテクチャに焼き込まれている。"
+      foot: "<b>目指す方向：</b>ローカル能力の拡充。全タスクのオフライン実行を約束するものではありません。"
     },
     {
       idx: "05",

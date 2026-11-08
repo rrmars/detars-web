@@ -24,6 +24,15 @@ const dl = (route: string) => withLocale(locale, route);
   <p class="verify">{t.verify}</p>
 </section>
 
+<!-- FUTURE DIRECTION -->
+<section class="band shell hook" id="future">
+  <div class="reveal">
+    <span class="kicker">{t.futureKicker}</span>
+    <h2 set:html={t.futureH2} />
+    <p>{t.futureP}</p>
+  </div>
+</section>
+
 <!-- HOOK -->
 <section class="band shell hook">
   <div class="reveal">

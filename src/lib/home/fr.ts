@@ -1,18 +1,21 @@
 import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeFr: HomeCopy = {
-  metaTitle: "DeTars | Lancez-lui une ligne. Elle fait le reste.",
+  metaTitle: "DeTars | Une IA pour tout le monde ? Celle-ci est pour vous.",
   metaDescription:
-    "Pour le travail personnel qui prend plus d'une conversation : confiez un objectif à DeTars depuis une messagerie que vous utilisez déjà, elle travaille seule pendant des heures, puis revient avec un résultat fini.",
-  heroEyebrow: "Votre IA personnelle qui abat du vrai travail",
-  heroH1: "Lancez une ligne à DeTars. <span class='grad'>Elle fait le reste.</span>",
-  heroSub: "Pour le travail personnel qui prend plus d'une conversation.",
+    "Vos objectifs, vos projets, votre quotidien. Une partenaire IA pour vous aider à avancer.",
+  heroEyebrow: "Votre partenaire IA personnelle",
+  heroH1: "Une IA pour tout le monde ?<br><span class='grad'>Celle-ci est pour vous.</span>",
+  heroSub: "Vos objectifs, vos projets, votre quotidien.<br>Une partenaire IA pour vous aider à avancer.",
   heroPrimary: "Commencer par un objectif →",
   heroSecondary: "Voyez-la travailler pour vous",
+  futureKicker: "L’avenir que nous construisons",
+  futureH2: "Plus sur votre appareil.<br>Plus de possibilités pour vous.",
+  futureP: "À mesure que les modèles gagnent en capacité et que la puissance de calcul devient plus accessible, nous voulons que DeTars puisse en faire davantage sur votre propre appareil, en faisant coopérer l’IA locale et le cloud, avec votre vie privée au cœur de cette démarche.",
   proof: [
     { n: "Des heures", l: "sans surveillance · même toute la nuit" },
     { n: "Tous", l: "les grands modèles · à changer quand vous voulez" },
-    { n: "100%", l: "ce qu'elle sait reste sur votre machine" }
+    { n: "Votre appareil", l: "Un chez-soi pour votre partenaire IA" }
   ],
   verify: "· Tout ce qui est affirmé ici se vérifie sur votre propre machine — pas de la rhétorique de slide",
   hookKicker: "Pourquoi maintenant",
@@ -84,18 +87,16 @@ export const homeFr: HomeCopy = {
     },
     {
       idx: "04",
-      h3: "Elle est à vous — et personne ne peut vous la prendre",
-      story:
-        "Elle vit sur votre propre machine et vous apprend au fil du temps. Mais tout ce qu'elle retient de vous <b>passe d'abord par votre accord</b> ; cette mémoire est un fichier sur votre disque, pas un compte sur le serveur d'un tiers. Personne ne peut la bloquer d'un simple avis, comme Rewind ou Humane l'ont fait.",
-      head: "~/detars/memory",
-      lab: "local",
+      h3: "Votre IA, avec la vie privée au cœur",
+      story: "Le stockage local ne signifie pas que chaque tâche fonctionne hors ligne : lorsque vous utilisez un modèle cloud, les données pertinentes de la tâche sont envoyées à son fournisseur. <b>Notre direction : davantage de travail sur votre appareil, avec une IA locale et cloud qui coopèrent.</b>",
+      head: "local + cloud",
+      lab: "Sur l’appareil",
       body: [
-        "<span class='dim'>./profile.mem</span>",
-        "<span class='dim'>./projects/*.mem</span>",
-        "nouvelle mémoire → <span class='hl'>en attente de votre accord</span>",
-        "<span class='ok'>✓ fonctionne hors ligne · rien d'envoyé</span>"
+        "<span class='dim'>DeTars</span>",
+        "Tâches cloud → données pertinentes envoyées",
+        "Notre direction → plus de capacités locales"
       ],
-      foot: "<b>Du concret :</b> mémoire et identité sont des fichiers sur votre disque — la souveraineté est inscrite dans l'architecture."
+      foot: "<b>Notre direction :</b> plus de capacités locales, pas la promesse que toutes les tâches fonctionnent hors ligne."
     },
     {
       idx: "05",

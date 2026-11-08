@@ -1,18 +1,21 @@
 import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeZhHant: HomeCopy = {
-  metaTitle: "DeTars | 一句話甩給它,剩下的它替你跑完",
+  metaTitle: "DeTars | AI 可以服務所有人。 這個，是為你的。",
   metaDescription:
-    "那些一次對話做不完的私人事務,交給 DeTars:從你常用的聊天軟體甩一句話過去,它自己跑上好幾小時,做完帶著成品回來找你。",
-  heroEyebrow: "會自己幹活的私人 AI",
-  heroH1: "一句話甩給 DeTars,<span class='grad'>剩下的它替你跑完。</span>",
-  heroSub: "那些一次對話做不完的私人事務,交給它。",
+    "你的目標、你的專案、你的日常。 一個陪你把事情往前推進的 AI 夥伴。",
+  heroEyebrow: "你的私人 AI 夥伴",
+  heroH1: "AI 可以服務所有人。<br><span class='grad'>這個，是為你的。</span>",
+  heroSub: "你的目標、你的專案、你的日常。<br>一個陪你把事情往前推進的 AI 夥伴。",
   heroPrimary: "從一個目標開始 →",
   heroSecondary: "看它怎麼陪你做事",
+  futureKicker: "我們正在創造的未來",
+  futureH2: "更多事情，在你的裝置上完成。<br>更多可能，為你打開。",
+  futureP: "隨著模型能力提升、算力日益普及，我們希望讓 DeTars 在你的裝置上完成更多事情。讓本機與雲端智慧各展所長、協同配合，把保護你的隱私放在核心位置。",
   proof: [
     { n: "好幾小時", l: "無人看顧 · 掛著跑一整夜" },
     { n: "所有", l: "主流模型 · 隨用隨切" },
-    { n: "100%", l: "它知道的一切都留在你電腦上" }
+    { n: "你的裝置", l: "AI 夥伴在這裡安家" }
   ],
   verify: "· 這裡每一條,你都能在自己電腦上驗證,不是簡報上的修辭",
   hookKicker: "為什麼是現在",
@@ -84,18 +87,16 @@ export const homeZhHant: HomeCopy = {
     },
     {
       idx: "04",
-      h3: "它是你的,記得你,誰也拿不走",
-      story:
-        "它住在你自己的電腦裡,用得越久越懂你。但它學到的每一條,都要<b>你點頭才記住</b>;記憶是你硬碟上的檔案,不是某家公司伺服器上的帳號。沒有誰能像 Rewind、Humane 那樣,一紙通知就把它變磚塊。",
-      head: "~/detars/memory",
-      lab: "本機",
+      h3: "你的 AI，把隱私放在心上",
+      story: "本機儲存不等於所有任務都離線執行：使用雲端模型時，相關任務輸入會傳送給對應服務商。<b>我們的方向，是讓更多事情在你的裝置上完成，讓本機與雲端智慧協同配合。</b>",
+      head: "local + cloud",
+      lab: "本機裝置",
       body: [
-        "<span class='dim'>./profile.mem</span>",
-        "<span class='dim'>./projects/*.mem</span>",
-        "新記憶 → <span class='hl'>等你確認</span>",
-        "<span class='ok'>✓ 離線可用 · 一字不上傳</span>"
+        "<span class='dim'>DeTars</span>",
+        "雲端模型任務 → 傳送相關輸入",
+        "未來方向 → 更多本機能力"
       ],
-      foot: "<b>底氣:</b>記憶與身分是你磁碟上的檔案,主權寫死在架構裡。"
+      foot: "<b>我們的方向：</b>持續增強本機能力，不是承諾所有任務都能離線完成。"
     },
     {
       idx: "05",
