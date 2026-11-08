@@ -1,6 +1,7 @@
 // Localized UI text for the Scenarios section (index, article chrome, domain names) and the
 // minimal header/footer used by scenario-only locales. en and zh keep the strings that shipped
 // with the section; the others are first-pass translations meant for a native-speaker review.
+import { scenarioDe } from "@/lib/scenario.de";
 import type { AnyLocale, ScenarioOnlyLocale } from "@/lib/site";
 
 export type ScenarioCopy = {
@@ -132,17 +133,18 @@ const ko: ScenarioCopy = {
   tableLabel: "데이터 표 {n}, 가로 스크롤 가능", researchDate: "원래 조사일", recheckDate: "글 재확인일"
 };
 
-export const scenarioCopyByLocale: Record<AnyLocale, ScenarioCopy> = { en, zh, "zh-Hant": zhHant, ja, fr, es, id, "pt-BR": ptBR, vi, th, ko };
+export const scenarioCopyByLocale: Record<AnyLocale, ScenarioCopy> = { en, zh, "zh-Hant": zhHant, ja, fr, es, id, "pt-BR": ptBR, vi, th, ko, de: scenarioDe };
 export const scenarioCopy = (locale: AnyLocale): ScenarioCopy => scenarioCopyByLocale[locale];
 
 /** Short language chip labels on index cards. English and Chinese keep their original labels. */
 export const scenarioChipLabel: Record<AnyLocale, string> = {
-  en: "EN", zh: "中文", "zh-Hant": "繁體", ja: "日本語", fr: "FR", es: "ES", id: "ID", "pt-BR": "PT-BR", vi: "VI", th: "ไทย", ko: "한국어"
+  en: "EN", zh: "中文", "zh-Hant": "繁體", ja: "日本語", fr: "FR", es: "ES", id: "ID", "pt-BR": "PT-BR", vi: "VI", th: "ไทย", ko: "한국어", de: "DE"
 };
 
 // Domain names for locales other than en/zh (those two come from src/data/scenario-domains.json,
 // which the importer owns). Keyed by domain id.
 export const scenarioDomainNames: Partial<Record<AnyLocale, Record<string, string>>> = {
+  de: { housing: "Mieten und Wohnen", travel: "Reisepläne", buying: "Kaufentscheidungen", visas: "Visa und längere Aufenthalte", careers: "Arbeit und Karriere", living: "Lebenshaltungskosten", family: "Familie und Wohlbefinden", study: "Studium im Ausland", "ai-tools": "Getestete KI-Tools", business: "Kleine Unternehmen und Tabellen" },
   "zh-Hant": { housing: "租屋買房", travel: "旅行行程", buying: "買東西怎麼選", visas: "簽證長住", careers: "工作職涯", living: "生活成本", family: "家庭與健康", study: "留學", "ai-tools": "AI 工具實測", business: "小生意與試算表" },
   ja: { housing: "賃貸・住宅購入", travel: "旅行プラン", buying: "買い物の判断", visas: "ビザと長期滞在", careers: "仕事とキャリア", living: "生活費", family: "家族と健康", study: "留学", "ai-tools": "AI ツール実測", business: "小規模ビジネスとスプレッドシート" },
   fr: { housing: "Louer et acheter un logement", travel: "Itinéraires de voyage", buying: "Décisions d’achat", visas: "Visas et longs séjours", careers: "Travail et carrière", living: "Coût de la vie", family: "Famille et bien-être", study: "Études à l’étranger", "ai-tools": "Outils d’IA testés", business: "Petite entreprise et tableurs" },
@@ -156,7 +158,7 @@ export const scenarioDomainNames: Partial<Record<AnyLocale, Record<string, strin
 
 // Browser locale tags for Intl dates. Thai is forced to the Gregorian calendar (guides use CE years).
 export const intlTag: Record<AnyLocale, string> = {
-  en: "en-GB", zh: "zh-CN", "zh-Hant": "zh-TW", ja: "ja-JP", fr: "fr-FR", es: "es-ES", id: "id-ID", "pt-BR": "pt-BR", vi: "vi-VN", th: "th-TH-u-ca-gregory", ko: "ko-KR"
+  en: "en-GB", zh: "zh-CN", "zh-Hant": "zh-TW", ja: "ja-JP", fr: "fr-FR", es: "es-ES", id: "id-ID", "pt-BR": "pt-BR", vi: "vi-VN", th: "th-TH-u-ca-gregory", ko: "ko-KR", de: "de-DE"
 };
 
 // Header/footer text for scenario-only locales. Their site has no other pages, so the only local
@@ -167,8 +169,6 @@ export type ScenarioChrome = {
 };
 export const scenarioChrome: Record<ScenarioOnlyLocale, ScenarioChrome> = {
   id: { scenarios: "Skenario", cta: "Mulai", tagline: "Milik Anda, bukan sewaan", sub: "Terminal pendamping independen Anda, selamanya.", englishSite: "Situs lengkap (Inggris)", terms: "Ketentuan", privacy: "Privasi", refund: "Pengembalian dana", pricing: "Harga", legalNote: "Halaman di luar bagian Skenario tersedia dalam bahasa Inggris." },
-  "pt-BR": { scenarios: "Cenários", cta: "Começar", tagline: "Seu, não alugado", sub: "Seu terminal independente, para sempre.", englishSite: "Site completo (inglês)", terms: "Termos", privacy: "Privacidade", refund: "Reembolsos", pricing: "Preços", legalNote: "As páginas fora da seção Cenários estão disponíveis em inglês." },
   vi: { scenarios: "Tình huống", cta: "Bắt đầu", tagline: "Của bạn, không phải đi thuê", sub: "Trợ thủ đầu cuối độc lập của bạn, mãi mãi.", englishSite: "Toàn bộ trang web (tiếng Anh)", terms: "Điều khoản", privacy: "Quyền riêng tư", refund: "Hoàn tiền", pricing: "Bảng giá", legalNote: "Các trang ngoài mục Tình huống hiện chỉ có bằng tiếng Anh." },
-  th: { scenarios: "สถานการณ์จริง", cta: "เริ่มต้น", tagline: "เป็นของคุณ ไม่ใช่เช่า", sub: "เทอร์มินัลอิสระของคุณ ตลอดไป", englishSite: "เว็บไซต์ฉบับเต็ม (ภาษาอังกฤษ)", terms: "ข้อกำหนด", privacy: "ความเป็นส่วนตัว", refund: "การคืนเงิน", pricing: "ราคา", legalNote: "หน้าอื่นนอกเหนือจากส่วนสถานการณ์จริงมีเฉพาะภาษาอังกฤษ" },
-  ko: { scenarios: "시나리오", cta: "시작하기", tagline: "빌리는 게 아니라, 내 것", sub: "나만의 독립적인 영구 터미널 파트너.", englishSite: "전체 사이트(영어)", terms: "이용약관", privacy: "개인정보처리방침", refund: "환불 정책", pricing: "요금", legalNote: "시나리오 외의 페이지는 영어로만 제공됩니다." }
+  th: { scenarios: "สถานการณ์จริง", cta: "เริ่มต้น", tagline: "เป็นของคุณ ไม่ใช่เช่า", sub: "เทอร์มินัลอิสระของคุณ ตลอดไป", englishSite: "เว็บไซต์ฉบับเต็ม (ภาษาอังกฤษ)", terms: "ข้อกำหนด", privacy: "ความเป็นส่วนตัว", refund: "การคืนเงิน", pricing: "ราคา", legalNote: "หน้าอื่นนอกเหนือจากส่วนสถานการณ์จริงมีเฉพาะภาษาอังกฤษ" }
 };

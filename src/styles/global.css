@@ -127,7 +127,7 @@ html:not(.motion) .reveal { opacity: 1; transform: none; }
 .answer-card .lab { font-family: var(--sg); font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent2); }
 .answer-card p { margin-top: 10px; font-size: 17px; line-height: 1.7; color: var(--text); }
 .page-head { padding: 84px 0 10px; }
-.page-head h1 { font-weight: 900; font-size: clamp(38px, 5vw, 68px); line-height: 1.04; letter-spacing: -0.03em; margin-top: 22px; max-width: 18ch; }
+.page-head h1 { font-weight: 900; font-size: clamp(38px, 5vw, 68px); line-height: 1.04; letter-spacing: -0.03em; margin-top: 22px; max-width: 18ch; overflow-wrap: anywhere; hyphens: auto; }
 
 @media (max-width: 860px) {
   :root { --shell: calc(100vw - 44px); }

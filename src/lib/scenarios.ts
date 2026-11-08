@@ -21,6 +21,7 @@ export async function getScenarioCards(locale: AnyLocale): Promise<Scenario[]> {
   const all = await getScenarios();
   const chosen = new Map<string, Scenario>();
   for (const entry of all) {
+    if (entry.data.locale !== "en" && entry.data.locale !== locale) continue;
     const previous = chosen.get(entry.data.translationKey);
     if (!previous || entry.data.locale === locale) chosen.set(entry.data.translationKey, entry);
   }

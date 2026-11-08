@@ -1,12 +1,10 @@
 // Pricing and legal pages (/pricing, /terms, /privacy, /refund).
 //
-// English is the governing text and Simplified Chinese is a full translation.
-// The other locales serve the English text with localized page chrome and a
-// short localized notice; those copies point their canonical URL at the
-// English page and are left out of the sitemap (see astro.config.mjs).
-//
-// Copy lives in legal.en.ts / legal.zh.ts. Both are functions of `href` so
-// cross-links between these pages stay inside the visitor's locale.
+// English is the governing text; Simplified Chinese translates all four routes.
+// Korean, Brazilian Portuguese and German additionally translate /privacy.
+// Other route/locale pairs use English content with a localized notice,
+// canonical -> English, and no sitemap entry (see astro.config.mjs).
+// Factories take `href` so policy cross-links stay inside the visitor's locale.
 
 import type { Locale } from "@/lib/site";
 
@@ -16,9 +14,11 @@ export type LegalKey = (typeof legalRoutes)[number];
 
 /** Locales with their own translation of the legal pages. */
 export const legalLocales = ["en", "zh"] as const satisfies readonly Locale[];
+export const privacyLocales = [...legalLocales, "ko", "pt-BR", "de"] as const satisfies readonly Locale[];
+export const legalLocalesFor = (key: LegalKey): readonly Locale[] => key === "privacy" ? privacyLocales : legalLocales;
 
 /** Locales that serve the English text under localized chrome. */
-export const legalFallbackLocales = ["zh-Hant", "ja", "fr", "es"] as const satisfies readonly Locale[];
+export const legalFallbackLocales = ["zh-Hant", "ja", "fr", "es", "ko", "pt-BR", "de"] as const satisfies readonly Locale[];
 export type LegalFallbackLocale = (typeof legalFallbackLocales)[number];
 
 export const LEGAL_UPDATED = { en: "Last updated: October 2, 2026", zh: "最后更新:2026 年 10 月 2 日" } as const;
@@ -44,5 +44,8 @@ export const legalFallbackNotice: Record<LegalFallbackLocale, (zhHref: string) =
     `本頁目前只提供英文版,以英文版為準。另有<a href="${zhHref}" hreflang="zh-Hans">簡體中文譯本</a>可供參考。`,
   ja: () => "このページは現在、英語版のみです。英語版が正式な文面となります。",
   fr: () => "Cette page n’existe pour l’instant qu’en anglais. La version anglaise fait foi.",
-  es: () => "Por ahora esta página solo está disponible en inglés. La versión en inglés es la que prevalece."
+  es: () => "Por ahora esta página solo está disponible en inglés. La versión en inglés es la que prevalece.",
+  "ko": () => "이 페이지는 현재 영문으로만 제공됩니다. 영문이 공식 문서입니다.",
+  "pt-BR": () => "No momento, esta página está disponível apenas em inglês. A versão em inglês prevalece.",
+  "de": () => "Diese Seite ist derzeit nur auf Englisch verfügbar. Die englische Fassung ist maßgeblich."
 };

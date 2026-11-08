@@ -29,6 +29,7 @@ const ld = faqJsonLd(content);
   jsonLd={ld ? [ld] : []}
   canonicalLocale={content.canonicalLocale}
   alternateLocales={content.alternateLocales}
+  contentLocale={content.lang === "en" ? "en" : loc}
 >
   <PageView locale={loc} content={content} />
 </Base>

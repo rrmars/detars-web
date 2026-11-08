@@ -1,11 +1,11 @@
-export const locales = ["en", "zh", "zh-Hant", "ja", "fr", "es"] as const;
+export const locales = ["en", "zh", "zh-Hant", "ja", "fr", "es", "ko", "pt-BR", "de"] as const;
 
 export type Locale = (typeof locales)[number];
 
 // Locales that only have the Scenarios section (localized scenario pages, index and a minimal
 // header/footer). Every other site page stays English-only, so these never appear in the language
 // switcher or hreflang of non-scenario pages. Keep in sync with scripts/scenarios/content.mjs.
-export const scenarioOnlyLocales = ["id", "pt-BR", "vi", "th", "ko"] as const;
+export const scenarioOnlyLocales = ["id", "vi", "th"] as const;
 export type ScenarioOnlyLocale = (typeof scenarioOnlyLocales)[number];
 
 /** Every locale a scenario guide can be published in (full-chrome locales first). */
@@ -29,7 +29,8 @@ export const localeSegment: Record<AnyLocale, string> = {
   "pt-BR": "pt-br",
   vi: "vi",
   th: "th",
-  ko: "ko"
+  ko: "ko",
+  de: "de"
 };
 
 // Full names shown in the language switcher.
@@ -44,7 +45,8 @@ export const localeLabels: Record<AnyLocale, string> = {
   "pt-BR": "Português (Brasil)",
   vi: "Tiếng Việt",
   th: "ไทย",
-  ko: "한국어"
+  ko: "한국어",
+  de: "Deutsch"
 };
 
 export const localeHtmlLang: Record<AnyLocale, string> = {
@@ -58,7 +60,8 @@ export const localeHtmlLang: Record<AnyLocale, string> = {
   "pt-BR": "pt-BR",
   vi: "vi",
   th: "th",
-  ko: "ko"
+  ko: "ko",
+  de: "de"
 };
 
 export const hreflangMap: Record<AnyLocale, string> = {
@@ -72,7 +75,8 @@ export const hreflangMap: Record<AnyLocale, string> = {
   "pt-BR": "pt-BR",
   vi: "vi",
   th: "th",
-  ko: "ko"
+  ko: "ko",
+  de: "de"
 };
 
 export const ogLocaleMap: Record<AnyLocale, string> = {
@@ -86,7 +90,8 @@ export const ogLocaleMap: Record<AnyLocale, string> = {
   "pt-BR": "pt_BR",
   vi: "vi_VN",
   th: "th_TH",
-  ko: "ko_KR"
+  ko: "ko_KR",
+  de: "de_DE"
 };
 
 // Non-English full-chrome locales, used for [locale] dynamic getStaticPaths of ordinary pages.

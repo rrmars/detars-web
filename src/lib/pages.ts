@@ -1,6 +1,6 @@
 import { legalEn } from "@/lib/legal.en";
 import { legalZh } from "@/lib/legal.zh";
-import { legalFallbackNotice, legalLocales, legalRoutes, type LegalFallbackLocale, type LegalKey } from "@/lib/legal";
+import { legalFallbackNotice, legalLocalesFor, legalRoutes, type LegalFallbackLocale, type LegalKey } from "@/lib/legal";
 import { withLocale, type Locale } from "@/lib/site";
 import { pagesEn } from "@/lib/pages.en";
 import { pagesEs } from "@/lib/pages.es";
@@ -8,6 +8,12 @@ import { pagesFr } from "@/lib/pages.fr";
 import { pagesJa } from "@/lib/pages.ja";
 import { pagesZh } from "@/lib/pages.zh";
 import { pagesZhHant } from "@/lib/pages.zh-hant";
+import { pagesKo } from "@/lib/pages.ko";
+import { pagesPtBr } from "@/lib/pages.pt-br";
+import { pagesDe } from "@/lib/pages.de";
+import { privacyKo } from "@/lib/privacy.ko";
+import { privacyPtBr } from "@/lib/privacy.pt-br";
+import { privacyDe } from "@/lib/privacy.de";
 
 export type Block =
   | { type: "p"; html: string }
@@ -66,14 +72,21 @@ const data: Record<Locale, Record<PageKey, PageContent>> = {
   "zh-Hant": pagesZhHant,
   ja: pagesJa,
   fr: pagesFr,
-  es: pagesEs
+  es: pagesEs,
+  ko: pagesKo,
+  "pt-BR": pagesPtBr,
+  de: pagesDe
 };
 
 const isLegalKey = (key: AnyPageKey): key is LegalKey => (legalRoutes as readonly string[]).includes(key);
 
 function getLegalPage(locale: Locale, key: LegalKey): PageContent {
   const href = (route: string) => withLocale(locale, route);
-  const seo = { alternateLocales: legalLocales };
+  const seo = { alternateLocales: legalLocalesFor(key) };
+  if (key === "privacy") {
+    const translated = { ko: privacyKo, "pt-BR": privacyPtBr, de: privacyDe };
+    if (locale in translated) return { ...translated[locale as keyof typeof translated](href), ...seo };
+  }
   if (locale === "en") return { ...legalEn(href)[key], ...seo };
   if (locale === "zh") return { ...legalZh(href)[key], ...seo };
   // No translation: English text under this locale's chrome, canonical to English.

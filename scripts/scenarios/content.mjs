@@ -4,7 +4,7 @@ import { publicCopy } from './public-copy.mjs';
 
 // Locales a guide may be published in. Mirrors src/lib/site.ts (scenarioLocales + localeSegment);
 // import-scenarios.test.mjs fails if the two drift. English is required for every guide.
-export const segments = { en: '', zh: 'zh', 'zh-Hant': 'zh-hant', ja: 'ja', fr: 'fr', es: 'es', id: 'id', 'pt-BR': 'pt-br', vi: 'vi', th: 'th', ko: 'ko' };
+export const segments = { en: '', zh: 'zh', 'zh-Hant': 'zh-hant', ja: 'ja', fr: 'fr', es: 'es', id: 'id', 'pt-BR': 'pt-br', vi: 'vi', th: 'th', ko: 'ko', de: 'de' };
 export const siteLocales = Object.keys(segments);
 export const scenarioPath = (locale, slug) => `${segments[locale] ? `/${segments[locale]}` : ''}/scenarios/${slug}/`;
 // Same strings as the package (content_utils.PRODUCER_LABELS); the importer rejects data that disagrees.
@@ -14,10 +14,12 @@ export const labels = {
   fr: 'Produit par une tâche Cowork générale sur DeTars.xyz', 'zh-Hant': '本文由 DeTars.xyz 的通用 Cowork 任務產出',
   id: 'Dibuat oleh tugas Cowork umum di DeTars.xyz', 'pt-BR': 'Produzido por uma tarefa geral do Cowork no DeTars.xyz',
   vi: 'Bài viết do một tác vụ Cowork thông dụng trên DeTars.xyz thực hiện', th: 'จัดทำโดยงาน Cowork ทั่วไปบน DeTars.xyz',
-  ko: 'DeTars.xyz의 범용 Cowork 작업으로 작성된 글입니다'
+  ko: 'DeTars.xyz의 범용 Cowork 작업으로 작성된 글입니다',
+  de: 'Erstellt durch eine allgemeine Cowork-Aufgabe auf DeTars.xyz'
 };
 // Text the importer itself writes into a page. en and zh are the strings that shipped with the section.
 export const text = {
+  de: { sources: 'Quellen und Zugriffsdatum', sourcesIntro: 'Externe Quellen aus der ursprünglichen Recherche; der Website-Import ist keine erneute Prüfung.', access: 'Zugriffsdatum', downloads: 'Downloads', downloadsIntro: 'Datenschutzgeprüfte Veröffentlichungskopien der ursprünglichen Beispieltabellen. Vor dem Bearbeiten eine Kopie speichern und die genannten Einschränkungen beachten.', unavailable: ' (Originaldatei nicht veröffentlicht; nutzen Sie die Angaben in diesem Leitfaden)', notPublished: ' (nicht veröffentlicht)', bareLocal: 'ursprüngliche Begleitdatei (nicht veröffentlicht)' },
   en: { sources: 'Sources and access dates', sourcesIntro: 'External sources retained from the original research; site import is not a new source refresh.', access: 'Access date', downloads: 'Downloads', downloadsIntro: 'Privacy-checked publication copies of the original example workbooks, not refreshed quotes or personal financial records. Save a copy before editing and retain the limitations described above.', unavailable: ' (original supporting file is not published; use the information in this guide)', notPublished: ' (not published)', bareLocal: 'original supporting file (not published)' },
   zh: { sources: '来源与查阅日期', sourcesIntro: '以下为原始调研保留的外部来源；上线导入不代表重新查阅。', access: '查阅日期', downloads: '下载工作簿', downloadsIntro: '这是原始示例工作簿的隐私检查发布副本，不是更新后的报价或个人财务记录。编辑前请保存副本，保留正文所述限制。', unavailable: '（原始辅助文件未公开；请依据本文内容操作）', notPublished: '（未公开）', bareLocal: '原始辅助文件（未公开）' },
   'zh-Hant': { sources: '來源與查閱日期', sourcesIntro: '以下為原始調研保留的外部來源；上線匯入不代表重新查閱。', access: '查閱日期', downloads: '下載工作簿', downloadsIntro: '這是原始範例工作簿經隱私檢查的發布副本，不是更新後的報價或個人財務紀錄。編輯前請先存一份副本，並保留正文所述的限制。', unavailable: '（原始輔助檔案未公開；請依據本文內容操作）', notPublished: '（未公開）', bareLocal: '原始輔助檔案（未公開）' },

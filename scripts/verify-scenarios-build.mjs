@@ -15,7 +15,7 @@ const queued = new Set(collectUrls());
 const counts = {};
 const hreflang = (locale) => (locale === "zh" ? "zh-Hans" : locale);
 const dist = (path) => join(root, "dist", path.replace(/\/$/, ""), "index.html");
-const fullChrome = ["en", "zh", "zh-Hant", "ja", "fr", "es"];
+const fullChrome = ["en", "zh", "zh-Hant", "ja", "fr", "es", "ko", "pt-BR", "de"];
 const scenarioOnly = siteLocales.filter((locale) => !fullChrome.includes(locale));
 const internalLinks = (html) => [...html.matchAll(/<a\b[^>]*\shref="([^"]+)"/g)].map((m) => m[1]).filter((h) => h.startsWith("/") && !h.startsWith("//"));
 const switcher = (html) => [...(html.match(/<div class="lang-pop"[\s\S]*?<\/div>/)?.[0] ?? "").matchAll(/href="([^"]+)"/g)].map((m) => m[1]);

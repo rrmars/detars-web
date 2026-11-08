@@ -4,9 +4,9 @@ import { readFileSync } from 'node:fs';
 
 const root = new URL('../', import.meta.url);
 const read = file => readFileSync(new URL(file, root), 'utf8');
-const files = ['src/lib/home-copy.ts', ...['zh-hant', 'ja', 'fr', 'es'].map(l => `src/lib/home/${l}.ts`)];
+const files = ['src/lib/home-copy.ts', ...['zh-hant', 'ja', 'fr', 'es', 'ko', 'pt-br', 'de'].map(l => `src/lib/home/${l}.ts`)];
 
-test('all six home translations carry explicit future-direction copy without all-local privacy promises', () => {
+test('all nine home translations carry explicit future-direction copy without all-local privacy promises', () => {
   let count = 0;
   for (const file of files) {
     const source = read(file);
@@ -18,7 +18,7 @@ test('all six home translations carry explicit future-direction copy without all
     assert.ok(!/nothing uploaded|一字不上传|一字不上傳|rien d'envoyé|nada se sube/.test(source), `${file}: offline guarantee removed`);
     count += entries;
   }
-  assert.equal(count, 6);
+  assert.equal(count, 9);
   const component = read('src/components/Home.astro');
   assert.ok(component.indexOf('id="future"') > component.indexOf('<!-- HERO -->'));
   assert.ok(component.indexOf('id="future"') < component.indexOf('<!-- HOOK -->'));

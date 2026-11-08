@@ -1,13 +1,14 @@
 ---
 import { getPage } from "@/lib/pages";
-import { formatDate, getReports, reportSlug } from "@/lib/research";
-import { withLocale, type Locale } from "@/lib/site";
+import { formatDate, getReportsForIndex, reportSlug } from "@/lib/research";
+import { localeHtmlLang, withLocale, type Locale } from "@/lib/site";
 import { t } from "@/lib/ui-labels";
 
 type Props = { locale: Locale };
 const { locale } = Astro.props;
 const content = getPage(locale, "research");
-const reports = await getReports(locale);
+const reports = await getReportsForIndex(locale);
+const hasEnglishFallback = reports.some(entry => entry.data.locale !== locale);
 const answerLabel = t("answerShort", locale);
 const listLabel = t("reports", locale);
 ---
@@ -27,9 +28,10 @@ const listLabel = t("reports", locale);
   {reports.length > 0 && (
     <div class="reveal" style="margin-bottom:40px;">
       <h2 class="ri-h2">{listLabel}</h2>
+      {hasEnglishFallback && <p class="sec-p">{t("researchEnglishNotice", locale)}</p>}
       <div class="ri-list">
         {reports.map((entry) => (
-          <a class="ri-item" href={withLocale(locale, `/research/${reportSlug(entry)}`)}>
+          <a class="ri-item" href={withLocale(entry.data.locale, `/research/${reportSlug(entry)}`)} lang={localeHtmlLang[entry.data.locale]}>
             <span class="ri-date">{formatDate(entry.data.publishedAt, locale)}</span>
             <h3>{entry.data.title}</h3>
             <p>{entry.data.description}</p>

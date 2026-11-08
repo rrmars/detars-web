@@ -53,7 +53,7 @@ const alternates = alternateLocales.map((entry) => ({
   href: toAbsoluteUrl(withLocale(entry, route))
 }));
 
-// Scenario-only locales have no localized social image yet and share the English one.
+// Locales without a localized social image share the English image.
 const ogFile: Record<AnyLocale, string> = {
   en: "og.png",
   zh: "og-zh.png",
@@ -65,7 +65,8 @@ const ogFile: Record<AnyLocale, string> = {
   "pt-BR": "og.png",
   vi: "og.png",
   th: "og.png",
-  ko: "og.png"
+  ko: "og.png",
+  de: "og.png"
 };
 const ogImage = toAbsoluteUrl(`/og/${ogFile[contentLocale]}`);
 

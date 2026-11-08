@@ -9,7 +9,7 @@ const scenarioRoot = new URL("./src/content/scenarios/", import.meta.url);
 const translated = fs.existsSync(scenarioRoot)
   ? fs.readdirSync(scenarioRoot).filter((dir) => fs.readdirSync(new URL(`./${dir}/`, scenarioRoot)).some((name) => name.endsWith(".md")))
   : [];
-const shellLocales = ["zh-hant", "ja", "fr", "es", "id", "pt-br", "vi", "th", "ko"]
+const shellLocales = ["zh-hant", "ja", "fr", "es", "id", "pt-br", "vi", "th", "ko", "de"]
   .filter((segment) => !translated.some((dir) => dir.toLowerCase() === segment));
 const shellScenarioIndex = new RegExp(`^/(?:${shellLocales.join("|")})/scenarios/?$`);
 
@@ -25,6 +25,7 @@ export default defineConfig({
         const path = new URL(page).pathname;
         if (/\/pay\/?$/.test(path)) return false;
         if (/^\/(zh-hant|ja|fr|es)\/(pricing|terms|privacy|refund)\/?$/.test(path)) return false;
+        if (/^\/(ko|pt-br|de)\/(pricing|terms|refund)\/?$/.test(path)) return false;
         if (shellScenarioIndex.test(path)) return false;
         return true;
       }

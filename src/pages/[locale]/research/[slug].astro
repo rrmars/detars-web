@@ -1,7 +1,7 @@
 ---
 import Report from "@/components/Report.astro";
 import Base from "@/layouts/Base.astro";
-import { getReports, reportSlug } from "@/lib/research";
+import { getReportLocales, getReports, reportSlug } from "@/lib/research";
 import { localeSegment, nonDefaultLocales, type Locale } from "@/lib/site";
 
 export async function getStaticPaths() {
@@ -18,6 +18,7 @@ export async function getStaticPaths() {
 const { loc, entry } = Astro.props;
 const d = entry.data;
 const route = `/research/${reportSlug(entry)}`;
+const reportLocales = await getReportLocales(reportSlug(entry));
 const jsonLd: Record<string, unknown>[] = [
   {
     "@context": "https://schema.org",
@@ -38,6 +39,6 @@ if (d.faq.length > 0) {
 }
 ---
 
-<Base locale={loc} route={route} title={`${d.title} | DeTars`} description={d.description} jsonLd={jsonLd}>
+<Base locale={loc} route={route} title={`${d.title} | DeTars`} description={d.description} jsonLd={jsonLd} alternateLocales={reportLocales} languageLocales={reportLocales}>
   <Report locale={loc} entry={entry} />
 </Base>
