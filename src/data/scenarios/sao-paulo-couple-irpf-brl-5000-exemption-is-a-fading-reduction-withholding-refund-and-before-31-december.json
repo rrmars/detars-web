@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "slug": "sao-paulo-couple-irpf-brl-5000-exemption-is-a-fading-reduction-withholding-refund-and-before-31-december",
+  "translationKey": "sao-paulo-couple-irpf-brl-5000-exemption-is-a-fading-reduction-withholding-refund-and-before-31-december",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "pt-BR": "Produzido por uma tarefa geral do Cowork no DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "audience": {
+    "en": "A São Paulo couple with a child aged 6 (Camila, salaried at R$ 6,800.00 a month; Rafael, pró-labore R$ 3,500.00 plus R$ 9,000.00 a month in Simples dividends) checking what Brazil's 2026 income-tax change does to their withholding, 2027 return and year-end.",
+    "pt-BR": "Um casal de São Paulo com uma criança de 6 anos (Camila, empregada com R$ 6.800,00 por mês; Rafael, pró-labore de R$ 3.500,00 mais R$ 9.000,00 por mês em dividendos do Simples) que quer saber o que a mudança do imposto de renda de 2026 faz com a retenção, a declaração de 2027 e o fim do ano."
+  },
+  "localeReason": "Portuguese serves this couple directly: the laws, Receita Federal pages, payslips, accountant conversations and the return itself are in Brazilian Portuguese, so reading the conditions and open issues in the same language helps them match the guide to the documents they must check. It changes no rule, rate, threshold or date.",
+  "sources": [
+    {
+      "title": "Lei 15270/2025, full text (Câmara dos Deputados copy)",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15270-26-novembro-2025-798354-publicacaooriginal-177117-pl.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal: 2026 tables",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal: worked examples of the Lei 15270 monthly reduction",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/exemplos-de-aplicacao-da-lei-15-270-2025",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal: questions and answers on high-income taxation, profits and dividends",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/receita-federal-lanca-perguntas-e-respostas-sobre-tributacao-de-altas-rendas-consideracoes-sobre-lucros-e-dividendos/manual_padrao_rfb_per_tributacao_sutri_v2.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal: procedures for withholding on profits and dividends",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-orienta-sobre-os-procedimentos-para-o-recolhimento-do-imposto-de-renda-retido-na-fonte-sobre-lucros-e-dividendos",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal news: IN RFB 2299/2025 (withholding by Simples Nacional companies)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/receita-federal-atualiza-normas-relativas-ao-imposto-sobre-a-renda-das-pessoas-fisicas",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "INSS: monthly contribution table",
+      "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "INSS news: 2025 contribution rates",
+      "url": "https://www.gov.br/inss/pt-br/noticias/confira-como-ficaram-as-aliquotas-de-contribuicao-ao-inss",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal: IRPF questions and answers, 2026 return",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirpf/p-r-irpf-2026-v1-00-2026-04-23.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "LC 123/2006, consolidated text",
+      "url": "https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Lei 9249/1995, consolidated text",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1995/lei-9249-26-dezembro-1995-349062-normaatualizada-pl.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal: who must file",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/quem",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Receita Federal: filing calendar",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/prazo",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "SPED/RFB: EFD-Reinf technical note 02/2026",
+      "url": "http://sped.rfb.gov.br/pagina/show/8181",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Conjur (press, secondary, unconfirmed)",
+      "url": "https://conjur.com.br/2026-fev-09/juiza-suspende-ir-sobre-dividendos-de-empresa-no-simples-2/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Brasil em Folhas (press, secondary, unconfirmed)",
+      "url": "https://www.brasilemfolhas.com.br/2026/09/justica-federal-afasta-tributacao-de-dividendos-de-empresa-do-simples/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Contábeis (press, secondary, unconfirmed)",
+      "url": "https://www.contabeis.com.br/noticias/79749/dividendos-justica-afasta-ir-de-empresa-do-simples/",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "fade_out_ceiling": {
+      "label": "Monthly taxable pay above which the Lei 15270 reduction is zero (it fades out from R$ 5,000.01)",
+      "value": 7350,
+      "unit": "BRL",
+      "display": "R$ 7,350.00"
+    },
+    "camila_withholding_after": {
+      "label": "Camila's withholding in a normal month after the 2026 rules (was R$ 699.69; child as dependant at payroll)",
+      "value": 628.69,
+      "unit": "BRL",
+      "display": "R$ 628.69"
+    },
+    "refund_simplified": {
+      "label": "Camila's expected 2027 refund, simplified method, separate return (modelled; several inputs unconfirmed)",
+      "value": 1109,
+      "unit": "BRL",
+      "display": "R$ 1,109.00"
+    },
+    "refund_legal": {
+      "label": "Conditional arithmetic illustration only, not an expected budget-derived 2027 refund: R$ 22,800 must be eligible documented health expenses of Camila and her claimed child only, plus one school limit; excludes separately filing Rafael. No beneficiary split is available; 2027 rules unconfirmed.",
+      "value": 6368.57,
+      "unit": "BRL",
+      "display": "R$ 6,368.57"
+    },
+    "joint_extra_tax": {
+      "label": "Conditional arithmetic illustration only, not an expected household saving/range: extra joint tax with the same R$ 22,800 eligible Camila-and-child health costs plus one school limit and no additional Rafael health deduction; illustrative range R$ 10,204.26 to R$ 11,725.83 (latter no extra spending). Beneficiary split missing; joint-return reduction and 2027 rules unconfirmed.",
+      "value": 10204.26,
+      "unit": "BRL",
+      "display": "R$ 10,204.26"
+    },
+    "december_dividend_withholding": {
+      "label": "Withholding if one R$ 120,000.00 dividend is paid in a single month",
+      "value": 12000,
+      "unit": "BRL",
+      "display": "R$ 12,000.00"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Camila: gross R$ 6,800.00 a month, constant all year, plus 13th salary and a 30-day vacation modelled as R$ 9,066.67 in one month. Rafael: pró-labore R$ 3,500.00 and dividends R$ 9,000.00 a month from a Simples Nacional company. One child aged 6, a dependant on Camila's payroll. No other income, no PGBL, no rental income. Marital property regime not given.",
+    "rules": "Lei 15270 (26 November 2025) monthly and annual reductions, 2026 INSS table (2025 table for the 'before' column), Receita's 2026 tables; applying the annual reduction to gross taxable income is an inference.",
+    "spending": "School, health, rent and every other household budget line are placeholder planning assumptions, not data. Three-person health-plan and out-of-pocket totals have no beneficiary split and cannot all be assigned to Camila. R$ 22,800 in the conditional refund/comparison illustration means eligible documented Camila-plus-claimed-child expenses only, not the whole family plan; no additional Rafael health deduction is assumed in that illustration. Obtain beneficiary itemisation before estimating actual refunds or comparing returns.",
+    "recommendation": "Separate returns are the model's starting point: child, eligible school costs and only Camila's and the claimed child's eligible health costs on Camila's return; allocate Rafael's own eligible costs to his separate return, not hers (simplified replaces legal deductions). Request beneficiary itemisation. The no-bill conclusion requires accountant confirmation of the Simples exempt-profit ceiling and vacation/INSS assumptions. Keep the aggregate monthly dividend total from this company to Rafael below R$ 50,000.00; splitting it into smaller payments within the same month does not change the test. Use the before-31-December list. General information, not tax advice."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run and that access date is kept for every source. Law and rule dates (26 November 2025, 1 January 2026, 31 December 2026) are not access dates. The 2027 filing dates are not published. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "INSS of 11% on Rafael's pró-labore is an assumption.",
+    "Whether the 1/3 vacation bonus is in the INSS base is unconfirmed; the sensitivity (vacation INSS R$ 988.09, simplified refund R$ 1,044.49) still gives a refund.",
+    "How the annual reduction works in a joint return is not spelled out in the sources, so the joint-return comparison rests on an unconfirmed reading.",
+    "Applying the annual reduction to gross taxable income is an inference; without any annual reduction Camila's simplified refund would still be R$ 694.83.",
+    "The Simples exempt-profit ceiling (LC 123 art. 14), the 32% presumption for services and the effect of Lei 15270 on that ceiling are unconfirmed; the 'no bill' result depends on them.",
+    "Court decisions suspending the dividend withholding for Simples companies are press reports only; no court page was read and the appeal status is unknown.",
+    "Vacation payroll mechanics, the marital property regime, whether exactly R$ 50,000.00 in a month is withheld, the May 2026 start of natureza 12001 reporting, and the 2027 filing rules and dates are unconfirmed.",
+    "School, health and other budget lines are placeholders, with no beneficiary split. R$ 6,368.57 and the R$ 10,204.26–11,725.83 comparison range are conditional arithmetic illustrations, not expected budget-derived results; R$ 22,800 must be eligible Camila-and-claimed-child health expenses only. Rafael's own eligible costs belong to his separate return. Retained Receita Q396 concerns 2026 filing / 2025 income, not confirmed 2027 rules.",
+    "Every figure was recomputed from the same public rules; that recheck is not a tax professional's sign-off."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Portuguese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The official planalto.gov.br law page refused automated fetch, so the law text was read on the Câmara dos Deputados copy. No court page was read. The SPED technical note could not be loaded.",
+    "independentCheckDisposition": "The earlier school correction remains: one R$ 3,561.50 limit for one child, not the earlier R$ 6,990.95 double-count refund. R$ 6,368.57 refund, R$ 3,835.69 joint bill and R$ 10,204.26 extra joint tax reproduce only as conditional arithmetic illustrations with R$ 22,800 eligible documented health expenses of Camila and her claimed child only; no additional Rafael health deduction is assumed. They are not expected household results or a budget-derived range. Retained Q396 (2026 filing / 2025 income) excludes the separately filing spouse's share. Beneficiary itemisation is missing and 2027 rules remain unconfirmed. Not a tax professional's review.",
+    "editingContract": "English page is a reader-facing rewrite of the run's guide; the Portuguese page is a faithful translation of it. No new facts or sources; copy editing is not a source refresh."
+  },
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 2,
+  "slug": "taipei-couple-first-home-dont-buy-at-ntd-18-22m-in-2027-keep-renting-youth-mortgage-cash-gap-and-break-even",
+  "translationKey": "taipei-couple-first-home-dont-buy-at-ntd-18-22m-in-2027-keep-renting-youth-mortgage-cash-gap-and-break-even",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "zh-Hant": "本文由 DeTars.xyz 的通用 Cowork 任務產出"
+  },
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "audience": {
+    "en": "A Taipei couple (Yu-ting, 32, and Chia-hao, 34; NT$145,000 a month combined net) renting at NT$26,000 with NT$3.2M saved, deciding whether to buy a NT$18–22M resale in Banqiao or Zhonghe in 2027 with the 青安3.0 youth loan.",
+    "zh-Hant": "住在台北的一對夫妻（Yu-ting 32 歲、Chia-hao 34 歲，合計稅後月收入 NT$145,000），目前月租 NT$26,000、存款 NT$3.2M，正考慮 2027 年用青安3.0 青年安心成家貸款，在板橋或中和買一間 NT$18–22M 的中古屋。"
+  },
+  "localeReason": "Traditional Chinese serves this decision directly: the couple live in Taipei, and the National Treasury Administration rules, bank product pages, Central Bank release and tax statutes they must check are published in Traditional Chinese, so reading the conditions and open issues in that language helps them compare a bank's or agent's paperwork with the official wording. It changes no rule, rate, fee or date.",
+  "sources": [
+    {
+      "title": "National Treasury Administration, Ministry of Finance: 青安3.0 principles for state-owned banks",
+      "url": "https://www.nta.gov.tw/singlehtml/108",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "National Treasury Administration: 青安3.0 Q&A",
+      "url": "https://www.nta.gov.tw/singlehtml/109",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Mega Bank: youth housing loan product page",
+      "url": "https://www.megabank.com.tw/personal/loan/policy-mortgage/youth-housing-grant",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Land Bank: youth housing loan product page",
+      "url": "https://oi.landbank.com.tw/product/12",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Central Bank of the Republic of China (Taiwan): board meeting press release, 17 September 2026",
+      "url": "https://www.cbc.gov.tw/tw/cp-302-192864-4319f-1.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Finance: house tax 2.0 reform page",
+      "url": "https://www.mof.gov.tw/house/multiplehtml/fb9a2a1b9efa426bb0cc7802e1a8da91",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "New Taipei Tax Bureau: house-tax threshold notices",
+      "url": "https://www.tax.ntpc.gov.tw/cp-1024-20827-77aec-1.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "New Taipei Tax Bureau: house-tax calculator",
+      "url": "https://einvdonate.tax.ntpc.gov.tw/Calculation/HouseTax",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Deed Tax Act (契稅條例)",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=G0340105",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Stamp Tax Act (印花稅法)",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340091",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Land Act (土地法), registration fee",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060001",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Real Estate Brokerage Management Act (不動產經紀業管理條例), agent fee",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060066",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Land Tax Act (土地稅法), self-use land value tax and refund provisions",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340096",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Land Tax Act (土地稅法), related provisions",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340097",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Standard Chartered Taiwan: index-linked mortgage (search snippet only)",
+      "url": "https://www.sc.com/tw/mortgages/adjustable-rate/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "udn: realtor survey on first-home rates and bank quota (news article)",
+      "url": "https://house.udn.com/house/story/123589/9859018",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Financial Supervisory Commission order, 4 September 2025",
+      "url": "https://www.fsc.gov.tw/ch/home.jsp?id=128&parentpath=0,5&mcustomize=lawnew_view.jsp&dataserno=202509040001&dtable=NewsLaw",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "CNA, 11 August 2026 (news article)",
+      "url": "https://www.cna.com.tw/news/afe/202608110175.aspx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of the Interior: actual-price registration open data (sales and rents)",
+      "url": "https://lvr.land.moi.gov.tw/",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "cash_20m": {
+      "label": "Cash needed for a NT$20M home at an 80% loan (down payment, closing costs, assumed NT$300,000 fix-up; reserve excluded)",
+      "value": 4814600,
+      "unit": "NT$",
+      "display": "NT$4,814,600"
+    },
+    "shortfall_20m": {
+      "label": "Shortfall at NT$20M against NT$3.2M savings once a NT$0.6M reserve is kept (reserve assumed)",
+      "value": 2214600,
+      "unit": "NT$",
+      "display": "NT$2,214,600"
+    },
+    "max_price_now": {
+      "label": "Purchase price supported by NT$3.2M savings after a NT$0.6M reserve (approximate)",
+      "value": 10.13,
+      "unit": "NT$ million",
+      "display": "NT$10.13M"
+    },
+    "payment_20m": {
+      "label": "Month-1 amortising payment at NT$20M (youth part at 1.775%, bank part at an assumed, unconfirmed 2.55%)",
+      "value": 49064,
+      "unit": "NT$",
+      "display": "NT$49,064"
+    },
+    "closing_20m": {
+      "label": "Total closing costs at NT$20M (agent and scrivener fees unconfirmed)",
+      "value": 514600,
+      "unit": "NT$",
+      "display": "NT$514,600"
+    },
+    "breakeven_20m": {
+      "label": "Break-even home-price growth per year at NT$20M if savings earn 1.5% (10 years, assumed)",
+      "value": 1.97,
+      "unit": "%",
+      "display": "1.97%"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Yu-ting, 32, and Chia-hao, 34; combined net income NT$145,000 a month; renting at NT$26,000; savings NT$3.2M now, NT$3.72M at end-2027 if NT$40,000 a month is saved for 13 months (assumed; household budget not provided); emergency reserve NT$0.6M (assumed).",
+    "loan": "80% loan; youth part capped at NT$10M on the 1.775%, 1.900%, 2.025%, 2.150%, 2.275% schedule; bank part at 2.55% (unconfirmed assumption); 40-year term; 5-year interest-only grace applied to both parts in the grace case; monthly rate = annual rate / 12; payments recalculated on remaining balance and term.",
+    "costs": "Assessed house value 2.5% of price; declared land value 3% of price; agent fee 2% of price (buyer, unconfirmed); scrivener NT$20,000; first-year insurance NT$8,000; fix-up and moving NT$300,000; management fee NT$2,500 a month; repairs 0.5% of price a year; holding costs grow 2% a year; selling cost 4%. All are assumptions, not sourced.",
+    "recommendation": "Don't buy at NT$18–22M in 2027; keep renting and save. Eligibility remains unestablished: combined take-home pay cannot establish either borrower's eligibility-income test. First obtain a bank pre-assessment using each proposed borrower's required income documents and ownership record. The following timing assumes eligibility, loan approval and model terms; meeting the deadline alone does not preserve eligibility. At NT$40,000 a month NT$14M is reachable around September 2028 and NT$16M around August 2029, just after the 31 July 2029 application deadline. Rent NT$26,000 growing 2% a year; savings return 1.5% or 3%; price growth -1%, 0% or +2%; capital-gains tax and the mortgage-interest deduction not modelled."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run and that access date is kept; the Standard Chartered entry was a search snippet only, and the Ministry of the Interior figures are the author's calculation from a Q3 2026 snapshot taken around 2026-10-01. Source dates (programme windows, rate dates, the 31 July 2029 deadline) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "The 2.55% rate on the part of the loan above the cap rests on a search snippet and a realtor-survey article; no Bank of Taiwan or Land Bank ordinary-mortgage rate page was found.",
+    "The live Post Office base rate was not read; the official pages still print 1.72%.",
+    "Agent fee (2% buyer side; the 6% combined cap and the 2%/4% split come from snippets and blogs), scrivener fee, insurance, stamp-duty base in practice, 書狀費, mortgage-registration base, fix-up, management fee and repairs are assumptions.",
+    "Capital-gains tax on selling the home is not modelled in the 10-year comparison; a self-use exemption may cover it but was not checked. The mortgage-interest deduction is ignored and was not researched.",
+    "Whether the exclusion of youth loans from the Banking Act Article 72-2 cap continues for 青安3.0 rests on a media report; queue and quota claims for early November 2026 are media reports.",
+    "The Central Bank release read does not define 'high-priced' homes, and lists no cap for buyers who own no home; the reading that such buyers fall outside the caps is unconfirmed because the full regulation was not read.",
+    "The NT$40,000 a month saving rate, the NT$3.72M end-2027 figure and the NT$0.6M reserve are assumptions; timing for NT$14M (about September 2028) and NT$16M (about August 2029) depends on them.",
+    "Eligibility is not established by combined net pay. Each proposed borrower's income split, the bank's required eligibility-income measure and assessment period, supporting income/tax documents and the ownership record must be checked in a written bank pre-assessment. The couple's marriage-registration date was not given: if eligible, it decides whether the loan cap is NT$10M or NT$12M. Pre-assessment is not final approval.",
+    "Only the 6% deed tax was re-read against its statute; the other tax and fee rules, and the house-price index readings, were not independently re-read."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Traditional Chinese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain public fetches without sign-in. The live Post Office rate, Bank of Taiwan and Land Bank ordinary-mortgage pages, the Ministry of the Interior agent-fee standard page and the housing price index page could not be read; the 書狀費 schedule was not found.",
+    "independentCheckDisposition": "A reviewer recomputed about 100 table figures with their own script and matched all of them; the check read the Treasury, Central Bank, Mega Bank and deed-tax pages again. It found two wrong prose figures (savings targets of NT$5.9M and NT$4.4M, now NT$5.41M and NT$4.52M), a recommendation whose NT$16M timing falls after the 31 July 2029 deadline, a missing registration-after-approval limb, and a media-sourced statement now marked unconfirmed. These were corrected in the guide. Remaining open items: the 2.55% above-cap rate, agent and scrivener fees, and capital-gains tax not modelled.",
+    "editingContract": "Only data/taipei-couple-first-home-dont-buy-at-ntd-18-22m-in-2027-keep-renting-youth-mortgage-cash-gap-and-break-even.json, en/ and zh-Hant/ Markdown for this slug and checks/batch45-taipei-couple-first-home-dont-buy-at-ntd-18-22m-in-2027-keep-renting-youth-mortgage-cash-gap-and-break-even-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "housing",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

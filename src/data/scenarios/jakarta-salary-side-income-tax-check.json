@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "slug": "jakarta-salary-side-income-tax-check",
+  "translationKey": "jakarta-salary-side-income-tax-check",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "id": "Dibuat oleh tugas Cowork umum di DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "id"
+  ],
+  "audience": {
+    "en": "Jakarta employee with design side income checking payroll, household reporting, eligible tax methods and a filing reserve.",
+    "id": "Karyawan Jakarta dengan penghasilan sampingan desain yang memeriksa penggajian, pelaporan keluarga, metode pajak yang memenuhi syarat dan cadangan untuk pelaporan."
+  },
+  "localeReason": "English and Indonesian serve the Jakarta salary-and-design-income decision. Indonesian is a machine-assisted draft, not certified native Indonesian. The zh producer label is checker-required metadata only; no zh page is declared.",
+  "sources": [
+    {
+      "title": "PP 58/2023: monthly TER categories",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-58-tahun-2023/view",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PP 58/2023 official PDF: category-A bands",
+      "url": "https://jdih.kemenkeu.go.id/api/download/e47c3fc4-a912-4bf1-bcad-335fee3f71f8/2023pp058.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PMK 168/2023: employment net income, female PTKP and final-period reconciliation",
+      "url": "https://jdih.kemenkeu.go.id/download/e60a82e0-b218-40f5-9d18-b924aa1e11ce/2023pmkeuangan168.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP PTKP table",
+      "url": "https://pajak.go.id/index.php/id/penghasilan-tidak-kena-pajak",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Income Tax Act Article 8 and explanation; bookkeeping basis",
+      "url": "https://pajak.go.id/id/undang-undang-nomor-36-tahun-2008",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP married-taxpayer computation",
+      "url": "https://pajak.go.id/index.php/id/perhitungan-pajak-wanita-kawin",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Coretax: wife choosing separate obligations",
+      "url": "https://pajak.go.id/coretaxpedia/lapor-spt-bagi-istri-yang-memilih-terpisah",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "UU 7/2021 HPP: current Article 17 marginal brackets and rounding",
+      "url": "https://pajak.go.id/id/peraturan/harmonisasi-peraturan-perpajakan",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP NPPN notification for tax year 2026",
+      "url": "https://pajak.go.id/id/pengumuman/penyampaian-pemberitahuan-nppn-melalui-coretax-djp-tahun-pajak-2026",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PER 17/PJ/2015: NPPN regulation",
+      "url": "https://pajak.go.id/id/peraturan/norma-penghitungan-penghasilan-neto",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PER 17/PJ/2015 Annex I: KLU 74100, page 323 row 1233",
+      "url": "https://pajak.go.id/sites/default/files/2019-06/Lampiran%201_PER_17_PJ_2015.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP designer explainer: conflicting norm percentage",
+      "url": "https://pajak.go.id/id/desainer",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PP 55/2022: read with the 2026 amendment",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-55-tahun-2022/view",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PP 20/2026 official amendment page",
+      "url": "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026/view",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PP 20/2026 operative amendment PDF",
+      "url": "https://jdih.kemenkeu.go.id/api/download/d057ff82-50e7-4127-b66b-f704a36f071d/2026pp020.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP: Mudah Mengerti Perubahan Pengaturan PPh Final 0,5% Sesuai PP 20/2026",
+      "url": "https://pajak.go.id/sites/default/files/2026-06/Mudah%20Mengerti%20Perubahan%20Pengaturan%20PPh%20Final%200%2C5%25%20Sesuai%20PP%20Nomor%2020%20Tahun%202026%20tentang%20perubahan%20atas%20PP%20Nomor%2055%20Tahun%202022%20tentang%20Penyesuaian%20Pengaturan%20di%20Bidang%20Pajak%20Penghasilan.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP official consolidated tax-law book: KUP filing, financial statements, fine and payment interest",
+      "url": "https://pajak.go.id/sites/default/files/2023-05/SDSN%202023%207.1_0.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP annual employment final-period A1/BPA1 FAQ",
+      "url": "https://pajak.go.id/coretaxpedia/bupot-pph-21-desember",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP general Coretax individual annual SPT workflow",
+      "url": "https://pajak.go.id/coretaxpedia/lapor-spt-tahunan-orang-pribadi",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "DJP BPE annual return receipt guidance",
+      "url": "https://pajak.go.id/coretaxpedia/bukti-penerimaan-elektronik-bpe-spt-tahunan",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "illustrative_salary_withholding": {
+      "value": 20100000,
+      "display": "IDR 20,100,000",
+      "label": "Annual salary withholding under full-year stated assumptions, not the household final bill",
+      "unit": "illustrative_annual_salary_tax",
+      "currency": "IDR"
+    },
+    "projected_design_receipts": {
+      "value": 60000000,
+      "display": "IDR 60,000,000",
+      "label": "Projected March–December design receipts, not actual invoices",
+      "unit": "projected_annual_business_receipts",
+      "currency": "IDR"
+    },
+    "conditional_norm_net_income": {
+      "value": 19200000,
+      "display": "IDR 19,200,000",
+      "label": "32% regulatory norm illustration, only with correct KLU and valid notice; 46% explainer conflict unresolved",
+      "unit": "conditional_annual_design_net_income",
+      "currency": "IDR"
+    },
+    "provisional_monthly_reserve": {
+      "value": 2100000,
+      "display": "IDR 2,100,000",
+      "label": "35% provisional monthly design reserve, not a tax rate, ceiling or substitute for PPh 25",
+      "unit": "planning_monthly_cash_reserve",
+      "currency": "IDR"
+    }
+  },
+  "assumptions": {
+    "persona": "Hypothetical Rina, not an actual submitted user case",
+    "age": 30,
+    "city": "Jakarta",
+    "taxYear": 2026,
+    "residency": "Full-year resident calendar-year taxpayer assumed for calculations, not verified personal status",
+    "spouse": "Married, husband works; actual income/credits and KK/PH/MT/HB unknown",
+    "children": 1,
+    "childAge": 3,
+    "beginningYearDependency": "unknown; one qualifying child assumed only for K/I/1 illustration",
+    "salaryMonths": 12,
+    "salaryGrossEqualsTaxableGross": true,
+    "mainTHRTiming": "Before December, with December alternative shown",
+    "employeeContributionsAndOtherPayrollAdjustments": "Excluded from illustration; actual unknown",
+    "designMonths": "March–December projected, ten months; actual receipts unknown",
+    "designWithholding": "None stated in hypothetical inputs; actual credits must be checked",
+    "NPPN": "Only if correct tax unit has valid notice and KLU 74100 applies",
+    "finalBusiness": "Eligibility and mixed-wife annual household treatment unknown; zero is a conditional design-tax example only",
+    "inventedHusband": "Annual net salary IDR 228000000, K/1 payroll PTKP IDR 63000000 and credit IDR 18750000 invented to demonstrate KK aggregation; not spouse facts",
+    "bookCostCase": "IDR 10000000 genuine documented deductible costs assumed for comparison, not proven by budget",
+    "reserveChoice": "35% cash budget, not tax rate/ceiling; PPh 25 obligations unknown"
+  },
+  "calculation": {
+    "monthly_salary": 18000000,
+    "thr": 18000000,
+    "salary_months": 12,
+    "monthly_design": 6000000,
+    "design_months": 10,
+    "payroll_ptkp": 54000000,
+    "marriage_allowance": 4500000,
+    "wife_combination_allowance": 54000000,
+    "one_child_allowance": 4500000,
+    "turnover_limit": 4800000000,
+    "individual_final_exemption": 500000000,
+    "normal_salary_ter_pct": 8,
+    "thr_salary_ter_pct": 15,
+    "norma_percent": 32,
+    "conflicting_web_norm_percent": 46,
+    "late_filing_fine": 100000,
+    "expense_budget_per_design_month": 1000000,
+    "side_reserve_pct": 35,
+    "salary_gross": 234000000,
+    "job_expense": 6000000,
+    "salary_net": 228000000,
+    "salary_pkp": 174000000,
+    "salary_annual_tax": 20100000,
+    "normal_month_withholding": 1440000,
+    "thr_month_gross": 36000000,
+    "thr_month_withholding": 5400000,
+    "jan_nov_withholding": 19800000,
+    "december_trueup": 300000,
+    "dec_trueup_if_dec_thr": 4260000,
+    "normal_salary_cash": 16560000,
+    "thr_month_salary_cash": 30600000,
+    "thr_cash_uplift": 14040000,
+    "dec_salary_cash": 17700000,
+    "design_turnover": 60000000,
+    "norma_net": 19200000,
+    "conflicting_norma_net": 27600000,
+    "hypothetical_final_tax": 0,
+    "incorrect_final_on_all_receipts": 300000,
+    "family_ptkp": 117000000,
+    "example_husband_net": 228000000,
+    "example_husband_payroll_ptkp": 63000000,
+    "example_husband_payroll_tax": 18750000,
+    "example_total_credits": 38850000,
+    "example_no_design_design_profit": 0,
+    "example_no_design_family_pkp": 339000000,
+    "example_no_design_family_tax": 53750000,
+    "example_no_design_family_balance": 14900000,
+    "example_no_design_rina_allocated_tax": "26875000.00",
+    "example_no_design_rina_balance_unrounded": "6775000.00",
+    "example_norma_design_profit": 19200000,
+    "example_norma_family_pkp": 358200000,
+    "example_norma_family_tax": 58550000,
+    "example_norma_family_balance": 19700000,
+    "example_norma_rina_allocated_tax": "30457828.28",
+    "example_norma_rina_balance_unrounded": "10357828.28",
+    "example_books_zero_cost_design_profit": 60000000,
+    "example_books_zero_cost_family_pkp": 399000000,
+    "example_books_zero_cost_family_tax": 68750000,
+    "example_books_zero_cost_family_balance": 29900000,
+    "example_books_zero_cost_rina_allocated_tax": "38372093.02",
+    "example_books_zero_cost_rina_balance_unrounded": "18272093.02",
+    "example_books_budget_cost_design_profit": 50000000,
+    "example_books_budget_cost_family_pkp": 389000000,
+    "example_books_budget_cost_family_tax": 66250000,
+    "example_books_budget_cost_family_balance": 27400000,
+    "example_books_budget_cost_rina_allocated_tax": "36398221.34",
+    "example_books_budget_cost_rina_balance_unrounded": "16298221.34",
+    "example_norma_incremental_family_tax": 4800000,
+    "example_books_zero_incremental_family_tax": 15000000,
+    "example_books_budget_incremental_family_tax": 12500000,
+    "bookkeeping_vs_norma_break_even_costs": 40800000,
+    "bookkeeping_vs_norma_break_even_cost_pct": 68,
+    "side_monthly_reserve": 2100000,
+    "side_year_reserve": 21000000,
+    "normal_design_month_gross": 24000000,
+    "normal_design_month_cash_after_reserve_and_cost": 19460000,
+    "dec_design_month_cash_after_reserve_and_cost": 20600000,
+    "side_after_reserve_before_cost": 3900000,
+    "nov_dec_reserve": 4200000,
+    "reserve_catchup_if_none_before_nov": 16800000,
+    "side_plus_thr_buffer": 35040000
+  },
+  "calculationQualifications": {
+    "inventory": "All 81 retained inventory outcomes preserved in data; not every auxiliary outcome is public prose",
+    "mechanicalNoDesignBaseline": "The P=0 combined-salary baseline is an arithmetic counterfactual, NOT the lawful KK salary-only-wife-exception comparison",
+    "PHMTExtraFields": "Auxiliary proportional-allocation illustrations rounded to two decimals; not a confirmed filing-rounding convention or actual personal bill",
+    "publicTables": "Complete load-bearing payroll, allowances/status, marginal brackets, norm/books/final comparison, KK household illustration, reserve and filing tables",
+    "actualAnnualBalance": "unknown"
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "mandatoryReview": "[local evidence retained privately]",
+    "calculationMethod": "Independent integer/Decimal arithmetic in a scoped staging check, without executing any source script. All 81 inventory fields compared against the retained author and final reviewer results, and public table values checked against the recalculation."
+  },
+  "datePolicy": "Research/source access dates are the retained 2026-11-08 dates. Local authoring does not constitute a network refresh. No new source acquisition; links not live-retested.",
+  "uncertainties": [
+    "Rina is hypothetical, not user-submitted facts. Actual family KK/PH/MT/HB and NPWP/DUK, spouse income/credits, beginning-year dependency/residency and actual annual balance unknown.",
+    "Working-wife TK/0 category A payroll is separate from conditional K/I/1 household PTKP. Actual taxable payroll, BPJS-related benefits/contributions, THR timing and BPA1 may change the illustration.",
+    "Existing calendar-year 2026 NPPN notice deadline 2026-03-31 is not measured from freelance start. Correct tax-unit registration/notice and KLU remain unknown. Regulatory norm 32% conflicts with official explainer 46%.",
+    "PP 55 is amended by PP 20/2026 effective 2026-04-22. Former seven-year individual limit deleted. Professional classification, business/family turnover, prior elections and transition facts remain unknown.",
+    "Zero final tax on IDR 60m requires eligible business and unused available first-IDR 500m exemption. No automatic second KK-wife allowance. Full annual household result for wife-owned below-exemption final business plus salary is not established.",
+    "Invented husband's salary and credits illustrate KK aggregation only; PH/MT allocation is not two independent brackets. No assessed personal balance or guaranteed range.",
+    "35% reserve is a cash choice, not tax rate/ceiling or substitute for PPh 25. Actual instalment duties, receipts and deductible costs unknown; budget costs are not proved deductions.",
+    "2027 delay interest is unknown, not permanently 2% monthly. Future forms/attachment IDs, certificate-delivery deadline, concessions and OSS/NIB licensing remain unconfirmed.",
+    "Machine-assisted Indonesian, not native-certified. No network/browser/build/integration/publication/account access/contact/filing/purchase/commit. Parent owns combined review and rendered validation."
+  ],
+  "editingContract": "Only fixed-slug en/id Markdown, schema-v2 data, Jakarta author-review and optional scoped check script/JSON in stage2-close-20261108. Source and shared package read-only. No public local evidence links; data-only local provenance/source-list paths. Exact URL registry and normalized whole-page/table-cell parity.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

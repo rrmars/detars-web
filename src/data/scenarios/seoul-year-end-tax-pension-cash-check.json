@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 2,
+  "slug": "seoul-year-end-tax-pension-cash-check",
+  "translationKey": "seoul-year-end-tax-pension-cash-check",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ko": "DeTars.xyz의 범용 Cowork 작업으로 작성된 글입니다"
+  },
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "audience": {
+    "en": "Seoul salaried resident taxpayers comparing year-end pension contributions with accessible cash, card deductions and qualifying bank jeonse repayments; hypothetical single employee with KRW 62,000,000 gross salary.",
+    "ko": "연말 연금 납입, 실제 쓸 수 있는 현금, 카드 소득공제와 요건을 갖춘 은행 전세대출 상환액을 비교하는 서울의 근로소득 거주자이며, 총급여 KRW 62,000,000의 가상 미혼 직장인을 예시로 합니다."
+  },
+  "localeReason": "Korean serves local salaried residents using Korean payroll, housing-loan and retirement-account terms; English serves readers comparing the same Seoul-specific illustration. Translation does not change residence or eligibility.",
+  "sources": [
+    {
+      "title": "NTS — Earned-income deduction",
+      "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6435&cntntsId=7871",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTS — Taxable base and computed tax",
+      "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6594&cntntsId=7873",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTS — Earned-income tax credit and pension-account tax credit",
+      "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6596&cntntsId=7875",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Local Tax Act — Article 103-13 special withholding",
+      "url": "https://law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1031061107",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Income Tax Act — Article 59-3 pension-account tax credit",
+      "url": "https://www.law.go.kr/법령/소득세법/제59조의3",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Special Taxation Act — Article 126-2 card-spending deduction",
+      "url": "https://www.law.go.kr/법령/조세특례제한법/제126조의2",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Special Taxation Act — Article 91-18 ISA rules",
+      "url": "https://www.law.go.kr/법령/조세특례제한법/제91조의18",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Income Tax Act — Article 52 special income deductions",
+      "url": "https://www.law.go.kr/법령/소득세법/제52조",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Income Tax Act — Article 59-4 special and standard tax credits",
+      "url": "https://www.law.go.kr/법령/소득세법/제59조의4",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Income Tax Act Enforcement Decree — Article 112 housing-fund deductions",
+      "url": "https://www.law.go.kr/법령/소득세법시행령/제112조",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Special Taxation Act — Article 87 housing-subscription savings",
+      "url": "https://www.law.go.kr/법령/조세특례제한법/제87조",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Special Taxation Act — Article 95-2 monthly-rent credit",
+      "url": "https://www.law.go.kr/법령/조세특례제한법/제95조의2",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government portal — 2026 tax-reform proposal, not confirmed enactment",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969870",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "conditional_pension_contribution": {
+      "value": 3000000,
+      "display": "KRW 3,000,000",
+      "label": "Maximum proposed example contribution, conditional on accessible emergency cash, unused credit room, tax liability and account terms",
+      "unit": "conditional_illustrative_pension_contribution",
+      "currency": "KRW"
+    },
+    "pension_marginal_tax_reduction": {
+      "value": 396000,
+      "display": "KRW 396,000",
+      "label": "National credit plus modeled local effect, not a guaranteed refund or investment return",
+      "unit": "illustrative_annual_tax_reduction",
+      "currency": "KRW"
+    },
+    "tax_before_pension": {
+      "value": 4431075,
+      "display": "4,431,075",
+      "label": "Baseline KRW tax including insurance deductions and modeled local component, excluding standard credit; before filing rounding",
+      "unit": "illustrative_annual_tax_before_pension",
+      "currency": "KRW"
+    },
+    "tax_after_pension": {
+      "value": 4035075,
+      "display": "4,035,075",
+      "label": "Same baseline after eligible pension credit; not refund forecast",
+      "unit": "illustrative_annual_tax_after_pension",
+      "currency": "KRW"
+    },
+    "planned_card_switch_saving": {
+      "value": 79200,
+      "display": "79,200",
+      "label": "KRW tax reduction when KRW 3,200,000 already-planned credit spending switches to debit under the example conditions",
+      "unit": "illustrative_card_payment_method_tax_reduction",
+      "currency": "KRW"
+    },
+    "qualifying_jeonse_tax_reduction": {
+      "value": 316800,
+      "display": "KRW 316,800",
+      "label": "Conditional bank jeonse saving at 4% annual interest with standard credit already absent",
+      "unit": "illustrative_qualifying_jeonse_tax_reduction",
+      "currency": "KRW"
+    }
+  },
+  "assumptions": {
+    "persona": "Hypothetical Ji-hoon; not facts attributed to the public reader",
+    "taxYear": 2026,
+    "age": 31,
+    "residence": "Seoul, South Korea",
+    "filingScope": "Resident employee, full-year work, single, no dependants, no other income; not nonresident or foreign-worker special flat-rate modeling",
+    "grossSalary": 62000000,
+    "employeeSocialInsuranceDeduction": 6000000,
+    "insuranceAmountStatus": "Assumed aggregate; replace with actual payroll deductible amounts, not an asserted 2026 premium-rate computation",
+    "ordinaryCreditSpending": 19200000,
+    "ordinaryDebitCashSpending": 4800000,
+    "specialCardCategories": "None in illustration; excludes overseas, business costs and automobile purchases",
+    "standardCreditClaimed": 0,
+    "baselineHousingDeductions": 0,
+    "baselineOtherCredits": 0,
+    "withholding": "unknown",
+    "jeonseBankLoan": 120000000,
+    "jeonseInterestOnlyRates": [
+      3,
+      4,
+      5
+    ],
+    "jeonseEligibility": "Unconfirmed; no-home household, head/member eligibility, dwelling size/use/land, listed lender, loan timing and lender-to-landlord transfer require actual documents",
+    "isaFirstOpeningYear": 2025,
+    "isaStatedBalance": 8000000,
+    "isaAccessiblePrincipal": "unknown; balance is not verified cash or remaining withdrawable contributions",
+    "pensionContributionConsidered": 3000000,
+    "pensionCondition": "Only after verified accessible emergency cash, unused credit room, sufficient tax liability and acceptable account terms; smaller amount or zero allowed",
+    "localTaxModel": "10% of modeled national liability; retained review corroborates withholding multiplier, not complete final-settlement certification",
+    "rounding": "Exact illustrative won arithmetic before filing-specific rounding"
+  },
+  "calculation": {
+    "earnedIncomeDeduction": 12850000,
+    "earnedIncomeAfterDeduction": 49150000,
+    "personalDeduction": 1500000,
+    "cardThreshold": 15500000,
+    "cardDeduction": 1995000,
+    "taxableBase": 39655000,
+    "computedNationalTax": 4688250,
+    "earnedIncomeTaxCredit": 660000,
+    "standardTaxCredit": 0,
+    "nationalBeforePension": 4028250,
+    "localBeforePension": 402825,
+    "totalBeforePension": 4431075,
+    "pensionNationalCredit": 360000,
+    "pensionLocalEffect": 36000,
+    "totalTaxReduction": 396000,
+    "nationalAfterPension": 3668250,
+    "localAfterPension": 366825,
+    "totalAfterPension": 4035075,
+    "cardSwitchAmount": 3200000,
+    "cardSwitchAdditionalDeduction": 480000,
+    "cardDeductionAfterSwitch": 2475000,
+    "cardSwitchTaxReduction": 79200,
+    "referenceReserve": 7200000,
+    "referenceReserveFormula": "(2000000 monthly card spending + 400000 monthly interest at 4%) * 3; incomplete budget, not universal reserve target"
+  },
+  "jeonseScenarios": [
+    {
+      "interestRatePercent": 3,
+      "interestRepaid": 3600000,
+      "incomeDeduction": 1440000,
+      "taxReduction": 237600
+    },
+    {
+      "interestRatePercent": 4,
+      "interestRepaid": 4800000,
+      "incomeDeduction": 1920000,
+      "taxReduction": 316800
+    },
+    {
+      "interestRatePercent": 5,
+      "interestRepaid": 6000000,
+      "incomeDeduction": 2400000,
+      "taxReduction": 396000
+    }
+  ],
+  "earlyExitScenarios": {
+    "scope": "Full contribution credited, taxable gains, ordinary non-pension cash-out at modeled 16.5%; no uncredited principal or employer tax-deferred retirement money; exceptional treatment, fees, opportunity cost and timing not modeled",
+    "rows": [
+      {
+        "grossReturnPercent": 0,
+        "balance": 3000000,
+        "exitTax": 495000,
+        "credit": 396000,
+        "exitTaxMinusCredit": 99000,
+        "cashAfterTaxPlusCreditMinusInitial": -99000
+      },
+      {
+        "grossReturnPercent": 5,
+        "balance": 3150000,
+        "exitTax": 519750,
+        "credit": 396000,
+        "exitTaxMinusCredit": 123750,
+        "cashAfterTaxPlusCreditMinusInitial": 26250
+      },
+      {
+        "grossReturnPercent": 10,
+        "balance": 3300000,
+        "exitTax": 544500,
+        "credit": 396000,
+        "exitTaxMinusCredit": 148500,
+        "cashAfterTaxPlusCreditMinusInitial": 151500
+      }
+    ]
+  },
+  "proposalTreatment": "Youth IRP additional 15% and rent changes remain unconfirmed for enactment/effective year; excluded from every figure and account recommendation",
+  "translation": {
+    "method": "Machine-assisted English-to-Korean draft",
+    "nativeSpeakerCertified": false,
+    "publicationReview": "Native Korean editorial review advisable before public publication; parity is not idiomatic certification"
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "mandatoryReview": "[local evidence retained privately]",
+    "readingAnchors": {
+      "standardCreditExclusion": "sotukse.txt:608,627,776–777",
+      "pensionCreditAndTransfer": "sotukse.txt:726–731; nts_pension.txt:1149–1166",
+      "jeonse": "sotukse.txt:613; sotukse_sihaengryeong.txt:1438–1449",
+      "isa": "jotuk.txt:1958–1990",
+      "cards": "jotuk.txt:4171–4210",
+      "proposal": "korea_2026.txt:232–240",
+      "reviewCorrections": "pool-seoul-paris-final-review.md:23–37"
+    }
+  },
+  "datePolicy": "Original research date retained as 2026-11-08. Authoring and local arithmetic checks are not fresh external research, current-law certification or publication. Source-specific access dates come from retained sources.md or the mandatory review anchor.",
+  "uncertainties": [
+    "Actual withholding, insurance, existing contributions, other income and credits remain unknown. The totals are conditional planning arithmetic, before filing rounding, not assessed tax or refund forecasts.",
+    "The KRW 130,000 standard credit is excluded from the main insurance-deducting baseline. It is not removed a second time for jeonse. Pension marginal remains KRW 396,000 if eligible credit can be used.",
+    "ISA balance is not accessible-cash certification. Remaining withdrawable principal, invested assets, market loss, settlement and provider processing require individual checking; KRW 7,200,000 is an incomplete-budget reference only.",
+    "No categorical pension-savings-over-IRP recommendation; partial withdrawal and account closure must be checked separately. Pension-phase rates and exceptional early-withdrawal treatment are not established here.",
+    "Local-tax withholding multiplier is corroborated in retained review, not freshly fetched by this author and not a full final local-settlement review. The ISA all-in rate remains unconfirmed.",
+    "Loan qualification, housing-savings eligibility and forms, broker cutoff and 2027 Hometax/employer deadlines remain unresolved. No exact broker cutoff is promised.",
+    "Youth proposal enactment and effective year are unconfirmed and excluded. No tax filing, money contribution, account access, publication, network or browser operation was performed.",
+    "Korean is a machine-assisted draft, not native-certified. Parent owns combined checks, inventory and rendering; this author creates only the assigned private-staging files."
+  ],
+  "editingContract": "Fixed slug; private-staging en/ko Markdown and schema-v2 data only, plus optional Seoul author-review note. All external registry URLs occur in both public Markdown files and derive from retained sources.md plus mandatory review anchor. Local evidence paths and hashes live only in data; no public attachment links. No builders or commits.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

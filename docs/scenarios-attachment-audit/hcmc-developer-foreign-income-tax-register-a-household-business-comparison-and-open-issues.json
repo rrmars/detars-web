@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "sourceDataSha256": "56a0fb9ccb4038876fd5ff8bd869350684866c157ec5d453392321e784882b00",
+  "sourceListLink": "../w8-hcmc-developer-foreign-income-tax/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "bf1e9a5b59440c83f25bee9ce00efd53a020a6e835c41a6e364d5d00fe35cf2a",
+      "faqPairs": 0,
+      "links": []
+    },
+    "vi": {
+      "sourceMarkdownSha256": "834f25e9e1cdda40ecc798869ced068f9f1cd7b31862ab3e8c73d4e3309589e5",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

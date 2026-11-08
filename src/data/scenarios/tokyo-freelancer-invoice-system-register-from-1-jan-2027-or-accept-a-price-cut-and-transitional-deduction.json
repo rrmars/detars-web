@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 2,
+  "slug": "tokyo-freelancer-invoice-system-register-from-1-jan-2027-or-accept-a-price-cut-and-transitional-deduction",
+  "translationKey": "tokyo-freelancer-invoice-system-register-from-1-jan-2027-or-accept-a-price-cut-and-transitional-deduction",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "ja": "この記事は DeTars.xyz の汎用 Cowork タスクで作成されました"
+  },
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "audience": {
+    "en": "A Tokyo sole-proprietor graphic designer filing a blue return, with ¥7,200,000 in yearly sales, about 70% from corporate clients, currently tax-exempt and deciding whether to register as a qualified invoice issuer from 1 January 2027.",
+    "ja": "青色申告をしている東京の個人事業主のグラフィックデザイナーで、年間売上は¥7,200,000、そのうち約70%が法人の取引先からです。現在は免税事業者で、2027年1月1日から適格請求書発行事業者に登録するかどうかを決めようとしています。"
+  },
+  "localeReason": "Japanese serves this decision directly: the designer lives in Tokyo, and the tax-office pages, forms and e-Tax screens they must use, and the clients' own requests, are in Japanese, so reading the conditions and open issues in Japanese lets them match each point to the official wording. It changes no rule, rate, figure or date.",
+  "sources": [
+    {
+      "title": "NTA: FY2026 tax reform page (3割特例, transitional deduction)",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice-review/index.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA tax answer 6498: 2割特例 and registration",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6498.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA leaflet: 2割特例 and 3割特例",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice-review/pdf/0026004-099-01-1.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA Q&A 問115-2: who cannot use the 3割特例",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/115-2.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "MOF: FY2026 tax reform outline",
+      "url": "https://www.mof.go.jp/tax_policy/tax_reform/outline/fy2026/08taikou_gaiyou.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA tax answer 6505: simplified taxation",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6505.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA Q&A 問117-3: simplified-taxation election",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/117-3.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA tax answer 6509: business types",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6509.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA tax answer 6303: tax rate",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6303.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA tax answer 6501: exemption threshold",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6501.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA tax answer 6551: zero-rated exports",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6551.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA: registration application",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_shinsei.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA: registration processing times",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/kensu_kikan.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA Q&A 問36: invoices before the number arrives",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/36.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "NTA tax answer 6901: bookkeeping and deduction",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6901.htm",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "cut_ceiling": {
+      "label": "Largest price cut (of the tax-excluded price charged to corporate clients, 2027 and 2028) at which staying exempt can still beat registering; break-even 3.64%",
+      "value": 3.6,
+      "unit": "%",
+      "display": "3.6%"
+    },
+    "san_wari": {
+      "label": "Base-case consumption tax under the 3割特例 in 2027 (assumed sales and mix)",
+      "value": 183600,
+      "unit": "JPY",
+      "display": "¥183,600"
+    },
+    "simplified_type5": {
+      "label": "Base-case consumption tax under simplified taxation, Type 5, from 2029 (assumes design is Type 5; unconfirmed)",
+      "value": 306000,
+      "unit": "JPY",
+      "display": "¥306,000"
+    },
+    "general_method": {
+      "label": "Base-case consumption tax under the general method with ¥1,000,000 of purchases (assumed)",
+      "value": 521000,
+      "unit": "JPY",
+      "display": "¥521,000"
+    },
+    "break_even_2029": {
+      "label": "Break-even price cut for 2029 to 2032 (assumes Type 5; unconfirmed)",
+      "value": 6.07,
+      "unit": "%",
+      "display": "6.07%"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Aoi, a Tokyo sole-proprietor graphic designer, blue-return filer, currently tax-exempt; sales of ¥7,200,000 tax-excluded in 2026 and 2027, about 70% (¥5,040,000) from corporate clients.",
+    "salesMix": "Of the other 30%, base case 15% individuals (domestic, 10% tax) and 15% overseas (zero-rated); sensitivity 0% and 30% overseas. Sales spread evenly through the year; payable amounts rounded down to ¥100.",
+    "thresholds": "Taxable sales of ¥10,000,000 or less in 2025 and in January–June 2026 (the 特定期間 test), with other exclusions assumed not to apply, for the 2027 3割 illustration. All assumed, not confirmed eligibility. A specified-period sales crossing alone does not settle exemption: where permitted the salary-payment alternative may be used; confirm the applicable test.",
+    "purchases": "General method: ¥1,000,000 a year tax-included, all from registered issuers (input tax ¥90,909); sensitivity ¥500,000 and ¥2,000,000. Assumed.",
+    "incomeTax": "Combined marginal income-tax and resident-tax rate of 15%, 20% or 30% for the after-tax illustration. Assumed. Applying the general tax-exclusive explanation to 3割 is unresolved: NTA 6901 redirects special methods to 6513, which was not read. Confirm the applicable accounting treatment before relying on the conditional after-tax illustration.",
+    "typeFive": "Graphic design counts as Type 5 (service business, 50% deemed purchase rate). Unconfirmed: the NTA page does not name design.",
+    "recommendation": "Register with an effective date of 1 January 2027 unless main corporate clients agree in writing to a price cut of about 3.6% or less of the tax-excluded corporate price (2027 and 2028); 3割特例 in 2027 and 2028, simplified taxation from 2029. This is a judgement about client-loss risk, not a result of the arithmetic. 30 November 2026 is the run's own target, not an NTA deadline.",
+    "taxPeriodScope": "Existing exempt individual using the ordinary January–December tax period, not an elected shortened period or a genuinely new business seeking start-of-period registration. Late-2026 registration changes the reported taxable-transactions interval to registration onward; it does not create a separate stub tax period or itself disqualify the 2026 period from 2割.",
+    "illustrative2026": "Every 2026 method/sensitivity amount remains a conditional full-year illustration, not the bill for registering during the remainder of 2026. Actual 2割 eligibility needs the 2024 base-period and January–June 2025 specified-period checks and applicable exclusions; these facts and the actual post-registration amounts are not established. The existing 2025/January–June 2026 assumptions address 2027."
+  },
+  "datePolicy": "Pages were read on 2026-11-08 in the original run and that access date is kept for every source. Source dates (30 September 2026, 1 October 2028 and so on) are rule dates, not access dates. Copy editing and translation alone are not a refresh. The bounded correction independently reread all page-cited official sources on the same date; exact UTC access times, full response hashes and unavailable ledger-only reads are separately retained in checks/batch45-completion-20261108/tokyo-evidence/.",
+  "uncertainties": [
+    "Whether graphic design counts as Type 5 (simplified taxation, 50%) is unconfirmed; the NTA page classifies by industry division and does not name design. The ¥306,000 figure and the 6.07% break-even depend on it.",
+    "Resident tax following the same business income is the author's inference; no official page was read. Whether registration leaves the blue-return deduction unaffected is also unconfirmed. Special-method tax-exclusive accounting is unresolved: NTA 6901 redirects to 6513, not read here; the after-tax illustration is conditional on confirming the accounting treatment.",
+    "The counting of the 15 days before the desired registration date is unconfirmed (17 December is the author's counting; 15 December is used as an outer safety limit). 30 November 2026 is a recommended target, not an NTA deadline.",
+    "The end date of the 2-year commitment for a 1 January 2027 registration (through 2028) is the author's reading and unconfirmed.",
+    "Whether zero-rated sales count toward the ¥10,000,000 base-period test is unconfirmed (not stated on the pages read). That each overseas client and deliverable qualifies for zero rating, and that overseas clients need no qualified invoice, are unconfirmed.",
+    "The size of price cuts clients actually ask for is unknown; the matching-cut model is the author's, and clients may simply switch.",
+    "Actual 2026 2割 eligibility (including the 2024 base period, January–June 2025 specified period and other exclusions) and any actual post-registration 2026 bill still need checking. The former inference that late registration itself creates an ineligible stub tax period was withdrawn after the primary-source scope reread.",
+    "The number of the enacted amending Act was not located on e-Gov; the rules were read from NTA and MOF pages."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Initial authoring used local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No web research, network, account, contact or publication during that initial authoring. The Japanese page was translated from the English guide. The original research read the NTA and MOF pages by plain fetch, with no login. The separately recorded bounded correction below did perform cookie-free official-source rereads.",
+    "originalResearchAccessLimitations": "The amending Act number was not located on e-Gov. The NTA Excel calculator for the 15-day count was not retrievable. The percentage schedule of the transitional deduction appears only in a diagram and leaflet on the NTA page, not in its text.",
+    "independentCheckDisposition": "A reviewer pass recomputed the figures and found two one-yen float errors (¥113,399 corrected to ¥113,400; ¥128,519 corrected to ¥128,520) and ten wording or labelling gaps (Type 5 flag in the recommendation and table, zero-rated sales in the ¥10,000,000 test marked unconfirmed, the 特定期間 test and other Q&A 問115-2 exclusions, the 2029 notification deadline wording, 30 November marked as a target, the 未払金 option, the stub-year wording, corporate-price basis of 3.6%, the recommendation described as a judgement). The author applied all ten; the reviewer did not re-review the edited pages. This guide follows the corrected text and keeps every remaining unconfirmed item.",
+    "editingContract": "Initial authoring: only data/tokyo-freelancer-invoice-system-register-from-1-jan-2027-or-accept-a-price-cut-and-transitional-deduction.json, en/ and ja/ Markdown for this slug and checks/batch45-tokyo-freelancer-invoice-system-register-from-1-jan-2027-or-accept-a-price-cut-and-transitional-deduction-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder.",
+    "boundedCorrection20261108": {
+      "executionRoute": "Current GPT executor; no Claude delegation",
+      "scope": "Only this slug's EN/JA Markdown and shared data, plus evidence/correction notes under checks/batch45-completion-20261108/. No source-run, site-worktree, HTML, renderer or checker edits; no build, server, filing, contact or publication.",
+      "method": "Full cited NTA/MOF responses independently retrieved with cookie-free urllib, TLS verification enabled using certifi; exact official HTML also read by guarded cookie-free web_fetch. No NTA source was read through a browser/account/cookie session. One generic search fallback automatically used managed search-browser routes; its irrelevant results were not relied on, and sign-in state was not inspected. Requested web.run was unavailable in this executor's effective tool surface; director separately confirmed cookie-free web_fetch reads of 6137 and 6501 (correcting an earlier tool-label message).",
+      "evidence": "checks/batch45-completion-20261108/tokyo-evidence/retrieval-manifest.json",
+      "scopeEvidence": "checks/batch45-completion-20261108/tokyo-evidence/scope-retrieval-manifest.json",
+      "applicability": "checks/batch45-completion-20261108/tokyo-applicability.md",
+      "disposition": "Withdrew the false late-registration stub-tax-period inference; distinguished the annual individual period from registration-onward transactions; clarified conditional full-year 2026 amounts and prior-year eligibility checks. Preserved all tax amounts, headline figures, transition/six-year tables, the main 2027 recommendation and all other unconfirmed matters.",
+      "additionalConsultations": "NTA 6137 and Q&A 115 were needed for annual-period and exclusion scope; the 2割 landing page was also consulted. A historical pamphlet locator returned a missing-page body. These were disclosed to the director and not added as page citations. Ledger R8's second reform leaflet 0026004-099-01-2.pdf never yielded a complete response after timeout/incomplete reads; no complete reread is claimed.",
+      "reviewLimit": "Executor source/scope and bilingual literal checks, not native professional or legal review. The original independent-check disposition above is historical; its stub-period wording is superseded by this correction."
+    }
+  },
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

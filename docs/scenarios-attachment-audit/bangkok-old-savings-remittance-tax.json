@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "th"
+  ],
+  "sourceDataSha256": "6edd47436e508808209d279a71a7964f7deb5d087fcc57c565399a44d9c1df2d",
+  "sourceListLink": "../w8-bangkok-resident-remitted-foreign-income-tax/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "d917c2e96d94def8e8c7434ad3412c91dbd95aa2a22913f400b9b1e7df019012",
+      "faqPairs": 0,
+      "links": []
+    },
+    "th": {
+      "sourceMarkdownSha256": "f63e6c9c9f74e235df4f3871a441dc6e0300ab3b5cd8d00c1d985dbb44a37709",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "schemaVersion": 2,
+  "slug": "paris-freelancer-micro-company-vat-check",
+  "translationKey": "paris-freelancer-micro-company-vat-check",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "fr": "Produit par une tâche Cowork générale sur DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出"
+  },
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "audience": {
+    "en": "Paris freelance web developer comparing micro, EI au réel, EURL and SASU with modest expenses and rising turnover.",
+    "fr": "Développeuse web indépendante à Paris comparant micro, EI au réel, EURL et SASU, avec peu de frais et un chiffre d’affaires en hausse."
+  },
+  "localeReason": "English and French serve the Paris-based freelance-tax comparison; the French is a machine-assisted draft, not certified native French.",
+  "sources": [
+    {
+      "title": "Franchise en base de TVA",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F21746",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Micro turnover ceilings and consequences — impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/professionnel/questions/pour-rester-micro-entrepreneur-quel-montant-de-chiffre-daffaires-ou-de",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Micro-entrepreneur: turnover ceiling consequences",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F32353",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Micro-social contributions",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "URSSAF auto-entrepreneur rate calendar",
+      "url": "https://www.urssaf.fr/accueil/actualites/taux-cotisations-autoentrepeneur.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "URSSAF essential status guide",
+      "url": "https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/lessentiel-du-statut.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Micro-enterprise tax regime",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F23267",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Income-tax scale",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1419",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Versement libératoire conditions — impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/professionnel/questions/en-tant-que-micro-entrepreneur-sous-quelles-conditions-puis-je-opter-pour-l",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Company director social protection",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F38152",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Corporate income-tax rates",
+      "url": "https://www.service-public.gouv.fr/professionnels-entreprises/vosdroits/F23575",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "URSSAF private-sector contribution rates",
+      "url": "https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/taux-cotisations-secteur-prive.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "URSSAF social-security ceilings",
+      "url": "https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/plafonds-securite-sociale.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Agirc-Arrco contribution rates for 2026",
+      "url": "https://reglementation.agirc-arrco.fr/home/baremes/listes-area/baremes-1/cotisations-au-regime-agirc-arrco-en-2026.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Taxation of dividends received by shareholders",
+      "url": "https://www.service-public.gouv.fr/professionnels-entreprises/vosdroits/F32963",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Micro-entrepreneur pension regime",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F23369",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "micro_annualized_personal_amount": {
+      "value": 45776.01,
+      "display": "€45,776.01",
+      "label": "Micro amount after modelled tax, contributions and business costs; excludes CFE and unmodelled costs; annualized illustration, not 2027 cash forecast",
+      "unit": "illustrative_annual_personal_amount",
+      "currency": "EUR"
+    },
+    "central_turnover_ht": {
+      "value": 82500,
+      "display": "€82,500",
+      "label": "Hypothetical central turnover excluding VAT",
+      "unit": "annual_turnover_excluding_vat",
+      "currency": "EUR"
+    },
+    "micro_services_ceiling": {
+      "value": 83600,
+      "display": "€83,600",
+      "label": "Services/BNC ceiling for 2026–2028 under retained rules",
+      "unit": "annual_turnover_ceiling_excluding_vat",
+      "currency": "EUR"
+    },
+    "vat_current_year_upper_threshold": {
+      "value": 41250,
+      "display": "€41,250",
+      "label": "Current-year upper VAT-franchise threshold, not micro ceiling",
+      "unit": "annual_turnover_threshold_excluding_vat",
+      "currency": "EUR"
+    }
+  },
+  "assumptions": {
+    "persona": "Hypothetical Léa; not an actual submitted user case",
+    "age": 29,
+    "city": "Paris",
+    "filingStatus": "single",
+    "taxParts": 1,
+    "children": 0,
+    "otherIncome": 0,
+    "activity": "Non-regulated BNC web development, non-Cipav micro since 2024",
+    "housing": "rented studio",
+    "turnover2026": 68000,
+    "turnover2027Range": [
+      80000,
+      85000
+    ],
+    "centralTurnoverHT": 82500,
+    "annualBusinessExpensesHT": 6000,
+    "previousTurnover": "unknown",
+    "RFR2025": "unknown",
+    "vatHistory": "unknown",
+    "alreadyFiledFutureVLElection": "unknown",
+    "socialRateYear": 2026,
+    "incomeScaleYear": 2026,
+    "incomeScaleAppliesToIncomeYear": 2025,
+    "modelledIncomeYear": 2027,
+    "modelledAssessmentYear": 2028,
+    "microSocialRate": 0.256,
+    "microCFPRate": 0.002,
+    "microAllowance": 0.34,
+    "eurlRunningCost": 2300,
+    "sasuRunningCost": 2700,
+    "companyOneOffSetupCost": 500,
+    "companyCapital": 1000,
+    "CFEIncluded": false,
+    "commonAndUnmodelledCostsIncluded": false,
+    "dividendDistribution": "All distributable profit assumed distributed; timing not established",
+    "socialTreatmentConfirmed": false,
+    "companyElection": "IS, PFU illustrations not optimized; barème/PFU unresolved"
+  },
+  "calculation": {
+    "microAtCentralTurnover": {
+      "ca": 82500,
+      "cotisations": 21285,
+      "income_tax": 9438.99,
+      "expenses_unrelieved": 6000,
+      "net": 45776.01,
+      "retirement_contrib": 14234.880000000001
+    },
+    "microTaxableIncome": 54450,
+    "comparisonByTurnover": {
+      "80000": {
+        "micro": {
+          "ca": 80000,
+          "cotisations": 20640,
+          "income_tax": 8943.99,
+          "expenses_unrelieved": 6000,
+          "net": 44416.01,
+          "retirement_contrib": 13803.52
+        },
+        "eurl_pay_30000_pfu": {
+          "remuneration": 30000,
+          "profit_before_is": 41200,
+          "is_tax": 6180,
+          "dividends": 35020,
+          "div_subject_to_social": 34920,
+          "tns_social_total": 21002.5261435206,
+          "tns_social_on_dividends": 12059.200937528092,
+          "remuneration_income_tax": 0,
+          "dividend_tax": 4501.160000000001,
+          "net": 39516.31385647939,
+          "run_and_setup": 2800,
+          "expenses": 6000,
+          "retirement_contrib": 12476.19576
+        },
+        "eurl_pay_55000_pfu": {
+          "remuneration": 55000,
+          "profit_before_is": 16200,
+          "is_tax": 2430,
+          "dividends": 13770,
+          "div_subject_to_social": 13670,
+          "tns_social_total": 21874.582152134833,
+          "tns_social_on_dividends": 4373.785930744903,
+          "remuneration_income_tax": 2445.7405329235944,
+          "dividend_tax": 1781.1599999999999,
+          "net": 42668.517314941564,
+          "run_and_setup": 2800,
+          "expenses": 6000,
+          "retirement_contrib": 12751.80156
+        },
+        "sasu_salary_only_pfu_model": {
+          "gross": 51387.51832551928,
+          "company_cost": 70800,
+          "employer_cot": 19412.481674480714,
+          "employee_cot_csg": 10741.632345416081,
+          "net_pre_tax": 40645.88598010321,
+          "income_tax": 4473.702108418128,
+          "net": 36172.18387168508,
+          "is_tax": 0,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 14518.819225378485
+        },
+        "sasu_gross_7212_pfu": {
+          "gross": 7212,
+          "employer_cot": 2724.40512,
+          "employee_cot_csg": 1513.09563,
+          "net_salary_pre_tax": 5698.904369999999,
+          "salary_income_tax": 0,
+          "profit_before_is": 60863.59488,
+          "is_tax": 10965.89872,
+          "dividends": 49897.69616,
+          "dividend_flat_tax": 15667.87659424,
+          "net": 39928.72393576,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 2043.1596000000002
+        },
+        "sasu_gross_18000_pfu": {
+          "gross": 18000,
+          "employer_cot": 6799.68,
+          "employee_cot_csg": 3776.445,
+          "net_salary_pre_tax": 14223.555,
+          "salary_income_tax": 182.90558000000001,
+          "profit_before_is": 46000.32,
+          "is_tax": 7250.08,
+          "dividends": 38750.24,
+          "dividend_flat_tax": 12167.575359999999,
+          "net": 40623.314060000004,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 5099.400000000001
+        }
+      },
+      "82500": {
+        "micro": {
+          "ca": 82500,
+          "cotisations": 21285,
+          "income_tax": 9438.99,
+          "expenses_unrelieved": 6000,
+          "net": 45776.01,
+          "retirement_contrib": 14234.880000000001
+        },
+        "eurl_pay_30000_pfu": {
+          "remuneration": 30000,
+          "profit_before_is": 43700,
+          "is_tax": 6675,
+          "dividends": 37025,
+          "div_subject_to_social": 36925,
+          "tns_social_total": 21468.351236090304,
+          "tns_social_on_dividends": 12525.026030097795,
+          "remuneration_income_tax": 0,
+          "dividend_tax": 4757.8,
+          "net": 40798.84876390969,
+          "run_and_setup": 2800,
+          "expenses": 6000,
+          "retirement_contrib": 12624.995900000002
+        },
+        "eurl_pay_55000_pfu": {
+          "remuneration": 55000,
+          "profit_before_is": 18700,
+          "is_tax": 2805,
+          "dividends": 15895,
+          "div_subject_to_social": 15795,
+          "tns_social_total": 22373.96106874948,
+          "tns_social_on_dividends": 4873.164847359549,
+          "remuneration_income_tax": 2323.2209004376405,
+          "dividend_tax": 2053.16,
+          "net": 44144.658030812876,
+          "run_and_setup": 2800,
+          "expenses": 6000,
+          "retirement_contrib": 12906.22106
+        },
+        "sasu_salary_only_pfu_model": {
+          "gross": 53201.92617537341,
+          "company_cost": 73300,
+          "employer_cot": 20098.073824626597,
+          "employee_cot_csg": 11100.708194921837,
+          "net_pre_tax": 42101.21798045157,
+          "income_tax": 4880.599942740917,
+          "net": 37220.61803771065,
+          "is_tax": 0,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 15011.430956613884
+        },
+        "sasu_gross_7212_pfu": {
+          "gross": 7212,
+          "employer_cot": 2724.40512,
+          "employee_cot_csg": 1513.09563,
+          "net_salary_pre_tax": 5698.904369999999,
+          "salary_income_tax": 0,
+          "profit_before_is": 63363.59488,
+          "is_tax": 11590.89872,
+          "dividends": 51772.69616,
+          "dividend_flat_tax": 16256.62659424,
+          "net": 41214.97393576,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 2043.1596000000002
+        },
+        "sasu_gross_18000_pfu": {
+          "gross": 18000,
+          "employer_cot": 6799.68,
+          "employee_cot_csg": 3776.445,
+          "net_salary_pre_tax": 14223.555,
+          "salary_income_tax": 182.90558000000001,
+          "profit_before_is": 48500.32,
+          "is_tax": 7875.08,
+          "dividends": 40625.24,
+          "dividend_flat_tax": 12756.325359999999,
+          "net": 41909.564060000004,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 5099.400000000001
+        }
+      },
+      "85000": {
+        "micro": {
+          "ca": 85000,
+          "cotisations": 21930,
+          "income_tax": 9933.99,
+          "expenses_unrelieved": 6000,
+          "net": 47136.01,
+          "retirement_contrib": 14666.240000000002
+        },
+        "eurl_pay_30000_pfu": {
+          "remuneration": 30000,
+          "profit_before_is": 46200,
+          "is_tax": 7300,
+          "dividends": 38900,
+          "div_subject_to_social": 38800,
+          "tns_social_total": 21904.98463886808,
+          "tns_social_on_dividends": 12961.659432875573,
+          "remuneration_income_tax": 0,
+          "dividend_tax": 4997.8,
+          "net": 41997.215361131915,
+          "run_and_setup": 2800,
+          "expenses": 6000,
+          "retirement_contrib": 12761.2484
+        },
+        "eurl_pay_55000_pfu": {
+          "remuneration": 55000,
+          "profit_before_is": 21200,
+          "is_tax": 3180,
+          "dividends": 18020,
+          "div_subject_to_social": 17920,
+          "tns_social_total": 22960.43308872798,
+          "tns_social_on_dividends": 5459.636867338049,
+          "remuneration_income_tax": 2177.1861300434457,
+          "dividend_tax": 2325.16,
+          "net": 45557.22078122858,
+          "run_and_setup": 2800,
+          "expenses": 6000,
+          "retirement_contrib": 13060.64056
+        },
+        "sasu_salary_only_pfu_model": {
+          "gross": 55016.33402522753,
+          "company_cost": 75800,
+          "employer_cot": 20783.665974772473,
+          "employee_cot_csg": 11459.78404442759,
+          "net_pre_tax": 43556.549980799944,
+          "income_tax": 5287.497777063709,
+          "net": 38269.05220373624,
+          "is_tax": 0,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 15504.042687849276
+        },
+        "sasu_gross_7212_pfu": {
+          "gross": 7212,
+          "employer_cot": 2724.40512,
+          "employee_cot_csg": 1513.09563,
+          "net_salary_pre_tax": 5698.904369999999,
+          "salary_income_tax": 0,
+          "profit_before_is": 65863.59488,
+          "is_tax": 12215.898720000001,
+          "dividends": 53647.69616000001,
+          "dividend_flat_tax": 16845.376594240002,
+          "net": 42501.223935760005,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 2043.1596000000002
+        },
+        "sasu_gross_18000_pfu": {
+          "gross": 18000,
+          "employer_cot": 6799.68,
+          "employee_cot_csg": 3776.445,
+          "net_salary_pre_tax": 14223.555,
+          "salary_income_tax": 182.90558000000001,
+          "profit_before_is": 51000.32,
+          "is_tax": 8500.08,
+          "dividends": 42500.24,
+          "dividend_flat_tax": 13345.075359999999,
+          "net": 43195.814060000004,
+          "run_and_setup": 3200,
+          "expenses": 6000,
+          "retirement_contrib": 5099.400000000001
+        }
+      }
+    },
+    "comparisonDisplay": "Main and sensitivity tables round money to nearest whole euro; micro/VL detail keeps cents",
+    "companyTableClassification": "Every company cell is a PFU-model illustration; no optimum or robust exact expense threshold established",
+    "dividendBaremeVariants": [
+      {
+        "grossSalary": 7212,
+        "pfuModelNet": 41214.97393576,
+        "baremeIllustrationNet": 43824.61781984,
+        "extraDeductibleCSGAdjustment": false,
+        "optimized": false
+      },
+      {
+        "grossSalary": 18000,
+        "pfuModelNet": 41909.564060000004,
+        "baremeIllustrationNet": 42897.13376,
+        "extraDeductibleCSGAdjustment": false,
+        "optimized": false
+      }
+    ],
+    "cheapTotalCompanyCostIllustration": {
+      "eurl_pay_57500": 44782.08476150537,
+      "sasu_gross_18000": 42784.21406,
+      "totalCompanyCost": 1500,
+      "separateSetupCost": 0
+    },
+    "alternativeEURLSocialReading": {
+      "pay": 57500,
+      "net": 41229.87170311615,
+      "legalLowerBound": false
+    },
+    "retainedCompanyFunds": {
+      "personal_net_salary": 14040.64942,
+      "retained_profit_after_is": 40625.24
+    },
+    "microVLHypothetical": {
+      "ca": 82500,
+      "cotisations": 21285,
+      "income_tax": 1815,
+      "expenses_unrelieved": 6000,
+      "net": 53400,
+      "retirement_contrib": 14234.880000000001
+    },
+    "microVLGain": 7623.989999999998,
+    "vatExcessIllustration": {
+      "excessOnly": 26750,
+      "vatRateAssumed": 0.2,
+      "ifTTC": 4458.333333333333,
+      "ifHT": 5350,
+      "arrearsEstimate": false,
+      "liabilityCeiling": false
+    },
+    "vatFullYearScaleOnly": {
+      "annualAmount": 68000,
+      "ifTTC": 11333.333333333334,
+      "ifHT": 13600,
+      "assessedBill": false
+    }
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "mandatoryReview": "[local evidence retained privately]",
+    "calculationMethod": "Read current retained output and source definitions; compile only pure calculation definitions in memory from a staging working directory. Recomputed all result fields for six fixed scenarios at three turnover levels and checked against retained output; no source script/output writes. Calculated two barème variants with no additional deductible CSG adjustment."
+  },
+  "datePolicy": "All external access dates are the original 2026-11-08 retained research dates from sources.md, not a fresh network check. This adaptation reread retained primary text and recomputed arithmetic only; no network/browser/login/research/publishing. Future tax/social rates remain assumptions.",
+  "uncertainties": [
+    "Micro preference is provisional at low expenses. Company cases are illustrative PFU-model calculations, not best-company or optimized results. Progressive dividend option with 40% allowance must be compared with actual other taxable income; relevant election scope and deductible CSG still require professional checking.",
+    "2026 income-tax scale is for 2025 income; reused for 2027 income assessed in 2028. 2027 PASS/SMIC and social/PFU/VAT treatment remain unconfirmed future assumptions.",
+    "EURL social classification, base, deduction on remuneration and dividend treatment remain unresolved; the retained company-director guide itself excludes professional libéraux from its stated scope. Full versus reduced SASU employer rates and actual accident-at-work rate require confirmation.",
+    "Annualized full distribution is not guaranteed personal cash in 2027. Provisional contribution settlements and dividend dates are not established. Retained corporate money is not personal house-deposit savings.",
+    "VAT may have started on 2026 crossing day, January 1, 2026 due to unknown 2025 turnover, or earlier. Crossing-day transactions/invoices matter. Excess-only EUR 4458–5350 is neither arrears estimate nor ceiling; full-year examples EUR 11333 TTC / 13600 HT are scale only, not an assessment.",
+    "VL cannot newly be elected now for an existing activity for 2027 unless already filed by September 30, 2026; check acknowledgment and RFR 2025 no greater than EUR 29579 per part. Unknown RFR/filing history cannot be inferred from the example.",
+    "The EUR 83600 ceiling covers 2026–2028; first excess in 2027 with 2026 below the ceiling does not alone end micro in 2028; consecutive excesses in 2027 and 2028 imply exit January 1, 2029. EI au réel / déclaration contrôlée can avoid compulsory incorporation.",
+    "EUR 500 setup cost is one-off; assumed running costs are not quotes; CFE and unmodelled/common costs excluded. No robust exact expense break-even established.",
+    "Pension contributions are proxies, not pension forecasts; EUR 7212 salary floor is a 2026 benchmark only. Sick-pay eligibility and unemployment/ATI rights not certified; no cancellation of protection advised.",
+    "French is a machine-assisted draft, not certified native French. No builders, visual/browser checks, accounts, filing, incorporation, publication or commit; parent owns combined verification."
+  ],
+  "editingContract": "Only fixed-slug en/fr Markdown, shared schema-v2 data and optional Paris author-review note in private staging. No local evidence/download links in public prose. Exact producer labels, source URL coverage and normalized numeric/currency/date/URL/table-cell parity. Local source paths/hashes recorded in data only; no source/shared edits.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

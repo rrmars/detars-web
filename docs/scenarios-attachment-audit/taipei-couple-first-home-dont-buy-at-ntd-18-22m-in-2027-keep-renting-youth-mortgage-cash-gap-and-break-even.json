@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "zh-Hant"
+  ],
+  "sourceDataSha256": "4e484cd3c4c30e6b73be105cefc4eddc18e5b3d8bbd874455bbb9501cd18ce76",
+  "sourceListLink": "../w8-taipei-couple-first-home-youth-mortgage/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "63acf13d3933e8af15d1582b89954cce760ebcd4b2c47bde5f225cb81089c470",
+      "faqPairs": 0,
+      "links": []
+    },
+    "zh-Hant": {
+      "sourceMarkdownSha256": "61923040898b4a73f6f8db623898cd246ca8f21e863fb3bd816e07365a272cfd",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

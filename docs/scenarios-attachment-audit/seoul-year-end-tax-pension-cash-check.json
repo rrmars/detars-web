@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ko"
+  ],
+  "sourceDataSha256": "6a2dd8753ad08e75eadb8ccc8fafee45c7256b6be4807a3f312b78c436bee71c",
+  "sourceListLink": "../w8-seoul-office-worker-year-end-tax-irp/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "57dcad877086464ac7a51ab2491db34eca30097f6b0b33bfbd6fd2fd037233b6",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ko": {
+      "sourceMarkdownSha256": "72db6c5d94d3bf1813b34470aaee95809312cdae1165b9f337f43b6a970e664e",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

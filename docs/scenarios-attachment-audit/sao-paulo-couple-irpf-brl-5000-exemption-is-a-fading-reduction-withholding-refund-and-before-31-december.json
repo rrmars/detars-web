@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "sourceDataSha256": "022441c3071e06b7cf316225d6f85c0f4a4ddf18d330153136badb9bc14bc8a0",
+  "sourceListLink": "../w8-sao-paulo-couple-irpf-exemption-5000/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "3ed08bb6ef284e0906f455c5c577664c91d95a97a3abfb90ba466d1bde0e5781",
+      "faqPairs": 0,
+      "links": []
+    },
+    "pt-BR": {
+      "sourceMarkdownSha256": "2ffa41e8ee9ea21fa9dc8bab78807d776b09932ff113589776f5f1a1dc5e6d18",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

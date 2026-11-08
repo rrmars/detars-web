@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 2,
+  "slug": "casablanca-engineer-lyon-talent-passport-blue-card-out-of-reach-and-ask-the-employer-first",
+  "translationKey": "casablanca-engineer-lyon-talent-passport-blue-card-out-of-reach-and-ask-the-employer-first",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "fr": "Produit par une tâche Cowork générale sur DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "audience": {
+    "en": "A 32-year-old software engineer in Casablanca with an EUR 52,000 gross job offer in Lyon, his pharmacist wife (30) and their 4-year-old son, deciding which French permit to pursue and whether one salary can carry the family.",
+    "fr": "Un ingénieur logiciel de 32 ans à Casablanca avec une offre de EUR 52 000 brut à Lyon, son épouse pharmacienne (30 ans) et leur fils de 4 ans, qui doivent choisir quel titre de séjour français viser et savoir si un seul salaire peut porter la famille."
+  },
+  "localeReason": "French serves this decision directly: the French permit pages, the consulate and TLScontact appointment, the prefecture and ANEF filings, the CNG and Ordre des pharmaciens pharmacist procedure, school enrolment and rental listings are all in French, so reading the conditions and open issues in French helps the family compare an employer's or an agency's paperwork with the official wording. It changes no rule, fee, threshold or date.",
+  "sources": [
+    {
+      "title": "www.service-public.gouv.fr — F16922",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F35792",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35792",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F38329",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F38329",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — R65024",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R65024",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "entreprendre.service-public.gouv.fr — F31188",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F31188",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F16162",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16162",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "france-visas.gouv.fr — maroc",
+      "url": "https://france-visas.gouv.fr/maroc",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "sites.service-information-publique.fr — sites.service-information-publique.fr",
+      "url": "http://sites.service-information-publique.fr",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "werklist.com — carte-bleue-europeenne-france-seuil-salaire-2026",
+      "url": "https://werklist.com/fr/blog/carte-bleue-europeenne-france-seuil-salaire-2026",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.cng.sante.fr — session-evc-2026",
+      "url": "https://www.cng.sante.fr/session-evc-2026",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.cng.sante.fr — epreuves-verification-connaissances-evc",
+      "url": "https://www.cng.sante.fr/candidats/concours/internats/concours-medicaux/concours-medicaux-cnph-evc/epreuves-verification-connaissances-evc",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.cng.sante.fr — pharmacien",
+      "url": "https://www.cng.sante.fr/procedures-dautorisation-dexercice/obtenir-autorisation-dexercice/pharmacien",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.ordre.pharmacien.fr — s-inscrire-au-tableau-de-l-ordre",
+      "url": "https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-parcours-et-mes-demarches/s-inscrire-au-tableau-de-l-ordre",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F34308",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34308",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F12859",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12859",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F20314",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F20314",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.urssaf.fr — plafonds-securite-sociale.html",
+      "url": "https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/plafonds-securite-sociale.html",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F2302",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2302",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F1419",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1419",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F2705",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2705",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F1989",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1989",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F34328",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34328",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "entreprendre.service-public.gouv.fr — F34732",
+      "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F34732",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.bkam.ma — Cours-de-reference",
+      "url": "https://www.bkam.ma/Marches/Principaux-indicateurs/Marche-des-changes/Cours-de-change/Cours-de-reference",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F1864",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1864",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mairie3.lyon.fr — inscrire-son-enfant-la-cantine-et-aux-activites-periscolaire",
+      "url": "https://mairie3.lyon.fr/demarche/ecole-et-periscolaire/inscrire-son-enfant-la-cantine-et-aux-activites-periscolaires",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "mairie3.lyon.fr — faire-calculer-son-quotient-familial-municipal",
+      "url": "https://mairie3.lyon.fr/demarche/ecole-et-periscolaire/faire-calculer-son-quotient-familial-municipal",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.rhone.gouv.fr — Encadrement-des-loyers",
+      "url": "https://www.rhone.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-urbanisme-construction-logement/Logement/Encadrement-des-loyers",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F36218",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36218",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.grandlyon.com — 20251103_cp_encadrement-des-loyers.pdf",
+      "url": "https://www.grandlyon.com/fileadmin/user_upload/media/pdf/espace-presse/cp/2025/20251103_cp_encadrement-des-loyers.pdf",
+      "accessDate": "2026-11-07"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F31269",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31269",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.service-public.gouv.fr — F12006",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12006",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.orpi.com",
+      "url": "https://www.orpi.com/annonce-location-appartement-t3-lyon-3-69003-4f2b4bd0-bfe7-4ecf-9779-88a0625b40dc/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.orpi.com",
+      "url": "https://www.orpi.com/annonce-location-appartement-t3-lyon-7-69007-e7678ca6-0769-41c3-8cfc-83cc02384a9e/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.orpi.com",
+      "url": "https://www.orpi.com/annonce-location-appartement-t3-villeurbanne-69100-d4fc3fa7-a190-4d6a-98d5-a8a4486e6620/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.sytral.fr — tarification-et-billettique.html",
+      "url": "https://www.sytral.fr/fr/tarification-et-billettique.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "www.lyoncapitale.fr — metropole-de-lyon-les-abonnements-tcl-augmentent-legerement-",
+      "url": "https://www.lyoncapitale.fr/actualite/metropole-de-lyon-les-abonnements-tcl-augmentent-legerement-au-1er-septembre",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "lyon-mobilite.fr — tarifs-de-transport",
+      "url": "https://lyon-mobilite.fr/tarifs-de-transport",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "blue_card_threshold": {
+      "label": "Blue Card minimum gross salary (1.5 × EUR 39,582 reference); EUR 7,373 above the offer, so out of reach",
+      "value": 59373,
+      "unit": "EUR",
+      "display": "EUR 59,373"
+    },
+    "net_monthly": {
+      "label": "Net monthly pay from EUR 52,000 gross, before income tax and mutuelle (2026 rates)",
+      "value": 3427.06,
+      "unit": "EUR",
+      "display": "EUR 3,427.06"
+    },
+    "leftover_a": {
+      "label": "Monthly leftover, scenario A Villeurbanne (planning assumptions and an unconfirmed listing; Salma earns nothing, no CAF aid)",
+      "value": 818.31,
+      "unit": "EUR",
+      "display": "EUR 818.31"
+    },
+    "leftover_b": {
+      "label": "Monthly leftover, scenario B Lyon 3e furnished (planning assumptions and an unconfirmed listing; Salma earns nothing, no CAF aid)",
+      "value": 380.31,
+      "unit": "EUR",
+      "display": "EUR 380.31"
+    },
+    "arrival_cash": {
+      "label": "One-off cash at arrival, scenario A (before visa, TLScontact, flights, furniture, translations)",
+      "value": 3809,
+      "unit": "EUR",
+      "display": "EUR 3,809"
+    },
+    "exchange_rate": {
+      "label": "Exchange rate used (Bank Al-Maghrib indicative mid rate, 5 November 2026)",
+      "value": 10.9589,
+      "unit": "MAD per EUR",
+      "display": "MAD 10.9589"
+    }
+  },
+  "planningAssumptions": {
+    "people": "Youssef, 32, software engineer, EUR 52,000 gross, start in spring 2027 (about 1 April 2027); Salma, 30, pharmacist, earning nothing; son, 4. Youssef's 8 years of experience is as reported, not checked. A full calendar year, one earner, joint filing with 2.5 parts.",
+    "pay": "2026 employee contribution rates on EUR 52,000 as a private-sector cadre with no mutuelle or prévoyance; PASS EUR 48,060; CSG and CRDS on 98.25% of gross; EUR 1 = MAD 10.9589 (5 November 2026).",
+    "budget": "Scenario A Villeurbanne EUR 1,162.00 and scenario B Lyon 3e EUR 1,600.00 from unconfirmed agency listings; TCL pass EUR 75.90 from press snippets (unconfirmed); electricity, groceries, internet, mutuelle share, home insurance and leisure are planning assumptions with no source; no CAF aid; no income for Salma.",
+    "recommendation": "Blue Card out of reach at EUR 52,000 (threshold EUR 59,373). Talent – entreprise innovante is the likely route only if the employer is a JEI or ministry-recognised and the role is R&D-linked; talent – salarié qualifié needs a master obtained in France as service-public states it. First action: ask the employer in writing.",
+    "arrivalProcedure": "For a stay of 1 year or more, the 3-month talent visa duration is distinct from the first talent / talent-famille card application on ANEF within 2 months of entry, according to the retained F16922/F35792 pages; reconfirm the applicable deadline before travel. For a stay under 12 months, validate the VLS-TS within 3 months of arrival. Decree-related current numerical refusal delays remain unconfirmed; old values are not current filing or appeal deadlines."
+  },
+  "datePolicy": "Pages were read on 2026-11-07 and 2026-11-08 in the original research and those read dates are kept as access dates. Source dates (page verification dates, the arrêté of 21 August 2025, decree n° 2026-1001 of 26 October 2026 effective 30 October 2026) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Whether the employer is a JEI or ministry-recognised innovative company with an R&D-linked role, and where the master was awarded, are unconfirmed and decide the permit.",
+    "The long-stay visa fee of EUR 99 comes only from a 2015 mirror of an old guide; the current France-Visas fee table could not be read. The TLScontact Casablanca fee and processing times were not obtained (operator site refused automated reading).",
+    "Decree n° 2026-1001 (26 October 2026, effective 30 October 2026) changes notification and implicit-refusal delays and some Blue Card rules; the service-public pages say they are being updated and the new values were not found. The EUR 39,582 reference rests on an arrêté of 21 August 2025 whose Légifrance text was not read.",
+    "OFII steps for talent holders, the 2027 EVC dates, the PCC length for pharmacists, the Ordre fees, the France Éducation international attestation, and what Salma may do before authorisation were not found.",
+    "Tax residence in the arrival year, the France–Morocco tax treaty and the 2026 neutral withholding grid were not researched; the 2.1% rise in the 2027 scale is from press snippets only (unconfirmed, not voted).",
+    "The rent sample is thin: three agency listings (Orpi), unconfirmed; the Lyon 7e example is an atypical senior-focused service residence; a new 2025 rent-control order was not read; Visale and CAF eligibility for a newcomer were not verified.",
+    "The TCL adult pass of EUR 75.90 comes from press search snippets only (unconfirmed) and feeds both budget totals; all other living-cost lines are planning assumptions.",
+    "The arithmetic was recomputed in exact arithmetic by the author, not by an outsider; this checks the sums, not the assumptions or the sourcing."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-07",
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The French page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research used plain curl and the web_fetch tool, which fell back to DeTars' managed headless browser (no sign-ins, no cookies imported) for some pages such as the France-Visas Morocco page. Pages that showed bot checks (Légifrance, TLScontact, ameli.fr, France Éducation international, SeLoger, PAP, tcl.fr) were not bypassed and were not read.",
+    "independentCheckDisposition": "The author recomputed the money figures and 18 key values on the final text with fresh exact arithmetic; no outsider re-ran them. Sourcing fixes: the 8 years' experience is attributed to the brief, the talent-famille aside is marked as the author's reading, the \"usual advice\" is marked as the author's characterisation, the \"capped by law\" agency-fee claim was dropped, the rent-control press-release wording was softened, \"senior\" was restored to the Lyon 7e listing, and the school waiting-list claim is attributed to Lyon's pre-registration page. Remaining issues are listed in uncertainties.",
+    "editingContract": "Only data/casablanca-engineer-lyon-talent-passport-blue-card-out-of-reach-and-ask-the-employer-first.json, en/ and fr/ Markdown for this slug and checks/batch45-casablanca-engineer-lyon-talent-passport-blue-card-out-of-reach-and-ask-the-employer-first-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder."
+  },
+  "domain": "visas",
+  "researchDates": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

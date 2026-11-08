@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 2,
+  "slug": "bangkok-old-savings-remittance-tax",
+  "translationKey": "bangkok-old-savings-remittance-tax",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "th": "จัดทำโดยงาน Cowork ทั่วไปบน DeTars.xyz"
+  },
+  "locales": [
+    "en",
+    "th"
+  ],
+  "audience": {
+    "en": "Hypothetical Thai national in Bangkok planning a THB 1,500,000 condo down payment in 2027 from old Singapore savings and foreign investment returns.",
+    "th": "บุคคลสัญชาติไทยสมมติในกรุงเทพฯ ที่วางแผนเงินดาวน์คอนโด THB 1,500,000 ในปี 2027 จากเงินออมสิงคโปร์เก่าและผลตอบแทนลงทุนต่างประเทศ"
+  },
+  "localeReason": "Thai serves the Bangkok resident audience; English is the required parallel edition.",
+  "sources": [
+    {
+      "title": "Thai Revenue Code",
+      "url": "https://www.rd.go.th/5937.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "English legal translation",
+      "url": "https://www.rd.go.th/english/37749.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "P.161/2566",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "P.162/2566",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn162A.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "RD section 41 FAQ",
+      "url": "https://www.rd.go.th/fileadmin/download/news/question_p161_162.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "RD FTC manual",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/porphor/GuideTaxFromAbroad_EN.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "official landing page",
+      "url": "https://www.rd.go.th/68221.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Current deductions and personal allowance",
+      "url": "https://www.rd.go.th/59668.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PIT brackets",
+      "url": "https://www.rd.go.th/59670.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "expense deductions by category",
+      "url": "https://www.rd.go.th/556.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PND 90, PND 91 and PND 94 guidance",
+      "url": "https://www.rd.go.th/558.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "PND 90 reference",
+      "url": "https://www.rd.go.th/fileadmin/download/english_form/2025/PIT90_2568_eng_310368_02.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "foreign-income declaration",
+      "url": "https://www.rd.go.th/fileadmin/download/english_form/2026/incomeforeign_eng_040869.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "BOT daily exchange rates",
+      "url": "https://www.bot.or.th/en/statistics/exchange-rate.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "residence",
+      "url": "https://www.rd.go.th/english/1638.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "dividends",
+      "url": "https://www.rd.go.th/english/1637.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "gains",
+      "url": "https://www.rd.go.th/english/1636.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "remittance timing",
+      "url": "https://www.rd.go.th/english/1635.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "credit",
+      "url": "https://www.rd.go.th/english/1634.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "nonresident taxation",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "broker/ECI rules",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/effectively-connected-income-eci",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "capital-gains source and presence rules",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/the-taxation-of-capital-gains-of-nonresident-students-scholars-and-employees-of-foreign-governments",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "W-8BEN",
+      "url": "https://www.irs.gov/forms-pubs/about-form-w-8-ben",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Singapore DTA",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/porpor/double-tax-agreements/singapore_en_dta_v2.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "protocol",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/porpor/double-tax-agreements/singapore_en_p_v2.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "current register",
+      "url": "https://www.rd.go.th/english/766.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Secondary proposal report",
+      "url": "https://www.thailawonline.com/thailand-remittance-tax-exemption-status/",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "decree register",
+      "url": "https://www.rd.go.th/1603.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "ministerial-regulation register",
+      "url": "https://www.rd.go.th/6160.html",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "LTR Decree 743",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dc743.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "returning-Thai Decree 793",
+      "url": "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dc793.docx",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Older English PIT summary",
+      "url": "https://www.rd.go.th/english/6045.html",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "salary_only_annual_tax": {
+      "value": 111000,
+      "display": "THB 111,000",
+      "label": "Illustrative annual salary-only Thai PIT before credits/withholding",
+      "unit": "annual_pit",
+      "currency": "THB"
+    },
+    "all_returns_added_tax": {
+      "value": 31481.35,
+      "display": "THB 31,481.35",
+      "label": "Additional PIT on all assumed returns, no verified FTC deducted",
+      "unit": "additional_pit",
+      "currency": "THB"
+    },
+    "half_returns_added_tax": {
+      "value": 15240.67,
+      "display": "THB 15,240.67",
+      "label": "Additional PIT on specified half-return mixture",
+      "unit": "additional_pit",
+      "currency": "THB"
+    },
+    "dated_savings_conversion": {
+      "value": 1554204,
+      "display": "THB 1,554,204",
+      "label": "SGD savings at dated planning transfer-buying rate, before fees",
+      "unit": "planning_conversion",
+      "currency": "THB"
+    },
+    "dated_cash_buffer": {
+      "value": 54204,
+      "display": "THB 54,204",
+      "label": "Planning buffer, not a 2027 quote",
+      "unit": "planning_cash_buffer",
+      "currency": "THB"
+    }
+  },
+  "assumptions": {
+    "personaHypothetical": true,
+    "age": 36,
+    "nationality": "Thai",
+    "city": "Bangkok",
+    "salaryMonthlyTHB": 95000,
+    "salaryYear": 2027,
+    "incomeYearThaiResidence": "assumed for 2026; actual days unknown",
+    "oldSingaporeSavingsSGD": 60000,
+    "oldEarningsYears": "2019–2023",
+    "portfolioUSD": 40000,
+    "grossDividendsUSD": 900,
+    "assumedThaiAssessableGainUSD": 3000,
+    "targetTHB": 1500000,
+    "actualPayrollWithholding": "unknown",
+    "otherDeductions": "not quantified; not assumed unavailable",
+    "FTC": "none deducted; actual eligibility and same-item cap unresolved"
+  },
+  "calculation": {
+    "method": "Independent Decimal hinge calculation; HALF_UP display only",
+    "salaryAnnualTHB": "1140000",
+    "salaryExpenseTHB": "100000",
+    "personalAllowanceTHB": "60000",
+    "salaryTaxableNetTHB": "980000",
+    "salaryOnlyAnnualPITTHB": "111000.00",
+    "fxDate": "2026-11-06",
+    "USDTHB": "33.3142",
+    "SGDTHB": "25.9034",
+    "savingsConvertedTHB": "1554204.0000",
+    "SGDRequiredBeforeFees": "57907.46",
+    "bufferBeforeFeesTHB": "54204.0000",
+    "scenarios": [
+      {
+        "scenario": "A",
+        "grossDividendsUSD": "0",
+        "assumedThaiAssessableGainUSD": "0",
+        "dividendsTHB": "0.00",
+        "gainTHB": "0.00",
+        "taxableForeignTHB": "0.00",
+        "oldSavingsTHB": "1500000.00",
+        "grossComponentsTHB": "1500000.00",
+        "grossAssessableTHB": "1140000.00",
+        "taxableNetTHB": "980000.00",
+        "annualPITBeforeCreditsTHB": "111000.00",
+        "additionalPITTHB": "0.00",
+        "mechanicalHalfPercentTHB": "0.00",
+        "conditionalWithholdingTHB": "0.00",
+        "conditionalCashBeforeFeesTHB": "1500000.00",
+        "approvedForeignTaxCredit": "unknown; none subtracted"
+      },
+      {
+        "scenario": "B",
+        "grossDividendsUSD": "900",
+        "assumedThaiAssessableGainUSD": "3000",
+        "dividendsTHB": "29982.78",
+        "gainTHB": "99942.60",
+        "taxableForeignTHB": "129925.38",
+        "oldSavingsTHB": "0.00",
+        "grossComponentsTHB": "129925.38",
+        "grossAssessableTHB": "1269925.38",
+        "taxableNetTHB": "1109925.38",
+        "annualPITBeforeCreditsTHB": "142481.35",
+        "additionalPITTHB": "31481.35",
+        "mechanicalHalfPercentTHB": "649.63",
+        "conditionalWithholdingTHB": "4497.42",
+        "conditionalCashBeforeFeesTHB": "125427.96",
+        "approvedForeignTaxCredit": "unknown; none subtracted"
+      },
+      {
+        "scenario": "C",
+        "grossDividendsUSD": "450",
+        "assumedThaiAssessableGainUSD": "1500",
+        "dividendsTHB": "14991.39",
+        "gainTHB": "49971.30",
+        "taxableForeignTHB": "64962.69",
+        "oldSavingsTHB": "1435037.31",
+        "grossComponentsTHB": "1500000.00",
+        "grossAssessableTHB": "1204962.69",
+        "taxableNetTHB": "1044962.69",
+        "annualPITBeforeCreditsTHB": "126240.67",
+        "additionalPITTHB": "15240.67",
+        "mechanicalHalfPercentTHB": "324.81",
+        "conditionalWithholdingTHB": "2248.71",
+        "conditionalCashBeforeFeesTHB": "1497751.29",
+        "approvedForeignTaxCredit": "unknown; none subtracted"
+      }
+    ]
+  },
+  "provenance": {
+    "originalRunModel": "unknown",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "translation": "Machine-assisted Thai draft translated from English; no native-speaker certification",
+    "acceptance": "Conditional educational guide accepted in parent note; no real taxpayer return approved",
+    "historicalTransportException": "Original research/review disclosed automatic browser-backed fallback attempts including failed official 404s; not perfectly clean-session-only. Relied-on legal material was reacquired through cookie-free HTTP. Staging used no network/browser."
+  },
+  "datePolicy": "Research snapshot 2026-11-08. Source access dates retained; no new research or live link check. FX observation 2026-11-06 is planning only, not a 2027 quote or conversion instruction. No publication date assigned.",
+  "uncertainties": [
+    "Actual old-pool continuity, bank/broker records, earning-year days and US status remain unknown. No documents actually submitted.",
+    "Gain basis and losses, issuer/security type, gross/net dividends, actual withholding, treaty entitlement and same-item FTC cap must be verified.",
+    "No enacted general remittance exemption/effective date verified in assigned research; no conclusive Gazette-wide non-enactment assertion. Special regimes not presumed.",
+    "2027 law, salary, deductions, form fields, holiday/e-filing extensions, fees and remittance FX remain open.",
+    "No native-speaker review or render/publication performed. Original transport exception retained in provenance."
+  ],
+  "editingContract": "Private staging only; paired readable Markdown plus schema-v2 data. No source/shared package/site writes, network, account action, transfer, filing, research expansion or publication.",
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}

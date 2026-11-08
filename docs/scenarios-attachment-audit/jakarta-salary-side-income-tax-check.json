@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "id"
+  ],
+  "sourceDataSha256": "9a9fb759fdf472c6ef8103b8c04fccac6cf0490d27ed9d05686eb62af456b616",
+  "sourceListLink": "/Volumes/T7/eval/内容/scenario-runs-20261104/w8-jakarta-employee-pph21-ter-side-income/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "2fc41887f81d22ccb9e3edb28cfdfb86a264b15655d54f80a1999d93ffbe0f17",
+      "faqPairs": 0,
+      "links": []
+    },
+    "id": {
+      "sourceMarkdownSha256": "09738299324f23bf2d54c7deb6c0175246ff447a9336c56a9fc748d4ef971cf6",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

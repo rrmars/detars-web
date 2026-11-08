@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "sourceDataSha256": "437c593133fb8e9ab16904675ae224ab375ccc38126e66958be71b75cbe5c249",
+  "sourceListLink": "/Volumes/T7/eval/内容/scenario-runs-20261104/w8-paris-freelance-developer-micro-vs-sasu/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "66202731751ef9381b737d5e680c8ab137d86d48d240a1a01700e8c471c11434",
+      "faqPairs": 0,
+      "links": []
+    },
+    "fr": {
+      "sourceMarkdownSha256": "a00057e365fcee7022a57f39bff713ef48160e501dca9321d083c6a23bd8e419",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

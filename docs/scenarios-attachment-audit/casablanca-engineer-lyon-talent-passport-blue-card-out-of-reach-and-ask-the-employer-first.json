@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "sourceDataSha256": "3565565bb0c453dc2c9d69ecc88e9b7ba6d6452e69189432f938a83b29dfd2a8",
+  "sourceListLink": "../w8-casablanca-engineer-lyon-talent-passport/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "5e561b2e177a33718eb10f658b10fba0eab2b85e660405100fd6e0be17fa1b95",
+      "faqPairs": 0,
+      "links": []
+    },
+    "fr": {
+      "sourceMarkdownSha256": "13223f0889d4bd33d3e3bb1e8635a43b8025d6a0d90636a72814fc8cb5dc021e",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

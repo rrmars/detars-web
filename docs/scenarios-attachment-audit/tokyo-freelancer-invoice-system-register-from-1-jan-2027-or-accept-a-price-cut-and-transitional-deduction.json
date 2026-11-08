@@ -1,0 +1,25 @@
+{
+  "locales": [
+    "en",
+    "ja"
+  ],
+  "sourceDataSha256": "fb0300ecba7c761469b40ba4ab3ab09735eb68c272863a50e7d42a1ae8418c5a",
+  "sourceListLink": "../w8-tokyo-freelancer-invoice-system/sources.md",
+  "footerDisposition": "expanded-external-sources",
+  "dateBasis": "provenance.researchDates",
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "workbooks": [],
+  "localePages": {
+    "en": {
+      "sourceMarkdownSha256": "15fd03eec98085a7a8efe60f7fff40275ef3ea871543379d80a37b9397ef9a29",
+      "faqPairs": 0,
+      "links": []
+    },
+    "ja": {
+      "sourceMarkdownSha256": "022c31aceafad81506fac4449652548f8ccb0d26009d9a4b31b5974e0b0576cf",
+      "faqPairs": 0,
+      "links": []
+    }
+  }
+}

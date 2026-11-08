@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "slug": "hcmc-developer-foreign-income-tax-register-a-household-business-comparison-and-open-issues",
+  "translationKey": "hcmc-developer-foreign-income-tax-register-a-household-business-comparison-and-open-issues",
+  "producedBy": "cowork",
+  "producerDisplayLabel": {
+    "en": "Produced by a general Cowork task on DeTars.xyz",
+    "zh": "本文由 DeTars.xyz 的通用 Cowork 任务产出",
+    "vi": "Bài viết do một tác vụ Cowork thông dụng trên DeTars.xyz thực hiện"
+  },
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "audience": {
+    "en": "Single HCMC tax-resident freelance software developer supporting his mother, paid about USD 4,000 a month by US and Singapore clients into a Vietnamese bank account, never declared; seeking written tax-office classification and 2026 pre-registration treatment before choosing a route.",
+    "vi": "Lập trình viên phần mềm tự do độc thân, cư dân thuế TP.HCM, nuôi mẹ, nhận khoảng USD 4.000 một tháng từ khách hàng Mỹ và Singapore vào ngân hàng Việt Nam, chưa từng khai; cần cơ quan thuế xác nhận bằng văn bản về phân loại và khoản thu năm 2026 trước đăng ký rồi mới chọn hướng xử lý."
+  },
+  "localeReason": "Vietnamese serves this decision directly: the developer lives in Ho Chi Minh City, and the decrees, tax-office forms, ward registration counters and procedure pages he must deal with are in Vietnamese, so reading the conditions and open issues in Vietnamese helps him put his question to the tax office and compare it with the official wording. It changes no rate, threshold, deadline or penalty.",
+  "sources": [
+    {
+      "title": "Law 109/2025/QH15 on personal income tax (PDF)",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/luat109-2025.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Decree 253/2026/NĐ-CP (PDF)",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/253m-ndcp.signed.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Circular 87/2026/TT-BTC (PDF)",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/87-btc.signed.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Decree 68/2026/NĐ-CP (PDF)",
+      "url": "https://xdcs.cdnchinhphu.vn/446259493575335936/2026/3/6/68-2026-nd-cp-05032026-signed-17727673940151875228819.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Decree 68/2026/NĐ-CP (PDF)",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-68-2026-nd-cp-quy-dinh-ve-chinh-sach-thue-quan-ly-thue-voi-ho-kinh-doanh-119260306102906789.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Ministry of Finance: revenue up to VND 1 billion pays no tax",
+      "url": "https://mof.gov.vn/tin-tuc-tai-chinh/tin-tuc-su-kien-8/ho-ca-nhan-kinh-doanh-co-muc-doanh-thu-nam-tu-1-ty-dong-tro-xuong-khong-phai-nop-thue",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government news: threshold raised to VND 1 billion (Decree 141/2026)",
+      "url": "https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Official Gazette record: Decree 141/2026",
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-141-2026-nd-cp-469455.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government news, 23 April 2026: the VND 1 billion threshold",
+      "url": "https://baochinhphu.vn/nguong-doanh-thu-chiu-thue-1-ty-dong-la-hai-hoa-dieu-kien-hien-nay-102260423132237766.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government summary: Decree 398 personal and corporate income tax relief",
+      "url": "https://xaydungchinhsach.chinhphu.vn/giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-119261101192523427.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government legal-document portal (home page; Decree 168/2025 was read there)",
+      "url": "https://vanban.chinhphu.vn",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Circular 18/2026/TT-BTC (PDF)",
+      "url": "https://xdcs.cdnchinhphu.vn/446259493575335936/2026/3/9/tt-18-2026-tt-btc-ngay-05-03-2026-1-1773052422430565574121.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Circular 18/2026/TT-BTC (signed PDF)",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/18-btc.signed.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government guide: tax filing procedure for household and individual businesses",
+      "url": "https://xaydungchinhsach.chinhphu.vn/huong-dan-thu-tuc-khai-thue-doi-voi-ho-kinh-doanh-ca-nhan-kinh-doanh-119260530072620314.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government Q&A: VAT for a household business exporting software",
+      "url": "https://chinhsachonline.chinhphu.vn/ho-kinh-doanh-xuat-khau-phan-mem-nop-thue-gia-tri-gia-tang-the-nao-89864.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Law 108/2025/QH15 on tax administration (PDF)",
+      "url": "https://xdcs.cdnchinhphu.vn/446259493575335936/2026/6/26/luatquanlythue-17824706025481294456243.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Decree 310/2025/NĐ-CP (PDF)",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/12/310-cp.signed.pdf",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "Government news: draft proposal on lower fines for status 03 and 06 taxpayers",
+      "url": "https://xaydungchinhsach.chinhphu.vn/de-xuat-giam-muc-phat-tien-nguoi-nop-thue-trang-thai-03-va-06-vi-pham-thoi-han-nop-ho-so-khai-thue-119261030045938227.htm",
+      "accessDate": "2026-11-08"
+    },
+    {
+      "title": "State Bank of Vietnam weekly foreign-exchange report, 26-30 October 2026 (PDF)",
+      "url": "https://sbv.gov.vn/documents/20117/0/26-30.10.2026.pdf/56e3c310-6751-8bbe-f1e1-275638b039a3?t=1793781830971",
+      "accessDate": "2026-11-08"
+    }
+  ],
+  "headlineFigures": {
+    "business_tax": {
+      "label": "Illustrative full-year 2026 business-scenario PIT after 30% relief, not guaranteed by registration; needs written tax-office confirmation of classification and pre-registration treatment plus VND 1 billion threshold, 2% service class and nil VAT (unconfirmed)",
+      "value": 3209920,
+      "unit": "VND a year",
+      "display": "VND 3,209,920"
+    },
+    "wage_tax": {
+      "label": "Illustrative full-year 2026 wage-scenario PIT, no dependant; applicability to this freelancer is an author inference pending written tax-office confirmation, not an established default",
+      "value": 198984000,
+      "unit": "VND a year",
+      "display": "VND 198,984,000"
+    },
+    "wage_tax_dependant": {
+      "label": "Illustrative wage scenario with mother as dependant, only if wage treatment and dependant eligibility apply (income at most VND 3 million a month plus the stated age/incapacity conditions)",
+      "value": 176664000,
+      "unit": "VND a year",
+      "display": "VND 176,664,000"
+    },
+    "annual_revenue": {
+      "label": "Assumed annual revenue: USD 48,000 at 25,610 VND per USD (proxy rate)",
+      "value": 1229280000,
+      "unit": "VND a year",
+      "display": "VND 1,229,280,000"
+    },
+    "tax_free_threshold": {
+      "label": "Yearly revenue with no personal income tax or VAT for a registered business, under Decree 68/2026 as amended by Decree 141/2026 (statutory basis not read)",
+      "value": 1,
+      "unit": "VND billion",
+      "display": "VND 1 billion"
+    },
+    "alt_threshold_tax": {
+      "label": "Business-route tax if only the VND 500 million threshold applied (unconfirmed alternative)",
+      "value": 10209920,
+      "unit": "VND a year",
+      "display": "VND 10,209,920"
+    }
+  },
+  "planningAssumptions": {
+    "person": "Minh, a tax resident of Ho Chi Minh City, single, supports his mother (dependant status assumed possible), independent contractor for all of 2026 with no Vietnamese employer paying wages; USD 4,000 a month for 12 months of 2026 and 2027 (USD 48,000 a year) at one flat rate of 25,610 VND per USD (Vietcombank buying rate at the close of 30 October 2026; a proxy, since the law uses the taxpayer's own bank rate on each payment day); sensitivity at 25,000 and 26,000 (assumed).",
+    "classification": "Both business and wage treatments are illustrative, not established classifications for this freelancer. Obtain written tax-office confirmation of classification and 2026 pre-registration treatment before committing. The business scenario treats software work as services without materials at 2% (author reading of Law 109 art 7(3)(c)); gross receipts with no platform fees netted; profit-method costs 0%, 10%, 30%; wage scenarios assume no social or health insurance deductions and 0 or 1 dependant; VAT assumed VND 0. Registration alone does not establish the lower-tax outcome.",
+    "budget": "Budget lines other than tax and the 0.5% conversion spread are the planner's estimates for a single person in Ho Chi Minh City, not from an official statistic. Tax set-aside, total and surplus illustrate the conditional business scenario only, not an assessed liability or safe spending allowance; reserve for classification and arrears uncertainty.",
+    "recommendation": "First obtain written tax-office confirmation of income classification and treatment of 2026 receipts before registration. If the household-business route is confirmed applicable, then register at the ward office; registration does not guarantee the lower tax. The comparison is illustrative scenarios, not established classification. Not tax advice."
+  },
+  "datePolicy": "Pages and legal texts were read on 2026-11-08 in the original run and that access date is kept for every source. Source dates (effective dates, deadlines such as 31 January 2027, the 30 October 2026 exchange rate) are not access dates. Copy editing and translation are not a refresh.",
+  "uncertainties": [
+    "Whether registering a household business in November 2026 permits business treatment of earlier 2026 receipts remains unconfirmed. Rejection would not automatically establish the wage figure; classification, period allocation, amount and deadlines need written tax-office confirmation.",
+    "The reading that unregistered service income is wages and registration makes it business income (Decree 253/2026 art 8(2)(c) against art 7) is the author's inference; no freelancer-specific official statement was found. Both full-year tax scenarios remain illustrative pending written classification and pre-registration-treatment confirmation.",
+    "The VND 1 billion threshold comes from Decree 141/2026 read through official portals only; the Law 109 text says VND 500 million; Law 09/2026/QH16 was not read. At VND 500 million the business-route tax would be about VND 10,209,920.",
+    "VAT nil rests on one HCMC tax-office reply to one taxpayer, which does not decide between not subject and 0% and may not apply to an individual with these two clients; the VAT rate if taxable was not confirmed.",
+    "State Bank rules on a resident individual receiving USD from foreign clients were not found; only commercial leads were seen.",
+    "Years before 2026 were not analysed; the 10-year look-back and whole-period rule for never-registered taxpayers could apply.",
+    "Whether an amend-and-pay-before-inspection rule covers someone who never filed is not stated; the wage-route due dates and instalments for foreign-paid wages were not confirmed.",
+    "The Q4 2026 due date of 31 January 2027 is a Sunday; roll-over to 1 February 2027 is not confirmed.",
+    "Decree 398, Decree 141 and Circular 50 were read through official summaries or procedure pages, not their own text; Decree 125 bands for 1 to 90 days late and Penal Code art 200 were not read.",
+    "Household-business registration fee and processing time, whether the personal tax code is reused, HCMC's low-income level, the lump-sum method's end and eTax or VNeID log-in details are unconfirmed or inferred.",
+    "Budget lines are planner estimates, and the Decree 320/2025 corporate exemption is taken from a Government news summary only.",
+    "Every VND figure was recomputed once by the author, not a tax professional (this checks the sums, not the assumptions); a later pass corrected a wrong due date (30 January 2027 became 31 January 2027) and over-firm wording."
+  ],
+  "provenance": {
+    "originalRunModel": "unknown",
+    "originalRunDate": "2026-11-08",
+    "researchDates": [
+      "2026-11-08"
+    ],
+    "originalVerificationDate": "2026-11-08",
+    "originalPublicationDate": "unknown",
+    "sourceAccessMethod": "Local files only. The README locale contract and VOICE-GUIDE were read first, then the run's index.html, sources.md and independent-check.md. No network research, build or publication during authoring. The Vietnamese page was translated from the English guide.",
+    "originalResearchAccessLimitations": "The original research read official PDFs (some scanned and OCR'd) and government portal pages with plain fetch, curl or a managed browser; no sign-ins or accounts. Decree 141, Decree 398, Circular 50 and Law 09/2026/QH16 were not read in their own text; the State Bank central-rate page could not be fetched.",
+    "independentCheckDisposition": "The author recomputed all VND figures (60+, no differences) and checked the legal quotes against the OCR'd texts. The check found one factual error (the Q4 2026 due date, 30 January instead of 31 January 2027) and several over-firm statements (the VND 1 billion attributed to Law 109 art 7, the headline resting on three unconfirmed inputs, an unsourced corporate-tax exemption, lump-sum stated as fact, 'nothing is late' stated unconditionally). The pages follow the corrected versions and keep every remaining open issue.",
+    "editingContract": "Only data/hcmc-developer-foreign-income-tax-register-a-household-business-comparison-and-open-issues.json, en/ and vi/ Markdown for this slug and checks/batch45-hcmc-developer-foreign-income-tax-register-a-household-business-comparison-and-open-issues-notes.md were written. No slugs.json, manifest, build script, checker, other guide or run folder was changed; no build, network, contact or publication. Marker-only footer delegated to the builder.",
+    "boundedCorrection20261108": {
+      "scope": "Assigned EN/VI Markdown and shared data only; no legal rule replacement, source refresh, source-run edit, HTML build or site edit. Written tax-office confirmation first; household-business route only if confirmed applicable. All figures, dates, URLs, three lower-tax dependencies and open issues retained.",
+      "evidenceNote": "checks/batch45-completion-20261108/hcmc-correction-note.md",
+      "verificationReceipt": "checks/batch45-completion-20261108/hcmc-verification.json"
+    }
+  },
+  "domain": "business",
+  "researchDates": [
+    "2026-11-08"
+  ],
+  "publishedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "sourceListLink": "#sources-and-access-dates"
+}
