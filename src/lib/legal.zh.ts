@@ -109,7 +109,7 @@ export function legalZh(href: Href): Record<LegalKey, PageContent> {
       updated: LEGAL_TERMS_UPDATED.zh,
       notice: notice("/terms"),
       answer:
-        "本条款规范您对 DeTars 的使用。积分是在 App 内使用 DeTars 官方模型的预付用量:购买的积分不会过期,且不具有现金价值。付款由记录商户 Paddle 处理。本服务及 AI 输出均按“现状”提供,本条款受开曼群岛法律管辖。",
+        "本条款规范您对 DeTars 的使用。积分是在 App 内使用 DeTars 官方模型的预付用量:购买的积分不会过期,且不具有现金价值。付款由记录商户 Paddle 处理。本服务及 AI 输出均按“现状”提供,本条款受新加坡法律管辖,争议在新加坡通过仲裁解决。",
       sections: [
         {
           h2: "1. 协议",
@@ -363,7 +363,7 @@ export function legalZh(href: Href): Record<LegalKey, PageContent> {
           blocks: [
             {
               type: "p",
-              html: "本条款以及因本条款或本服务引起或与之相关的任何争议或索赔,均受开曼群岛法律管辖。开曼群岛法院对任何此类争议或索赔拥有专属管辖权。"
+              html: "本条款以及因本条款或本服务引起或与之相关的任何争议或索赔,均受新加坡法律管辖,不适用其冲突法规则。任何此类争议或索赔,提交新加坡国际仲裁中心(SIAC),按申请仲裁时有效的仲裁规则在新加坡仲裁解决,仲裁语言为英语,裁决为终局裁决。DeTars 仍可在任何有管辖权的法院申请禁令等临时救济,以制止侵犯其知识产权的行为。"
             },
             {
               type: "p",

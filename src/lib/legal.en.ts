@@ -105,7 +105,7 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
       doc: true,
       updated: LEGAL_TERMS_UPDATED.en,
       answer:
-        "These terms govern your use of DeTars. Credits are prepaid usage for DeTars’s official models inside the app: purchased credits do not expire, and they have no cash value. Payments are processed by Paddle as Merchant of Record. The Services and AI output are provided as is, and these terms are governed by the laws of the Cayman Islands.",
+        "These terms govern your use of DeTars. Credits are prepaid usage for DeTars’s official models inside the app: purchased credits do not expire, and they have no cash value. Payments are processed by Paddle as Merchant of Record. The Services and AI output are provided as is, and these terms are governed by the laws of Singapore, with disputes resolved by arbitration in Singapore.",
       sections: [
         {
           h2: "1. Agreement",
@@ -371,7 +371,7 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
             {
               type: "p",
               html:
-                "These Terms, and any dispute or claim arising out of or relating to them or the Services, are governed by the laws of the Cayman Islands. The courts of the Cayman Islands have exclusive jurisdiction over any such dispute or claim."
+                "These Terms, and any dispute or claim arising out of or relating to them or the Services, are governed by the laws of Singapore, without regard to its conflict-of-laws rules. Any such dispute or claim shall be resolved by arbitration in Singapore administered by the Singapore International Arbitration Centre (SIAC) under its arbitration rules in force when the arbitration is commenced. The language of the arbitration is English and the award is final. DeTars may still seek injunctive or other interim relief in any court of competent jurisdiction to stop infringement of its intellectual property."
             },
             {
               type: "p",
