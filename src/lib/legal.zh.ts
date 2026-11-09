@@ -1,5 +1,6 @@
 import {
   CREDITS_PER_USD,
+  LEGAL_TERMS_UPDATED,
   LEGAL_UPDATED,
   PADDLE_BUYER_TERMS_URL,
   creditPacks,
@@ -105,7 +106,7 @@ export function legalZh(href: Href): Record<LegalKey, PageContent> {
       kicker: "法律",
       h1: "服务条款",
       doc: true,
-      updated: LEGAL_UPDATED.zh,
+      updated: LEGAL_TERMS_UPDATED.zh,
       notice: notice("/terms"),
       answer:
         "本条款规范您对 DeTars 的使用。积分是在 App 内使用 DeTars 官方模型的预付用量:购买的积分不会过期,且不具有现金价值。付款由记录商户 Paddle 处理。本服务及 AI 输出均按“现状”提供,本条款受开曼群岛法律管辖。",
@@ -131,6 +132,11 @@ export function legalZh(href: Href): Record<LegalKey, PageContent> {
               type: "p",
               html:
                 "DeTars 是一款运行在您自己电脑上的桌面 AI 助手 App,支持 macOS 与 Windows。您可以使用自己在 20 多家模型服务商的 API key 使用 DeTars,我们不收取费用;您对这些服务商的使用受您与其之间协议的约束。您也可以选择购买 DeTars 积分,在 App 内直接使用 DeTars 官方模型,而无需自行管理 key。"
+            },
+            {
+              type: "p",
+              html:
+                "员工超过 188 人,或最近一个财年收入超过 688 万美元的组织(与其关联方合并计算),由该组织或代表该组织使用 DeTars App,需要取得 DeTars 的付费商业授权。在 DeTars 通过本网站或 App 正式公告商业授权开放购买之前,这些组织可以免费使用 App。公告之后,这些组织自公告之日起有 188 天过渡期,期间可继续免费使用;过渡期满后继续使用的,需要取得商业授权。个人为非工作目的使用不受本段影响。"
             }
           ]
         },

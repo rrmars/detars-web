@@ -1,5 +1,6 @@
 import {
   CREDITS_PER_USD,
+  LEGAL_TERMS_UPDATED,
   LEGAL_UPDATED,
   PADDLE_BUYER_TERMS_URL,
   caps,
@@ -102,7 +103,7 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
       kicker: "Legal",
       h1: "Terms of Service",
       doc: true,
-      updated: LEGAL_UPDATED.en,
+      updated: LEGAL_TERMS_UPDATED.en,
       answer:
         "These terms govern your use of DeTars. Credits are prepaid usage for DeTars’s official models inside the app: purchased credits do not expire, and they have no cash value. Payments are processed by Paddle as Merchant of Record. The Services and AI output are provided as is, and these terms are governed by the laws of the Cayman Islands.",
       sections: [
@@ -127,6 +128,11 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
               type: "p",
               html:
                 "DeTars is a desktop AI assistant app for macOS and Windows that runs on your own computer. You may use it with your own API keys from 20+ model providers, at no charge from us; your use of those providers is governed by your agreement with them. Optionally, you may buy DeTars credits to use DeTars’s official models inside the app without managing your own keys."
+            },
+            {
+              type: "p",
+              html:
+                "Use of the DeTars app by or on behalf of an organization that, together with its affiliates, has more than 188 employees or more than US$6.88 million in revenue in its most recent fiscal year requires a paid commercial license from DeTars. Until DeTars formally announces, on this website or in the app, that the commercial license is available for purchase, such organizations may use the app free of charge. After that announcement, they may continue to use it free of charge for a transition period of 188 days from the announcement date; continued use after that requires a commercial license. Use by an individual for non-work purposes is not affected."
             }
           ]
         },
