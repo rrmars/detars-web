@@ -132,7 +132,7 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
             {
               type: "p",
               html:
-                "Use of the DeTars app by or on behalf of an organization that, together with its affiliates, has more than 188 employees or more than US$6.88 million in revenue in its most recent fiscal year requires a paid commercial license from DeTars. Until DeTars formally announces, on this website or in the app, that the commercial license is available for purchase, such organizations may use the app free of charge. After that announcement, they may continue to use it free of charge for a transition period of 188 days from the announcement date; continued use after that requires a commercial license. Use by an individual for non-work purposes is not affected."
+                "Use of the DeTars app by or on behalf of an organization that, together with its affiliates, has more than 88 employees or more than US$2.88 million in revenue in its most recent fiscal year requires a paid commercial license from DeTars. Until DeTars formally announces, on this website or in the app, that the commercial license is available for purchase, such organizations may use the app free of charge. After that announcement, they may continue to use it free of charge for a transition period of 188 days from the announcement date; continued use after that requires a commercial license. Use by an individual for non-work purposes is not affected."
             }
           ]
         },

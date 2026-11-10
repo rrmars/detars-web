@@ -22,7 +22,7 @@ export const legalFallbackLocales = ["zh-Hant", "ja", "fr", "es", "ko", "pt-BR",
 export type LegalFallbackLocale = (typeof legalFallbackLocales)[number];
 
 export const LEGAL_UPDATED = { en: "Last updated: October 2, 2026", zh: "最后更新:2026 年 10 月 2 日" } as const;
-export const LEGAL_TERMS_UPDATED = { en: "Last updated: November 9, 2026", zh: "最后更新:2026 年 11 月 9 日" } as const;
+export const LEGAL_TERMS_UPDATED = { en: "Last updated: November 10, 2026", zh: "最后更新:2026 年 11 月 10 日" } as const;
 
 export const SUPPORT_EMAIL = "support@detars.xyz";
 export const PADDLE_BUYER_TERMS_URL = "https://www.paddle.com/legal/checkout-buyer-terms";
