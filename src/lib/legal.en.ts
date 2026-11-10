@@ -160,8 +160,8 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
               items: [
                 `Credits are sold in packs. 1 USD = ${CREDITS_PER_USD} credits. Current packs are listed on our ${link("/pricing", "pricing page")}.`,
                 "Credits are used in two ways: (a) for DeTars’s official models, consumed per request according to the model’s token usage, with the cost of each request shown in the app; and (b) for other paid features and services priced in credits, such as fixed-price tasks or deliverable packages, where we offer them.",
-                "For a feature priced in credits, the app shows its price, or an estimate and a spending limit, before you confirm. We will not charge more than the price or limit you confirmed without asking you first.",
-                "If such a task fails because of a fault in our service, its credits are not charged or are returned to your account. Credits are not returned because a result delivered as described does not meet your expectations, or because you change the scope of the task.",
+                "Features priced in credits are charged according to the pricing shown in the app for that feature. The pricing may be a fixed price, or based on the actual work done, in which case the final amount may only be known after the task finishes.",
+                `Credits used for failed or interrupted tasks are handled under our ${link("/refund", "Refund Policy")}. Credits are not returned because a result delivered as described does not meet your expectations, or because you change the scope of the task.`,
                 "We may change credit packs, prices, the official models and their rates, and the features priced in credits and their prices, at any time at our discretion. Changes never apply to requests or tasks that have already completed.",
                 "Credits may be used only inside the DeTars app.",
                 "Credits are not money. They have no cash value and cannot be withdrawn, transferred, resold or exchanged. They are bound to your DeTars account.",
