@@ -105,7 +105,7 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
       doc: true,
       updated: LEGAL_TERMS_UPDATED.en,
       answer:
-        "These terms govern your use of DeTars. Credits are prepaid usage for DeTars’s official models inside the app: purchased credits do not expire, and they have no cash value. Payments are processed by Paddle as Merchant of Record. The Services and AI output are provided as is, and these terms are governed by the laws of Singapore, with disputes resolved by arbitration in Singapore.",
+        "These terms govern your use of DeTars. Credits are prepaid usage inside the app for DeTars’s official models and other features priced in credits: purchased credits do not expire, and they have no cash value. Payments are processed by Paddle as Merchant of Record. The Services and AI output are provided as is, and these terms are governed by the laws of Singapore, with disputes resolved by arbitration in Singapore.",
       sections: [
         {
           h2: "1. Agreement",
@@ -159,9 +159,11 @@ export function legalEn(href: Href): Record<LegalKey, PageContent> {
               type: "list",
               items: [
                 `Credits are sold in packs. 1 USD = ${CREDITS_PER_USD} credits. Current packs are listed on our ${link("/pricing", "pricing page")}.`,
-                "Credits are consumed per request, according to the model’s token usage. The app shows the cost of each request.",
-                "We may change credit packs, prices, the official models and their rates at any time at our discretion. Changes never apply to requests that have already completed.",
-                "Credits may be used only inside the DeTars app, for DeTars’s official models.",
+                "Credits are used in two ways: (a) for DeTars’s official models, consumed per request according to the model’s token usage, with the cost of each request shown in the app; and (b) for other paid features and services priced in credits, such as fixed-price tasks or deliverable packages, where we offer them.",
+                "For a feature priced in credits, the app shows its price, or an estimate and a spending limit, before you confirm. We will not charge more than the price or limit you confirmed without asking you first.",
+                "If such a task fails because of a fault in our service, its credits are not charged or are returned to your account. Credits are not returned because a result delivered as described does not meet your expectations, or because you change the scope of the task.",
+                "We may change credit packs, prices, the official models and their rates, and the features priced in credits and their prices, at any time at our discretion. Changes never apply to requests or tasks that have already completed.",
+                "Credits may be used only inside the DeTars app.",
                 "Credits are not money. They have no cash value and cannot be withdrawn, transferred, resold or exchanged. They are bound to your DeTars account.",
                 "<b>Purchased credits do not expire.</b>",
                 "If we discontinue the official-model service, we will notify you at least 30 days in advance, by email and in the app."
