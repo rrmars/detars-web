@@ -41,6 +41,17 @@ export const ui: Record<string, L> = {
     fr: "Produit par le pack de recherche DeTars, preuves scellées et relu par des pairs.",
     es: "Producido por el pack de investigación de DeTars, con evidencia sellada y revisión por pares."
   , "ko": "DeTars 리서치 팩이 작성하고 근거 봉인과 동료 검토를 거쳤습니다.", "pt-BR": "Produzido pelo pack de pesquisa do DeTars, com evidências seladas e revisão por pares.", "de": "Erstellt vom DeTars-Recherche-Pack, mit versiegelten Belegen und unabhängiger Prüfung." },
+  byContentResearch: {
+    en: "Produced by DeTars content research. Sources and review boundaries are documented in the report.",
+    zh: "由 DeTars 内容调研生成；来源与核查边界见正文。",
+    "zh-Hant": "由 DeTars 內容調研生成；來源與核查邊界見正文。",
+    ja: "DeTars のコンテンツリサーチで作成。出典と確認範囲は本文に記載しています。",
+    fr: "Produit par la recherche de contenu DeTars. Les sources et les limites de vérification figurent dans le rapport.",
+    es: "Producido mediante la investigación de contenido de DeTars. Las fuentes y los límites de verificación figuran en el informe.",
+    ko: "DeTars 콘텐츠 리서치로 작성되었습니다. 출처와 검토 범위는 본문에 명시되어 있습니다.",
+    "pt-BR": "Produzido pela pesquisa de conteúdo DeTars. As fontes e os limites de verificação estão documentados no relatório.",
+    de: "Erstellt mit der Inhaltsrecherche von DeTars. Quellen und Prüfungsgrenzen sind im Bericht dokumentiert."
+  },
   byEditorial: {
     en: "Written and fact-checked by the DeTars team. Sources below.",
     zh: "由 DeTars 团队撰写并核实;来源见下。",
