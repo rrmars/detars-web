@@ -126,8 +126,8 @@ export const homeDe: HomeCopy = {
   bombCap: "Zeilen Code · in sechs Monaten geschrieben",
   bombH2: "Wir sagen nicht nur, dass es anspruchsvolle Arbeit schafft — <span class='o'>es hat sich selbst hervorgebracht.</span>",
   bombP: "Mehrere Millionen Zeilen Code, und <b>die Hälfte davon hat das Produkt selbst geschrieben</b>. <b>Es ist Anwendung und Fundament zugleich.</b> Was du dieses Jahr darauf aufbaust, wird nicht nächstes Jahr abgeschrieben, weil ein anderes Unternehmen gewonnen hat.",
-  closeH2: "DeTars ist dein dauerhaftes, unabhängiges Terminal.<br><span class='grad'>Deins, nicht gemietet.</span>",
-  closeP: "Ein privates KI-Team, das dir gehört — immer aktiv, aus jedem Chatfenster steuerbar und eines, das sich von selbst bei dir meldet.",
+  closeH2: "DeTars ist dein dauerhaftes, unabhängiges Terminal.<br><span class='grad'>KI auf deiner Seite.</span>",
+  closeP: "Damit du Dinge schaffst und besser lebst.<br>Ein persönliches KI-Team, das im Hintergrund arbeitet, Anweisungen über deine gewohnten Chat-Apps entgegennimmt und sich von selbst bei dir meldet.",
   closePrimary: "Hol es auf deinen eigenen Rechner →",
   closeSecondary: "Die technische Geschichte lesen"
 };

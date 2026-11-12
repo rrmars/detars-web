@@ -134,8 +134,8 @@ export const homeZhHant: HomeCopy = {
   bombH2: "我們不是「說」它能幹硬活——<span class='o'>它幹出了它自己。</span>",
   bombP:
     "這個產品幾百萬行程式碼,<b>一半是它自己寫的</b>。<b>它既是應用,也是底座。</b>你今天在它上面攢下的東西,不會因為明年換了贏家而作廢。",
-  closeH2: "DeTars 是永久的第三方終端夥伴。<br><span class='grad'>你擁有的,不是租的。</span>",
-  closeP: "一支你擁有的、永遠在線、隨時能在任何聊天視窗指揮、還會主動回來找你的私人 AI 團隊。",
+  closeH2: "DeTars 是永久的第三方終端夥伴。<br><span class='grad'>站在你這邊的 AI。</span>",
+  closeP: "幫你把事做成，也把日子過好。<br>一支為你服務的私人 AI 團隊：在背景推進工作，透過你常用的聊天應用接受指令，並主動跟進。",
   closePrimary: "在你的電腦上擁有它 →",
   closeSecondary: "讀它的技術故事"
 };

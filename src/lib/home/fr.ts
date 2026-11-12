@@ -134,8 +134,8 @@ export const homeFr: HomeCopy = {
   bombH2: "On ne dit pas seulement qu'elle sait faire du travail dur — <span class='o'>elle s'est produite elle-même.</span>",
   bombP:
     "Plusieurs millions de lignes de code, et <b>la moitié a été écrite par le produit lui-même</b>. <b>C'est à la fois une application et le sol sur lequel vous êtes.</b> Ce que vous construisez dessus cette année ne sera pas rayé l'année prochaine parce qu'une autre entreprise l'aura emporté.",
-  closeH2: "DeTars est votre terminal tiers permanent.<br><span class='grad'>Le vôtre, pas loué.</span>",
-  closeP: "Une équipe d'IA privée qui vous appartient — toujours active, pilotable depuis n'importe quelle fenêtre de chat, et qui revient vers vous d'elle-même.",
+  closeH2: "DeTars est votre terminal tiers permanent.<br><span class='grad'>L’IA de votre côté.</span>",
+  closeP: "Pour vous aider à concrétiser vos projets et à mieux vivre.<br>Une équipe d’IA personnelle qui travaille en arrière-plan, reçoit vos consignes via vos applications de chat habituelles et assure le suivi avec vous.",
   closePrimary: "Possédez-la sur votre machine →",
   closeSecondary: "Lire l'histoire technique"
 };

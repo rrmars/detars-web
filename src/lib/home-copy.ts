@@ -176,8 +176,8 @@ const en: HomeCopy = {
   bombH2: "We don't just say it can do hard work — <span class='o'>it produced itself.</span>",
   bombP:
     "Several million lines of code, and <b>half of it was written by the product itself</b>. <b>It is both an app and the ground you stand on.</b> What you build up on it this year won't be written off next year because a different company won.",
-  closeH2: "DeTars is your permanent third-party terminal.<br><span class='grad'>Yours, not rented.</span>",
-  closeP: "A private AI team you own — always on, commandable from any chat window, and one that comes back to you on its own.",
+  closeH2: "DeTars is your permanent third-party terminal.<br><span class='grad'>AI on your side.</span>",
+  closeP: "Helping you get things done—and live better.<br>A personal AI team that works in the background, takes direction through the chat apps you use, and follows up with you.",
   closePrimary: "Own it on your machine →",
   closeSecondary: "Read the technical story"
 };
@@ -316,8 +316,8 @@ const zh: HomeCopy = {
   bombH2: "我们不是“说”它能干硬活——<span class='o'>它干出了它自己。</span>",
   bombP:
     "这个产品几百万行代码,<b>一半是它自己写的</b>。<b>它既是应用,也是底座。</b>你今天在它上面攒下的东西,不会因为明年换了赢家而作废。",
-  closeH2: "DeTars 是永久的第三方终端伙伴。<br><span class='grad'>你拥有的,不是租的。</span>",
-  closeP: "一支你拥有的、永远在线、随时能在任何聊天窗口指挥、还会主动回来找你的私人 AI 团队。",
+  closeH2: "DeTars 是永久的第三方终端伙伴。<br><span class='grad'>站在你这边的 AI。</span>",
+  closeP: "帮你把事做成，也把日子过好。<br>一支为你服务的私人 AI 团队：在后台推进工作，通过你常用的聊天应用接受指令，并主动跟进。",
   closePrimary: "在你的电脑上拥有它 →",
   closeSecondary: "读它的技术故事"
 };

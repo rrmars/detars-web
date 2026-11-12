@@ -6,13 +6,13 @@ export const ui: Record<string, L> = {
   researchEnglishNotice: {"en":"Articles without a translation open in English.","zh":"尚无本语言译文的文章会以英文打开。","zh-Hant":"尚無本語言譯文的文章會以英文開啟。","ja":"未翻訳の記事は英語で開きます。","fr":"Les articles non traduits s’ouvrent en anglais.","es":"Los artículos sin traducción se abren en inglés.","ko":"번역이 없는 글은 영어로 열립니다.","pt-BR":"Artigos sem tradução abrem em inglês.","de":"Artikel ohne Übersetzung werden auf Englisch geöffnet."},
   answerShort: { en: "In short", zh: "一句话", "zh-Hant": "一句話", ja: "要点", fr: "En bref", es: "En resumen" , "ko": "요약", "pt-BR": "Em resumo", "de": "Kurz gesagt" },
   footerTagline: {
-    en: "Yours, not rented",
-    zh: "你拥有的,不是租的",
-    "zh-Hant": "你擁有的,不是租的",
-    ja: "借り物ではなく、あなたのもの",
-    fr: "À vous, pas en location",
-    es: "Tuyo, no alquilado"
-  , "ko": "빌리는 것이 아니라, 당신의 것", "pt-BR": "Seu, não alugado", "de": "Deins, nicht gemietet" },
+    en: "AI on your side.",
+    zh: "站在你这边的 AI。",
+    "zh-Hant": "站在你這邊的 AI。",
+    ja: "あなたの味方になるAI。",
+    fr: "L’IA de votre côté.",
+    es: "IA de tu lado."
+  , "ko": "당신의 편에 서는 AI.", "pt-BR": "IA do seu lado.", "de": "KI auf deiner Seite." },
   footerSub: {
     en: "Your permanent third-party terminal.",
     zh: "永久的第三方终端伙伴。",

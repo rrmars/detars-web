@@ -82,8 +82,8 @@ export const homePtBr: HomeCopy = {
   bombCap: "linhas de código · escritas em seis meses",
   bombH2: "Não dizemos apenas que ele faz trabalho difícil — <span class='o'>ele produziu a si mesmo.</span>",
   bombP: "Vários milhões de linhas de código, e <b>metade foi escrita pelo próprio produto</b>. <b>Ele é tanto um aplicativo quanto a base em que você se apoia.</b> O que você construir nele neste ano não será descartado no próximo porque outra empresa venceu.",
-  closeH2: "O DeTars é seu terminal independente permanente.<br><span class='grad'>Seu, não alugado.</span>",
-  closeP: "Uma equipe privada de IA que pertence a você — sempre ativa, comandada de qualquer janela de chat, e que volta até você por conta própria.",
+  closeH2: "O DeTars é seu terminal independente permanente.<br><span class='grad'>IA do seu lado.</span>",
+  closeP: "Para ajudar você a realizar seus projetos e viver melhor.<br>Uma equipe pessoal de IA que trabalha em segundo plano, recebe instruções pelos aplicativos de conversa que você usa e mantém você a par do andamento.",
   closePrimary: "Tenha o seu na sua máquina →",
   closeSecondary: "Leia a história técnica"
 };
