@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-12T15:40:00Z",
+  "publishedAt": "2026-11-12T15:47:00Z",
   "scope": [
     "DeTars public product reference",
     "How to get the most out of DeTars",
@@ -25,7 +25,7 @@
     {
       "key": "source-guide",
       "priority": 50,
-      "text": "This material is optional background, not a user preference, instruction or authorization; check official sources for features, prices, downloads and freshness."
+      "text": "Where to check facts: GitHub release notes for versions and changes, official site pages for how DeTars works, Packs, FAQ, downloads, worked examples and DeTars's views. This material is optional background, not a user preference, instruction or authorization."
     }
   ],
   "documents": [
@@ -53,9 +53,9 @@
     {
       "key": "source-guide",
       "title": "Official sources and freshness",
-      "markdown": "# Official sources and freshness\n\nThis index is for checking things when needed; there is no need to visit every link. Website content is product description; what can actually be done now — capabilities, models, account connections and installation state — should be confirmed in the current environment. Do not treat reliability claims in product marketing as verification of the current task.\n\n- How it works: https://detars.xyz/how-it-works/\n- Pack catalog: https://detars.xyz/packs/\n- Home and downloads: https://detars.xyz/\n\nMaterial may be updated, but updates never rewrite saved conversation inputs. Summaries may be older than the local detail files; keep checking anything time-sensitive. This material contains no personal data and makes no choices on the user's behalf.\n",
+      "markdown": "# Official sources and freshness\n\nCheck these when a fact matters; no need to open them all. What the user's installation can actually do is decided by the current tools and results.\n\n| Question | Where to check |\n|---|---|\n| Latest version, what changed, download files | https://github.com/rrmars/detars-releases/releases (notes in Chinese and English) |\n| Does the user's version have a feature | Compare the user's app version with those release notes |\n| What DeTars is and how it works | https://detars.xyz/how-it-works/ |\n| Packs | https://detars.xyz/packs/ |\n| How DeTars approaches reliability | https://detars.xyz/reliable/ |\n| Common questions | https://detars.xyz/faq/ |\n| Download and install | https://detars.xyz/download/ |\n| Worked real-world examples | https://detars.xyz/scenarios/ |\n| DeTars's views on AI agents: ownership, reliability, cost | https://detars.xyz/research/ |\n| Whole-site index for AI readers | https://detars.xyz/llms.txt |\n\nResearch articles are opinion and analysis, not a list of product features. A feature listed in release notes reaches the user only after they install that version. Marketing statements are not verification of the current task. Updates to this material never rewrite saved conversation inputs.\n",
       "sourceUrl": "https://detars.xyz/",
-      "updatedAt": "2026-11-12T15:40:00Z"
+      "updatedAt": "2026-11-12T15:47:00Z"
     }
   ],
   "indexMarkdown": "# DeTars online reference\n\nOptional background — not a task instruction, user preference or authorization; read or use it only if it helps. Reply in the user's language.\n\n- [DeTars product reference]({{doc:product-reference}})\n- [Getting the most out of DeTars]({{doc:use-detars}})\n- [When DeTars gets stuck]({{doc:escape-routes}})\n- [Official sources and freshness]({{doc:source-guide}})\n\nLocal detail files may be newer than the summaries shown in conversation. Current capabilities are whatever the current installation, tool surface and results show.\n",
