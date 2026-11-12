@@ -2,10 +2,10 @@ import type { HomeCopy } from "@/lib/home-copy";
 
 export const homePtBr: HomeCopy = {
   metaTitle: "DeTars | IA para todos? Esta é para você.",
-  metaDescription: "Seus objetivos, seus projetos, seu dia a dia. Um parceiro de IA para ajudar você a seguir em frente.",
-  heroEyebrow: "Seu parceiro pessoal de IA",
+  metaDescription: "Uma equipe inteira de IA, trabalhando para uma só pessoa: você. Chefe de gabinete, assistente, diretor e cineasta — todos do seu lado.",
+  heroEyebrow: "Sua equipe pessoal de IA",
   heroH1: "IA para todos?<br><span class='grad'>Esta é para você.</span>",
-  heroSub: "Seus objetivos, seus projetos, seu dia a dia.<br>Um parceiro de IA para ajudar você a seguir em frente.",
+  heroSub: "Uma equipe inteira de IA, trabalhando para uma só pessoa: você.<br>Um chefe de gabinete para coordenar, um assistente para conversar, um diretor para tocar o dia a dia, um cineasta para seus vídeos — todos querem o seu sucesso e a sua felicidade.",
   heroPrimary: "Comece com um objetivo →",
   heroSecondary: "Veja como ele trabalha para você",
   futureKicker: "O futuro que estamos construindo",
@@ -79,9 +79,9 @@ export const homePtBr: HomeCopy = {
       foot: "<b>De verdade:</b> roteamento que leva o cache em conta — menos tokens cobrados, sem contas fora de controle."
     }
   ],
-  bombCap: "linhas de código · escritas em seis meses",
-  bombH2: "Não dizemos apenas que ele faz trabalho difícil — <span class='o'>ele produziu a si mesmo.</span>",
-  bombP: "Vários milhões de linhas de código, e <b>metade foi escrita pelo próprio produto</b>. <b>Ele é tanto um aplicativo quanto a base em que você se apoia.</b> O que você construir nele neste ano não será descartado no próximo porque outra empresa venceu.",
+  bombCap: "linhas de código · metade escrita pelo próprio DeTars",
+  bombH2: "<span class='o'>O DeTars foi construído com o DeTars.</span>",
+  bombP: "Mais de 3,4 milhões de linhas de código — e <b>metade delas escrita pelo próprio DeTars</b>. Poucas tarefas que você vai entregar a ele são mais difíceis do que construir a si mesmo. <b>Ele é um aplicativo e é a base sobre a qual você constrói</b>: o conhecimento, os métodos e o trabalho que você acumula aqui continuam seus, seja qual for o modelo que vencer no ano que vem.",
   closeH2: "O DeTars é seu terminal independente permanente.<br><span class='grad'>IA do seu lado.</span>",
   closeP: "Para ajudar você a realizar seus projetos e viver melhor.<br>Uma equipe pessoal de IA que trabalha em segundo plano, recebe instruções pelos aplicativos de conversa que você usa e mantém você a par do andamento.",
   closePrimary: "Tenha o seu na sua máquina →",

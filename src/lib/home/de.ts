@@ -2,10 +2,10 @@ import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeDe: HomeCopy = {
   metaTitle: "DeTars | KI für alle? Diese ist für dich.",
-  metaDescription: "Deine Ziele, deine Projekte, dein Alltag. Ein KI-Partner, der dir hilft, sie voranzubringen.",
-  heroEyebrow: "Dein persönlicher KI-Partner",
+  metaDescription: "Ein ganzes KI-Team, das für einen einzigen Menschen arbeitet: dich. Stabschef, Assistent, Director und Filmemacher — alle auf deiner Seite.",
+  heroEyebrow: "Dein persönliches KI-Team",
   heroH1: "KI für alle?<br><span class='grad'>Diese ist für dich.</span>",
-  heroSub: "Deine Ziele, deine Projekte, dein Alltag.<br>Ein KI-Partner, der dir hilft, sie voranzubringen.",
+  heroSub: "Ein ganzes KI-Team, das für einen einzigen Menschen arbeitet: dich.<br>Ein Stabschef, der koordiniert, ein Assistent zum Reden, ein Director für deinen Arbeitsalltag, ein Filmemacher für deine Videos — alle wollen, dass du erfolgreich und glücklich bist.",
   heroPrimary: "Mit einem Ziel anfangen →",
   heroSecondary: "Sieh, wie er für dich arbeitet",
   futureKicker: "Die Zukunft, an der wir arbeiten",
@@ -123,9 +123,9 @@ export const homeDe: HomeCopy = {
       foot: "<b>Tatsächlich:</b> cachebewusstes Routing — weniger berechnete Tokens, keine ausufernden Rechnungen."
     }
   ],
-  bombCap: "Zeilen Code · in sechs Monaten geschrieben",
-  bombH2: "Wir sagen nicht nur, dass es anspruchsvolle Arbeit schafft — <span class='o'>es hat sich selbst hervorgebracht.</span>",
-  bombP: "Mehrere Millionen Zeilen Code, und <b>die Hälfte davon hat das Produkt selbst geschrieben</b>. <b>Es ist Anwendung und Fundament zugleich.</b> Was du dieses Jahr darauf aufbaust, wird nicht nächstes Jahr abgeschrieben, weil ein anderes Unternehmen gewonnen hat.",
+  bombCap: "Zeilen Code · die Hälfte von DeTars selbst geschrieben",
+  bombH2: "<span class='o'>DeTars wurde mit DeTars gebaut.</span>",
+  bombP: "Über 3,4 Millionen Zeilen Code — und <b>die Hälfte davon hat DeTars selbst geschrieben</b>. Kaum eine Aufgabe, die du ihm gibst, ist schwieriger, als sich selbst zu bauen. <b>Es ist eine App und das Fundament, auf dem du baust</b>: Wissen, Methoden und Ergebnisse, die du hier sammelst, bleiben deine — egal, welches Modell nächstes Jahr gewinnt.",
   closeH2: "DeTars ist dein dauerhaftes, unabhängiges Terminal.<br><span class='grad'>KI auf deiner Seite.</span>",
   closeP: "Damit du Dinge schaffst und besser lebst.<br>Ein persönliches KI-Team, das im Hintergrund arbeitet, Anweisungen über deine gewohnten Chat-Apps entgegennimmt und sich von selbst bei dir meldet.",
   closePrimary: "Hol es auf deinen eigenen Rechner →",

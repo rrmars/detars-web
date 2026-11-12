@@ -2,11 +2,10 @@ import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeFr: HomeCopy = {
   metaTitle: "DeTars | Une IA pour tout le monde ? Celle-ci est pour vous.",
-  metaDescription:
-    "Vos objectifs, vos projets, votre quotidien. Une partenaire IA pour vous aider à avancer.",
-  heroEyebrow: "Votre partenaire IA personnelle",
+  metaDescription: "Une équipe IA entière, au service d'une seule personne : vous. Chef de cabinet, assistant, directeur, réalisateur — tous de votre côté.",
+  heroEyebrow: "Votre équipe IA personnelle",
   heroH1: "Une IA pour tout le monde ?<br><span class='grad'>Celle-ci est pour vous.</span>",
-  heroSub: "Vos objectifs, vos projets, votre quotidien.<br>Une partenaire IA pour vous aider à avancer.",
+  heroSub: "Une équipe IA entière, au service d'une seule personne : vous.<br>Un chef de cabinet pour coordonner, un assistant pour discuter, un directeur pour mener votre quotidien, un réalisateur pour vos vidéos — tous veulent votre réussite et votre bonheur.",
   heroPrimary: "Commencer par un objectif →",
   heroSecondary: "Voyez-la travailler pour vous",
   futureKicker: "L’avenir que nous construisons",
@@ -130,10 +129,9 @@ export const homeFr: HomeCopy = {
       foot: "<b>Du concret :</b> un routage conscient du cache — moins de tokens facturés, pas de facture qui s'emballe."
     }
   ],
-  bombCap: "lignes de code · écrites en six mois",
-  bombH2: "On ne dit pas seulement qu'elle sait faire du travail dur — <span class='o'>elle s'est produite elle-même.</span>",
-  bombP:
-    "Plusieurs millions de lignes de code, et <b>la moitié a été écrite par le produit lui-même</b>. <b>C'est à la fois une application et le sol sur lequel vous êtes.</b> Ce que vous construisez dessus cette année ne sera pas rayé l'année prochaine parce qu'une autre entreprise l'aura emporté.",
+  bombCap: "lignes de code · dont la moitié écrite par DeTars lui-même",
+  bombH2: "<span class='o'>DeTars a été construit avec DeTars.</span>",
+  bombP: "Plus de 3,4 millions de lignes de code — et <b>la moitié écrite par DeTars lui-même</b>. Peu de tâches que vous lui confierez seront plus difficiles que de se construire soi-même. <b>C'est une application, et c'est le sol sur lequel vous bâtissez</b> : les connaissances, méthodes et résultats que vous accumulez ici restent à vous, quel que soit le modèle qui l'emporte l'an prochain.",
   closeH2: "DeTars est votre terminal tiers permanent.<br><span class='grad'>L’IA de votre côté.</span>",
   closeP: "Pour vous aider à concrétiser vos projets et à mieux vivre.<br>Une équipe d’IA personnelle qui travaille en arrière-plan, reçoit vos consignes via vos applications de chat habituelles et assure le suivi avec vous.",
   closePrimary: "Possédez-la sur votre machine →",

@@ -44,11 +44,10 @@ export type HomeCopy = {
 
 const en: HomeCopy = {
   metaTitle: "DeTars | AI for everyone? This one’s for you.",
-  metaDescription:
-    "Your goals, your projects, your everyday life. An AI partner to help you move them forward.",
-  heroEyebrow: "Your personal AI partner",
+  metaDescription: "A whole AI team, working for one person: you. A chief of staff, an assistant, a director and a filmmaker — every one of them on your side.",
+  heroEyebrow: "Your personal AI team",
   heroH1: "AI for everyone?<br><span class='grad'>This one’s for you.</span>",
-  heroSub: "Your goals, your projects, your everyday life.<br>An AI partner to help you move them forward.",
+  heroSub: "A whole AI team, working for one person: you.<br>A chief of staff to coordinate, an assistant to talk to, a director to run your day-to-day work, a filmmaker for your videos — every one of them wants you to succeed, and to be happy.",
   heroPrimary: "Start with a goal →",
   heroSecondary: "See it work for you",
   futureKicker: "The future we’re building",
@@ -172,10 +171,9 @@ const en: HomeCopy = {
       foot: "<b>Real:</b> caching-aware routing — fewer tokens billed, no runaway bills."
     }
   ],
-  bombCap: "lines of code · written in six months",
-  bombH2: "We don't just say it can do hard work — <span class='o'>it produced itself.</span>",
-  bombP:
-    "Several million lines of code, and <b>half of it was written by the product itself</b>. <b>It is both an app and the ground you stand on.</b> What you build up on it this year won't be written off next year because a different company won.",
+  bombCap: "lines of code · half written by DeTars itself",
+  bombH2: "<span class='o'>DeTars was built with DeTars.</span>",
+  bombP: "Over 3.4 million lines of code — and <b>half of them written by DeTars itself</b>. Few jobs you'll ever hand it are harder than building itself. <b>It's an app, and it's the ground you build on</b>: the knowledge, methods and work you gather here stay yours, whichever model wins next year.",
   closeH2: "DeTars is your permanent third-party terminal.<br><span class='grad'>AI on your side.</span>",
   closeP: "Helping you get things done—and live better.<br>A personal AI team that works in the background, takes direction through the chat apps you use, and follows up with you.",
   closePrimary: "Own it on your machine →",
@@ -184,11 +182,10 @@ const en: HomeCopy = {
 
 const zh: HomeCopy = {
   metaTitle: "DeTars | AI 可以服务所有人。 这个，是为你的。",
-  metaDescription:
-    "你的目标、你的项目、你的日常。 一个陪你把事情往前推进的 AI 伙伴。",
-  heroEyebrow: "你的私人 AI 伙伴",
+  metaDescription: "一整支 AI 团队，只为你一个人。幕僚长、助手、总监、导演，每一位都盼你成事，也盼你过得好。",
+  heroEyebrow: "你的私人 AI 团队",
   heroH1: "AI 可以服务所有人。<br><span class='grad'>这个，是为你的。</span>",
-  heroSub: "你的目标、你的项目、你的日常。<br>一个陪你把事情往前推进的 AI 伙伴。",
+  heroSub: "一整支 AI 团队，只为你一个人。<br>幕僚长替你统筹，助手陪你聊，总监推进日常，导演拍你的片——每一位都盼你成事，也盼你过得好。",
   heroPrimary: "从一个目标开始 →",
   heroSecondary: "看它怎么陪你做事",
   futureKicker: "我们正在创造的未来",
@@ -312,10 +309,9 @@ const zh: HomeCopy = {
       foot: "<b>底气:</b>缓存感知路由——少计费,不会失控烧钱。"
     }
   ],
-  bombCap: "行代码 · 六个月写成",
-  bombH2: "我们不是“说”它能干硬活——<span class='o'>它干出了它自己。</span>",
-  bombP:
-    "这个产品几百万行代码,<b>一半是它自己写的</b>。<b>它既是应用,也是底座。</b>你今天在它上面攒下的东西,不会因为明年换了赢家而作废。",
+  bombCap: "行代码 · 一半由 DeTars 自己写成",
+  bombH2: "DeTars，<span class='o'>是用 DeTars 造出来的。</span>",
+  bombP: "340 多万行代码，<b>一半出自它自己之手</b>。你交给它的活，很少会比“造出它自己”更难。<b>它既是应用，也是你的底座</b>——你在这里攒下的知识、方法和成果，明年不管哪家模型胜出，都还是你的。",
   closeH2: "DeTars 是永久的第三方终端伙伴。<br><span class='grad'>站在你这边的 AI。</span>",
   closeP: "帮你把事做成，也把日子过好。<br>一支为你服务的私人 AI 团队：在后台推进工作，通过你常用的聊天应用接受指令，并主动跟进。",
   closePrimary: "在你的电脑上拥有它 →",

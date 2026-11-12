@@ -2,11 +2,10 @@ import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeZhHant: HomeCopy = {
   metaTitle: "DeTars | AI 可以服務所有人。 這個，是為你的。",
-  metaDescription:
-    "你的目標、你的專案、你的日常。 一個陪你把事情往前推進的 AI 夥伴。",
-  heroEyebrow: "你的私人 AI 夥伴",
+  metaDescription: "一整支 AI 團隊，只為你一個人。幕僚長、助手、總監、導演，每一位都盼你成事，也盼你過得好。",
+  heroEyebrow: "你的私人 AI 團隊",
   heroH1: "AI 可以服務所有人。<br><span class='grad'>這個，是為你的。</span>",
-  heroSub: "你的目標、你的專案、你的日常。<br>一個陪你把事情往前推進的 AI 夥伴。",
+  heroSub: "一整支 AI 團隊，只為你一個人。<br>幕僚長替你統籌，助手陪你聊，總監推進日常，導演拍你的片——每一位都盼你成事，也盼你過得好。",
   heroPrimary: "從一個目標開始 →",
   heroSecondary: "看它怎麼陪你做事",
   futureKicker: "我們正在創造的未來",
@@ -130,10 +129,9 @@ export const homeZhHant: HomeCopy = {
       foot: "<b>底氣:</b>快取感知路由——少計費,不會失控燒錢。"
     }
   ],
-  bombCap: "行程式碼 · 六個月寫成",
-  bombH2: "我們不是「說」它能幹硬活——<span class='o'>它幹出了它自己。</span>",
-  bombP:
-    "這個產品幾百萬行程式碼,<b>一半是它自己寫的</b>。<b>它既是應用,也是底座。</b>你今天在它上面攢下的東西,不會因為明年換了贏家而作廢。",
+  bombCap: "行程式碼 · 一半由 DeTars 自己寫成",
+  bombH2: "DeTars，<span class='o'>是用 DeTars 造出來的。</span>",
+  bombP: "340 多萬行程式碼，<b>一半出自它自己之手</b>。你交給它的活，很少會比「造出它自己」更難。<b>它既是應用，也是你的底座</b>——你在這裡攢下的知識、方法和成果，明年不管哪家模型勝出，都還是你的。",
   closeH2: "DeTars 是永久的第三方終端夥伴。<br><span class='grad'>站在你這邊的 AI。</span>",
   closeP: "幫你把事做成，也把日子過好。<br>一支為你服務的私人 AI 團隊：在背景推進工作，透過你常用的聊天應用接受指令，並主動跟進。",
   closePrimary: "在你的電腦上擁有它 →",

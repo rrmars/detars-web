@@ -2,10 +2,10 @@ import type { HomeCopy } from "@/lib/home-copy";
 
 export const homeKo: HomeCopy = {
   metaTitle: "DeTars | 모두를 위한 AI? 이 AI는 당신을 위한 것입니다.",
-  metaDescription: "당신의 목표, 프로젝트, 일상. 함께 앞으로 나아가는 AI 파트너.",
-  heroEyebrow: "당신만의 AI 파트너",
+  metaDescription: "AI 팀 전체가, 오직 당신 한 사람을 위해. 비서실장, 어시스턴트, 디렉터, 영상 감독 — 모두 당신 편입니다.",
+  heroEyebrow: "당신만의 AI 팀",
   heroH1: "모두를 위한 AI?<br><span class='grad'>이 AI는 당신을 위한 것입니다.</span>",
-  heroSub: "당신의 목표, 프로젝트, 일상.<br>함께 앞으로 나아가는 AI 파트너.",
+  heroSub: "AI 팀 전체가, 오직 당신 한 사람을 위해.<br>비서실장이 조율하고, 어시스턴트가 대화하고, 디렉터가 일상 업무를 이끌고, 영상 감독이 당신의 영상을 만듭니다 — 모두가 당신의 성공과 행복을 바랍니다.",
   heroPrimary: "목표 하나로 시작하기 →",
   heroSecondary: "당신을 위해 어떻게 일하는지 보기",
   futureKicker: "우리가 만들어 가는 미래",
@@ -111,9 +111,9 @@ export const homeKo: HomeCopy = {
       foot: "<b>실제로:</b> 캐시를 고려한 라우팅 — 청구되는 토큰은 줄고, 비용은 폭주하지 않습니다."
     }
   ],
-  bombCap: "줄의 코드 · 6개월 동안 작성",
-  bombH2: "어려운 일을 할 수 있다고 말만 하지 않습니다 — <span class='o'>자기 자신을 만들었습니다.</span>",
-  bombP: "수백만 줄의 코드, 그중 <b>절반은 이 제품이 직접 작성했습니다</b>. <b>앱이면서 동시에 당신이 딛고 서는 기반입니다.</b> 올해 그 위에 쌓은 것이 내년에 다른 회사가 승자가 되었다고 해서 무용지물이 되지는 않습니다.",
+  bombCap: "줄의 코드 · 절반은 DeTars가 직접 작성",
+  bombH2: "<span class='o'>DeTars는 DeTars로 만들어졌습니다.</span>",
+  bombP: "340만 줄이 넘는 코드, 그중 <b>절반은 DeTars가 직접 작성했습니다</b>. 당신이 맡길 일 중에 '자기 자신을 만드는 일'보다 어려운 일은 많지 않습니다. <b>앱이면서, 당신이 딛고 서는 기반입니다</b> — 여기에 쌓은 지식과 방법, 성과는 내년에 어느 모델이 이기든 계속 당신의 것입니다.",
   closeH2: "DeTars는 당신의 영구적인 서드파티 터미널입니다.<br><span class='grad'>당신의 편에 서는 AI.</span>",
   closeP: "일을 해내고, 더 나은 일상을 살아가도록 돕습니다.<br>백그라운드에서 일하고, 평소 사용하는 채팅 앱으로 지시를 받으며, 먼저 진행 상황을 알려주는 개인 AI 팀입니다.",
   closePrimary: "당신의 컴퓨터에서 소유하기 →",
