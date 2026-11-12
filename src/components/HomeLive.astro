@@ -1,0 +1,180 @@
+---
+// "You send one line. It comes back done." Three-step rail on top, a scenario
+// picker with its story on the left, and the phone on the right that plays the
+// selected scenario: your message → work in the background → it comes back.
+import TarotSpread from "@/components/home/TarotSpread.astro";
+import type { HomeCopy } from "@/lib/home-copy";
+
+type Props = { t: HomeCopy };
+const { t } = Astro.props;
+const first = t.scenarios[0];
+const tarotLabels = t.scenarios.find((s) => s.tarot)?.tarot;
+---
+
+<section class="band shell live" id="live" style="padding-top:30px;">
+  <div class="reveal">
+    <span class="kicker">{t.liveKicker}</span>
+    <h2 set:html={t.liveH2} />
+  </div>
+
+  <ol class="rail reveal" id="rail">
+    {t.steps.map((s, i) => (
+      <li class="step" data-i={i + 1}>
+        <span class="num">{i + 1}</span>
+        <div><div class="st">{s.st}</div><div class="sd" set:html={s.sd} /></div>
+      </li>
+    ))}
+  </ol>
+
+  <div class="live-grid reveal">
+    <div class="picker">
+      <div class="tabs" role="tablist">
+        {t.scenarios.map((s, i) => (
+          <button type="button" class:list={["tab", { on: i === 0 }]} role="tab" aria-selected={i === 0 ? "true" : "false"} data-si={i}>
+            <span class="tav">{s.av}</span>{s.pack}
+          </button>
+        ))}
+      </div>
+      <div class="stories">
+        {t.scenarios.map((s, i) => (
+          <div class:list={["story", { on: i === 0 }]} data-si={i}>
+            <h3>{s.pack}</h3>
+            <p set:html={s.story} />
+            {s.link && <a class="slink" href={s.link.href}>{s.link.label}</a>}
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <div class="phone" id="phone" data-phase="0">
+      <div class="ph-head">
+        <div class="pk"><span class="av" id="ph-av">{first.av}</span><span id="ph-pack">{first.pack}</span></div>
+        <span class="via" id="ph-via">via {first.via}</span>
+      </div>
+      <div class="ph-body">
+        <div class="bubble" id="ph-input">{first.input}</div>
+        <div class="work"><span class="dots"><i></i><i></i><i></i></span><span id="ph-work">{first.work}</span></div>
+        {tarotLabels && <div class="tarot" id="ph-tarot" hidden><TarotSpread labels={tarotLabels} /></div>}
+        <div class="result"><div class="rt" id="ph-result" set:html={first.result} /><div class="rm" id="ph-meta">detars · {first.meta}</div></div>
+      </div>
+      <div class="ph-foot">{t.phoneFoot}</div>
+    </div>
+  </div>
+  <script type="application/json" id="scenarios-data" is:inline set:html={JSON.stringify(t.scenarios)} />
+</section>
+
+<style>
+  .live h2 { font-weight: 700; font-size: clamp(28px, 3.6vw, 46px); line-height: 1.16; letter-spacing: -0.02em; max-width: 20ch; margin: 20px 0 0; }
+
+  .rail { list-style: none; padding: 0; margin: 40px 0 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+  .step { display: flex; gap: 14px; padding: 16px 18px; border: 1px solid var(--line); border-radius: 15px; transition: 0.45s var(--ease); background: rgba(255, 255, 255, 0.012); }
+  .step.on { border-color: rgba(255, 106, 61, 0.5); background: linear-gradient(100deg, rgba(255, 106, 61, 0.12), transparent); }
+  .step .num { font-family: var(--sg); font-weight: 700; font-size: 14px; color: var(--faint); width: 26px; height: 26px; border-radius: 8px; border: 1px solid var(--line2); display: grid; place-items: center; flex-shrink: 0; transition: 0.45s; }
+  .step.on .num { color: #1b0f08; background: linear-gradient(140deg, var(--accent), var(--accent2)); border-color: transparent; }
+  .step .st { font-size: 15.5px; font-weight: 500; }
+  .step .sd { font-size: 13px; color: var(--muted); margin-top: 3px; line-height: 1.5; }
+  .step .sd :global(b) { color: var(--accent2); font-weight: 500; }
+
+  .live-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; margin-top: 46px; }
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tab { display: inline-flex; align-items: center; gap: 7px; font: inherit; font-size: 13.5px; color: var(--muted); background: rgba(255, 255, 255, 0.025); border: 1px solid var(--line); border-radius: 999px; padding: 7px 13px 7px 9px; cursor: pointer; transition: 0.3s var(--ease); }
+  .tab:hover { color: var(--text); border-color: var(--line2); }
+  .tab.on { color: var(--text); border-color: rgba(255, 106, 61, 0.55); background: rgba(255, 106, 61, 0.1); }
+  .tav { width: 20px; text-align: center; font-size: 13px; }
+  .stories { position: relative; margin-top: 26px; min-height: 230px; }
+  .story { display: none; }
+  .story.on { display: block; animation: story-in 0.5s var(--ease); }
+  @keyframes story-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  .story h3 { font-weight: 700; font-size: clamp(22px, 2.4vw, 30px); letter-spacing: -0.01em; margin: 0; }
+  .story p { margin: 14px 0 0; font-size: 16px; line-height: 1.75; color: var(--muted); max-width: 46ch; }
+  .story p :global(b) { color: var(--text); font-weight: 500; }
+  .slink { display: inline-block; margin-top: 16px; font-size: 15px; font-weight: 500; color: var(--accent2); text-decoration: none; border-bottom: 1px solid rgba(255, 178, 122, 0.35); padding-bottom: 2px; }
+  .slink:hover { border-color: var(--accent2); }
+
+  .phone { justify-self: center; width: 100%; max-width: 392px; height: 540px; border: 1px solid var(--line2); border-radius: 26px; background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.012)); backdrop-filter: blur(8px); box-shadow: 0 40px 90px rgba(0, 0, 0, 0.55); display: flex; flex-direction: column; overflow: hidden; }
+  .ph-head { display: flex; align-items: center; justify-content: space-between; padding: 16px 18px; border-bottom: 1px solid var(--line); }
+  .ph-head .pk { display: flex; align-items: center; gap: 10px; font-weight: 500; font-size: 15px; }
+  .ph-head .av { width: 30px; height: 30px; border-radius: 9px; background: #1c2230; display: grid; place-items: center; font-size: 15px; border: 1px solid var(--line2); }
+  .ph-head .via { font-family: var(--mono); font-size: 11px; color: var(--faint); }
+  .ph-body { flex: 1; padding: 18px; display: flex; flex-direction: column; gap: 12px; justify-content: flex-end; overflow: hidden; }
+  .bubble { align-self: flex-end; max-width: 82%; background: linear-gradient(140deg, var(--accent), var(--accent2)); color: #1b0f08; font-size: 14.5px; line-height: 1.5; padding: 11px 15px; border-radius: 16px 16px 4px 16px; opacity: 0; transform: translateY(10px) scale(0.96); }
+  .work { align-self: flex-start; display: flex; align-items: center; gap: 11px; font-size: 13px; color: var(--muted); background: rgba(255, 255, 255, 0.04); border: 1px solid var(--line); padding: 10px 14px; border-radius: 14px; opacity: 0; transform: translateY(10px); }
+  .work .dots { display: inline-flex; gap: 4px; flex-shrink: 0; }
+  .work .dots i { width: 6px; height: 6px; border-radius: 50%; background: var(--accent2); animation: blink 1.1s infinite; }
+  .work .dots i:nth-child(2) { animation-delay: 0.18s; }
+  .work .dots i:nth-child(3) { animation-delay: 0.36s; }
+  @keyframes blink { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+  .tarot { align-self: center; padding: 2px 0; opacity: 0; transform: translateY(10px); }
+  .tarot[hidden] { display: none; }
+  .result { align-self: flex-start; max-width: 92%; background: rgba(70, 211, 154, 0.08); border: 1px solid rgba(70, 211, 154, 0.32); padding: 13px 15px; border-radius: 4px 16px 16px 16px; opacity: 0; transform: translateY(10px); }
+  .result .rt { font-size: 14px; line-height: 1.6; }
+  .result .rt :global(b) { font-weight: 600; color: var(--text); }
+  .result .rm { font-size: 11.5px; color: var(--faint); margin-top: 6px; font-family: var(--mono); }
+  .phone[data-phase="1"] .bubble, .phone[data-phase="2"] .bubble, .phone[data-phase="3"] .bubble { opacity: 1; transform: none; transition: 0.5s var(--ease); }
+  .phone[data-phase="2"] .work, .phone[data-phase="3"] .work, .phone[data-phase="2"] .tarot, .phone[data-phase="3"] .tarot { opacity: 1; transform: none; transition: 0.5s var(--ease); }
+  .phone[data-phase="3"] .result { opacity: 1; transform: none; transition: 0.55s var(--ease); }
+  :global(html:not(.motion)) .bubble, :global(html:not(.motion)) .work, :global(html:not(.motion)) .result, :global(html:not(.motion)) .tarot { opacity: 1; transform: none; }
+  .ph-foot { padding: 11px 16px; border-top: 1px solid var(--line); font-size: 11.5px; color: var(--faint); text-align: center; }
+
+  @media (max-width: 860px) {
+    .rail { grid-template-columns: 1fr; }
+    .live-grid { grid-template-columns: 1fr; gap: 32px; }
+    .stories { min-height: 0; }
+    .phone { height: auto; min-height: 540px; }
+  }
+</style>
+
+<script is:inline>
+  (() => {
+    const motion = document.documentElement.classList.contains("motion");
+    const phone = document.getElementById("phone");
+    const dataEl = document.getElementById("scenarios-data");
+    if (!phone || !dataEl) return;
+    const scenarios = JSON.parse(dataEl.textContent || "[]");
+    const $ = (id) => document.getElementById(id);
+    const rail = $("rail");
+    const tabs = [...document.querySelectorAll(".live .tab")];
+    const stories = [...document.querySelectorAll(".live .story")];
+    const tarot = $("ph-tarot");
+    const setStep = (n) => rail && rail.querySelectorAll(".step").forEach((s) => s.classList.toggle("on", +s.dataset.i === n));
+    const select = (i) => {
+      tabs.forEach((b, k) => { b.classList.toggle("on", k === i); b.setAttribute("aria-selected", k === i ? "true" : "false"); });
+      stories.forEach((s, k) => s.classList.toggle("on", k === i));
+      const s = scenarios[i];
+      $("ph-av").textContent = s.av;
+      $("ph-pack").textContent = s.pack;
+      $("ph-via").textContent = "via " + s.via;
+      $("ph-meta").textContent = "detars · " + s.meta;
+      $("ph-input").textContent = s.input;
+      $("ph-work").textContent = s.work;
+      $("ph-result").innerHTML = s.result;
+      if (tarot) tarot.hidden = !s.tarot;
+    };
+    let si = 0, timers = [], hovering = false;
+    const clear = () => { timers.forEach(clearTimeout); timers = []; };
+    const play = () => {
+      clear(); select(si);
+      if (!motion) { phone.dataset.phase = "3"; setStep(3); return; }
+      phone.dataset.phase = "0"; setStep(0);
+      const hold = scenarios[si].tarot ? 8200 : 7000;
+      timers.push(setTimeout(() => { phone.dataset.phase = "1"; setStep(1); }, 250));
+      timers.push(setTimeout(() => { phone.dataset.phase = "2"; setStep(2); }, 1500));
+      timers.push(setTimeout(() => { phone.dataset.phase = "3"; setStep(3); }, 3000));
+      timers.push(setTimeout(function next() {
+        if (hovering) { timers.push(setTimeout(next, 800)); return; }
+        si = (si + 1) % scenarios.length; play();
+      }, hold));
+    };
+    tabs.forEach((b, i) => b.addEventListener("click", () => { si = i; play(); }));
+    const picker = document.querySelector(".live .picker");
+    if (picker) {
+      picker.addEventListener("mouseenter", () => { hovering = true; });
+      picker.addEventListener("mouseleave", () => { hovering = false; });
+    }
+    if (!motion) { play(); return; }
+    if ("IntersectionObserver" in window) {
+      let started = false;
+      new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting && !started) { started = true; play(); } }), { threshold: 0.3 }).observe(phone);
+    } else play();
+  })();
+</script>

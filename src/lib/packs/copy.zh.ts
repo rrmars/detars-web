@@ -40,7 +40,7 @@ export const packsZh: PacksCopy = {
   },
 
   ui: {
-    statusLabels: { live: "已上线", polishing: "已上线 · 打磨中", new: "最新" },
+    statusLabels: { live: "已上线", polishing: "已上线 · 打磨中", new: "最新", coming: "打磨中 · 即将上线" },
     backLabel: "全部应用",
     sendLabel: "你给它",
     getLabel: "它还你",

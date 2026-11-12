@@ -23,7 +23,7 @@ export const packsKo: PacksCopy = {
     ctaLabel: "DeTars 다운로드 →"
   },
   ui: {
-    statusLabels: { live: "이용 가능", polishing: "이용 가능 · 개선 중", new: "신규" },
+    statusLabels: { live: "이용 가능", polishing: "이용 가능 · 개선 중", new: "신규", coming: "개선 중 · 곧 공개" },
     backLabel: "모든 팩",
     sendLabel: "당신이 건네는 것",
     getLabel: "돌려받는 것",

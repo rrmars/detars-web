@@ -34,7 +34,7 @@ export const packsZhHant: PacksCopy = {
   },
 
   ui: {
-    statusLabels: { live: "已上線", polishing: "已上線 · 打磨中", new: "最新" },
+    statusLabels: { live: "已上線", polishing: "已上線 · 打磨中", new: "最新", coming: "打磨中 · 即將上線" },
     backLabel: "全部應用",
     sendLabel: "你給它",
     getLabel: "它還你",

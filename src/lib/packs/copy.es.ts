@@ -34,7 +34,7 @@ export const packsEs: PacksCopy = {
   },
 
   ui: {
-    statusLabels: { live: "Disponible", polishing: "Disponible · puliéndose", new: "Nuevo" },
+    statusLabels: { live: "Disponible", polishing: "Disponible · puliéndose", new: "Nuevo", coming: "Puliéndose · muy pronto" },
     backLabel: "Todos los packs",
     sendLabel: "Tú le das",
     getLabel: "Te devuelve",

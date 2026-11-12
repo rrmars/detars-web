@@ -34,7 +34,7 @@ export const packsFr: PacksCopy = {
   },
 
   ui: {
-    statusLabels: { live: "En ligne", polishing: "En ligne · en polissage", new: "Nouveau" },
+    statusLabels: { live: "En ligne", polishing: "En ligne · en polissage", new: "Nouveau", coming: "En polissage · bientôt" },
     backLabel: "Tous les packs",
     sendLabel: "Vous lui donnez",
     getLabel: "Elle vous rend",

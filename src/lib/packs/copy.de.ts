@@ -23,7 +23,7 @@ export const packsDe: PacksCopy = {
     ctaLabel: "DeTars herunterladen →"
   },
   ui: {
-    statusLabels: { live: "Verfügbar", polishing: "Verfügbar · wird verfeinert", new: "Neu" },
+    statusLabels: { live: "Verfügbar", polishing: "Verfügbar · wird verfeinert", new: "Neu", coming: "Wird verfeinert · bald verfügbar" },
     backLabel: "Alle Packs",
     sendLabel: "Du gibst ihm",
     getLabel: "Es gibt dir zurück",

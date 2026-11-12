@@ -9,12 +9,13 @@
 //   live      — shipped in the app and worked on continuously.
 //   polishing — shipped and usable, with a load-bearing path still converging.
 //   new       — landed recently.
+//   coming    — still in polish and not released yet; the card stays visible.
 //
 // The badge is a signal for us, not a confession to the reader: pages no longer
 // carry a "where it stops" column, so development status never appears in the
 // copy itself.
 
-export type PackStatus = "live" | "polishing" | "new";
+export type PackStatus = "live" | "polishing" | "new" | "coming";
 
 export type PackKey =
   | "summon"
@@ -49,7 +50,7 @@ export const packs: PackMeta[] = [
   { key: "programming", slug: "coding", glyph: "⌘", hue: 22, status: "live" },
   { key: "data-studio", slug: "data-studio", glyph: "▦", hue: 190, status: "live" },
   { key: "talking-head", slug: "talking-head", glyph: "▤", hue: 340, status: "polishing" },
-  { key: "pet-care", slug: "pet-care", glyph: "❥", hue: 95, status: "live" }
+  { key: "pet-care", slug: "pet-care", glyph: "❥", hue: 95, status: "coming" }
 ];
 
 export const packBySlug = new Map(packs.map((p) => [p.slug, p]));

@@ -10,11 +10,12 @@ export const homeDe: HomeCopy = {
   heroSecondary: "Sieh, wie er für dich arbeitet",
   futureKicker: "Die Zukunft, an der wir arbeiten",
   futureH2: "Mehr auf deinem Gerät.<br>Mehr Möglichkeiten für dich.",
-  futureP: "Während Modelle leistungsfähiger werden und Rechenleistung zugänglicher wird, arbeiten wir auf ein DeTars hin, das mehr auf deinem eigenen Gerät erledigen kann — mit lokaler und cloudbasierter Intelligenz, die zusammenarbeiten, und deiner Privatsphäre im Mittelpunkt.",
+  futureP: "Wir haben unser eigenes Datenschutzmodell trainiert, und es läuft auf deinem Gerät: Mit aktiviertem Auto-Datenschutz werden Namen, Telefonnummern, Ausweisnummern und andere sensible Angaben auf deinem Rechner durch Platzhalter ersetzt, bevor etwas ein Cloud-Modell erreicht — und lokal wiederhergestellt, sobald die Ergebnisse zurückkommen. Ein lokales Modell erledigt außerdem echte Arbeit auf deinem Gerät und wird mit jedem Fortschritt der Modelle stärker. Während Rechenleistung zugänglicher wird, arbeiten wir auf ein DeTars hin, das mehr auf deinem eigenen Gerät erledigt — lokale und Cloud-Intelligenz tun jeweils, was sie am besten können, und deine Privatsphäre steht im Mittelpunkt.",
+  futureViz: { device: "Dein Gerät", privacy: "Datenschutzmodell · anonymisiert auf deinem Rechner", local: "Lokales Modell · erledigt die Arbeit, wird stärker", cloud: "Cloud-Modelle · welche du willst", wire: "nur Platzhalter gehen raus ⟦PERSON_1⟧" },
   proof: [
-    { n: "Stunden", l: "arbeitet unbeaufsichtigt · auch über Nacht" },
+    { n: "Tage", l: "eine Aufgabe kann tagelang laufen · Projekte gehen weiter" },
     { n: "Alle", l: "großen Modelle · jederzeit wechseln" },
-    { n: "Dein Gerät", l: "Ein Zuhause für deinen KI-Partner" }
+    { n: "Dein Gerät", l: "Ein Zuhause für dein KI-Team" }
   ],
   verify: "· Jede Aussage hier kannst du auf deinem eigenen Rechner überprüfen — keine Präsentationsrhetorik",
   hookKicker: "Warum jetzt",
@@ -24,14 +25,119 @@ export const homeDe: HomeCopy = {
   liveH2: "Du schickst eine Zeile. <span class='o'>Es kommt mit fertiger Arbeit zurück.</span>",
   steps: [
     { st: "Eingaben von überall", sd: "Telegram / Slack / Feishu — eine Zeile oder ein Foto (WeChat: nur Text)" },
-    { st: "Es arbeitet im Hintergrund", sd: "Stundenlang, auch die ganze Nacht — du musst nicht daneben sitzen" },
+    { st: "Es arbeitet im Hintergrund", sd: "Eine Aufgabe kann tagelang laufen; langfristige Projekte gehen weiter und melden sich mit Updates" },
     { st: "Es meldet sich bei dir", sd: "<b>Es ist für dich da — nicht umgekehrt.</b>" }
   ],
   scenarios: [
-    { av: "📷", pack: "Tierbetreuung", via: "Telegram", meta: "pack: pet-care", input: "Ein Foto von meinem Hund gemacht und rübergeschickt", work: "schneidet · schreibt Bildunterschriften", result: "✓ Lustiges Kurzvideo + Texte für Social Media fertig" },
-    { av: "💡", pack: "Investieren", via: "Slack", meta: "pack: equity · kein Broker, kein Order-Tool", input: "Einen Aktientipp gehört und nebenbei nachgefragt", work: "beobachtet · prüft Belege", result: "🔔 Meldet sich: ungewöhnliche Bewegung — reden wir darüber?" },
-    { av: "🎙️", pack: "Sprachvideo", via: "Feishu", meta: "pack: talking-head", input: "Unterwegs einen Clip direkt in die Kamera aufgenommen", work: "schneidet automatisch · erstellt Untertitel", result: "✓ Fertiger Schnitt exportiert — deine echte Stimme bleibt" },
-    { av: "🔍", pack: "Recherche", via: "WeChat", meta: "pack: research", input: "Etwas Interessantes gehört, eine Zeile geschickt", work: "recherchiert stundenlang · gleicht Quellen ab", result: "✓ Bericht mit Quellen + laufende Beobachtung" }
+    {
+      av: "🧭",
+      pack: "Stabschef",
+      via: "Slack",
+      meta: "Stabschef · behält jede Aufgabe im Blick",
+      input: "Behalt diese Projekte für mich im Auge. Sammle alles, was mich braucht.",
+      work: "betreut 4 Aufgaben · gleicht Abhängigkeiten ab · prüft Ergebnisse",
+      result: "<b>Die Übersicht für heute</b><br>✓ Recherchebericht geliefert, Quellen geprüft<br>⟳ Kurzfilm in Schnittfassung 2, fertig heute Abend<br>⚑ Investment-Review: 1 Entscheidung liegt bei dir",
+      story: "Je mehr Projekte du am Laufen hast, desto anstrengender wird es, den Überblick zu behalten. <b>Dein Stabschef koordiniert das ganze Team</b>: gibt neue Wünsche weiter, klärt Abhängigkeiten, prüft, was zurückkommt — und bringt dir nur die Ergebnisse und die Entscheidungen, die wirklich deine sind. Andere KIs warten, bis man sie fragt; diese behält für dich das große Ganze im Blick."
+    },
+    {
+      av: "💬",
+      pack: "Chat-Assistent",
+      via: "Telegram",
+      meta: "Chat · kennt deine Notizen und früheren Entscheidungen",
+      input: "Warum haben wir uns letztes Mal gegen diesen Lieferanten entschieden?",
+      work: "durchsucht deine Notizen und den Verlauf · sofort",
+      result: "Die Lieferung im März kam zwei Wochen zu spät, und du hast „nicht verlängern“ notiert — hier ist die Notiz.<br>Sollen 20 Fachleute aus Einkauf, Recht und Finanzen mit dir Alternativen durchspielen?",
+      story: "<b>Er wohnt direkt in Telegram oder Slack</b> — keine zusätzliche App nötig. Er antwortet schnell und erinnert sich an dich: deine Notizen, deine Projekte, deine Entscheidungen. Lust auf andere Blickwinkel? Hol dir Fachleute aus dem Agent Marketplace dazu, <b>Hunderte Rollen</b>, für ein Brainstorming mit dir. Alles Größere gibt er ans Team weiter."
+    },
+    {
+      av: "🔍",
+      pack: "Recherche",
+      via: "Telegram",
+      meta: "pack: research · jede Aussage mit Quelle",
+      input: "Ein Freund sagt, Anthropic geht an die Börse. Ist KI eine Blase?",
+      work: "liest den S-1 selbst · gleicht Roadshow und Prognosen ab",
+      result: "✓ Ein aufschlussreicher Recherchebericht:<br><b>Die Nachfrage ist echt; die Rendite lässt noch auf sich warten</b>",
+      story: "Aus einem Satz, den du nebenbei aufgeschnappt hast, folgt es der Spur bis zum Börsenprospekt, zur Roadshow und zu den Rohdaten, legt Belege und Streitpunkte offen und liefert einen Bericht, den du Quelle für Quelle hinterfragen kannst. <b>Dieser hier ist wirklich so entstanden</b> — lies selbst:",
+      link: { href: "/research/anthropic-ipo-ai-bubble-2026-11-11", label: "Lesen: Anthropics Börsengang und die KI-Blase (auf Englisch) →" }
+    },
+    {
+      av: "☾",
+      pack: "Beschwören",
+      via: "DeTars",
+      meta: "pack: summon · festgehalten im Moment deiner Wahl",
+      input: "Herr Geheimrat, ich werde mit nichts fertig. Wie haben Sie den Faust je beendet?",
+      work: "Johann Wolfgang von Goethe · Weimar, 1831",
+      result: "„Beendet? Sechzig Jahre habe ich daran geschrieben, und den zweiten Teil ließ ich versiegeln, damit mir keiner mehr hineinredet. Fertig wird nichts, junger Freund — man hört nur zur rechten Zeit auf. Und nun gehen Sie spazieren; das klärt mehr als jeder Schreibtisch.“",
+      story: "Hol dir jemanden aus einer Geschichte — oder aus der Geschichte — direkt zu dir. <b>Er bleibt in dem Moment, den du wählst</b>, mit seiner Vergangenheit, seiner Stimme und seinem Temperament. Heute sprichst du mit Goethe übers Fertigwerden, morgen mit Beethoven über schwere Zeiten.",
+      link: { href: "/de/packs/summon", label: "Beschwören entdecken →" }
+    },
+    {
+      av: "✷",
+      pack: "Schicksal",
+      via: "DeTars",
+      meta: "pack: destiny · das Observatorium",
+      input: "Ich hadere mit einem Jobwechsel. Ziehst du mir drei Karten?",
+      work: "mischt · Vergangenheit / Gegenwart / Zukunft",
+      result: "Schwerter Acht → Ritter der Stäbe → Der Stern<br>Der Käfig, der dich festhält, ist vor allem dein eigener. Schreib die echten Abwägungen auf, dann geh los.",
+      story: "Sag, wo du gerade stehst. Mit Karten, Horoskopen und Symbolen hilft es dir, die Verwirrung in Worte zu fassen, und bringt die Einsicht zurück ins echte Leben. <b>Tippe im Observatorium auf eine Karte, um in derselben Legung weiterzufragen.</b>",
+      link: { href: "/de/packs/destiny", label: "Zum Observatorium →" },
+      tarot: [{ pos: "Vergangenheit", name: "Schwerter Acht" }, { pos: "Gegenwart", name: "Ritter der Stäbe" }, { pos: "Zukunft", name: "Der Stern" }]
+    },
+    {
+      av: "▶",
+      pack: "KI-Video",
+      via: "Telegram",
+      meta: "pack: ai-video · Budget vor dem Generieren bestätigt",
+      input: "Mach ein 15-Sekunden-Weltraumabenteuer mit meiner Katze in der Hauptrolle",
+      work: "entwirft zwei visuelle Richtungen · Einstellung für Einstellung",
+      result: "✓ Zwei Richtungen zur Wahl: <b>Retro-Sci-Fi</b> / <b>handgezeichnetes Märchen</b><br>Wähl eine, dann wird Einstellung für Einstellung gerendert und als MP4 geliefert",
+      story: "Das Bild in deinem Kopf: Der Regisseur schlägt zuerst deutlich unterschiedliche visuelle Richtungen vor, und <b>du gibst erst Geld aus, wenn du dich entschieden hast</b>. „Behalt diese Stimmung“, „gleiche Figur, neue Bewegung“ — eine Zeile, und es ist geändert.",
+      link: { href: "/de/packs/ai-video", label: "KI-Video ansehen →" }
+    },
+    {
+      av: "◈",
+      pack: "Investieren",
+      via: "Slack",
+      meta: "pack: equity · kein Broker, kein Order-Tool",
+      input: "Jemand hat eine Aktie erwähnt — ich hab nebenbei gefragt",
+      work: "zerlegt deine These · beobachtet die Belege",
+      result: "🔔 Meldet sich von selbst: Die Quartalszahlen ändern deinen Grund Nr. 2. Reden wir?",
+      story: "Deine Gründe, die Gegenargumente und die Prüfpunkte an einem Ort. <b>Wenn Neuigkeiten kommen, fragt es zuerst: Welchen deiner Gründe ändert das?</b> Es hilft dir, klar zu denken, und rührt dein Konto nie an.",
+      link: { href: "/de/packs/investing", label: "Investieren ansehen →" }
+    },
+    {
+      av: "▦",
+      pack: "Data Studio",
+      via: "Slack",
+      meta: "pack: data-studio",
+      input: "(zieht eine Verkaufstabelle rein) Wo ist die Marge dieses Jahr am stärksten gefallen?",
+      work: "prüft Felder und Definitionen · schlüsselt nach Region und Produkt auf",
+      result: "✓ Region Ost · Hardware-Sparte −18 %<br>Dashboard fertig — klick auf eine Region und frag nach dem Warum",
+      story: "Tabelle reinziehen, eine Frage stellen, ein klickbares Dashboard zurückbekommen. <b>Vom Überblick ins Detail, von der Zahl zum Grund</b> — die Analyse läuft wie ein Gespräch.",
+      link: { href: "/de/packs/data-studio", label: "Data Studio ansehen →" }
+    },
+    {
+      av: "⌘",
+      pack: "Programmieren",
+      via: "Slack",
+      meta: "pack: coding",
+      input: "Hilf mir, den Login-Ablauf dieses Projekts zu verstehen. Wo lohnt sich ein Fix am meisten?",
+      work: "findet Schlüsseldateien · verfolgt Aufrufe",
+      result: "✓ Der Login-Pfad erstreckt sich über 3 Dateien<br>Der Fix, der sich am meisten lohnt, und was er berührt",
+      story: "Eine riesige, fremde Codebasis? <b>Es versteht, bevor es irgendetwas anfasst</b>: findet die Schlüsseldateien, verfolgt Definitionen und Aufrufe, erklärt Auswirkungen und Optionen — und ändert und prüft dann gemeinsam mit dir.",
+      link: { href: "/de/packs/coding", label: "Programmieren ansehen →" }
+    },
+    {
+      av: "🎙️",
+      pack: "Sprechvideo-Schnitt",
+      via: "Telegram",
+      meta: "pack: talking-head · deine echte Stimme bleibt",
+      input: "Unterwegs ein Sprechvideo gedreht — es geht um die Kostenentwicklung",
+      work: "kürzt Wiederholungen · korrigiert Untertitel · baut Datenkarten",
+      result: "✓ Komplette Vorschau fertig: deine Stimme bleibt, Kennzahlen als Datenkarten",
+      story: "Du hast etwas zu sagen; dafür solltest du nicht drei Tage im Schnitt verlieren. <b>Es ordnet die Erzählung, korrigiert Untertitel, fügt Diagramme hinzu</b> — du zeigst nur: „Diese Pause ist zu lang“, „dieser Satz ist wichtig“.",
+      link: { href: "/de/packs/talking-head", label: "Sprechvideo-Schnitt ansehen →" }
+    }
   ],
   phoneFoot: "Ein Muster: Eingabe → Arbeit im Hintergrund → Rückmeldung",
   corridorKicker: "Warum du ihm vertrauen kannst",

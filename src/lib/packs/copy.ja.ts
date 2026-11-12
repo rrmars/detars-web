@@ -34,7 +34,7 @@ export const packsJa: PacksCopy = {
   },
 
   ui: {
-    statusLabels: { live: "公開中", polishing: "公開中 · 磨き込み中", new: "最新" },
+    statusLabels: { live: "公開中", polishing: "公開中 · 磨き込み中", new: "最新", coming: "磨き込み中 · まもなく公開" },
     backLabel: "すべてのアプリ",
     sendLabel: "あなたが渡すもの",
     getLabel: "返ってくるもの",

@@ -45,7 +45,7 @@ export const packsEn: PacksCopy = {
   },
 
   ui: {
-    statusLabels: { live: "Live", polishing: "Live · in polish", new: "New" },
+    statusLabels: { live: "Live", polishing: "Live · in polish", new: "New", coming: "In polish · coming soon" },
     backLabel: "All packs",
     sendLabel: "You hand it",
     getLabel: "It hands back",

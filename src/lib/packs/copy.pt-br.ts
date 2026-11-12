@@ -23,7 +23,7 @@ export const packsPtBr: PacksCopy = {
     ctaLabel: "Baixe o DeTars →"
   },
   ui: {
-    statusLabels: { live: "Disponível", polishing: "Disponível · em aprimoramento", new: "Novo" },
+    statusLabels: { live: "Disponível", polishing: "Disponível · em aprimoramento", new: "Novo", coming: "Em aprimoramento · em breve" },
     backLabel: "Todos os packs",
     sendLabel: "Você entrega",
     getLabel: "Ele devolve",

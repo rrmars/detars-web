@@ -20,9 +20,11 @@ test('all nine home translations carry explicit future-direction copy without al
   }
   assert.equal(count, 9);
   const component = read('src/components/Home.astro');
-  assert.ok(component.indexOf('id="future"') > component.indexOf('<!-- HERO -->'));
-  assert.ok(component.indexOf('id="future"') < component.indexOf('<!-- HOOK -->'));
-  for (const key of ['futureKicker', 'futureH2', 'futureP']) assert.ok(component.includes(`t.${key}`));
+  assert.ok(component.indexOf('<HomeFuture') > component.indexOf('<!-- HERO -->'));
+  assert.ok(component.indexOf('<HomeFuture') < component.indexOf('<!-- HOOK -->'));
+  const future = read('src/components/HomeFuture.astro');
+  assert.ok(future.includes('id="future"'));
+  for (const key of ['futureKicker', 'futureH2', 'futureP', 'futureViz']) assert.ok(future.includes(`t.${key}`));
   const en = read('src/lib/home-copy.ts');
   assert.ok(en.includes('AI for everyone?<br>'));
   assert.ok(en.includes('This one’s for you.'));
@@ -57,4 +59,23 @@ test('home closing and footers are on your side while permanent-terminal positio
   for (const text of ['AI di pihak Anda.', 'AI luôn đứng về phía bạn.', 'AI ที่อยู่ข้างคุณ']) {
     assert.ok(scenario.includes(`tagline: ${JSON.stringify(text)}`));
   }
+});
+
+test('home scenarios cover the packs, chief of staff and chat in every locale; pet care stays off the home showcase', () => {
+  for (const file of files) {
+    const source = read(file);
+    const entries = file.endsWith('home-copy.ts') ? 2 : 1;
+    assert.equal([...source.matchAll(/^  futureViz: \{/gm)].length, entries, `${file}: futureViz`);
+    const blocks = [...source.matchAll(/^  scenarios: \[\n([\s\S]*?)\n  \],$/gm)].map(m => m[1]);
+    assert.equal(blocks.length, entries, `${file}: scenarios`);
+    for (const block of blocks) {
+      assert.equal([...block.matchAll(/^      story: /gm)].length, 10, `${file}: 10 scenarios`);
+      assert.ok(!block.includes('pet-care'), `${file}: pet care not in home showcase`);
+      assert.ok(block.includes('anthropic-ipo-ai-bubble-2026-11-11'), `${file}: research link`);
+      assert.equal([...block.matchAll(/^      tarot: \[/gm)].length, 1, `${file}: one tarot draw`);
+    }
+    assert.ok(!/Hours|几小时|幾小時/.test(source.split('proof:')[1].split('],')[0]), `${file}: proof says days`);
+  }
+  const catalog = read('src/lib/packs/catalog.ts');
+  assert.ok(catalog.includes('slug: "pet-care", glyph: "❥", hue: 95, status: "coming"'));
 });

@@ -10,11 +10,12 @@ export const homeEs: HomeCopy = {
   heroSecondary: "Mira cómo trabaja para ti",
   futureKicker: "El futuro que estamos construyendo",
   futureH2: "Más en tu dispositivo.<br>Más posibilidades para ti.",
-  futureP: "A medida que los modelos mejoran y la potencia de cálculo se hace más accesible, queremos que DeTars pueda hacer más en tu propio dispositivo, con la IA local y la nube colaborando y tu privacidad en el centro.",
+  futureP: "Entrenamos nuestro propio modelo de privacidad, y funciona en tu dispositivo: con la Privacidad automática activada, nombres, teléfonos, documentos de identidad y otros datos sensibles se convierten en marcadores en tu equipo antes de llegar a cualquier modelo en la nube, y se restauran localmente cuando vuelven los resultados. Un modelo local también hace trabajo real en tu dispositivo, y se vuelve más capaz a medida que los modelos mejoran. A medida que la potencia de cálculo se hace más accesible, trabajamos hacia un DeTars que haga más en tu propio dispositivo, donde la IA local y la nube hagan cada una lo que mejor saben hacer, con tu privacidad en el centro.",
+  futureViz: { device: "Tu dispositivo", privacy: "Modelo de privacidad · anonimiza en tu equipo", local: "Modelo local · hace el trabajo, cada vez más capaz", cloud: "Modelos en la nube · los que elijas", wire: "solo salen marcadores ⟦PERSONA_1⟧" },
   proof: [
-    { n: "Horas", l: "sin vigilancia · incluso toda la noche" },
+    { n: "Días", l: "una tarea puede durar días · los proyectos siguen avanzando" },
     { n: "Todos", l: "los modelos principales · cambia cuando quieras" },
-    { n: "Tu dispositivo", l: "Un hogar para tu compañera de IA" }
+    { n: "Tu dispositivo", l: "Un hogar para tu equipo de IA" }
   ],
   verify: "· Todo lo que se afirma aquí puedes comprobarlo en tu propia máquina — no es retórica de presentación",
   hookKicker: "Por qué ahora",
@@ -25,14 +26,119 @@ export const homeEs: HomeCopy = {
   liveH2: "Le mandas una línea. <span class='o'>Vuelve con el trabajo hecho.</span>",
   steps: [
     { st: "Entrada desde cualquier sitio", sd: "Telegram / Slack / Feishu — una línea o una foto (WeChat: solo texto)" },
-    { st: "Trabaja en segundo plano", sd: "Horas, incluso toda la noche — sin que la vigiles" },
+    { st: "Trabaja en segundo plano", sd: "Una tarea puede durar días; los proyectos a largo plazo siguen avanzando y te van informando" },
     { st: "Vuelve a ti", sd: "<b>Vive por ti, no al revés.</b>" }
   ],
   scenarios: [
-    { av: "📷", pack: "Cuidado de mascotas", via: "Telegram", meta: "pack: pet-care", input: "Hice una foto a mi perro y se la envié", work: "edición · redacción de textos", result: "✓ Vídeo corto divertido + textos para redes listos" },
-    { av: "💡", pack: "Inversión", via: "Slack", meta: "pack: equity · sin bróker, sin herramienta de órdenes", input: "Oí un dato sobre una acción y pregunté de pasada", work: "seguimiento · verificación de evidencias", result: "🔔 Volvió: movimiento inusual — ¿lo hablamos?" },
-    { av: "🎙️", pack: "Locución", via: "Feishu", meta: "pack: talking-head", input: "Grabé un clip a cámara sobre la marcha", work: "edición automática · subtítulos", result: "✓ Montaje final exportado — con tu voz real" },
-    { av: "🔍", pack: "Investigación", via: "WeChat", meta: "pack: research", input: "Oí algo interesante y le solté una línea", work: "indagando durante horas · contrastando", result: "✓ Informe con fuentes + seguimiento continuo" }
+    {
+      av: "🧭",
+      pack: "Jefe de gabinete",
+      via: "Slack",
+      meta: "jefe de gabinete · pendiente de cada tarea",
+      input: "Vigílame estos proyectos. Junta todo lo que necesite de mí.",
+      work: "atiende 4 tareas · sincroniza dependencias · revisa entregables",
+      result: "<b>Resumen de hoy</b><br>✓ Informe de investigación entregado, fuentes verificadas<br>⟳ Cortometraje en su 2.ª versión, listo esta noche<br>⚑ Revisión de inversiones: 1 decisión es tuya",
+      story: "Cuantos más proyectos llevas, más agota seguirles la pista. <b>Tu jefe de gabinete coordina a todo el equipo</b>: transmite los nuevos encargos, ordena las dependencias, revisa lo que llega y te trae solo los resultados y las decisiones que de verdad te tocan. Otras IA esperan a que les preguntes; esta mantiene la visión de conjunto por ti."
+    },
+    {
+      av: "💬",
+      pack: "Asistente de chat",
+      via: "WhatsApp",
+      meta: "chat · recuerda tus notas y decisiones pasadas",
+      input: "¿Por qué no elegimos a ese proveedor la última vez?",
+      work: "buscando en tus notas e historial · al instante",
+      result: "Su entrega de marzo se retrasó dos semanas y anotaste «no renovar»: aquí está la nota.<br>¿Quieres que 20 expertos en compras, legal y finanzas piensen alternativas contigo?",
+      story: "<b>Vive dentro de WhatsApp, Telegram o Slack</b>: no hace falta abrir otra app. Responde rápido y te recuerda: tus notas, tus proyectos, las decisiones que tomaste. ¿Quieres otros puntos de vista? Trae expertos del Agent Marketplace, <b>cientos de perfiles</b>, para pensar contigo. Lo que sea más grande, se lo pasa al equipo."
+    },
+    {
+      av: "🔍",
+      pack: "Investigación",
+      via: "WhatsApp",
+      meta: "pack: research · cada afirmación con su fuente",
+      input: "Un amigo dice que Anthropic va a salir a bolsa. ¿La IA es una burbuja?",
+      work: "lee el propio S-1 · contrasta el roadshow y las previsiones",
+      result: "✓ Un informe de investigación revelador:<br><b>la demanda es real; la rentabilidad aún no cierra el círculo</b>",
+      story: "De una frase oída de pasada, sigue la pista hasta el folleto de salida a bolsa, el roadshow y los datos en bruto, expone las pruebas y los desacuerdos, y te entrega un informe que puedes cuestionar fuente por fuente. <b>Este se hizo de verdad así</b>; léelo:",
+      link: { href: "/research/anthropic-ipo-ai-bubble-2026-11-11", label: "Leer: la salida a bolsa de Anthropic y la burbuja de la IA (en inglés) →" }
+    },
+    {
+      av: "☾",
+      pack: "Invocación",
+      via: "DeTars",
+      meta: "pack: summon · detenido en el momento que elijas",
+      input: "Don Quijote, mi jefe dice que mis proyectos son molinos de viento.",
+      work: "Don Quijote de la Mancha · La Mancha, 1605",
+      result: "«¿Molinos? Eso dicen siempre los que nunca han visto un gigante. Mas no os fiéis del todo, amigo, que uno de esos me dejó molido. Embestid si el corazón os lo pide, pero llevad a vuestro Sancho al lado: él sí distingue el uno del otro.»",
+      story: "Trae a tu lado a alguien de una novela, o de la historia. <b>Se queda en el momento que elijas</b>, con su pasado, su voz y su carácter. Hoy, cabalga contra gigantes con don Quijote; mañana, habla de tiempos difíciles con sor Juana Inés de la Cruz.",
+      link: { href: "/es/packs/summon", label: "Conoce Invocación →" }
+    },
+    {
+      av: "✷",
+      pack: "Destino",
+      via: "DeTars",
+      meta: "pack: destiny · el observatorio",
+      input: "Dudo si cambiar de trabajo. ¿Me sacas tres cartas?",
+      work: "barajando · pasado / presente / futuro",
+      result: "Ocho de Espadas → Caballero de Bastos → La Estrella<br>La jaula que te retiene es, sobre todo, tuya. Apunta lo que de verdad ganas y pierdes, y muévete.",
+      story: "Cuenta dónde estás ahora mismo. Con el tarot, la carta astral y los símbolos te ayuda a poner en palabras la confusión, y luego devuelve la intuición a la vida real. <b>Toca una carta en el observatorio para seguir preguntando dentro de la misma tirada.</b>",
+      link: { href: "/es/packs/destiny", label: "Visita el observatorio →" },
+      tarot: [{ pos: "Pasado", name: "Ocho de Espadas" }, { pos: "Presente", name: "Caballero de Bastos" }, { pos: "Futuro", name: "La Estrella" }]
+    },
+    {
+      av: "▶",
+      pack: "Vídeo con IA",
+      via: "WhatsApp",
+      meta: "pack: ai-video · presupuesto confirmado antes de generar",
+      input: "Haz un vídeo de 15 segundos con mi gato de aventura espacial",
+      work: "propone dos direcciones visuales · plano a plano",
+      result: "✓ Dos direcciones para elegir: <b>ciencia ficción retro</b> / <b>cuento dibujado a mano</b><br>Elige una y se genera plano a plano, entregado en MP4",
+      story: "Esa imagen que tienes en la cabeza: el director te propone primero direcciones visuales claramente distintas, y <b>solo gastas cuando ya has elegido una</b>. «Mantén este ambiente», «mismo personaje, otro movimiento»: una línea y está cambiado.",
+      link: { href: "/es/packs/ai-video", label: "Ver Vídeo con IA →" }
+    },
+    {
+      av: "◈",
+      pack: "Inversión",
+      via: "Slack",
+      meta: "pack: equity · sin bróker, sin herramienta de órdenes",
+      input: "Alguien mencionó una acción y pregunté de pasada",
+      work: "desgrana tu tesis · vigila las pruebas",
+      result: "🔔 Volvió por su cuenta: los resultados cambian tu razón n.º 2. ¿Lo hablamos?",
+      story: "Tus razones, los contraargumentos y los puntos de control, todo en un mismo sitio. <b>Cuando llega una noticia, primero pregunta: ¿cuál de tus razones cambia esto?</b> Te ayuda a pensar con claridad y nunca toca tu cuenta.",
+      link: { href: "/es/packs/investing", label: "Ver Inversión →" }
+    },
+    {
+      av: "▦",
+      pack: "Taller de datos",
+      via: "Slack",
+      meta: "pack: data-studio",
+      input: "(suelta una hoja de ventas) ¿Dónde cayó más el margen este año?",
+      work: "revisa campos y definiciones · desglosa por región y producto",
+      result: "✓ Región Este · línea de hardware −18 %<br>Panel listo: haz clic en una región para preguntar por qué",
+      story: "Suelta una hoja de cálculo, haz una pregunta y recibe un panel en el que puedes hacer clic. <b>Del panorama al detalle, del número a la causa</b>: el análisis avanza como una conversación.",
+      link: { href: "/es/packs/data-studio", label: "Ver Taller de datos →" }
+    },
+    {
+      av: "⌘",
+      pack: "Programación",
+      via: "Slack",
+      meta: "pack: coding",
+      input: "Ayúdame a entender el flujo de inicio de sesión de este proyecto. ¿Qué vale más la pena arreglar?",
+      work: "localiza archivos clave · rastrea llamadas",
+      result: "✓ El flujo de inicio de sesión abarca 3 archivos<br>El arreglo que más vale la pena, y a qué afecta",
+      story: "¿Un código enorme y desconocido? <b>Lo entiende antes de tocar nada</b>: encuentra los archivos clave, rastrea definiciones y llamadas, explica el impacto y las opciones, y luego cambia y verifica contigo.",
+      link: { href: "/es/packs/coding", label: "Ver Programación →" }
+    },
+    {
+      av: "🎙️",
+      pack: "Edición de locución",
+      via: "WhatsApp",
+      meta: "pack: talking-head · se conserva tu voz real",
+      input: "Grabé un clip a cámara sobre la marcha; habla de cómo han cambiado los costes",
+      work: "recorta repeticiones · corrige subtítulos · crea tarjetas de datos",
+      result: "✓ Vista previa completa lista: tu voz intacta y las cifras clave en tarjetas de datos",
+      story: "Tienes algo que decir; no deberías perder tres días editando. <b>Reestructura el relato, corrige los subtítulos y añade gráficos</b>; tú solo señalas: «esta pausa es demasiado larga», «esta frase importa».",
+      link: { href: "/es/packs/talking-head", label: "Ver Edición de locución →" }
+    }
   ],
   phoneFoot: "Un solo motivo: entrada → trabaja en segundo plano → vuelve",
   corridorKicker: "Por qué puedes confiar en ella",

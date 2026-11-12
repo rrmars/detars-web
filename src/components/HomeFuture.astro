@@ -1,0 +1,102 @@
+---
+// "The future we're building": copy on the left, a small living diagram on the
+// right — cloud models above, your device below, and between them a wire that
+// only ever carries placeholders. Pure HTML/CSS; motion is opt-in via html.motion.
+import type { HomeCopy } from "@/lib/home-copy";
+
+type Props = { t: HomeCopy };
+const { t } = Astro.props;
+const v = t.futureViz;
+---
+
+<section class="band shell future" id="future">
+  <div class="fu-copy reveal">
+    <span class="kicker">{t.futureKicker}</span>
+    <h2 set:html={t.futureH2} />
+    <p>{t.futureP}</p>
+  </div>
+
+  <div class="fv reveal" aria-hidden="true">
+    <div class="fv-cloud">
+      <span class="orb o1"></span><span class="orb o2"></span><span class="orb o3"></span>
+      <span class="fv-tag">{v.cloud}</span>
+    </div>
+
+    <div class="fv-wire">
+      <span class="line"></span>
+      <span class="pkt"></span>
+      <em>{v.wire}</em>
+    </div>
+
+    <div class="fv-device">
+      <div class="fv-node privacy">
+        <span class="ic">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5.5c0 4.3-3 8-7 9.5-4-1.5-7-5.2-7-9.5V6z" /><path d="M9 12l2 2 4-4" /></svg>
+          <span class="ring"></span>
+        </span>
+        <span class="nm">{v.privacy}</span>
+      </div>
+      <div class="fv-node local">
+        <span class="ic">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><rect x="6" y="6" width="12" height="12" rx="2.5" /><path d="M9 2.5v3M15 2.5v3M9 18.5v3M15 18.5v3M2.5 9h3M2.5 15h3M18.5 9h3M18.5 15h3" /></svg>
+        </span>
+        <span class="nm">{v.local}</span>
+        <span class="meter"><i></i><i></i><i></i><i></i><i></i></span>
+      </div>
+      <span class="fv-label">{v.device}</span>
+    </div>
+  </div>
+</section>
+
+<style>
+  .future { display: grid; grid-template-columns: 1.05fr 1fr; gap: 64px; align-items: center; }
+  .fu-copy h2 { font-weight: 700; font-size: clamp(30px, 4vw, 52px); line-height: 1.18; letter-spacing: -0.02em; max-width: 18ch; margin: 22px 0 0; }
+  .fu-copy p { margin: 24px 0 0; max-width: 46ch; font-size: 17px; line-height: 1.75; color: var(--muted); }
+
+  .fv { position: relative; display: flex; flex-direction: column; align-items: center; padding: 8px 0; }
+  .fv-cloud { position: relative; width: 210px; height: 92px; display: flex; align-items: center; justify-content: center; }
+  .orb { position: absolute; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.16); background: radial-gradient(circle at 35% 30%, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.02) 70%); }
+  .o1 { width: 74px; height: 74px; left: 22px; top: 10px; }
+  .o2 { width: 92px; height: 92px; left: 62px; top: 0; }
+  .o3 { width: 64px; height: 64px; left: 124px; top: 16px; }
+  .fv-tag { position: relative; font-size: 12.5px; color: var(--muted); white-space: nowrap; top: 62px; }
+
+  .fv-wire { position: relative; height: 128px; width: 100%; display: flex; justify-content: center; margin-top: 26px; }
+  .fv-wire .line { width: 1px; height: 100%; background: repeating-linear-gradient(180deg, rgba(255, 178, 122, 0.55) 0 5px, transparent 5px 11px); }
+  .fv-wire .pkt { position: absolute; left: 50%; bottom: 0; width: 9px; height: 9px; margin-left: -4.5px; border-radius: 50%; background: var(--accent2); box-shadow: 0 0 14px var(--accent); }
+  .fv-wire em { position: absolute; left: calc(50% + 16px); top: 50%; transform: translateY(-50%); font-style: normal; font-family: var(--mono); font-size: 11.5px; color: var(--accent2); background: rgba(255, 106, 61, 0.08); border: 1px solid rgba(255, 106, 61, 0.28); border-radius: 8px; padding: 5px 9px; white-space: nowrap; }
+
+  .fv-device { position: relative; width: min(100%, 440px); display: grid; grid-template-columns: 1fr 1fr; gap: 14px; padding: 22px 18px 40px; border: 1px solid var(--line2); border-radius: 22px; background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.012)); box-shadow: 0 36px 80px rgba(0, 0, 0, 0.5), inset 0 0 60px rgba(255, 106, 61, 0.05); }
+  .fv-label { position: absolute; left: 0; right: 0; bottom: 13px; text-align: center; font-family: var(--sg); font-size: 12px; letter-spacing: 0.08em; color: var(--faint); text-transform: uppercase; }
+  .fv-node { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 18px 12px 16px; border: 1px solid var(--line); border-radius: 16px; background: rgba(0, 0, 0, 0.25); text-align: center; }
+  .fv-node .nm { font-size: 13px; line-height: 1.45; color: var(--text); }
+  .fv-node .ic { position: relative; width: 50px; height: 50px; border-radius: 14px; display: grid; place-items: center; color: var(--accent2); background: rgba(255, 106, 61, 0.1); border: 1px solid rgba(255, 106, 61, 0.3); }
+  .fv-node .ic svg { width: 24px; height: 24px; }
+  .privacy .ring { position: absolute; inset: -7px; border-radius: 18px; border: 1px dashed rgba(70, 211, 154, 0.55); }
+  .privacy .ic { color: var(--green); background: rgba(70, 211, 154, 0.08); border-color: rgba(70, 211, 154, 0.3); }
+  .meter { display: flex; gap: 4px; align-items: flex-end; height: 18px; }
+  .meter i { width: 6px; border-radius: 2px; background: var(--accent2); opacity: 0.85; }
+  .meter i:nth-child(1) { height: 5px; } .meter i:nth-child(2) { height: 8px; } .meter i:nth-child(3) { height: 11px; }
+  .meter i:nth-child(4) { height: 14px; opacity: 0.5; } .meter i:nth-child(5) { height: 18px; opacity: 0.25; }
+
+  html.motion .fv-wire .pkt { animation: fv-up 2.8s cubic-bezier(0.5, 0, 0.3, 1) infinite; }
+  html.motion .privacy .ring { animation: fv-spin 14s linear infinite; }
+  html.motion .meter i:nth-child(4), html.motion .meter i:nth-child(5) { animation: fv-grow 3.2s ease-in-out infinite; }
+  html.motion .meter i:nth-child(5) { animation-delay: 0.5s; }
+  html.motion .orb { animation: fv-float 7s ease-in-out infinite; }
+  html.motion .o2 { animation-delay: -2.3s; } html.motion .o3 { animation-delay: -4.6s; }
+  @keyframes fv-up { 0% { bottom: 0; opacity: 0; } 12% { opacity: 1; } 88% { opacity: 1; } 100% { bottom: calc(100% - 9px); opacity: 0; } }
+  @keyframes fv-spin { to { transform: rotate(360deg); } }
+  @keyframes fv-grow { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.95; } }
+  @keyframes fv-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+  @media (prefers-reduced-motion: reduce) { .fv * { animation: none !important; } }
+
+  @media (max-width: 1180px) {
+    .fv-wire em { left: 50%; transform: translate(-50%, -50%); background: #1a0f0a; max-width: 92%; white-space: normal; text-align: center; }
+  }
+
+  @media (max-width: 860px) {
+    .future { grid-template-columns: 1fr; gap: 44px; }
+    .fv-wire { height: 104px; }
+  }
+</style>
