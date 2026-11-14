@@ -30,7 +30,7 @@
 //     https://github.com/rrmars/detars-releases/releases/latest/download/DeTars-mac-arm64.dmg
 
 export const availability = {
-  macArm: false,
+  macArm: true,
   macIntel: false,
   win: false
 } as const;
