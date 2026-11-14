@@ -103,7 +103,7 @@ export const packsPtBr: PacksCopy = {
     aivideo: {
       name: "Vídeo com IA",
       tagline: "A imagem na sua cabeça — deixe uma plateia vê-la antes de pagar",
-      metaTitle: "Vídeo com IA | Deixe uma plateia avaliar sem contexto antes de pagar pela geração",
+      metaTitle: "Vídeo com IA | Teste com uma plateia antes de pagar a geração",
       metaDescription: "Alguns espectadores avaliam suas propostas sem contexto, separadamente, e contam o que realmente viram e onde interpretariam errado. Tudo antes de você gastar o primeiro centavo.",
       h1: "A imagem na sua cabeça — <span class='o'>deixe uma plateia vê-la antes de pagar.</span>",
       answer: "Crie o que quiser. Dê uma ideia e ele apresenta várias formas realmente diferentes de contá-la — não só outras palavras, mas outra ordem de chegada das coisas, outras inferências do público, outras emoções. Depois reúne alguns “espectadores”, cada um sozinho, que contam apenas com base em imagem e som: foi isso que vi, foi isso que achei que você quis dizer, é aqui que eu provavelmente entenderia errado. Tudo isso acontece antes de você gastar o primeiro centavo — porque o erro caro não é uma renderização que falhou, é descobrir que a história foi mal compreendida depois que o dinheiro já foi.",
@@ -136,7 +136,7 @@ export const packsPtBr: PacksCopy = {
     equity: {
       name: "Investimentos",
       tagline: "Você viu a oportunidade chegar. Só não conseguiu mantê-la",
-      metaTitle: "Investimentos | Você viu a oportunidade chegar. Só não conseguiu mantê-la",
+      metaTitle: "Investimentos | Você viu a oportunidade chegar. Agora segure",
       metaDescription: "Um parceiro com memória melhor e cabeça mais fria que a sua: mantém o fio da ideia, faz você seguir as regras que escreveu e, no dia em que está prestes a quebrar uma, impede.",
       h1: "Você viu a oportunidade chegar. <span class='o'>Só não conseguiu mantê-la.</span>",
       answer: "Grandes oportunidades levam trimestres para crescer. Uma tecnologia sai do laboratório, uma política entra em vigor, uma cadeia de suprimentos muda de rumo — e, em algum ponto, você esquece, duvida, vende no pior dia possível. O que faltava nunca foi mais uma fonte de informação. Era um parceiro com memória melhor e cabeça mais fria que a sua: ele mantém o fio da ideia, guarda as regras que você escreveu para si e, no dia em que está prestes a quebrar uma, impede.",
@@ -200,7 +200,7 @@ export const packsPtBr: PacksCopy = {
     programming: {
       name: "Programação",
       tagline: "Um código-fonte enorme e desconhecido — ele entende antes de tocar",
-      metaTitle: "Programação | Um código-fonte enorme e desconhecido — entendido antes de ser alterado",
+      metaTitle: "Programação | Um código enorme, entendido antes de mexer",
       metaDescription: "Milhões de linhas organizadas em um só mapa, em milissegundos. O que exige vinte idas e vindas de outro agente, ele costuma responder em uma. E você nunca configura uma linguagem.",
       h1: "Um código-fonte enorme e desconhecido — <span class='o'>ele entende antes de tocar.</span>",
       answer: "Assumir um projeto que você não conhece ou voltar ao repositório que não abre há três meses — a parte cansativa nunca foi escrever. É descobrir o que está acontecendo ali. Milhões de linhas se organizam diante dele em um só mapa, em milissegundos. Então você pergunta “quem usa isto?” — onde outro agente vai e volta vinte vezes, ele geralmente aponta direto, atravessando quantos pacotes forem necessários, sem deixar nada passar. Na primeira vez que uma linguagem nova aparece no projeto, você não configura nada. O que poupa não são alguns minutos. É a tarde que teria passado sem sair do lugar.",
@@ -232,7 +232,7 @@ export const packsPtBr: PacksCopy = {
     "data-studio": {
       name: "Data Studio",
       tagline: "Arraste as planilhas, faça uma pergunta, receba um gráfico clicável",
-      metaTitle: "Data Studio | Você não deveria precisar virar analista para fazer uma pergunta aos seus dados",
+      metaTitle: "Data Studio | Pergunte aos seus dados sem virar analista",
       metaDescription: "Arraste as tabelas e ele as armazena e lê; faça uma pergunta e receba um gráfico que pode filtrar e explorar. Vá mais fundo quando quiser — SQL, modelos, Excel, ele cuida de tudo.",
       h1: "Você não deveria precisar virar analista <span class='o'>para fazer uma pergunta aos seus próprios dados.</span>",
       answer: "A tabela está ali e a pergunta também — com um ambiente, um banco de dados, uma importação, um pouco de SQL e um gráfico no meio. Quando você termina tudo isso, a pergunta geralmente já não importa. Nada disso existe aqui. Arraste as tabelas e ele as armazena e lê; faça uma pergunta e volta um gráfico em que pode clicar, filtrar e explorar os detalhes. Quer ir uma camada mais fundo, vá — SQL, aprendizado de máquina, Excel, ele cuida de tudo.",
@@ -265,7 +265,7 @@ export const packsPtBr: PacksCopy = {
     "talking-head": {
       name: "Edição de vídeos falados",
       tagline: "Você tem algo a dizer. Isso não deveria custar três dias",
-      metaTitle: "Vídeo falado | Você tem algo a dizer. Isso não deveria custar três dias",
+      metaTitle: "Vídeo falado | Você tem algo a dizer, sem gastar três dias",
       metaDescription: "Ele cuida das etapas tediosas: o roteiro e suas fontes chegam de uma vez e, depois de gravar, editar o texto é editar o vídeo. Sua própria voz, do começo ao fim.",
       h1: "Você tem algo a dizer. <span class='o'>Isso não deveria custar três dias.</span>",
       answer: "Escolher o tema, buscar material, escrever, gravar, cortar, legendar — cada etapa já basta para desanimar, e assim muita coisa que as pessoas queriam dizer nunca foi dita. Ele leva as partes tediosas por você: o roteiro e suas fontes chegam de uma vez; você entrega a gravação, e editar o texto é editar o vídeo — apague uma frase e a edição fica uma frase mais curta. Você só fala. Ele cuida do resto. E, do começo ao fim, é a sua própria voz.",
@@ -298,7 +298,7 @@ export const packsPtBr: PacksCopy = {
     "pet-care": {
       name: "Cuidados com pets",
       tagline: "Eles não podem contar. Você só pode adivinhar — a menos que alguém acompanhe",
-      metaTitle: "Cuidados com pets | Eles não podem contar. Você só pode adivinhar — a menos que alguém acompanhe",
+      metaTitle: "Cuidados com pets | Alguém acompanha o seu pet por você",
       metaDescription: "Ele preocupa você quando há motivo e deixa descansar quando não há. Antes da consulta, as perguntas que valem a pena já estão prontas. Anos depois, existe uma história para revisitar.",
       h1: "Eles não podem contar. <span class='o'>Você só pode adivinhar — a menos que alguém acompanhe.</span>",
       answer: "As vacinas e a vermifugação dos primeiros anos, o peso, os dentes e o apetite dos anos seguintes, e as mudanças na velhice que começam sutis e só depois se revelam importantes — tudo numa linha do tempo. Ele preocupa você quando há motivo e deixa descansar quando não há. Antes de uma consulta, já tem prontas as perguntas que realmente valem a pena, para que seus dez minutos com o veterinário não sejam gastos tentando lembrar. E o pouco que ele registra todo mês continua ali no dia em que você quiser relembrar.",

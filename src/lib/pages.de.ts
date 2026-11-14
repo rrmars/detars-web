@@ -30,7 +30,7 @@ export const pagesDe: Record<PageKey, PageContent> = {
       {
         h2: "Vier Wege, wie Menschen es bereits nutzen",
         blocks: [{ type: "cards", items: [
-          { tag: "Tierbetreuung", title: "📷 Ein Foto von deinem Hund", body: "Schick einen Schnappschuss; erhalte ein lustiges Kurzvideo mit veröffentlichungsfertigen Texten." },
+          { tag: "Beschwören", title: "🕯️ Eine Person, die du gern fragen würdest", body: "Nenne eine historische Figur; sie spricht mit dir in ihrer eigenen Stimme und bleibt in der Rolle." },
           { tag: "Investieren", title: "💡 Eine Aktie, von der du gehört hast", body: "Erwähne sie einmal; es beobachtet sie weiter und meldet sich, wenn sich etwas bewegt. Es hat weder eine Broker-Anbindung noch ein Order-Tool." },
           { tag: "Sprachvideo", title: "🎙️ Ein Clip direkt in die Kamera", body: "Unterwegs aufnehmen; einen geschnittenen Clip mit Untertiteln erhalten — deine echte Stimme bleibt, statt durch Sprachsynthese ersetzt zu werden." },
           { tag: "Recherche", title: "🔍 Etwas, das du aufgeschnappt hast", body: "Eine Zeile; ein Bericht mit Quellen und laufende Beobachtung des Themas." }
@@ -144,9 +144,9 @@ export const pagesDe: Record<PageKey, PageContent> = {
     h1: "Beweis für <span class='o'>Fortschritt.</span>",
     answer: "Ein kurzes, ehrliches Änderungsprotokoll. Wir halten es aktuell, damit du — und Such- und KI-Systeme — stets aktuelle Fakten seht.",
     sections: [{ h2: "Zuletzt", blocks: [{ type: "list", items: [
-      "<b>2026-06 · Tierbetreuung verfügbar.</b> OCR für Unterlagen, 36 belegte gesundheitliche Warnschwellen, Wachstumstagebuch + Monatsbericht.",
+      "<b>Tierbetreuung · wird verfeinert.</b> OCR für Unterlagen, 36 belegte gesundheitliche Warnschwellen, Wachstumstagebuch + Monatsbericht; verfügbar, sobald es fertig ist.",
       "<b>2026-06 · Investieren verfügbar.</b> Belegprüfungen, Prüfung auf veränderte Argumentationsgrundlagen, Entscheidungshistorie; keine Broker-Anbindung, kein Order-Tool.",
-      "<b>Jetzt.</b> Acht Packs haben eine eigene Seite — Investieren, Schicksal, Recherche, Programmieren, Videoschnitt für Sprechvideos, KI-Video, Beschwören, Tierbetreuung — und jede Seite endet damit, was das Pack nicht kann."
+      "<b>Jetzt.</b> Acht Packs haben eine eigene Seite — Investieren, Schicksal, Recherche, Programmieren, Videoschnitt für Sprechvideos, KI-Video, Beschwören, Tierbetreuung (bald verfügbar) — und jede Seite endet damit, was das Pack nicht kann."
     ] }] }]
   },
   research: {

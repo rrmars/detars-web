@@ -45,7 +45,7 @@ export const pagesEs: Record<PageKey, PageContent> = {
           {
             type: "cards",
             items: [
-              { tag: "Cuidado de mascotas", title: "📷 Una foto de tu perro", body: "Envía una instantánea; recibe un vídeo corto divertido más textos listos para publicar." },
+              { tag: "Invocación", title: "🕯️ Alguien de la historia a quien preguntar", body: "Nombra a una figura histórica; te habla con su propia voz y no sale del personaje." },
               { tag: "Inversión", title: "💡 Una acción de la que oíste hablar", body: "Menciónala una vez; sigue vigilando y vuelve cuando algo se mueve. No hay ningún bróker conectado ni herramienta para enviar órdenes." },
               { tag: "Locución", title: "🎙️ Un clip a cámara", body: "Graba sobre la marcha; recibe un montaje con subtítulos — con tu voz real, no reemplazada por TTS." },
               { tag: "Investigación", title: "🔍 Algo que escuchaste de pasada", body: "Una línea; recibe un informe con fuentes y seguimiento continuo del tema." }
@@ -167,7 +167,7 @@ export const pagesEs: Record<PageKey, PageContent> = {
   },
 
   faq: {
-    title: "Preguntas frecuentes de DeTars | Respuestas directas a las preguntas afiladas",
+    title: "Preguntas frecuentes de DeTars | Respuestas directas",
     description: "Respuestas directas sobre fiabilidad, privacidad, presión de precios, dependencia de proveedor y en qué se diferencia DeTars de los chatbots y los agentes en la nube.",
     kicker: "FAQ",
     h1: "Preguntas afiladas, <span class='o'>respuestas directas.</span>",
@@ -240,9 +240,9 @@ export const pagesEs: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>2026-06 · Cuidado de mascotas activo.</b> OCR de historiales, 36 líneas rojas de salud con fuentes, diario de crecimiento + informe mensual.",
+              "<b>Cuidado de mascotas · puliéndose.</b> OCR de historiales, 36 líneas rojas de salud con fuentes, diario de crecimiento + informe mensual; se abrirá cuando esté listo.",
               "<b>2026-06 · Inversión activo.</b> Verificación de evidencias, revisión de desvíos de lógica, registros de decisiones; sin bróker conectado y sin herramienta de órdenes.",
-              "<b>Ahora.</b> Ocho packs tienen su propia página — Inversión, Destino, Investigación, Programación, edición de locución, Vídeo con IA, Invocación y Mascotas — y cada página termina con lo que ese pack no puede hacer."
+              "<b>Ahora.</b> Ocho packs tienen su propia página — Inversión, Destino, Investigación, Programación, edición de locución, Vídeo con IA, Invocación y Mascotas (muy pronto) — y cada página termina con lo que ese pack no puede hacer."
             ]
           }
         ]

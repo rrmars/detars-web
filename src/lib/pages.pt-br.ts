@@ -20,7 +20,7 @@ export const pagesPtBr: Record<PageKey, PageContent> = {
         "<b>Nada depende da interface rica.</b> Toda solicitação enviada pelo DeTars tem uma versão em texto simples, portanto um canal que só aceita texto nunca bloqueia uma tarefa."
       ] }] },
       { h2: "Quatro formas de uso que já existem", blocks: [{ type: "cards", items: [
-        { tag: "Cuidados com pets", title: "📷 Uma foto do seu cachorro", body: "Envie uma foto; receba um vídeo curto divertido e textos prontos para publicar." },
+        { tag: "Invocação", title: "🕯️ Alguém da história a quem perguntar", body: "Diga o nome de uma figura histórica; ela conversa com você na própria voz e não sai do personagem." },
         { tag: "Investimentos", title: "💡 Uma ação de que você ouviu falar", body: "Mencione uma vez; ele continua acompanhando e volta quando algo muda. Não tem conexão com corretoras nem ferramenta de ordens." },
         { tag: "Vídeo falado", title: "🎙️ Um vídeo falando para a câmera", body: "Grave onde estiver; receba uma edição com legendas — sua voz real preservada, não substituída por TTS." },
         { tag: "Pesquisa", title: "🔍 Algo que você ouviu de passagem", body: "Uma linha; receba um relatório com fontes e acompanhamento contínuo do assunto." }
@@ -81,7 +81,7 @@ export const pagesPtBr: Record<PageKey, PageContent> = {
     ]
   },
   faq: {
-    title: "Perguntas frequentes sobre o DeTars | Respostas diretas às perguntas difíceis",
+    title: "Perguntas frequentes sobre o DeTars | Respostas diretas",
     description: "Respostas diretas sobre confiabilidade, privacidade, pressão de preços, dependência de fornecedores e o que diferencia o DeTars de chatbots e agentes na nuvem.",
     kicker: "Perguntas frequentes", h1: "Perguntas difíceis, <span class='o'>respostas diretas.</span>",
     answer: "Sem cortina de marketing. As objeções mais incisivas, respondidas com clareza — com os limites honestos bem definidos.",
@@ -115,9 +115,9 @@ export const pagesPtBr: Record<PageKey, PageContent> = {
     kicker: "Atualizações", h1: "Prova de <span class='o'>evolução.</span>",
     answer: "Um histórico de alterações curto e honesto. Nós o mantemos atualizado para que você — e os mecanismos de busca e sistemas de IA — sempre veja os fatos atuais.",
     sections: [{ h2: "Recentes", blocks: [{ type: "list", items: [
-      "<b>2026-06 · Cuidados com pets disponível.</b> OCR de registros, 36 limites críticos de saúde com fontes, diário de crescimento + relatório mensal.",
+      "<b>Cuidados com pets · em refinamento.</b> OCR de registros, 36 limites críticos de saúde com fontes, diário de crescimento + relatório mensal; abre assim que estiver pronto.",
       "<b>2026-06 · Investimentos disponível.</b> Verificação de evidências, revisão de desvios de lógica, registros de decisões; sem conexão com corretoras, sem ferramenta de ordens.",
-      "<b>Agora.</b> Oito packs têm uma página própria — investimentos, destino, pesquisa, programação, edição de vídeos falados, vídeo com IA, invocação, cuidados com pets — e cada página termina com o que aquele pack não pode fazer."
+      "<b>Agora.</b> Oito packs têm uma página própria — investimentos, destino, pesquisa, programação, edição de vídeos falados, vídeo com IA, invocação, cuidados com pets (em breve) — e cada página termina com o que aquele pack não pode fazer."
     ] }] }]
   },
   research: {

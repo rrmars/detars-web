@@ -109,7 +109,7 @@ export const packsDe: PacksCopy = {
     aivideo: {
       name: "KI-Video",
       tagline: "Das Bild in deinem Kopf — lass andere hinsehen, bevor du bezahlst",
-      metaTitle: "KI-Video | Lass Zuschauer unvoreingenommen hinsehen, bevor du für die Generierung zahlst",
+      metaTitle: "KI-Video | Erst ehrliches Publikumsurteil, dann bezahlen",
       metaDescription: "Einige Zuschauer sehen deine Erzählwege unabhängig und unvorbereitet an und sagen, was sie wirklich wahrgenommen haben und wo sie dich missverstehen würden. Alles, bevor du den ersten Cent ausgibst.",
       h1: "Das Bild in deinem Kopf — <span class='o'>lass andere hinsehen, bevor du bezahlst.</span>",
       answer: "Mach, was du willst. Gib ihm eine Idee, und es entwirft mehrere wirklich unterschiedliche Erzählweisen — nicht umformuliert, sondern anders in der Reihenfolge der Wirkung, den Schlüssen des Publikums und dem, was es bewegt. Dann setzt es einige ‚Zuschauer‘ einzeln hin, die nur anhand von Bild und Ton sagen: Das habe ich gesehen, das habe ich als deine Absicht verstanden, hier würde ich dich am ehesten missverstehen. Alles, bevor du den ersten Cent ausgibst — denn der teure Fehler ist kein misslungener Render, sondern erst nach dem Bezahlen zu merken, dass die Geschichte falsch ankam.",
@@ -145,7 +145,7 @@ export const packsDe: PacksCopy = {
     equity: {
       name: "Investieren",
       tagline: "Du hast die Chance kommen sehen. Nur festgehalten hast du sie nicht",
-      metaTitle: "Investieren | Du hast die Chance kommen sehen. Nur festgehalten hast du sie nicht",
+      metaTitle: "Investieren | Du hast die Chance gesehen. Jetzt halte sie",
       metaDescription: "Ein Partner mit besserem Gedächtnis und kühlerem Kopf als du: Er hält den Faden, hält dich an deine eigenen Regeln und stoppt dich an dem Tag, an dem du eine brechen willst.",
       h1: "Du hast die Chance kommen sehen. <span class='o'>Nur festgehalten hast du sie nicht.</span>",
       answer: "Große Chancen brauchen Quartale zum Wachsen. Eine Technologie verlässt das Labor, eine politische Maßnahme tritt in Kraft, eine Lieferkette ordnet sich neu — und irgendwo dazwischen vergisst du, zweifelst du, verkaufst am ungünstigsten Tag. Was dir fehlte, war nie eine weitere Informationsquelle. Es war ein Partner mit besserem Gedächtnis und kühlerem Kopf: Er hält für dich den Faden, bewahrt die Regeln, die du dir selbst gegeben hast, und stoppt dich an dem Tag, an dem du eine brechen willst.",
@@ -180,7 +180,7 @@ export const packsDe: PacksCopy = {
     "content-research": {
       name: "Recherche",
       tagline: "Du willst etwas verstehen, und alles Gefundene ist abgeschrieben",
-      metaTitle: "Recherche | Du willst etwas verstehen, und alles ist voneinander abgeschrieben",
+      metaTitle: "Recherche | Verstehen aus Quellen statt aus Abschriften",
       metaDescription: "Eine Podiumsdiskussion ohne Transkript, ein zweistündiger Podcast, der tatsächliche Quellcode eines Projekts — es lädt alles herunter und schreibt es aus. Am Ende hast du einen Satz, den sonst niemand hat, mit einem aufrufbaren Beleg.",
       h1: "Du willst etwas verstehen. <span class='o'>Alles Gefundene ist abgeschrieben.</span>",
       answer: "Es ist ein bisschen besessen. Gib ihm ein Thema, und es sucht nicht bloß und schreibt dann. Eine nie transkribierte Podiumsdiskussion, ein zweistündiger Podcast, der tatsächliche Quellcode eines Projekts, ein späterer Erfahrungsbericht — es lädt alles herunter und schreibt es aus. Am Ende hältst du einen Satz in der Hand, den noch niemand zuvor aufgeschrieben hat, mit einem Beleg, den du öffnen kannst. In einem Raum voller Menschen bist du derjenige, der etwas Wahres sagen kann.",
@@ -215,7 +215,7 @@ export const packsDe: PacksCopy = {
     programming: {
       name: "Programmieren",
       tagline: "Eine unbekannte, riesige Codebasis — erst verstehen, dann anfassen",
-      metaTitle: "Programmieren | Eine unbekannte, riesige Codebasis — vor dem Anfassen verstanden",
+      metaTitle: "Programmieren | Riesige fremde Codebasis, erst verstanden",
       metaDescription: "Millionen Zeilen in Millisekunden als eine Karte. Wofür ein anderer Agent zwanzig Anläufe braucht, antwortet es oft in einem. Und du konfigurierst keine Sprache.",
       h1: "Eine unbekannte, riesige Codebasis — <span class='o'>es versteht sie, bevor es sie anfasst.</span>",
       answer: "Ein fremdes Projekt übernehmen oder das Repo öffnen, in dem du seit drei Monaten nicht warst — das Anstrengende war nie das Schreiben. Sondern herauszufinden, was hier eigentlich los ist. Millionen Zeilen liegen in Millisekunden als eine einzige Karte vor ihm. Dann fragst du: ‚Wer benutzt das hier?‘ Wo ein anderer Agent zwanzigmal hin und her geht, zeigt es meist direkt darauf, über beliebig viele Pakete hinweg, ohne etwas auszulassen. Taucht erstmals eine neue Sprache im Projekt auf, konfigurierst du nichts. Du sparst nicht ein paar Minuten. Sondern den Nachmittag, an dem du sonst nicht weitergekommen wärst.",
@@ -250,7 +250,7 @@ export const packsDe: PacksCopy = {
     "data-studio": {
       name: "Data Studio",
       tagline: "Tabellen hineinziehen, Frage stellen, anklickbares Diagramm bekommen",
-      metaTitle: "Data Studio | Du solltest nicht Analyst werden müssen, um deinen Daten eine Frage zu stellen",
+      metaTitle: "Data Studio | Frag deine Daten, ohne Analyst zu werden",
       metaDescription: "Zieh Tabellen hinein, und es speichert und liest sie selbst; stell eine Frage und erhalte ein Diagramm zum Filtern und Vertiefen. Geh tiefer, wann du willst — SQL, Modelle, Excel, es beherrscht alles.",
       h1: "Du solltest nicht Analyst werden müssen, <span class='o'>um deinen eigenen Daten eine Frage zu stellen.</span>",
       answer: "Die Tabelle liegt da, die Frage auch — dazwischen stehen eine Umgebung, eine Datenbank, ein Import, etwas SQL und ein Diagramm. Bis du das alles erledigt hast, ist die Frage meist nicht mehr wichtig. Das alles fällt hier weg. Zieh die Tabellen hinein, und es speichert und liest sie selbst; stell eine Frage, und zurück kommt ein Diagramm zum Anklicken, Filtern und Vertiefen. Willst du eine Ebene tiefer, geh eine Ebene tiefer — SQL, maschinelles Lernen, Excel, es erledigt alles.",
@@ -286,7 +286,7 @@ export const packsDe: PacksCopy = {
     "talking-head": {
       name: "Sprechvideo-Schnitt",
       tagline: "Du hast etwas zu sagen. Das sollte dich nicht drei Tage kosten",
-      metaTitle: "Sprechvideo | Du hast etwas zu sagen. Das sollte dich nicht drei Tage kosten",
+      metaTitle: "Sprechvideo | Etwas zu sagen – ohne drei Tage Arbeit",
       metaDescription: "Es übernimmt die mühsamen Schritte: Skript und Quellen kommen gemeinsam, und nach der Aufnahme bedeutet Text bearbeiten auch Video bearbeiten. Deine eigene Stimme, von Anfang bis Ende.",
       h1: "Du hast etwas zu sagen. <span class='o'>Das sollte dich nicht drei Tage kosten.</span>",
       answer: "Thema wählen, Material suchen, schreiben, aufnehmen, schneiden, untertiteln — jeder Schritt kann einen schon abschrecken. So blieb vieles ungesagt, das Menschen sagen wollten. Es übernimmt die mühsamen Schritte: Skript und Quellen kommen gemeinsam; du wirfst deine Aufnahme hinein, und den Text bearbeiten heißt das Video bearbeiten — ein Satz weniger im Text, ein Satz weniger im Schnitt. Du redest einfach. Es erledigt den Rest. Und von Anfang bis Ende bleibt es deine eigene Stimme.",
@@ -322,7 +322,7 @@ export const packsDe: PacksCopy = {
     "pet-care": {
       name: "Tierbetreuung",
       tagline: "Sie können es dir nicht sagen. Du kannst nur raten — außer jemand behält den Überblick",
-      metaTitle: "Tierbetreuung | Sie können es nicht sagen. Du kannst nur raten — außer jemand behält den Überblick",
+      metaTitle: "Tierbetreuung | Jemand behält dein Tier im Blick",
       metaDescription: "Es macht dich aufmerksam, wenn es Grund zur Sorge gibt, und lässt dich ruhen, wenn nicht. Vor dem Termin stehen die wichtigen Fragen bereit. Jahre später gibt es etwas zum Zurückblicken.",
       h1: "Sie können es dir nicht sagen. <span class='o'>Du kannst nur raten — außer jemand behält den Überblick.</span>",
       answer: "Die Impfungen und Entwurmungen der ersten Jahre, Gewicht, Zähne und Appetit der mittleren und die Veränderungen im Alter, die klein anfangen und sich erst später als wichtig erweisen — alles auf einer Zeitleiste. Es macht dich aufmerksam, wenn es Grund zur Sorge gibt, und lässt dich ruhen, wenn nicht. Vor einem Termin hält es die wirklich wichtigen Fragen bereit, damit du deine zehn Minuten beim Tierarzt nicht mit Erinnern verbringst. Und die kleinen monatlichen Einträge sind alle noch da, wenn du eines Tages zurückblicken möchtest.",

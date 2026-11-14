@@ -45,7 +45,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "cards",
             items: [
-              { tag: "Pet Care", title: "📷 A photo of your dog", body: "Send a snapshot; get a funny short video plus ready-to-post captions." },
+              { tag: "Summon", title: "🕯️ A figure you wish you could ask", body: "Name someone from history; they talk with you in their own voice and stay in character." },
               { tag: "Investing", title: "💡 A stock you heard about", body: "Mention it once; it keeps watching and comes back when something moves. It has no broker connection and no order tool." },
               { tag: "Voiceover", title: "🎙️ A talking-head clip", body: "Film on the go; get an edited cut with subtitles — your real voice kept, not replaced by TTS." },
               { tag: "Research", title: "🔍 Something you overheard", body: "One line; get a sourced report and ongoing tracking on the topic." }
@@ -240,9 +240,9 @@ export const pagesEn: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>2026-06 · Pet Care live.</b> Record OCR, 36 sourced health red-lines, growth journal + monthly report.",
+              "<b>Pet Care · in polish.</b> Record OCR, 36 sourced health red-lines, growth journal + monthly report — it opens once the polish is done.",
               "<b>2026-06 · Investing live.</b> Evidence checks, logic-drift review, decision trails; no broker connection, no order tool.",
-              "<b>Now.</b> Eight packs have a page of their own — investing, destiny, research, coding, talking-head editing, AI video, summon, pet care — and each page ends with what that pack cannot do."
+              "<b>Now.</b> Eight packs have a page of their own — investing, destiny, research, coding, talking-head editing, AI video, summon, pet care (coming soon) — and each page ends with what that pack cannot do."
             ]
           }
         ]

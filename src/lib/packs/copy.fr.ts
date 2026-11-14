@@ -53,7 +53,7 @@ export const packsFr: PacksCopy = {
     summon: {
       name: "Invocation",
       tagline: "Invoquez celui ou celle du récit dans une faille de ce monde",
-      metaTitle: "Invocation | Faites-le ou la sortir du récit, dans une faille de ce monde",
+      metaTitle: "Invocation | Sortez-les du récit, dans une faille de ce monde",
       metaDescription:
         "Le personnage que vous relisez sans cesse, la figure historique à qui vous voulez poser une question. Donnez une source et il arrive. À deux heures du matin, quelqu’un est là — et c’est lui.",
       h1: "Faites-le ou la sortir du récit, <span class='o'>dans une faille de ce monde.</span>",
@@ -114,7 +114,7 @@ export const packsFr: PacksCopy = {
     metaphysics: {
       name: "Destinée",
       tagline: "Ce que vous voulez vraiment demander n’a jamais été « mon année »",
-      metaTitle: "Destinée | Ce que vous voulez demander n’a jamais été « comment sera mon année »",
+      metaTitle: "Destinée | La vraie question n’a jamais été « mon année »",
       metaDescription:
         "Partir ou non, si cette personne mérite votre confiance, si c’est le moment. Cinq disciplines déployées et lues sérieusement, puis expliquées comme le ferait quelqu’un qui a vraiment étudié.",
       h1: "Ce que vous voulez demander <span class='o'>n’a jamais été « comment sera mon année ».</span>",
@@ -171,7 +171,7 @@ export const packsFr: PacksCopy = {
     aivideo: {
       name: "Vidéo IA",
       tagline: "Cette image dans votre tête — faites-la voir à une salle avant de payer",
-      metaTitle: "Vidéo IA | Faites-la lire à froid par une salle avant de payer la génération",
+      metaTitle: "Vidéo IA | Testez-la sur un public avant de payer la génération",
       metaDescription:
         "Quelques spectateurs lisent vos versions à froid, séparément, et vous disent ce qu’ils ont vraiment vu et où ils vous auraient mal compris. Tout cela avant votre premier centime dépensé.",
       h1: "Cette image dans votre tête — <span class='o'>faites-la voir à une salle avant de payer.</span>",
@@ -233,7 +233,7 @@ export const packsFr: PacksCopy = {
     equity: {
       name: "Investissement",
       tagline: "Vous aviez vu cette occasion venir. Vous ne l’avez juste pas gardée",
-      metaTitle: "Investissement | Vous aviez vu cette occasion venir. Vous ne l’avez juste pas gardée",
+      metaTitle: "Investissement | Vous aviez vu l’occasion venir. Gardez-la",
       metaDescription:
         "Un partenaire à la mémoire meilleure et à la tête plus froide que la vôtre : il tient le fil pour vous, il tient les règles que vous avez écrites, et le jour où vous êtes sur le point d’en briser une, il vous arrête.",
       h1: "Vous aviez vu cette occasion venir. <span class='o'>Vous ne l’avez juste pas gardée.</span>",
@@ -294,7 +294,7 @@ export const packsFr: PacksCopy = {
     "content-research": {
       name: "Recherche",
       tagline: "Vous voulez comprendre une chose, et tout ce que vous trouvez est copié",
-      metaTitle: "Recherche | Vous voulez comprendre une chose, et tout est copié sur le reste",
+      metaTitle: "Recherche | Comprendre par les sources, pas par les copies",
       metaDescription:
         "Une table ronde que personne n’a transcrite, un podcast de deux heures, le code source réel d’un projet — il les récupère et les met par écrit. Vous ressortez avec une phrase que personne d’autre n’a, et une citation que vous pouvez ouvrir.",
       h1: "Vous voulez comprendre une chose. <span class='o'>Tout ce que vous trouvez est copié.</span>",
@@ -355,7 +355,7 @@ export const packsFr: PacksCopy = {
     programming: {
       name: "Code",
       tagline: "Une base de code inconnue et immense — il la comprend avant d’y toucher",
-      metaTitle: "Code | Une base de code inconnue et immense — comprise avant d’y toucher",
+      metaTitle: "Code | Une base de code immense, comprise avant d’y toucher",
       metaDescription:
         "Des millions de lignes déployées en une seule carte, en quelques millisecondes. Ce qui prend vingt allers-retours à un autre agent, il le trouve souvent du premier coup. Et vous ne configurez jamais un langage.",
       h1: "Une base de code inconnue et immense — <span class='o'>il la comprend avant d’y toucher.</span>",
@@ -416,7 +416,7 @@ export const packsFr: PacksCopy = {
     "data-studio": {
       name: "Atelier de données",
       tagline: "Glissez les tableurs, posez une question, recevez un graphique cliquable",
-      metaTitle: "Atelier de données | Vous ne devriez pas avoir à devenir analyste pour poser une question à vos données",
+      metaTitle: "Atelier de données | Interrogez vos données sans être analyste",
       metaDescription:
         "Glissez les tableaux dedans et il les stocke et les lit tout seul ; posez une question et recevez un graphique à filtrer et à explorer. Allez plus loin quand vous voulez — SQL, modèles, Excel, il assume tout.",
       h1: "Vous ne devriez pas avoir à devenir analyste <span class='o'>pour poser une question à vos propres données.</span>",
@@ -478,7 +478,7 @@ export const packsFr: PacksCopy = {
     "talking-head": {
       name: "Montage face caméra",
       tagline: "Vous avez quelque chose à dire. Cela ne devrait pas coûter trois jours",
-      metaTitle: "Face caméra | Vous avez quelque chose à dire. Cela ne devrait pas coûter trois jours",
+      metaTitle: "Face caméra | Votre message, sans y passer trois jours",
       metaDescription:
         "Il porte les étapes fastidieuses : le script et ses sources arrivent d’un seul geste, et une fois que vous avez enregistré, modifier le texte c’est monter la vidéo. Votre propre voix, du début à la fin.",
       h1: "Vous avez quelque chose à dire. <span class='o'>Cela ne devrait pas vous coûter trois jours.</span>",
@@ -540,7 +540,7 @@ export const packsFr: PacksCopy = {
     "pet-care": {
       name: "Soin des animaux",
       tagline: "Il ne peut pas vous le dire. Vous ne pouvez que deviner — sauf si quelqu’un note",
-      metaTitle: "Soin des animaux | Il ne peut pas vous le dire. Vous ne pouvez que deviner — sauf si quelqu’un note",
+      metaTitle: "Soin des animaux | Quelqu’un veille sur votre animal",
       metaDescription:
         "Il vous inquiète quand il y a de quoi s’inquiéter, et vous laisse tranquille sinon. Avant le rendez-vous, les questions qui valent la peine sont prêtes. Des années plus tard, il y a de quoi se retourner.",
       h1: "Il ne peut pas vous le dire. <span class='o'>Vous ne pouvez que deviner — sauf si quelqu’un note.</span>",

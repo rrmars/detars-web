@@ -171,7 +171,7 @@ export const packsEs: PacksCopy = {
     aivideo: {
       name: "Vídeo con IA",
       tagline: "Esa imagen que tienes en la cabeza — que la vea una sala antes de pagar",
-      metaTitle: "Vídeo con IA | Que una sala lo lea en frío antes de que pagues la generación",
+      metaTitle: "Vídeo con IA | Pruébalo con público antes de pagar la generación",
       metaDescription:
         "Unos cuantos espectadores leen tus versiones en frío, por separado, y te dicen qué vieron de verdad y dónde te malinterpretarían. Todo antes de gastar tu primer céntimo.",
       h1: "Esa imagen que tienes en la cabeza — <span class='o'>que la vea una sala antes de pagar.</span>",
@@ -294,7 +294,7 @@ export const packsEs: PacksCopy = {
     "content-research": {
       name: "Investigación",
       tagline: "Quieres entender algo, y todo lo que encuentras está copiado",
-      metaTitle: "Investigación | Quieres entender algo, y todo está copiado de sí mismo",
+      metaTitle: "Investigación | Entiende algo desde las fuentes, no copias",
       metaDescription:
         "Una mesa redonda que nadie transcribió, un pódcast de dos horas, el código fuente real de un proyecto — se los baja y los pasa a texto. Acabas con una frase que no tiene nadie más, con una cita que puedes abrir.",
       h1: "Quieres entender algo. <span class='o'>Todo lo que encuentras está copiado.</span>",
@@ -355,7 +355,7 @@ export const packsEs: PacksCopy = {
     programming: {
       name: "Programación",
       tagline: "Un código enorme y desconocido — lo entiende antes de tocarlo",
-      metaTitle: "Programación | Un código enorme y desconocido, entendido antes de tocarlo",
+      metaTitle: "Programación | Entiende un código enorme antes de tocarlo",
       metaDescription:
         "Millones de líneas desplegadas como un solo mapa en milisegundos. Lo que a otro agente le cuesta veinte idas y venidas, aquí suele resolverse a la primera. Y nunca configuras un lenguaje.",
       h1: "Un código enorme y desconocido — <span class='o'>lo entiende antes de tocarlo.</span>",
@@ -416,7 +416,7 @@ export const packsEs: PacksCopy = {
     "data-studio": {
       name: "Taller de datos",
       tagline: "Arrastra las hojas, haz una pregunta, recibe un gráfico que puedes tocar",
-      metaTitle: "Taller de datos | No deberías tener que hacerte analista para preguntarle algo a tus datos",
+      metaTitle: "Taller de datos | Pregunta a tus datos sin ser analista",
       metaDescription:
         "Arrastra las tablas y él solo las guarda y las entiende; haz una pregunta y recibe un gráfico que puedes filtrar y explorar. Baja una capa cuando quieras — SQL, modelos, Excel, con todo puede.",
       h1: "No deberías tener que hacerte analista <span class='o'>para preguntarle algo a tus propios datos.</span>",
@@ -540,7 +540,7 @@ export const packsEs: PacksCopy = {
     "pet-care": {
       name: "Cuidado de mascotas",
       tagline: "No te lo pueden contar. Solo puedes adivinar — salvo que alguien lleve la cuenta",
-      metaTitle: "Mascotas | No te lo pueden contar. Solo adivinas — salvo que alguien lleve la cuenta",
+      metaTitle: "Mascotas | No te lo pueden contar. Alguien lleva la cuenta",
       metaDescription:
         "Te preocupa cuando hay algo de qué preocuparse, y te deja descansar cuando no. Antes de la cita, las preguntas que merece la pena hacer están listas. Años después, hay algo que releer.",
       h1: "No te lo pueden contar. <span class='o'>Solo puedes adivinar — salvo que alguien lleve la cuenta.</span>",

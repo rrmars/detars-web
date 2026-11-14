@@ -3,7 +3,7 @@ import type { PageContent, PageKey } from "@/lib/pages";
 
 export const pagesFr: Record<PageKey, PageContent> = {
   "how-it-works": {
-    title: "Comment fonctionne DeTars | Une ligne en entrée, du travail fini en sortie",
+    title: "Comment fonctionne DeTars | Une ligne, du travail fini",
     description:
       "Envoyez une ligne ou une photo à DeTars depuis n'importe quelle messagerie. Elle tourne en arrière-plan pendant des heures, puis revient vers vous avec du travail fini.",
     kicker: "Vivre avec",
@@ -45,7 +45,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
           {
             type: "cards",
             items: [
-              { tag: "Pet Care", title: "📷 Une photo de votre chien", body: "Envoyez un cliché ; recevez une vidéo courte et marrante plus des légendes prêtes à publier." },
+              { tag: "Summon", title: "🕯️ Une figure que vous aimeriez interroger", body: "Nommez une figure historique ; elle vous parle avec sa propre voix et reste dans son rôle." },
               { tag: "Investing", title: "💡 Une action dont vous avez entendu parler", body: "Mentionnez-la une fois ; elle continue de surveiller et revient dès qu'il se passe quelque chose. Aucun courtier n'est connecté et aucun outil de passage d'ordre n'existe." },
               { tag: "Voiceover", title: "🎙️ Un plan face caméra", body: "Filmez sur le pouce ; recevez un montage avec sous-titres — votre vraie voix conservée, pas remplacée par une synthèse vocale." },
               { tag: "Research", title: "🔍 Quelque chose entendu au passage", body: "Une ligne ; recevez un rapport sourcé et un suivi continu du sujet." }
@@ -68,7 +68,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
   },
 
   reliable: {
-    title: "Pourquoi DeTars est fiable | Six choses qu'elle fait et que les autres ne savent pas faire",
+    title: "Pourquoi DeTars est fiable | Six choses que les autres ne font pas",
     description:
       "DeTars transforme une IA brillante mais peu fiable en une équipe à qui confier du vrai travail : elle raisonne, survit aux pannes, ne peut pas simuler l'achèvement, se corrige seule, reste la vôtre, et n'est liée à aucun fournisseur.",
     kicker: "Pourquoi vous pouvez lui faire confiance",
@@ -240,9 +240,9 @@ export const pagesFr: Record<PageKey, PageContent> = {
           {
             type: "list",
             items: [
-              "<b>2026-06 · Pet Care en service.</b> OCR de carnet, 36 zones rouges santé sourcées, journal de croissance + rapport mensuel.",
+              "<b>Pet Care · en polissage.</b> OCR de carnet, 36 zones rouges santé sourcées, journal de croissance + rapport mensuel ; ouverture dès qu'il est prêt.",
               "<b>2026-06 · Investing en service.</b> Vérification des preuves, revue des dérives de logique, traçabilité des décisions ; aucun courtier connecté, aucun outil d’ordre.",
-              "<b>Maintenant.</b> Huit packs ont leur propre page — Investing, Destiny, Research, Coding, montage talking-head, AI Video, Summon, Pet Care — et chaque page se termine par ce que ce pack ne sait pas faire."
+              "<b>Maintenant.</b> Huit packs ont leur propre page — Investing, Destiny, Research, Coding, montage talking-head, AI Video, Summon, Pet Care (bientôt) — et chaque page se termine par ce que ce pack ne sait pas faire."
             ]
           }
         ]

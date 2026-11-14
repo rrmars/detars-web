@@ -30,6 +30,8 @@ type Props = {
   /** English content fallback may retain a localized navigation shell. */
   contentLocale?: AnyLocale;
   ogType?: "website" | "article";
+  /** Keep the page out of search results (and drop canonical / hreflang). */
+  noindex?: boolean;
 };
 
 const {
@@ -44,7 +46,8 @@ const {
   alternateLocales = locales,
   languageLocales = locales,
   contentLocale = locale,
-  ogType = "website"
+  ogType = "website",
+  noindex = false
 } = Astro.props;
 
 const canonicalUrl = toAbsoluteUrl(withLocale(canonicalLocale, route));
@@ -89,9 +92,15 @@ const baseLd = [
     <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
     <link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="canonical" href={canonicalUrl} />
-    {alternates.map((a) => <link rel="alternate" hreflang={a.hrefLang} href={a.href} />)}
-    <link rel="alternate" hreflang="x-default" href={toAbsoluteUrl(withLocale("en", route))} />
+    {noindex ? (
+      <meta name="robots" content="noindex" />
+    ) : (
+      <>
+        <link rel="canonical" href={canonicalUrl} />
+        {alternates.map((a) => <link rel="alternate" hreflang={a.hrefLang} href={a.href} />)}
+        <link rel="alternate" hreflang="x-default" href={toAbsoluteUrl(withLocale("en", route))} />
+      </>
+    )}
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

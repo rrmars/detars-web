@@ -244,7 +244,7 @@ export const packsEn: PacksCopy = {
     equity: {
       name: "Investing",
       tagline: "You saw that opportunity coming. You just didn't hold it",
-      metaTitle: "Investing | You saw that opportunity coming. You just didn't hold it",
+      metaTitle: "Investing | You saw the opportunity coming. Now hold it",
       metaDescription:
         "A partner with a better memory and a cooler head than yours: it holds the thread for you, holds you to the rules you wrote, and on the day you're about to break one, it stops you.",
       h1: "You saw that opportunity coming. <span class='o'>You just didn't hold it.</span>",
@@ -305,7 +305,7 @@ export const packsEn: PacksCopy = {
     "content-research": {
       name: "Research",
       tagline: "You want to understand something, and everything you find is copied",
-      metaTitle: "Research | You want to understand something, and it's all copied from itself",
+      metaTitle: "Research | Understand it from sources, not copies of copies",
       metaDescription:
         "A panel nobody transcribed, a two-hour podcast, a project's actual source code — it pulls them down and writes them out. You end up with a line nobody else has, with a citation you can open.",
       h1: "You want to understand something. <span class='o'>Everything you find is copied.</span>",
@@ -366,7 +366,7 @@ export const packsEn: PacksCopy = {
     programming: {
       name: "Coding",
       tagline: "An unfamiliar, enormous codebase — it understands it before it touches it",
-      metaTitle: "Coding | An unfamiliar, enormous codebase — understood before it's touched",
+      metaTitle: "Coding | Understand a huge codebase before you touch it",
       metaDescription:
         "Millions of lines laid out as one map in milliseconds. What takes another agent twenty round-trips, it often answers in one. And you never configure a language.",
       h1: "An unfamiliar, enormous codebase — <span class='o'>it understands it before it touches it.</span>",
@@ -427,7 +427,7 @@ export const packsEn: PacksCopy = {
     "data-studio": {
       name: "Data Studio",
       tagline: "Drag the spreadsheets in, ask a question, get a chart you can click",
-      metaTitle: "Data Studio | You shouldn't have to become an analyst to ask your data a question",
+      metaTitle: "Data Studio | Ask your data questions without becoming an analyst",
       metaDescription:
         "Drag the tables in and it stores and reads them itself; ask a question and get back a chart you can filter and drill into. Go deeper whenever you want — SQL, models, Excel, it handles all of it.",
       h1: "You shouldn't have to become an analyst <span class='o'>to ask your own data a question.</span>",
@@ -489,7 +489,7 @@ export const packsEn: PacksCopy = {
     "talking-head": {
       name: "Talking-head editing",
       tagline: "You have something to say. It shouldn't cost you three days",
-      metaTitle: "Talking-head | You have something to say. It shouldn't cost you three days",
+      metaTitle: "Talking-head | Say what you mean, without losing three days",
       metaDescription:
         "It carries the tedious steps: the script and its sources arrive in one move, and once you've recorded, editing the text is editing the video. Your own voice, start to finish.",
       h1: "You have something to say. <span class='o'>It shouldn't cost you three days.</span>",
@@ -551,7 +551,7 @@ export const packsEn: PacksCopy = {
     "pet-care": {
       name: "Pet care",
       tagline: "They can't tell you. You can only guess — unless someone is keeping track",
-      metaTitle: "Pet care | They can't tell you. You can only guess — unless someone keeps track",
+      metaTitle: "Pet care | They can't tell you. Someone should keep track",
       metaDescription:
         "It worries you when there's something to worry about, and lets you rest when there isn't. Before the appointment, the questions worth asking are ready. Years later, there's something to look back on.",
       h1: "They can't tell you. <span class='o'>You can only guess — unless someone is keeping track.</span>",

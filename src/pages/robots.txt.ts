@@ -4,13 +4,7 @@ import { getSiteUrl } from "@/lib/site";
 
 export const GET: APIRoute = ({ site }) => {
   const baseUrl = site ?? getSiteUrl();
-  const robots = `User-agent: GPTBot
-Disallow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: *
+  const robots = `User-agent: *
 Allow: /
 
 Sitemap: ${new URL("/sitemap-index.xml", baseUrl).toString()}
