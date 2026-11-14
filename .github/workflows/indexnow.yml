@@ -25,5 +25,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+      # scripts/indexnow.mjs imports the "yaml" package, so dependencies must be installed.
+      - name: Install dependencies
+        run: npm ci
       - name: Submit research and scenario URLs to IndexNow
         run: node scripts/indexnow.mjs
