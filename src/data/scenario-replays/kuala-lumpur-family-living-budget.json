@@ -1,0 +1,222 @@
+{
+ "slug": "kuala-lumpur-family-living-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1624,
+ "stats": {
+  "searches": 39,
+  "pages": 72,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 28,
+   "end": 868,
+   "chips": [
+    "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_Version-11_%2029102026.pdf",
+    "https://www.mdec.my/md-programmes/digital-nomad-pass",
+    "https://srikdu.edu.my/subang-jaya/wp-content/uploads/2026/03/SRI-KDU-SUBANG-JAYA-FEES-SCHEDULE-25-26-180326.pdf",
+    "https://igbis.edu.my/admissions/fee/",
+    "https://www.mytnb.com.my/tariff/index.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 868,
+   "end": 1180,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1180,
+   "end": 1544,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "zh": {
+   "askTitle": "换成你们家的搬家时间、预算和孩子学校，吉隆坡的月度开支就按你们的情况重算",
+   "runTitle": "香港四口之家搬去吉隆坡：2027 年 8 月起，两位家长远程工作，孩子 6 岁和 9 岁，预算约 18,000 马币/月",
+   "fields": [
+    {
+     "key": "date",
+     "label": "搬家日期",
+     "value": "2027 年 8 月"
+    },
+    {
+     "key": "ceiling",
+     "label": "金额",
+     "value": "每月约 18,000 马币（全家预算）"
+    },
+    {
+     "key": "parents",
+     "label": "详情",
+     "value": "两位家长都在为香港雇主远程工作"
+    },
+    {
+     "key": "kids",
+     "label": "详情",
+     "value": "孩子 6 岁和 9 岁"
+    },
+    {
+     "key": "schools",
+     "label": "名单",
+     "value": "",
+     "placeholder": "例如：列出你想比较的 3–4 所国际学校"
+    },
+    {
+     "key": "housing",
+     "label": "详情",
+     "value": "三卧室出租房，考虑 Mont Kiara、Bangsar、Desa ParkCity、赛城/布城、八打灵再也一带"
+    },
+    {
+     "key": "transport",
+     "label": "详情",
+     "value": "",
+     "placeholder": "例如：买车，还是用 Grab 加地铁"
+    },
+    {
+     "key": "cash",
+     "label": "金额",
+     "value": "",
+     "placeholder": "例如：到吉隆坡时手头有 9 万马币"
+    }
+   ],
+   "template": "请为{date}规划吉隆坡家庭预算：税后可花上限{ceiling}，每位家长的职业、收入、雇主注册及护照{parents}，孩子生日及学校需要{kids}，候选学校{schools}，住房及工作位需要{housing}，交通偏好{transport}，落地现金{cash}。分开月度储备、入学收费及可退押金，测试升年级的影响，列出付款前要确认什么。只做规划，不联系、不申请、不预订、不付款。",
+   "phases": [
+    {
+     "title": "查当前的租房、学校收费、生活成本和官方签证规定",
+     "note": "12 套三卧室在租房源、4 所国际学校的收费表、DE Rantau 远程工作签证与 MM2H 的官方规定",
+     "judgment": "签证资料以官方最新版为准：马来西亚数码经济机构（MDEC）2026 年 11 月 1 日发布的第 11 版常见问答，把科技类年收入门槛定为 36,000 美元（非科技类 60,000 美元），而仍能搜到的旧版写的是 24,000 美元，它明确不用旧数字。它还发现官方问答对“配偶能否工作”答的是“不能”，所以结论是两位在职家长要分别评估各自的主申请人签证，不能默认一人主申请、另一人当家属就够。"
+    },
+    {
+     "title": "写给家长看的指南，并整理来源清单",
+     "note": "区域取舍、房租、学费、水电网络、交通、保险，以及对照 18,000 马币的月度预算表"
+    },
+    {
+     "title": "核对价格算术、覆盖范围、链接和网页版式",
+     "judgment": "独立复核的同事认为算术没问题，但指出三处会误导规划：按现行学费算，孩子升一个年级学费档位就变，月支出会从 17,690 升到 18,385 马币，超出预算，所以补了“升年级”压力测试；“落地现金 8–9 万马币”说得比模型实际包含的更完整，改称“已确定的先付款项小计”；另外补上签证批准信的有效期和首次入境办理的限制。"
+    }
+   ],
+   "workers": [
+    "找并逐条打开 12 套三卧室在租房源，覆盖 Mont Kiara、Bangsar、Desa ParkCity、赛城和八打灵再也，记录租金、面积和是否带家具",
+    "找 4 所国际学校官方发布的收费表，算出两个孩子的年度学费，并分开列首年的申请费和押金",
+    "读 DE Rantau 远程工作签证的官方规定：收入门槛、家属条件、费用，并对照 MM2H",
+    "独立复核指南里的学校、签证和预算说法，对照原始资料逐项检查"
+   ],
+   "chipNames": {
+    "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_Version-11_%2029102026.pdf": "MDEC：DE Rantau 常见问答（第 11 版）",
+    "https://www.mdec.my/md-programmes/digital-nomad-pass": "MDEC：数码游民签证 DE Rantau 页面",
+    "https://srikdu.edu.my/subang-jaya/wp-content/uploads/2026/03/SRI-KDU-SUBANG-JAYA-FEES-SCHEDULE-25-26-180326.pdf": "Sri KDU 梳邦再也：官方收费表（PDF）",
+    "https://igbis.edu.my/admissions/fee/": "IGB 国际学校：学费页面",
+    "https://www.mytnb.com.my/tariff/index.html": "马来西亚国家能源公司 TNB：电费资费"
+   }
+  },
+  "en": {
+   "askTitle": "Swap in your own move date, budget and children’s schools and the Kuala Lumpur monthly budget is rebuilt for you",
+   "runTitle": "A Hong Kong family of four moving to Kuala Lumpur: from August 2027, both parents remote, children aged 6 and 9, about MYR 18,000 a month",
+   "fields": [
+    {
+     "key": "date",
+     "label": "move date",
+     "value": "August 2027"
+    },
+    {
+     "key": "ceiling",
+     "label": "after-tax spending ceiling",
+     "value": "About MYR 18,000 a month (household budget)"
+    },
+    {
+     "key": "parents",
+     "label": "each parent's role, income, employer registration and passport",
+     "value": "Both parents work remotely for Hong Kong employers"
+    },
+    {
+     "key": "kids",
+     "label": "children's birthdays and school needs",
+     "value": "Children aged 6 and 9"
+    },
+    {
+     "key": "schools",
+     "label": "school shortlist",
+     "value": "",
+     "placeholder": "e.g. the 3–4 international schools you want compared"
+    },
+    {
+     "key": "housing",
+     "label": "housing/workspace needs",
+     "value": "A 3-bedroom rental in family areas such as Mont Kiara, Bangsar, Desa ParkCity, Cyberjaya/Putrajaya or Petaling Jaya"
+    },
+    {
+     "key": "transport",
+     "label": "transport preference",
+     "value": "",
+     "placeholder": "e.g. buy a car, or use Grab and the MRT"
+    },
+    {
+     "key": "cash",
+     "label": "arrival cash",
+     "value": "",
+     "placeholder": "e.g. MYR 90,000 in hand on arrival"
+    }
+   ],
+   "template": "Build a Kuala Lumpur family budget for {date}, with {ceiling}, {parents}, {kids}, {schools}, {housing}, {transport} and {cash}. Separate monthly reserves, entry charges and refundable deposits; stress-test progression and identify what to confirm before paying. Plan only; do not contact, apply, book or pay.",
+   "phases": [
+    {
+     "title": "Check current rentals, school fees, living costs and the official visa rules",
+     "note": "12 three-bedroom rentals, fee schedules from 4 international schools, official rules for the DE Rantau remote-worker visa and MM2H",
+     "judgment": "On visas it went with the latest official version: MDEC’s FAQ v11 dated 1 Nov 2026 sets the tech-role income threshold at USD 36,000 (USD 60,000 for non-tech), while the older version still online says USD 24,000, and it explicitly did not use the old figures. It also found the FAQ answers “No” on whether a spouse may work, so the conclusion is that both working parents should be assessed for their own principal passes rather than assuming one principal plus one dependant covers it."
+    },
+    {
+     "title": "Write the parent-friendly guide and the source list",
+     "note": "Area trade-offs, rent, fees, utilities, transport, insurance and a monthly budget table against MYR 18,000"
+    },
+    {
+     "title": "Check price arithmetic, coverage, links and page layout",
+     "judgment": "The independent colleague found the arithmetic sound but flagged three things that would mislead planning: at today’s fees, moving each child up a grade changes the fee bands and lifts the monthly total from MYR 17,690 to 18,385, over budget, so a grade-progression stress test was added; the “MYR 80,000–90,000 arrival cash” figure read as more complete than the model supports, so it was relabelled an upfront-commitment subtotal; and the visa approval letter’s validity and first-entry rules were added."
+    }
+   ],
+   "workers": [
+    "Found and opened 12 three-bedroom rental ads across Mont Kiara, Bangsar, Desa ParkCity, Cyberjaya and Petaling Jaya, recording rent, size and furnishing",
+    "Found the officially published fee schedules of 4 international schools, worked out annual fees for two children and separated first-year application fees and deposits",
+    "Read the official DE Rantau remote-worker visa rules: income thresholds, dependant conditions and fees, compared with MM2H",
+    "Independently audited the guide’s school, visa and budget claims against the original sources"
+   ],
+   "chipNames": {
+    "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_Version-11_%2029102026.pdf": "MDEC: DE Rantau Pass FAQ (version 11)",
+    "https://www.mdec.my/md-programmes/digital-nomad-pass": "MDEC: DE Rantau digital nomad pass page",
+    "https://srikdu.edu.my/subang-jaya/wp-content/uploads/2026/03/SRI-KDU-SUBANG-JAYA-FEES-SCHEDULE-25-26-180326.pdf": "Sri KDU Subang Jaya: published fee schedule (PDF)",
+    "https://igbis.edu.my/admissions/fee/": "IGB International School: fees page",
+    "https://www.mytnb.com.my/tariff/index.html": "Tenaga Nasional (TNB): electricity tariffs"
+   }
+  }
+ }
+}

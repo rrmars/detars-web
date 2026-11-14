@@ -1,0 +1,179 @@
+{
+ "slug": "kuala-lumpur-international-school-two-kids",
+ "startedAt": "2026-11-07",
+ "activeSec": 5952,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 545,
+   "end": 1675,
+   "chips": [
+    "https://www.sribestariinternational.edu.my/wp-content/uploads/2026/05/2.-SBIS-Fee-Schedule-AY26-27.pdf",
+    "https://www.tis.edu.my/wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf",
+    "https://sayfol.edu.my/admission/fee-structure-terms-of-payment-academic-year-2026-2027/",
+    "https://fairview.edu.my/school-admission/school-fees/",
+    "https://his.edu.my/admission-fee/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1675,
+   "end": 5514,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 5514,
+   "end": 5793,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family and compare Kuala Lumpur schools with the same care",
+   "runTitle": "Moving to Kuala Lumpur with a 7- and an 11-year-old: which international school fits RM 110,000 a year?",
+   "fields": [
+    {
+     "key": "kids",
+     "label": "Children’s birth dates, year groups and English/Mandarin needs",
+     "value": "Ages 7 (Year 3) and 11 (Year 7); English-medium teaching with some Mandarin support"
+    },
+    {
+     "key": "dates",
+     "label": "Move and intended start dates",
+     "value": "Moving to Kuala Lumpur in July 2027; aiming for an August 2027 start"
+    },
+    {
+     "key": "budget",
+     "label": "Annual budget and upfront cash",
+     "value": "RM 110,000 a year for both children combined, all-in (tuition, application and registration, deposits spread over the years, capital levy, bus, uniforms)"
+    },
+    {
+     "key": "offices",
+     "label": "Both office locations and morning limit",
+     "value": "One parent works in Mont Kiara, the other at KL Sentral; morning commute under 40 minutes"
+    },
+    {
+     "key": "offers",
+     "label": "Itemised school offers and transport quotes",
+     "value": "",
+     "placeholder": "e.g. a school’s written fee letter for both children and a bus quote of RM 600 a month each"
+    }
+   ],
+   "template": "Help our family compare Kuala Lumpur international schools using {kids}, {dates}, {budget}, {offices}, and {offers}. Keep both children and the intended physical campus together. Separate first-year cash, deposit allocation, future progression and unresolved costs; flag support, tax, refund, vacancy and commute gaps. Ask before contacting schools, submitting forms, sharing documents or paying anything.",
+   "phases": [
+    {
+     "title": "Collect official, dated fee and admissions pages for six schools",
+     "note": "Fees, entry steps, sibling rules and Mandarin provision, school by school",
+     "judgment": "It would not count Fairview’s fee page as current: the annual-fee section was still labelled 2023/24. Taylor’s fees are for calendar year 2027, not an August 2027 to July 2028 school year, and they are flagged that way."
+    },
+    {
+     "title": "Build the cost model and write the guide, with every claim tied to a source",
+     "judgment": "The recommendation is Sayfol, but its RM96,879.20 a year is labelled “plus unresolved costs”, not an all-in quote. Sri Bestari is kept only as a conditional September fallback because it exceeds the first-year budget."
+    },
+    {
+     "title": "Recompute the figures, check claims against sources and test desktop and phone layout",
+     "judgment": "A separate recalculation passed 122 checks. The open issues were written down rather than hidden: places for both children are unconfirmed, 2027/28 invoices are missing, and some pages were read through a browser that could not be shown to be fresh and signed-out."
+    }
+   ],
+   "workers": [
+    "Read Sri Bestari International’s and Hibiscus’s fee schedules, admission steps and Mandarin provision",
+    "Read Taylor’s and Fairview’s fees, calendars and admission rules, and checked which fee year each one covers",
+    "Read HELP’s and Sri KDU’s 2026/27 fees, sibling priority, assessments and Mandarin options"
+   ],
+   "chipNames": {
+    "https://www.sribestariinternational.edu.my/wp-content/uploads/2026/05/2.-SBIS-Fee-Schedule-AY26-27.pdf": "Sri Bestari International fee schedule 2026/27",
+    "https://www.tis.edu.my/wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf": "Taylor’s International School fees 2027",
+    "https://sayfol.edu.my/admission/fee-structure-terms-of-payment-academic-year-2026-2027/": "Sayfol International School fees 2026/27",
+    "https://fairview.edu.my/school-admission/school-fees/": "Fairview International School fee page",
+    "https://his.edu.my/admission-fee/": "HELP International School admission and fees"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你们家的情况，用同样的细致程度比较吉隆坡的学校",
+   "runTitle": "带 7 岁和 11 岁的孩子搬去吉隆坡：每年 11 万令吉能读哪所国际学校？",
+   "fields": [
+    {
+     "key": "kids",
+     "label": "孩子的出生日期、年级及英语和中文需求",
+     "value": "7 岁（Year 3）和 11 岁（Year 7）；英语授课，并有一定中文支持"
+    },
+    {
+     "key": "dates",
+     "label": "搬家及计划开学日期",
+     "value": "2027 年 7 月搬到吉隆坡；希望 2027 年 8 月入学"
+    },
+    {
+     "key": "budget",
+     "label": "年度预算和入学前可用现金",
+     "value": "两个孩子合计每年 11 万令吉，全包（学费、申请和注册费、分摊的押金、资本费、校车、校服）"
+    },
+    {
+     "key": "offices",
+     "label": "两处办公地址及早晨路程上限",
+     "value": "一位家长在 Mont Kiara 上班，另一位在 KL Sentral；早上路程不超过 40 分钟"
+    },
+    {
+     "key": "offers",
+     "label": "逐项录取费用和交通报价",
+     "value": "",
+     "placeholder": "例如：学校给两个孩子的书面收费通知，以及每人每月 600 令吉的校车报价"
+    }
+   ],
+   "template": "请根据{kids}、{dates}、{budget}、{offices}，以及{offers}，帮我们比较吉隆坡国际学校。始终把两个孩子和指定实体校区一起考虑。区分首年现金、押金分摊、未来升年级和未定费用，指出支持课程、税、退款、学位及通勤缺口。联系学校、提交表单、分享文件或付款前，先问我们。",
+   "phases": [
+    {
+     "title": "收集六所学校官方、带年份的收费和入学资料",
+     "note": "逐校整理收费、入学步骤、兄弟姐妹规定和中文课程",
+     "judgment": "它没有把 Fairview 的收费页当作最新数据：年费部分仍标着 2023/24 学年。Taylor’s 的收费是 2027 日历年，不是 2027 年 8 月到 2028 年 7 月的学年，并已如实标明。"
+    },
+    {
+     "title": "建立费用模型，写出指南，每条结论都对应来源",
+     "judgment": "推荐的是 Sayfol，但它的每年 96,879.20 令吉标注为“另加未确定费用”，不是全包报价。Sri Bestari 只作为有条件的 9 月备选，因为它超出首年预算。"
+    },
+    {
+     "title": "重新核算数字，对照来源检查结论，并测试电脑和手机版面",
+     "judgment": "另一轮重新核算通过了 122 项检查。尚未解决的问题都写了出来，没有隐藏：两个孩子的学位未确认、缺少 2027/28 学年账单，部分网页是通过无法证明处于干净状态的浏览器读取的。"
+    }
+   ],
+   "workers": [
+    "读取 Sri Bestari International 和 Hibiscus 的收费表、入学步骤和中文课程",
+    "读取 Taylor’s 和 Fairview 的收费、校历和入学规定，并核对每项收费对应哪一年",
+    "读取 HELP 和 Sri KDU 的 2026/27 收费、兄弟姐妹优先权、入学评估和中文选项"
+   ],
+   "chipNames": {
+    "https://www.sribestariinternational.edu.my/wp-content/uploads/2026/05/2.-SBIS-Fee-Schedule-AY26-27.pdf": "Sri Bestari International 2026/27 收费表",
+    "https://www.tis.edu.my/wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf": "Taylor’s 国际学校 2027 收费表",
+    "https://sayfol.edu.my/admission/fee-structure-terms-of-payment-academic-year-2026-2027/": "Sayfol 国际学校 2026/27 收费",
+    "https://fairview.edu.my/school-admission/school-fees/": "Fairview 国际学校收费页",
+    "https://his.edu.my/admission-fee/": "HELP 国际学校入学与收费"
+   }
+  }
+ }
+}

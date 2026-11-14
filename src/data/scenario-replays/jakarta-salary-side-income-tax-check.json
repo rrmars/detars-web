@@ -1,0 +1,139 @@
+{
+ "slug": "jakarta-salary-side-income-tax-check",
+ "startedAt": "2026-11-07",
+ "activeSec": 3906,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 1,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 421,
+   "end": 1242,
+   "chips": [
+    "https://www.pajak.go.id/en/node/119950",
+    "https://jdih.kemenkeu.go.id/in/dok/pmk-168-tahun-2023",
+    "https://peraturan.bpk.go.id/Details/258237/pp-no-58-tahun-2023"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1242,
+   "end": 2071,
+   "chips": [
+    "https://jdih.kemenkeu.go.id/api/download/d057ff82-50e7-4127-b66b-f704a36f071d/2026pp020.pdf",
+    "https://pajak.go.id/id/batas-waktu-penyampaian-surat-pemberitahuan-spt",
+    "https://pajak.go.id/id/sanksi-administrasi",
+    "https://pajak.go.id/id/pengumuman/penyampaian-pemberitahuan-nppn-melalui-coretax-djp-tahun-pajak-2026",
+    "https://pajak.go.id/coretaxpedia/pelaporan-penghasilan-istri-dalam-spt-tahunan-pajak-penghasilan"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2071,
+   "end": 3674,
+   "chips": [
+    "https://pajak.go.id/coretaxpedia/contoh-kasus-npwp-gabung-suami-istri-karyawan-memiliki-usaha-kecil",
+    "https://pajak.go.id/coretaxpedia/lapor-spt-bagi-istri-yang-memilih-terpisah",
+    "https://pajak.go.id/coretaxpedia/bupot-pph-21-desember"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 32,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own salary, side income and household status and get a tax check, not a made-up bill",
+   "runTitle": "Jakarta employee with design side income: will the 2026 year-end tax be an underpayment?",
+   "fields": [
+    {
+     "key": "year",
+     "label": "Tax year and residency",
+     "value": "2026"
+    },
+    {
+     "key": "family",
+     "label": "Family status (KK/PH/MT/HB) and NIK/NPWP/DUK status",
+     "value": "Married, husband also works (his tax-number arrangement unknown to her), one child aged 3"
+    },
+    {
+     "key": "income",
+     "label": "Both spouses’ actual income and credits",
+     "value": "Her salary: IDR 18 million a month gross"
+    },
+    {
+     "key": "salary",
+     "label": "Salary certificate and THR timing",
+     "value": "THR of one month’s salary"
+    },
+    {
+     "key": "design",
+     "label": "Design contracts, payments received and documented costs",
+     "value": "About IDR 6 million a month since March 2026, paid to her personal account with no tax withheld"
+    },
+    {
+     "key": "nppn",
+     "label": "NPPN registration and notification evidence",
+     "value": "",
+     "placeholder": "e.g. no NPPN notification filed in 2026"
+    },
+    {
+     "key": "final",
+     "label": "Final-regime history and PPh 25 instalments",
+     "value": "",
+     "placeholder": "e.g. never used the 0.5% final tax, no PPh 25 instalments paid"
+    }
+   ],
+   "template": "Help me prepare a household tax check for {year}, {family}, {income}, {salary}, {design}, {nppn}, and {final}. Separate employer TER from the annual family calculation, compare only eligible methods and explain unknowns. Give me questions for a tax adviser and a cash-reserve plan, not a made-up final bill. Do not access accounts, register entities or file anything.",
+   "phases": [
+    {
+     "title": "Confirm the current tax rules and how they apply to her family and side income",
+     "note": "Official tax-office, regulation and finance-ministry pages",
+     "judgment": "It refused to overstate what a new regulation says: the researcher searched the full text of the 2026 amendment, found the word “designer” in it zero times, and noted that nobody should claim designers were expressly added."
+    },
+    {
+     "title": "Run every calculation in code and write the guide and the source log",
+     "note": "TER withholding, December adjustment, three side-income methods, Coretax steps, penalties, monthly budget",
+     "judgment": "When two official sources disagreed it said so and showed both: the regulation’s table gives 32% for graphic design in Jakarta while the tax office’s own designer explainer says 46%. The guide uses 32% only as a conditional example, and states the actual bill cannot be calculated without the husband’s income and credits."
+    },
+    {
+     "title": "Independent review of rules and arithmetic, fixes, and desktop and phone layout checks",
+     "judgment": "A reviewer who had not written the guide recomputed 81 figures, with no discrepancies. Source claims that were wrong or unsupported were repaired and re-read before delivery."
+    }
+   ],
+   "workers": [
+    "Read the official Indonesian rules on family taxation, the final tax on small-business income and the revenue-norm method for freelancers",
+    "Independently recomputed every figure and checked each claim against the official sources"
+   ],
+   "chipNames": {
+    "https://www.pajak.go.id/en/node/119950": "Directorate General of Taxes: tax guidance (English)",
+    "https://jdih.kemenkeu.go.id/in/dok/pmk-168-tahun-2023": "Ministry of Finance: PMK 168/2023 (TER withholding)",
+    "https://peraturan.bpk.go.id/Details/258237/pp-no-58-tahun-2023": "Government Regulation 58/2023 (PP 58/2023)",
+    "https://jdih.kemenkeu.go.id/api/download/d057ff82-50e7-4127-b66b-f704a36f071d/2026pp020.pdf": "Government Regulation 20/2026 (PDF)",
+    "https://pajak.go.id/id/batas-waktu-penyampaian-surat-pemberitahuan-spt": "Tax office: annual return filing deadlines",
+    "https://pajak.go.id/id/sanksi-administrasi": "Tax office: administrative penalties",
+    "https://pajak.go.id/id/pengumuman/penyampaian-pemberitahuan-nppn-melalui-coretax-djp-tahun-pajak-2026": "Tax office: NPPN notification through Coretax",
+    "https://pajak.go.id/coretaxpedia/pelaporan-penghasilan-istri-dalam-spt-tahunan-pajak-penghasilan": "Coretaxpedia: reporting a wife’s income in the annual return",
+    "https://pajak.go.id/coretaxpedia/contoh-kasus-npwp-gabung-suami-istri-karyawan-memiliki-usaha-kecil": "Coretaxpedia: example of a joint return with a small business",
+    "https://pajak.go.id/coretaxpedia/lapor-spt-bagi-istri-yang-memilih-terpisah": "Coretaxpedia: filing when the wife files separately",
+    "https://pajak.go.id/coretaxpedia/bupot-pph-21-desember": "Coretaxpedia: December PPh 21 withholding slip"
+   }
+  }
+ }
+}

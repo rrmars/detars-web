@@ -1,0 +1,236 @@
+{
+ "slug": "bengaluru-engineer-germany-vs-canada",
+ "startedAt": "2026-11-06",
+ "activeSec": 2094,
+ "stats": {
+  "searches": 40,
+  "pages": 66,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 134,
+   "end": 551,
+   "chips": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/changes.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+    "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html",
+    "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 551,
+   "end": 885,
+   "chips": [
+    "https://ircc.canada.ca/english/information/fees/fees.asp",
+    "https://zab.kmk.org/en/statement-of-comparability/faq",
+    "https://www.wes.org/eca/",
+    "https://www.tk.de/en/contribution-rate-social-security-2037092",
+    "https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html"
+   ],
+   "workers": []
+  },
+  {
+   "start": 885,
+   "end": 2010,
+   "chips": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=294",
+    "https://zab.kmk.org/en/eu-blue-card",
+    "https://germantechjobs.de/en/salaries/Backend/Berlin/all"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 7,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own profile and get the same Germany-versus-Canada comparison before you apply anywhere",
+   "runTitle": "Bengaluru to Germany or Canada: a 29-year-old backend engineer with INR 18 lakh",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "Passport and residence",
+     "value": "Living in Bengaluru, India"
+    },
+    {
+     "key": "family",
+     "label": "Age and family",
+     "value": "29 years old, unmarried"
+    },
+    {
+     "key": "degree",
+     "label": "Awarding university, degree and dates",
+     "value": "B.Tech in computer science from an AICTE-approved university"
+    },
+    {
+     "key": "duties",
+     "label": "Documented technical duties",
+     "value": "6 years of full-time backend work (Java, Go, cloud)"
+    },
+    {
+     "key": "language",
+     "label": "Language scores",
+     "value": "IELTS not taken yet (expects about 7.5 overall); no German"
+    },
+    {
+     "key": "offers",
+     "label": "Job offers",
+     "value": "",
+     "placeholder": "e.g. none yet, or one written offer from a Berlin company at EUR 60,000"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "About INR 18 lakh"
+    },
+    {
+     "key": "priorities",
+     "label": "Search checkpoint and priorities",
+     "value": "A 30-day action list for each route"
+    }
+   ],
+   "template": "Compare an offer-first German Blue Card, Opportunity Card and Canadian Express Entry for {passport}, {family}, {degree}, {duties}, {language}, {offers} and {savings}. Separate eligibility from selection, check the applicable dated thresholds and post-reform draws, and model cash through first salary without double-counting capital. Give me {priorities}. Plan only; do not apply, create accounts, contact anyone, book or pay.",
+   "phases": [
+    {
+     "title": "Read the German and Canadian rules, costs and recent invitation rounds",
+     "note": "Blue Card, Opportunity Card, degree recognition, Express Entry rounds",
+     "judgment": "It noticed that Canada changed Express Entry on 3 November 2026: job-offer points are back, and a qualifying software offer can add 70, so older draw cut-offs predate the reform. The last General draw (April 2024, score 529) is shown as history, and processing times it could not confirm are left unconfirmed rather than guessed."
+    },
+    {
+     "title": "Work out scores, take-home pay and cash needs, and double-check the Canadian points",
+     "note": "Points score step by step, fees, funds, living costs"
+    },
+    {
+     "title": "Write the comparison page and source list, then check desktop and phone layout",
+     "judgment": "The independent colleague recomputed the points scores (360, 390, 429, 441), all six cash-through-first-salary estimates and the take-home figures, and found no defect. It also confirmed that Germany’s 2027 salary thresholds are shown as conditional on a proposed ceiling, not as confirmed rules."
+    }
+   ],
+   "workers": [
+    "Read Canada’s official Express Entry rules, points criteria, fees and the actual invitation rounds",
+    "Read Germany’s official sources on the Blue Card, degree recognition, the Opportunity Card and settlement rules",
+    "Independently recomputed the points scores, cash models and take-home figures in the finished page"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/changes.html": "IRCC: changes to Express Entry",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html": "IRCC: Express Entry rounds of invitations (history)",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html": "IRCC: Comprehensive Ranking System criteria",
+    "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html": "German Labour Ministry: proposed 2027 social-insurance figures",
+    "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html": "German Residence Act section 18g (EU Blue Card)",
+    "https://ircc.canada.ca/english/information/fees/fees.asp": "IRCC fee list",
+    "https://zab.kmk.org/en/statement-of-comparability/faq": "ZAB degree comparability: FAQ",
+    "https://www.wes.org/eca/": "WES: credential assessment for immigration",
+    "https://www.tk.de/en/contribution-rate-social-security-2037092": "TK: 2026 social-insurance contribution rates",
+    "https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html": "German Residence Act section 20a (Opportunity Card)",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=294": "IRCC: instructions for the last General draw",
+    "https://zab.kmk.org/en/eu-blue-card": "ZAB: EU Blue Card",
+    "https://germantechjobs.de/en/salaries/Backend/Berlin/all": "GermanTechJobs: Berlin backend salary data"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的情况，申请之前先拿到同样的德国与加拿大对比",
+   "runTitle": "从班加罗尔去德国还是加拿大：29 岁后端工程师，存款 18 拉克卢比",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "护照和居住地",
+     "value": "住在印度班加罗尔"
+    },
+    {
+     "key": "family",
+     "label": "年龄和家庭",
+     "value": "29 岁，未婚"
+    },
+    {
+     "key": "degree",
+     "label": "授予大学、学历和日期",
+     "value": "印度 AICTE 认可大学的计算机科学工学学士（B.Tech）"
+    },
+    {
+     "key": "duties",
+     "label": "有证明的技术职责",
+     "value": "6 年全职后端开发（Java、Go、云）"
+    },
+    {
+     "key": "language",
+     "label": "语言成绩",
+     "value": "还没考雅思（预计总分约 7.5）；不会德语"
+    },
+    {
+     "key": "offers",
+     "label": "工作邀请",
+     "value": "",
+     "placeholder": "例如：暂时没有，或有一份柏林公司的书面邀请，年薪 6 万欧元"
+    },
+    {
+     "key": "savings",
+     "label": "存款",
+     "value": "约 18 拉克卢比"
+    },
+    {
+     "key": "priorities",
+     "label": "求职检查点和优先事项",
+     "value": "两条路线各自的 30 天行动清单"
+    }
+   ],
+   "template": "请为 {passport}、{family}、{degree}、{duties}、{language}、{offers} 和 {savings}，比较先拿工作的德国蓝卡、机会卡及加拿大快速通道。分清申请资格和筛选，核对适用年份门槛及改革后邀请，计算到首笔工资前的现金，避免重复计入本金。给出 {priorities}。只做规划，不申请、开户、联系他人、预订或付款。",
+   "phases": [
+    {
+     "title": "阅读德国和加拿大的规则、费用和最近的邀请轮次",
+     "note": "蓝卡、机会卡、学历认定、快速通道邀请轮次",
+     "judgment": "发现加拿大在 2026 年 11 月 3 日改了快速通道规则：工作邀请加分恢复，符合条件的软件类邀请可加 70 分，所以改革前的历次分数线只能当历史参考。最近一次综合轮次（2024 年 4 月，分数线 529）只作为历史列出；查不到的办理时长就写“未确认”，没有猜。"
+    },
+    {
+     "title": "算出积分、税后收入和现金需求，并复核加拿大积分",
+     "note": "积分逐项计算、费用、资金证明、生活费"
+    },
+    {
+     "title": "写成对比页面和来源清单，并检查电脑和手机版面",
+     "judgment": "独立复核的同事重算了积分（360、390、429、441）、六项“到首笔工资前”的现金估算和税后收入，没有发现问题；还确认德国 2027 年的薪资门槛是按一个拟议上限推算的，页面标为有条件、不是已确认的规则。"
+    }
+   ],
+   "workers": [
+    "读了加拿大快速通道的官方规则、积分标准、费用，以及实际发出的邀请轮次",
+    "读了德国官方资料：蓝卡、学历认定、机会卡和定居规则",
+    "独立重算成品页面里的积分、现金测算和税后收入"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/changes.html": "加拿大移民部：快速通道改革说明",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html": "加拿大移民部：快速通道历次邀请轮次",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html": "加拿大移民部：综合排名积分标准",
+    "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2027.html": "德国劳动部：2027 年社会保险拟议数据",
+    "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html": "德国《居留法》第 18g 条（欧盟蓝卡）",
+    "https://ircc.canada.ca/english/information/fees/fees.asp": "加拿大移民部费用清单",
+    "https://zab.kmk.org/en/statement-of-comparability/faq": "ZAB 学历可比性认定：常见问题",
+    "https://www.wes.org/eca/": "WES：移民用学历评估",
+    "https://www.tk.de/en/contribution-rate-social-security-2037092": "TK 医保：2026 年社保缴费比例",
+    "https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html": "德国《居留法》第 20a 条（机会卡）",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds/invitations.html?q=294": "加拿大移民部：最近一次综合轮次的指令",
+    "https://zab.kmk.org/en/eu-blue-card": "ZAB：欧盟蓝卡",
+    "https://germantechjobs.de/en/salaries/Backend/Berlin/all": "GermanTechJobs：柏林后端工程师薪资数据"
+   }
+  }
+ }
+}

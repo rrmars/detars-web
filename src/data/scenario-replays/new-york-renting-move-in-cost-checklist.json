@@ -1,0 +1,208 @@
+{
+ "slug": "new-york-renting-move-in-cost-checklist",
+ "startedAt": "2026-11-05",
+ "activeSec": 2052,
+ "stats": {
+  "searches": 49,
+  "pages": 48,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 51,
+   "end": 1084,
+   "chips": [
+    "https://www.nyc.gov/site/dca/about/FAQ-Broker-Fees.page",
+    "https://ww3.ca2.uscourts.gov/decisions/OPN/25-1506_opn.pdf",
+    "https://www.nysenate.gov/legislation/laws/GOB/7-107",
+    "https://rentguidelinesboard.cityofnewyork.us/resources/faqs/security-deposits/",
+    "https://www.nyc.gov/site/hpd/services-and-information/tenant-bill-of-rights.page"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1084,
+   "end": 1654,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 5,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1654,
+   "end": 1942,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same rules check, listings and move-in cost estimate",
+   "runTitle": "Moving to New York for a Midtown job: a studio or 1BR at around USD 3,200 a month",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City and country",
+     "value": "New York City, USA"
+    },
+    {
+     "key": "month",
+     "label": "Month and year",
+     "value": "March 2027"
+    },
+    {
+     "key": "people",
+     "label": "Who is moving",
+     "value": "Just me (single)"
+    },
+    {
+     "key": "office",
+     "label": "Office entrance and arrival time",
+     "value": "A job in Midtown Manhattan"
+    },
+    {
+     "key": "limits",
+     "label": "Rent, housing-plus-transit, total living and move-in cash limits",
+     "value": "Budget of about USD 3,200 a month"
+    },
+    {
+     "key": "needs",
+     "label": "Home type, size, furnishings, pets and accessibility",
+     "value": "A studio or 1BR in Manhattan, Brooklyn or Queens, with a commute under 40 minutes"
+    },
+    {
+     "key": "finance",
+     "label": "Income, credit and guarantor situation",
+     "value": "",
+     "placeholder": "e.g. salary USD 96,000, no US credit history yet, no guarantor"
+    }
+   ],
+   "template": "Help me plan a move to {city} in {month} for {people}, working at {office}. My rent, housing-plus-transit, total living and move-in cash limits are {limits}. I need {needs} and my income/credit/guarantor situation is {finance}. Compare real homes with dated links; separate deposits, fees, guarantor cover and renewals, signing cash and first-month bills without counting rent twice. Flag heating/building charges and exclusions, check applicable law and voucher protections, test my office route and list missing answers. Do not contact, apply, book, pay or publish.",
+   "phases": [
+    {
+     "title": "Check the current official rental rules and collect live listings",
+     "note": "Broker fees, deposits, screening fees, guarantors, and listings in three boroughs",
+     "judgment": "It checked whether the broker-fee law is still in force rather than assuming: it read the full appeal court opinion of 13 July 2026, which upheld the dismissal and did not suspend the law. It also found that the state attorney general’s tenant guide is out of date on the 14-day deposit return for rent-stabilised tenants, and it left out a listing marked RENTED even though its text said “available now”."
+    },
+    {
+     "title": "Build the linked guide page and the cost workbook with formulas",
+     "note": "Move-in cash and monthly cost for each listing"
+    },
+    {
+     "title": "Verify the sources, the calculations and the delivered files",
+     "judgment": "The independent colleague recalculated all 190 formulas with no errors and reread the official rules and all five advertisements. It accepted the result only as a dated planning snapshot, because the listings are not confirmed to be available in March 2027."
+    }
+   ],
+   "workers": [
+    "Read the official New York City and State rules on broker fees, application fees, security deposits, income and credit checks, and guarantors",
+    "Found and read current Manhattan rental listings within budget",
+    "Found and read current Brooklyn and Queens rental listings within budget",
+    "Reread the guide, the cost workbook and the listings on its own, looking for mistakes and gaps"
+   ],
+   "chipNames": {
+    "https://www.nyc.gov/site/dca/about/FAQ-Broker-Fees.page": "NYC Consumer and Worker Protection: broker fee FAQ",
+    "https://ww3.ca2.uscourts.gov/decisions/OPN/25-1506_opn.pdf": "Second Circuit appeals court opinion on the FARE Act (13 July 2026)",
+    "https://www.nysenate.gov/legislation/laws/GOB/7-107": "New York General Obligations Law §7-107 (security deposits)",
+    "https://rentguidelinesboard.cityofnewyork.us/resources/faqs/security-deposits/": "NYC Rent Guidelines Board: security deposit FAQ",
+    "https://www.nyc.gov/site/hpd/services-and-information/tenant-bill-of-rights.page": "NYC Housing Preservation and Development: Tenant Bill of Rights"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的搬家情况，得到同样的规则核对、房源和入住成本估算",
+   "runTitle": "为了一份中城的工作搬到纽约：月租约 3,200 美元的开间或一居室",
+   "fields": [
+    {
+     "key": "city",
+     "label": "城市和国家",
+     "value": "美国纽约市"
+    },
+    {
+     "key": "month",
+     "label": "年月",
+     "value": "2027 年 3 月"
+    },
+    {
+     "key": "people",
+     "label": "搬家人数",
+     "value": "我一个人（单身）"
+    },
+    {
+     "key": "office",
+     "label": "办公室入口和到岗时间",
+     "value": "曼哈顿中城的一份工作"
+    },
+    {
+     "key": "limits",
+     "label": "房租、住房加交通、全部生活费和入住现金上限",
+     "value": "预算约每月 3,200 美元"
+    },
+    {
+     "key": "needs",
+     "label": "户型、面积、家具、宠物和无障碍条件",
+     "value": "曼哈顿、布鲁克林或皇后区的开间或一居室，通勤不超过 40 分钟"
+    },
+    {
+     "key": "finance",
+     "label": "收入、信用和担保情况",
+     "value": "",
+     "placeholder": "例如：年薪 9.6 万美元，暂无美国信用记录，没有担保人"
+    }
+   ],
+   "template": "请帮我规划{people}于{month}搬到{city}的费用，在{office}工作。房租、住房加交通、全部生活费和入住现金上限是{limits}；需要{needs}，收入、信用和担保情况是{finance}。比较真实房源并附日期与链接，分清押金、费用、担保及续期、签约现金和首月账单，不重复算房租。列出供暖、楼宇收费和未计支出，核对适用法律及住房补助券保护，测试办公室路线并列出待补问题。不要联系、申请、预订、付款或发布。",
+   "phases": [
+    {
+     "title": "核对当前官方租房规定，收集在租房源",
+     "note": "中介费、押金、审核费、担保人，以及三个行政区的房源",
+     "judgment": "它没有想当然地认为中介费法还有效，而是通读了 2026 年 7 月 13 日上诉法院的完整判决：判决维持驳回，并没有暂停该法。它还发现纽约州总检察长的租客指南已经过时，没有反映租金稳定房客押金须在 14 天内返还的规定，同时剔除了一套页面写着“现已可租”却明确标注已租出的房源。"
+    },
+    {
+     "title": "制作带链接的指南页面和带公式的费用表格",
+     "note": "每套房源的入住现金和每月成本"
+    },
+    {
+     "title": "核对来源、计算和交付文件",
+     "judgment": "独立复核的同事重算了全部 190 个公式，没有出错，并重读了官方规定和全部五条房源广告。由于这些房源并不确定 2027 年 3 月仍可租，它只认可这份结果是带日期的规划快照。"
+    }
+   ],
+   "workers": [
+    "查阅纽约市和纽约州官方关于中介费、申请费、押金、收入与信用审核以及担保人的规定",
+    "查找并阅读预算内当前在租的曼哈顿房源",
+    "查找并阅读预算内当前在租的布鲁克林和皇后区房源",
+    "独立重读指南、费用表格和房源页面，找出错误和遗漏"
+   ],
+   "chipNames": {
+    "https://www.nyc.gov/site/dca/about/FAQ-Broker-Fees.page": "纽约市消费者与劳工保护局：中介费常见问题",
+    "https://ww3.ca2.uscourts.gov/decisions/OPN/25-1506_opn.pdf": "第二巡回上诉法院关于 FARE 法的判决（2026 年 7 月 13 日）",
+    "https://www.nysenate.gov/legislation/laws/GOB/7-107": "纽约州《一般债务法》第 7-107 条（押金）",
+    "https://rentguidelinesboard.cityofnewyork.us/resources/faqs/security-deposits/": "纽约市租金指导委员会：押金常见问题",
+    "https://www.nyc.gov/site/hpd/services-and-information/tenant-bill-of-rights.page": "纽约市住房保护与发展局：租客权利法案"
+   }
+  }
+ }
+}

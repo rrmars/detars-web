@@ -1,0 +1,202 @@
+{
+ "slug": "bangkok-family-car-ev-hybrid-petrol",
+ "startedAt": "2026-11-07",
+ "activeSec": 2406,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 25,
+   "end": 1615,
+   "chips": [
+    "https://www.mot.go.th/transportnews/159",
+    "https://www.pea.co.th/knowledge/ev-charging",
+    "https://www.toyota.co.th/model/corollacross",
+    "https://www.honda.co.th/hrvehev",
+    "https://www.pttor.com/th/oil_price"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 30,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1615,
+   "end": 2001,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2001,
+   "end": 2276,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "zh": {
+   "askTitle": "换成你们家的车型报价、里程和充电条件，五年总花费就按你们的情况重算",
+   "runTitle": "曼谷四口之家 2027 年初买车：预算 100–130 万泰铢，纯电、混动、燃油三选一",
+   "fields": [
+    {
+     "key": "grades",
+     "label": "具体配置和落地报价",
+     "value": "",
+     "placeholder": "例如：比亚迪 ATTO 3 Extended 落地价 85 万泰铢"
+    },
+    {
+     "key": "mileage",
+     "label": "年里程和出行",
+     "value": "每年约 18,000 公里，主要是市区，每月去一趟华欣"
+    },
+    {
+     "key": "finance",
+     "label": "现金或完整贷款条件",
+     "value": "按泰国常见利率贷款"
+    },
+    {
+     "key": "charging",
+     "label": "公寓许可、电表费率和全包安装报价",
+     "value": "住在曼谷 Bang Na 的公寓，有一个固定车位，还没有私人充电桩"
+    },
+    {
+     "key": "insurance",
+     "label": "保险保养轮胎报价",
+     "value": "",
+     "placeholder": "例如：保险年费 2.5 万泰铢"
+    },
+    {
+     "key": "chargetime",
+     "label": "可接受的公共充电时间",
+     "value": "",
+     "placeholder": "例如：路上充电最多等 40 分钟"
+    }
+   ],
+   "template": "请根据{grades}、{mileage}、{finance}、{charging}、{insurance}和{chargetime}，比较我们家的曼谷买车方案。分开现金流和持有成本，测试充电比例和转售价，并标出政策或规格待核事项。联系别人或分享文件前先问我。",
+   "phases": [
+    {
+     "title": "查泰国官方车价、持有成本、补贴政策和公寓充电可行性",
+     "note": "车厂官网价格、电费与油价、公共充电费率、电动车补贴和年税规定",
+     "judgment": "几条网上流传的说法，它都对到官方文本去核实：电动车补贴（2.5 万 / 5 万泰铢）只适用于本地生产车型，不是所有电动车都有；年税减免 80% 只给 2025 年 11 月 10 日前的登记、只有一年，不是五年；2027 年进口电动车消费税 35% 只在一篇新闻里看到，找不到泰国的正式文件，就明确标成“未确认”。"
+    },
+    {
+     "title": "搭五年总花费模型，写完整的英文网页指南",
+     "note": "六款车型的贷款、电费油费、保险保养和转售估算"
+    },
+    {
+     "title": "独立重算、测电脑和手机版式，交付三份文件",
+     "judgment": "独立复核的同事不用主流程的生成脚本，自己把每个金额重算一遍：373 项核对，零差异。它还确认座位数的说明已经改掉了先前说过头的写法，并指出一处来源措辞不准：AXA 页面写的是“起价 645.21 泰铢”，不是文中的精确分类。"
+    }
+   ],
+   "workers": [
+    "查泰国官网上四款车型的标价和规格：两款纯电、两款混动",
+    "查补贴、消费税、年税、强制险的官方规定，以及公寓装充电桩的许可要求",
+    "查曼谷的电费、公共充电费率和油价，并标明生效日期",
+    "独立复核：重算每个金额，核对结论与来源清单是否一致"
+   ],
+   "chipNames": {
+    "https://www.mot.go.th/transportnews/159": "交通部新闻（年度车辆税规定）",
+    "https://www.pea.co.th/knowledge/ev-charging": "泰国地方电力局 PEA：电动车充电资费",
+    "https://www.toyota.co.th/model/corollacross": "丰田泰国：Corolla Cross",
+    "https://www.honda.co.th/hrvehev": "本田泰国：HR-V e:HEV",
+    "https://www.pttor.com/th/oil_price": "PTT OR：每日油价"
+   }
+  },
+  "en": {
+   "askTitle": "Swap in your own trims, mileage and charging situation and the five-year cost comparison is rebuilt for you",
+   "runTitle": "A Bangkok family of four buying in early 2027: THB 1.0–1.3 million, choosing between electric, hybrid and petrol",
+   "fields": [
+    {
+     "key": "grades",
+     "label": "exact grades and delivered quotes",
+     "value": "",
+     "placeholder": "e.g. BYD ATTO 3 Extended, THB 850,000 delivered"
+    },
+    {
+     "key": "mileage",
+     "label": "annual mileage and trips",
+     "value": "About 18,000 km a year, mostly city traffic plus monthly trips to Hua Hin"
+    },
+    {
+     "key": "finance",
+     "label": "cash or full finance terms",
+     "value": "Financing at a typical Thai rate"
+    },
+    {
+     "key": "charging",
+     "label": "condo permission, meter/tariff and all-in installation quote",
+     "value": "Condo in Bang Na with one assigned parking bay, no private charger yet"
+    },
+    {
+     "key": "insurance",
+     "label": "insurance/service/tyre quotes",
+     "value": "",
+     "placeholder": "e.g. insurance THB 25,000 a year"
+    },
+    {
+     "key": "chargetime",
+     "label": "public-charging time we accept",
+     "value": "",
+     "placeholder": "e.g. up to 40 minutes at a public charger"
+    }
+   ],
+   "template": "Compare our Bangkok family-car choices using {grades}, {mileage}, {finance}, {charging}, {insurance} and {chargetime}. Separate cash flow from ownership cost, test charging share and resale, and flag unresolved policy or specification checks. Ask before contacting anyone or sharing our documents.",
+   "phases": [
+    {
+     "title": "Check Thai official car prices, running costs, incentives and condo charging feasibility",
+     "note": "Maker price pages, electricity and fuel prices, public charging tariffs, EV subsidy and annual tax rules",
+     "judgment": "It checked several widely repeated claims against the official text: the EV subsidy (THB 25,000 / 50,000) covers domestically produced cars, not every EV; the 80% annual-tax cut applies only to registrations up to 10 Nov 2025 and for one year, not five; and the 35% imported-EV excise rate for 2027 appeared only in a news article with no Thai official document found, so it is marked unconfirmed."
+    },
+    {
+     "title": "Build the five-year cost model and a complete English guide",
+     "note": "Loan, electricity and fuel, insurance, servicing and resale estimates for six models"
+    },
+    {
+     "title": "Independent recalculation, desktop and phone layout tests, then deliver three files",
+     "judgment": "The independent colleague recomputed every money figure without using the guide’s own generator: 373 checks, zero mismatches. It also confirmed the seating-capacity wording now replaces an earlier overclaim, and flagged one source wording that was off: the AXA page says “starts at THB 645.21”, not the precise classification the guide stated."
+    }
+   ],
+   "workers": [
+    "Found the listed prices and specifications of four models on Thai manufacturer sites: two electric, two hybrid",
+    "Checked the official rules on subsidy, excise, annual tax and compulsory insurance, and what a condo needs to approve a charger",
+    "Collected Bangkok electricity, public charging and fuel prices, each with its effective date",
+    "Independent check: recomputed every money figure and matched the conclusions to the source list"
+   ],
+   "chipNames": {
+    "https://www.mot.go.th/transportnews/159": "Ministry of Transport news (annual vehicle tax rules)",
+    "https://www.pea.co.th/knowledge/ev-charging": "PEA: EV charging tariffs",
+    "https://www.toyota.co.th/model/corollacross": "Toyota Thailand: Corolla Cross",
+    "https://www.honda.co.th/hrvehev": "Honda Thailand: HR-V e:HEV",
+    "https://www.pttor.com/th/oil_price": "PTT OR: daily fuel prices"
+   }
+  }
+ }
+}

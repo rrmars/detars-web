@@ -1,0 +1,198 @@
+{
+ "slug": "kansai-six-days-cherry-blossom-plan",
+ "startedAt": "2026-11-05",
+ "activeSec": 2062,
+ "stats": {
+  "searches": 71,
+  "pages": 86,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 24,
+   "end": 478,
+   "chips": [
+    "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+    "https://www.sg.emb-japan.go.jp/visa_exemption.htm",
+    "https://www.digital.go.jp/en/policies/visit_japan_web",
+    "https://www.shokoku-ji.jp/ginkakuji/news/",
+    "https://www.todaiji.or.jp/en/information/haikan/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 471,
+   "end": 1049,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 478,
+   "end": 1990,
+   "chips": [
+    "https://fare.hankyu.co.jp/fare/",
+    "https://subway.osakametro.co.jp/guide/fare/fare/price.php",
+    "https://www.kintetsu.co.jp/railway/Dia/pdf/price_limited_express_e.pdf",
+    "https://www.nankai.co.jp/en_railway/access-fromkix",
+    "https://www.hankyu.co.jp/en/area_info/lp/hankyu1daypass.html"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates, budget and hotels to get a Kansai plan checked the same way",
+   "runTitle": "Singapore couple, 3–9 April 2027: six days around Osaka and Kyoto on about SGD 3,200 excluding flights",
+   "fields": [
+    {
+     "key": "who",
+     "label": "Travellers and passport nationalities",
+     "value": "A couple in their late 30s, Singaporean"
+    },
+    {
+     "key": "dates",
+     "label": "Dates and flight times",
+     "value": "Fly into Kansai Airport on Saturday 3 April 2027, out on Friday 9 April 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and flight exclusions",
+     "value": "About SGD 3,200 for two, excluding flights"
+    },
+    {
+     "key": "walking",
+     "label": "Walking needs",
+     "value": "",
+     "placeholder": "e.g. no more than 10,000 steps a day, no steep hill climbs"
+    },
+    {
+     "key": "hotels",
+     "label": "Hotel quotes",
+     "value": "",
+     "placeholder": "e.g. a Namba hotel at SGD 190 a night for six nights"
+    }
+   ],
+   "template": "Plan Kansai for {who} on {dates}, with {budget}, {walking} and {hotels}. Compare one Namba base with a simple Osaka–Kyoto split, keep early Kyoto visits and a slower day trip, and include early/late-blossom and rain swaps. Verify all-in room costs, current fares/pass validity and entry rules for my dates. Separate historical samples, estimates and confirmed quotes. Plan only; do not book, contact anyone, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Check transport, sights, blossom timing and entry rules on official sites",
+     "note": "Sight fees and hours, cherry blossom forecast, entry rules for Singapore passports",
+     "judgment": "It caught an outdated price: Ginkakuji now charges ¥1,000 for adults (it was ¥500 until 1 April 2026), so the old figure was not used. It also would not promise Kiyomizudera’s evening opening, because the temple’s timetable only covers 2026."
+    },
+    {
+     "title": "Look at hotel price examples and work out the route and a budget that adds up",
+     "note": "Namba base against an Osaka and Kyoto split, with dated hotel prices"
+    },
+    {
+     "title": "Write the itinerary and sources, and check fares against each operator",
+     "judgment": "For fares it went to the operators’ own pages: Hankyu’s official calculator gives ¥410 from Osaka-Umeda to Kyoto-Kawaramachi, not ¥430, and it checked this for 5 April 2027 too. Fares it could not confirm, such as the Nankai airport fare and one Metro fare, are marked provisional."
+    }
+   ],
+   "workers": [
+    "Checked entry fees and opening hours for the Osaka, Kyoto, Nara and Uji sights on the route, and the cherry blossom outlook",
+    "Looked for publicly shown prices at two hotels each near Namba and Kyoto Station, noting the stay dates, taxes, breakfast and cancellation terms",
+    "Checked train fares and journey times on each railway’s own site, and compared rail passes with paying per ride"
+   ],
+   "chipNames": {
+    "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/": "Japan National Tourism Organization: cherry blossom forecast",
+    "https://www.sg.emb-japan.go.jp/visa_exemption.htm": "Embassy of Japan in Singapore: visa exemption",
+    "https://www.digital.go.jp/en/policies/visit_japan_web": "Digital Agency: Visit Japan Web",
+    "https://www.shokoku-ji.jp/ginkakuji/news/": "Ginkakuji: temple news and fees",
+    "https://www.todaiji.or.jp/en/information/haikan/": "Todaiji: visiting information and fees",
+    "https://fare.hankyu.co.jp/fare/": "Hankyu: fare calculator",
+    "https://subway.osakametro.co.jp/guide/fare/fare/price.php": "Osaka Metro: fares",
+    "https://www.kintetsu.co.jp/railway/Dia/pdf/price_limited_express_e.pdf": "Kintetsu: limited express fares",
+    "https://www.nankai.co.jp/en_railway/access-fromkix": "Nankai: access from Kansai Airport",
+    "https://www.hankyu.co.jp/en/area_info/lp/hankyu1daypass.html": "Hankyu: Osaka to Kyoto journey"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的日期、预算和酒店，就能得到同样核实过的关西行程",
+   "runTitle": "新加坡夫妻，2027 年 4 月 3 日至 9 日：大阪京都六天，预算约 3,200 新元（不含机票）",
+   "fields": [
+    {
+     "key": "who",
+     "label": "人数及护照国籍",
+     "value": "一对夫妻，三十多岁后段，新加坡籍"
+    },
+    {
+     "key": "dates",
+     "label": "日期和航班时间",
+     "value": "2027 年 4 月 3 日（周六）飞入关西机场，4 月 9 日（周五）离开"
+    },
+    {
+     "key": "budget",
+     "label": "预算及机票是否另计",
+     "value": "约 3,200 新元（两人），机票另计"
+    },
+    {
+     "key": "walking",
+     "label": "步行需求",
+     "value": "",
+     "placeholder": "例如：每天不超过 10,000 步，不爬陡坡"
+    },
+    {
+     "key": "hotels",
+     "label": "酒店报价",
+     "value": "",
+     "placeholder": "例如：难波一家酒店每晚 190 新元，住六晚"
+    }
+   ],
+   "template": "请按{who}、{dates}、{budget}、{walking}和{hotels}规划关西。比较难波一处住宿与简单的大阪京都分住，保留京都早晨及慢一点的近郊日，并安排早花、晚花和雨天互换。核实实际日期的完整房费、票价、通票有效期及入境规定，分清历史示例、估算和确认报价。只做规划，不预订、不联系、不开户、不付款。",
+   "phases": [
+    {
+     "title": "在官方网站核实交通、景点、花期和入境规定",
+     "note": "景点票价与开放时间、樱花预报、新加坡护照入境规定",
+     "judgment": "它挑出了一个过时的价格：银阁寺成人票现在是 1,000 日元（2026 年 4 月 1 日前是 500 日元），旧数字没有被采用；清水寺的夜间开放也没有承诺，因为寺方的时间表只覆盖 2026 年。"
+    },
+    {
+     "title": "看酒店价格示例，排出路线并算出合得上的预算",
+     "note": "难波一处住宿对比大阪京都分住，酒店价格带日期"
+    },
+    {
+     "title": "写出行程和来源，并逐家核对各铁路公司的票价",
+     "judgment": "票价直接查各公司官网：阪急官方计算器显示大阪梅田到京都河原町是 410 日元而不是 430 日元，并且按 2027 年 4 月 5 日也查过。没能确认的票价（南海机场线和一段地铁）都标成了暂定。"
+    }
+   ],
+   "workers": [
+    "核实路线上大阪、京都、奈良和宇治各景点的门票与开放时间，以及樱花花期预期",
+    "在难波和京都站附近各找两家酒店的公开价格，记下入住日期、税费、早餐和取消条件",
+    "在各铁路公司官网核对票价和乘车时间，并比较通票与按次付费"
+   ],
+   "chipNames": {
+    "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/": "日本政府观光局:樱花预报",
+    "https://www.sg.emb-japan.go.jp/visa_exemption.htm": "日本驻新加坡大使馆:免签说明",
+    "https://www.digital.go.jp/en/policies/visit_japan_web": "数字厅:Visit Japan Web",
+    "https://www.shokoku-ji.jp/ginkakuji/news/": "银阁寺:寺方通知与门票",
+    "https://www.todaiji.or.jp/en/information/haikan/": "东大寺:参观信息与门票",
+    "https://fare.hankyu.co.jp/fare/": "阪急电铁:票价计算器",
+    "https://subway.osakametro.co.jp/guide/fare/fare/price.php": "大阪地铁:票价",
+    "https://www.kintetsu.co.jp/railway/Dia/pdf/price_limited_express_e.pdf": "近铁:特急票价",
+    "https://www.nankai.co.jp/en_railway/access-fromkix": "南海电铁:从关西机场出发",
+    "https://www.hankyu.co.jp/en/area_info/lp/hankyu1daypass.html": "阪急电铁:大阪到京都乘车介绍"
+   }
+  }
+ }
+}

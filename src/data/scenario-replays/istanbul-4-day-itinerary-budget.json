@@ -1,0 +1,216 @@
+{
+ "slug": "istanbul-4-day-itinerary-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1819,
+ "stats": {
+  "searches": 61,
+  "pages": 29,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 45,
+   "end": 509,
+   "chips": [
+    "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi",
+    "https://www.sultanahmetcami.org/sayfa.php?s=ziyaretci-rehberi",
+    "https://kultur.istanbul/yerebatan-sarnici-muzesi/",
+    "https://iett.istanbul/icerik/IETT-toplu-ulasim-ucret-tarifesi",
+    "https://cagalogluhamami.com.tr/en/s/the-istanbul-dream/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 509,
+   "end": 1590,
+   "chips": [
+    "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+    "https://www.havabus.com/yolcuservisi/taksim-sabihagokcenhavalimani.aspx",
+    "https://www.tursab.org.tr/duyurular/yerebatan-sarnici-ziyaret-saatleri-hakkinda-duyuru-1",
+    "https://agency.demmuseums.com/Faq/Index",
+    "https://www.millisaraylar.gov.tr/AnaSayfa/ZiyaretBilgileri"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1590,
+   "end": 1741,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own dates, airports and budget to get an Istanbul plan where every price is checked or clearly marked as an estimate",
+   "runTitle": "Germany to Istanbul: four first-timer days for two on about EUR 1,400",
+   "fields": [
+    {
+     "key": "when",
+     "label": "Travellers and dates",
+     "value": "A couple from Germany; arrive Thu 23 Sep 2027, leave Mon 27 Sep 2027"
+    },
+    {
+     "key": "arrive",
+     "label": "Arrival airport and time",
+     "value": "",
+     "placeholder": "e.g. Istanbul Airport (IST), landing 14:30"
+    },
+    {
+     "key": "depart",
+     "label": "Departure airport and time",
+     "value": "",
+     "placeholder": "e.g. Sabiha Gökçen (SAW), flight at 18:00"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency",
+     "value": "About EUR 1,400 for two, excluding flights"
+    },
+    {
+     "key": "access",
+     "label": "Walking and access needs",
+     "value": "",
+     "placeholder": "e.g. no steps-heavy routes, a rest each afternoon"
+    },
+    {
+     "key": "hotel",
+     "label": "Hotel preferences",
+     "value": "",
+     "placeholder": "e.g. quiet room, close to a tram stop"
+    },
+    {
+     "key": "places",
+     "label": "Must-see places",
+     "value": "The big historic sights in Sultanahmet, a public Bosphorus ferry, Kadıköy, food markets and street food, and one hammam"
+    }
+   ],
+   "template": "Plan an Istanbul trip for {when}, arriving at {arrive} and leaving from {depart}, with {budget}, {access}, {hotel} and {places}. Keep evenings relaxed, separate quotes from allowances, check ordinary ferries in both directions and leave alternatives for uncertain prices or services. Do not book or contact anyone.",
+   "phases": [
+    {
+     "title": "Check sight prices, opening hours, hotels and airport transport from current sources",
+     "note": "Hagia Sophia, Blue Mosque, Topkapı, the Basilica Cistern and a hammam",
+     "judgment": "It noticed that older and newer sources disagree on the Basilica Cistern’s hours: a newer operator notice sets 09:00–19:00 from 15 November 2026, so the older evening sessions were not relied on, and the new ticket price is marked as unconfirmed."
+    },
+    {
+     "title": "Build the itinerary and a dated source list",
+     "note": "Transit times, fares, entry rules and a scam-awareness note",
+     "judgment": "Its fare check corrected a number: the city’s base transit fare is ₺46.20 from 20 July 2026, not ₺42, confirmed from the official transport operator’s own notice. It kept the fares it could not confirm, such as Marmaray and the metro line to the airport, listed as open gaps."
+    },
+    {
+     "title": "Check the budget sums, dates and delivered files",
+     "judgment": "The final answer shows a checked €1,400 budget and names what is still unknown: September hotel quotes, the Cistern’s new ticket price, exact Sunday ferry connections and some rail and metro fares. Estimates are kept apart from verified figures."
+    }
+   ],
+   "workers": [
+    "Checked official prices, opening hours and queue tips for the main sights, and one hammam’s price",
+    "Checked official fares for the Istanbulkart, trams, ferries and airport transfers, and the entry rules for German passport holders"
+   ],
+   "chipNames": {
+    "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi": "Topkapı Palace visitor information (official)",
+    "https://www.sultanahmetcami.org/sayfa.php?s=ziyaretci-rehberi": "Blue Mosque visitor guide",
+    "https://kultur.istanbul/yerebatan-sarnici-muzesi/": "Basilica Cistern (Istanbul culture portal)",
+    "https://iett.istanbul/icerik/IETT-toplu-ulasim-ucret-tarifesi": "Istanbul public transport fare table",
+    "https://cagalogluhamami.com.tr/en/s/the-istanbul-dream/": "Cağaloğlu Hammam: Istanbul Dream package",
+    "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa": "Turkish foreign ministry: visa information",
+    "https://www.havabus.com/yolcuservisi/taksim-sabihagokcenhavalimani.aspx": "Havabus airport shuttle to Taksim",
+    "https://www.tursab.org.tr/duyurular/yerebatan-sarnici-ziyaret-saatleri-hakkinda-duyuru-1": "Basilica Cistern new visiting hours notice",
+    "https://agency.demmuseums.com/Faq/Index": "Hagia Sophia ticket FAQ",
+    "https://www.millisaraylar.gov.tr/AnaSayfa/ZiyaretBilgileri": "National Palaces visitor information"
+   }
+  },
+  "zh": {
+   "askTitle": "填上你自己的日期、机场和预算，得到一份每个价格都核对过、或明确标为估算的伊斯坦布尔行程",
+   "runTitle": "德国出发：两人首次游伊斯坦布尔四天，预算约 1,400 欧元",
+   "fields": [
+    {
+     "key": "when",
+     "label": "人数和日期",
+     "value": "来自德国的一对夫妻，2027 年 9 月 23 日（周四）抵达，9 月 27 日（周一）离开"
+    },
+    {
+     "key": "arrive",
+     "label": "抵达机场及时间",
+     "value": "",
+     "placeholder": "例如：伊斯坦布尔机场（IST），14:30 落地"
+    },
+    {
+     "key": "depart",
+     "label": "离境机场及时间",
+     "value": "",
+     "placeholder": "例如：萨比哈·格克琴机场（SAW），18:00 起飞"
+    },
+    {
+     "key": "budget",
+     "label": "预算及币种",
+     "value": "两人约 1,400 欧元，不含机票"
+    },
+    {
+     "key": "access",
+     "label": "步行和通行需要",
+     "value": "",
+     "placeholder": "例如：避开台阶多的路线，每天下午要休息"
+    },
+    {
+     "key": "hotel",
+     "label": "酒店偏好",
+     "value": "",
+     "placeholder": "例如：房间安静，离电车站近"
+    },
+    {
+     "key": "places",
+     "label": "最想看的地方",
+     "value": "苏丹艾哈迈德区的主要古迹、一次公共博斯普鲁斯渡轮、卡德柯伊、美食市场和街头小吃，以及一次土耳其浴"
+    }
+   ],
+   "template": "请按{when}、{arrive}、{depart}、{budget}、{access}、{hotel}以及{places}，帮我安排伊斯坦布尔行程。晚上轻松一点，分清实价和预留，查普通渡轮双向衔接，遇到价格或服务不确定时给出备选。不要预订，也不要联系任何人。",
+   "phases": [
+    {
+     "title": "用最新来源核对景点价格、开放时间、酒店和机场交通",
+     "note": "圣索菲亚、蓝色清真寺、托普卡帕宫、地下水宫殿和土耳其浴",
+     "judgment": "它发现新旧来源对地下水宫殿的开放时间说法不一：较新的运营方通知从 2026 年 11 月 15 日起改为 09:00–19:00，所以没有采用旧的夜场信息，新的门票价格也标明尚未确认。"
+    },
+    {
+     "title": "做出行程和带日期的来源清单",
+     "note": "换乘时间、票价、入境规定和防骗提示",
+     "judgment": "查票价时纠正了一个数字：市内公交基础票价自 2026 年 7 月 20 日起是 46.20 里拉，不是 42 里拉，依据是官方交通运营方自己的通知。没能确认的票价，如马尔马拉铁路和机场地铁线，则列为尚未核实。"
+    },
+    {
+     "title": "检查预算加总、日期和交付文件",
+     "judgment": "终稿给出一份核对过的 1,400 欧元预算，并写明仍不确定的部分：9 月的酒店报价、地下水宫殿新票价、周日渡轮的确切衔接，以及部分轨道和地铁票价。估算和已核实的数字分开标注。"
+    }
+   ],
+   "workers": [
+    "核对主要景点的官方价格、开放时间和排队建议，以及一家土耳其浴的价格",
+    "核对伊斯坦布尔卡、电车、渡轮和机场接驳的官方票价，以及德国护照持有人的入境规定"
+   ],
+   "chipNames": {
+    "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi": "托普卡帕宫参观信息（官方）",
+    "https://www.sultanahmetcami.org/sayfa.php?s=ziyaretci-rehberi": "蓝色清真寺参观指南",
+    "https://kultur.istanbul/yerebatan-sarnici-muzesi/": "地下水宫殿（伊斯坦布尔文化门户）",
+    "https://iett.istanbul/icerik/IETT-toplu-ulasim-ucret-tarifesi": "伊斯坦布尔公共交通票价表",
+    "https://cagalogluhamami.com.tr/en/s/the-istanbul-dream/": "Cağaloğlu 土耳其浴：Istanbul Dream 套餐",
+    "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa": "土耳其外交部：签证信息",
+    "https://www.havabus.com/yolcuservisi/taksim-sabihagokcenhavalimani.aspx": "Havabus 机场大巴往塔克西姆",
+    "https://www.tursab.org.tr/duyurular/yerebatan-sarnici-ziyaret-saatleri-hakkinda-duyuru-1": "地下水宫殿新开放时间通知",
+    "https://agency.demmuseums.com/Faq/Index": "圣索菲亚门票常见问题",
+    "https://www.millisaraylar.gov.tr/AnaSayfa/ZiyaretBilgileri": "国家宫殿参观信息"
+   }
+  }
+ }
+}

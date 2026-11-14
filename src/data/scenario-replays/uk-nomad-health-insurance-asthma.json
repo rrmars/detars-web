@@ -1,0 +1,146 @@
+{
+ "slug": "uk-nomad-health-insurance-asthma",
+ "startedAt": "2026-11-06",
+ "activeSec": 1792,
+ "stats": {
+  "searches": 43,
+  "pages": 55,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 422,
+   "chips": [
+    "https://genki.world/products/native",
+    "https://safetywing.com/nomad-insurance/faq",
+    "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/E11-TEMPORARY-STAY-VISA-FOR-THE-EXERCISE-OF-A-PROFESSIONAL-ACTIVITY-DONE-REMOTELY.pdf",
+    "https://london.thaiembassy.org/en/page/destination-thailand-visa",
+    "https://www.gov.uk/guidance/travel-to-portugal-for-work"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 422,
+   "end": 1488,
+   "chips": [
+    "https://www.imglobal.com/international-health-insurance/global-medical-gold",
+    "https://www.cignaglobal.com/international-health-plans",
+    "https://www.allianzcare.com/en/personal-international-health-insurance/products-and-services/international-healthcare-plans.html"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1488,
+   "end": 1723,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own age, dates, budget and health history to see which nomad health plans actually fit and which ones exclude your condition",
+   "runTitle": "A 34-year-old UK freelancer with mild asthma: seven health plans compared for six months in Thailand and six in Portugal on £150 a month",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "Passport and residence facts",
+     "value": "UK-based freelance designer; NHS cover won’t help abroad"
+    },
+    {
+     "key": "age",
+     "label": "Age and birth date",
+     "value": "34"
+    },
+    {
+     "key": "dates",
+     "label": "Exact UK–Thailand–Portugal dates",
+     "value": "from February 2027: about 6 months in Chiang Mai, Thailand, then 6 months in Lisbon, Portugal"
+    },
+    {
+     "key": "budget",
+     "label": "Monthly budget",
+     "value": "about £150 a month"
+    },
+    {
+     "key": "history",
+     "label": "Medical history and prescribed treatment",
+     "value": "mild asthma, controlled with an inhaler"
+    },
+    {
+     "key": "offers",
+     "label": "Written offers from insurers",
+     "value": "",
+     "placeholder": "e.g. a written quote or an acceptance letter naming asthma"
+    },
+    {
+     "key": "visa",
+     "label": "Visa route",
+     "value": "a Portuguese digital-nomad or residence visa, and Thailand’s long-stay remote-worker visa"
+    }
+   ],
+   "template": "Compare health cover for {passport}, {age}, {dates} and {budget}. Use {history} and {offers} to separate accepted asthma admissions, routine care, medicines and evacuation from exclusions. Show deductibles, annual commitments, total payment cost, UK-visit rules and the certificate needed for {visa}. Keep unconfirmed cover and dated prices clear. Plan only; do not apply, contact insurers, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Three colleagues read the official terms in parallel: SafetyWing and Genki, IMG, Cigna and Allianz, and the Portugal and Thailand visa insurance rules",
+     "note": "Plan wording, prices, exclusions for existing conditions, and what each visa asks for",
+     "judgment": "It would not take an insurer’s headline at face value: SafetyWing’s public FAQ says existing conditions are excluded while the actual contract allows conditional acceptance, and its calculator shows two prices (US$177.50 and US$161.50), so the plan is flagged as not assumed to cover asthma."
+    },
+    {
+     "title": "Build the comparison page and a dated record of sources and calculations, with a fallback path if asthma isn’t covered",
+     "note": "Seven plans side by side, each with its price status and asthma treatment",
+     "judgment": "It did not crown a winner it could not verify: no plan was confirmed to cover asthma within £150 a month. SafetyWing Complete’s advertised price converts to about £131.88 a month, inside the budget, but its conflicting wording means it is not recommended without conditions, and the page points her to get explicit asthma acceptance from Genki, Cigna or Allianz first."
+    },
+    {
+     "title": "Independent review of calculations, asthma claims and visa claims against the raw documents, plus desktop and phone layout checks",
+     "judgment": "The independent reviewer rechecked the exchange-rate conversions, monthly and annual totals and day counts, and traced the asthma warnings back to the insurers’ own wording. It confirmed that no unsupported “asthma-safe within £150” winner is claimed."
+    }
+   ],
+   "workers": [
+    "Read the official terms and prices for the SafetyWing and Genki plans, focusing on how existing asthma is treated",
+    "Read the official benefits and medical underwriting rules for IMG, Cigna Global and Allianz Care",
+    "Checked the insurance rules for Portugal’s remote-work visas and Thailand’s long-stay visa, and looked at travel insurance as an alternative",
+    "Independent review of the finished page: rechecked calculations, asthma claims and visa claims against the raw documents"
+   ],
+   "chipNames": {
+    "https://genki.world/products/native": "Genki Native plan",
+    "https://safetywing.com/nomad-insurance/faq": "SafetyWing Nomad Insurance FAQ",
+    "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/E11-TEMPORARY-STAY-VISA-FOR-THE-EXERCISE-OF-A-PROFESSIONAL-ACTIVITY-DONE-REMOTELY.pdf": "Portugal remote-work temporary stay visa checklist",
+    "https://london.thaiembassy.org/en/page/destination-thailand-visa": "Thai Embassy London: Destination Thailand Visa",
+    "https://www.gov.uk/guidance/travel-to-portugal-for-work": "UK government: travel to Portugal for work",
+    "https://www.imglobal.com/international-health-insurance/global-medical-gold": "IMG Global Medical Gold",
+    "https://www.cignaglobal.com/international-health-plans": "Cigna Global: international health plans",
+    "https://www.allianzcare.com/en/personal-international-health-insurance/products-and-services/international-healthcare-plans.html": "Allianz Care: international healthcare plans"
+   }
+  }
+ }
+}

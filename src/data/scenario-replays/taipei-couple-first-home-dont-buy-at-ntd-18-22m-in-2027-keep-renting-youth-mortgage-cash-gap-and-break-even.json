@@ -1,0 +1,155 @@
+{
+ "slug": "taipei-couple-first-home-dont-buy-at-ntd-18-22m-in-2027-keep-renting-youth-mortgage-cash-gap-and-break-even",
+ "startedAt": "2026-11-07",
+ "activeSec": 1582,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 217,
+   "chips": [
+    "https://www.nta.gov.tw/singlehtml/108",
+    "https://www.nta.gov.tw/singlehtml/109",
+    "https://www.mof.gov.tw/house/multiplehtml/fb9a2a1b9efa426bb0cc7802e1a8da91",
+    "https://www.cbc.gov.tw/tw/lp-357-1.html",
+    "https://www.cbc.gov.tw/tw/cp-302-192864-4319f-1.html"
+   ],
+   "workers": []
+  },
+  {
+   "start": 217,
+   "end": 1302,
+   "chips": [
+    "https://oi.landbank.com.tw/product/12",
+    "https://www.fsc.gov.tw/ch/home.jsp?id=128&parentpath=0,5&mcustomize=lawnew_view.jsp&dataserno=202509040001&dtable=NewsLaw",
+    "https://www.tax.ntpc.gov.tw/mp-1.html",
+    "https://data.ntpc.gov.tw/datasets/db113460-dfa9-4a89-8061-96a507782b50"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1302,
+   "end": 1582,
+   "chips": [
+    "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=G0340105"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own numbers and get the same buy-or-keep-renting check before you commit",
+   "runTitle": "Taipei couple on NT$145,000 a month: buy in New Taipei in 2027, or keep renting?",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City",
+     "value": "New Taipei (Banqiao or Zhonghe)"
+    },
+    {
+     "key": "income",
+     "label": "Combined net monthly income",
+     "value": "NT$145,000"
+    },
+    {
+     "key": "rent",
+     "label": "Monthly rent",
+     "value": "NT$26,000"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "NT$3.2 million"
+    },
+    {
+     "key": "marriage",
+     "label": "Marriage registration date",
+     "value": "",
+     "placeholder": "e.g. 14 March 2025"
+    },
+    {
+     "key": "kids",
+     "label": "Number of minor children",
+     "value": "0"
+    },
+    {
+     "key": "price",
+     "label": "Purchase price range",
+     "value": "NT$18–22 million"
+    },
+    {
+     "key": "reserve",
+     "label": "Reserve kept outside the budget",
+     "value": "",
+     "placeholder": "e.g. NT$500,000"
+    },
+    {
+     "key": "saving",
+     "label": "Amount you can save each month",
+     "value": "",
+     "placeholder": "e.g. NT$30,000"
+    }
+   ],
+   "template": "Help me decide whether to buy a first home in {city}. We earn {income}, pay {rent} and have {savings}. Our marriage registration date is {marriage} and we have {kids} minor children. Compare buying at {price} under the 青安3.0 youth loan with continuing to rent, rebuild the cash-needed table, the monthly payments and the 10-year buy-versus-rent comparison with my numbers, keep a {reserve} reserve outside the budget, and tell me how long it would take to save the gap at {saving}.",
+   "phases": [
+    {
+     "title": "Read the official youth-loan, tax and central-bank pages",
+     "note": "Loan rules, credit controls, rate sources",
+     "judgment": "It corrected the question’s premise: the youth-loan programme the couple asked about (“新青安”) ended on 31 July 2026. Its replacement, 青安3.0, takes applications from 1 August 2026 to 31 July 2029."
+    },
+    {
+     "title": "Research purchase taxes, holding costs, bank practice and registered sale prices, then build the guide and break-even tables",
+     "note": "Taxes and fees, registered prices and rents, loan and cash-needed tables",
+     "judgment": "It refused to treat re-dated or media-only claims as facts: three government press releases stamped with a 2026 date turned out to be old 2021–22 text, so their numbers were not used, and talk of banks queuing to disburse youth loans rests on one media report and is labelled unconfirmed."
+    },
+    {
+     "title": "Independent recomputation of every money figure, then fixes",
+     "judgment": "The reviewer reproduced every table figure but found three errors in the advice text, and they were fixed. One example: waiting for a NT$16M home at the assumed saving rate would run to about August 2029, after the 31 July 2029 application deadline, so “waiting costs no eligibility” was wrong."
+    }
+   ],
+   "workers": [
+    "Read the tax laws and tax-office pages for purchase taxes, fees and yearly holding costs, and estimated the building’s taxable value",
+    "Checked the youth-loan rules, bank lending practice, central-bank credit controls, registered sale prices and rents",
+    "Recomputed every money figure from the sources and checked the guide’s claims against them, without having written the guide"
+   ],
+   "chipNames": {
+    "https://www.nta.gov.tw/singlehtml/108": "National Treasury Administration: youth home loan rules",
+    "https://www.nta.gov.tw/singlehtml/109": "National Treasury Administration: youth home loan details",
+    "https://www.mof.gov.tw/house/multiplehtml/fb9a2a1b9efa426bb0cc7802e1a8da91": "Ministry of Finance: housing information",
+    "https://www.cbc.gov.tw/tw/lp-357-1.html": "Central Bank of Taiwan: credit control overview",
+    "https://www.cbc.gov.tw/tw/cp-302-192864-4319f-1.html": "Central Bank of Taiwan: credit control announcement",
+    "https://oi.landbank.com.tw/product/12": "Land Bank of Taiwan: youth home loan product page",
+    "https://www.fsc.gov.tw/ch/home.jsp?id=128&parentpath=0,5&mcustomize=lawnew_view.jsp&dataserno=202509040001&dtable=NewsLaw": "Financial Supervisory Commission: youth loans and the bank-lending cap",
+    "https://www.tax.ntpc.gov.tw/mp-1.html": "New Taipei City Taxation Bureau",
+    "https://data.ntpc.gov.tw/datasets/db113460-dfa9-4a89-8061-96a507782b50": "New Taipei City open data set",
+    "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=G0340105": "National laws and regulations database: Deed Tax Act"
+   }
+  }
+ }
+}

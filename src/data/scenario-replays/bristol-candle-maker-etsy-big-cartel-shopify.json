@@ -1,0 +1,142 @@
+{
+ "slug": "bristol-candle-maker-etsy-big-cartel-shopify",
+ "startedAt": "2026-11-06",
+ "activeSec": 2127,
+ "stats": {
+  "searches": 39,
+  "pages": 44,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 63,
+   "end": 988,
+   "chips": [
+    "https://www.etsy.com/uk/legal/fees/",
+    "https://www.royalmail.com/prices2026",
+    "https://www.hse.gov.uk/chemical-classification/labelling-packaging/index.htm",
+    "https://www.gov.uk/register-for-vat?share_source=a055700000ySuit",
+    "https://www.shopify.com/uk/pricing"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 988,
+   "end": 1674,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1674,
+   "end": 1843,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own products, prices and costs and get the same Etsy, Big Cartel and Shopify comparison",
+   "runTitle": "Bristol: a home candle maker choosing where to sell online from January 2027",
+   "fields": [
+    {
+     "key": "location",
+     "label": "Location and destinations",
+     "value": "Bristol, UK"
+    },
+    {
+     "key": "products",
+     "label": "Products",
+     "value": "Hand-poured soy candles made at home"
+    },
+    {
+     "key": "prices",
+     "label": "Prices and candles per order",
+     "value": "£18 per candle at markets; an online order averages about £26, roughly 1.4 candles plus postage"
+    },
+    {
+     "key": "delivery",
+     "label": "Delivery charge and packed parcel weights",
+     "value": "Royal Mail, about 500g per candle parcel"
+    },
+    {
+     "key": "costs",
+     "label": "Materials, labour and packaging costs",
+     "value": "",
+     "placeholder": "e.g. £3.20 of wax, wick and fragrance per candle, plus £0.90 packaging"
+    },
+    {
+     "key": "cards",
+     "label": "Card mix",
+     "value": "",
+     "placeholder": "e.g. 80% UK cards, 20% international cards"
+    },
+    {
+     "key": "sales",
+     "label": "Monthly market and online sales",
+     "value": "About 60 candles a month at markets; online from January 2027, expecting around 120 online orders a month by the end of 2027"
+    },
+    {
+     "key": "direct",
+     "label": "Direct-customer sources",
+     "value": "",
+     "placeholder": "e.g. market regulars, an Instagram following, a mailing list"
+    },
+    {
+     "key": "vat",
+     "label": "VAT status",
+     "value": "Not VAT registered"
+    }
+   ],
+   "template": "Compare Etsy, Big Cartel and Shopify for my {location}, {products}, {prices}, {delivery}, {costs}, {cards}, {sales}, {direct} and {vat}. Separate fees from profit, include acquisition costs and check the applicable safety and dated pricing requirements. Give me a launch choice and the conditions for changing it. Plan only; do not open accounts, contact anyone, subscribe or pay.",
+   "phases": [
+    {
+     "title": "Read the official platform fee pages, Royal Mail prices and UK candle rules",
+     "note": "Etsy fees, postage, labelling, product safety and VAT",
+     "judgment": "Where sources disagreed, it said so instead of picking one. Royal Mail’s headline prices clashed with its dated October price guides, so it modelled with the dated tables (2nd Class £4.40/£4.60). It also found that the government’s October 2026 standards notice leaves out the candle standards that local-authority guidance calls designated, and did not promise automatic legal protection."
+    },
+    {
+     "title": "Build the comparison page and an editable workbook with every calculation visible",
+     "judgment": "The independent colleague checked all 158 workbook formulas and 75 numbers on the page, with zero mismatches, confirmed that postage is charged once per order, and caught one leftover: some comparison labels stayed fixed at “20%” and “12%” when the assumptions were edited."
+    },
+    {
+     "title": "Independent check of the arithmetic, workbook recalculation and phone and desktop tests",
+     "judgment": "The hand-over lists what it could not confirm: January 2027 postage tariffs, Etsy’s exact set-up and currency charges, real packaging costs, and how Shopify’s UK subscription is taxed."
+    }
+   ],
+   "workers": [
+    "Read the official UK rules on candle labelling, product safety, safety standards and VAT",
+    "Checked Etsy’s current UK fees and Royal Mail’s current prices for a roughly 500g candle parcel",
+    "Independently recalculated the workbook and the page, and sampled the original fee sources"
+   ],
+   "chipNames": {
+    "https://www.etsy.com/uk/legal/fees/": "Etsy UK fees",
+    "https://www.royalmail.com/prices2026": "Royal Mail 2026 prices",
+    "https://www.hse.gov.uk/chemical-classification/labelling-packaging/index.htm": "HSE: chemical labelling and packaging (CLP)",
+    "https://www.gov.uk/register-for-vat?share_source=a055700000ySuit": "GOV.UK: register for VAT",
+    "https://www.shopify.com/uk/pricing": "Shopify UK pricing"
+   }
+  }
+ }
+}

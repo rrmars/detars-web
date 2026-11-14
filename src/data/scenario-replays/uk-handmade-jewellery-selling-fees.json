@@ -1,0 +1,129 @@
+{
+ "slug": "uk-handmade-jewellery-selling-fees",
+ "startedAt": "2026-11-05",
+ "activeSec": 1353,
+ "stats": {
+  "searches": 55,
+  "pages": 58,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 28,
+   "end": 1131,
+   "chips": [
+    "https://www.royalmail.com/sending/uk/tracked-48",
+    "https://www.assayofficelondon.co.uk/media/3247/london-assay-office-price-list-6-april-2026.pdf",
+    "https://www.etsy.com/uk/legal/fees/",
+    "https://sell.amazon.co.uk/pricing",
+    "https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1131,
+   "end": 1169,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1169,
+   "end": 1275,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own shop and get the same platform comparison, with every fee and caveat beside what it affects",
+   "runTitle": "Bristol maker of handmade silver jewellery: where to sell online from January 2027",
+   "fields": [
+    {
+     "key": "location",
+     "label": "UK location and VAT status",
+     "value": "Bristol"
+    },
+    {
+     "key": "price",
+     "label": "Goods price and whether postage is included",
+     "value": "Average order £45"
+    },
+    {
+     "key": "orders",
+     "label": "Monthly orders and customer sources",
+     "value": "About 40 orders a month"
+    },
+    {
+     "key": "costs",
+     "label": "Materials, packaging and making/admin time",
+     "value": "",
+     "placeholder": "e.g. £9 of silver and packaging per order, 40 minutes of making time"
+    },
+    {
+     "key": "mix",
+     "label": "UK/EU/NI mix",
+     "value": "Ships within the UK and some to the EU"
+    },
+    {
+     "key": "weights",
+     "label": "Weights and hallmark needs",
+     "value": "Handmade silver; hallmarking applies to silver over 7.78 g"
+    },
+    {
+     "key": "quotes",
+     "label": "Actual platform and postage quotes",
+     "value": "",
+     "placeholder": "e.g. a written joining-fee quote and a parcel price from Royal Mail"
+    }
+   ],
+   "template": "Compare selling channels for my {location} handmade jewellery business using {price}, {orders}, {costs}, {mix}, {weights} and {quotes}. Show profit after paying my time, upfront cash, customer-acquisition costs and unresolved VAT, returns and product-safety requirements. Keep NOTHS quote-only until I supply its terms and resolve Amazon's published-rate conflict. Plan only; do not create accounts, apply, contact anyone or pay.",
+   "phases": [
+    {
+     "title": "Read official platform, postage and compliance pages, dated 6 November 2026",
+     "note": "Etsy, Shopify, Folksy, Not On The High Street and Amazon Handmade fees; Royal Mail UK and EU prices; hallmarking costs",
+     "judgment": "It caught a postage trap: Royal Mail’s Tracked services advertise compensation, but their terms exclude jewellery. The plan therefore prices Special Delivery by 1pm (£10.85 for up to 500 g, the plan’s default; £9.85 up to 100 g; up to £750 cover) instead of the cheaper service that would not pay out."
+    },
+    {
+     "title": "Build the editable profit workbook and the one-page guide"
+    },
+    {
+     "title": "Recalculate the workbook and check the delivered files",
+     "judgment": "A separate reviewer read the workbook’s formulas and found two real flaws: setting any platform to zero orders would break its profit, and editing one order cell could silently mislabel the comparison. Both were fixed before the final recalculation, which showed all 505 formulas working with zero errors. Not On The High Street stays marked “Quote needed” rather than being given an invented profit."
+    }
+   ],
+   "workers": [
+    "Checked Royal Mail’s current UK and EU parcel prices and compensation rules for jewellery, plus London Assay Office hallmarking costs",
+    "Read the official fee pages and terms for each marketplace, VAT on seller fees, the new EU import charges, and the UK returns and product-safety rules",
+    "Read the workbook’s formulas looking for logic and cell-reference mistakes, without touching the fee research"
+   ],
+   "chipNames": {
+    "https://www.royalmail.com/sending/uk/tracked-48": "Royal Mail Tracked 48 terms",
+    "https://www.assayofficelondon.co.uk/media/3247/london-assay-office-price-list-6-april-2026.pdf": "London Assay Office price list, April 2026",
+    "https://www.etsy.com/uk/legal/fees/": "Etsy UK fees",
+    "https://sell.amazon.co.uk/pricing": "Amazon UK selling prices",
+    "https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en": "European Commission: flat EU import fee guidance"
+   }
+  }
+ }
+}

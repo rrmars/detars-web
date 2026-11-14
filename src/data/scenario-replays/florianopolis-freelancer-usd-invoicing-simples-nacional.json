@@ -1,0 +1,108 @@
+{
+ "slug": "florianopolis-freelancer-usd-invoicing-simples-nacional",
+ "startedAt": "2026-11-07",
+ "activeSec": 985,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 985,
+   "chips": [
+    "https://wise.com/br/pricing/receive",
+    "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/o-que-e-mei",
+    "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+    "https://www.payoneer.com/pt/pricing/",
+    "https://www8.receita.fazenda.gov.br/simplesnacional/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own freelance setup and get the same structure and USD-receiving comparison before you start invoicing",
+   "runTitle": "Florianópolis, Brazil: a freelance UX designer invoicing two US clients in USD",
+   "fields": [
+    {
+     "key": "profession",
+     "label": "Profession",
+     "value": "freelance UX designer"
+    },
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Florianópolis"
+    },
+    {
+     "key": "clients",
+     "label": "Number of clients",
+     "value": "two"
+    },
+    {
+     "key": "country",
+     "label": "Clients’ country",
+     "value": "the US"
+    },
+    {
+     "key": "amount",
+     "label": "Monthly USD amount",
+     "value": "USD 4,500, growing to USD 6,500 during 2027"
+    },
+    {
+     "key": "start",
+     "label": "Start month and year",
+     "value": "January 2027"
+    },
+    {
+     "key": "routes",
+     "label": "Receiving routes to compare",
+     "value": "Wise Business, Payoneer, a Brazilian bank’s international transfer, and other well-documented options"
+    }
+   ],
+   "template": "Help me set up USD invoicing from Brazil. I am a {profession} in {city}, with {clients} clients in {country} paying about {amount} a month, starting on {start}. Compare MEI, an ME under Simples Nacional and working as an individual for my case, check whether my work counts under fator R (Annex III or V), and compare the cost of receiving USD through {routes} using my own quotes. Rebuild the monthly take-home with my pro-labore, accountant fee and exchange rate, and list what to ask my accountant. Flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Research the Brazilian tax rules, receiving fees and accountant prices, then write and check the guide",
+     "note": "Structure and tax rules, fees for receiving USD, and accountant costs",
+     "judgment": "What it could not confirm is labelled, not filled in: the bank rows use illustrative 1–3% spreads rather than published fees, and Wise’s USD-to-BRL fee is a proxy marked unconfirmed. A second pass then recomputed 61 money figures and found 0 mismatches, after fixing 1-centavo rounding differences and a reversed range."
+    }
+   ],
+   "workers": [
+    "Read the official Brazilian sources on MEI, Simples Nacional sign-up timing, minimum wage, social-security contributions and income tax, and listed what it could not find",
+    "Priced the ways to receive USD (Wise, Payoneer, PayPal, Remessa Online and bank transfers) against the official exchange rate for the worked examples",
+    "Collected published monthly prices from online accountants, plus digital-certificate costs, with the date each was read"
+   ],
+   "chipNames": {
+    "https://wise.com/br/pricing/receive": "Wise Brazil: pricing for receiving money",
+    "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/o-que-e-mei": "gov.br: what MEI is",
+    "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm": "Complementary Law 123 (Simples Nacional)",
+    "https://www.payoneer.com/pt/pricing/": "Payoneer pricing (Portuguese)",
+    "https://www8.receita.fazenda.gov.br/simplesnacional/": "Receita Federal: Simples Nacional portal"
+   }
+  }
+ }
+}

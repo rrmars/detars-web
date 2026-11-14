@@ -1,0 +1,195 @@
+{
+ "slug": "torres-del-paine-five-day-w-trek-refugios",
+ "startedAt": "2026-11-07",
+ "activeSec": 2792,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 53,
+   "end": 908,
+   "chips": [
+    "https://www.conaf.cl/el-1-de-mayo-entra-en-vigencia-nuevo-sistema-tarifario-para-el-parque-nacional-torres-del-paine/",
+    "https://parquetorresdelpaine.cl/recomendaciones-para-su-viaje-2026/",
+    "https://chile.travel/en/blog/natales-airfield-to-have-partial-closures-between-january-and-march-2027/",
+    "https://catamaranpehoe.com/",
+    "https://lastorres.com/en/refugios/cuernos-mountain-hostel/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 908,
+   "end": 1943,
+   "chips": [
+    "https://parquetorresdelpaine.cl/tarifas-y-horarios-2026/",
+    "https://chile.travel/en/good-to-know/entry-and-visa-requirements/",
+    "https://www.mfa.gov.sg/travelling-overseas/general-travel-advice-for-singaporeans/",
+    "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1943,
+   "end": 2633,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 9,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own dates and group and get the same kind of trek plan",
+   "runTitle": "A Singapore couple’s first multi-day trek: the five-day W in Torres del Paine, late February 2027, SGD 9,500",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates and flexibility",
+     "value": "Late February 2027, as part of a 12-day Chile trip starting and ending in Santiago"
+    },
+    {
+     "key": "passports",
+     "label": "Passports",
+     "value": "Singapore passports"
+    },
+    {
+     "key": "country",
+     "label": "Country of residence",
+     "value": "Singapore"
+    },
+    {
+     "key": "experience",
+     "label": "Multi-day trekking experience and training",
+     "value": "Early 30s and fit, but no multi-day trekking experience"
+    },
+    {
+     "key": "amount",
+     "label": "Budget, and whether it includes international flights",
+     "value": "SGD 9,500 for both, excluding flights from Singapore to Santiago"
+    }
+   ],
+   "template": "Help us plan the five-day west-to-east W for {dates}. We hold {passports}, live in {country}, have {experience} and a budget of {amount}. Compare a complete Grey–Paine Grande–Francés–Central bed/meal/bedding chain, Punta Arenas flights and bus/boat connections, and issued-policy questions for self-guided trekking/search and rescue. Flag unworkable connections and current tariffs without assuming cover or availability. Ask before contacting anyone, submitting personal details, booking or paying.",
+   "phases": [
+    {
+     "title": "Read the official park, transport, entry and insurance rules and current prices",
+     "judgment": "It caught that the park’s old ticket rule is out of date: since 1 May 2026 tickets are for one day or two or more consecutive days, up to ten. It also refused to treat the published 2026 adult price (CLP 48,500) as the price for February 2027, and labelled it unconfirmed."
+    },
+    {
+     "title": "Build the guide with the itinerary and a worked budget, and keep a source list"
+    },
+    {
+     "title": "Independently check the figures and claims, and test the page on desktop and phone",
+     "judgment": "The independent audit recomputed every money row and all of them passed. It also found one sentence the sources did not support, a claim that an airline’s pages publish direct flights, and it was replaced with the government-confirmed connection and airline schedules marked unverified."
+    }
+   ],
+   "workers": [
+    "Verified the park’s ticket and trekking rules, and the published refugio, camping and guided prices",
+    "Collected the official bus, boat and flight information and dated fare examples",
+    "Read the official entry, customs and travel-insurance sources for Singapore passport holders",
+    "Independently recomputed every money figure and checked each claim against the source list"
+   ],
+   "chipNames": {
+    "https://www.conaf.cl/el-1-de-mayo-entra-en-vigencia-nuevo-sistema-tarifario-para-el-parque-nacional-torres-del-paine/": "CONAF: new fare system from 1 May 2026",
+    "https://parquetorresdelpaine.cl/recomendaciones-para-su-viaje-2026/": "Torres del Paine park: trip recommendations 2026",
+    "https://chile.travel/en/blog/natales-airfield-to-have-partial-closures-between-january-and-march-2027/": "Chile Travel: Puerto Natales airfield closures, early 2027",
+    "https://catamaranpehoe.com/": "Catamaran Pehoé: Lago Pehoé crossing",
+    "https://lastorres.com/en/refugios/cuernos-mountain-hostel/": "Las Torres: Cuernos mountain hostel",
+    "https://parquetorresdelpaine.cl/tarifas-y-horarios-2026/": "Torres del Paine park: 2026 fees and hours",
+    "https://chile.travel/en/good-to-know/entry-and-visa-requirements/": "Chile Travel: entry and visa requirements",
+    "https://www.mfa.gov.sg/travelling-overseas/general-travel-advice-for-singaporeans/": "Singapore MFA: general travel advice",
+    "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile": "SAG: Chile agricultural declaration"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的日期和同行情况，得到同样的徒步计划",
+   "runTitle": "新加坡夫妻第一次多日徒步：2027 年 2 月底走托雷斯德尔潘恩五天 W 线，预算 9,500 新元",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期和弹性范围",
+     "value": "2027 年 2 月底，12 天智利行程的一部分，圣地亚哥往返"
+    },
+    {
+     "key": "passports",
+     "label": "护照",
+     "value": "新加坡护照"
+    },
+    {
+     "key": "country",
+     "label": "居住国家",
+     "value": "新加坡"
+    },
+    {
+     "key": "experience",
+     "label": "多日徒步经验和训练情况",
+     "value": "三十出头、体能不错，但没有多日徒步经验"
+    },
+    {
+     "key": "amount",
+     "label": "预算金额，说明是否含国际机票",
+     "value": "两人合计 9,500 新元，不含新加坡到圣地亚哥的机票"
+    }
+   ],
+   "template": "帮我们规划 {dates} 的五天西向东 W 线。我们持 {passports}，居住 {country}，有 {experience}，预算 {amount}。比较完整的 Grey–Paine Grande–Francés–Central 床位、餐食和床品链，蓬塔阿雷纳斯航班与巴士船程，以及实际出单保险对无向导徒步和搜寻救援的问题。标出无法衔接的环节及当前价目，不假设有位或已承保。联系任何人、提交个人资料、预订或付款前先问我们。",
+   "phases": [
+    {
+     "title": "查阅公园、交通、入境和保险的官方规定与当前价格",
+     "judgment": "它发现公园旧的门票规则已经过时：自 2026 年 5 月 1 日起，门票为一天，或连续两天以上、最多十天；并且没有把公布的 2026 年成人价(48,500 智利比索)当成 2027 年 2 月的价格，明确标为未确认。"
+    },
+    {
+     "title": "做出含行程和分项预算的指南，并整理来源清单"
+    },
+    {
+     "title": "独立核对数字和说法，并在电脑和手机上测试页面",
+     "judgment": "独立复核把每一笔金额都重算了一遍，全部通过；还找出一句来源不支持的话，即某航空公司页面“公布直飞航班”，已改成政府确认的衔接方式，并把航班时刻标为未核实。"
+    }
+   ],
+   "workers": [
+    "核实公园门票与徒步规定，以及已公布的山屋、营地和带队价格",
+    "收集官方的巴士、渡船和航班信息，以及带日期的票价示例",
+    "读新加坡护照持有人入境、海关和旅行保险的官方资料",
+    "独立重算每一笔金额，并把每个说法对照来源清单核查"
+   ],
+   "chipNames": {
+    "https://www.conaf.cl/el-1-de-mayo-entra-en-vigencia-nuevo-sistema-tarifario-para-el-parque-nacional-torres-del-paine/": "CONAF:2026 年 5 月 1 日起的新票价制度",
+    "https://parquetorresdelpaine.cl/recomendaciones-para-su-viaje-2026/": "托雷斯德尔潘恩公园:2026 年出行建议",
+    "https://chile.travel/en/blog/natales-airfield-to-have-partial-closures-between-january-and-march-2027/": "智利旅游局:2027 年初纳塔莱斯机场部分关闭",
+    "https://catamaranpehoe.com/": "佩奥埃湖渡船(Catamarán Pehoé)",
+    "https://lastorres.com/en/refugios/cuernos-mountain-hostel/": "Las Torres:Cuernos 山屋",
+    "https://parquetorresdelpaine.cl/tarifas-y-horarios-2026/": "托雷斯德尔潘恩公园:2026 年收费与开放时间",
+    "https://chile.travel/en/good-to-know/entry-and-visa-requirements/": "智利旅游局:入境与签证要求",
+    "https://www.mfa.gov.sg/travelling-overseas/general-travel-advice-for-singaporeans/": "新加坡外交部:出国旅行通用建议",
+    "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile": "智利农牧局 SAG:入境申报"
+   }
+  }
+ }
+}

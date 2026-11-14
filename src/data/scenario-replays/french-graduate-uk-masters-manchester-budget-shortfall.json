@@ -1,0 +1,128 @@
+{
+ "slug": "french-graduate-uk-masters-manchester-budget-shortfall",
+ "startedAt": "2026-11-07",
+ "activeSec": 1189,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 5,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 882,
+   "chips": [
+    "https://www.gov.uk/student-visa/money",
+    "https://www.gov.uk/graduate-visa",
+    "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+    "https://study-uk.britishcouncil.org/scholarships-funding/great-scholarships/france",
+    "https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/graduate-support-scheme"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 882,
+   "end": 963,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 963,
+   "end": 1189,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    },
+    {
+     "n": 5,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own city, budget and programmes and get the same full-year cost check and shortfall for each course",
+   "runTitle": "A French graduate’s one-year UK master’s from September 2027: is EUR 44,000 enough?",
+   "fields": [
+    {
+     "key": "start",
+     "label": "Start month and year",
+     "value": "September 2027"
+    },
+    {
+     "key": "city",
+     "label": "City in France",
+     "value": "Toulouse"
+    },
+    {
+     "key": "budget",
+     "label": "Total budget in EUR, and how much is family money",
+     "value": "EUR 44,000 in total, of which EUR 38,000 is family money"
+    },
+    {
+     "key": "programmes",
+     "label": "Programmes, universities and tuition fees in GBP",
+     "value": "a one-year taught master’s in data analytics or international business, in London and Manchester"
+    }
+   ],
+   "template": "Help me plan a one-year master's in the UK from {start} while living in {city}. I have {budget} and I am looking at {programmes}. Rebuild the full-year budget with the Student visa fee, the Immigration Health Surcharge, living costs for {city} and the current exchange rate, show the shortfall for each programme and the tuition that would fit my budget, and list the scholarships I may be eligible for, marking anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official visa, fee, scholarship, rent and exchange-rate pages",
+     "note": "Student visa and Graduate route rules, university fee pages, scholarship lists, rents and the euro–pound rate",
+     "judgment": "It did not take a scholarship’s name as proof of eligibility. The British Council’s scholarships do cover French students, but only the 2026-27 list was confirmed, so the 2027-28 list is marked unconfirmed. Commonwealth, Marshall and Manchester’s two country-restricted awards were ruled out for France."
+    },
+    {
+     "title": "Write the go / no-go guide with the full-year budget and sources",
+     "judgment": "Where it could not find a rule, it said so. The health surcharge assumes a 16-month visa, giving £1,164, and that is marked unconfirmed, because on a visa of 12 months or less it would be £776."
+    },
+    {
+     "title": "Two independent checks, with fixes in between, then a phone and desktop layout test",
+     "judgment": "A separate colleague recomputed every money figure on their own and found only a €1 rounding slip, plus five wording or sourcing fixes. After the page was edited a second colleague re-checked each fix and the figures, and passed it, with three small wording items left open."
+    }
+   ],
+   "workers": [
+    "Read the universities’ own fee pages for one-year master’s courses in London and Manchester, and what they say about EU students paying international fees",
+    "Collected student-hall prices, dated room and studio rent examples in London and Manchester, official rent statistics, university living-cost estimates and the euro–pound rate",
+    "Checked which scholarships a French student can actually apply for: Chevening, Commonwealth, Marshall, British Council, Erasmus+ and university awards",
+    "Independent check: recomputed every money figure on their own and traced the guide’s claims back to the sources list",
+    "Second check after the guide was edited: confirmed each of the five fixes and re-ran every figure"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/student-visa/money": "GOV.UK: Student visa money needed",
+    "https://www.gov.uk/graduate-visa": "GOV.UK: Graduate visa",
+    "https://www.gov.uk/healthcare-immigration-application/how-much-pay": "GOV.UK: Immigration Health Surcharge, how much to pay",
+    "https://study-uk.britishcouncil.org/scholarships-funding/great-scholarships/france": "British Council: GREAT Scholarships for France",
+    "https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/graduate-support-scheme": "LSE: Graduate Support Scheme"
+   }
+  }
+ }
+}

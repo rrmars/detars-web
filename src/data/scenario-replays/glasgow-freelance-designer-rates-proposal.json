@@ -1,0 +1,133 @@
+{
+ "slug": "glasgow-freelance-designer-rates-proposal",
+ "startedAt": "2026-11-06",
+ "activeSec": 1780,
+ "stats": {
+  "searches": 28,
+  "pages": 53,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 79,
+   "end": 899,
+   "chips": [
+    "https://www.gov.uk/scottish-income-tax",
+    "https://www.gov.uk/self-assessment-tax-returns/deadlines",
+    "https://www.gov.uk/register-for-vat",
+    "https://www.yunojuno.com/freelancer-rates-report/design-contractor-rates",
+    "https://represent.uk.com/salary-survey/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 899,
+   "end": 1621,
+   "chips": [
+    "https://www.gov.uk/late-commercial-payments-interest-debt-recovery/claim-debt-recovery-costs",
+    "https://www.gov.uk/income-tax-rates"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1621,
+   "end": 1702,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own target income, costs and client brief, and get a day rate and a three-tier proposal you can check",
+   "runTitle": "A Glasgow designer going freelance: day rate, fixed price and contract for a whisky start-up",
+   "fields": [
+    {
+     "key": "client",
+     "label": "Client and brief",
+     "value": "A small Scottish whisky start-up: brand identity with logo, palette, type, a simple brand guidelines PDF and 10 social templates"
+    },
+    {
+     "key": "target",
+     "label": "Personal cash target",
+     "value": "£36,000 a year take-home"
+    },
+    {
+     "key": "costs",
+     "label": "Actual annual costs",
+     "value": "",
+     "placeholder": "e.g. £6,000 a year for software, equipment, insurance and an accountant"
+    },
+    {
+     "key": "days",
+     "label": "Realistic billable days",
+     "value": "",
+     "placeholder": "e.g. 155 billable days a year after holidays, admin and sick days"
+    },
+    {
+     "key": "tax",
+     "label": "Tax residence, other income and start date",
+     "value": "Glasgow, going freelance as a sole trader in January 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Client budget",
+     "value": "",
+     "placeholder": "e.g. the client has said around £5,000"
+    }
+   ],
+   "template": "Help me plan a sustainable design rate and a three-tier proposal for {client}. Use {target}, {costs}, {days}, {tax} and {budget}. Define deliverables, editing tools, sizes, revisions, payment milestones and usage rights. Mark tax rules and contract terms that need professional checking. Prepare a draft for me to review; do not send it, contact the client or commit me to anything.",
+   "phases": [
+    {
+     "title": "Check tax, filing and insurance rules and published UK design day rates",
+     "note": "HMRC and Scottish tax rules, filing deadlines, insurance examples and rate surveys",
+     "judgment": "It would not state a rule that did not exist yet. The Scottish income tax bands for 2027/28 could not be found, so they were marked unconfirmed (the Scottish Budget was scheduled for 3 December 2026) and the calculation uses 2026/27. It also noted the new trade may only enter Making Tax Digital in April 2028, not automatically in April 2027."
+    },
+    {
+     "title": "Build the pricing guide, contract template and day-rate calculator",
+     "note": "Day rate, three-tier proposal, contract checklist, Word template and Excel calculator",
+     "judgment": "The guide says what its numbers rest on: £6,000 of annual costs, 155 billable days and 2026/27 Scottish tax give a target-covering rate of £326.90, so it proposes £350 a day. It also warns that prior employment income means the January–April 2027 tax bill needs a separate calculation."
+    },
+    {
+     "title": "Independent check of the arithmetic, the workbook and the documents",
+     "judgment": "A separate colleague found a real error in the calculator: the 48% tax band started at £112,570 instead of £125,140, overstating tax by £377.10 at the top of that range. The threshold was corrected in all 63 tax formulas and re-checked."
+    }
+   ],
+   "workers": [
+    "Found current published UK freelance design day-rate surveys and insurance price examples, with dates",
+    "Read official rules on Self Assessment deadlines, VAT, Making Tax Digital, late-payment interest and copyright ownership",
+    "Recomputed the tax and pricing figures independently and reviewed the contract template and workbook for mistakes"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/scottish-income-tax": "Scottish Income Tax (GOV.UK)",
+    "https://www.gov.uk/self-assessment-tax-returns/deadlines": "Self Assessment deadlines (GOV.UK)",
+    "https://www.gov.uk/register-for-vat": "Register for VAT (GOV.UK)",
+    "https://www.yunojuno.com/freelancer-rates-report/design-contractor-rates": "YunoJuno design contractor rates",
+    "https://represent.uk.com/salary-survey/": "Represent salary survey",
+    "https://www.gov.uk/late-commercial-payments-interest-debt-recovery/claim-debt-recovery-costs": "Late commercial payments: debt recovery costs (GOV.UK)",
+    "https://www.gov.uk/income-tax-rates": "Income Tax rates (GOV.UK)"
+   }
+  }
+ }
+}

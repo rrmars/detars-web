@@ -1,0 +1,161 @@
+{
+ "slug": "taiwanese-engineer-tokyo-hsp-points-and-first-year-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 1298,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 6,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 421,
+   "chips": [
+    "https://www.moj.go.jp/isa/publications/materials/newimmiact_3_system_index.html",
+    "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_evaluate_index.html",
+    "https://www.moj.go.jp/isa/applications/status/newimmiact_3_procedure_index.html",
+    "https://www.ur-net.go.jp/chintai/whats/system/",
+    "https://suumo.jp/chintai/soba/tokyo/sc_suginami/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 421,
+   "end": 884,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 884,
+   "end": 1298,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    },
+    {
+     "n": 5,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    },
+    {
+     "n": 6,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own degree, experience, language level and salary to see whether the skilled-professional route or the standard work status fits you",
+   "runTitle": "Taipei to Tokyo in April 2027: a backend engineer on JPY 9.2 million, points table, take-home pay and first-year budget",
+   "fields": [
+    {
+     "key": "from_city",
+     "label": "City you are leaving",
+     "value": "Taipei"
+    },
+    {
+     "key": "to_city",
+     "label": "City you are moving to",
+     "value": "Tokyo"
+    },
+    {
+     "key": "move_date",
+     "label": "Start month and year",
+     "value": "April 2027"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "31"
+    },
+    {
+     "key": "degree",
+     "label": "Degree",
+     "value": "master’s degree in computer science"
+    },
+    {
+     "key": "experience",
+     "label": "Years of related work experience",
+     "value": "7 years as a backend software engineer"
+    },
+    {
+     "key": "jlpt",
+     "label": "Japanese level",
+     "value": "JLPT N2"
+    },
+    {
+     "key": "salary",
+     "label": "Offered annual salary",
+     "value": "JPY 9.2 million"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "TWD 1.8 million"
+    }
+   ],
+   "template": "Help me choose between HSP(i)(b) and the standard work status for a move from {from_city} to {to_city} in {move_date}. I am {age}, my degree is {degree}, I have {experience} of related work experience, my JLPT level is {jlpt}, the offered salary is {salary} and my savings are {savings}. Recalculate the points table, the monthly take-home, the move-in costs and the first-year budget with my numbers, show how thin the margins are, and mark anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Three colleagues research in parallel: Japan’s points rules and visa process, tax and social insurance, Tokyo rent and move-in costs",
+     "note": "Official immigration, tax and pension pages plus dated rent listings",
+     "judgment": "A figure it could not confirm was kept out of the plan: the tax colleague found no official date for the rise of the lump-sum withdrawal cap from 5 to 8 years, and noted that sources claiming April 2026 have no official backing."
+    },
+    {
+     "title": "Build the guide: points worked example, monthly take-home, move-in costs and a first-year budget in yen and Taiwan dollars",
+     "note": "Recommendation up front, with the margin shown",
+     "judgment": "It showed how thin the margin is instead of rounding it away: JPY 9.2M sits only 0.2M above the 9.0M salary line, below which her score falls from 80 to 75. The Japanese-language test gives the buffer, and how the agency counts “annual salary” is flagged as unconfirmed."
+    },
+    {
+     "title": "Three rounds of independent review, recomputing every money figure after each edit, then a layout check on narrow screens",
+     "judgment": "The reviewers caught real mistakes and the guide was corrected before release: the second round found two wording errors (the rent-to-cost ratios were swapped between the two flats, and a rent range started lower than any example listed), and the third round confirmed both fixes and recomputed every figure."
+    }
+   ],
+   "workers": [
+    "Read Japan’s immigration agency pages on the skilled-professional points table, what the status gives, and the eligibility certificate process",
+    "Collected dated Tokyo rent examples near commute lines, initial costs and the official rules on agency fees",
+    "Worked out income tax, resident tax, pension and health insurance on a monthly example, plus the lump-sum withdrawal payment if she leaves",
+    "First independent check: recomputed every money figure and compared the claims with the source list",
+    "Second independent check after the guide was edited; found two wording errors",
+    "Third independent check after the last edit; confirmed the fixes and recomputed every figure"
+   ],
+   "chipNames": {
+    "https://www.moj.go.jp/isa/publications/materials/newimmiact_3_system_index.html": "Immigration Services Agency: skilled professional system",
+    "https://www.moj.go.jp/isa/applications/resources/newimmiact_3_evaluate_index.html": "Immigration Services Agency: points evaluation",
+    "https://www.moj.go.jp/isa/applications/status/newimmiact_3_procedure_index.html": "Immigration Services Agency: application procedures",
+    "https://www.ur-net.go.jp/chintai/whats/system/": "UR public housing: how renting works",
+    "https://suumo.jp/chintai/soba/tokyo/sc_suginami/": "Tokyo rent listing examples (SUUMO)"
+   }
+  }
+ }
+}

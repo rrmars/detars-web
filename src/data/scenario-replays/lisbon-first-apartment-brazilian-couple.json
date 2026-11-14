@@ -1,0 +1,153 @@
+{
+ "slug": "lisbon-first-apartment-brazilian-couple",
+ "startedAt": "2026-11-07",
+ "activeSec": 1902,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 73,
+   "end": 486,
+   "chips": [
+    "https://www.bportugal.pt/page/limites-aos-racios-ltv-dsti-e-maturidade",
+    "https://clientebancario.bportugal.pt/en/creditworthiness-assessment",
+    "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt17.aspx",
+    "https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227",
+    "https://justica.gov.pt/Servicos/Balcao-Casa-Pronta"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 486,
+   "end": 983,
+   "chips": [
+    "https://webinq.ine.pt/",
+    "https://www.idealista.pt/en/comprar-casas/almada/com-t2/",
+    "https://www.idealista.pt/en/comprar-casas/amadora/com-t2/"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 983,
+   "end": 1727,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 9,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own income and savings and test a Lisbon-area home price before you talk to a bank",
+   "runTitle": "Lisbon: a Brazilian couple with EUR 70,000 saved and a first two-bedroom flat in mind",
+   "fields": [
+    {
+     "key": "move",
+     "label": "Move date",
+     "value": "late 2027"
+    },
+    {
+     "key": "profile",
+     "label": "Ages and residence or permit details",
+     "value": "a Brazilian couple in our early 30s, living in Lisbon since 2024 on residence permits"
+    },
+    {
+     "key": "taxhistory",
+     "label": "Tax residence and ownership history, including Brazilian or inherited rights",
+     "value": "",
+     "placeholder": "e.g. tax-resident in Portugal since 2024; one of us co-owns an inherited flat in Brazil"
+    },
+    {
+     "key": "salary",
+     "label": "Gross and net salary plus payment frequency",
+     "value": "EUR 3,600 gross a month as a software engineer at a Portuguese company"
+    },
+    {
+     "key": "freelance",
+     "label": "Freelance accounts and net income",
+     "value": "freelancing on recibos verdes at EUR 2,000 a month"
+    },
+    {
+     "key": "savings",
+     "label": "Savings, debts and monthly spending",
+     "value": "EUR 70,000 saved"
+    },
+    {
+     "key": "commute",
+     "label": "Commute needs",
+     "value": "",
+     "placeholder": "e.g. one of us goes to central Lisbon four days a week"
+    },
+    {
+     "key": "reserve",
+     "label": "Emergency reserve to keep untouched",
+     "value": "",
+     "placeholder": "e.g. EUR 20,000"
+    }
+   ],
+   "template": "Help us plan a first T2 permanent-home purchase near Lisbon for {move}. We are {profile}, with {taxhistory}, {salary}, {freelance}, {savings} and {commute}. Compare Almada and Amadora first. Test the price against accepted net income, actual LTV, appraisal, acquisition-date tax relief, closing costs and a positive stressed household budget. Keep {reserve} untouched. Separate dated listing examples from verified availability, list the personal facts still needed, and ask before contacting anyone, sharing documents or submitting an application.",
+   "phases": [
+    {
+     "title": "Read the bank regulator, tax office and lender pages that decide what they can borrow and pay",
+     "note": "Mortgage limits, purchase taxes, young-buyer relief and closing costs",
+     "judgment": "Where two Banco de Portugal pages disagreed (50% versus 45% of net income going to debt payments), the researcher flagged the conflict and used the dedicated current page’s 45%, while marking the stress-test method as unverified."
+    },
+    {
+     "title": "Collect dated two-bedroom examples in six areas and build the affordability guide",
+     "note": "Price per square metre, monthly payments and the price they can actually afford",
+     "judgment": "The price researcher withdrew earlier draft claims it could not re-open and kept twelve listing examples (seven from full listing pages, five labelled as listing cards), all marked as examples and not as available homes."
+    },
+    {
+     "title": "Independent check of every figure, then desktop and phone layout tests",
+     "judgment": "The reviewer recomputed everything (146 of 146 checks passed) and still pushed back on three wordings. One example: at EUR 300,000 with EUR 3,500 net a month, the stressed budget leaves only EUR 0.06 a month."
+    }
+   ],
+   "workers": [
+    "Checked Banco de Portugal’s mortgage limits and the public rate and fee pages of several banks",
+    "Worked out the purchase taxes, young-buyer relief and closing costs from the tax office’s own pages, with examples at five prices",
+    "Collected twelve asking-price examples for two-bedroom flats across six areas, plus the national statistics office’s price data",
+    "Recomputed every money figure independently and checked the guide’s claims against its sources"
+   ],
+   "chipNames": {
+    "https://www.bportugal.pt/page/limites-aos-racios-ltv-dsti-e-maturidade": "Banco de Portugal: limits on loan-to-value, debt-to-income and maturity",
+    "https://clientebancario.bportugal.pt/en/creditworthiness-assessment": "Banco de Portugal: how banks assess your ability to repay",
+    "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt17.aspx": "Portal das Finanças: property transfer tax (IMT) code",
+    "https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227": "Decree-Law 97/2026 in the official gazette",
+    "https://justica.gov.pt/Servicos/Balcao-Casa-Pronta": "Casa Pronta one-stop property service",
+    "https://webinq.ine.pt/": "National statistics office (INE): house price data",
+    "https://www.idealista.pt/en/comprar-casas/almada/com-t2/": "Almada two-bedroom listings (examples, not availability)",
+    "https://www.idealista.pt/en/comprar-casas/amadora/com-t2/": "Amadora two-bedroom listings (examples, not availability)"
+   }
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "korean-nurse-us-nclex-eb3-new-york-route",
+ "startedAt": "2026-11-07",
+ "activeSec": 979,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 0,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 979,
+   "chips": [
+    "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html",
+    "https://www.ncsbn.org/exams/exam-registration/international-nurses.page",
+    "https://www.hrsa.gov/office-global-health/foreign-healthcare-worker-requirements",
+    "https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin",
+    "https://www.bls.gov/oes/current/oes291141.htm"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own qualification, English score and savings and get the same NCLEX, EB-3 wait and agency-contract check",
+   "runTitle": "Daegu to a US hospital: a Korean ward nurse weighs an EB-3 agency route against applying directly",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City in Korea",
+     "value": "Daegu"
+    },
+    {
+     "key": "qualification",
+     "label": "Nursing qualification",
+     "value": "Registered nurse with a 4-year BSN and 5 years of ward experience"
+    },
+    {
+     "key": "ielts",
+     "label": "IELTS Academic result (overall and Speaking)",
+     "value": "6.5 overall"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in KRW",
+     "value": "KRW 25 million"
+    },
+    {
+     "key": "state",
+     "label": "State you are considering",
+     "value": "New York or another state that accepts foreign-educated nurses"
+    },
+    {
+     "key": "route",
+     "label": "Direct hospital offer or an agency",
+     "value": "Weighing a US staffing agency that sponsors an EB-3 green card against applying directly to hospitals"
+    }
+   ],
+   "template": "Help me plan RN work in the US from {city}. I am a {qualification}, my IELTS Academic result is {ielts}, I have {savings} and I am considering {state} and {route}. Rebuild the timeline and the budget with my own numbers, work out the EB-3 wait as arithmetic from the bulletin date I paste in, and check any agency contract I paste in against the warning signs, marking anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the exam, nursing-board, visa-bulletin and pay pages, then write and check the guide",
+     "note": "Exam and state board, the EB-3 wait as arithmetic, agency-contract warning signs and a KRW and USD budget",
+     "judgment": "It named its weak spots instead of hiding them: the EB-3 cut-off date came from a third-party copy because the official Visa Bulletin page blocked every automated route, so it is flagged unconfirmed. And the roughly 28-month wait is presented as arithmetic, not a forecast."
+    }
+   ],
+   "workers": [],
+   "chipNames": {
+    "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html": "US State Department Visa Bulletin",
+    "https://www.ncsbn.org/exams/exam-registration/international-nurses.page": "NCSBN: exam registration for international nurses",
+    "https://www.hrsa.gov/office-global-health/foreign-healthcare-worker-requirements": "HRSA: foreign healthcare worker requirements",
+    "https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin": "USCIS: adjustment of status filing charts",
+    "https://www.bls.gov/oes/current/oes291141.htm": "BLS: registered nurse pay data"
+   }
+  }
+ }
+}

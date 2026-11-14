@@ -1,0 +1,131 @@
+{
+ "slug": "japan-six-month-digital-nomad-us-tester",
+ "startedAt": "2026-11-06",
+ "activeSec": 1522,
+ "stats": {
+  "searches": 39,
+  "pages": 32,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 56,
+   "end": 464,
+   "chips": [
+    "https://www.moj.go.jp/isa/applications/status/designatedactivities53_00001.html?hl=ja&lang=or",
+    "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html",
+    "https://www.irs.gov/individuals/international-taxpayers/persons-employed-abroad-by-a-us-person",
+    "https://www.worldtrips.com/hubfs/downloads/atlas-travel-medical-insurance-application.pdf",
+    "https://www.oakhouse.jp/eng/house/21"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 464,
+   "end": 1211,
+   "chips": [
+    "https://www.nta.go.jp/english/taxes/individual/12006.htm",
+    "https://home.treasury.gov/system/files/131/Treaty-Japan-11-6-2003.pdf",
+    "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test",
+    "https://www.nenkin.go.jp/international/english/agreement/mechanisms/workjapan.html",
+    "https://safetywing.com/nomad-insurance/faq"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1211,
+   "end": 1438,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own situation and get the same Japan stay plan, budget and checklist",
+   "runTitle": "Remote US tester planning six months in Tokyo and Fukuoka on the digital-nomad status",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "Passport and US state/county",
+     "value": "US citizen"
+    },
+    {
+     "key": "trip",
+     "label": "Arrival, departure and other Japan visits",
+     "value": "About 6 months from April 2027, Tokyo first"
+    },
+    {
+     "key": "employer",
+     "label": "Employer, salary and written permission",
+     "value": "Fully remote QA tester for a US company, US$118,000 a year"
+    },
+    {
+     "key": "housing",
+     "label": "Tokyo or Fukuoka housing preferences",
+     "value": "Tokyo first, then maybe Fukuoka"
+    },
+    {
+     "key": "insurance",
+     "label": "Insurance needs",
+     "value": "Private health insurance for the whole stay"
+    }
+   ],
+   "template": "Help me plan a Japan stay for {passport}, {trip}, {employer}, {housing} and {insurance}. Separate visa eligibility, employer/payroll approval and treaty questions. Build an itemized budget, housing shortlist and document checklist; flag what needs a consulate, insurer or tax professional to confirm. Ask before contacting anyone, applying, booking, buying cover or uploading personal documents.",
+   "phases": [
+    {
+     "title": "Read the official immigration, tax, insurance and housing pages",
+     "note": "Visa rules, tax treaty, insurance prices, eight dated listings",
+     "judgment": "It kept conflicting evidence in view instead of smoothing it over: one share house showed different prices and terms on its two sales channels, so both were recorded as found; a “zero deposit” ad was flagged because it left out separately listed initial charges; and no April 2027 availability was claimed."
+    },
+    {
+     "title": "Build the guide with the eligibility checklist, budget table, timeline and every calculation shown",
+     "judgment": "It did not tell the user that six months means no Japanese tax. The tax treaty exemption needs all three conditions to be met at once, and 1 April to 30 September 2027 is 183 days counted inclusively, so one more day breaks the day-count test."
+    },
+    {
+     "title": "Independent review of the arithmetic and of the page on desktop and phone widths",
+     "judgment": "The independent reviewer recomputed every currency conversion in the budget, the insurance examples and the day counts, and found no discrepancy. It also said plainly what it had not rechecked: the official immigration pages, and a full re-audit of all eight listings, which it only sampled."
+    }
+   ],
+   "workers": [
+    "Found eight real housing listings in Tokyo and Fukuoka, furnished monthly flats and share houses, and wrote down prices, deposits and fees",
+    "Compared the published prices and benefits of two travel-health insurance plans and read the official tax rules for a US employee working in Japan",
+    "Re-read the finished guide and recomputed the budget conversions and day counts on its own"
+   ],
+   "chipNames": {
+    "https://www.moj.go.jp/isa/applications/status/designatedactivities53_00001.html?hl=ja&lang=or": "Immigration Services Agency of Japan: digital nomad designated activities",
+    "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html": "Ministry of Foreign Affairs of Japan: visa information",
+    "https://www.irs.gov/individuals/international-taxpayers/persons-employed-abroad-by-a-us-person": "IRS: US persons employed abroad",
+    "https://www.worldtrips.com/hubfs/downloads/atlas-travel-medical-insurance-application.pdf": "Atlas travel medical insurance: published rates",
+    "https://www.oakhouse.jp/eng/house/21": "Oakhouse: example share-house listing",
+    "https://www.nta.go.jp/english/taxes/individual/12006.htm": "National Tax Agency of Japan: tax on income earned in Japan",
+    "https://home.treasury.gov/system/files/131/Treaty-Japan-11-6-2003.pdf": "US–Japan income tax treaty (2003)",
+    "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-physical-presence-test": "IRS: foreign earned income exclusion, physical presence test",
+    "https://www.nenkin.go.jp/international/english/agreement/mechanisms/workjapan.html": "Japan Pension Service: social security agreement, working in Japan",
+    "https://safetywing.com/nomad-insurance/faq": "SafetyWing: Nomad Insurance FAQ"
+   }
+  }
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "slug": "manali-5-day-family-itinerary-from-delhi",
+ "startedAt": "2026-11-05",
+ "activeSec": 2634,
+ "stats": {
+  "searches": 58,
+  "pages": 22,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 52,
+   "end": 1567,
+   "chips": [
+    "https://rohtangpermits.hp.gov.in/",
+    "https://himachaltourism.gov.in/travel-safety-tips/",
+    "https://mausam.imd.gov.in/shimla/mcdata/manali_may.pdf",
+    "https://www.redbus.in/bus-tickets/delhi-to-manali",
+    "https://himachaltourism.gov.in/destination/manali/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1567,
+   "end": 1994,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1994,
+   "end": 2428,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates, children's ages and budget, and get a Manali family plan with the real access rules checked",
+   "runTitle": "Delhi to Manali for a family of four in late May: five easy days on about ₹60,000",
+   "fields": [
+    {
+     "key": "origin",
+     "label": "Origin",
+     "value": "Delhi"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "Late May 2027"
+    },
+    {
+     "key": "party",
+     "label": "Adults, children's ages, health and luggage",
+     "value": "2 adults and children aged 8 and 12, first time in Manali"
+    },
+    {
+     "key": "days",
+     "label": "Calendar days and destination days",
+     "value": "5 days in Manali"
+    },
+    {
+     "key": "budget",
+     "label": "Budget, currency, accommodation and reserve",
+     "value": "About ₹60,000 in total, excluding the hotel"
+    }
+   ],
+   "template": "Plan Manali from {origin} for {dates}, with {party}, {days} and {budget}. Compare bus and flight both ways and full car-day costs; give boarding points, stops, baggage and full payable costs only when verified. Give one gentle outing daily, rest/fallbacks and at most one conditional high day; distinguish Rohtang summit, Marhi and Atal Tunnel–Sissu. Check dated roads, vehicle permits, Lahaul registration and child eligibility. Date and link prices and access failures, distinguish estimates from current checks, and recalculate without overlapping transport. Do not promise snow, prices or availability, book, submit permits, contact anyone or publish.",
+   "phases": [
+    {
+     "title": "Check transport prices, official access rules and family activities",
+     "note": "Overnight bus, flight to Bhuntar and car costs with the date read, plus Rohtang, Atal Tunnel and Sissu access",
+     "judgment": "The official Rohtang permit sites kept timing out, so it labelled the permit details provisional. It also did not treat a notice that closes the pass on Tuesdays through 19 May 2026 as a rule for May 2027."
+    },
+    {
+     "title": "Build the phone-friendly page and an editable itinerary and budget workbook"
+    },
+    {
+     "title": "Check the files and deliver",
+     "judgment": "An independent reviewer found no broken budget arithmetic. It also pointed out that the main plan covers seven calendar dates rather than five days, and that the daily budget figures in the workbook did not update with the inputs."
+    }
+   ],
+   "workers": [
+    "Read the official permit portal, road advisories and district notices for Rohtang, Atal Tunnel and Sissu",
+    "Collected dated Delhi–Manali bus, flight and car examples, and noted where the flight pages contradicted each other",
+    "Independent review of the finished page and workbook against the request: trip length, formulas and what is still unconfirmed"
+   ],
+   "chipNames": {
+    "https://rohtangpermits.hp.gov.in/": "Himachal Pradesh: Rohtang Pass permit portal",
+    "https://himachaltourism.gov.in/travel-safety-tips/": "Himachal Tourism: travel safety tips",
+    "https://mausam.imd.gov.in/shimla/mcdata/manali_may.pdf": "India Meteorological Department: Manali in May",
+    "https://www.redbus.in/bus-tickets/delhi-to-manali": "redBus: Delhi to Manali buses",
+    "https://himachaltourism.gov.in/destination/manali/": "Himachal Tourism: Manali"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的日期、孩子年龄和预算，就能得到一份核对过真实通行规则的马纳利亲子行程",
+   "runTitle": "德里到马纳利，一家四口 5 月下旬：约 6 万卢比的五天轻松行程",
+   "fields": [
+    {
+     "key": "origin",
+     "label": "出发地和日期",
+     "value": "从德里出发，2027 年 5 月下旬"
+    },
+    {
+     "key": "party",
+     "label": "成人、孩子年龄、健康行动情况和行李",
+     "value": "2 位成人，孩子 8 岁和 12 岁，第一次去马纳利"
+    },
+    {
+     "key": "days",
+     "label": "日历天数和目的地天数",
+     "value": "在马纳利玩 5 天"
+    },
+    {
+     "key": "budget",
+     "label": "金额币种、是否含住宿、备用金",
+     "value": "总预算约 6 万卢比，不含酒店"
+    }
+   ],
+   "template": "请按{origin}规划马纳利亲子游，同行{party}，共{days}，预算{budget}。比较大巴及航班双向和真实用车天数费用；上车点、停站、行李及应付全额仅列核实后的信息；每天一项轻活动，留休息和备选，最多一次有条件高海拔游，区分 Rohtang 山口顶、Marhi 和 Atal Tunnel–Sissu。查对应日期道路、车辆许可、Lahaul 登记和儿童资格；费用附日期链接，区分估算与当前核查，说明访问失败，重算且不重复交通费用。不保证雪、价格或可用性，不预订、提交许可、联系或发布。",
+   "phases": [
+    {
+     "title": "核对交通价格、官方通行规定和亲子活动",
+     "note": "夜班大巴、飞往 Bhuntar 和包车的费用（带查询日期），以及 Rohtang、Atal 隧道和 Sissu 的通行情况",
+     "judgment": "官方 Rohtang 许可网站一直打不开，它就把许可细节标成暂定。它也没有把「到 2026 年 5 月 19 日为止每周二封闭」的通告当成 2027 年 5 月的规则。"
+    },
+    {
+     "title": "做出适合手机看的网页，以及可编辑的行程和预算表"
+    },
+    {
+     "title": "检查文件并交付",
+     "judgment": "独立复核同事没有发现预算算术有错，但指出主方案横跨 7 个日历日，不是 5 天；表格里每天的预算数字也不会随输入联动。"
+    }
+   ],
+   "workers": [
+    "读官方许可门户、道路通告和县里的通知，弄清 Rohtang、Atal 隧道和 Sissu 的通行条件",
+    "收集带日期的德里到马纳利大巴、航班和包车例子，并记下航班页面之间互相矛盾的地方",
+    "独立复核成稿网页和表格是否符合要求：行程天数、公式，以及哪些还没确认"
+   ],
+   "chipNames": {
+    "https://rohtangpermits.hp.gov.in/": "喜马偕尔邦：Rohtang 山口许可门户",
+    "https://himachaltourism.gov.in/travel-safety-tips/": "喜马偕尔邦旅游局：出行安全提示",
+    "https://mausam.imd.gov.in/shimla/mcdata/manali_may.pdf": "印度气象局：马纳利 5 月气候",
+    "https://www.redbus.in/bus-tickets/delhi-to-manali": "redBus：德里到马纳利大巴",
+    "https://himachaltourism.gov.in/destination/manali/": "喜马偕尔邦旅游局：马纳利"
+   }
+  }
+ }
+}

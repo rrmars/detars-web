@@ -1,0 +1,174 @@
+{
+ "slug": "local-upscalers-six-image-test",
+ "startedAt": "2026-11-05",
+ "activeSec": 1294,
+ "stats": {
+  "searches": 19,
+  "pages": 27,
+  "colleagues": 2,
+  "parallel": 0,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 20,
+   "end": 467,
+   "chips": [
+    "https://www.nps.gov/npgallery/AssetDetail/42a056f8-1dd8-b71b-0bd9-1ec7eb496266",
+    "https://raw.githubusercontent.com/xinntao/Real-ESRGAN-ncnn-vulkan/master/README.md",
+    "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/master/README.md",
+    "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/LICENSE"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 467,
+   "end": 1110,
+   "chips": [
+    "https://lccn.loc.gov/2013649738/marcxml",
+    "https://raw.githubusercontent.com/xinntao/Real-ESRGAN/master/docs/model_zoo.md",
+    "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/master/LICENSE",
+    "https://raw.githubusercontent.com/nagadomi/waifu2x/master/LICENSE"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1110,
+   "end": 1260,
+   "chips": [],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Describe your own computer and photos and get the same local-only upscaling test plan",
+   "runTitle": "Free photo upscalers on a Mac: four tools, six test images, nothing uploaded",
+   "fields": [
+    {
+     "key": "computer",
+     "label": "Computer and operating system",
+     "value": "A Mac with 16 GB of memory"
+    },
+    {
+     "key": "photos",
+     "label": "Photo types and sizes",
+     "value": "Old family photos and small product images"
+    },
+    {
+     "key": "goal",
+     "label": "Display or print goal",
+     "value": "",
+     "placeholder": "e.g. 4× larger for A4 prints of family photos"
+    },
+    {
+     "key": "privacy",
+     "label": "Privacy boundary",
+     "value": "Nothing uploaded anywhere: no cloud tools or online image models"
+    }
+   ],
+   "template": "Help me plan local photo enlargement for {computer}, {photos}, {goal} and {privacy}. Compare a conservative baseline with a small local model, separate setup downloads from offline processing, and keep originals. Flag face, text, texture and licence risks. Plan only; do not upload images, install tools or rerun processing without my approval.",
+   "phases": [
+    {
+     "title": "Inspect the Mac, find test images that may be freely used, and collect the tools and small models",
+     "note": "Public-domain photos, tool downloads and licences",
+     "judgment": "The researcher corrected their own claim. They had tied the Lincoln portrait file to a Library of Congress record; on a second look they said the link was “plausible but not verified” and told the team not to rely on it. They also refused to call one tool’s models simply “MIT”, because the licence of the converted model files was not stated anywhere they could read."
+    },
+    {
+     "title": "Run the tools one at a time, work out the scores and make side-by-side crops",
+     "note": "Lanczos, FSRCNN, Real-ESRGAN and waifu2x on six images",
+     "judgment": "It reported a mixed result, not a single winner: waifu2x led on SSIM in all six images, plain Lanczos led on PSNR for the portrait, and text recognition stayed unreliable. All 24 scores were recomputed before they went into the page, and no image left the machine."
+    },
+    {
+     "title": "Build and verify the comparison page, results table and source list",
+     "judgment": "The independent reviewer found that two captions claimed more than the measurements showed. For example, a score for overall sharpness was described as proof that thin lines were lost. They asked for plainer wording: “lower aggregate high-frequency variation; inspect thin strokes locally”."
+    }
+   ],
+   "workers": [
+    "Found freely usable test images with their sources and dates, and checked the licence of each tool and model",
+    "Independently audited the finished report for accuracy, reading the comparison page, results table and source list"
+   ],
+   "chipNames": {
+    "https://www.nps.gov/npgallery/AssetDetail/42a056f8-1dd8-b71b-0bd9-1ec7eb496266": "US National Park Service: public-domain forest photo",
+    "https://raw.githubusercontent.com/xinntao/Real-ESRGAN-ncnn-vulkan/master/README.md": "Real-ESRGAN ncnn-vulkan: README",
+    "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/master/README.md": "waifu2x ncnn-vulkan: README",
+    "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/LICENSE": "FSRCNN: licence",
+    "https://lccn.loc.gov/2013649738/marcxml": "Library of Congress: Lincoln portrait record",
+    "https://raw.githubusercontent.com/xinntao/Real-ESRGAN/master/docs/model_zoo.md": "Real-ESRGAN: model overview",
+    "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/master/LICENSE": "waifu2x ncnn-vulkan: licence",
+    "https://raw.githubusercontent.com/nagadomi/waifu2x/master/LICENSE": "waifu2x: original licence"
+   }
+  },
+  "zh": {
+   "askTitle": "描述你自己的电脑和照片，得到同样的纯本地放大测试方案",
+   "runTitle": "Mac 上的免费照片放大工具：4 款工具、6 张测试图、全程不上传",
+   "fields": [
+    {
+     "key": "computer",
+     "label": "电脑及操作系统",
+     "value": "内存 16 GB 的 Mac"
+    },
+    {
+     "key": "photos",
+     "label": "照片类型和尺寸",
+     "value": "老家庭照片和小尺寸商品图"
+    },
+    {
+     "key": "goal",
+     "label": "展示或打印目标",
+     "value": "",
+     "placeholder": "例如：把家庭照片放大 4 倍，用来打印 A4"
+    },
+    {
+     "key": "privacy",
+     "label": "隐私边界",
+     "value": "任何东西都不上传：不用云端工具，也不用在线图像模型"
+    }
+   ],
+   "template": "请为{computer}、{photos}、{goal}及{privacy}规划本地照片放大流程。比较保守基线和小型本地模型，区分安装下载与离线处理，并保留原件。指出人脸、文字、纹理和许可风险。只做计划；未经我同意，不上传图像、不安装工具、不重跑处理。",
+   "phases": [
+    {
+     "title": "检查 Mac，找可自由使用的测试图，并收集工具和小型模型",
+     "note": "公有领域照片、工具下载和许可",
+     "judgment": "查资料的同事推翻了自己先前的说法：他们曾把林肯肖像文件对应到美国国会图书馆的某条记录，再查后说这个对应“看似合理但未核实”，让团队别依赖它。他们也不肯把某个工具的模型笼统写成“MIT”，因为转换后的模型文件的许可，他们读到的资料里没有明确说明。"
+    },
+    {
+     "title": "逐个运行工具，算出分数，并做并排对比截图",
+     "note": "Lanczos、FSRCNN、Real-ESRGAN 和 waifu2x 在 6 张图上的表现",
+     "judgment": "它交出的是有好有坏的结果，没有硬选一个冠军：waifu2x 在 6 张图上的 SSIM 都领先，普通 Lanczos 在人像的 PSNR 上领先，文字识别仍然不可靠。24 个分数都重新算过才写进页面，所有图片都没有离开这台电脑。"
+    },
+    {
+     "title": "制作并核对对比页、结果表和来源清单",
+     "judgment": "独立复核的同事发现有两处图注说得比测量结果更满：例如用整体清晰度的分数，说成“细线条丢了”。他们建议改成更平实的说法：“整体高频变化较低；细线条请就近检查”。"
+    }
+   ],
+   "workers": [
+    "找可免费使用的测试图并写明来源和日期，再核对每个工具和模型的许可",
+    "独立审核成稿的准确性，逐项对照对比页、结果表和来源清单"
+   ],
+   "chipNames": {
+    "https://www.nps.gov/npgallery/AssetDetail/42a056f8-1dd8-b71b-0bd9-1ec7eb496266": "美国国家公园管理局：公有领域森林照片",
+    "https://raw.githubusercontent.com/xinntao/Real-ESRGAN-ncnn-vulkan/master/README.md": "Real-ESRGAN ncnn-vulkan：说明文档",
+    "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/master/README.md": "waifu2x ncnn-vulkan：说明文档",
+    "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/LICENSE": "FSRCNN：许可证",
+    "https://lccn.loc.gov/2013649738/marcxml": "美国国会图书馆：林肯肖像记录",
+    "https://raw.githubusercontent.com/xinntao/Real-ESRGAN/master/docs/model_zoo.md": "Real-ESRGAN：模型概览",
+    "https://raw.githubusercontent.com/nihui/waifu2x-ncnn-vulkan/master/LICENSE": "waifu2x ncnn-vulkan：许可证",
+    "https://raw.githubusercontent.com/nagadomi/waifu2x/master/LICENSE": "waifu2x：原项目许可证"
+   }
+  }
+ }
+}

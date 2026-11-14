@@ -1,0 +1,202 @@
+{
+ "slug": "japan-10-day-first-time-itinerary-october-2027",
+ "startedAt": "2026-11-05",
+ "activeSec": 1864,
+ "stats": {
+  "searches": 53,
+  "pages": 83,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 34,
+   "end": 1245,
+   "chips": [
+    "https://smart-ex.jp/en/product/plan/service/pdf/service_fares_reserved.pdf",
+    "https://japanrailpass.net/en/purchase/price/index.html",
+    "https://www.otagiji.com/visit-jp",
+    "https://shibuya-scramble-square.com/sky/ticket/",
+    "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_10d.php?prec_no=44&block_no=47662&year=&month=10&day=&view="
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1245,
+   "end": 1422,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1422,
+   "end": 1775,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own group, dates and budget and get the ten-day route and cost sheet rebuilt around them",
+   "runTitle": "Two friends from the UK, first time in Japan: ten days in mid-October 2027 on £110 a day each, excluding flights and hotels",
+   "fields": [
+    {
+     "key": "people",
+     "label": "Group size and ages",
+     "value": "two of us, a friend and me, both from the UK, in our late twenties"
+    },
+    {
+     "key": "dest",
+     "label": "Destination",
+     "value": "Japan"
+    },
+    {
+     "key": "arrive",
+     "label": "Arrival airport, date and time",
+     "value": "in mid-October 2027"
+    },
+    {
+     "key": "depart",
+     "label": "Departure airport, date and time",
+     "value": "",
+     "placeholder": "e.g. Kansai, 21 October, 6:00 p.m."
+    },
+    {
+     "key": "budget",
+     "label": "Budget currency and amount",
+     "value": "£110 per person per day"
+    },
+    {
+     "key": "excluded",
+     "label": "What the budget leaves out",
+     "value": "flights and hotels"
+    },
+    {
+     "key": "details",
+     "label": "Walking limit, luggage, food needs and interests",
+     "value": "the classic highlights without rushing, plus one or two places not on every list, and a plan for moving luggage between cities"
+    }
+   ],
+   "template": "Plan ten days in {people} for {dest}, arriving {arrive} and leaving {depart}. Our per-person budget is {budget} excluding {excluded}; walking limit, bag dimensions/weights, food needs and interests are {details}. Start with four Tokyo nights, three Kyoto and two Osaka, and explain changes. Group nearby stops, protect rest and transfers, offer rain swaps, and compare individual tickets with passes without adding unnecessary journeys. Show daily/category costs, airports, local/intercity travel, forwarding, exchange-rate assumption, reserve and exclusions. Use dated official links; check closures, luggage, booking windows and future-date uncertainties. Do not book, buy, publish or contact anyone.",
+   "phases": [
+    {
+     "title": "Check official fares, rail passes, sight opening times and booking rules",
+     "note": "Bullet-train fares, the rail passes, temple and museum websites, and the weather service’s October averages",
+     "judgment": "It would not carry over a number it could not verify. The official fare breakdown for paper tickets could not be confirmed (the official PDF would not open), so it dropped the figures from the earlier draft and recalculated from the smartEX fares it could check, noting that October 2027 prices are still provisional. Result: buying each long leg separately comes to ¥15,520 a person, so no JR Pass."
+    },
+    {
+     "title": "Lay out the ten days, then build the phone page and the editable budget sheet",
+     "note": "Four nights in Tokyo, three in Kyoto, two in Osaka, flying home from Kansai",
+     "judgment": "It checked closing days against each day of the route. Otagi Nenbutsuji closes on Wednesdays and Saturdays, so that visit sits on a Monday. 11 October 2027 is Sports Day, so the Tokyo National Museum will likely be closed on the 12th, and the plan flags that in advance."
+    },
+    {
+     "title": "Check the files, formulas and phone display, then deliver",
+     "judgment": "The independent colleague reopened the official pages for Otagi, Nijo Castle tickets and smartEX booking times, and recalculated all 85 formulas one by one; none disagreed. Per-person spending comes to £595.60, or £684.94 with a 15% reserve."
+    }
+   ],
+   "workers": [
+    "Read the official bullet-train fares and rail passes, worked out whether separate tickets or a JR Pass is cheaper, and checked luggage forwarding and booking opening times",
+    "Checked opening hours, tickets, closing days and booking rules on the official websites of sights in Tokyo, Kyoto and Osaka, plus October weather",
+    "Independent check: recalculated the workbook’s formulas, confirmed each day’s plan matches in the web page and the sheet, and reopened official pages to spot-check"
+   ],
+   "chipNames": {
+    "https://smart-ex.jp/en/product/plan/service/pdf/service_fares_reserved.pdf": "smartEX: reserved-seat bullet train fares",
+    "https://japanrailpass.net/en/purchase/price/index.html": "Japan Rail Pass: official prices",
+    "https://www.otagiji.com/visit-jp": "Otagi Nenbutsuji temple: visiting information",
+    "https://shibuya-scramble-square.com/sky/ticket/": "Shibuya SKY: tickets",
+    "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_10d.php?prec_no=44&block_no=47662&year=&month=10&day=&view=": "Japan Meteorological Agency: Tokyo October averages"
+   }
+  },
+  "zh": {
+   "askTitle": "把人数、日期和预算换成你的，十天行程和花费表就按你的情况重排",
+   "runTitle": "两位英国朋友第一次去日本：2027 年 10 月中旬十天，每人每天 £110（不含机票和住宿）",
+   "fields": [
+    {
+     "key": "people",
+     "label": "人数和年龄",
+     "value": "两个人，我和朋友，都来自英国，二十多岁"
+    },
+    {
+     "key": "dest",
+     "label": "目的地",
+     "value": "日本"
+    },
+    {
+     "key": "arrive",
+     "label": "抵达的机场、日期和钟点",
+     "value": "2027 年 10 月中旬"
+    },
+    {
+     "key": "depart",
+     "label": "离开的机场、日期和钟点",
+     "value": "",
+     "placeholder": "例如：关西机场，10 月 21 日下午 6 点"
+    },
+    {
+     "key": "budget",
+     "label": "预算币种及金额",
+     "value": "每天 110 英镑"
+    },
+    {
+     "key": "excluded",
+     "label": "预算不含的项目",
+     "value": "机票和住宿"
+    },
+    {
+     "key": "details",
+     "label": "步行、行李、饮食和兴趣",
+     "value": "想看经典景点但不赶场，再加一两处不在常见清单上的地方；城市之间怎么运行李也要安排"
+    }
+   ],
+   "template": "请为{people}安排{dest}十天旅行，{arrive}抵达，{depart}离开。每人预算{budget}，不含{excluded}；步行上限、行李尺寸重量、饮食和兴趣是{details}。先按东京四晚、京都三晚、大阪两晚安排，调整时说明理由。把附近景点放一起，留好休息和转移，给雨天替代，比较单程票和通票，不为凑通票增加行程。列每日与分类花费、机场、市内、城际、寄送、汇率假设、备用金和排除项。引用带日期的官方链接，检查休馆、行李、预订窗口和未来日期待确认事项。不要预订、购买、发布或联系任何人。",
+   "phases": [
+    {
+     "title": "查官方车费、通票、景点开放时间和预约规则",
+     "note": "新干线票价、各类铁路通票、寺社展馆官网，以及日本气象厅的十月常年值",
+     "judgment": "官方纸质车票的费用明细没能核实（对应的官方 PDF 打不开）。它不沿用早先草稿里的数字，改用官网能核实的 smartEX 票价重算，并写明 2027 年 10 月的价格仍是暂定。结论是：分段买票三大段合计 ¥15,520/人，不必买 JR Pass。"
+    },
+    {
+     "title": "排十天行程，做手机页和可编辑的预算表",
+     "note": "东京 4 晚、京都 3 晚、大阪 2 晚，从关西机场回程",
+     "judgment": "排到每一天时都对照了休馆日：爱宕念佛寺周三、周六休息，行程放在周一；2027 年 10 月 11 日是体育节，东京国立博物馆很可能 12 日休馆，这一点也提前标了出来。"
+    },
+    {
+     "title": "核对文件、公式和手机显示，交付",
+     "judgment": "复核同事重新打开官方页面抽查了爱宕念佛寺、二条城门票和 smartEX 订票时间，又把 85 条公式逐条重算，没有一处对不上。每人预算合计 £595.60，含 15% 备用金是 £684.94。"
+    }
+   ],
+   "workers": [
+    "查官方新干线票价和各类铁路通票，算分段买票和 JR Pass 哪个划算；还查了行李寄送和订票开放时间",
+    "查东京、京都、大阪各景点官网的开放时间、门票、休馆日和预约规则，以及十月的天气",
+    "独立复核：重算工作簿公式，核对每天行程在网页和表格里一致，并重新打开官方页面抽查"
+   ],
+   "chipNames": {
+    "https://smart-ex.jp/en/product/plan/service/pdf/service_fares_reserved.pdf": "smartEX 新干线指定席票价",
+    "https://japanrailpass.net/en/purchase/price/index.html": "JR Pass 官方价格",
+    "https://www.otagiji.com/visit-jp": "爱宕念佛寺 参拜须知",
+    "https://shibuya-scramble-square.com/sky/ticket/": "涩谷 SKY 门票",
+    "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_10d.php?prec_no=44&block_no=47662&year=&month=10&day=&view=": "日本气象厅 · 东京十月常年值"
+   }
+  }
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "slug": "thai-engineer-masters-australia-vs-new-zealand",
+ "startedAt": "2026-11-07",
+ "activeSec": 2922,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 1053,
+   "chips": [
+    "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-engineering-management-mc226",
+    "https://adelaide.edu.au/study/degrees/master-of-construction-management/int/",
+    "https://www.canterbury.ac.nz/study/academic-study/engineering/study-engineering-forestry-and-product-design/uc-engineering-management-programmes/on-campus-mem",
+    "https://www.immigration.govt.nz/opsmanual/47535.htm",
+    "https://www.studyaustralia.gov.au/en/Agent-Hub/agent-news-index/student-visa-application-charge-increase"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1053,
+   "end": 2344,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2344,
+   "end": 2716,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 10,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own profile and compare master’s options in Australia and New Zealand with your own numbers",
+   "runTitle": "Bangkok to Australia or New Zealand: a civil engineer’s master’s in engineering or construction management, February 2028",
+   "fields": [
+    {
+     "key": "places",
+     "label": "Countries or cities",
+     "value": "Australia (Melbourne, Brisbane, Adelaide) and New Zealand (Auckland, Christchurch)"
+    },
+    {
+     "key": "start",
+     "label": "Month and year",
+     "value": "February 2028"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "24"
+    },
+    {
+     "key": "country",
+     "label": "Country you are studying from",
+     "value": "Thailand (Bangkok)"
+    },
+    {
+     "key": "degree",
+     "label": "Degree, grades and grading scale",
+     "value": "BEng in civil engineering, GPA 3.1"
+    },
+    {
+     "key": "work",
+     "label": "Years and type of work experience",
+     "value": "Two years of site experience"
+    },
+    {
+     "key": "english",
+     "label": "English test status",
+     "value": "",
+     "placeholder": "e.g. IELTS 6.5 booked for next March"
+    },
+    {
+     "key": "funding",
+     "label": "Family funding limit and personal savings",
+     "value": "Family can support THB 2.5 million"
+    },
+    {
+     "key": "salary",
+     "label": "Monthly salary you would give up",
+     "value": "THB 32,000 a month"
+    }
+   ],
+   "template": "Compare master's options for me in {places} for a {start} start. I am {age}, studying from {country} with {degree}, {work}, {english}, {funding} and {salary}. Show tuition, living costs, insurance, visa charges, a job-search runway and a contingency in my own currency, with the arithmetic. Separate published fees and rules from assumptions, flag anything unconfirmed such as admission equivalence, intake dates and graduate-visa eligibility, and tell me what funding gate to meet before I apply. Do not apply or contact anyone for me.",
+   "phases": [
+    {
+     "title": "Read official programme, visa, salary and living-cost pages in both countries",
+     "note": "Programmes and fees, visa rules, graduate pay and city living costs",
+     "judgment": "It caught a rule that had just changed. From 27 October 2026 New Zealand’s unlimited-work provision for students covers doctoral students only, so it did not reuse the older exemption for research master’s. It also treated Australia’s AUD 2,500 visa charge as the general rate, not a confirmed price for a Thai applicant."
+    },
+    {
+     "title": "Build the guide with a full cost and payback model, and a dated source list",
+     "note": "Total cost against payback, the funding gate and an application timeline",
+     "judgment": "The pick is conditional, not a promise. Canterbury’s 1.5-year programme comes out ahead, but the modelled cash need of THB 2,551,711 is above the family’s THB 2.5 million, so the guide says admission and extra funding must come first."
+    },
+    {
+     "title": "Independent check of every figure, plus desktop and phone layout tests",
+     "judgment": "The independent colleague found no substantive arithmetic errors, but flagged that the savings deadline contradicted itself (a funding gate in October–November 2027 against a saving plan that runs to January 2028) and asked for the dates to be aligned. It also kept the warning that, even with THB 200,000 of extra savings, the plan is THB 106,882 short under the bad-exchange-rate case."
+    }
+   ],
+   "workers": [
+    "Read the official Australian and New Zealand student visa pages: costs, financial evidence, work limits and post-study work rights",
+    "Found five engineering and construction management master’s programmes across both countries, with dated tuition and entry requirements",
+    "Looked up official graduate-level salary data for civil engineering and construction in both countries, kept apart from all-worker averages",
+    "Recomputed every money figure without relying on the guide’s own arithmetic, and checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-engineering-management-mc226": "RMIT Master of Engineering (Management)",
+    "https://adelaide.edu.au/study/degrees/master-of-construction-management/int/": "Adelaide University Master of Construction Management",
+    "https://www.canterbury.ac.nz/study/academic-study/engineering/study-engineering-forestry-and-product-design/uc-engineering-management-programmes/on-campus-mem": "University of Canterbury on-campus Master of Engineering Management",
+    "https://www.immigration.govt.nz/opsmanual/47535.htm": "Immigration New Zealand manual: student work rights (U13.15)",
+    "https://www.studyaustralia.gov.au/en/Agent-Hub/agent-news-index/student-visa-application-charge-increase": "Study Australia: student visa application charge increase"
+   }
+  }
+ }
+}

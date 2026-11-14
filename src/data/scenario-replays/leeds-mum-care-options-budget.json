@@ -1,0 +1,134 @@
+{
+ "slug": "leeds-mum-care-options-budget",
+ "startedAt": "2026-11-06",
+ "activeSec": 1861,
+ "stats": {
+  "searches": 41,
+  "pages": 71,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 95,
+   "end": 986,
+   "chips": [
+    "https://www.gov.uk/government/publications/social-care-charging-for-local-authorities-2026-to-2027/social-care-charging-for-care-and-support-2026-to-2027-local-authority-circular",
+    "https://www.gov.uk/government/publications/benefit-and-pension-rates-2026-to-2027/benefit-and-pension-rates-2026-to-2027",
+    "https://www.nhs.uk/social-care-and-support/money-work-and-benefits/nhs-continuing-healthcare/",
+    "https://www.careuk.com/getattachment/e16c7276-b7bd-4ae2-8398-c9ecd9020cf6/11196-Key-facts-FY26Q4-web-Seacroft-Green.pdf",
+    "https://www.helpinghandshomecare.co.uk/our-locations/leeds/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 986,
+   "end": 1585,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 7,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1585,
+   "end": 1814,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own parent’s area, needs, savings and family help to get the same care-options budget before you speak to the council",
+   "runTitle": "An 82-year-old living alone in Leeds after a fall: five care options, what they cost and how long savings last",
+   "fields": [
+    {
+     "key": "area",
+     "label": "Where she lives",
+     "value": "Leeds"
+    },
+    {
+     "key": "matters",
+     "label": "What matters most to her",
+     "value": "",
+     "placeholder": "e.g. staying in her own home, being near her church"
+    },
+    {
+     "key": "needs",
+     "label": "Daytime, night-time and mobility needs",
+     "value": "help with washing, dressing and meals every day after a fall"
+    },
+    {
+     "key": "finances",
+     "label": "Savings, pension, home ownership and household bills",
+     "value": "savings of about £38,000, pensions of about £1,450 a month, owns her house (worth about £240,000)"
+    },
+    {
+     "key": "family",
+     "label": "What family can realistically provide",
+     "value": "I live 2 hours away and work full-time"
+    },
+    {
+     "key": "quotes",
+     "label": "Written provider quotes",
+     "value": "",
+     "placeholder": "e.g. two written home-care quotes and one care-home fee letter"
+    }
+   ],
+   "template": "Help me prepare a care-options budget for my mother in {area}, who wants {matters} and needs help with {needs}. Use {finances} and {family}. Compare {quotes}, show care and household costs separately, and list the questions for the council, GP and benefits adviser. Keep unconfirmed funding out of the baseline. Do not contact anyone, submit forms or arrange care without my permission.",
+   "phases": [
+    {
+     "title": "Three colleagues research in parallel: official funding rules, benefits and NHS support, and published Leeds care prices",
+     "note": "Government and council rules for 2026/27, plus real provider price pages",
+     "judgment": "It would not use a price it could not stand behind: one care home advertised nursing care at £1,150 a week, but the colleague found it was a promotion for the first ten residents, held until January 2027, so it was rejected as a normal fee."
+    },
+    {
+     "title": "Write the plain-English guide with five options, three worked first-year budgets and an 8-week plan",
+     "note": "An independent colleague audits the arithmetic while the page is being finished",
+     "judgment": "Funding that might not arrive is kept out of the baseline: Attendance Allowance is worth claiming, but because it usually needs six months of qualifying needs it is not assumed at the start. The budget shows the effect of it arriving after six months as a separate scenario, with £17,257.64 of savings remaining."
+    },
+    {
+     "title": "Recompute the arithmetic independently and open the page at desktop and phone widths",
+     "judgment": "What could not be confirmed is said plainly rather than estimated: the council’s exact residential and nursing rates stay marked unverified, and no care-cost cap is in force for an early-2027 plan. The independent recalculation found no arithmetic errors."
+    }
+   ],
+   "workers": [
+    "Read the official England and Leeds funding rules: needs and money assessments, the house, the 12-week rule, deferred payment, top-ups, and any cost cap",
+    "Checked Attendance Allowance, Pension Credit, Council Tax help, Carer’s Allowance and NHS-funded care",
+    "Found published Leeds prices for home visits, live-in care, extra-care housing, residential and nursing homes",
+    "Independent audit: recomputed every worked budget and matched each figure to its source"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/government/publications/social-care-charging-for-local-authorities-2026-to-2027/social-care-charging-for-care-and-support-2026-to-2027-local-authority-circular": "Government circular on social care charging 2026/27",
+    "https://www.gov.uk/government/publications/benefit-and-pension-rates-2026-to-2027/benefit-and-pension-rates-2026-to-2027": "Benefit and pension rates 2026/27",
+    "https://www.nhs.uk/social-care-and-support/money-work-and-benefits/nhs-continuing-healthcare/": "NHS continuing healthcare",
+    "https://www.careuk.com/getattachment/e16c7276-b7bd-4ae2-8398-c9ecd9020cf6/11196-Key-facts-FY26Q4-web-Seacroft-Green.pdf": "Care UK Seacroft Green: key facts and fees",
+    "https://www.helpinghandshomecare.co.uk/our-locations/leeds/": "Helping Hands Leeds: home care"
+   }
+  }
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "slug": "new-zealand-south-island-seven-day-road-trip",
+ "startedAt": "2026-11-05",
+ "activeSec": 1075,
+ "stats": {
+  "searches": 44,
+  "pages": 54,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 562,
+   "chips": [
+    "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/australian-citizens-and-permanent-residents-travelling-to-new-zealand/",
+    "https://www.nzta.govt.nz/projects/sh94-milford-road/?setUpFor=schedule",
+    "https://www.realnz.com/en/experiences/day-cruises/milford-sound-day-trip-from-te-anau",
+    "https://www.omegarentalcars.com/terms-and-conditions/",
+    "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/hooker-valley-track/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 562,
+   "end": 940,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 940,
+   "end": 1065,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own dates, driving limit and budget to get a South Island plan with every price dated",
+   "runTitle": "Sydney couple, 6–13 March 2027: a South Island road trip on about NZD 4,500, with Milford Sound and Mount Cook",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates and travellers",
+     "value": "A couple travelling from Sydney, Saturday 6 March to Saturday 13 March 2027 (7 days)"
+    },
+    {
+     "key": "arrive",
+     "label": "Arrival airport and time",
+     "value": "Flying into Queenstown on Saturday 6 March 2027"
+    },
+    {
+     "key": "leave",
+     "label": "Departure airport and time",
+     "value": "Flying out of Christchurch on Saturday 13 March 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget excluding or including flights",
+     "value": "About NZD 4,500 for two, excluding international flights"
+    },
+    {
+     "key": "passport",
+     "label": "Passport and Australian visa status",
+     "value": "Australian travellers"
+    },
+    {
+     "key": "licence",
+     "label": "Licences and ages",
+     "value": "",
+     "placeholder": "e.g. both hold full Australian licences, aged 35 and 37"
+    },
+    {
+     "key": "walking",
+     "label": "Walking needs",
+     "value": "Easy-to-moderate walks"
+    },
+    {
+     "key": "limit",
+     "label": "Personal-driving or total-road-time limit",
+     "value": "No more than 4 hours of driving on any day"
+    }
+   ],
+   "template": "Plan a South Island trip for {dates}, arriving at {arrive} and leaving from {leave}, with {budget}, {passport}, {licence}, {walking} and {limit}. Separate dated prices from estimates, compare final room/car totals, and include weather alternatives. Plan only; do not book or pay.",
+   "phases": [
+    {
+     "title": "Check the route, places to stay, car hire, walks and entry rules against current sources",
+     "note": "Milford Sound road and cruises, car rental terms, official walking track pages, entry rules for Australians",
+     "judgment": "It kept advertising from passing as a quote. One rental firm’s “from $19.99 a day” is a general ad, not a March price, and no date-specific car or room quote was claimed. The gaps are labelled next to the costs."
+    },
+    {
+     "title": "Build the itinerary and the dated source list, with a budget that adds up",
+     "note": "Seven nights allocated, 12 places to stay priced, car options compared"
+    },
+    {
+     "title": "Check the files, the arithmetic and the final delivery",
+     "judgment": "The independent check recalculated the budget ($4,285 planned plus $215 contingency makes $4,500) and then said plainly what arithmetic cannot prove: it is still unverified that the trip can actually be booked within NZD 4,500, because no dated room or car totals exist yet. The guide already says so."
+    }
+   ],
+   "workers": [
+    "Found publicly priced places to stay, two for each of the six stops, with the price and the date it was seen",
+    "Checked two car rental firms’ published prices, one-way fees and insurance excess, plus entry rules for Australians and the current fuel price",
+    "Independently audited the finished guide: dates, nights covered, budget arithmetic and spot checks against the original sources"
+   ],
+   "chipNames": {
+    "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/australian-citizens-and-permanent-residents-travelling-to-new-zealand/": "New Zealand Immigration: Australian citizens and residents",
+    "https://www.nzta.govt.nz/projects/sh94-milford-road/?setUpFor=schedule": "NZTA: Milford Road (SH94) schedule",
+    "https://www.realnz.com/en/experiences/day-cruises/milford-sound-day-trip-from-te-anau": "Real Journeys: Milford Sound day trip from Te Anau",
+    "https://www.omegarentalcars.com/terms-and-conditions/": "Omega Rental Cars: terms and conditions",
+    "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/hooker-valley-track/": "Department of Conservation: Hooker Valley Track"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的日期、驾驶上限和预算，就能得到每个价格都带日期的南岛行程",
+   "runTitle": "悉尼夫妻，2027 年 3 月 6 日至 13 日：新西兰南岛自驾，预算约 4,500 新西兰元，含米尔福德峡湾和库克山",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期和人数",
+     "value": "从悉尼出发的一对夫妻，2027 年 3 月 6 日（周六）至 3 月 13 日（周六），共 7 天"
+    },
+    {
+     "key": "arrive",
+     "label": "机场及抵达时间",
+     "value": "2027 年 3 月 6 日飞抵皇后镇"
+    },
+    {
+     "key": "leave",
+     "label": "机场及离开时间",
+     "value": "2027 年 3 月 13 日从基督城飞走"
+    },
+    {
+     "key": "budget",
+     "label": "含不含机票及金额",
+     "value": "约 4,500 新西兰元（两人），不含国际机票"
+    },
+    {
+     "key": "passport",
+     "label": "护照和澳洲签证身份",
+     "value": "澳洲旅客"
+    },
+    {
+     "key": "licence",
+     "label": "驾照及年龄",
+     "value": "",
+     "placeholder": "例如：两人都持澳洲正式驾照，分别 35 岁和 37 岁"
+    },
+    {
+     "key": "walking",
+     "label": "步行需求",
+     "value": "轻松到中等强度的步行"
+    },
+    {
+     "key": "limit",
+     "label": "个人驾驶或全部公路时间上限",
+     "value": "每天开车不超过 4 小时"
+    }
+   ],
+   "template": "请规划{dates}的新西兰南岛行程，从{arrive}入境、{leave}离境，预算{budget}，护照和澳洲签证身份{passport}，驾照及年龄{licence}，步行需求{walking}，上限是{limit}。分清有日期的价格和估算，比较住宿及租车最终总价，并给天气备选。只做计划，不预订、不付款。",
+   "phases": [
+    {
+     "title": "对照最新资料核实路线、住宿、租车、步道和入境规定",
+     "note": "米尔福德峡湾公路与游船、租车条款、官方步道页面、澳洲旅客入境规定",
+     "judgment": "它没有让广告冒充报价：某租车公司的“每天 19.99 起”只是泛泛广告，不是 3 月的价格，所以没有声称拿到任何带日期的租车或房价；这些缺口都标在对应费用旁边。"
+    },
+    {
+     "title": "搭建行程和带日期的来源清单，预算要合得上",
+     "note": "七晚住宿全部安排，12 处住宿已标价，租车方案已比较"
+    },
+    {
+     "title": "检查文件、计算和最终交付",
+     "judgment": "独立复核重算了预算（计划 4,285 加备用 215，合计 4,500 新西兰元），并明说算术证明不了的事：因为还没有带日期的房价和租车总价，这趟能否真的在 4,500 新西兰元内订下，仍未核实。指南里已写明这一点。"
+    }
+   ],
+   "workers": [
+    "为六个落脚点各找两处公开标价的住宿，记下价格和查到的日期",
+    "核对两家租车公司公布的价格、异地还车费和保险自付额，以及澳洲旅客入境规定和当前油价",
+    "独立审查成品指南：日期、夜数、预算计算，并对照原始来源抽查"
+   ],
+   "chipNames": {
+    "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/australian-citizens-and-permanent-residents-travelling-to-new-zealand/": "新西兰移民局:澳洲公民和居民入境说明",
+    "https://www.nzta.govt.nz/projects/sh94-milford-road/?setUpFor=schedule": "新西兰交通局:米尔福德公路(SH94)时间表",
+    "https://www.realnz.com/en/experiences/day-cruises/milford-sound-day-trip-from-te-anau": "Real Journeys:特阿瑙出发米尔福德峡湾一日游",
+    "https://www.omegarentalcars.com/terms-and-conditions/": "Omega 租车:条款与细则",
+    "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/hooker-valley-track/": "新西兰环保部:胡克谷步道"
+   }
+  }
+ }
+}

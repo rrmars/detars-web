@@ -1,0 +1,202 @@
+{
+ "slug": "dog-shanghai-to-singapore-2027",
+ "startedAt": "2026-11-07",
+ "activeSec": 1826,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 51,
+   "end": 730,
+   "chips": [
+    "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/",
+    "https://avs.nparks.gov.sg/about-us/our-centres/animal-quarantine-centre/",
+    "https://avs.nparks.gov.sg/pets/licensing-a-pet/information-on-dog-and-cat-licences/licence-fees/",
+    "https://www.singaporeair.com/en_UK/sg/travel-info/special-assistance/travelling-with-pets/",
+    "https://online.customs.gov.cn/static/pages/guides/000629014001/000629014001.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 730,
+   "end": 1202,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1202,
+   "end": 1702,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 10,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your dog's records, dates and housing, and get a backward-timed Shanghai-to-Singapore dog move plan",
+   "runTitle": "Moving a 4-year-old dog from Shanghai to Singapore in June 2027: import rules, timeline and costs",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Export and arrival dates",
+     "value": "Moving to Singapore in June 2027"
+    },
+    {
+     "key": "records",
+     "label": "Chip, vaccine and titre records",
+     "value": "Microchipped and vaccinated in Shanghai"
+    },
+    {
+     "key": "breed",
+     "label": "Breed photos, weight, measurements and sterilisation status",
+     "value": "4 years old, 18 kg, mixed breed with no restricted-breed ancestry they know of"
+    },
+    {
+     "key": "housing",
+     "label": "Housing permission",
+     "value": "May rent either an HDB flat or a private condo"
+    },
+    {
+     "key": "quarantine",
+     "label": "Quarantine acceptance",
+     "value": "",
+     "placeholder": "e.g. fine with a stay of at least 30 days at the quarantine centre"
+    },
+    {
+     "key": "flight",
+     "label": "Flight and crate options",
+     "value": "",
+     "placeholder": "e.g. checked baggage on a direct Shanghai–Singapore flight, large airline crate"
+    },
+    {
+     "key": "quotes",
+     "label": "Itemised agent and freight quotes",
+     "value": "",
+     "placeholder": "e.g. a relocation agent's quote listing every line, in CNY"
+    }
+   ],
+   "template": "Plan our Shanghai-to-Singapore dog move for {dates} using {records}, {breed}, {housing}, {quarantine}, {flight} and {quotes}. Work backwards from export, separate confirmed requirements from open checks, and show costs without double-counting or hiding unpriced extras. Ask before contacting anyone, sharing documents or submitting anything.",
+   "phases": [
+    {
+     "title": "Read the official rules for importing, housing, export from China and transport",
+     "note": "Singapore's import and quarantine rules, dog licensing and housing rules, Shanghai customs and airline pet policies",
+     "judgment": "Two pages of the same airline disagreed on when it would refuse a pet in hot weather. It wrote down both versions and the exact difference, and did not treat acceptance of the dog on a June 2027 flight as confirmed."
+    },
+    {
+     "title": "Write the guide with a recommendation, a backward timeline and a fully sourced cost table"
+    },
+    {
+     "title": "Independent check of every claim and sum, then desktop and phone layout checks",
+     "judgment": "The independent audit confirmed that the sums and dates matched, but it would not give an overall pass. It listed what is still open, for example a mismatch between two Singapore government portals and how long the Chinese customs permit stays valid."
+    }
+   ],
+   "workers": [
+    "Read the public rules for exporting a pet dog from Shanghai, and which airports and airlines carry dogs as checked baggage or cargo",
+    "Read Singapore's rules on dog housing, breed and size, the adoption scheme limits, licence fees, and quarantine and agent charges",
+    "Independent audit: recomputed every money figure and date, checked each rule claim against the source notes, and listed what is still unconfirmed"
+   ],
+   "chipNames": {
+    "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/": "Singapore AVS: importing dogs and cats",
+    "https://avs.nparks.gov.sg/about-us/our-centres/animal-quarantine-centre/": "Singapore AVS: Animal Quarantine Centre",
+    "https://avs.nparks.gov.sg/pets/licensing-a-pet/information-on-dog-and-cat-licences/licence-fees/": "Singapore AVS: dog licence fees",
+    "https://www.singaporeair.com/en_UK/sg/travel-info/special-assistance/travelling-with-pets/": "Singapore Airlines: travelling with pets",
+    "https://online.customs.gov.cn/static/pages/guides/000629014001/000629014001.html": "China Customs: online service guide"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你家狗狗的记录、日期和住房情况，就能得到一份按出口日期倒排的上海到新加坡宠物犬搬家方案",
+   "runTitle": "2027 年 6 月把 4 岁的狗从上海带到新加坡：入境规定、时间表和费用",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "出口和抵达日期",
+     "value": "2027 年 6 月搬到新加坡"
+    },
+    {
+     "key": "records",
+     "label": "芯片、疫苗和抗体记录",
+     "value": "已植入芯片，在上海打过疫苗"
+    },
+    {
+     "key": "breed",
+     "label": "犬种照片、体重、尺寸和绝育状态",
+     "value": "4 岁，18 公斤，混种，据他们所知没有限制犬种的血统"
+    },
+    {
+     "key": "housing",
+     "label": "住房许可",
+     "value": "组屋（HDB）或私人公寓都可能租"
+    },
+    {
+     "key": "quarantine",
+     "label": "隔离接受确认",
+     "value": "",
+     "placeholder": "例如：可以接受在检疫中心住至少 30 天"
+    },
+    {
+     "key": "flight",
+     "label": "航班和航空箱方案",
+     "value": "",
+     "placeholder": "例如：上海直飞新加坡，托运，用大号航空箱"
+    },
+    {
+     "key": "quotes",
+     "label": "代理和货运分项报价",
+     "value": "",
+     "placeholder": "例如：搬家代理逐项列出的人民币报价"
+    }
+   ],
+   "template": "请按 {dates}，结合 {records}、{breed}、{housing}、{quarantine}、{flight} 及 {quotes}，规划上海到新加坡的宠物犬搬家。按出口日期倒排，区分已确认要求和待核实事项，避免费用重复，也不要隐藏未定价的额外费用。联系他人、分享文件或提交任何东西前，先问我。",
+   "phases": [
+    {
+     "title": "读进口、住房、中国出口和运输方面的官方规定",
+     "note": "新加坡进口和检疫规定、养犬登记和住房规则、上海海关和航空公司的宠物政策",
+     "judgment": "同一家航空公司的两个页面，对高温天气什么时候拒收宠物说法不一致。它把两种说法和具体差异都写了下来，没有把 2027 年 6 月航班接收这条狗当成已确认。"
+    },
+    {
+     "title": "写出带推荐、倒排时间表和完整来源费用表的指南"
+    },
+    {
+     "title": "独立核对每条说法和每笔金额，再检查电脑和手机上的页面",
+     "judgment": "独立审核确认金额和日期都对得上，但没有给出整体通过，并列出还没解决的事项，例如新加坡两个政府网站之间的出入，以及中国海关许可证的有效期。"
+    }
+   ],
+   "workers": [
+    "读上海出口宠物犬的公开规定，以及哪些机场和航空公司可以托运或走货运运狗",
+    "读新加坡对养犬住房、犬种和体型的规定、领养计划限制、养犬执照费，以及检疫和代理收费",
+    "独立审核：重算每一笔金额和日期，逐条对照来源笔记检查规则说法，并列出仍未确认的事项"
+   ],
+   "chipNames": {
+    "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/": "新加坡农粮兽医局：进口猫狗",
+    "https://avs.nparks.gov.sg/about-us/our-centres/animal-quarantine-centre/": "新加坡农粮兽医局：动物检疫中心",
+    "https://avs.nparks.gov.sg/pets/licensing-a-pet/information-on-dog-and-cat-licences/licence-fees/": "新加坡农粮兽医局：养犬执照费",
+    "https://www.singaporeair.com/en_UK/sg/travel-info/special-assistance/travelling-with-pets/": "新加坡航空：携带宠物出行",
+    "https://online.customs.gov.cn/static/pages/guides/000629014001/000629014001.html": "中国海关：网上办事指南"
+   }
+  }
+ }
+}

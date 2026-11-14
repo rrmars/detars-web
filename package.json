@@ -21,6 +21,7 @@
     "@fontsource/manrope": "^5.2.8",
     "@fontsource/space-grotesk": "^5.2.10",
     "astro": "^6.0.3",
+    "remark-cjk-friendly": "^2.3.4",
     "yaml": "2.9.0"
   },
   "devDependencies": {

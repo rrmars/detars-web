@@ -1,0 +1,228 @@
+{
+ "slug": "nepal-nurse-australia-english-test",
+ "startedAt": "2026-11-06",
+ "activeSec": 1877,
+ "stats": {
+  "searches": 77,
+  "pages": 46,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 30,
+   "end": 1157,
+   "chips": [
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/proficient-english",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-table",
+    "https://ielts.idp.com/nepal/about/ielts-test-dates-fees-locations",
+    "https://www.britishcouncil.org.np/exam/ielts/dates-fees-locations",
+    "https://www.pearsonpte.com/test-centers-and-fees/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 26,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1157,
+   "end": 1403,
+   "chips": [
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english",
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/superior-english",
+    "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+    "https://usefnepal.org/prometric/registration-information/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1403,
+   "end": 1615,
+   "chips": [
+    "https://oet.com/ready",
+    "https://www.ets.org/toefl/test-takers/ibt/prepare-australia.html",
+    "https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-bulletin.pdf"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1615,
+   "end": 1826,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own scores and visa plan and get the same test comparison, study plan and retake budget",
+   "runTitle": "Kathmandu nurse, Australian registration: which English test, and a 20-week plan for April 2027",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "Passport, residence and nursing qualification",
+     "value": "27-year-old registered nurse in Kathmandu with 4 years of experience"
+    },
+    {
+     "key": "scores",
+     "label": "Current scores by skill",
+     "value": "Has never taken an English test"
+    },
+    {
+     "key": "visa",
+     "label": "Visa subclass or uncertainty",
+     "value": "Wants to apply for a skilled visa later; no subclass chosen yet"
+    },
+    {
+     "key": "shifts",
+     "label": "Shift pattern",
+     "value": "",
+     "placeholder": "e.g. rotating day and night shifts, two weekends off a month"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and payment currency",
+     "value": "",
+     "placeholder": "e.g. NPR 80,000 in total, paying by card in USD"
+    },
+    {
+     "key": "date",
+     "label": "Target date",
+     "value": "Sit the test by April 2027"
+    }
+   ],
+   "template": "Compare accepted Australian nursing English tests for {profile}, {scores}, {visa}, {shifts}, {budget} and {date}. Separate registration from visa targets, confirm test version and local access, and give me a study plan and full-retake reserve. Plan only; do not book, pay, create accounts or contact anyone.",
+   "phases": [
+    {
+     "title": "Check the official English score tables for registration and visa points",
+     "note": "Accepted tests, minimum scores per skill and what each level is worth",
+     "judgment": "It caught a trap that is easy to miss: for Australia, new TOEFL bookings must be the “TOEFL for Australia” version. The ordinary global TOEFL is not interchangeable."
+    },
+    {
+     "title": "Check Kathmandu test centres, fees and official preparation options",
+     "judgment": "It did not reuse an old price. The only Nepal TOEFL fee it found (USD 180) was dated May 2019, so the page marks the current Nepal TOEFL fee as unconfirmed instead of filling the gap."
+    },
+    {
+     "title": "Build the comparison page, study plan and sums record",
+     "note": "Recommendation, 20-week plan and a budget with one full retake"
+    },
+    {
+     "title": "Check the page on desktop and phone, then deliver",
+     "judgment": "It checked the page at desktop and phone width with no layout errors, and told the reader plainly that its research tools had quietly used an already-open browser as a fallback, so it could not be shown that every page was read in a fresh, signed-out browser."
+    }
+   ],
+   "workers": [
+    "Read the official Home Affairs English tables for IELTS, PTE, TOEFL and OET, and what each level is worth in visa points",
+    "Found the Kathmandu fees, test centres and booking rules for IELTS and PTE, and how quickly results arrive",
+    "Did the same for OET and TOEFL: fees, rescheduling, result times and which TOEFL version Australia accepts"
+   ],
+   "chipNames": {
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/proficient-english": "Home Affairs: proficient English",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-table": "Home Affairs: skilled independent (189) points table",
+    "https://ielts.idp.com/nepal/about/ielts-test-dates-fees-locations": "IDP Nepal: IELTS dates, fees and locations",
+    "https://www.britishcouncil.org.np/exam/ielts/dates-fees-locations": "British Council Nepal: IELTS dates, fees and locations",
+    "https://www.pearsonpte.com/test-centers-and-fees/": "Pearson PTE: test centres and fees",
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english": "Home Affairs: competent English",
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/superior-english": "Home Affairs: superior English",
+    "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost": "OET: how much the test costs",
+    "https://usefnepal.org/prometric/registration-information/": "USEF Nepal: Prometric registration information",
+    "https://oet.com/ready": "OET Ready: official preparation",
+    "https://www.ets.org/toefl/test-takers/ibt/prepare-australia.html": "ETS: TOEFL for Australia preparation",
+    "https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-bulletin.pdf": "ETS: TOEFL iBT bulletin"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的成绩和签证打算，同样拿到考试比较、备考安排和重考预算",
+   "runTitle": "加德满都的护士申请澳大利亚注册：选哪种英语考试，以及备战 2027 年 4 月的 20 周计划",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "护照、居住地与护理学历",
+     "value": "27 岁，住在加德满都的注册护士，4 年工作经验"
+    },
+    {
+     "key": "scores",
+     "label": "当前各单项成绩",
+     "value": "从未参加过英语考试"
+    },
+    {
+     "key": "visa",
+     "label": "签证子类或尚未确定之处",
+     "value": "以后想申请技术移民签证，还没选定子类"
+    },
+    {
+     "key": "shifts",
+     "label": "轮班安排",
+     "value": "",
+     "placeholder": "例如：日夜班轮换，每月休两个周末"
+    },
+    {
+     "key": "budget",
+     "label": "预算与支付币种",
+     "value": "",
+     "placeholder": "例如：总预算 8 万尼泊尔卢比，用美元刷卡支付"
+    },
+    {
+     "key": "date",
+     "label": "目标日期",
+     "value": "2027 年 4 月前参加考试"
+    }
+   ],
+   "template": "请为{profile}、{scores}、{visa}、{shifts}、{budget}和{date}比较澳大利亚护士认可的英语考试。分清注册与签证目标，确认版本及当地考试条件，给我学习安排和完整重考预算。只做计划，不报名、不付款、不创建账户、不联系任何人。",
+   "phases": [
+    {
+     "title": "核对注册和签证积分所用的官方英语分数表",
+     "note": "认可的考试、各单项最低分，以及每档分数的价值",
+     "judgment": "它抓住了一个容易漏掉的陷阱：针对澳大利亚，新的托福报名必须选“澳大利亚版托福”，普通的全球版托福不能通用。"
+    },
+    {
+     "title": "核对加德满都的考点、费用和官方备考资源",
+     "judgment": "它没有沿用旧价格。能找到的唯一一条尼泊尔托福费用（180 美元）标注的是 2019 年 5 月，所以页面把现行尼泊尔托福费用标为“未确认”，而不是硬填一个数。"
+    },
+    {
+     "title": "做出比较页面、备考计划和算式记录",
+     "note": "推荐结论、20 周计划，以及含一次完整重考的预算"
+    },
+    {
+     "title": "在电脑和手机上检查页面后交付",
+     "judgment": "它在电脑和手机宽度下检查了页面，没有版面错误，并如实告诉读者：查资料的工具曾悄悄用了已有的浏览器作后备，所以不能证明全程都是干净的浏览环境。"
+    }
+   ],
+   "workers": [
+    "阅读澳大利亚内政部官方的英语分数表（雅思、PTE、托福、OET），以及各档分数对应的签证积分",
+    "查清加德满都雅思和 PTE 的费用、考点与报名规则，以及出分速度",
+    "同样查清 OET 和托福的费用、改期规则、出分时间，以及澳大利亚认可哪个托福版本"
+   ],
+   "chipNames": {
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/proficient-english": "澳大利亚内政部：熟练英语（Proficient）",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-table": "澳大利亚内政部：189 技术独立签证积分表",
+    "https://ielts.idp.com/nepal/about/ielts-test-dates-fees-locations": "IDP 尼泊尔：雅思考期、费用和考点",
+    "https://www.britishcouncil.org.np/exam/ielts/dates-fees-locations": "英国文化协会尼泊尔：雅思考期、费用和考点",
+    "https://www.pearsonpte.com/test-centers-and-fees/": "Pearson PTE：考点与费用",
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english": "澳大利亚内政部：合格英语（Competent）",
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/superior-english": "澳大利亚内政部：优秀英语（Superior）",
+    "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost": "OET：考试费用说明",
+    "https://usefnepal.org/prometric/registration-information/": "USEF 尼泊尔：Prometric 报名信息",
+    "https://oet.com/ready": "OET Ready：官方备考资源",
+    "https://www.ets.org/toefl/test-takers/ibt/prepare-australia.html": "ETS：澳大利亚版托福备考",
+    "https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-bulletin.pdf": "ETS：托福 iBT 考生手册"
+   }
+  }
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "slug": "brisbane-solar-battery-payback",
+ "startedAt": "2026-11-06",
+ "activeSec": 3018,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 1619,
+   "end": 1960,
+   "chips": [
+    "https://cer.gov.au/schemes/renewable-energy-target/small-scale-renewable-energy-scheme/small-scale-renewable-energy-systems/solar-batteries",
+    "https://www.solarchoice.net.au/solar-panels/solar-power-system-prices/",
+    "https://www.solarquotes.com.au/battery-storage/cost/",
+    "https://cer.gov.au/schemes/renewable-energy-target/small-scale-renewable-energy-scheme/small-scale-technology-certificates/calculate-small-scale-technology-certificate-entitlements",
+    "https://www.solargain.com.au/solar-battery-brisbane"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1960,
+   "end": 2776,
+   "chips": [
+    "https://www.dcceew.gov.au/energy/programs/cheaper-home-batteries",
+    "https://nectr.com.au/plan_pdfs/NTR1061457SRE.pdf",
+    "https://www.energex.com.au/our-services/connections/residential-and-commercial-connections/solar-connections-and-other-technologies/dynamic-connections-for-energy-exports/dynamic-connections-for-installers",
+    "https://www.qld.gov.au/housing/home-energy-savings/supercharged-solar-for-renters/about",
+    "https://saaustralia.com.au/about-accreditation/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2776,
+   "end": 2912,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own roof, bill and quotes and get the same solar, battery or wait comparison before you sign with an installer",
+   "runTitle": "Brisbane: rooftop solar, solar plus battery, or wait? A family of four on a AUD 2,600 power bill",
+   "fields": [
+    {
+     "key": "roof",
+     "label": "Postcode and roof details",
+     "value": "4-bedroom house in Brisbane’s northern suburbs"
+    },
+    {
+     "key": "bill",
+     "label": "Electricity bill and meter data",
+     "value": "About AUD 2,600 a year, roughly 22 kWh a day, higher in summer"
+    },
+    {
+     "key": "tariff",
+     "label": "Eligible electricity plan",
+     "value": "",
+     "placeholder": "e.g. current single-rate plan, 30c/kWh plus daily supply charge"
+    },
+    {
+     "key": "quotes",
+     "label": "Itemised net quotes",
+     "value": "",
+     "placeholder": "e.g. 6.6kW installed quote of AUD 5,900 after rebates"
+    },
+    {
+     "key": "ev",
+     "label": "EV timing and daytime parking",
+     "value": "One EV planned for 2028"
+    },
+    {
+     "key": "backup",
+     "label": "Backup power needs",
+     "value": "",
+     "placeholder": "e.g. keep the fridge and lights on during outages"
+    }
+   ],
+   "template": "Compare 6.6kW solar, 10kW solar and an optional battery for {roof}, using {bill}, {tariff}, {quotes}, {ev} and {backup}. Show the battery's incremental return, waiting sensitivity and missing costs. Ask before contacting installers or sharing my details.",
+   "phases": [
+    {
+     "title": "Look up dated Brisbane prices, power plans and the official rebate and grid rules",
+     "note": "Installed prices and retail plans checked side by side",
+     "judgment": "It did not smooth over messy price data: the price index has no exact 6.6kW figure, one installer site’s tables did not reconcile, and the four installer pages were flagged as indicative ranges, not four comparable offers."
+    },
+    {
+     "title": "Build the guide and an editable spreadsheet model, with sources and every calculation",
+     "note": "Solar only, solar plus battery, wait two years, and an EV from 2028",
+     "judgment": "It recommended solar first and holding off on the battery: the battery’s own payback is 11.9 years, against 6.3 for 6.6kW solar alone. It also labelled the power plans it found as existing-customer offers, not a shortlist this household could sign up to."
+    },
+    {
+     "title": "Recheck the arithmetic, recalculate the spreadsheet and test desktop and phone layouts"
+    }
+   ],
+   "workers": [
+    "Collected dated Brisbane installed prices for solar and batteries from price indexes and four installer pages",
+    "Read real retailer plan sheets in South-East Queensland and the official rebate and installer-accreditation rules"
+   ],
+   "chipNames": {
+    "https://cer.gov.au/schemes/renewable-energy-target/small-scale-renewable-energy-scheme/small-scale-renewable-energy-systems/solar-batteries": "Clean Energy Regulator: solar batteries",
+    "https://www.solarchoice.net.au/solar-panels/solar-power-system-prices/": "Solar Choice solar price index",
+    "https://www.solarquotes.com.au/battery-storage/cost/": "SolarQuotes battery cost guide",
+    "https://cer.gov.au/schemes/renewable-energy-target/small-scale-renewable-energy-scheme/small-scale-technology-certificates/calculate-small-scale-technology-certificate-entitlements": "Clean Energy Regulator: certificate entitlements",
+    "https://www.solargain.com.au/solar-battery-brisbane": "Solargain Brisbane solar and battery page",
+    "https://www.dcceew.gov.au/energy/programs/cheaper-home-batteries": "Cheaper Home Batteries Program",
+    "https://nectr.com.au/plan_pdfs/NTR1061457SRE.pdf": "Nectr plan sheet (Energex area)",
+    "https://www.energex.com.au/our-services/connections/residential-and-commercial-connections/solar-connections-and-other-technologies/dynamic-connections-for-energy-exports/dynamic-connections-for-installers": "Energex: dynamic export connections",
+    "https://www.qld.gov.au/housing/home-energy-savings/supercharged-solar-for-renters/about": "Queensland: Supercharged Solar for Renters",
+    "https://saaustralia.com.au/about-accreditation/": "Solar Accreditation Australia: installer accreditation"
+   }
+  }
+ }
+}

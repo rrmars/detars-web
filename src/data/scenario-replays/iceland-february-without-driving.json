@@ -1,0 +1,204 @@
+{
+ "slug": "iceland-february-without-driving",
+ "startedAt": "2026-11-06",
+ "activeSec": 1700,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 19,
+   "end": 483,
+   "chips": [
+    "https://troll.is/multi-day/2-day-south-coast-winter-tour/",
+    "https://grayline.is/tours/northern-lights?currency=ISK",
+    "https://travel-europe.europa.eu/etias",
+    "https://www.bluelagoon.com/day-visit/the-blue-lagoon",
+    "https://en.vedur.is/weather/forecasts/aurora/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 483,
+   "end": 996,
+   "chips": [
+    "https://safetravel.is/",
+    "https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm",
+    "https://flybus.is/plan-your-trip/prices/",
+    "https://www.gov.pl/web/unitedkingdom/introduction-of-etias-in-2027"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 996,
+   "end": 1719,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 7,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates and budget, and get a no-driving Iceland winter plan with a weather reserve",
+   "runTitle": "Seven days in Iceland in February without driving: a Singapore couple on SGD 9,000",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "Passport nationalities and prior Schengen stays",
+     "value": "Singapore passports (a couple in their early 30s)"
+    },
+    {
+     "key": "flights",
+     "label": "Flight dates and times",
+     "value": "7 days in Iceland in mid-February 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget excluding flights",
+     "value": "SGD 9,000 for two, excluding flights from Singapore"
+    },
+    {
+     "key": "walking",
+     "label": "Walking comfort",
+     "value": "",
+     "placeholder": "e.g. fine with 5 km walks, not on icy paths"
+    },
+    {
+     "key": "quotes",
+     "label": "Dated quotes and fare terms",
+     "value": "",
+     "placeholder": "e.g. a 2-day South Coast tour quote read on 7 November, with its cancellation terms"
+    }
+   ],
+   "template": "Plan a no-driving Iceland winter trip for {passport}, {flights}, {budget} and {walking}. Compare a Reykjavík base plus guided coast overnight, using {quotes}. Keep a weather reserve, explain cave substitutions, aurora retries, lagoon transport and ETIAS checks. Ask before booking, contacting anyone or sharing my details.",
+   "phases": [
+    {
+     "title": "Research tours, hotels, getting around and official entry and weather information",
+     "note": "Tour operators, Reykjavík and South Coast hotels, airport transfers, Schengen and ETIAS rules"
+    },
+    {
+     "title": "Write the day-by-day guide, with dated sources and every calculation",
+     "note": "Reykjavík base plus a two-day guided South Coast trip, with weather buffers",
+     "judgment": "It kept the unknowns visible instead of filling them in: no February hotel availability was confirmed, two published Sky Lagoon prices disagreed, and the start date of the EU's new ETIAS travel authorisation is still unconfirmed."
+    },
+    {
+     "title": "Independent budget check, then desktop and phone layout checks",
+     "judgment": "A separate reviewer re-added all 14 budget rows without redoing the research: ISK 737,468, or SGD 7,762.82, which leaves SGD 1,237.18 under the SGD 9,000 budget. It also priced the more expensive hotel option, SGD 8,904.93, which still fits."
+    }
+   ],
+   "workers": [
+    "Looked for hotel rates in Reykjavík and on the South Coast for mid-February, and kept only those that had a real source",
+    "Read four tour operators' own pages for advertised prices, winter ice cave dates, and what happens if a tour is cancelled or no lights appear",
+    "Checked official entry rules for Singapore passports, ETIAS timing, airport bus fares, lagoon prices and winter clothing rental",
+    "Independent check of the budget arithmetic and whether the guide holds together, without doing new research"
+   ],
+   "chipNames": {
+    "https://troll.is/multi-day/2-day-south-coast-winter-tour/": "Tröll: 2-day South Coast winter tour",
+    "https://grayline.is/tours/northern-lights?currency=ISK": "Gray Line: Northern Lights tour",
+    "https://travel-europe.europa.eu/etias": "EU: ETIAS travel authorisation",
+    "https://www.bluelagoon.com/day-visit/the-blue-lagoon": "Blue Lagoon: day visit",
+    "https://en.vedur.is/weather/forecasts/aurora/": "Icelandic Met Office: aurora forecast",
+    "https://safetravel.is/": "SafeTravel Iceland: road and weather safety",
+    "https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm": "Your Europe: entry rules for non-EU visitors",
+    "https://flybus.is/plan-your-trip/prices/": "Flybus: airport transfer prices",
+    "https://www.gov.pl/web/unitedkingdom/introduction-of-etias-in-2027": "Official notice: ETIAS planned for 2027"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的日期和预算，就能得到一份不自驾、带天气备用金的冰岛冬季行程",
+   "runTitle": "二月去冰岛七天、不自驾：新加坡情侣，预算 9000 新币",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "护照国籍和既往申根停留",
+     "value": "新加坡护照（两人都是三十出头）"
+    },
+    {
+     "key": "flights",
+     "label": "航班日期和时间",
+     "value": "2027 年 2 月中旬去冰岛 7 天"
+    },
+    {
+     "key": "budget",
+     "label": "不含机票的预算",
+     "value": "两人 9000 新币，不含新加坡出发的机票"
+    },
+    {
+     "key": "walking",
+     "label": "步行承受能力",
+     "value": "",
+     "placeholder": "例如：能走 5 公里，但不想走结冰的路"
+    },
+    {
+     "key": "quotes",
+     "label": "指定日期报价和票种条款",
+     "value": "",
+     "placeholder": "例如：11 月 7 日查到的南岸两日团报价及其退改条款"
+    }
+   ],
+   "template": "为{passport}、{flights}、{budget}及{walking}规划冰岛冬季不自驾行程。根据{quotes}比较雷克雅未克基地加南岸跟团过夜。保留天气备用金，说明冰洞替换、极光重试、温泉交通和 ETIAS 核查。订购、联系任何人或分享我的资料前，先问我。",
+   "phases": [
+    {
+     "title": "查旅行团、酒店、交通以及官方的入境和天气信息",
+     "note": "旅行社、雷克雅未克和南岸酒店、机场接送、申根和 ETIAS 规定"
+    },
+    {
+     "title": "写出逐日行程，附带日期的来源和每一笔计算",
+     "note": "雷克雅未克做基地，加一次南岸两日跟团，并留出天气缓冲",
+     "judgment": "没确定的地方它都摆在明面上，没有补空：二月的酒店空房没能核实，天空潟湖有两个公开价格对不上，欧盟新的 ETIAS 旅行授权什么时候启用也还没定。"
+    },
+    {
+     "title": "独立核对预算，再检查电脑和手机上的页面",
+     "judgment": "独立复核同事没有重新做调研，只把预算 14 行重新加了一遍：冰岛克朗 737,468，合 7,762.82 新币，比 9000 新币预算低 1,237.18。它还算了更贵的酒店方案，是 8,904.93 新币，仍在预算内。"
+    }
+   ],
+   "workers": [
+    "查二月中旬雷克雅未克和南岸的酒店价格，只留下有真实来源的",
+    "读四家旅行社自己的页面：公布的价格、冬季冰洞日期，以及旅行团取消或没看到极光时怎么处理",
+    "核对新加坡护照的官方入境规定、ETIAS 时间、机场大巴票价、温泉价格和冬装租赁",
+    "独立检查预算算术和整份指南前后是否一致，不做新调研"
+   ],
+   "chipNames": {
+    "https://troll.is/multi-day/2-day-south-coast-winter-tour/": "Tröll：南岸两日冬季团",
+    "https://grayline.is/tours/northern-lights?currency=ISK": "Gray Line：极光团",
+    "https://travel-europe.europa.eu/etias": "欧盟：ETIAS 旅行授权",
+    "https://www.bluelagoon.com/day-visit/the-blue-lagoon": "蓝湖：日间门票",
+    "https://en.vedur.is/weather/forecasts/aurora/": "冰岛气象局：极光预报",
+    "https://safetravel.is/": "SafeTravel 冰岛：道路和天气安全",
+    "https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm": "Your Europe：非欧盟游客入境规定",
+    "https://flybus.is/plan-your-trip/prices/": "Flybus：机场大巴票价",
+    "https://www.gov.pl/web/unitedkingdom/introduction-of-etias-in-2027": "官方通告：ETIAS 计划 2027 年启用"
+   }
+  }
+ }
+}

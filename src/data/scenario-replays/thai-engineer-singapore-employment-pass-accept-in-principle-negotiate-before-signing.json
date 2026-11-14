@@ -1,0 +1,115 @@
+{
+ "slug": "thai-engineer-singapore-employment-pass-accept-in-principle-negotiate-before-signing",
+ "startedAt": "2026-11-07",
+ "activeSec": 774,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 417,
+   "chips": [
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
+    "https://www.mom.gov.sg/faq/employment-pass/how-do-i-know-if-my-company-is-considered-part-of-the-financial-services-sector",
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility/compass-c1-salary-benchmarks",
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 417,
+   "end": 774,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own offer and get the same pass-minimum and take-home check before you sign",
+   "runTitle": "Bangkok engineer weighing a Singapore fintech offer at SGD 8,200 a month",
+   "fields": [
+    {
+     "key": "salary",
+     "label": "Fixed monthly salary offer",
+     "value": "SGD 8,200"
+    },
+    {
+     "key": "bonus",
+     "label": "Bonus",
+     "value": "a 1-month bonus"
+    },
+    {
+     "key": "start",
+     "label": "Start month and year",
+     "value": "April 2027"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "29"
+    },
+    {
+     "key": "title",
+     "label": "Job title",
+     "value": "full-stack engineer"
+    },
+    {
+     "key": "employer",
+     "label": "Type of employer",
+     "value": "Singapore fintech"
+    },
+    {
+     "key": "current",
+     "label": "Current monthly pay, with any bonus or benefits",
+     "value": "THB 115,000 a month"
+    },
+    {
+     "key": "city",
+     "label": "Current city",
+     "value": "Bangkok"
+    },
+    {
+     "key": "rent",
+     "label": "Rent range",
+     "value": "",
+     "placeholder": "e.g. SGD 1,200–1,800 for a room or studio"
+    }
+   ],
+   "template": "Help me decide whether to accept a Singapore Employment Pass job offer. My fixed monthly salary offer is {salary}, plus {bonus}, starting {start}; I am {age}, working as {title}, and the employer is a {employer}. I earn {current} in {city}. Check my salary against the Employment Pass minimum for the employer's sector before and after 1 January 2027, rebuild the COMPASS points with my details, and rebuild the tax, take-home, savings and first-month cash tables with my rent range of {rent}. List what I should ask the employer to confirm in writing, and mark anything unconfirmed. Ask before contacting anyone or submitting anything.",
+   "phases": [
+    {
+     "title": "Read the work-pass, tax and social-security pages and collect dated room-rent examples",
+     "note": "Pass minimum and points tool, tax rules, exchange rates, rents",
+     "judgment": "The Thai Revenue Department’s English page still showed the old deductions (40% capped at THB 60,000 and a THB 30,000 allowance), and the newer figures came only from a secondary source. So the guide marks the Thai tax and social-security numbers as resting on that source."
+    },
+    {
+     "title": "Build the guide with the pass-minimum check, points walk-through, tax and take-home tables, then check every figure",
+     "judgment": "It tested the offer against the minimum on both sides of 1 January 2027: SGD 8,200 is SGD 64 short of the financial-services minimum of SGD 8,264 for new applications from that date, though it clears SGD 7,500 if the employer is not classed as financial services. Only the employer can confirm the classification, and the guide says so."
+    }
+   ],
+   "workers": [
+    "Gathered exchange rates, Thai and Singapore tax and social-security rules, dated room rents and first-month setup costs"
+   ],
+   "chipNames": {
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility": "Ministry of Manpower: Employment Pass eligibility",
+    "https://www.mom.gov.sg/faq/employment-pass/how-do-i-know-if-my-company-is-considered-part-of-the-financial-services-sector": "Ministry of Manpower: is my company in financial services?",
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility/compass-c1-salary-benchmarks": "Ministry of Manpower: points tool salary benchmarks",
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly": "Ministry of Manpower: Fair Consideration Framework",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates": "IRAS: individual income tax rates"
+   }
+  }
+ }
+}

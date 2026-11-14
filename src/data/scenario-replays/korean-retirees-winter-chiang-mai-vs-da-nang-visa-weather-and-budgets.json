@@ -1,0 +1,154 @@
+{
+ "slug": "korean-retirees-winter-chiang-mai-vs-da-nang-visa-weather-and-budgets",
+ "startedAt": "2026-11-07",
+ "activeSec": 1427,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 6,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 634,
+   "chips": [
+    "https://seoul.thaiembassy.org/en/publicservice/visa-exemption-scheme?page=5fa4ac18af46ee3780556b72&menu=5fa4b2b321ace90bbc52e372",
+    "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/",
+    "https://evisa.gov.vn/e-visa/foreigners",
+    "https://www.nhis.or.kr/nhis/policy/wbhada05000m01.do",
+    "https://www.vinmec.com/eng/hospital/vinmec-da-nang-hospital"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 634,
+   "end": 743,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 743,
+   "end": 1439,
+   "chips": [
+    "https://www.mfa.go.th/en/page/visa-exemption-agreement-list"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    },
+    {
+     "n": 5,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    },
+    {
+     "n": 6,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own two cities, ages and income and get the same visa, insurance and four-month budget comparison",
+   "runTitle": "Busan to Chiang Mai or Da Nang: a retired couple’s four winter months on KRW 2.9 million a month",
+   "fields": [
+    {
+     "key": "citya",
+     "label": "City A",
+     "value": "Chiang Mai"
+    },
+    {
+     "key": "cityb",
+     "label": "City B",
+     "value": "Da Nang"
+    },
+    {
+     "key": "months",
+     "label": "Number of months",
+     "value": "Four months, December to March"
+    },
+    {
+     "key": "start",
+     "label": "Start month and year",
+     "value": "December 2027"
+    },
+    {
+     "key": "who",
+     "label": "Ages and nationality",
+     "value": "Two South Korean passport holders, aged 63 and 66"
+    },
+    {
+     "key": "income",
+     "label": "Monthly pension income in KRW",
+     "value": "About KRW 2.9 million a month combined (National Pension plus a private annuity)"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in KRW",
+     "value": "KRW 220 million"
+    }
+   ],
+   "template": "Help me choose between {citya} and {cityb} for {months} of winter away starting {start}. We are {who}, our monthly pension income is {income} and our savings are {savings}. Rebuild the visa routes for our passports, the four-month budget in KRW using my rent, food and insurance numbers, and the comparison with our income, keep every unconfirmed item marked, and check any insurer, landlord or agent quote I paste in. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official visa, insurance and pension pages, and collect dated rents and prices",
+     "note": "Thailand and Vietnam stay rules, Korean health insurance abroad, rent examples, air quality",
+     "judgment": "It would not present Thailand’s stay length for Koreans as settled. The newest official page it found predates the September 2026 rule change (60 days, extendable to 90), while other sources say 90 days. The guide shows both readings and says to confirm with the Thai embassy in Seoul."
+    },
+    {
+     "title": "Write the guide and the source list",
+     "note": "Recommendation, visa comparison and four-month budgets in KRW"
+    },
+    {
+     "title": "Independent checks of every figure and claim, then fixes",
+     "note": "Three rounds of checking",
+     "judgment": "The independent colleagues re-did every sum and pushed back on wording the sources could not back up, such as “Da Nang avoids this risk”. After the fixes the cost line changed from “costs look similar” to Da Nang at KRW 11.0–11.4 million against Chiang Mai at KRW 12.2–12.5 million for four months. The last check still said “pass with issues”, and the leftovers are listed rather than hidden."
+    }
+   ],
+   "workers": [
+    "Read the Thai and Vietnamese stay rules for Korean passports: visa exemption, long-stay visa options, extensions and arrival forms",
+    "Collected dated furnished-flat rents, exchange rates, Chiang Mai’s smoke season, flights and the Da Nang hospital page",
+    "Checked what Korean health insurance and the National Pension do during a long stay abroad, plus travel-insurance price examples for people in their 60s",
+    "First independent check: re-did every money figure and compared each claim with the source list",
+    "Second check after the first fixes: confirmed the earlier problems were fixed and looked for new ones",
+    "Final check of the finished page: re-ran the sums and listed what was still open"
+   ],
+   "chipNames": {
+    "https://seoul.thaiembassy.org/en/publicservice/visa-exemption-scheme?page=5fa4ac18af46ee3780556b72&menu=5fa4b2b321ace90bbc52e372": "Royal Thai Embassy Seoul: visa exemption scheme",
+    "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/": "Tourism Authority of Thailand: new 30-day and 15-day exemption rules",
+    "https://evisa.gov.vn/e-visa/foreigners": "Vietnam e-visa portal",
+    "https://www.nhis.or.kr/nhis/policy/wbhada05000m01.do": "Korean National Health Insurance Service page",
+    "https://www.vinmec.com/eng/hospital/vinmec-da-nang-hospital": "Vinmec Da Nang hospital",
+    "https://www.mfa.go.th/en/page/visa-exemption-agreement-list": "Thai foreign ministry: visa-exemption agreement list"
+   }
+  }
+ }
+}

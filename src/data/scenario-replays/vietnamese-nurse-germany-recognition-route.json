@@ -1,0 +1,107 @@
+{
+ "slug": "vietnamese-nurse-germany-recognition-route",
+ "startedAt": "2026-11-07",
+ "activeSec": 1097,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 616,
+   "chips": [
+    "https://www.arbeitsagentur.de/vor-ort/zav/projects-programs/health-and-care/triple-win",
+    "https://www.gesetze-im-internet.de/beschv_2013/__38.html",
+    "https://www.gesetze-im-internet.de/sgb_3/__299.html",
+    "https://www.lfp.bayern.de/anerkennungsverfahren/pflegefachkraft/merkblaetter/laender/Merkblatt_Vietnam.pdf",
+    "https://vietnam.diplo.de/vn-de/service/2642976-2642976"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 616,
+   "end": 1097,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own degree, German level and offer and get the same fee check and first-year budget",
+   "runTitle": "Da Nang to Germany: a 27-year-old nurse choosing between Triple Win and fee-charging agencies",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "Age, degree and years of nursing experience",
+     "value": "27, 4-year bachelor’s degree, 3 years of ward experience"
+    },
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Da Nang"
+    },
+    {
+     "key": "level",
+     "label": "German level",
+     "value": "A2"
+    },
+    {
+     "key": "start",
+     "label": "Target start month and year",
+     "value": "Late 2027"
+    },
+    {
+     "key": "offer",
+     "label": "Agency or employer offer, with every fee and date",
+     "value": "",
+     "placeholder": "e.g. an agency offer with a €1,500 fee, payable on a stated date"
+    },
+    {
+     "key": "target",
+     "label": "Target city in Germany",
+     "value": "",
+     "placeholder": "e.g. Leipzig, with your own rent and savings figures"
+    }
+   ],
+   "template": "Help me compare routes to a nursing job in Germany. I am {profile} in {city}, my German level is {level} and my target start is {start}. I was offered {offer}. Check it against the €2,000 cap, the no-advance rule and the written-information rule, list what I should ask for in writing, and rebuild the first-year budget for {target} with my own rent and savings figures. Flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official pages on recognition, German levels, visas, agency fees and Triple Win",
+     "judgment": "It checked before assuming Triple Win was an option: the Federal Employment Agency lists only India, Indonesia, the Philippines and Tunisia, not Vietnam. Vietnam’s fee law could only be read on a mirror site, so it is marked unconfirmed."
+    },
+    {
+     "title": "Write the route guide and first-year budget, then recompute every figure",
+     "judgment": "A separate recalculation caught a wrong pre-departure subtotal (about €1,260; the right figure is €1,560.02) and small rounding slips in the Leipzig figures. Both were fixed."
+    }
+   ],
+   "workers": [
+    "Read the German and Vietnamese rules on what agencies may charge, the WHO safeguards list, the Triple Win partner countries and warning signs of unfair recruitment",
+    "Read the official pages on visa fees and timings, German exam prices and dates, and what the Bavarian recognition office asks of Vietnamese nurses"
+   ],
+   "chipNames": {
+    "https://www.arbeitsagentur.de/vor-ort/zav/projects-programs/health-and-care/triple-win": "Federal Employment Agency: Triple Win partner countries",
+    "https://www.gesetze-im-internet.de/beschv_2013/__38.html": "German law: BeschV section 38 (health and care recruitment)",
+    "https://www.gesetze-im-internet.de/sgb_3/__299.html": "German law: SGB III section 299 (written information for workers)",
+    "https://www.lfp.bayern.de/anerkennungsverfahren/pflegefachkraft/merkblaetter/laender/Merkblatt_Vietnam.pdf": "Bavarian recognition office: information sheet for Vietnam",
+    "https://vietnam.diplo.de/vn-de/service/2642976-2642976": "German Embassy Hanoi: visa page"
+   }
+  }
+ }
+}

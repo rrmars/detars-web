@@ -1,0 +1,138 @@
+{
+ "slug": "brazilian-couple-portugal-cplp-vs-ireland",
+ "startedAt": "2026-11-07",
+ "activeSec": 883,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 215,
+   "chips": [
+    "https://vistos.mne.gov.pt/en/national-visa/necessary-documentation/job-seeker-visa",
+    "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-cplp",
+    "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-the-immigration-rules-for-non-eea-students/",
+    "https://www.citizensinformation.ie/en/employment/employment-rights-and-conditions/pay-and-employment/minimum-wage/",
+    "https://www.portugal.gov.pt/pt/gc25/comunicacao/noticia?i=governo-aumenta-salario-minimo-para-920-euros-em-2026"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 215,
+   "end": 502,
+   "chips": [
+    "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426",
+    "https://aima.gov.pt/pt/viver/residencia-cplp",
+    "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/interim-list-of-eligible-programmes-ilep/",
+    "https://www.gov.ie/en/service/e6678-register-as-an-electrician",
+    "https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/atividades-e-profissoes/nas-instalacoes-eletricas-de-servico-particular/"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 502,
+   "end": 913,
+   "chips": [
+    "https://www.workplacerelations.ie/en/news-media/workplace_relations_notices/changes_to_employment_entitlements_of_non-eea_students_holding_immigration_stamp_2.html",
+    "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+    "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/planning-to-study-in-ireland/"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own city, savings and trades and compare Portugal and Ireland on what the official pages say",
+   "runTitle": "Brazilian couple, BRL 95,000: Portugal’s CPLP route or an English course in Dublin",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City in Brazil",
+     "value": "Belo Horizonte"
+    },
+    {
+     "key": "irish",
+     "label": "Dublin or another Irish city",
+     "value": "Dublin"
+    },
+    {
+     "key": "adults",
+     "label": "Number of adults",
+     "value": "2 (a married couple)"
+    },
+    {
+     "key": "savings",
+     "label": "Savings, amount and currency",
+     "value": "BRL 95,000"
+    },
+    {
+     "key": "trades",
+     "label": "Occupations",
+     "value": "Administrative assistant and electrician"
+    }
+   ],
+   "template": "Help me compare moving from {city} to Portugal on a CPLP residence route against studying in {irish}. There are {adults} of us, our savings are {savings}, and our trades are {trades}. Check what the consulate and AIMA currently require for the CPLP visa, whether the school I am considering is on the ILEP or TrustEd list, and whether each spouse can apply separately. Rebuild the six-month budgets with my own rent, flight and food figures, and flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official Irish and Portuguese rules and price pages",
+     "note": "Immigration, residence permit, minimum wage and school price pages",
+     "judgment": "It corrected the starting assumption about Portugal: since Law 61/2025 (in force from 23 October 2025) the job-seeker visa is only for highly qualified work, so the researcher advised that an electrician and an administrative assistant should not plan around it."
+    },
+    {
+     "title": "Write the comparison guide with a six-month budget for each country",
+     "note": "Rules table, spouse question, rent examples, EUR and BRL budgets"
+    },
+    {
+     "title": "Check the claims and recompute every money figure",
+     "note": "Stamp 2 work rights and the arithmetic",
+     "judgment": "It said which pages it could not read: the Irish immigration pages returned only a title, so the guide cites that wording as indirect, and a conflicting snippet saying English students get no right to work was set aside because the official wording contradicts it."
+    }
+   ],
+   "workers": [
+    "Read Ireland’s rules for non-EU English-language students: permission to work, funds required, residence registration, and what a spouse can and cannot do",
+    "Collected Irish school fees, Dublin rent, minimum wage, transport and electrician registration costs",
+    "Read Portugal’s job-seeker visa and CPLP residence rules, family reunification, minimum wage and electrician recognition"
+   ],
+   "chipNames": {
+    "https://vistos.mne.gov.pt/en/national-visa/necessary-documentation/job-seeker-visa": "Portuguese consulates (Vistos MNE): job-seeker visa",
+    "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-cplp": "AIMA: CPLP residence permit",
+    "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-the-immigration-rules-for-non-eea-students/": "Irish Immigration Service: rules for non-EEA students",
+    "https://www.citizensinformation.ie/en/employment/employment-rights-and-conditions/pay-and-employment/minimum-wage/": "Citizens Information: Irish minimum wage",
+    "https://www.portugal.gov.pt/pt/gc25/comunicacao/noticia?i=governo-aumenta-salario-minimo-para-920-euros-em-2026": "Portuguese Government: minimum wage €920 in 2026",
+    "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426": "Law 61/2025 (Diário da República)",
+    "https://aima.gov.pt/pt/viver/residencia-cplp": "AIMA: CPLP residence",
+    "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/interim-list-of-eligible-programmes-ilep/": "Irish Immigration Service: ILEP course list",
+    "https://www.gov.ie/en/service/e6678-register-as-an-electrician": "gov.ie: register as an electrician",
+    "https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/atividades-e-profissoes/nas-instalacoes-eletricas-de-servico-particular/": "DGEG: electrical installation professionals",
+    "https://www.workplacerelations.ie/en/news-media/workplace_relations_notices/changes_to_employment_entitlements_of_non-eea_students_holding_immigration_stamp_2.html": "Workplace Relations: work rights on Stamp 2",
+    "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/": "Irish Immigration Service: permission stamps",
+    "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/planning-to-study-in-ireland/": "Irish Immigration Service: planning to study"
+   }
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "slug": "abu-dhabi-weekend-with-kids",
+ "startedAt": "2026-11-05",
+ "activeSec": 1698,
+ "stats": {
+  "searches": 64,
+  "pages": 35,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 21,
+   "end": 301,
+   "chips": [
+    "https://www.hilton.com/en/hotels/auhyihi-hilton-abu-dhabi-yas-island/rooms/",
+    "https://www.hilton.com/en-gb/hotels/auhwbqq-the-wb-abu-dhabi-hotel/rooms/",
+    "https://www.hilton.com/en/hotels/auhyrdi-doubletree-abu-dhabi-yas-island-residences/hotel-info/",
+    "https://www.louvreabudhabi.ae/en/explore/childrens-museum",
+    "https://admobility.gov.ae/en/Darb"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 301,
+   "end": 1110,
+   "chips": [
+    "https://www.wbworldabudhabi.com/en/rides/rides-for-kids",
+    "https://admobility.gov.ae/en/news/itc-announces-two-new-gates-to-the-darb-toll-gate",
+    "https://www.dubai.ae/en/living/driving-transportation/road-toll-in-dubai-salik",
+    "https://feeds.dfm.ae/documents/2026/May/22/2d9de89d-e273-4fad-bc1d-83857588a7af/General%20Disclosure%2022%205%202026%20FVS.Pdf.pdf",
+    "https://admobility.gov.ae/en/inter-emirates-services"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1110,
+   "end": 1635,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family, dates and budget and get the same checked weekend plan before you book",
+   "runTitle": "Dubai to Abu Dhabi: a February weekend for two adults and two kids on about AED 3,000",
+   "fields": [
+    {
+     "key": "origin",
+     "label": "Dubai starting point",
+     "value": "Dubai"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "Saturday 13 to Sunday 14 February 2027"
+    },
+    {
+     "key": "family",
+     "label": "Adults and children's ages and heights",
+     "value": "Two adults and two children, aged 7 and 10"
+    },
+    {
+     "key": "budget",
+     "label": "All-in budget",
+     "value": "About AED 3,000 for the family, including one hotel night"
+    },
+    {
+     "key": "transport",
+     "label": "Own car or bus",
+     "value": "",
+     "placeholder": "e.g. own car, or the intercity bus"
+    },
+    {
+     "key": "hotel",
+     "label": "Hotel or package quotes",
+     "value": "",
+     "placeholder": "e.g. a one-night family room quote on Yas Island, taxes included"
+    }
+   ],
+   "template": "Plan a relaxed Abu Dhabi weekend from {origin} on {dates} for {family}, with {budget}, {transport} and {hotel}. Check room occupancy, taxes, four park tickets and checkout-day validity before claiming the budget works. Include a gentle museum day, one park, meal allowances and dated Ramadan/toll checks. Plan only; do not book, sign up or pay.",
+   "phases": [
+    {
+     "title": "Check official ticket, toll and hotel information for the dates",
+     "note": "Hotels, parks, the children's museum and transport rules",
+     "judgment": "It did not pass off a hotel lead-in price as a quote: the three Yas Island rates it found were member “from” prices for the next 30 days, not for 13–14 February with two adults and two children, and the lowest rate could not be tied to a room that sleeps four."
+    },
+    {
+     "title": "Build a realistic two-day plan and a family budget that adds up",
+     "note": "Driving versus the intercity bus, one theme park, one museum day",
+     "judgment": "It corrected two assumptions that would have understated the cost: Abu Dhabi's Darb tolls are not simply free on Sundays, because two gates have charged AED 4 per crossing every day since 4 May 2026; and the cheaper child ticket depends on height, not age, so both children need measuring."
+    },
+    {
+     "title": "Write the plan page and check it against the sources",
+     "judgment": "It stated the budget as conditional instead of declaring that it fits: AED 3,000 works only if the hotel plus four park tickets cost AED 2,200 or less, and no four-person hotel quote for 13–14 February was found, so the page says the weekend may cost more."
+    }
+   ],
+   "workers": [
+    "Found public rates and room conditions for family hotels on Yas Island",
+    "Compared the Yas Island theme parks for a 7- and 10-year-old and read the official ticket rules and queue options",
+    "Checked the current tolls, parking and intercity bus fares for the Dubai to Abu Dhabi trip"
+   ],
+   "chipNames": {
+    "https://www.hilton.com/en/hotels/auhyihi-hilton-abu-dhabi-yas-island/rooms/": "Hilton Abu Dhabi Yas Island: rooms",
+    "https://www.hilton.com/en-gb/hotels/auhwbqq-the-wb-abu-dhabi-hotel/rooms/": "The WB Abu Dhabi hotel: rooms",
+    "https://www.hilton.com/en/hotels/auhyrdi-doubletree-abu-dhabi-yas-island-residences/hotel-info/": "DoubleTree Yas Island Residences: hotel information",
+    "https://www.louvreabudhabi.ae/en/explore/childrens-museum": "Louvre Abu Dhabi: Children's Museum",
+    "https://admobility.gov.ae/en/Darb": "Abu Dhabi Mobility: Darb toll gates",
+    "https://www.wbworldabudhabi.com/en/rides/rides-for-kids": "Warner Bros. World Abu Dhabi: rides for kids",
+    "https://admobility.gov.ae/en/news/itc-announces-two-new-gates-to-the-darb-toll-gate": "Abu Dhabi Mobility: two new Darb gates",
+    "https://www.dubai.ae/en/living/driving-transportation/road-toll-in-dubai-salik": "Dubai Government: Salik toll",
+    "https://feeds.dfm.ae/documents/2026/May/22/2d9de89d-e273-4fad-bc1d-83857588a7af/General%20Disclosure%2022%205%202026%20FVS.Pdf.pdf": "Salik disclosure: 5% VAT on tolls from 1 June 2026",
+    "https://admobility.gov.ae/en/inter-emirates-services": "Abu Dhabi Mobility: inter-emirates bus services"
+   }
+  }
+ }
+}

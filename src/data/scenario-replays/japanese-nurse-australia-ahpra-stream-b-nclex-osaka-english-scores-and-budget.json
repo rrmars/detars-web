@@ -1,0 +1,116 @@
+{
+ "slug": "japanese-nurse-australia-ahpra-stream-b-nclex-osaka-english-scores-and-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 1625,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 1625,
+   "chips": [
+    "https://www.ahpra.gov.au/Registration/Fees.aspx",
+    "https://www.ahpra.gov.au/Registration/Registration-Process/Internationally-qualified-nurses-and-midwives.aspx",
+    "https://www.nursingmidwiferyboard.gov.au/Registration-Standards/Internationally-qualified-nurses-and-midwives.aspx",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+    "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own nursing background and savings and get the same registration route, test scores and budget",
+   "runTitle": "Osaka to Australia: a Japan-trained nurse’s route to registration from 2028",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country you want to register in",
+     "value": "Australia"
+    },
+    {
+     "key": "year",
+     "label": "Year you want to start",
+     "value": "2028"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "30"
+    },
+    {
+     "key": "trained",
+     "label": "Country you trained in",
+     "value": "Japan"
+    },
+    {
+     "key": "degree",
+     "label": "Degree",
+     "value": "a 4-year nursing bachelor’s degree"
+    },
+    {
+     "key": "years",
+     "label": "Years of experience",
+     "value": "7"
+    },
+    {
+     "key": "specialty",
+     "label": "Specialty",
+     "value": "acute care"
+    },
+    {
+     "key": "city",
+     "label": "City you live in",
+     "value": "Osaka"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in your currency",
+     "value": "JPY 3.5 million"
+    },
+    {
+     "key": "score",
+     "label": "English test estimate",
+     "value": "IELTS band 6.5 (estimated; the test is not yet taken)"
+    }
+   ],
+   "template": "Help me plan registration as a registered nurse in {country} from {year}. I am {age}, trained in {trained} with {degree} and {years} years of {specialty}, living in {city}, with {savings} saved and an English test estimate of {score}. Work out which registration route and stream to expect and mark anything only the regulator can confirm, list the English scores I need and how far my estimate is from them, compare the visa options with their fees and conditions, and rebuild the pathway budget with my numbers, separating published fees from placeholder allowances. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Research the registration route, test fees, visas, pay and exchange rate, then build the guide and budget and check the numbers",
+     "note": "Ahpra and Home Affairs rules, English tests, NCLEX and OSCE fees, NSW and Queensland pay",
+     "judgment": "It caught fee changes that would have made the budget wrong: the NCLEX fee for Australia rises from US$200 to US$350 on 1 February 2027, and a 2020 fact sheet still showing an A$640 assessment fee was set aside for the current A$410. It also left Queensland pay marked unconfirmed, because the official pay tables would not load and only a third-party site had dollar figures."
+    }
+   ],
+   "workers": [
+    "Looked up official fees and rules for the English tests, the NCLEX exam, Ahpra’s assessment and the practical exam, plus the visitor visa and ETA",
+    "Found dated nurse pay tables for NSW and Queensland, Japan’s official nurse pay statistics, the exchange rate and Australia’s employer pension rate"
+   ],
+   "chipNames": {
+    "https://www.ahpra.gov.au/Registration/Fees.aspx": "Ahpra registration fees",
+    "https://www.ahpra.gov.au/Registration/Registration-Process/Internationally-qualified-nurses-and-midwives.aspx": "Ahpra: internationally qualified nurses and midwives",
+    "https://www.nursingmidwiferyboard.gov.au/Registration-Standards/Internationally-qualified-nurses-and-midwives.aspx": "Nursing and Midwifery Board: standard for internationally qualified nurses",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417": "Home Affairs: Work and Holiday visa (subclass 417)",
+    "https://www.rba.gov.au/statistics/frequency/exchange-rates.html": "Reserve Bank of Australia exchange rates"
+   }
+  }
+ }
+}

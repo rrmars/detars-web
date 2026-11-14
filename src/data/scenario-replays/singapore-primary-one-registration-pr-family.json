@@ -1,0 +1,191 @@
+{
+ "slug": "singapore-primary-one-registration-pr-family",
+ "startedAt": "2026-11-06",
+ "activeSec": 5639,
+ "stats": {
+  "searches": 25,
+  "pages": 22,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 4074,
+   "end": 4601,
+   "chips": [
+    "https://www.moe.gov.sg/primary/p1-registration/changes-to-p1-registration-framework",
+    "https://www.moe.gov.sg/primary/p1-registration/cap-on-pr-intake",
+    "https://www.moe.gov.sg/primary/p1-registration/distance",
+    "https://www.moe.gov.sg/primary/p1-registration/home-address",
+    "https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 4601,
+   "end": 5095,
+   "chips": [
+    "https://www.cmpb.gov.sg/before-ns/overseas-pre-enlistees",
+    "https://www.moe.gov.sg/media/newsroom/news/press/2026/b0d58e7a-5220-49b9-bc9c-a7f783a4f510.pdf"
+   ],
+   "workers": []
+  },
+  {
+   "start": 5095,
+   "end": 5659,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own child, address and budget and get the same school-registration plan for your family",
+   "runTitle": "Singapore Primary 1 registration for a new PR family: son born 2021, renting in Bukit Timah",
+   "fields": [
+    {
+     "key": "child",
+     "label": "Child’s birth date and citizenship",
+     "value": "PR son born in 2021, entering Primary 1 in January 2028; both parents became PRs in 2025"
+    },
+    {
+     "key": "links",
+     "label": "Genuine school links",
+     "value": "None: neither parent studied at a Singapore primary school"
+    },
+    {
+     "key": "home",
+     "label": "Current or proposed home area",
+     "value": "Renting a condo in Bukit Timah, may move"
+    },
+    {
+     "key": "budget",
+     "label": "Rent and school budget",
+     "value": "",
+     "placeholder": "e.g. S$4,500 a month rent, school fees under S$400 a month"
+    },
+    {
+     "key": "commute",
+     "label": "Commute and student-care needs",
+     "value": "",
+     "placeholder": "e.g. under 30 minutes each way, after-school care until 6 pm"
+    }
+   ],
+   "template": "Help us plan Singapore primary-school registration using {child}, {links}, {home}, {budget} and {commute}. Separate eligibility from historical chances. Flag missing dates, PR caps, fees and residence conditions. Ask before contacting schools, opening authenticated forms or sharing family documents.",
+   "phases": [
+    {
+     "title": "Check the Ministry’s current rules, the 2027 changes and the fees",
+     "note": "Phases, PR priority, renter address rules, fees",
+     "judgment": "It did not treat Phase 3 as a fallback for PR children: it is for international students, and unsuccessful PR children are posted to a school with a vacancy. It also warned that a school with fewer applicants than places is not automatically safe for a PR: Bukit Timah balloted PRs with 104 applicants for 132 places because of its PR cap."
+    },
+    {
+     "title": "Collect past school vacancy figures and distances from official records",
+     "note": "School-by-school vacancies, balloting and home distance",
+     "judgment": "It left gaps empty rather than filling them: only 2025 school-level figures were verified, and the 2024, 2026 and Phase 3 figures it could not recover are marked unconfirmed. The eight-school table is labelled as a wider-area comparison, not eight schools within 2 km."
+    },
+    {
+     "title": "Build the guide and sources page, then check desktop and phone views",
+     "judgment": "The independent reviewer found one misleading phrase: the draft said Phase 2B includes an “active community leader”, but the source says “active grassroots leader”. It was corrected to the source’s wording."
+    }
+   ],
+   "workers": [
+    "Pulled the Ministry of Education’s past vacancy and balloting records for schools around Beauty World and King Albert Park",
+    "Checked the Ministry’s current rules: phases, PR versus citizen priority, renting and moving, fees and the 2027 changes",
+    "Checked the finished guide against the original sources, rule by rule and table by table"
+   ],
+   "chipNames": {
+    "https://www.moe.gov.sg/primary/p1-registration/changes-to-p1-registration-framework": "MOE: changes to the P1 registration framework",
+    "https://www.moe.gov.sg/primary/p1-registration/cap-on-pr-intake": "MOE: cap on PR intake",
+    "https://www.moe.gov.sg/primary/p1-registration/distance": "MOE: home-school distance",
+    "https://www.moe.gov.sg/primary/p1-registration/home-address": "MOE: home address rules",
+    "https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data": "MOE: past vacancies and balloting data",
+    "https://www.cmpb.gov.sg/before-ns/overseas-pre-enlistees": "CMPB: national service for overseas pre-enlistees",
+    "https://www.moe.gov.sg/media/newsroom/news/press/2026/b0d58e7a-5220-49b9-bc9c-a7f783a4f510.pdf": "MOE: Annex A to the September 2026 announcement"
+   }
+  },
+  "zh": {
+   "askTitle": "把孩子、住址和预算换成你家的情况，得到同样的小一报名规划",
+   "runTitle": "新加坡小一报名（新 PR 家庭）：2021 年出生的儿子，租住武吉知马",
+   "fields": [
+    {
+     "key": "child",
+     "label": "孩子生日及公民身份",
+     "value": "儿子是 PR，2021 年出生，2028 年 1 月入读小一；父母 2025 年获 PR"
+    },
+    {
+     "key": "links",
+     "label": "真实学校关系",
+     "value": "没有：父母都没有在新加坡读过小学"
+    },
+    {
+     "key": "home",
+     "label": "现住或拟搬入区域",
+     "value": "租住武吉知马的公寓，可能搬家"
+    },
+    {
+     "key": "budget",
+     "label": "房租和学校预算",
+     "value": "",
+     "placeholder": "例如：房租每月 4,500 新元，学费每月不超过 400 新元"
+    },
+    {
+     "key": "commute",
+     "label": "通勤和托管需求",
+     "value": "",
+     "placeholder": "例如：单程通勤 30 分钟内，放学后托管到下午 6 点"
+    }
+   ],
+   "template": "请根据 {child}、{links}、{home}、{budget} 及 {commute}，帮我们规划新加坡小学报名。把申请资格与往年机会分开，标出待确认日期、PR 上限、费用及居住条件。联系学校、打开登录表格或分享家庭文件前，请先征求同意。",
+   "phases": [
+    {
+     "title": "核对教育部现行规则、2027 年变化和费用",
+     "note": "报名阶段、PR 优先次序、租户地址规定、费用",
+     "judgment": "它没有把第三阶段当成 PR 孩子的退路：那是留给国际学生的，报不上的 PR 孩子会被安排到有空缺的学校。它还提醒，报名人数少于名额的学校对 PR 也不一定稳妥：武吉知马小学有 104 人报名、132 个名额，却因 PR 上限仍对 PR 抽了签。"
+    },
+    {
+     "title": "从官方记录收集往年学校空缺和距离",
+     "note": "逐校空缺、抽签情况和居所距离",
+     "judgment": "没查到的地方它宁可留空：只核实了 2025 年各校数据，查不到的 2024、2026 年及第三阶段数字都标成“未确认”。八所学校的表格也注明是扩大范围的对比，并不是八所 2 公里内的学校。"
+    },
+    {
+     "title": "制作指南和来源页，并检查电脑与手机显示",
+     "judgment": "独立复核的同事挑出一处容易误导的措辞：初稿写第 2B 阶段包含“积极的社区领袖”，而来源写的是“积极的基层领袖”。已改回来源原词。"
+    }
+   ],
+   "workers": [
+    "查教育部公布的往年空缺和抽签记录，覆盖 Beauty World、King Albert Park 一带的学校",
+    "核对教育部现行规则：各报名阶段、PR 与公民的优先次序、租房和搬家规定、费用及 2027 年变化",
+    "对照原始来源，逐条核对成稿里的规则和表格"
+   ],
+   "chipNames": {
+    "https://www.moe.gov.sg/primary/p1-registration/changes-to-p1-registration-framework": "教育部：小一报名框架调整",
+    "https://www.moe.gov.sg/primary/p1-registration/cap-on-pr-intake": "教育部：PR 招生上限",
+    "https://www.moe.gov.sg/primary/p1-registration/distance": "教育部：居所距离规则",
+    "https://www.moe.gov.sg/primary/p1-registration/home-address": "教育部：居住地址规定",
+    "https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data": "教育部：往年空缺和抽签数据",
+    "https://www.cmpb.gov.sg/before-ns/overseas-pre-enlistees": "兵役局：海外待征入伍者",
+    "https://www.moe.gov.sg/media/newsroom/news/press/2026/b0d58e7a-5220-49b9-bc9c-a7f783a4f510.pdf": "教育部：2026 年 9 月公告附件 A"
+   }
+  }
+ }
+}

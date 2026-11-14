@@ -1,0 +1,145 @@
+{
+ "slug": "puebla-translator-resico-usd-invoicing-isr-comparison-and-wise",
+ "startedAt": "2026-11-07",
+ "activeSec": 1534,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 483,
+   "chips": [
+    "https://www.sat.gob.mx/portal/public/personas-fisicas/pf-simplificado-de-confianza",
+    "https://www.gob.mx/sat/articulos/sabes-a-quien-beneficiara-el-nuevo-regimen-simplificado-de-confianza?idiom=es",
+    "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp",
+    "https://wise.com/help/articles/2932714/how-much-does-it-cost-to-receive-money",
+    "https://www.paypal.com/mx/business/paypal-business-fees"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 483,
+   "end": 1311,
+   "chips": [
+    "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo-8-RMF-2026_DOF-28122025.pdf",
+    "https://www.ppef.hacienda.gob.mx/es/PPEF2027"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1311,
+   "end": 1534,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own income, costs and accountant fee to compare RESICO with the general regime and the ways of getting paid in dollars",
+   "runTitle": "Puebla: a freelance translator billing US agencies, RESICO or the general regime",
+   "fields": [
+    {
+     "key": "profession",
+     "label": "Profession",
+     "value": "English–Spanish translator, freelance"
+    },
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Puebla"
+    },
+    {
+     "key": "clients",
+     "label": "Clients",
+     "value": "Two US agencies"
+    },
+    {
+     "key": "currency",
+     "label": "Currency",
+     "value": "US dollars"
+    },
+    {
+     "key": "income",
+     "label": "Monthly income in USD",
+     "value": "About USD 3,200 a month now, expecting USD 4,500 in 2027"
+    },
+    {
+     "key": "expenses",
+     "label": "Monthly deductible expenses in MXN",
+     "value": "",
+     "placeholder": "e.g. MXN 9,000 a month for a home-office share, software and equipment"
+    },
+    {
+     "key": "contador",
+     "label": "Monthly fee in MXN",
+     "value": "MXN 1,200 a month"
+    }
+   ],
+   "template": "Help me compare RESICO with the general regime as a freelance {profession} in {city}. I invoice {clients} in {currency} and expect about {income}, with {expenses} of deductible costs and a contador who charges {contador}. Rebuild the monthly ISR comparison, the deduction break-even and the take-home table with my numbers, check whether a month near the RESICO rate-band line changes the result, compare the ways of receiving dollars that I name, and list what to ask my contador, marking anything unconfirmed. Ask before contacting anyone, opening an account or submitting anything.",
+   "phases": [
+    {
+     "title": "Research the tax rules, the official exchange rate and the payment fees",
+     "note": "Tax-authority pages first, with the law text read on a mirror when the official site would not open",
+     "judgment": "When the official law site would not open, it read the law text on a mirror and labelled every figure from it as unconfirmed. It also found two rules that appear to disagree about the annual return and left that for the accountant to settle."
+    },
+    {
+     "title": "Write the guide, with the VAT and invoicing sections and the take-home table",
+     "note": "Recommendation up front, then the regime comparison, fee comparison and take-home figures",
+     "judgment": "It corrected the pointer it had been given: the test for exported services sits in a different article than the request said. It also noted that translation is not on the statute’s list of exempt services, so whether the 0% rate applies is marked as an interpretation."
+    },
+    {
+     "title": "Independent recalculation of every figure, plus desktop and phone layout",
+     "note": "Wording fixes made after the check",
+     "judgment": "The independent check recomputed every peso figure with no mismatches, and it flagged six places where a claim was stated too firmly or lacked a source label. All six were fixed in the page."
+    }
+   ],
+   "workers": [
+    "Worked out how RESICO and the general regime tax her income, using the tax authority’s rate tables and the official exchange rate",
+    "Compared what Wise, Payoneer, PayPal and a direct bank transfer cost for receiving dollars",
+    "Checked how work for foreign clients is treated for VAT and how to issue an invoice to a US client",
+    "Independently recomputed every peso figure in the guide and checked its claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.sat.gob.mx/portal/public/personas-fisicas/pf-simplificado-de-confianza": "SAT: RESICO regime page",
+    "https://www.gob.mx/sat/articulos/sabes-a-quien-beneficiara-el-nuevo-regimen-simplificado-de-confianza?idiom=es": "SAT: who benefits from RESICO",
+    "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp": "Banxico: official exchange rate (FIX)",
+    "https://wise.com/help/articles/2932714/how-much-does-it-cost-to-receive-money": "Wise: cost of receiving money",
+    "https://www.paypal.com/mx/business/paypal-business-fees": "PayPal Mexico: business fees",
+    "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo-8-RMF-2026_DOF-28122025.pdf": "SAT: 2026 miscellaneous tax rules, annex 8",
+    "https://www.ppef.hacienda.gob.mx/es/PPEF2027": "Mexican Treasury: 2027 economic package"
+   }
+  }
+ }
+}

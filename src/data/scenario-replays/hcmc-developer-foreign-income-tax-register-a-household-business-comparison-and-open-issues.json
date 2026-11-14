@@ -1,0 +1,132 @@
+{
+ "slug": "hcmc-developer-foreign-income-tax-register-a-household-business-comparison-and-open-issues",
+ "startedAt": "2026-11-07",
+ "activeSec": 1224,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 671,
+   "chips": [
+    "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-141-2026-nd-cp-469455.htm",
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-68-2026-nd-cp-quy-dinh-ve-chinh-sach-thue-quan-ly-thue-voi-ho-kinh-doanh-119260306102906789.htm",
+    "https://xaydungchinhsach.chinhphu.vn/giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-119261101192523427.htm",
+    "https://mof.gov.vn/tin-tuc-tai-chinh/tin-tuc-su-kien-8/ho-ca-nhan-kinh-doanh-co-muc-doanh-thu-nam-tu-1-ty-dong-tro-xuong-khong-phai-nop-thue",
+    "https://sbv.gov.vn/documents/20117/0/26-30.10.2026.pdf/56e3c310-6751-8bbe-f1e1-275638b039a3?t=1793781830971"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 671,
+   "end": 974,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 974,
+   "end": 1224,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own freelance income and get the same side-by-side tax scenarios before you choose a route",
+   "runTitle": "Ho Chi Minh City: a developer on USD 4,000 a month from two overseas clients, never declared",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Ho Chi Minh City, Vietnam"
+    },
+    {
+     "key": "taxyear",
+     "label": "Tax year",
+     "value": "2026"
+    },
+    {
+     "key": "income",
+     "label": "Monthly income in USD",
+     "value": "USD 4,000"
+    },
+    {
+     "key": "clients",
+     "label": "Clients and their countries",
+     "value": "two overseas clients, one in the US and one in Singapore"
+    },
+    {
+     "key": "bank",
+     "label": "Where the money is paid in",
+     "value": "a Vietnamese bank account"
+    },
+    {
+     "key": "registered",
+     "label": "Registered a business or tax code? (have / have not)",
+     "value": "have not"
+    }
+   ],
+   "template": "Help me compare illustrative personal income tax scenarios for my foreign-currency freelance income in {city} for {taxyear}. I earn about {income} from {clients}, paid into {bank}, and I {registered} registered a business or tax code. Rebuild the household-business versus wage scenarios with my figures and exchange rate without assuming either classification is established. Show the inputs (threshold, service class, VAT), draft a request for written tax-office confirmation of classification and pre-registration treatment before I commit to a route, and mark anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the tax laws and decrees, with three colleagues digging into penalties, classification and filing rules in parallel",
+     "note": "Income-tax law, household-business rules, penalties, filing steps and the exchange rate",
+     "judgment": "Where the official texts ran out, it said so: it could not find an official rule on how a bank treats incoming dollar payments to an individual, so the guide makes no claim on it and tells him to ask his bank. It also found no amnesty for earlier undeclared income."
+    },
+    {
+     "title": "Write the guide with every money figure calculated and rechecked",
+     "note": "The two routes side by side, the 2026 question, penalties, a monthly budget and one first action",
+     "judgment": "It marked what is its own reading. That unregistered freelance fees fall into the wage bracket is called “my reading of two articles”, and the headline VND 3.2 million rests on three unconfirmed inputs: if only the 500 million threshold applied, it would be about VND 10.2 million."
+    },
+    {
+     "title": "Independent check by a colleague who did not write the guide",
+     "judgment": "The reviewer matched every figure to the dong, but still caught two real mistakes: the fourth-quarter due date was written as 30 Jan instead of 31 Jan, and the VND 1 billion threshold was credited to a law article that actually says 500 million. Both were fixed."
+    }
+   ],
+   "workers": [
+    "Read the official penalty texts: late-payment interest, fines for late or under-declared tax, the look-back period and whether any amnesty exists",
+    "Read how a household business or individual files and pays: forms, deadlines, online filing, registration and the exchange-rate rule",
+    "Worked out whether his contract fees count as business income or wages, the rules for a dependent mother, and the bank-account notice for businesses",
+    "Recomputed every money figure on its own, without seeing the author’s calculations, and checked the claims against the legal texts"
+   ],
+   "chipNames": {
+    "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-141-2026-nd-cp-469455.htm": "Decree 141/2026 in the Official Gazette (tax-free revenue threshold)",
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-68-2026-nd-cp-quy-dinh-ve-chinh-sach-thue-quan-ly-thue-voi-ho-kinh-doanh-119260306102906789.htm": "Decree 68/2026: tax rules for household businesses",
+    "https://xaydungchinhsach.chinhphu.vn/giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-119261101192523427.htm": "Government summary: 30% income-tax relief (Decree 398)",
+    "https://mof.gov.vn/tin-tuc-tai-chinh/tin-tuc-su-kien-8/ho-ca-nhan-kinh-doanh-co-muc-doanh-thu-nam-tu-1-ty-dong-tro-xuong-khong-phai-nop-thue": "Ministry of Finance: revenue up to VND 1 billion pays no tax",
+    "https://sbv.gov.vn/documents/20117/0/26-30.10.2026.pdf/56e3c310-6751-8bbe-f1e1-275638b039a3?t=1793781830971": "State Bank of Vietnam weekly exchange-rate report, 26–30 Oct 2026"
+   }
+  }
+ }
+}

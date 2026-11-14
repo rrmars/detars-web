@@ -1,0 +1,191 @@
+{
+ "slug": "background-removers-six-image-test-findings",
+ "startedAt": "2026-11-05",
+ "activeSec": 2217,
+ "stats": {
+  "searches": 21,
+  "pages": 23,
+  "colleagues": 4,
+  "parallel": 4,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 1073,
+   "chips": [
+    "https://www.remove.bg/help/a/can-i-use-remove-bg-for-commercial-purposes",
+    "https://help.photoroom.com/en/articles/13713828-remove-the-background-of-a-photo-with-background-remover-web-app",
+    "https://helpx.adobe.com/express/web/image-creation-and-editing/edit-images/remove-background.html",
+    "https://github.com/danielgatis/rembg",
+    "https://www.canva.com/help/background-remover/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1073,
+   "end": 1884,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1884,
+   "end": 2125,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own photos and needs, and get the same hands-on comparison of free background removers",
+   "runTitle": "A small online seller tests free background removers on six photos, without signing up",
+   "fields": [
+    {
+     "key": "subjects",
+     "label": "Image subjects",
+     "value": "a mug on a busy table, curly hair, a glass bottle, a white sneaker on white, a plush toy, a bicycle with thin spokes"
+    },
+    {
+     "key": "use",
+     "label": "Personal or commercial use",
+     "value": "small online seller who needs clean product photos"
+    },
+    {
+     "key": "size",
+     "label": "Required output size",
+     "value": "",
+     "placeholder": "e.g. at least 1000 px on the long edge for marketplace listings"
+    },
+    {
+     "key": "account",
+     "label": "Account and upload preferences",
+     "value": "no account sign-up, no payment, no personal photos, fresh signed-out browser"
+    },
+    {
+     "key": "frequency",
+     "label": "How often I need exports",
+     "value": "",
+     "placeholder": "e.g. about 20 product photos a week"
+    }
+   ],
+   "template": "Compare background-removal options for {subjects}, {use}, {size}, {account} and {frequency}. Separate completed results from blocked or untested flows, check permissions and tell me what needs manual cleanup. Plan only; do not create accounts, pay or publish.",
+   "phases": [
+    {
+     "title": "Prepare six test photos, fix the scoring rules in advance and start testing the tools side by side",
+     "note": "Licensed photos, a scoring sheet and parallel tests of local and web tools",
+     "judgment": "One colleague re-checked a note about the stock mug photo, found it wrongly called a cup, and corrected the record. The white sneaker is a locally drawn illustration, and the plan says so openly."
+    },
+    {
+     "title": "Keep testing in a clean browser and record what each tool allows",
+     "note": "Sign-in prompts, blocked pages and free-tier limits written down as found",
+     "judgment": "When Adobe’s page refused access it was recorded as “access blocked”, not as a proven sign-in requirement. Photoroom’s stalled runs were left unscored rather than labelled as needing an account."
+    },
+    {
+     "title": "Look at every result, then build the comparison page, tables and sources, and check once at the end",
+     "judgment": "The final answer separates scored results from blocked or untested ones: login-blocked quality is “unscored, not zero”, and the sneaker illustration and unverified free-tier limits are listed as limitations."
+    }
+   ],
+   "workers": [
+    "Found six freely licensed photos (and drew the sneaker), saved the licence evidence and checked every image decodes unchanged",
+    "Set up the open-source tool rembg on this computer and ran all six photos through it, timing each one",
+    "Tested Adobe Express, Canva and Clipdrop in a clean browser, stopping wherever a sign-in or block appeared",
+    "Tested Photoroom and Pixlr in a clean browser and saved the six Pixlr results with timings"
+   ],
+   "chipNames": {
+    "https://www.remove.bg/help/a/can-i-use-remove-bg-for-commercial-purposes": "remove.bg: commercial use",
+    "https://help.photoroom.com/en/articles/13713828-remove-the-background-of-a-photo-with-background-remover-web-app": "Photoroom help: background remover",
+    "https://helpx.adobe.com/express/web/image-creation-and-editing/edit-images/remove-background.html": "Adobe Express: remove background",
+    "https://github.com/danielgatis/rembg": "rembg open-source project",
+    "https://www.canva.com/help/background-remover/": "Canva help: background remover"
+   }
+  },
+  "zh": {
+   "askTitle": "把图片和需求换成你的，免费抠图工具就按你的情况实测比较",
+   "runTitle": "小型网店卖家用六张照片实测免费抠图工具，全程不注册账号",
+   "fields": [
+    {
+     "key": "subjects",
+     "label": "图片主体",
+     "value": "桌上杂乱背景里的马克杯、卷发人像、玻璃瓶、白底白鞋、毛绒玩具、细辐条自行车"
+    },
+    {
+     "key": "use",
+     "label": "个人还是商用",
+     "value": "小型网店卖家，需要干净的商品图"
+    },
+    {
+     "key": "size",
+     "label": "需要的输出尺寸",
+     "value": "",
+     "placeholder": "例如：长边至少 1000 像素，用于平台上架"
+    },
+    {
+     "key": "account",
+     "label": "是否接受账户和上传",
+     "value": "不注册账号、不付款、不上传个人照片，用干净的浏览器环境"
+    },
+    {
+     "key": "frequency",
+     "label": "导出频率",
+     "value": "",
+     "placeholder": "例如：每周大约 20 张商品图"
+    }
+   ],
+   "template": "请按{subjects}、{use}、{size}、{account}、{frequency}比较抠图选择。分清已完成、受阻和没测到的结果，核对使用权限，告诉我哪里还要手工修整。只做计划，不开户、不付款、不发布。",
+   "phases": [
+    {
+     "title": "备好六张测试照片、先定好评分标准，并同时开测各个工具",
+     "note": "授权可用的照片、评分表，以及本地工具和网页工具的并行测试",
+     "judgment": "有位同事回头检查库存照片，发现自己把马克杯错记成了杯子，随即改正记录。白色运动鞋是本地画的示意图，方案里也明说了。"
+    },
+    {
+     "title": "在干净的浏览器里继续测试，记录每个工具的限制",
+     "note": "登录提示、被拦截的页面和免费版限制，都照实记下",
+     "judgment": "Adobe 页面拒绝访问时，只记作“访问被拦截”，没当成一定要登录；Photoroom 反复卡住的几次也没打分，没有硬说它需要账号。"
+    },
+    {
+     "title": "逐一查看结果，做出对比页、表格和来源清单，最后统一检查一遍",
+     "judgment": "最终回答把有分数的结果和受阻、没测到的分开：被登录挡住的画质算“未评分，不是零分”，运动鞋是示意图、免费版限制没核实，也都列为局限。"
+    }
+   ],
+   "workers": [
+    "找来六张可免费使用的照片（运动鞋自己画了一张），留好授权证据，并确认每张图都能原样打开",
+    "在本机装好开源工具 rembg，把六张照片都跑一遍并逐张计时",
+    "在干净的浏览器里测试 Adobe Express、Canva 和 Clipdrop，遇到登录或拦截就停下",
+    "在干净的浏览器里测试 Photoroom 和 Pixlr，并保存 Pixlr 的六张结果和耗时"
+   ],
+   "chipNames": {
+    "https://www.remove.bg/help/a/can-i-use-remove-bg-for-commercial-purposes": "remove.bg：商用说明",
+    "https://help.photoroom.com/en/articles/13713828-remove-the-background-of-a-photo-with-background-remover-web-app": "Photoroom 帮助：抠图工具",
+    "https://helpx.adobe.com/express/web/image-creation-and-editing/edit-images/remove-background.html": "Adobe Express：移除背景",
+    "https://github.com/danielgatis/rembg": "rembg 开源项目",
+    "https://www.canva.com/help/background-remover/": "Canva 帮助：背景移除"
+   }
+  }
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "slug": "kyoto-autumn-with-parents",
+ "startedAt": "2026-11-05",
+ "activeSec": 1623,
+ "stats": {
+  "searches": 42,
+  "pages": 25,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 35,
+   "end": 435,
+   "chips": [
+    "https://www.higashihonganji.or.jp/about/guide/shoseien/guide/",
+    "https://ipv4.nanzenji.or.jp/about_rinzaishu/visit",
+    "https://www.pref.kyoto.jp/plant/usageguidance.html",
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000236942.html",
+    "https://www.ikyu.com/00081581/?lc=1&ppc=3&rc=1"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 435,
+   "end": 1232,
+   "chips": [
+    "https://n-kishou.com/corp/news-contents/autumn/?lang=en",
+    "https://www.japan-guide.com/e/e3953.html",
+    "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/fare/fare_bus.html",
+    "https://www.mk-group.co.jp/kyoto/taxi/",
+    "https://jrwest-hotels.jp/en/granvia-kyoto/restaurant/ukihashi/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1232,
+   "end": 1556,
+   "chips": [
+    "https://kyoto.travel/en/seasonal-info/autumnleaves/"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Fill in your own parents, dates and budget to get the same gentle Kyoto plan",
+   "runTitle": "Three days in Kyoto in late autumn with two 70-year-old parents, JPY 180,000 for three",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "17–19 November 2027"
+    },
+    {
+     "key": "destination",
+     "label": "Destination",
+     "value": "Kyoto"
+    },
+    {
+     "key": "travellers",
+     "label": "Travellers and ages",
+     "value": "An adult daughter with her parents, both 70"
+    },
+    {
+     "key": "walking",
+     "label": "Daily walking and stair limits",
+     "value": "About 6 km a day with rests; one parent has knee trouble with stairs"
+    },
+    {
+     "key": "room",
+     "label": "Room and bathroom needs",
+     "value": "",
+     "placeholder": "e.g. one triple room, bath rather than shower"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency",
+     "value": "About JPY 180,000 for the three of them, excluding the Shinkansen"
+    },
+    {
+     "key": "times",
+     "label": "Arrival and departure times",
+     "value": "Arrive from Tokyo by Shinkansen on Wednesday morning, leave Friday evening"
+    }
+   ],
+   "template": "Plan {dates} in {destination} for {travellers}, with {walking}, {room}, {budget} and {times}. Prioritise rests, chairs and simple transfers. Separate dated examples from actual availability, show taxi and weather fallbacks, and list what to confirm before booking. Plan only; do not contact, reserve or pay.",
+   "phases": [
+    {
+     "title": "Check temple fees and hours, step and slope warnings, foliage timing and hotel prices",
+     "note": "Official entry fees and hours, accommodation tax, and publicly shown hotel prices",
+     "judgment": "It would not pass hotel prices off as a quote: the three prices are undated “from” prices for three adults in one room, and the check for 17–19 November 2027 was refused by the booking site, so no stay total is claimed."
+    },
+    {
+     "title": "Write the day-by-day plan and the source list",
+     "note": "Day-by-day route, taxi and bus costs, a cost table, and a dated source list",
+     "judgment": "It would not promise a chair-seated tofu lunch for a parent with a bad knee: the restaurant says seats may be on tatami or upstairs and chairs cannot be guaranteed, so the lunch is marked conditional and a station-hotel kaiseki lunch is named as the backup."
+    },
+    {
+     "title": "Check the budget, dates, files and the page layout on desktop and phone",
+     "judgment": "It re-checked fourteen key source pages, including all three hotel price pages, in a fresh clean browser, and the budget adds up to JPY 165,000 planned plus a JPY 15,000 reserve, equal to the JPY 180,000 limit."
+    }
+   ],
+   "workers": [
+    "Looked for three hotels near Kyoto Station or Karasuma with publicly shown prices for three adults, and found the city’s accommodation tax rates",
+    "Checked official entry fees, opening hours, closures and stair or slope warnings for the temples and gardens on the route"
+   ],
+   "chipNames": {
+    "https://www.higashihonganji.or.jp/about/guide/shoseien/guide/": "Shōsei-en garden: official visitor guide",
+    "https://ipv4.nanzenji.or.jp/about_rinzaishu/visit": "Nanzenji: official visiting information",
+    "https://www.pref.kyoto.jp/plant/usageguidance.html": "Kyoto Botanical Gardens: official admission and hours",
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000236942.html": "Kyoto City: accommodation tax rates",
+    "https://www.ikyu.com/00081581/?lc=1&ppc=3&rc=1": "Hotel listing example (three adults, one room)",
+    "https://n-kishou.com/corp/news-contents/autumn/?lang=en": "Japan Meteorological Corporation autumn foliage forecast",
+    "https://www.japan-guide.com/e/e3953.html": "Japan-guide: Kyoto autumn colours",
+    "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/fare/fare_bus.html": "Kyoto City Bus fares",
+    "https://www.mk-group.co.jp/kyoto/taxi/": "MK Taxi Kyoto",
+    "https://jrwest-hotels.jp/en/granvia-kyoto/restaurant/ukihashi/": "Hotel Granvia Kyoto: Ukihashi lunch",
+    "https://kyoto.travel/en/seasonal-info/autumnleaves/": "Kyoto official autumn-leaf reports"
+   }
+  },
+  "zh": {
+   "askTitle": "填上你自己的父母、日期和预算，得到同样不累人的京都行程",
+   "runTitle": "带两位 70 岁的父母在京都过三天深秋，三人预算 18 万日元",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 11 月 17–19 日"
+    },
+    {
+     "key": "destination",
+     "label": "目的地",
+     "value": "京都"
+    },
+    {
+     "key": "travellers",
+     "label": "同行者及年龄",
+     "value": "成年女儿带父母同行，两位老人都是 70 岁"
+    },
+    {
+     "key": "walking",
+     "label": "每天步行和台阶限制",
+     "value": "每天约 6 公里并有休息；其中一位膝盖不好，怕台阶"
+    },
+    {
+     "key": "room",
+     "label": "房型及浴室需求",
+     "value": "",
+     "placeholder": "例如：一间三人房，要浴缸不要淋浴"
+    },
+    {
+     "key": "budget",
+     "label": "预算及币种",
+     "value": "三人约 18 万日元，不含新干线"
+    },
+    {
+     "key": "times",
+     "label": "抵达离开时间",
+     "value": "周三上午坐新干线从东京到达，周五晚上离开"
+    }
+   ],
+   "template": "请安排{dates}去{destination}的旅行，同行者及年龄为{travellers}，每天步行和台阶限制为{walking}，房型及浴室需求为{room}，预算及币种为{budget}，抵达离开时间为{times}。优先安排休息、椅子和简单换乘。分清有日期的价格示例与真实可订情况，给出出租车及天气备选，列出预订前要确认什么。只做计划，不联系、不预订、不付款。",
+   "phases": [
+    {
+     "title": "核对寺院门票和开放时间、台阶坡道提示、红叶时间和酒店价格",
+     "note": "官方门票与开放时间、住宿税，以及公开显示的酒店价格",
+     "judgment": "它没有把酒店价格当成报价：三家价格都是三位成人同住一间的无日期“起”价，2027 年 11 月 17–19 日的日期查询又被订房网站拒绝，所以没有给出任何整晚总价。"
+    },
+    {
+     "title": "写出逐日行程和资料清单",
+     "note": "逐日路线、出租车和巴士费用、费用表，以及标注查询日期的资料清单",
+     "judgment": "它没有向膝盖不好的老人保证“有椅子的豆腐午餐”：餐厅自己说座位可能在榻榻米或二楼、不保证能要椅子，所以这顿午餐被标成有条件，并给了车站酒店怀石午餐作备选。"
+    },
+    {
+     "title": "检查预算、日期、文件，以及电脑和手机上的页面排版",
+     "judgment": "它在一个全新的干净浏览器里重新核对了十四个关键资料页，包括三家酒店的价格页；预算为计划 16.5 万日元加 1.5 万日元备用金，合计正好 18 万日元。"
+    }
+   ],
+   "workers": [
+    "在京都站或乌丸附近找三家酒店，记录三位成人同住一间时公开显示的价格，并查清京都市住宿税标准",
+    "核对路线上寺院和园林的官方门票、开放时间、休息日，以及台阶和坡道的提示"
+   ],
+   "chipNames": {
+    "https://www.higashihonganji.or.jp/about/guide/shoseien/guide/": "渉成園:官方参观指南",
+    "https://ipv4.nanzenji.or.jp/about_rinzaishu/visit": "南禅寺:官方参拜信息",
+    "https://www.pref.kyoto.jp/plant/usageguidance.html": "京都府立植物园:官方门票与开放时间",
+    "https://www.city.kyoto.lg.jp/gyozai/page/0000236942.html": "京都市:住宿税税率",
+    "https://www.ikyu.com/00081581/?lc=1&ppc=3&rc=1": "酒店价格示例(三位成人同住一间)",
+    "https://n-kishou.com/corp/news-contents/autumn/?lang=en": "日本气象株式会社红叶预报",
+    "https://www.japan-guide.com/e/e3953.html": "Japan-guide:京都红叶",
+    "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/fare/fare_bus.html": "京都市营巴士票价",
+    "https://www.mk-group.co.jp/kyoto/taxi/": "MK 出租车(京都)",
+    "https://jrwest-hotels.jp/en/granvia-kyoto/restaurant/ukihashi/": "京都格兰比亚酒店:浮桥餐厅午餐",
+    "https://kyoto.travel/en/seasonal-info/autumnleaves/": "京都官方红叶实况"
+   }
+  }
+ }
+}

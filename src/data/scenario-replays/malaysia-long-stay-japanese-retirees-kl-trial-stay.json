@@ -1,0 +1,132 @@
+{
+ "slug": "malaysia-long-stay-japanese-retirees-kl-trial-stay",
+ "startedAt": "2026-11-07",
+ "activeSec": 807,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 432,
+   "chips": [
+    "https://www.mm2h.gov.my/apply/guidelines",
+    "https://www.mm2h.gov.my/category/silver",
+    "https://www.my.emb-japan.go.jp/itpr_ja/medical.html",
+    "https://motac.gov.my/wp-content/uploads/2025/12/Insights-on-The-Categories.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 432,
+   "end": 514,
+   "chips": [
+    "https://www.jckl.org.my/hospital_info",
+    "https://www.mofa.go.jp/mofaj/toko/medi/asia/malaysia.html",
+    "https://www.anzen.mofa.go.jp/info/pcwarning.html?id=Malaysia"
+   ],
+   "workers": []
+  },
+  {
+   "start": 514,
+   "end": 807,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own ages, savings, pension and start date and get the same trial-stay plan before you consider a long-stay visa",
+   "runTitle": "Yokohama to Kuala Lumpur: a retired couple on a JPY 290,000 pension weigh a Malaysia long stay",
+   "fields": [
+    {
+     "key": "ages",
+     "label": "Ages and nationality",
+     "value": "Hiroshi 67 and Keiko 64, Japanese"
+    },
+    {
+     "key": "city",
+     "label": "City you live in now",
+     "value": "Yokohama"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "JPY 42 million"
+    },
+    {
+     "key": "pension",
+     "label": "Monthly pension",
+     "value": "About JPY 290,000 a month combined"
+    },
+    {
+     "key": "months",
+     "label": "How long you would stay",
+     "value": "2–3 years, possibly longer"
+    },
+    {
+     "key": "start",
+     "label": "Month and year you would start",
+     "value": "Autumn 2027"
+    },
+    {
+     "key": "area",
+     "label": "Area",
+     "value": "Mont Kiara or Bangsar (Penang also compared)"
+    }
+   ],
+   "template": "Help me plan a trial stay in Kuala Lumpur before I consider MM2H. We are {ages}, living in {city}, with about {savings} and a pension of {pension}. We would stay {months} from {start}, in {area}. Rebuild the monthly budget with our own figures for rent, insurance and spending, show the monthly shortfall and how many months our savings cover, and list the questions to put to our ward office, the pension service and a tax adviser. Flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the Malaysian visa pages, Japan-side pension and insurance pages, and rent and hospital sources",
+     "judgment": "It would not paper over conflicting official numbers: Sarawak’s deposit is RM 300,000 on one state page and RM 500,000 in a 2025 news item, so it left that as an open conflict. It also noted that the one-year rule for leaving Japanese health insurance is not on Yokohama’s own pages and needs the ward office to confirm."
+    },
+    {
+     "title": "Write the guide: city comparison, visa table, health cover and a monthly budget with the arithmetic shown",
+     "judgment": "It advised against committing to a long-stay visa yet. At the stated exchange rates the Silver route would tie up about ¥35.3M of their ¥42M, so it recommended a rented trial stay first."
+    },
+    {
+     "title": "Recompute every money figure and check the layout on a phone width",
+     "judgment": "All 25 money lines recomputed exactly. It also said openly that this check was written by the same author as the page, so the code is separate but the judgment is not."
+    }
+   ],
+   "workers": [
+    "Read the official Malaysian long-stay visa pages (federal MM2H, Sarawak, Sabah) and the 90-day visa-free entry rule",
+    "Compared Kuala Lumpur and Penang on asking rents, Japanese community and Japanese-speaking clinics and hospitals",
+    "Looked into the Japan side: health insurance and pension when leaving Japan, ward-office registration and pension tax questions"
+   ],
+   "chipNames": {
+    "https://www.mm2h.gov.my/apply/guidelines": "MM2H official application guidelines",
+    "https://www.mm2h.gov.my/category/silver": "MM2H Silver category (official)",
+    "https://www.my.emb-japan.go.jp/itpr_ja/medical.html": "Embassy of Japan in Malaysia: medical information",
+    "https://motac.gov.my/wp-content/uploads/2025/12/Insights-on-The-Categories.pdf": "MOTAC: insights on the MM2H categories",
+    "https://www.jckl.org.my/hospital_info": "Japan Club of KL: hospital list",
+    "https://www.mofa.go.jp/mofaj/toko/medi/asia/malaysia.html": "Japan MOFA: medical guide for Malaysia",
+    "https://www.anzen.mofa.go.jp/info/pcwarning.html?id=Malaysia": "Japan MOFA: safety information for Malaysia"
+   }
+  }
+ }
+}

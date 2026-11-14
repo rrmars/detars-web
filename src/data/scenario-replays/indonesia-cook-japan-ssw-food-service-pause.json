@@ -1,0 +1,141 @@
+{
+ "slug": "indonesia-cook-japan-ssw-food-service-pause",
+ "startedAt": "2026-11-07",
+ "activeSec": 2403,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 22,
+   "end": 527,
+   "chips": [
+    "https://www.ssw.go.jp/en/about/visa/food_service_1/",
+    "https://www.moj.go.jp/isa/policies/ssw/faq.html",
+    "https://www.prometric-jp.com/en/ssw/schedule/jft_basic_overseas/",
+    "https://otaff.or.jp/tokutei/en/gaisyoku-1/",
+    "https://jaripmi.kp2mi.go.id/informasi-pmi/calon-pmi/penempatan-calon-pmi/informasi-negara-tujuan-penempatan-jepang-program-ssw"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 527,
+   "end": 1406,
+   "chips": [
+    "https://www.moj.go.jp/isa/policies/ssw/foodservice.html",
+    "https://www.jpf.go.jp/jft-basic/schedule/pdf/test_schedule_2026.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/index.html",
+    "https://www.nta.go.jp/publication/pamph/gensen/zeigakuhyo2026/01.htm"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1406,
+   "end": 2245,
+   "chips": [
+    "https://www.prometric-jp.com/en/ssw/hall/overseas/"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 13,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own situation and get the same check on the visa gates, legal fees and a cautious first-year budget",
+   "runTitle": "Yogyakarta to Japan: a hotel line cook with IDR 25 million, aiming at a restaurant job from late 2027",
+   "fields": [
+    {
+     "key": "job",
+     "label": "Current job and savings",
+     "value": "Line cook at a hotel restaurant in Yogyakarta; IDR 25 million saved"
+    },
+    {
+     "key": "japanese",
+     "label": "Japanese level",
+     "value": "Basic Japanese, studying for JLPT N4"
+    },
+    {
+     "key": "tests",
+     "label": "Test results",
+     "value": "",
+     "placeholder": "e.g. JFT-Basic not yet taken; skills test not yet booked"
+    },
+    {
+     "key": "timing",
+     "label": "Target timing",
+     "value": "Working in Japan from late 2027"
+    },
+    {
+     "key": "wage",
+     "label": "Base wage, rent and payday",
+     "value": "",
+     "placeholder": "e.g. JPY 180,000 a month, JPY 40,000 rent, paid on the 25th"
+    }
+   ],
+   "template": "Help me plan Japan food-service preparation from Indonesia using {job}, {japanese}, {tests} and {timing}. Check the overseas COE and skills-test gates first. Separate lawful cost responsibility from personal preparation spending, then test {wage} against a cautious arrival budget and family transfers. Ask before contacting anyone, registering, paying or sharing personal data.",
+   "phases": [
+    {
+     "title": "Check whether food-service visas and skills tests are open, then read the official rules, test dates and wage data",
+     "note": "Visa status, test dates and fees, placement rules, dated wage figures",
+     "judgment": "While gathering wage data, one colleague spotted a bigger problem and raised it: Japan's immigration agency is, in principle, not issuing new food-service visa certificates for applications received since 13 April 2026. The guide therefore treats a late-2027 departure as conditional, not planned."
+    },
+    {
+     "title": "Write the guide with a lawful-fee checklist and a first-year budget in yen and rupiah, arithmetic shown",
+     "judgment": "The Indonesian fee ceilings come from a 2023 printed table, so the guide presents them as verified 2023 figures, not as certified charges for November 2026, and says the match with the newer 2025 rule is still open."
+    },
+    {
+     "title": "Independent recalculation of every money figure and test-centre date, plus desktop and phone layout checks",
+     "judgment": "The independent reviewer recomputed all 62 money cells and 51 test-centre schedule entries with no errors, then flagged one missing reminder: support rules for foreign workers change on 1 April 2027. The guide lists that as a remaining issue."
+    }
+   ],
+   "workers": [
+    "Checked whether the food-service visa and skills tests are open now, plus Indonesian test dates, centres and fees for the Japanese language test",
+    "Found dated Japanese wage statistics and worked out realistic deductions for tax, pension and health insurance",
+    "Read the official Indonesian and Japanese placement rules and worked out which fees a worker may lawfully pay and which the employer must cover",
+    "Independently recomputed every figure in the finished guide and checked its claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.ssw.go.jp/en/about/visa/food_service_1/": "SSW food service (i): official overview",
+    "https://www.moj.go.jp/isa/policies/ssw/faq.html": "Immigration Services Agency: SSW FAQ",
+    "https://www.prometric-jp.com/en/ssw/schedule/jft_basic_overseas/": "JFT-Basic overseas test schedule (Prometric)",
+    "https://otaff.or.jp/tokutei/en/gaisyoku-1/": "OTAFF: food service skills test",
+    "https://jaripmi.kp2mi.go.id/informasi-pmi/calon-pmi/penempatan-calon-pmi/informasi-negara-tujuan-penempatan-jepang-program-ssw": "Indonesia KP2MI: placement information for Japan SSW",
+    "https://www.moj.go.jp/isa/policies/ssw/foodservice.html": "Immigration Services Agency: food service sector",
+    "https://www.jpf.go.jp/jft-basic/schedule/pdf/test_schedule_2026.pdf": "Japan Foundation: JFT-Basic 2026 schedule",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2025/index.html": "MHLW 2025 wage structure survey",
+    "https://www.nta.go.jp/publication/pamph/gensen/zeigakuhyo2026/01.htm": "National Tax Agency: 2026 withholding tax tables",
+    "https://www.prometric-jp.com/en/ssw/hall/overseas/": "Prometric: overseas test centres"
+   }
+  }
+ }
+}

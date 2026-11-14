@@ -1,0 +1,193 @@
+{
+ "slug": "home-gym-vs-membership-denver-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1226,
+ "stats": {
+  "searches": 30,
+  "pages": 27,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 35,
+   "end": 805,
+   "chips": [
+    "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Center-Memberships",
+    "https://www.clubformdenver.com/memberships",
+    "https://alpinecrossfit.com/pricing/",
+    "https://lifeprofitness.com/products/powerflow-plus",
+    "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 805,
+   "end": 1046,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1046,
+   "end": 1183,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own area, space and budget and get the same home-versus-gym comparison",
+   "runTitle": "Denver: a $300 home setup against a gym membership, starting in January 2027",
+   "fields": [
+    {
+     "key": "area",
+     "label": "Area",
+     "value": "Denver, Colorado"
+    },
+    {
+     "key": "date",
+     "label": "Start date",
+     "value": "January 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget",
+     "value": "About USD 300 for a home setup"
+    },
+    {
+     "key": "space",
+     "label": "Clear floor space and ceiling height",
+     "value": "",
+     "placeholder": "e.g. 2 m × 2 m of clear floor, 2.4 m ceiling"
+    },
+    {
+     "key": "equipment",
+     "label": "Current equipment and experience",
+     "value": "",
+     "placeholder": "e.g. no equipment, never lifted weights before"
+    },
+    {
+     "key": "health",
+     "label": "Health or movement limits",
+     "value": "Generally healthy, no injuries"
+    },
+    {
+     "key": "schedule",
+     "label": "Weekly schedule",
+     "value": "Strength training three times a week"
+    }
+   ],
+   "template": "Help me choose home training or a gym in {area}, starting {date}, with {budget}, {space}, {equipment}, {health} and {schedule}. Compare delivered equipment costs with written membership terms, flag stock gaps, suggest safe substitutions and show when I may need more load. Make a plan only; do not purchase or enrol.",
+   "phases": [
+    {
+     "title": "Check gym fees, equipment prices and exercise guidance in public sources",
+     "note": "Three Denver-area gyms, a priced home kit, CDC and ACSM guidance",
+     "judgment": "The gym researcher corrected a price before it spread: the city’s official page lists $30.75 a month, not $34, and the $332.10 annual option is an alternative way to pay, not an extra fee. Fees a gym does not publish were left as “not published” rather than turned into $0, and the kit researcher withdrew an earlier Target price it could not trace back to the page."
+    },
+    {
+     "title": "Write the guide and the dated source notes",
+     "note": "Cost comparison, 12-week beginner programme, decision guide",
+     "judgment": "The limits are stated up front instead of buried: the $248.97 dumbbell set needs to come back in stock, the alternative kettlebell is backordered, and January prices are not guaranteed."
+    },
+    {
+     "title": "Run one final check of the page display and content"
+    }
+   ],
+   "workers": [
+    "Found the published monthly, annual and joining fees of real gym memberships in the Denver area",
+    "Found current retailer listings for a home kit under $300: adjustable dumbbells, a mat and resistance bands"
+   ],
+   "chipNames": {
+    "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Center-Memberships": "City of Denver: recreation centre memberships",
+    "https://www.clubformdenver.com/memberships": "Club Form Denver: memberships",
+    "https://alpinecrossfit.com/pricing/": "Alpine CrossFit: pricing",
+    "https://lifeprofitness.com/products/powerflow-plus": "Lifepro: PowerFlow Plus adjustable dumbbells",
+    "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html": "CDC: physical activity guidelines for adults"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的地区、场地和预算，得到同样的居家训练与健身房对比",
+   "runTitle": "丹佛：300 美元居家器材对比健身房会员，2027 年 1 月开始",
+   "fields": [
+    {
+     "key": "area",
+     "label": "地区",
+     "value": "美国科罗拉多州丹佛"
+    },
+    {
+     "key": "date",
+     "label": "开始日期",
+     "value": "2027 年 1 月"
+    },
+    {
+     "key": "budget",
+     "label": "预算",
+     "value": "居家器材约 300 美元"
+    },
+    {
+     "key": "space",
+     "label": "可用净空和层高",
+     "value": "",
+     "placeholder": "例如：可用地面约 2 米 × 2 米，层高 2.4 米"
+    },
+    {
+     "key": "equipment",
+     "label": "现有器材和训练经验",
+     "value": "",
+     "placeholder": "例如：没有器材，之前没练过力量"
+    },
+    {
+     "key": "health",
+     "label": "健康或活动限制",
+     "value": "总体健康，没有伤病"
+    },
+    {
+     "key": "schedule",
+     "label": "每周安排",
+     "value": "每周力量训练三次"
+    }
+   ],
+   "template": "请帮我比较在{area}居家训练还是去健身房，计划{date}开始，预算{budget}，可用净空和层高{space}，现有器材和训练经验{equipment}，健康或活动限制{health}，每周安排{schedule}。比较器材送达总价和书面会员条款，提醒缺货问题、合适的动作替代，以及何时可能需要更大负重。只做计划，不购买、不办理会员。",
+   "phases": [
+    {
+     "title": "用公开资料核对健身房费用、器材价格和训练指南",
+     "note": "丹佛一带三家健身房、带价格的居家器材、CDC 与 ACSM 指南",
+     "judgment": "查健身房的同事在错误扩散前改了一个价格：市政府官方页面写的是每月 30.75 美元，不是 34 美元，而 332.10 美元的年付只是另一种付款方式，不是额外费用。健身房没公布的费用写成“未公布”，没有记成 0 美元；查器材的同事也撤回了一个无法追溯到页面的 Target 价格。"
+    },
+    {
+     "title": "撰写指南和带日期的来源笔记",
+     "note": "费用对比、12 周新手训练计划、选择建议",
+     "judgment": "限制写在显眼处，没有藏起来：248.97 美元的哑铃套装需要等补货，备选的壶铃目前缺货，1 月的价格也不保证不变。"
+    },
+    {
+     "title": "最后检查一遍页面显示和内容"
+    }
+   ],
+   "workers": [
+    "查丹佛一带真实健身房会员的公开月费、年费和入会费",
+    "查 300 美元以内的居家器材套装在零售商处的当前标价：可调哑铃、瑜伽垫和弹力带"
+   ],
+   "chipNames": {
+    "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Center-Memberships": "丹佛市政府：康乐中心会员",
+    "https://www.clubformdenver.com/memberships": "Club Form Denver：会员方案",
+    "https://alpinecrossfit.com/pricing/": "Alpine CrossFit：价格",
+    "https://lifeprofitness.com/products/powerflow-plus": "Lifepro：PowerFlow Plus 可调哑铃",
+    "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html": "CDC：成人身体活动指南"
+   }
+  }
+ }
+}

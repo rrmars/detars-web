@@ -1,0 +1,75 @@
+{
+ "slug": "bangkok-couple-first-condo-resale-ltv-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 862,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 0,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 928,
+   "chips": [
+    "https://www.bot.or.th/en/news-and-media/news/news-20260514.html",
+    "https://www.rd.go.th/306.html",
+    "https://www.ghbank.co.th/product-detail/home-loan-2569-q1",
+    "https://www.kasikornbank.com/th/personal/loan/home-loan/pages/home-loan.aspx",
+    "https://krungthai.com/th/personal/loan/home-loan"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own incomes, rent and savings and get the same first-condo affordability check",
+   "runTitle": "Bangkok: a couple’s first condo near the BTS or MRT, THB 3.5–4.5 million",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Bangkok, near a BTS or MRT station"
+    },
+    {
+     "key": "income",
+     "label": "Monthly income of each person in THB",
+     "value": "THB 52,000 and THB 41,000 a month"
+    },
+    {
+     "key": "rent",
+     "label": "Monthly rent in THB",
+     "value": "THB 14,000 a month"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in THB",
+     "value": "THB 650,000"
+    },
+    {
+     "key": "price",
+     "label": "Price range in THB",
+     "value": "THB 3.5–4.5 million, a new launch or a resale unit"
+    }
+   ],
+   "template": "Help me decide whether to buy a first condo in {city}. We earn {income}, pay {rent} and have {savings}. Compare a resale and a new unit at {price}, with the bank lending 100% and 90%, rebuild the upfront budget and the buy-versus-rent table with my numbers, keep a six-month reserve outside the budget, and check any bank, developer or agent quote I paste in, marking anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Research the lending rules, fees and bank rates, then build the guide and check it",
+     "note": "Bank of Thailand loan rules, transfer fees, mortgage rates and the buy-versus-rent comparison",
+     "judgment": "It fixed its own answer mid-run: reading the Bank of Thailand rule directly showed a first-home loan can already cover 100% of the price, so it rebuilt the budget tables in all three files and re-ran its own cross-check, which recomputes the figures by a different method (206 of 206 passed). It also warned that it had read the 2020 text, not any later amendments, and told readers to confirm with the bank."
+    }
+   ],
+   "workers": [],
+   "chipNames": {
+    "https://www.bot.or.th/en/news-and-media/news/news-20260514.html": "Bank of Thailand: loan-to-value news, May 2026",
+    "https://www.rd.go.th/306.html": "Thai Revenue Department: tax information",
+    "https://www.ghbank.co.th/product-detail/home-loan-2569-q1": "Government Housing Bank: home loan rates",
+    "https://www.kasikornbank.com/th/personal/loan/home-loan/pages/home-loan.aspx": "Kasikornbank: home loan",
+    "https://krungthai.com/th/personal/loan/home-loan": "Krungthai Bank: home loan"
+   }
+  }
+ }
+}

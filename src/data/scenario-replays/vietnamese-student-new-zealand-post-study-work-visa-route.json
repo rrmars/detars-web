@@ -1,0 +1,120 @@
+{
+ "slug": "vietnamese-student-new-zealand-post-study-work-visa-route",
+ "startedAt": "2026-11-07",
+ "activeSec": 890,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 618,
+   "chips": [
+    "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/post-study-work-visa",
+    "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+    "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+    "https://www.employment.govt.nz/pay-and-hours/pay/minimum-wage/minimum-wage-rates",
+    "https://www.canterbury.ac.nz/study/getting-started/study-and-living-costs/study-costs/international-tuition-fees/bachelors"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 618,
+   "end": 703,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 703,
+   "end": 890,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own intake, budget and English level to get a New Zealand study-and-work route plan",
+   "runTitle": "A Vietnamese student with VND 1.6 billion: which New Zealand route leads to a post-study work visa?",
+   "fields": [
+    {
+     "key": "start",
+     "label": "Start month and year",
+     "value": "mid-2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget amount and currency",
+     "value": "up to VND 1.6 billion in total"
+    },
+    {
+     "key": "english",
+     "label": "English level",
+     "value": "IELTS 6.0"
+    },
+    {
+     "key": "programmes",
+     "label": "Programmes and cities you are considering",
+     "value": "a 3-year Level 7 bachelor (such as business or IT), or a cheaper Level 5–6 diploma or graduate-diploma route; Auckland or Christchurch"
+    },
+    {
+     "key": "provider",
+     "label": "Provider where you want diploma credits to count",
+     "value": "",
+     "placeholder": "e.g. a specific university or institute you are considering"
+    }
+   ],
+   "template": "Help me plan study in New Zealand from {start}. My budget is {budget}, my English level is {english} and I am considering {programmes}. Check which of these routes give a Post-Study Work Visa, what the Short-Term Graduate Work Visa would offer after it opens, and whether credits from a diploma count toward a degree at {provider}. Rebuild the budget with my own rent, living-cost and exchange-rate figures, and flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read official visa pages, then provider fee pages, rent and exchange-rate sources",
+     "note": "Student visa, post-study work visa, 2027 fees, rent and exchange rate",
+     "judgment": "It used each university’s own 2027 fee page and set aside agent websites, one of which quoted Massey’s business degree at NZD 35,920 against Massey’s own NZD 39,230. Where a site refused access (AUT, Lincoln, Auckland), it said it could not read those fees rather than trying to get around the block."
+    },
+    {
+     "title": "Build the guide, source list and budgets for each route",
+     "judgment": "It gave the family the hard answer: the three-year bachelor is the only route it found with an open-work post-study visa, but all-in it costs about NZD 194,000–209,000 (VND 2.77–2.99 billion) and does not fit VND 1.6 billion. It called Christchurch only a provisional pick, and marked its own assumptions as unconfirmed."
+    },
+    {
+     "title": "Independently recompute every figure and check each claim against its source",
+     "judgment": "The independent check found every money figure correct but caught claims stronger than their sources, such as “tuition is similar in both cities” resting on an unconfirmed Auckland offer. Those were fixed. The re-check afterwards was not independent, and the guide says so and ends with “issues remain” rather than a clean pass."
+    }
+   ],
+   "workers": [
+    "Looked up 2027 tuition fees for degree and diploma programmes at several providers, plus what the education regulator and Immigration New Zealand say about provider category and the post-study work visa",
+    "Gathered work rights while studying, student-visa funds, insurance, exchange rates and dated room-rent examples for Auckland and Christchurch",
+    "Independently recomputed every money figure from scratch and checked each claim in the guide against the source list"
+   ],
+   "chipNames": {
+    "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/post-study-work-visa": "Immigration New Zealand: Post Study Work Visa",
+    "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/": "Immigration New Zealand: working on a student visa",
+    "https://www.immigration.govt.nz/visas/fee-paying-student-visa/": "Immigration New Zealand: Fee Paying Student Visa",
+    "https://www.employment.govt.nz/pay-and-hours/pay/minimum-wage/minimum-wage-rates": "Employment New Zealand: minimum wage rates",
+    "https://www.canterbury.ac.nz/study/getting-started/study-and-living-costs/study-costs/international-tuition-fees/bachelors": "University of Canterbury: 2027 international tuition fees"
+   }
+  }
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "slug": "perth-first-home-491-visa-or-pr",
+ "startedAt": "2026-11-07",
+ "activeSec": 2137,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 38,
+   "end": 511,
+   "chips": [
+    "https://www.wa.gov.au/government/publications/foreign-transfer-duty",
+    "https://foreigninvestment.gov.au/guidance/general/fees",
+    "https://www.wa.gov.au/government/publications/about-the-first-home-owner-grant",
+    "https://www.pepperbroker.com.au/content/dam/aubroker/broker-au-documents-nc/home-loans/product-guide/Pepper%20Money%20Retail%2C%20Residential%2C%20CRE%20and%20SMSF%20Product%20Guide.pdf",
+    "https://www.nab.com.au/personal/home-loans"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 511,
+   "end": 1295,
+   "chips": [
+    "https://www.nab.com.au/personal/home-loans/nab-fixed-rate-home-loan",
+    "https://www.bankwest.com.au/personal/home-buying/guides/home-loan-deposits",
+    "https://www.peppermoney.com.au/resources/lenders-mortgage-insurance.html"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 11,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1295,
+   "end": 1622,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own visas, savings and price range, and compare buying now with waiting for permanent residency",
+   "runTitle": "Perth first home on 491 visas: buy now or wait for PR in 2028?",
+   "fields": [
+    {
+     "key": "visa",
+     "label": "Each person's actual visa",
+     "value": "Both on skilled regional (subclass 491) visas"
+    },
+    {
+     "key": "milestone",
+     "label": "Actual PR milestone",
+     "value": "Permanent residence (subclass 191) expected around 2028"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "AUD 95,000"
+    },
+    {
+     "key": "debts",
+     "label": "Debts and monthly surplus",
+     "value": "",
+     "placeholder": "e.g. no debts, AUD 2,500 a month spare after living costs"
+    },
+    {
+     "key": "price",
+     "label": "Price range",
+     "value": "AUD 650,000–750,000"
+    },
+    {
+     "key": "type",
+     "label": "Property type",
+     "value": "3-bedroom house in Perth's northern or south-eastern suburbs"
+    }
+   ],
+   "template": "Compare buying a Perth first home on {visa} with waiting for {milestone}. Use {savings}, {debts}, {price} and {type}. Separate purchase permission, duty/grant eligibility, upfront payment dates, lender risk fees and a retained reserve. Show a cautious baseline and genuinely qualifying alternatives, and flag what still needs professional confirmation. Ask before contacting anyone, applying or sharing personal data.",
+   "phases": [
+    {
+     "title": "Check foreign-buyer permission, WA duty and grants, lender policies and recent sales",
+     "note": "Federal and state rules, lender criteria and dated sale prices",
+     "judgment": "It caught a contradiction between sources. A broker said NAB lends to 491 holders, but NAB's own mortgage page excludes applicants who need foreign-investment approval, so the lender was not counted as an option for this couple."
+    },
+    {
+     "title": "Build the buy-now versus wait comparison and the guide",
+     "note": "Upfront cost on each path, lender options, suburb examples and a timeline",
+     "judgment": "It kept the case for waiting honest. The guide's baseline shows $239,065 upfront if they buy on 491 versus $163,350 after PR, but it also adds the off-the-plan duty concession and one lender's conditional 95% option, and marks two of the four suburb examples as provisional because only two full listings could be read."
+    },
+    {
+     "title": "Independent check of every figure, plus desktop and phone layout tests",
+     "judgment": "A separate colleague redid the arithmetic: 88 checks, zero mismatches. It also pushed back on wording, noting that one line described all sale examples as three-bedroom houses although one was unverified, and that property coverage was still thin."
+    }
+   ],
+   "workers": [
+    "Compared which lenders accept 491 visa holders, their loan-to-value limits, insurance and rates, using the lenders' own documents",
+    "Found dated sold examples of 3-bedroom houses in northern and south-eastern Perth suburbs",
+    "Recomputed every dollar figure on its own and checked the guide's claims against the saved source pages"
+   ],
+   "chipNames": {
+    "https://www.wa.gov.au/government/publications/foreign-transfer-duty": "WA foreign transfer duty",
+    "https://foreigninvestment.gov.au/guidance/general/fees": "FIRB application fees",
+    "https://www.wa.gov.au/government/publications/about-the-first-home-owner-grant": "WA First Home Owner Grant",
+    "https://www.pepperbroker.com.au/content/dam/aubroker/broker-au-documents-nc/home-loans/product-guide/Pepper%20Money%20Retail%2C%20Residential%2C%20CRE%20and%20SMSF%20Product%20Guide.pdf": "Pepper Money product guide",
+    "https://www.nab.com.au/personal/home-loans": "NAB home loans",
+    "https://www.nab.com.au/personal/home-loans/nab-fixed-rate-home-loan": "NAB fixed rate home loan",
+    "https://www.bankwest.com.au/personal/home-buying/guides/home-loan-deposits": "Bankwest deposit guide",
+    "https://www.peppermoney.com.au/resources/lenders-mortgage-insurance.html": "Pepper Money lenders mortgage insurance"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你们自己的签证、存款和价格区间，比较现在就买和等拿到永居再买",
+   "runTitle": "珀斯首套房，持 491 签证：现在买还是等 2028 年拿永居？",
+   "fields": [
+    {
+     "key": "visa",
+     "label": "双方实际签证",
+     "value": "双方都持技术类偏远地区（491）签证"
+    },
+    {
+     "key": "milestone",
+     "label": "永居获批节点",
+     "value": "预计 2028 年左右拿到永居（191）"
+    },
+    {
+     "key": "savings",
+     "label": "存款",
+     "value": "9.5 万澳元"
+    },
+    {
+     "key": "debts",
+     "label": "债务及每月结余",
+     "value": "",
+     "placeholder": "例如：没有债务，扣除生活费后每月结余 2,500 澳元"
+    },
+    {
+     "key": "price",
+     "label": "价格区间",
+     "value": "65 万至 75 万澳元"
+    },
+    {
+     "key": "type",
+     "label": "房屋类型",
+     "value": "珀斯北部或东南部的三卧室独立屋"
+    }
+   ],
+   "template": "请比较持{visa}购买珀斯首套房，与等待{milestone}的差别。使用{savings}、{debts}、{price}和{type}。分开列明购买许可、税费和补助资格、前期付款日期、贷款风险费及应急金。给出稳妥基准和真正符合条件的替代方案，标明仍需专业确认的事项。联系任何人、申请或分享个人信息前，先征得我同意。",
+   "phases": [
+    {
+     "title": "查外国买家购房许可、西澳税费和补助、银行政策以及近期成交",
+     "note": "联邦和州的规定、银行条件和有日期的成交价",
+     "judgment": "它发现了来源之间的矛盾。中介说 NAB 肯接 491 签证持有人，但 NAB 自己的房贷页面把需要外国投资审批的申请人排除在外，所以没有把这家银行算作这对夫妻的选项。"
+    },
+    {
+     "title": "做出“现在买”与“等永居”的对比，并写出指南",
+     "note": "两条路的前期总花费、银行选项、各区成交例子和时间线",
+     "judgment": "它没有为“等”这个结论加码。指南基准显示：持 491 现在买需要前期 239,065 澳元，拿永居后买是 163,350 澳元；同时也写入了期房印花税优惠和一家银行有条件的 95% 贷款选项，并把四个区的成交例子里只读到两个完整房源的情况如实标成“待确认”。"
+    },
+    {
+     "title": "独立核对每个数字，并在电脑和手机上测试版面",
+     "judgment": "另一位同事独立重算：88 项核对，零差异。它还对措辞提出异议：有一句把所有成交例子都说成三卧室独立屋，但其中一个并未核实；房产样本也仍然偏少。"
+    }
+   ],
+   "workers": [
+    "查哪些银行接受 491 签证持有人，以及它们的贷款成数上限、保险和利率，依据银行自己的文件",
+    "找珀斯北部和东南部各区三卧室独立屋有日期的成交例子",
+    "独立重算每一笔金额，并对照保存的来源网页核对指南里的说法"
+   ],
+   "chipNames": {
+    "https://www.wa.gov.au/government/publications/foreign-transfer-duty": "西澳外国买家转让税",
+    "https://foreigninvestment.gov.au/guidance/general/fees": "FIRB 申请费用",
+    "https://www.wa.gov.au/government/publications/about-the-first-home-owner-grant": "西澳首次置业补助",
+    "https://www.pepperbroker.com.au/content/dam/aubroker/broker-au-documents-nc/home-loans/product-guide/Pepper%20Money%20Retail%2C%20Residential%2C%20CRE%20and%20SMSF%20Product%20Guide.pdf": "Pepper Money 产品指南",
+    "https://www.nab.com.au/personal/home-loans": "NAB 房贷",
+    "https://www.nab.com.au/personal/home-loans/nab-fixed-rate-home-loan": "NAB 固定利率房贷",
+    "https://www.bankwest.com.au/personal/home-buying/guides/home-loan-deposits": "Bankwest 首付指南",
+    "https://www.peppermoney.com.au/resources/lenders-mortgage-insurance.html": "Pepper Money 贷款保险说明"
+   }
+  }
+ }
+}

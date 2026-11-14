@@ -1,0 +1,159 @@
+{
+ "slug": "bali-7-day-first-time-itinerary-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 2021,
+ "stats": {
+  "searches": 44,
+  "pages": 32,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 77,
+   "end": 1718,
+   "chips": [
+    "https://setkab.go.id/en/govt-annnounces-2027-national-holidays-and-collective-leave-days/",
+    "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/A1",
+    "https://lovebali.baliprov.go.id/faq",
+    "https://allindonesia.imigrasi.go.id/",
+    "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/indonesia/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1718,
+   "end": 1844,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1844,
+   "end": 1926,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates, home city and budget and get the same checked Bali plan",
+   "runTitle": "Singapore to Bali: 7 days for a first-time couple, USD 2,500 excluding flights",
+   "fields": [
+    {
+     "key": "travelers",
+     "label": "Travelers and passports",
+     "value": "A couple, first trip to Bali"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "Arrive Saturday 6 March 2027, leave Saturday 13 March 2027"
+    },
+    {
+     "key": "city",
+     "label": "Departure city",
+     "value": "Singapore"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and exclusions",
+     "value": "About USD 2,500 for two, excluding flights"
+    }
+   ],
+   "template": "Plan a relaxed Bali trip for {travelers}, on {dates}, from {city}, with {budget}. Minimize hotel moves and check holiday restrictions first. Include daily plans, transport buffers, staffed accommodation and meals, costs and a reserve. Keep currencies unchanged; separate sample-date prices from travel-date availability and explain visa, levy and declaration requirements. Flag meals, access, weather and activities I must confirm. Plan only; do not book, contact, pay or submit forms.",
+   "phases": [
+    {
+     "title": "Check 2027 holidays, entry rules and hotel prices",
+     "note": "Nyepi and other holidays, visa exemption, tourist levy, sample hotel rates",
+     "judgment": "A researcher withdrew their own work. After handing in four hotel prices, they went back, could not show the page text behind them, and told the team not to use any of the amounts. The entry rules came with their limits stated: the free 30-day exemption applies to Singapore passports today, not as a guarantee for March 2027."
+    },
+    {
+     "title": "Build the day-by-day plan and a budget that adds up",
+     "note": "Itinerary, cost table and a source list",
+     "judgment": "It found that Nyepi, Bali’s day of silence, falls on 8 March, inside the trip, and rebuilt the plan around it: four nights in Ubud, three in Sanur, with that day spent at the hotel. It also states that the hotel prices it saw are for November reference dates, not March availability, and that Nyepi packages need repricing."
+    },
+    {
+     "title": "Check the files, the arithmetic and the page layout, then hand over"
+    }
+   ],
+   "workers": [
+    "Looked for public room prices at named hotels in Ubud and Sanur, and checked their restaurant hours",
+    "Checked Indonesia’s official entry rules: visa exemption, passport and ticket requirements, the Bali tourist levy and the arrival declaration"
+   ],
+   "chipNames": {
+    "https://setkab.go.id/en/govt-annnounces-2027-national-holidays-and-collective-leave-days/": "Indonesian government: 2027 national holidays",
+    "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/A1": "Indonesian Immigration: 30-day visa exemption",
+    "https://lovebali.baliprov.go.id/faq": "Bali government: tourist levy FAQ",
+    "https://allindonesia.imigrasi.go.id/": "All Indonesia arrival declaration",
+    "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/indonesia/": "Singapore MFA: travelling to Indonesia"
+   }
+  },
+  "zh": {
+   "askTitle": "把日期、出发城市和预算换成你自己的，得到同样经过核对的巴厘岛行程",
+   "runTitle": "新加坡出发，巴厘岛 7 天：首次出行的两人，预算 2,500 美元（不含机票）",
+   "fields": [
+    {
+     "key": "travelers",
+     "label": "同行人及护照",
+     "value": "一对夫妇，第一次去巴厘岛"
+    },
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 3 月 6 日（周六）抵达，3 月 13 日（周六）离开"
+    },
+    {
+     "key": "city",
+     "label": "出发城市",
+     "value": "新加坡"
+    },
+    {
+     "key": "budget",
+     "label": "预算及不含项目",
+     "value": "两人约 2,500 美元，不含机票"
+    }
+   ],
+   "template": "请按{travelers}、{dates}、{city}和{budget}，帮我做一份轻松的巴厘岛行程。少换酒店，先查假日限制；列出每天安排、交通缓冲、住宿供餐、分项预算和备用金。保留原币种，分清样本日期房价和出行日期有房，说明签证、征费和申报分别要做什么。提醒我哪些餐食、开放、天气及活动营业情况还要确认。只做计划，不预订、不联系、不付款、不提交表格。",
+   "phases": [
+    {
+     "title": "核对 2027 年假日、入境规定和酒店价格",
+     "note": "静居日等假日、免签、旅游税、样本房价",
+     "judgment": "一位同事推翻了自己的结果：先交了四个酒店价格，随后回头检查，拿不出价格页面的原文，就明确告诉团队这些数字都不要用。入境规定也写明了边界：新加坡护照目前可免费免签 30 天，但不保证 2027 年 3 月仍然如此。"
+    },
+    {
+     "title": "制作每日行程和算得平的预算",
+     "note": "行程、费用表和来源清单",
+     "judgment": "它查到巴厘岛的静居日（Nyepi）落在 3 月 8 日，正好在行程内，于是围绕这一天重排：乌布住 4 晚、沙努尔住 3 晚，静居日留在酒店。它还写明所看到的酒店价格是 11 月的参考日期，并非 3 月的实际房源，静居日套餐需要重新报价。"
+    },
+    {
+     "title": "检查文件、算术和页面排版，然后交付"
+    }
+   ],
+   "workers": [
+    "查乌布和沙努尔几家指定酒店的公开房价，并核对酒店餐厅的营业时间",
+    "核对印尼官方入境规定：免签、护照和机票要求、巴厘岛旅游税，以及入境申报"
+   ],
+   "chipNames": {
+    "https://setkab.go.id/en/govt-annnounces-2027-national-holidays-and-collective-leave-days/": "印尼政府：2027 年全国假日",
+    "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/A1": "印尼移民局：30 天免签",
+    "https://lovebali.baliprov.go.id/faq": "巴厘岛政府：旅游税常见问题",
+    "https://allindonesia.imigrasi.go.id/": "All Indonesia 入境申报",
+    "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/indonesia/": "新加坡外交部：前往印尼"
+   }
+  }
+ }
+}

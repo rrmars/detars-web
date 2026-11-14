@@ -1,0 +1,213 @@
+{
+ "slug": "singapore-first-rent-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1794,
+ "stats": {
+  "searches": 47,
+  "pages": 61,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 27,
+   "end": 572,
+   "chips": [
+    "https://www.hdb.gov.sg/hdb-pulse/news/2026/extension-of-temporary-relaxation-of-occupancy-cap-for-rental-of-hdb-flats-and-private-residential",
+    "https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-bedrooms/regulations",
+    "https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property",
+    "https://www.cea.gov.sg/consumers/rental-scams/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 572,
+   "end": 1749,
+   "chips": [
+    "https://www.cea.gov.sg/consumers/engaging-a-property-agent/check-if-your-property-agent-is-registered/",
+    "https://www.hdb.gov.sg/apply-manage-and-renew-rental-of-bedroom/terms-and-conditions",
+    "https://www.gov.sg/explainers/renting-out-your-hdb-flat/"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1749,
+   "end": 1816,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own job location, pass and ceiling and get the same dated room comparison and budget",
+   "runTitle": "A Malaysian engineer’s first Singapore rental near one-north: S$7,000 a month, about S$2,000 for housing",
+   "fields": [
+    {
+     "key": "address",
+     "label": "Work address",
+     "value": "the one-north area"
+    },
+    {
+     "key": "date",
+     "label": "Move-in date",
+     "value": "1 March 2027"
+    },
+    {
+     "key": "pass",
+     "label": "Nationality, pass and issue timing",
+     "value": "from Malaysia, on an Employment Pass"
+    },
+    {
+     "key": "income",
+     "label": "Income",
+     "value": "SGD 7,000 a month"
+    },
+    {
+     "key": "ceiling",
+     "label": "All-in housing ceiling",
+     "value": "about SGD 2,000 a month for a room or studio"
+    },
+    {
+     "key": "cash",
+     "label": "Upfront cash",
+     "value": "",
+     "placeholder": "e.g. SGD 6,000 saved for deposit and moving"
+    },
+    {
+     "key": "commute",
+     "label": "Commute limit",
+     "value": "within about 35 minutes of one-north by MRT"
+    },
+    {
+     "key": "needs",
+     "label": "Bathroom, cooking and guest needs",
+     "value": "",
+     "placeholder": "e.g. own bathroom, can cook, occasional guests"
+    }
+   ],
+   "template": "Plan my first Singapore rental near {address} for {date}, with {pass}, {income}, {ceiling}, {cash}, {commute} and {needs}. Compare dated room adverts, separate rent/bills/deposit/duty/agent costs, flag approval and scam checks, and show a monthly budget. Plan only; do not contact, reserve or pay.",
+   "phases": [
+    {
+     "title": "Check current room listings and the official rental rules",
+     "note": "HDB and condo room adverts near one-north, plus HDB, IRAS and CEA rules",
+     "judgment": "It read the listing page itself rather than trusting the search result: one flat showed S$1,400 on its page against a stale S$1,500 in search, and another was tagged move-in ready but only free from 19 December 2026."
+    },
+    {
+     "title": "Build the practical guide and a dated source list",
+     "note": "Costs, deposit and duty examples, scam checks and the monthly budget",
+     "judgment": "Where sources disagreed it chose the official one. A general renting guide was set aside because its stamp-duty formula conflicts with IRAS. An older official explainer said the extra occupancy allowance ends in 2026, so it used newer HDB and URA notices that run to 2028."
+    },
+    {
+     "title": "Check the content, links and page layout, then deliver",
+     "judgment": "It said plainly what it could not find: no fresh self-contained studio was verified. The older S$2,200 studio is shown for comparison but left out of the recent-listing count, and commute times are labelled as estimates."
+    }
+   ],
+   "workers": [
+    "Found and opened HDB common-room and master-room listings near one-north, noting rent, lease terms and availability dates",
+    "Found and opened condo room and studio listings in Dover, Buona Vista and nearby areas, noting rent, whether bills are included, and gaps"
+   ],
+   "chipNames": {
+    "https://www.hdb.gov.sg/hdb-pulse/news/2026/extension-of-temporary-relaxation-of-occupancy-cap-for-rental-of-hdb-flats-and-private-residential": "HDB: extension of the occupancy-cap relaxation",
+    "https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-bedrooms/regulations": "HDB rules for renting out bedrooms",
+    "https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property": "IRAS: stamp duty on renting a property",
+    "https://www.cea.gov.sg/consumers/rental-scams/": "CEA: rental scams",
+    "https://www.cea.gov.sg/consumers/engaging-a-property-agent/check-if-your-property-agent-is-registered/": "CEA: check a property agent is registered",
+    "https://www.hdb.gov.sg/apply-manage-and-renew-rental-of-bedroom/terms-and-conditions": "HDB: bedroom rental terms and conditions",
+    "https://www.gov.sg/explainers/renting-out-your-hdb-flat/": "gov.sg: renting out your HDB flat"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你的工作地点、准证和预算上限，就能得到同样有日期的房源对比和月度预算",
+   "runTitle": "马来西亚工程师在新加坡 one-north 附近首次租房：月薪 7,000 新元，住房约 2,000 新元",
+   "fields": [
+    {
+     "key": "address",
+     "label": "工作地址",
+     "value": "one-north 一带"
+    },
+    {
+     "key": "date",
+     "label": "入住日期",
+     "value": "2027 年 3 月 1 日"
+    },
+    {
+     "key": "pass",
+     "label": "国籍、准证及签发时间",
+     "value": "来自马来西亚，持就业准证（Employment Pass）"
+    },
+    {
+     "key": "income",
+     "label": "收入",
+     "value": "每月 7,000 新元"
+    },
+    {
+     "key": "ceiling",
+     "label": "全包住房上限",
+     "value": "房间或单间公寓，每月约 2,000 新元"
+    },
+    {
+     "key": "cash",
+     "label": "前期现金",
+     "value": "",
+     "placeholder": "例如：存了 6,000 新元，用来付押金和搬家"
+    },
+    {
+     "key": "commute",
+     "label": "通勤上限",
+     "value": "地铁到 one-north 约 35 分钟以内"
+    },
+    {
+     "key": "needs",
+     "label": "卫浴、做饭和访客需求",
+     "value": "",
+     "placeholder": "例如：想要独立卫生间，能做饭，偶尔有朋友来"
+    }
+   ],
+   "template": "请帮我规划{date}起、{address}附近的首次新加坡租房：国籍、准证及签发时间{pass}，收入{income}，全包住房上限{ceiling}，前期现金{cash}，通勤上限{commute}，卫浴、做饭和访客需求{needs}。比较有日期的房间广告，分清租金、账单、押金、印花税及中介费，列出批准和防诈骗检查，并做每月预算。只做计划，不联系、不留房、不付款。",
+   "phases": [
+    {
+     "title": "查当前的房间房源和官方租房规则",
+     "note": "one-north 附近的组屋和公寓房间广告，以及 HDB、IRAS 和 CEA 的规定",
+     "judgment": "它没有只信搜索结果，而是点开房源页逐条核对：有一套在页面上是 1,400 新元，搜索结果里过时的价格却是 1,500；另一套标着“可立即入住”，实际要到 2026 年 12 月 19 日才空出来。"
+    },
+    {
+     "title": "写好实用指南，并列出带日期的来源",
+     "note": "费用、押金和印花税算例、防诈骗检查和每月预算",
+     "judgment": "来源之间不一致时，它以官方为准。一份通用租房指南因为印花税算法与 IRAS 不符被弃用；一份较早的官方说明写着放宽的入住人数限制 2026 年到期，它就改用 HDB 和 URA 较新的通知，有效期到 2028 年。"
+    },
+    {
+     "title": "检查内容、链接和页面显示，交付",
+     "judgment": "它如实写出没找到的东西：没能核实到近期有效的独立单间公寓。较早的 2,200 新元单间只作对照，不计入近期房源数量，通勤时间也都标成估算。"
+    }
+   ],
+   "workers": [
+    "找出并打开 one-north 附近的组屋普通房和主人房房源，记下租金、租期和可入住日期",
+    "找出并打开 Dover、Buona Vista 等附近的公寓房间和单间公寓房源，记下租金、是否含杂费以及缺口"
+   ],
+   "chipNames": {
+    "https://www.hdb.gov.sg/hdb-pulse/news/2026/extension-of-temporary-relaxation-of-occupancy-cap-for-rental-of-hdb-flats-and-private-residential": "HDB：放宽入住人数限制的延期通知",
+    "https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-bedrooms/regulations": "HDB 出租房间的规定",
+    "https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property": "IRAS：租赁房产的印花税",
+    "https://www.cea.gov.sg/consumers/rental-scams/": "CEA：租房诈骗提示",
+    "https://www.cea.gov.sg/consumers/engaging-a-property-agent/check-if-your-property-agent-is-registered/": "CEA：查询中介是否注册",
+    "https://www.hdb.gov.sg/apply-manage-and-renew-rental-of-bedroom/terms-and-conditions": "HDB：出租房间的条款与条件",
+    "https://www.gov.sg/explainers/renting-out-your-hdb-flat/": "gov.sg：出租组屋说明"
+   }
+  }
+ }
+}

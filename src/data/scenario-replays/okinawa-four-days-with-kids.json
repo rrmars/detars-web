@@ -1,0 +1,192 @@
+{
+ "slug": "okinawa-four-days-with-kids",
+ "startedAt": "2026-11-05",
+ "activeSec": 1231,
+ "stats": {
+  "searches": 39,
+  "pages": 46,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 722,
+   "chips": [
+    "https://www.ikyu.com/00031065/11757940/10304846/",
+    "https://www.ikyu.com/00001902/11677716/10297794/",
+    "https://visitokinawajapan.com/plan-your-trip/useful-information/typhoon-precautions-okinawa/",
+    "https://visitokinawajapan.com/discover/beach-information/tiger-beach/",
+    "https://churaumi.okinawa/en/guide/info/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 722,
+   "end": 1058,
+   "chips": [
+    "https://www.digital.go.jp/en/policies/visit_japan_web"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1058,
+   "end": 1182,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family and get the same gentle Okinawa plan, with typhoon and budget limits shown",
+   "runTitle": "Hong Kong to Okinawa: four July days with kids aged 5 and 9 on HKD 16,000",
+   "fields": [
+    {
+     "key": "ages",
+     "label": "Adults and children’s ages at travel",
+     "value": "Two adults and two children, aged 5 and 9"
+    },
+    {
+     "key": "passports",
+     "label": "Passport types",
+     "value": "Hong Kong SAR passports"
+    },
+    {
+     "key": "dates",
+     "label": "Dates and flight times",
+     "value": "Fly into Naha on Saturday 17 July 2027 and leave on Tuesday 20 July 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget with or without flights",
+     "value": "About HKD 16,000 for the family, flights not included"
+    },
+    {
+     "key": "rooms",
+     "label": "Room and bedding needs",
+     "value": "",
+     "placeholder": "e.g. one family room with two beds plus a sofa bed, or two connecting rooms"
+    },
+    {
+     "key": "driving",
+     "label": "Driving comfort",
+     "value": "Not too much driving"
+    }
+   ],
+   "template": "Plan a gentle Okinawa break for {ages}, {passports}, {dates}, {budget}, {rooms} and {driving}. Compare full family hotel quotes, car and bus options, a supervised beach and an aquarium day. Keep typhoon decisions, cancellation deadlines and an unspent reserve beside the costs. Separate dated samples from confirmed offers. Plan only; do not book, create accounts, contact anyone or pay.",
+   "phases": [
+    {
+     "title": "Check official sources on entry, driving permits, buses, beach safety, typhoons and aquarium prices, and note hotel prices with the date seen",
+     "note": "Entry and driving rules, airport buses, netted beaches, July typhoon advice, hotel “from” prices",
+     "judgment": "Hotel prices are labelled as samples, not quotes. The listings showed “from” prices for two adults with no dates and no children, and one hotel is changing its name and brand from 1 December 2026, so today’s sale price should not be carried into July 2027."
+    },
+    {
+     "title": "Write the day-by-day plan, entry guidance and source list",
+     "judgment": "A separate reviewer added up the budget again: ¥272,920 of spending plus a ¥47,080 reserve comes to ¥320,000, or HKD 16,000. It also caught that the plan pointed to a source list that did not exist yet, so one had to be supplied."
+    },
+    {
+     "title": "Check totals, files and how the page looks on desktop and phone"
+    }
+   ],
+   "workers": [
+    "Looked at public prices for west-coast family hotels, noting the date seen and what each price does and does not include",
+    "Read official guidance on netted and lifeguarded beaches, July typhoon advice and airport transport",
+    "Independently reviewed the finished plan: re-added the costs and spot-checked entry, driving, beach and aquarium claims"
+   ],
+   "chipNames": {
+    "https://www.ikyu.com/00031065/11757940/10304846/": "Rizzan Sea-Park Hotel Tancha Bay sample rate (Ikyu listing)",
+    "https://www.ikyu.com/00001902/11677716/10297794/": "Hotel Monterey Okinawa sample rate (Ikyu listing)",
+    "https://visitokinawajapan.com/plan-your-trip/useful-information/typhoon-precautions-okinawa/": "Okinawa tourism: typhoon precautions",
+    "https://visitokinawajapan.com/discover/beach-information/tiger-beach/": "Okinawa tourism: Tiger Beach",
+    "https://churaumi.okinawa/en/guide/info/": "Churaumi Aquarium: admission fees",
+    "https://www.digital.go.jp/en/policies/visit_japan_web": "Japan Digital Agency: Visit Japan Web"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你们家的情况，得到同样轻松的冲绳计划，并看到台风和预算的底线",
+   "runTitle": "从香港去冲绳：带 5 岁和 9 岁的孩子，7 月玩四天，预算 16,000 港元",
+   "fields": [
+    {
+     "key": "ages",
+     "label": "成人及孩子出行时年龄",
+     "value": "两位成人，两个孩子，分别 5 岁和 9 岁"
+    },
+    {
+     "key": "passports",
+     "label": "护照类别",
+     "value": "香港特区护照"
+    },
+    {
+     "key": "dates",
+     "label": "日期和航班时间",
+     "value": "2027 年 7 月 17 日（周六）飞抵那霸，7 月 20 日（周二）离开"
+    },
+    {
+     "key": "budget",
+     "label": "含或不含机票的预算",
+     "value": "全家约 16,000 港元，不含机票"
+    },
+    {
+     "key": "rooms",
+     "label": "房间及床位需求",
+     "value": "",
+     "placeholder": "例如：一间有两张床加沙发床的家庭房，或两间相连客房"
+    },
+    {
+     "key": "driving",
+     "label": "驾车接受程度",
+     "value": "不想开太多车"
+    }
+   ],
+   "template": "请为{ages}、{passports}、{dates}、{budget}、{rooms}及{driving}，安排轻松的冲绳假期。比较全家完整酒店报价、自驾和巴士方案、有看护海滩及水族馆日。把台风应对、取消截止时间和未动用预备金放在相关费用旁边，分清有日期的样本与已确认报价。只做规划，不预订、不开账户、不联系任何人、不付款。",
+   "phases": [
+    {
+     "title": "查证入境、驾照、巴士、海滩安全、台风和水族馆票价的官方来源，并记下酒店价格及查看日期",
+     "note": "入境和驾驶规定、机场巴士、有防水母网的海滩、7 月台风提示、酒店“起”价",
+     "judgment": "酒店价格都标明是样本，不是报价：页面上只是两位成人、没选日期、不含儿童的“起”价，而且有一家酒店将在 2026 年 12 月 1 日更名换品牌，所以现在的促销价不能直接当作 2027 年 7 月的价格。"
+    },
+    {
+     "title": "写出逐日行程、入境指引和来源清单",
+     "judgment": "另一位同事把预算重新加了一遍：花费 272,920 日元加预备金 47,080 日元，合计 320,000 日元，即 16,000 港元。他还发现行程里提到的来源清单当时还不存在，于是补上了。"
+    },
+    {
+     "title": "核对总额、文件，并检查电脑和手机上的显示效果"
+    }
+   ],
+   "workers": [
+    "查看西海岸家庭酒店的公开价格，记下查看日期，以及每个价格包含和不包含什么",
+    "读取有防水母网和救生员的海滩、7 月台风提示及机场交通的官方说明",
+    "独立复核成品计划：重新加总费用，并抽查入境、驾驶、海滩和水族馆的说法"
+   ],
+   "chipNames": {
+    "https://www.ikyu.com/00031065/11757940/10304846/": "Rizzan Sea-Park Hotel Tancha Bay 样本价（Ikyu 页面）",
+    "https://www.ikyu.com/00001902/11677716/10297794/": "Hotel Monterey 冲绳样本价（Ikyu 页面）",
+    "https://visitokinawajapan.com/plan-your-trip/useful-information/typhoon-precautions-okinawa/": "冲绳观光局：台风须知",
+    "https://visitokinawajapan.com/discover/beach-information/tiger-beach/": "冲绳观光局：Tiger Beach",
+    "https://churaumi.okinawa/en/guide/info/": "美之海水族馆：门票价格",
+    "https://www.digital.go.jp/en/policies/visit_japan_web": "日本数字厅：Visit Japan Web"
+   }
+  }
+ }
+}

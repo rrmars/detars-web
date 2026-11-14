@@ -1,0 +1,206 @@
+{
+ "slug": "berlin-blue-card-first-rental-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 2142,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 69,
+   "end": 900,
+   "chips": [
+    "https://service.berlin.de/dienstleistung/120686/",
+    "https://service.berlin.de/dienstleistung/324659/",
+    "https://www.gesetze-im-internet.de/bgb/__551.html",
+    "https://mietspiegel.berlin.de/berliner-mietspiegel/mietspiegelabfrage/",
+    "https://www.bmf-steuerrechner.de/interface/2026Version1.xhtml?code=LSt2026ext&LZZ=2&RE4=566667&STKL=1&KVZ=2.69&PVZ=1&KRV=0&PKV=0&PVS=0&ZKF=0&ALTER1=0&AF=0&f=1&R=0&LZZFREIB=0&LZZHINZU=0"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 900,
+   "end": 1850,
+   "chips": [
+    "https://mietspiegel.berlin.de/wp-content/uploads/2026/05/mietspiegel2026.pdf"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1850,
+   "end": 2000,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own start date, pay and cash and get a Berlin landing budget with the rental checks done",
+   "runTitle": "Brazil to Berlin on a Blue Card: EUR 68,000 gross, starting work on 1 March 2027",
+   "fields": [
+    {
+     "key": "status",
+     "label": "Nationality and current visa or work permission",
+     "value": "Brazilian; signed Berlin job offer on an EU Blue Card route"
+    },
+    {
+     "key": "dates",
+     "label": "Arrival and work-start dates",
+     "value": "Starts work 1 March 2027; arriving about 3 weeks earlier, alone"
+    },
+    {
+     "key": "pay",
+     "label": "Gross pay, tax and insurance assumptions, confirmed payday",
+     "value": "EUR 68,000 gross a year; tax class I"
+    },
+    {
+     "key": "cash",
+     "label": "Liquid cash",
+     "value": "",
+     "placeholder": "e.g. EUR 12,000 in savings"
+    },
+    {
+     "key": "commute",
+     "label": "Workplace and commute limit",
+     "value": "",
+     "placeholder": "e.g. office in Mitte, no more than 40 minutes each way"
+    },
+    {
+     "key": "quotes",
+     "label": "Written rental quotes, fees and payment dates",
+     "value": "",
+     "placeholder": "e.g. a furnished room at EUR 1,100 a month, deposit due on signing"
+    }
+   ],
+   "template": "Help me plan my Berlin move using {status}, {dates}, {pay}, {cash}, {commute} and {quotes}. Separate landing cash from permanent-move cash, check registration support, flag missing costs and compare a salary-delay case. Ask before contacting anyone, booking or sharing my documents.",
+   "phases": [
+    {
+     "title": "Read the official registration, rental and payroll rules and gather dated housing examples",
+     "note": "Registration order, Blue Card work rights, deposit rules, rent index, furnished and long-term listings",
+     "judgment": "It would not turn thin evidence into price ranges. The eight furnished examples all come from one platform, and the long-term listings across five areas are labelled partial, not reliable neighbourhood ranges. Two deleted ads are marked as historical."
+    },
+    {
+     "title": "Build the guide, with the net-pay calculation, cash budget and source list",
+     "note": "Registration order, week-by-week plan, 2026 net pay, landing cash",
+     "judgment": "The independent colleague confirmed the arithmetic (EUR 3,468.96 net a month under 2026 rules), then spotted a hidden assumption: the EUR 8,990 landing cash counts only two rent payments before payday. A third prepaid payment lifts the model to EUR 10,790."
+    },
+    {
+     "title": "Final recheck of the numbers, plus desktop and phone layout tests"
+    }
+   ],
+   "workers": [
+    "Read official Berlin and German pages on address registration, work rights on arrival and renter protections",
+    "Collected dated listings for long-term 1- and 2-room flats and checked the official 2026 rent index",
+    "Collected eight dated furnished short-stay listings with monthly rent and each one’s registration policy",
+    "Recomputed net pay, the cash budget and the deposit sums on its own, and checked the guide’s claims against the sources"
+   ],
+   "chipNames": {
+    "https://service.berlin.de/dienstleistung/120686/": "Berlin: registering your address",
+    "https://service.berlin.de/dienstleistung/324659/": "Berlin: EU Blue Card service",
+    "https://www.gesetze-im-internet.de/bgb/__551.html": "Civil Code §551: rental deposit",
+    "https://mietspiegel.berlin.de/berliner-mietspiegel/mietspiegelabfrage/": "Berlin official rent index query (2026)",
+    "https://www.bmf-steuerrechner.de/interface/2026Version1.xhtml?code=LSt2026ext&LZZ=2&RE4=566667&STKL=1&KVZ=2.69&PVZ=1&KRV=0&PKV=0&PVS=0&ZKF=0&ALTER1=0&AF=0&f=1&R=0&LZZFREIB=0&LZZHINZU=0": "Federal Finance Ministry 2026 payroll tax calculator",
+    "https://mietspiegel.berlin.de/wp-content/uploads/2026/05/mietspiegel2026.pdf": "Berlin official rent index 2026 (PDF)"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的入职日期、薪资和现金，拿到一份做完租房核查的柏林落地预算",
+   "runTitle": "从巴西到柏林，持蓝卡入职：税前年薪 6.8 万欧元，2027 年 3 月 1 日上班",
+   "fields": [
+    {
+     "key": "status",
+     "label": "国籍和现有签证工作许可",
+     "value": "巴西籍；已拿到柏林工作录用，走欧盟蓝卡路径"
+    },
+    {
+     "key": "dates",
+     "label": "抵达及入职日期",
+     "value": "2027 年 3 月 1 日入职；提前约 3 周、独自抵达"
+    },
+    {
+     "key": "pay",
+     "label": "税前年薪、税务保险假设和已确认发薪日",
+     "value": "税前年薪 6.8 万欧元；税务一类"
+    },
+    {
+     "key": "cash",
+     "label": "可用现金",
+     "value": "",
+     "placeholder": "例如：1.2 万欧元存款"
+    },
+    {
+     "key": "commute",
+     "label": "工作地点和通勤上限",
+     "value": "",
+     "placeholder": "例如：公司在 Mitte，单程通勤不超过 40 分钟"
+    },
+    {
+     "key": "quotes",
+     "label": "书面租房报价、费用和付款日",
+     "value": "",
+     "placeholder": "例如：带家具单间月租 1,100 欧元，签约时付押金"
+    }
+   ],
+   "template": "请根据{status}、{dates}、{pay}、{cash}、{commute}以及{quotes}，帮我规划柏林搬迁。分开计算落地和长期搬家现金，检查住址登记支持，标出遗漏费用，并比较工资延迟情形。联系任何人、预订或分享文件前先征求我同意。",
+   "phases": [
+    {
+     "title": "阅读官方登记、租房和工资税规则，收集标日期的租房例子",
+     "note": "登记顺序、蓝卡工作权利、押金规则、租金指数、短租与长租房源",
+     "judgment": "证据单薄时，它没有硬凑价格区间。8 个带家具的例子都来自同一个平台，五个区域的长租房源只标为“部分”，不当作可靠的区域行情；两条已删除的广告也标明是历史信息。"
+    },
+    {
+     "title": "写出指南，附税后工资计算、现金预算和来源清单",
+     "note": "登记顺序、逐周清单、2026 年税后工资、落地现金",
+     "judgment": "独立复核的同事确认了算术（按 2026 年规则，税后月薪 3,468.96 欧元），又发现一个隐含假设：8,990 欧元落地现金只算了发薪前的两期房租。若再预付第三期，模型会升到 10,790 欧元。"
+    },
+    {
+     "title": "最后复算数字，并测试桌面和手机版式"
+    }
+   ],
+   "workers": [
+    "阅读柏林和德国官方页面：住址登记、抵达后的工作权利、租客保护",
+    "收集标日期的长租一居、两居房源，并核对 2026 年官方租金指数",
+    "收集 8 个标日期的带家具短租房源，记下月租和各自的住址登记政策",
+    "独立重算税后工资、现金预算和押金，并对照来源核查指南里的说法"
+   ],
+   "chipNames": {
+    "https://service.berlin.de/dienstleistung/120686/": "柏林官方：住址登记",
+    "https://service.berlin.de/dienstleistung/324659/": "柏林官方：欧盟蓝卡服务",
+    "https://www.gesetze-im-internet.de/bgb/__551.html": "《民法典》第 551 条：租房押金",
+    "https://mietspiegel.berlin.de/berliner-mietspiegel/mietspiegelabfrage/": "柏林官方租金指数查询（2026）",
+    "https://www.bmf-steuerrechner.de/interface/2026Version1.xhtml?code=LSt2026ext&LZZ=2&RE4=566667&STKL=1&KVZ=2.69&PVZ=1&KRV=0&PKV=0&PVS=0&ZKF=0&ALTER1=0&AF=0&f=1&R=0&LZZFREIB=0&LZZHINZU=0": "联邦财政部 2026 年工资税计算器",
+    "https://mietspiegel.berlin.de/wp-content/uploads/2026/05/mietspiegel2026.pdf": "柏林官方租金指数 2026（PDF）"
+   }
+  }
+ }
+}

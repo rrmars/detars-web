@@ -1,0 +1,192 @@
+{
+ "slug": "bangkok-vs-sydney-dental-implant",
+ "startedAt": "2026-11-06",
+ "activeSec": 1494,
+ "stats": {
+  "searches": 27,
+  "pages": 18,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 22,
+   "end": 497,
+   "chips": [
+    "https://bangkokdentalcenter.com/fees/dental-implant-fees/",
+    "https://dentalhospitalthailand.com/dental-prices/",
+    "https://www.smartraveller.gov.au/travel-essentials/travel-health/medical-tourism",
+    "https://teeth.org.au/overseas-dental-holidays",
+    "https://www.bupa.com.au/health-insurance/understanding-your-health-cover/understanding-your-extras-cover"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 497,
+   "end": 859,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 859,
+   "end": 1527,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own tooth and quotes, and get the same Sydney-versus-Bangkok cost check",
+   "runTitle": "Sydney to Bangkok: one lower-molar implant, about AUD 6,500 quoted at home, travel possible in March 2027",
+   "fields": [
+    {
+     "key": "tooth",
+     "label": "Missing tooth and clinical plan",
+     "value": "Lower molar, already extracted; bone looked OK on the last X-ray; one single-tooth implant"
+    },
+    {
+     "key": "quotes",
+     "label": "Itemised local and overseas quotes",
+     "value": "Sydney dentist quote of about AUD 6,500"
+    },
+    {
+     "key": "stages",
+     "label": "Actual stage dates and travel costs",
+     "value": "Could travel in March 2027"
+    },
+    {
+     "key": "fund",
+     "label": "Written fund benefits",
+     "value": "Private extras cover with a typical annual dental limit"
+    },
+    {
+     "key": "timeoff",
+     "label": "Time-off value",
+     "value": "",
+     "placeholder": "e.g. 5 working days off at AUD 300 a day"
+    },
+    {
+     "key": "warranty",
+     "label": "Local follow-up and warranty terms",
+     "value": "",
+     "placeholder": "e.g. 5-year warranty on the implant, free checks in Bangkok only"
+    }
+   ],
+   "template": "Compare Sydney care and Bangkok treatment for {tooth}, using {quotes}, {stages}, {fund}, {timeoff} and {warranty}. Show cash, extra-trip exposure and missing costs. Ask before contacting clinics, submitting forms or sharing records.",
+   "phases": [
+    {
+     "title": "Read published clinic prices and Australian guidance from public sources",
+     "note": "Bangkok clinic price pages, Australian official advice on dental tourism, health fund rules",
+     "judgment": "It did not take the cheapest-looking numbers at face value. Two clinics’ package prices expire on 30 November 2026, so none is confirmed for March 2027, and an older 49,000-baht entry on one price page was not used as the headline price."
+    },
+    {
+     "title": "Build the cost scenarios and the decision guide",
+     "note": "Sydney versus one Bangkok trip, two trips and a longer stay, with assumptions labelled"
+    },
+    {
+     "title": "Independent check of the arithmetic and of how the guide looks on desktop and phone",
+     "judgment": "The independent check recomputed all figures (every currency conversion, stage total and rebate matched) and still found one thing to fix: a clinic’s 80,000 and 85,000 baht prices were shown against two named implant systems, but the source only gives a range, so it asked for the row to be shown as a range."
+    }
+   ],
+   "workers": [
+    "Read Australian official advice on dental tourism, implant risks and timing, and whether Australian health funds pay for treatment overseas",
+    "Found published single-implant prices at four Bangkok clinics, noting the implant brand, what each price includes, how long it is valid and the warranty",
+    "Recomputed every figure on its own from the written inputs, without using the first draft’s calculations, and checked the guide’s claims against the source notes"
+   ],
+   "chipNames": {
+    "https://bangkokdentalcenter.com/fees/dental-implant-fees/": "Bangkok International Dental Center: implant fees",
+    "https://dentalhospitalthailand.com/dental-prices/": "Bangkok International Dental Hospital: price list",
+    "https://www.smartraveller.gov.au/travel-essentials/travel-health/medical-tourism": "Smartraveller: medical tourism advice",
+    "https://teeth.org.au/overseas-dental-holidays": "Australian Dental Association: dental holidays overseas",
+    "https://www.bupa.com.au/health-insurance/understanding-your-health-cover/understanding-your-extras-cover": "Bupa: how extras cover limits work"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的牙位和报价，就能得到同样的悉尼对比曼谷费用核查",
+   "runTitle": "悉尼到曼谷：一颗下颌磨牙的种植牙，本地报价约 6,500 澳元，2027 年 3 月可出行",
+   "fields": [
+    {
+     "key": "tooth",
+     "label": "缺牙位置及临床方案",
+     "value": "下颌磨牙，已拔除；上次X光显示骨量尚可；单颗种植牙"
+    },
+    {
+     "key": "quotes",
+     "label": "本地和海外分项报价",
+     "value": "悉尼牙医报价约 6,500 澳元"
+    },
+    {
+     "key": "stages",
+     "label": "实际阶段日期及旅费",
+     "value": "2027 年 3 月可以出行"
+    },
+    {
+     "key": "fund",
+     "label": "书面保险给付",
+     "value": "有私人附加险，牙科年度限额为常见水平"
+    },
+    {
+     "key": "timeoff",
+     "label": "请假价值",
+     "value": "",
+     "placeholder": "例如：请 5 个工作日假，每天按 300 澳元计"
+    },
+    {
+     "key": "warranty",
+     "label": "本地跟进和保修条款",
+     "value": "",
+     "placeholder": "例如：种植体保修 5 年，只能在曼谷免费复查"
+    }
+   ],
+   "template": "请比较悉尼治疗和曼谷种牙：{tooth}、{quotes}、{stages}、{fund}、{timeoff}及{warranty}。列出现金、额外返程风险和缺失费用。联系诊所、填表或分享病历前先征求我同意。",
+   "phases": [
+    {
+     "title": "从公开资料查清诊所公布价格和澳洲官方提示",
+     "note": "曼谷诊所价目页、澳洲官方的海外牙科提示、保险公司条款",
+     "judgment": "它没有照搬看起来最便宜的数字：两家诊所的套餐价 2026 年 11 月 30 日到期，所以没有一个价格能确认到 2027 年 3 月；某价目页上一条较早的 49,000 泰铢旧价也没有被当作主打价格。"
+    },
+    {
+     "title": "搭建费用情景和决策指南",
+     "note": "悉尼、曼谷往返一次、两次和长住的对比，假设都标明"
+    },
+    {
+     "title": "独立核对计算，并检查电脑和手机上的页面效果",
+     "judgment": "独立复核把所有数字重算了一遍（每个汇率换算、阶段合计和返还都对得上），还是挑出一处要改：某诊所的 80,000 和 85,000 泰铢被对应到两种植体系统，但来源只给了一个区间，于是要求改成区间显示。"
+    }
+   ],
+   "workers": [
+    "查阅澳洲官方对海外牙科的提示、种植牙风险和疗程时间，以及澳洲健康险是否赔付海外治疗",
+    "查到四家曼谷诊所公布的单颗种植牙价格，并记下品牌、报价含哪些项目、有效期和保修",
+    "不用初稿的计算，从书面输入独立重算每个数字，并对照来源笔记核对指南里的说法"
+   ],
+   "chipNames": {
+    "https://bangkokdentalcenter.com/fees/dental-implant-fees/": "曼谷国际牙科中心:种植牙收费",
+    "https://dentalhospitalthailand.com/dental-prices/": "曼谷国际牙科医院:价目表",
+    "https://www.smartraveller.gov.au/travel-essentials/travel-health/medical-tourism": "Smartraveller:海外就医提示",
+    "https://teeth.org.au/overseas-dental-holidays": "澳洲牙科协会:海外牙科度假提示",
+    "https://www.bupa.com.au/health-insurance/understanding-your-health-cover/understanding-your-extras-cover": "Bupa:附加险限额说明"
+   }
+  }
+ }
+}

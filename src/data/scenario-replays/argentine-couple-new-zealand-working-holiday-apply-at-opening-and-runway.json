@@ -1,0 +1,120 @@
+{
+ "slug": "argentine-couple-new-zealand-working-holiday-apply-at-opening-and-runway",
+ "startedAt": "2026-11-07",
+ "activeSec": 856,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 416,
+   "chips": [
+    "https://www.immigration.govt.nz/visas/argentina-working-holiday-visa/",
+    "https://www.immigration.govt.nz/about-us/news-centre/2026-opening-dates-for-capped-working-holiday-schemes-confirmed/",
+    "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types",
+    "https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir300---ir399/ir340/ir340-apr-2026.pdf",
+    "https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 416,
+   "end": 441,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 441,
+   "end": 856,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own plan and get the same working-holiday runway check before you apply",
+   "runTitle": "Argentine couple on a 12-month New Zealand working holiday with USD 9,000",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Home country",
+     "value": "Argentina"
+    },
+    {
+     "key": "people",
+     "label": "Number of people",
+     "value": "2"
+    },
+    {
+     "key": "start",
+     "label": "Start month and year",
+     "value": "September 2027"
+    },
+    {
+     "key": "ages",
+     "label": "Ages",
+     "value": "27 and 26"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and currency",
+     "value": "USD 9,000"
+    },
+    {
+     "key": "work",
+     "label": "Kind of work",
+     "value": "Hospitality and seasonal work"
+    },
+    {
+     "key": "cities",
+     "label": "Cities or regions for the first weeks",
+     "value": "Auckland, Wellington, Christchurch and Queenstown"
+    }
+   ],
+   "template": "Help me plan a New Zealand working holiday from {country} for {people} people starting around {start}. We are aged {ages}, have {savings} and plan to work in {work}. Check the opening date and quota, whether each of us needs our own application, the fees and the funds rule, then rebuild the pay example and the runway table with my own flight price, rent and hours. Compare {cities} for the first weeks, and mark anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official visa, wage, tax and rental pages and gather dated room-rent examples and the seasonal work calendar",
+     "note": "Visa rules and fees, pay and tax example, rents in four cities, harvest timing",
+     "judgment": "When an official source could not be reached it said so: the Reserve Bank’s exchange-rate page returned an error, so the rate of 0.55434 US dollars per NZ dollar (6 November 2026) comes from a data service and is labelled as secondary. It also noted that Wellington’s room median rests on only 21 rental bonds."
+    },
+    {
+     "title": "Write the guide, the source list and the calculation scripts"
+    },
+    {
+     "title": "Recompute every money figure, check the claims against the source list and test the page on desktop and phone",
+     "judgment": "The final check passed on the recomputed money figures, and the guide still lists what it could not confirm: the 2027 opening date, whether the NZ$4,200 funds proof is per person, and that the plan is about USD 741 short if that proof must stay in the account."
+    }
+   ],
+   "workers": [
+    "Collected dated room-rent examples in four cities and the month-by-month seasonal work calendar",
+    "Looked up exchange rates, health-insurance cover, the tax number and bank steps, tax rates and a worked weekly pay example"
+   ],
+   "chipNames": {
+    "https://www.immigration.govt.nz/visas/argentina-working-holiday-visa/": "Immigration New Zealand: Argentina working holiday visa",
+    "https://www.immigration.govt.nz/about-us/news-centre/2026-opening-dates-for-capped-working-holiday-schemes-confirmed/": "Immigration New Zealand: 2026 opening dates for capped schemes",
+    "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types": "Employment New Zealand: minimum wage rates",
+    "https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir300---ir399/ir340/ir340-apr-2026.pdf": "Inland Revenue: PAYE tax tables from April 2026",
+    "https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/": "Tenancy Services: market rent by suburb"
+   }
+  }
+ }
+}

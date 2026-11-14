@@ -1,0 +1,246 @@
+{
+ "slug": "best-laptop-us-college-student-under-1300",
+ "startedAt": "2026-11-05",
+ "activeSec": 2371,
+ "stats": {
+  "searches": 64,
+  "pages": 47,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 50,
+   "end": 1496,
+   "chips": [
+    "https://www.compreq.vt.edu/specs/computer-science.html",
+    "https://cse.umn.edu/college/future-students/laptop-recommendations-cse-students",
+    "https://www.apple.com/us-edu/shop/browse/open/salespolicies/edu",
+    "https://www.apple.com/shop/product/fdvq4ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue",
+    "https://www.rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1496,
+   "end": 2063,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2063,
+   "end": 2233,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own school, budget and priorities to get the same checked-price laptop comparison",
+   "runTitle": "A US computer-science freshman, a $1,300 budget: Mac and Windows laptops compared on real retailer pages",
+   "fields": [
+    {
+     "key": "place",
+     "label": "Country, state or ZIP",
+     "value": "United States"
+    },
+    {
+     "key": "when",
+     "label": "Purchase deadline",
+     "value": "within the next couple of months"
+    },
+    {
+     "key": "school",
+     "label": "College, major and start date",
+     "value": "computer science major, starting fall 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency",
+     "value": "up to about USD 1,300"
+    },
+    {
+     "key": "taxIncl",
+     "label": "Whether the budget includes tax, shipping, accessories and warranty",
+     "value": "",
+     "placeholder": "e.g. including tax and shipping, no accessories"
+    },
+    {
+     "key": "eligibility",
+     "label": "Enrollment status and discount eligibility",
+     "value": "",
+     "placeholder": "e.g. admitted, enrollment deposit paid, student ID not yet issued"
+    },
+    {
+     "key": "refurb",
+     "label": "Is refurbished or open-box acceptable?",
+     "value": "",
+     "placeholder": "e.g. refurbished from the manufacturer is fine, open-box is not"
+    },
+    {
+     "key": "requirements",
+     "label": "Official course requirements, software versions and VM-image architecture",
+     "value": "",
+     "placeholder": "e.g. department asks for 16 GB of memory and x86 virtual machine images"
+    },
+    {
+     "key": "workload",
+     "label": "Daily workload: tools, tabs, virtual machines and editing",
+     "value": "some video editing as a hobby"
+    },
+    {
+     "key": "priorities",
+     "label": "What you care about most",
+     "value": "battery life, a decent screen, light enough to carry around campus, lasting 4 years"
+    }
+   ],
+   "template": "Help me choose a laptop in {place} by {when} for {school}. My budget is {budget}, {taxIncl} tax, shipping, accessories and warranty; my enrollment and discount eligibility are {eligibility}, and refurbished/open-box is {refurb}. Use {requirements}, {workload} and my priorities {priorities}. Compare buyable options and their full costs, check compatibility and flag what I should confirm before paying.",
+   "phases": [
+    {
+     "title": "Check live prices, student discounts and reviews on real retailer pages",
+     "note": "Mac, Windows x86 and Windows ARM options, with the school’s own laptop guidance",
+     "judgment": "It corrected the student discount before it reached you: Apple’s current education price for the exact 13-inch Air is $1,199, not the older $999 figure, and a student who has not yet been accepted or enrolled does not qualify just by planning to start in fall 2027."
+    },
+    {
+     "title": "Weigh the options and build the comparison page and spreadsheet",
+     "note": "Shortlist of three, with the models to avoid",
+     "judgment": "A separate reviewer re-opened the key retailer pages and confirmed the $1,199 and $1,269 offers. It could not reproduce one owner-review story in its own sample and asked for the tax caveat to appear earlier, while finding nothing that changed the ranking."
+    },
+    {
+     "title": "Check the files and save them to your folder",
+     "judgment": "It flagged what could break the budget: if your $1,300 includes tax, the near-cap Macs may exceed it, and if you do not need the laptop right away it suggests waiting until closer to summer 2027."
+    }
+   ],
+   "workers": [
+    "Checked Mac prices, configurations and stock at Apple and other retailers, plus whether a future student qualifies for the education price",
+    "Checked Windows 14-inch laptops with Intel and AMD chips at US retailers: exact configurations, price and availability",
+    "Checked up to two Windows laptops with Arm chips, such as Surface Laptop and Zenbook A14, for price, specs and owner feedback",
+    "Independently re-read the findings and re-opened key retailer pages to look for contradictions and claims that were not backed up"
+   ],
+   "chipNames": {
+    "https://www.compreq.vt.edu/specs/computer-science.html": "Virginia Tech computer science laptop requirements",
+    "https://cse.umn.edu/college/future-students/laptop-recommendations-cse-students": "University of Minnesota laptop advice for CS students",
+    "https://www.apple.com/us-edu/shop/browse/open/salespolicies/edu": "Apple education store sales policy",
+    "https://www.apple.com/shop/product/fdvq4ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue": "Apple refurbished 15-inch MacBook Air (M5)",
+    "https://www.rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026": "RTINGS review of the 13-inch MacBook Air (M5)"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的学校、预算和需求，得到同样核对过价格的笔记本对比",
+   "runTitle": "美国计算机专业新生，预算 1,300 美元：在真实零售页上比较 Mac 和 Windows 笔记本",
+   "fields": [
+    {
+     "key": "place",
+     "label": "国家、州或邮编",
+     "value": "美国"
+    },
+    {
+     "key": "when",
+     "label": "购买期限",
+     "value": "未来一两个月内"
+    },
+    {
+     "key": "school",
+     "label": "大学、专业和入学日期",
+     "value": "计算机专业，2027 年秋季入学"
+    },
+    {
+     "key": "budget",
+     "label": "预算和币种",
+     "value": "约 1,300 美元以内"
+    },
+    {
+     "key": "taxIncl",
+     "label": "预算是否包含税、运费、配件和保修",
+     "value": "",
+     "placeholder": "例如：含税和运费，不含配件"
+    },
+    {
+     "key": "eligibility",
+     "label": "录取或在读状态，以及优惠资格",
+     "value": "",
+     "placeholder": "例如：已被录取、已交押金，学生证还没发"
+    },
+    {
+     "key": "refurb",
+     "label": "能否接受翻新或开箱机",
+     "value": "",
+     "placeholder": "例如：官方翻新可以，开箱机不行"
+    },
+    {
+     "key": "requirements",
+     "label": "院系官方要求、软件版本和虚拟机镜像架构",
+     "value": "",
+     "placeholder": "例如：院系要求 16GB 内存、x86 虚拟机镜像"
+    },
+    {
+     "key": "workload",
+     "label": "日常使用：开多少软件和标签页、虚拟机、剪辑",
+     "value": "业余做一些视频剪辑"
+    },
+    {
+     "key": "priorities",
+     "label": "最看重的方面",
+     "value": "续航、屏幕够好、方便在校园带着走、能用满 4 年"
+    }
+   ],
+   "template": "请帮我在{place}、{when}前选电脑，用于{school}。预算{budget}，{taxIncl}税、运费、配件和保修；录取或在读及优惠资格是{eligibility}，翻新或开箱机{refurb}。请按{requirements}、{workload}，以及我看重的{priorities}比较可买选项，算清总费用，检查兼容性，告诉我付钱前还要确认什么。",
+   "phases": [
+    {
+     "title": "在真实零售页核对现价、学生优惠和评测",
+     "note": "Mac、Windows x86 和 Windows ARM 三类选项，另看学校自己的选机建议",
+     "judgment": "它在结论交给你之前纠正了学生优惠：苹果这款 13 英寸 Air 现在的教育优惠价是 1,199 美元，不是早先的 999 美元；还没被录取或注册的学生，不能只凭计划 2027 年秋季入学就享受优惠。"
+    },
+    {
+     "title": "权衡选项，生成对比网页和表格",
+     "note": "三款入围机型，外加建议避开的机型",
+     "judgment": "一位独立复核的同事重新打开了关键零售页，确认 1,199 美元和 1,269 美元两个报价属实；它在自己的抽样里没能复现其中一条用户评价，也建议把税费提示提前，但没发现会改变排序的问题。"
+    },
+    {
+     "title": "检查文件，存到你指定的文件夹",
+     "judgment": "它指出了可能让预算失守的地方：如果你的 1,300 美元含税，接近上限的 Mac 可能超支；如果不急着用，建议等到更接近 2027 年夏天再买。"
+    }
+   ],
+   "workers": [
+    "核对苹果和其他零售商的 Mac 价格、配置和库存，并确认未入学的学生能否享受教育优惠",
+    "核对美国零售商的 Intel 和 AMD 平台 14 英寸 Windows 笔记本：具体配置、价格和是否有货",
+    "核对至多两款 Arm 芯片的 Windows 笔记本（如 Surface Laptop、Zenbook A14）的价格、规格和用户反馈",
+    "独立重读前面的调研结果，并重新打开关键零售页，找出互相矛盾或缺乏依据的说法"
+   ],
+   "chipNames": {
+    "https://www.compreq.vt.edu/specs/computer-science.html": "弗吉尼亚理工大学计算机专业笔记本要求",
+    "https://cse.umn.edu/college/future-students/laptop-recommendations-cse-students": "明尼苏达大学给计算机专业学生的选机建议",
+    "https://www.apple.com/us-edu/shop/browse/open/salespolicies/edu": "苹果教育商店销售政策",
+    "https://www.apple.com/shop/product/fdvq4ll/a/Refurbished-15-inch-MacBook-Air-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue": "苹果官方翻新 15 英寸 MacBook Air（M5）",
+    "https://www.rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026": "RTINGS 对 13 英寸 MacBook Air（M5）的评测"
+   }
+  }
+ }
+}

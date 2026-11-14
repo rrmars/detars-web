@@ -1,0 +1,245 @@
+{
+ "slug": "etsy-candle-pricing-after-labour",
+ "startedAt": "2026-11-05",
+ "activeSec": 2192,
+ "stats": {
+  "searches": 29,
+  "pages": 58,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 43,
+   "end": 538,
+   "chips": [
+    "https://pe.usps.com/text/DMM300/Notice123.htm",
+    "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/documents/Small_Business_Tax_Guide_2026.pdf",
+    "https://www.etsy.com/legal/fees/",
+    "https://www.candlescience.com/wax/golden-brands-464-soy-wax/",
+    "https://flushpackaging.com/products/studio-tumbler-shipping-box"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 538,
+   "end": 1438,
+   "chips": [
+    "https://help.etsy.com/hc/en-us/articles/115014483627-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy",
+    "https://help.etsy.com/hc/en-us/articles/360000338367-How-Etsy-s-Offsite-Ads-Work",
+    "https://help.etsy.com/hc/en-us/articles/360000343968-How-US-State-Sales-Tax-and-Fees-Applies-to-Etsy-Orders",
+    "https://about.usps.com/newsroom/national-releases/2026/0825-usps-announces-temporary-price-change-for-2026-holiday-shipping-season.htm"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1438,
+   "end": 2113,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own candle and get the same price-after-labour breakdown",
+   "runTitle": "An Ohio hobbyist’s soy candles on Etsy from January 2027: what is left after labour, fees and postage",
+   "fields": [
+    {
+     "key": "location",
+     "label": "Location and launch date",
+     "value": "Ohio, selling from January 2027"
+    },
+    {
+     "key": "recipe",
+     "label": "Net fill and ingredients",
+     "value": "Handmade soy candles"
+    },
+    {
+     "key": "supplier",
+     "label": "Supplier prices and freight",
+     "value": "",
+     "placeholder": "e.g. wax, jars and wicks from one supplier, freight $9 per order"
+    },
+    {
+     "key": "labour",
+     "label": "Active minutes and hourly pay",
+     "value": "",
+     "placeholder": "e.g. 45 minutes of hands-on work per candle, paying myself $15 an hour"
+    },
+    {
+     "key": "parcel",
+     "label": "Packed weight and parcel size",
+     "value": "",
+     "placeholder": "e.g. 1.5 lb in a 6 x 6 x 6 in box"
+    },
+    {
+     "key": "shipping",
+     "label": "Destination and shipping quote",
+     "value": "USPS Ground Advantage, shipped within the US"
+    },
+    {
+     "key": "fees",
+     "label": "Fees and ad mix",
+     "value": "",
+     "placeholder": "e.g. 15% of sales through Etsy ads"
+    },
+    {
+     "key": "fixed",
+     "label": "Fixed and startup costs",
+     "value": "",
+     "placeholder": "e.g. $300 for tools and a first batch"
+    },
+    {
+     "key": "goals",
+     "label": "Sales and income targets",
+     "value": "",
+     "placeholder": "e.g. $400 a month for myself"
+    }
+   ],
+   "template": "Help me price an Etsy candle for {location}, using {recipe}, {supplier}, {labour}, {parcel}, {shipping}, {fees}, {fixed} and {goals}. Show what remains after labour, cash needed upfront, shipping and ad stress cases, and what I should confirm before selling. Plan only; do not buy, contact sellers or publish.",
+   "phases": [
+    {
+     "title": "Check current prices from candle suppliers, Etsy’s fee page, USPS postage and Ohio tax guidance",
+     "note": "Supplies, fees, postage and sales tax",
+     "judgment": "It would not call a price confirmed when it was not: a shipping box was marked as an unverified pack size, and the wick as a stand-in price until it is burn-tested."
+    },
+    {
+     "title": "Build an editable pricing workbook with a one-page guide and a source list",
+     "note": "Costs, fees, three price points and monthly break-even; competitor listings gathered alongside",
+     "judgment": "A colleague pulled back its own competitor prices after finding they had no real backing: zero fully verified comparables on the first pass, so it re-read the listings and reported only what it could see."
+    },
+    {
+     "title": "Recalculate everything and check the files before handing over",
+     "judgment": "The summary states the limit up front: competitor prices are observations from public listings, not eight confirmed offers of the same size, and postage must be re-checked for January."
+    }
+   ],
+   "workers": [
+    "Looked up current supplier prices for wax, wicks, fragrance, jars, labels and shipping boxes",
+    "Read public Etsy candle listings for a competitor price scan, then corrected its own first draft",
+    "Checked the calculator’s formulas on their own and caught a false “needs more hours” warning when labour time is zero"
+   ],
+   "chipNames": {
+    "https://pe.usps.com/text/DMM300/Notice123.htm": "USPS price notice for shipping",
+    "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/documents/Small_Business_Tax_Guide_2026.pdf": "Ohio small-business tax guide 2026",
+    "https://www.etsy.com/legal/fees/": "Etsy fees page",
+    "https://www.candlescience.com/wax/golden-brands-464-soy-wax/": "CandleScience soy wax listing",
+    "https://flushpackaging.com/products/studio-tumbler-shipping-box": "Flush Packaging shipping box",
+    "https://help.etsy.com/hc/en-us/articles/115014483627-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy": "Etsy help: fees and taxes",
+    "https://help.etsy.com/hc/en-us/articles/360000338367-How-Etsy-s-Offsite-Ads-Work": "Etsy help: how Offsite Ads work",
+    "https://help.etsy.com/hc/en-us/articles/360000343968-How-US-State-Sales-Tax-and-Fees-Applies-to-Etsy-Orders": "Etsy help: US sales tax and fees",
+    "https://about.usps.com/newsroom/national-releases/2026/0825-usps-announces-temporary-price-change-for-2026-holiday-shipping-season.htm": "USPS 2026 holiday price change"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的蜡烛，得到同样的“付完人工还剩多少”核算",
+   "runTitle": "俄亥俄州手作爱好者 2027 年 1 月在 Etsy 卖大豆蜡烛：扣掉人工、平台费和邮费后还剩多少",
+   "fields": [
+    {
+     "key": "location",
+     "label": "地点和开售日期",
+     "value": "俄亥俄州，2027 年 1 月开卖"
+    },
+    {
+     "key": "recipe",
+     "label": "净装量和配方",
+     "value": "手工大豆蜡烛"
+    },
+    {
+     "key": "supplier",
+     "label": "供应商价格及运费",
+     "value": "",
+     "placeholder": "例如：蜡、杯子、灯芯同一家供应商，每单运费 9 美元"
+    },
+    {
+     "key": "labour",
+     "label": "有效工作分钟和时薪",
+     "value": "",
+     "placeholder": "例如：每支蜡烛实际动手 45 分钟，给自己每小时 15 美元"
+    },
+    {
+     "key": "parcel",
+     "label": "包裹重量和尺寸",
+     "value": "",
+     "placeholder": "例如：1.5 磅，装进 6 x 6 x 6 英寸的盒子"
+    },
+    {
+     "key": "shipping",
+     "label": "目的地及邮费报价",
+     "value": "美国境内，走 USPS Ground Advantage"
+    },
+    {
+     "key": "fees",
+     "label": "平台费用和广告占比",
+     "value": "",
+     "placeholder": "例如：15% 的订单来自 Etsy 广告"
+    },
+    {
+     "key": "fixed",
+     "label": "固定开支及启动成本",
+     "value": "",
+     "placeholder": "例如：工具加第一批材料共 300 美元"
+    },
+    {
+     "key": "goals",
+     "label": "销量和收入目标",
+     "value": "",
+     "placeholder": "例如：每月给自己赚 400 美元"
+    }
+   ],
+   "template": "请按{location}、{recipe}、{supplier}、{labour}、{parcel}、{shipping}、{fees}、{fixed}、{goals}，帮我算 Etsy 蜡烛价格。分清付人工后还剩多少、前期要备多少现金，以及运费和广告更不利时会怎样。提醒我开卖前该确认什么。只做计划，不购买、不联系卖家、不发布。",
+   "phases": [
+    {
+     "title": "查蜡烛供应商的最新报价、Etsy 收费页、USPS 邮费和俄亥俄州税务指引",
+     "note": "材料、平台费、邮费和销售税",
+     "judgment": "没核实的东西不当成已确认：运输盒的整包规格标成“未核实”，灯芯价格也注明只是暂代，要等试烧后才能定。"
+    },
+    {
+     "title": "做可编辑的定价表，配一页说明和来源清单",
+     "note": "成本、费用、三档售价和每月保本量；同时收集同类商品",
+     "judgment": "一位同事发现自己交的同类商品价格站不住脚，主动撤回：第一轮没有一条完全核实的可比价格，于是重新逐条查看，只报告能亲眼看到的内容。"
+    },
+    {
+     "title": "全部重新计算，核对文件后再交付",
+     "judgment": "总结开头就说明了局限：同类商品的价格只是公开页面上看到的情况，不是八个确认过同规格的报价；邮费到一月份还要重新核对。"
+    }
+   ],
+   "workers": [
+    "查蜡、灯芯、香精、杯子、标签和运输盒的最新供应商价格",
+    "读 Etsy 上公开的蜡烛商品页做同类价格对比，并更正自己交的第一版",
+    "独立核对计算表的公式，查出人工时间填 0 时会误报“工时不够”"
+   ],
+   "chipNames": {
+    "https://pe.usps.com/text/DMM300/Notice123.htm": "USPS 邮费价格公告",
+    "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/documents/Small_Business_Tax_Guide_2026.pdf": "俄亥俄州小企业税务指南 2026",
+    "https://www.etsy.com/legal/fees/": "Etsy 收费页",
+    "https://www.candlescience.com/wax/golden-brands-464-soy-wax/": "CandleScience 大豆蜡商品页",
+    "https://flushpackaging.com/products/studio-tumbler-shipping-box": "Flush Packaging 运输盒",
+    "https://help.etsy.com/hc/en-us/articles/115014483627-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy": "Etsy 帮助：费用与税",
+    "https://help.etsy.com/hc/en-us/articles/360000338367-How-Etsy-s-Offsite-Ads-Work": "Etsy 帮助：站外广告如何运作",
+    "https://help.etsy.com/hc/en-us/articles/360000343968-How-US-State-Sales-Tax-and-Fees-Applies-to-Etsy-Orders": "Etsy 帮助：美国销售税与费用",
+    "https://about.usps.com/newsroom/national-releases/2026/0825-usps-announces-temporary-price-change-for-2026-holiday-shipping-season.htm": "USPS 2026 年旺季临时调价"
+   }
+  }
+ }
+}

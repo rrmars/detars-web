@@ -1,0 +1,149 @@
+{
+ "slug": "offline-ocr-six-document-test",
+ "startedAt": "2026-11-05",
+ "activeSec": 2252,
+ "stats": {
+  "searches": 17,
+  "pages": 40,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 56,
+   "end": 1233,
+   "chips": [
+    "https://tesseract-ocr.github.io/tessdoc/Installation.html",
+    "https://rapidai.github.io/RapidOCRDocs/main/model_licenses/",
+    "https://www.jaided.ai/easyocr/modelhub/",
+    "https://raw.githubusercontent.com/JaidedAI/EasyOCR/master/LICENSE",
+    "https://developer.apple.com/documentation/vision/recognizing-text-in-images?changes=lates_7"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 34,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1233,
+   "end": 2017,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2017,
+   "end": 2233,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own computer, languages and privacy rules to plan a local OCR pilot",
+   "runTitle": "Free offline OCR for a small office: four tools tried on six test documents",
+   "fields": [
+    {
+     "key": "computer",
+     "label": "Computer and operating system",
+     "value": "a 16 GB computer shared with other work"
+    },
+    {
+     "key": "languages",
+     "label": "Languages",
+     "value": "English and Simplified Chinese"
+    },
+    {
+     "key": "documents",
+     "label": "Document types and volume",
+     "value": "scanned office paperwork: a clean letter, a skewed phone photo of a shop slip, a two-column page, a table-heavy invoice, a stamped page with a handwritten margin note, and a mixed English and Chinese page"
+    },
+    {
+     "key": "privacy",
+     "label": "Privacy boundary",
+     "value": "make scanned paperwork searchable without uploading it anywhere or creating accounts"
+    }
+   ],
+   "template": "Help me choose a local OCR pilot for {computer}, {languages}, {documents} and {privacy}. Compare setup, searchable-PDF export, reading order and table risks. Use non-confidential samples and require checks for names, amounts and missed notes. Plan only; do not upload documents, install software or rerun OCR without my approval.",
+   "phases": [
+    {
+     "title": "Read the install, model and licence sources, and prepare six test scans with reference text",
+     "note": "Four OCR tools, six document types",
+     "judgment": "It was upfront about a privacy limit in its own test: the OCR ran one tool at a time with networking denied, but a contact sheet of the generated test pages had been shown in the working conversation during preparation, so it did not present the run as a strict no-upload demonstration. It also said the shop slip and handwriting are simulated."
+    },
+    {
+     "title": "Set up the four OCR tools and run them one at a time"
+    },
+    {
+     "title": "Measure error rates, check the searchable PDFs and write up the comparison",
+     "judgment": "An independent colleague recomputed every error rate from the raw outputs and found no discrepancies across all 24 tool-and-document pairs. Its one finding, a spreadsheet column that counted words for one tool and lines for the others, was corrected."
+    }
+   ],
+   "workers": [
+    "Read the install, offline model and licence sources for the four OCR tools, then came back after the files were done to recompute every error rate and check the results against the raw output"
+   ],
+   "chipNames": {
+    "https://tesseract-ocr.github.io/tessdoc/Installation.html": "Tesseract: installation guide",
+    "https://rapidai.github.io/RapidOCRDocs/main/model_licenses/": "RapidOCR: model licences",
+    "https://www.jaided.ai/easyocr/modelhub/": "EasyOCR: model hub",
+    "https://raw.githubusercontent.com/JaidedAI/EasyOCR/master/LICENSE": "EasyOCR: licence",
+    "https://developer.apple.com/documentation/vision/recognizing-text-in-images?changes=lates_7": "Apple Vision: recognising text in images"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的电脑、语言和隐私要求，得到本地 OCR 小试验方案",
+   "runTitle": "小办公室的免费离线 OCR：四款工具跑六份测试文档",
+   "fields": [
+    {
+     "key": "computer",
+     "label": "电脑及操作系统",
+     "value": "一台和其他工作共用的 16GB 内存电脑"
+    },
+    {
+     "key": "languages",
+     "label": "语言",
+     "value": "英文和简体中文"
+    },
+    {
+     "key": "documents",
+     "label": "文档类型和数量",
+     "value": "办公室扫描文件：清晰的打印信函、略有歪斜的手机拍摄小票、双栏页面、表格密集的发票、带印章和页边手写批注的页面，以及中英混排页面"
+    },
+    {
+     "key": "privacy",
+     "label": "隐私边界",
+     "value": "让扫描文件可搜索，但不上传到任何地方，也不注册账号"
+    }
+   ],
+   "template": "请为{computer}、{languages}、{documents}及{privacy}选择本地 OCR 小试验方案。比较安装、可搜索 PDF 导出、阅读顺序和表格风险。使用非机密样本，要求核对姓名、金额和漏掉的便条。只做计划；未经我同意，不上传文档、不安装软件、不重跑 OCR。",
+   "phases": [
+    {
+     "title": "阅读安装、模型和授权资料，准备六份测试扫描件和参考文本",
+     "note": "四款 OCR 工具，六类文档",
+     "judgment": "它坦率说明了测试本身的一处隐私局限：OCR 是逐个运行、并且禁止联网的，但准备阶段生成的测试页缩略图曾出现在工作对话里，所以它没有把这次测试说成严格的“全程不上传”；它还说明小票和手写内容是模拟出来的。"
+    },
+    {
+     "title": "装好四款 OCR 工具，逐个运行"
+    },
+    {
+     "title": "测量错误率，检查可搜索 PDF，写出对比结论",
+     "judgment": "一位独立的同事根据原始输出重新计算了每一项错误率，24 个“工具×文档”组合没有任何出入；它发现的唯一问题是表格里一列对某款工具数的是词、对其他工具数的是行，已经改正。"
+    }
+   ],
+   "workers": [
+    "阅读四款 OCR 工具的安装、离线模型和授权资料；成品完成后回来重算每一项错误率，并对照原始输出逐项核对"
+   ],
+   "chipNames": {
+    "https://tesseract-ocr.github.io/tessdoc/Installation.html": "Tesseract：安装指南",
+    "https://rapidai.github.io/RapidOCRDocs/main/model_licenses/": "RapidOCR：模型授权说明",
+    "https://www.jaided.ai/easyocr/modelhub/": "EasyOCR：模型库",
+    "https://raw.githubusercontent.com/JaidedAI/EasyOCR/master/LICENSE": "EasyOCR：授权协议",
+    "https://developer.apple.com/documentation/vision/recognizing-text-in-images?changes=lates_7": "Apple Vision：识别图片中的文字"
+   }
+  }
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "slug": "bali-entry-visa-australian-travellers",
+ "startedAt": "2026-11-05",
+ "activeSec": 1308,
+ "stats": {
+  "searches": 25,
+  "pages": 19,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 54,
+   "end": 744,
+   "chips": [
+    "https://evisa.imigrasi.go.id/front/info/evoa",
+    "https://allindonesia.imigrasi.go.id/",
+    "https://lovebali.baliprov.go.id/faq",
+    "https://www.smartraveller.gov.au/destinations/asia/indonesia",
+    "https://www.beacukai.go.id/selamat-datang"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 744,
+   "end": 1007,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1007,
+   "end": 1229,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own destination, dates and passports, and get the same entry checklist from official pages",
+   "runTitle": "Australian couple, 10 days in Bali in April 2027: what to do, in what order, and what it costs",
+   "fields": [
+    {
+     "key": "destination",
+     "label": "Destination",
+     "value": "Bali, Indonesia"
+    },
+    {
+     "key": "purpose",
+     "label": "Purpose of travel",
+     "value": "Holiday with my partner"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival local date, time and airport",
+     "value": "April 2027"
+    },
+    {
+     "key": "departure",
+     "label": "Departure date and time",
+     "value": "10 days after arrival"
+    },
+    {
+     "key": "transit",
+     "label": "Transit countries",
+     "value": "",
+     "placeholder": "e.g. a 3-hour stopover in Singapore"
+    },
+    {
+     "key": "travellers",
+     "label": "Passport nationality, type, expiry and visa or residence status",
+     "value": "I’m Australian and travelling with my partner"
+    },
+    {
+     "key": "currency",
+     "label": "Currency for costs",
+     "value": "",
+     "placeholder": "e.g. AUD"
+    }
+   ],
+   "template": "Plan entry to {destination} for {purpose}, arriving {arrival}, leaving {departure} and transiting {transit}. Each traveller has {travellers}. Check official visa, declaration, levy, health, customs and airline requirements for those dates. Show individual and group costs in {currency}, separating fees from processing/FX estimates; explain entry validity, stay limits and timing. Link official pages with read dates, flag conflicting or inaccessible guidance and uncertain future rules, give offline-document and recheck lists. Do not submit, upload passports, contact anyone, pay or promise entry.",
+   "phases": [
+    {
+     "title": "Check current official visa, arrival card, tourist levy and airport requirements, and mark what is unconfirmed for 2027",
+     "note": "Official Indonesian immigration, customs and Bali government pages, plus Australia’s Smartraveller",
+     "judgment": "It flagged where official sources disagree instead of picking one side: Smartraveller’s summary implies an advance e-VOA is mandatory, while its detailed advice and Immigration still allow a visa on arrival at the airport. It also said April 2027 arrangements are not confirmed."
+    },
+    {
+     "title": "Build a phone-friendly one-page checklist and a linked cost and deadline spreadsheet"
+    },
+    {
+     "title": "Check both files, then summarise the key requirements and caveats"
+    }
+   ],
+   "workers": [
+    "Checked the official All Indonesia arrival card (timing, cost, group submissions, separate customs and health forms) and the Bali tourist levy"
+   ],
+   "chipNames": {
+    "https://evisa.imigrasi.go.id/front/info/evoa": "Indonesia Immigration: e-VOA information",
+    "https://allindonesia.imigrasi.go.id/": "All Indonesia arrival card (Immigration)",
+    "https://lovebali.baliprov.go.id/faq": "Love Bali: tourist levy FAQ",
+    "https://www.smartraveller.gov.au/destinations/asia/indonesia": "Smartraveller: Indonesia travel advice",
+    "https://www.beacukai.go.id/selamat-datang": "Indonesian Customs: arrival declaration"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的目的地、日期和护照，得到同样来自官方页面的入境清单",
+   "runTitle": "澳洲夫妇 2027 年 4 月巴厘岛 10 天：要做什么、按什么顺序、花多少钱",
+   "fields": [
+    {
+     "key": "destination",
+     "label": "目的地",
+     "value": "印度尼西亚巴厘岛"
+    },
+    {
+     "key": "purpose",
+     "label": "旅行目的",
+     "value": "和伴侣度假"
+    },
+    {
+     "key": "arrival",
+     "label": "当地抵达日期、时间及机场",
+     "value": "2027 年 4 月"
+    },
+    {
+     "key": "departure",
+     "label": "离开日期及时间",
+     "value": "抵达后第 10 天离开"
+    },
+    {
+     "key": "transit",
+     "label": "途经国家",
+     "value": "",
+     "placeholder": "例如：在新加坡转机停留 3 小时"
+    },
+    {
+     "key": "travellers",
+     "label": "护照国籍、类型、有效期和签证或居留身份",
+     "value": "我是澳洲人，和伴侣同行"
+    },
+    {
+     "key": "currency",
+     "label": "费用币种",
+     "value": "",
+     "placeholder": "例如：澳元"
+    }
+   ],
+   "template": "请帮我准备去{destination}、为{purpose}旅行的入境清单：抵达{arrival}，离开{departure}，途经{transit}；每位旅客的护照国籍、类型、有效期和签证或居留身份是{travellers}。按实际日期核查官方签证、申报、旅游税、健康、海关及航空公司要求。以{currency}列个人和同行总费用，分开政府收费及办理、汇兑估算，说明入境有效期、停留限制和办理时间。附官方链接及查阅日期，标出冲突、无法访问和未来待定规则，给我离线文件及复核清单。不要提交、上传护照、联系、付款或保证入境。",
+   "phases": [
+    {
+     "title": "核对官方当前的签证、入境卡、旅游税和机场要求，标出 2027 年尚未确认的部分",
+     "note": "印尼移民、海关和巴厘省政府官方页面，加上澳洲 Smartraveller",
+     "judgment": "官方说法不一致时它没有只选一边：Smartraveller 摘要暗示必须提前办电子落地签，但其详细建议和印尼移民局仍允许机场办理落地签。它也明确说，2027 年 4 月的安排尚未确认。"
+    },
+    {
+     "title": "做出手机上好用的一页清单，以及带链接的费用与截止日期表格"
+    },
+    {
+     "title": "检查两份文件，然后概述关键要求和注意事项"
+    }
+   ],
+   "workers": [
+    "核对印尼官方“全印尼”入境卡（办理时间、费用、团体填报、是否另需海关和健康表格）以及巴厘岛旅游税"
+   ],
+   "chipNames": {
+    "https://evisa.imigrasi.go.id/front/info/evoa": "印尼移民局：电子落地签说明",
+    "https://allindonesia.imigrasi.go.id/": "“全印尼”入境卡（移民局）",
+    "https://lovebali.baliprov.go.id/faq": "爱巴厘（Love Bali）：旅游税常见问题",
+    "https://www.smartraveller.gov.au/destinations/asia/indonesia": "澳洲 Smartraveller：印尼旅行提示",
+    "https://www.beacukai.go.id/selamat-datang": "印尼海关：入境申报"
+   }
+  }
+ }
+}

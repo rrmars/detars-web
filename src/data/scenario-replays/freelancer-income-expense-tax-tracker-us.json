@@ -1,0 +1,191 @@
+{
+ "slug": "freelancer-income-expense-tax-tracker-us",
+ "startedAt": "2026-11-05",
+ "activeSec": 1897,
+ "stats": {
+  "searches": 18,
+  "pages": 9,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 90,
+   "end": 237,
+   "chips": [
+    "https://www.irs.gov/irb/2025-45_IRB",
+    "https://www.irs.gov/pub/irs-prior/f1040es--2026.pdf",
+    "https://www.ssa.gov/cola/factsheets/2027.html"
+   ],
+   "workers": []
+  },
+  {
+   "start": 237,
+   "end": 1210,
+   "chips": [],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1210,
+   "end": 1888,
+   "chips": [
+    "https://www.irs.gov/taxtopics/tc560",
+    "https://tax.illinois.gov/research/taxrates/income.html",
+    "https://www.irs.gov/faqs/estimated-tax",
+    "https://www.irs.gov/instructions/i8995",
+    "https://www.ssa.gov/oact/cola/cbb.html"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own state, filing status and income and get the same payments-based freelance tracker",
+   "runTitle": "Illinois freelance designer: a tracker for about USD 85,000 of income in 2027",
+   "fields": [
+    {
+     "key": "state",
+     "label": "State and filing status",
+     "value": "Illinois, single filer"
+    },
+    {
+     "key": "review",
+     "label": "Review date",
+     "value": "",
+     "placeholder": "e.g. 31 March 2027"
+    },
+    {
+     "key": "income",
+     "label": "Full-year payments received and deductible expenses",
+     "value": "About USD 85,000 gross expected in 2027"
+    },
+    {
+     "key": "other",
+     "label": "Other income and tax withheld",
+     "value": "",
+     "placeholder": "e.g. no other income and nothing withheld"
+    },
+    {
+     "key": "prior",
+     "label": "Last year’s tax and income",
+     "value": "",
+     "placeholder": "e.g. USD 12,000 of tax on USD 70,000 of income"
+    },
+    {
+     "key": "saved",
+     "label": "Amount saved so far and payments already made",
+     "value": "",
+     "placeholder": "e.g. USD 3,000 set aside and no estimated payments yet"
+    }
+   ],
+   "template": "Help me plan a cash-basis freelance tracker for {state}, with {review}, {income}, {other}, {prior} and {saved}. Separate invoices from receipts, spending from deductions, and savings from remittances. Flag assumptions to update and questions for my tax adviser. Do not make payments or submit returns.",
+   "phases": [
+    {
+     "title": "Confirm the official tax figures and the 2027 payment dates",
+     "note": "Federal and Illinois tax inputs, plus the quarterly due dates",
+     "judgment": "Where official 2027 figures were not available, it did not guess: the tracker uses the 2026 federal and Illinois figures, clearly labelled as fallbacks to update before any payment."
+    },
+    {
+     "title": "Build the spreadsheet with made-up sample data, plus the how-to page and source notes",
+     "note": "Invoices, payments, expenses, a monthly summary and a quarterly tax sheet",
+     "judgment": "An independent reviewer read the build code and found one blocking mistake: savings transfers were not cut off at the review date, which could overstate how much was saved. The sheet now asks for transfers only up to the review date."
+    },
+    {
+     "title": "Recalculate everything once, check the page and hand over",
+     "judgment": "It checked 3,789 formulas with zero errors and all 12 number reconciliations passing, and said plainly that later display-only edits were checked for structure but not re-rendered."
+    }
+   ],
+   "workers": [
+    "Read the spreadsheet-building code on its own and checked the formula links, cash timing, part-paid invoices and tax logic"
+   ],
+   "chipNames": {
+    "https://www.irs.gov/irb/2025-45_IRB": "IRS: 2026 inflation adjustments",
+    "https://www.irs.gov/pub/irs-prior/f1040es--2026.pdf": "IRS Form 1040-ES (2026)",
+    "https://www.ssa.gov/cola/factsheets/2027.html": "Social Security: 2027 figures",
+    "https://www.irs.gov/taxtopics/tc560": "IRS: self-employment tax",
+    "https://tax.illinois.gov/research/taxrates/income.html": "Illinois: income tax rates",
+    "https://www.irs.gov/faqs/estimated-tax": "IRS: estimated tax FAQ",
+    "https://www.irs.gov/instructions/i8995": "IRS: qualified business income deduction instructions",
+    "https://www.ssa.gov/oact/cola/cbb.html": "Social Security: contribution and benefit base"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的州、申报身份和收入，得到同样按实际收付款记账的自由职业追踪表",
+   "runTitle": "伊利诺伊州自由职业设计师：为 2027 年约 8.5 万美元收入做的追踪表",
+   "fields": [
+    {
+     "key": "state",
+     "label": "居住州和申报身份",
+     "value": "伊利诺伊州，单身申报"
+    },
+    {
+     "key": "review",
+     "label": "复核日期",
+     "value": "",
+     "placeholder": "例如：2027 年 3 月 31 日"
+    },
+    {
+     "key": "income",
+     "label": "全年收款和可扣除费用",
+     "value": "预计 2027 年总收入约 8.5 万美元"
+    },
+    {
+     "key": "other",
+     "label": "其他收入和预扣税",
+     "value": "",
+     "placeholder": "例如：没有其他收入，也没有预扣税"
+    },
+    {
+     "key": "prior",
+     "label": "上年税额和收入",
+     "value": "",
+     "placeholder": "例如：收入 7 万美元，缴税 1.2 万美元"
+    },
+    {
+     "key": "saved",
+     "label": "已存下和已缴的金额",
+     "value": "",
+     "placeholder": "例如：已存 3,000 美元，还没缴过预估税"
+    }
+   ],
+   "template": "请按{state}、{review}、{income}、{other}、{prior}以及{saved}，帮我规划按实际收付款记账的自由职业追踪表。分清发票与收款、支出与扣除、储蓄与缴税，提醒我要更新哪些假设、向税务顾问问什么。不要付款或提交报税表。",
+   "phases": [
+    {
+     "title": "确认官方税务数字和 2027 年缴税日期",
+     "note": "联邦和伊利诺伊州的税务参数，以及季度缴税日期",
+     "judgment": "查不到 2027 年官方数字的地方，它没有硬编：联邦和伊利诺伊州都先用 2026 年的数字，并清楚标成“备用值”，提醒付款前一定要更新。"
+    },
+    {
+     "title": "用虚构数据做出表格，并写使用说明和来源",
+     "note": "发票、收款、支出、月度汇总和季度税表",
+     "judgment": "一位独立审查的同事读了生成表格的代码，找到一处必须修的错误：存入储蓄的金额没有按复核日期截止，可能高估已存下的钱。表格现在要求只填复核日期之前的转账。"
+    },
+    {
+     "title": "整体重算一次、检查页面并交付",
+     "judgment": "它检查了 3,789 个公式，零错误，12 项数字对账全部通过；也直说之后只改了显示的几处只做了结构检查，没有重新渲染。"
+    }
+   ],
+   "workers": [
+    "独立读了生成表格的代码，检查公式引用、按实际收付款的时间、发票分期收款和税务逻辑"
+   ],
+   "chipNames": {
+    "https://www.irs.gov/irb/2025-45_IRB": "IRS：2026 年通胀调整数字",
+    "https://www.irs.gov/pub/irs-prior/f1040es--2026.pdf": "IRS 1040-ES 表（2026）",
+    "https://www.ssa.gov/cola/factsheets/2027.html": "社保局：2027 年数字",
+    "https://www.irs.gov/taxtopics/tc560": "IRS：自雇税",
+    "https://tax.illinois.gov/research/taxrates/income.html": "伊利诺伊州：所得税税率",
+    "https://www.irs.gov/faqs/estimated-tax": "IRS：预估税常见问题",
+    "https://www.irs.gov/instructions/i8995": "IRS：合格经营收入扣除说明",
+    "https://www.ssa.gov/oact/cola/cbb.html": "社保局：缴费基数上限"
+   }
+  }
+ }
+}

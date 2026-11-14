@@ -1,0 +1,178 @@
+{
+ "slug": "kenya-first-family-safari-august",
+ "startedAt": "2026-11-06",
+ "activeSec": 3087,
+ "stats": {
+  "searches": 68,
+  "pages": 44,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 392,
+   "end": 1780,
+   "chips": [
+    "https://www.moe.gov.sg/news/press-releases/20260714-school-terms-and-holidays-for-2027",
+    "https://www.kws.go.ke/sites/default/files/2025-10/KWS%20Conservation%20Fee%20October%202025.pdf",
+    "https://www.maratriangle.org/mara-monthly/august-2026",
+    "https://www.fragomen.com/insights/kenya-travel-health-insurance-requirement-implemented.html",
+    "https://storage.aerocrs.com/4/system/2026%20Timetable.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1780,
+   "end": 2723,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2723,
+   "end": 3003,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your dates, passports, children’s ages and budget, and get the same road-versus-fly-in safari plan",
+   "runTitle": "Singapore family of four, kids aged 9 and 12: a first Kenya safari in mid-August 2027 on SGD 22,000",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Travel dates and actual school break",
+     "value": "about 8 nights in mid-August 2027, planned for the school holidays"
+    },
+    {
+     "key": "passports",
+     "label": "Passports",
+     "value": "Singapore passports"
+    },
+    {
+     "key": "kids",
+     "label": "Children’s ages at travel and relevant needs",
+     "value": "ages 9 and 12"
+    },
+    {
+     "key": "budget",
+     "label": "Total family budget",
+     "value": "SGD 22,000 for everything on the ground plus international flights"
+    }
+   ],
+   "template": "Help me adapt a first Kenya safari for {dates}, {passports}, {kids} and {budget}. Compare a road-first Mara stay with a fly-in alternative, allow proper rest and show every fee, insurance item and uncertain quote separately. Keep crossings unpromised and check school dates, room supervision, transport and Singapore-return health requirements. Ask before contacting suppliers, submitting forms, booking or paying.",
+   "phases": [
+    {
+     "title": "Gather dated fees, camp rates, flights and entry and health rules from public sources",
+     "note": "Park and conservancy fees, camp rates and bush flights, fares, entry rules and health advice",
+     "judgment": "It checked the family’s premise and found a mismatch: mid-August 2027 is not Singapore’s general school holiday, so the plan tells them to check their own school calendar. It also would not promise river crossings, noting that in August 2026 the Mara Triangle herds had largely left after rain on 17 August."
+    },
+    {
+     "title": "Build the eight-night road and fly-in plans and set them against the budget",
+     "note": "Day-by-day plans with a booking timeline",
+     "judgment": "Where a price could not be confirmed it said so rather than fill in a number. No August 2027 airfare was found, so the plan uses 2026 prices as labelled stand-ins, and it dropped earlier draft figures, such as insurance premiums and one airline’s fares, that it could not source."
+    },
+    {
+     "title": "Write the web page and the dated sources with every calculation, then check it on desktop and phone widths",
+     "judgment": "An independent colleague recalculated all 29 budget lines and got the same totals: SGD 20,601.63 for the road safari (inside the SGD 22,000 budget) and SGD 26,702.01 for the fly-in version (SGD 4,702 over). It also flagged two places where wording did not match the numbers, and the plan openly notes that some research pages loaded through a browser that was not set up clean."
+    }
+   ],
+   "workers": [
+    "Read the official park and conservancy fee schedules, plus seasonal evidence on when the herds are in the Mara",
+    "Collected published camp and lodge rates and family policies, and the official bush-flight fares",
+    "Looked at Singapore–Nairobi fares, Kenya’s entry rules for Singapore passports, health advice for children and the new insurance rule",
+    "Independently recalculated every budget line and spot-checked the figures against the saved original rate sheets"
+   ],
+   "chipNames": {
+    "https://www.moe.gov.sg/news/press-releases/20260714-school-terms-and-holidays-for-2027": "Ministry of Education: 2027 school terms and holidays",
+    "https://www.kws.go.ke/sites/default/files/2025-10/KWS%20Conservation%20Fee%20October%202025.pdf": "Kenya Wildlife Service conservation fees",
+    "https://www.maratriangle.org/mara-monthly/august-2026": "Mara Triangle: August 2026 report",
+    "https://www.fragomen.com/insights/kenya-travel-health-insurance-requirement-implemented.html": "Kenya’s mandatory travel health insurance rule",
+    "https://storage.aerocrs.com/4/system/2026%20Timetable.pdf": "Safarilink 2026 timetable and fares"
+   }
+  },
+  "zh": {
+   "askTitle": "把日期、护照、孩子年龄和预算换成你的，陆路和小飞机两套 Safari 方案就按你的情况重排",
+   "runTitle": "新加坡一家四口、孩子 9 岁和 12 岁：2027 年 8 月中旬第一次去肯尼亚 Safari，预算 22,000 新元",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "出行日期和实际学校假期",
+     "value": "2027 年 8 月中旬约 8 晚，打算趁学校假期出行"
+    },
+    {
+     "key": "passports",
+     "label": "护照",
+     "value": "新加坡护照"
+    },
+    {
+     "key": "kids",
+     "label": "孩子出行时年龄及相关需要",
+     "value": "9 岁和 12 岁"
+    },
+    {
+     "key": "budget",
+     "label": "全家总预算",
+     "value": "地面行程加国际机票一共 22,000 新元"
+    }
+   ],
+   "template": "请按 {dates}、{passports}、{kids} 和 {budget}，帮我调整第一次肯尼亚 Safari。比较马拉陆路为主和小飞机方案，留出充分休息，分别列明每项收费、保险及尚未确定的报价。不要承诺角马过河，并核对学校日期、房间看护、交通和回新加坡的健康要求。联系供应商、填表、预订或付款前先问我。",
+   "phases": [
+    {
+     "title": "从公开来源查带日期的收费、营地价格、机票以及入境和健康规定",
+     "note": "公园和保护区收费、营地价格和小飞机、机票、入境规定与健康建议",
+     "judgment": "它核对了一家人的前提，发现对不上：2027 年 8 月中旬并不是新加坡的统一学校假期，所以方案提醒他们去看孩子自己学校的日历。它也不肯承诺看到渡河：2026 年 8 月 17 日下雨后，马拉三角区的兽群已基本离开。"
+    },
+    {
+     "title": "排出八晚的陆路和小飞机方案，并对照预算",
+     "note": "按天安排的行程和订位时间表",
+     "judgment": "查不到确切价格的地方，它直接说明，没有随手填数。没找到 2027 年 8 月的机票价，方案就用 2026 年的价格作带标注的替代；早先草稿里没有来源的数字，比如保险保费和某航空公司的票价，也都删掉了。"
+    },
+    {
+     "title": "写出网页和带日期的来源，列出每一步计算，再在电脑和手机宽度下检查",
+     "judgment": "独立同事把 29 行预算全部重算了一遍，合计一致：陆路方案 20,601.63 新元（在 22,000 新元预算之内），小飞机方案 26,702.01 新元（超出 4,702 新元）。它还指出两处文字和数字对不上的地方；方案里也照实说明，部分资料页是通过一个没有设成干净状态的浏览器打开的。"
+    }
+   ],
+   "workers": [
+    "读公园和保护区的官方收费表，以及兽群什么时候在马拉的季节性证据",
+    "收集营地和旅舍公布的价格、对家庭的规定，以及官方小飞机票价",
+    "查新加坡到内罗毕的机票、肯尼亚对新加坡护照的入境规定、儿童健康建议和新出的保险规定",
+    "独立重算每一行预算，并对照保存下来的原始价格表抽查数字"
+   ],
+   "chipNames": {
+    "https://www.moe.gov.sg/news/press-releases/20260714-school-terms-and-holidays-for-2027": "新加坡教育部：2027 年学期和假期",
+    "https://www.kws.go.ke/sites/default/files/2025-10/KWS%20Conservation%20Fee%20October%202025.pdf": "肯尼亚野生动物局保护费",
+    "https://www.maratriangle.org/mara-monthly/august-2026": "马拉三角区：2026 年 8 月报告",
+    "https://www.fragomen.com/insights/kenya-travel-health-insurance-requirement-implemented.html": "肯尼亚强制旅行医疗保险规定",
+    "https://storage.aerocrs.com/4/system/2026%20Timetable.pdf": "Safarilink 2026 年时刻表和票价"
+   }
+  }
+ }
+}

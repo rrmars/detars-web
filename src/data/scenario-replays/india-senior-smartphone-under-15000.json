@@ -1,0 +1,129 @@
+{
+ "slug": "india-senior-smartphone-under-15000",
+ "startedAt": "2026-11-06",
+ "activeSec": 1811,
+ "stats": {
+  "searches": 67,
+  "pages": 20,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 513,
+   "chips": [
+    "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m07-black-64gb-sm-m075fzkdins/",
+    "https://www.flipkart.com/samsung-galaxy-m07-black-64-gb/p/itm0b84fbcd25ac9?ov_redirect=true",
+    "https://www.motorola.in/smartphones-moto-g37/p?skuId=657",
+    "https://www.motorola.in/smartphones-moto-g37-power/p",
+    "https://servicecenter.samsungdigitalservicecenter.com/authorised-samsung-service-center-great-snipe-technologies-mobile-phone-repair-shop-tatabad-coimbatore-237426/Home"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 513,
+   "end": 1453,
+   "chips": [
+    "https://www.samsung.com/us/support/answer/ANS10001360/",
+    "https://www.npci.org.in/fraud-awareness",
+    "https://support.google.com/pay/india/answer/10768310?hl=en-IN",
+    "https://source.android.com/docs/core/connect/emergency-affordance",
+    "https://www.teamviewer.com/en/global/support/knowledge-base/teamviewer-classic/mobile/android/remote-control-an-android-device-via-attended-access/"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1453,
+   "end": 1602,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1602,
+   "end": 1747,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your parent’s needs and get the same dated price check and easy-phone setup plan",
+   "runTitle": "Bengaluru to Coimbatore: an easy Android phone for a 70-year-old father, under ₹15,000",
+   "fields": [
+    {
+     "key": "budget",
+     "label": "All-in budget",
+     "value": "₹15,000 maximum"
+    },
+    {
+     "key": "place",
+     "label": "City and delivery PIN code",
+     "value": "Coimbatore"
+    },
+    {
+     "key": "needs",
+     "label": "Current phone, preferred language, vision, hearing and grip needs",
+     "value": "Tamil; weak eyesight; hands shake slightly"
+    },
+    {
+     "key": "usage",
+     "label": "Calls, videos, photos and payment needs",
+     "value": "WhatsApp video calls, YouTube in Tamil, UPI payments, camera for grandchildren photos"
+    }
+   ],
+   "template": "Help me compare an easy phone under {budget} for my parent in {place}, using {needs} and {usage}. Separate dated prices from unverified features. Make a simple home-screen and family practice plan, with safe UPI, consent-based help and a printable reminder. Ask before buying, contacting anyone or changing accounts.",
+   "phases": [
+    {
+     "title": "Check current prices, specifications and official update promises for the candidate phones",
+     "note": "Four phones under budget; dated store prices",
+     "judgment": "It caught a variant trap: Motorola’s link for the moto g37 power opens an 8GB/128GB model at ₹22,999, far over budget. It priced the 4GB/64GB version, ₹14,999, instead."
+    },
+    {
+     "title": "Look up senior-friendly setup, UPI safety, emergency calling and remote help",
+     "judgment": "It would not promise Easy Mode on the Galaxy M07. Samsung’s general article does not confirm it for that model and the model manual would not open, so the guide says “only if present on the handset”."
+    },
+    {
+     "title": "Write the comparison page, a one-page guide and a dated source list",
+     "note": "Recommendation, backup choice and unconfirmed items marked",
+     "judgment": "It could not verify the quality of Tamil text, so the printed guide is in English only and says why."
+    },
+    {
+     "title": "Check the pages at desktop and phone width and the printable PDF",
+     "note": "Layout problems fixed; the PDF fits one page"
+    }
+   ],
+   "workers": [
+    "Checked current store prices and stock for the candidate phones, plus official specs and each brand’s update promise",
+    "Read the official steps for large text, steadier touch, fewer pop-ups, WhatsApp video calls, emergency calling, UPI safety and remote help, and looked for service centres in Coimbatore"
+   ],
+   "chipNames": {
+    "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m07-black-64gb-sm-m075fzkdins/": "Samsung India: Galaxy M07 specs and update promise",
+    "https://www.flipkart.com/samsung-galaxy-m07-black-64-gb/p/itm0b84fbcd25ac9?ov_redirect=true": "Flipkart: Galaxy M07 4/64GB listing",
+    "https://www.motorola.in/smartphones-moto-g37/p?skuId=657": "Motorola India: moto g37 4/64GB",
+    "https://www.motorola.in/smartphones-moto-g37-power/p": "Motorola India: moto g37 power",
+    "https://servicecenter.samsungdigitalservicecenter.com/authorised-samsung-service-center-great-snipe-technologies-mobile-phone-repair-shop-tatabad-coimbatore-237426/Home": "Samsung authorised service centre, Coimbatore",
+    "https://www.samsung.com/us/support/answer/ANS10001360/": "Samsung: adjust font size and style",
+    "https://www.npci.org.in/fraud-awareness": "NPCI: fraud awareness",
+    "https://support.google.com/pay/india/answer/10768310?hl=en-IN": "Google Pay India: beware of screen-sharing apps",
+    "https://source.android.com/docs/core/connect/emergency-affordance": "Android: emergency features for India",
+    "https://www.teamviewer.com/en/global/support/knowledge-base/teamviewer-classic/mobile/android/remote-control-an-android-device-via-attended-access/": "TeamViewer: attended Android support"
+   }
+  }
+ }
+}

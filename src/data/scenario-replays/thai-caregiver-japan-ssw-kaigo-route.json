@@ -1,0 +1,117 @@
+{
+ "slug": "thai-caregiver-japan-ssw-kaigo-route",
+ "startedAt": "2026-11-07",
+ "activeSec": 752,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 432,
+   "chips": [
+    "https://www.prometric-jp.com/en/ssw/schedule/domestic/",
+    "https://www.jpf.go.jp/jft-basic/e/index.html",
+    "https://www.moj.go.jp/isa/policies/ssw/nursingcare.html",
+    "https://www.otit.go.jp/employment_for_skill_development/moc/index.html",
+    "https://doe.go.th/prd/overseas?page=home"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 432,
+   "end": 455,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 455,
+   "end": 752,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own city, age, pay, savings and Japanese level to get the same route comparison and preparation budget for working in elderly care in Japan",
+   "runTitle": "Bangkok caregiver Nok’s route to elderly-care work in Japan, from THB 60,000 in savings",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City in Thailand",
+     "value": "Bangkok (originally from Khon Kaen)"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "26"
+    },
+    {
+     "key": "pay",
+     "label": "Monthly pay in THB",
+     "value": "THB 16,500"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in THB",
+     "value": "THB 60,000"
+    },
+    {
+     "key": "japanese",
+     "label": "Japanese level",
+     "value": "About JLPT N5"
+    }
+   ],
+   "template": "Help me plan a move from {city} to work in elderly care in Japan. I am {age}, earn {pay}, have {savings} and my Japanese level is {japanese}. Compare the SSW (i) kaigo route with the Employment for Skill Development backup, rebuild the test timeline and the preparation budget with my own numbers, and check any agency or fee quote I paste in against the warning signs, marking anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official test, route, broker and pay rules in Thailand and Japan",
+     "note": "Care and Japanese test fees and venues, backup routes, broker rules, regional pay and deductions",
+     "judgment": "It said what it could not confirm instead of filling the gap: the Japan–Thailand trade agreement annex could not be read, so “no Thai care programme” is marked as well supported but not fully closed, and the only broker fee cap it found was on a mirror site, so it is marked unconfirmed and a recruiter’s THB 15,000 figure was left out."
+    },
+    {
+     "title": "Write the guide with the route recommendation, test timeline and budget"
+    },
+    {
+     "title": "Re-check every number and claim against the source list, and test the layout",
+     "judgment": "In its own second pass it recomputed 66 money figures (none failed) and caught one line of its own: the test table said a new test period was “expected” after 10 March 2027, with no source behind it, so it was reworded to “dates after that not yet published when read”."
+    }
+   ],
+   "workers": [
+    "Read Thailand’s Department of Employment rules on overseas job brokers: licensing, fee limits, how to verify an agency and scam warning signs",
+    "Collected Japan’s regional minimum wages, official care-worker pay surveys, dated job ads and the usual pay deductions for a care worker",
+    "Checked the other routes (the Japan–Thailand trade agreement, the new skills-development visa replacing technical interns) and the exchange rates"
+   ],
+   "chipNames": {
+    "https://www.prometric-jp.com/en/ssw/schedule/domestic/": "Prometric: care and Japanese test schedule in Thailand",
+    "https://www.jpf.go.jp/jft-basic/e/index.html": "Japan Foundation: JFT-Basic Japanese test",
+    "https://www.moj.go.jp/isa/policies/ssw/nursingcare.html": "Japan Immigration Services Agency: SSW nursing-care field",
+    "https://www.otit.go.jp/employment_for_skill_development/moc/index.html": "Japan OTIT: Employment for Skill Development",
+    "https://doe.go.th/prd/overseas?page=home": "Thailand Department of Employment: overseas work"
+   }
+  }
+ }
+}

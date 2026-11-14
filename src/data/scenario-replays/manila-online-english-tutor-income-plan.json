@@ -1,0 +1,138 @@
+{
+ "slug": "manila-online-english-tutor-income-plan",
+ "startedAt": "2026-11-07",
+ "activeSec": 2495,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 39,
+   "end": 597,
+   "chips": [
+    "https://bir-cdn.bir.gov.ph/local/pdf/RMC%20No.%2014-2024.pdf",
+    "https://bir-cdn.bir.gov.ph/BIR/pdf/1701-MS%20Guide%20August%202024%20ENCS_Final.pdf",
+    "https://www.paypal.com/ph/business/paypal-business-fees",
+    "https://www.payoneer.com/pricing/",
+    "https://wise.com/help/articles/2932333/guide-to-php-transfers"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 597,
+   "end": 1717,
+   "chips": [],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1717,
+   "end": 2482,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own tutoring business and get the same income and tax plan, with the payment costs shown",
+   "runTitle": "Quezon City: moving from a Chinese platform that cut her hours to teaching Japanese and Korean adults, targeting PHP 60,000 a month",
+   "fields": [
+    {
+     "key": "city",
+     "label": "Philippine city",
+     "value": "Quezon City"
+    },
+    {
+     "key": "niche",
+     "label": "Adult learner niche and countries",
+     "value": "Adult learners from Japan and Korea"
+    },
+    {
+     "key": "experience",
+     "label": "Experience and qualifications",
+     "value": "TESOL certificate; three years teaching English online for a Chinese platform"
+    },
+    {
+     "key": "budget",
+     "label": "Startup budget",
+     "value": "PHP 40,000"
+    },
+    {
+     "key": "household",
+     "label": "Household cash requirement",
+     "value": "At least PHP 60,000 a month from January 2027 (her income target)"
+    },
+    {
+     "key": "hours",
+     "label": "Available hours",
+     "value": "",
+     "placeholder": "e.g. 25 teaching hours a week, evenings and weekends"
+    },
+    {
+     "key": "status",
+     "label": "Existing employment, platform contracts and tax registration",
+     "value": "Teaching online for a Chinese platform that has cut her hours"
+    }
+   ],
+   "template": "Build a practical income plan for my online English teaching business in {city}, serving {niche}, with {experience}, {budget}, {household}, {hours} and {status}. Compare a contract-compatible platform floor with independently acquired direct clients. Show monthly paid lessons, realistic payment costs, operating costs, tax reserves and downside cases. Separate published rates from assumptions, flag unverified eligibility and local requirements, and ask before applying, contacting anyone or creating accounts.",
+   "phases": [
+    {
+     "title": "Read the platforms' own pages, payment fee tables and Philippine tax rules",
+     "note": "Platform fees and entry rules, PayPal, Wise and Payoneer costs, freelancer tax options",
+     "judgment": "It did not accept a flat 5% for payment costs: PayPal's published terms charge 4.40% plus a fixed fee on payments from abroad, so a PHP 1,000 lesson payment already loses 5.9% before currency conversion. The final model uses an 8% allowance instead."
+    },
+    {
+     "title": "Build the guide and a month-by-month income model with every calculation shown",
+     "judgment": "The plan does not promise the target on time: no source shows PHP 60,000 a month net by January, and the model reaches PHP 60,632 only in April."
+    },
+    {
+     "title": "Independent recomputation of every figure, plus desktop and phone layout checks",
+     "judgment": "The independent reviewer recomputed all 12 monthly rows and the worked examples (all correct), and made the tax comparison say it is conditional, because whether a percentage-tax deduction applies is still unresolved."
+    }
+   ],
+   "workers": [
+    "Read the official fee pages for PayPal, Wise and Payoneer in the Philippines and worked out the real cost of getting paid",
+    "Compared the platforms that take Filipino tutors for Japanese and Korean learners: fee shares, entry requirements and what is still unconfirmed",
+    "Read the Philippine tax authority's rules on freelancer registration, the 8% option versus graduated rates, percentage tax and invoicing",
+    "Independently recomputed the income model and checked the tax and payment claims against the source list"
+   ],
+   "chipNames": {
+    "https://bir-cdn.bir.gov.ph/local/pdf/RMC%20No.%2014-2024.pdf": "BIR Revenue Memorandum Circular 14-2024",
+    "https://bir-cdn.bir.gov.ph/BIR/pdf/1701-MS%20Guide%20August%202024%20ENCS_Final.pdf": "BIR Form 1701-MS guide (August 2024)",
+    "https://www.paypal.com/ph/business/paypal-business-fees": "PayPal Philippines business fees",
+    "https://www.payoneer.com/pricing/": "Payoneer pricing",
+    "https://wise.com/help/articles/2932333/guide-to-php-transfers": "Wise: guide to PHP transfers"
+   }
+  }
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "slug": "germany-masters-budget-indian-student",
+ "startedAt": "2026-11-05",
+ "activeSec": 2076,
+ "stats": {
+  "searches": 79,
+  "pages": 44,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 25,
+   "end": 1289,
+   "chips": [
+    "https://www.ovgu.de/en/Study/Study+Programmes/Master/Chemical+and+Energy+Engineering.html",
+    "https://mb.tu-dortmund.de/en/study/study-programs/msc-manufacturing-technology/",
+    "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/space-engineering-master",
+    "https://tu-freiberg.de/en/study/master-computational-materials-science",
+    "https://www.make-it-in-germany.com/en/visa-recognition/visa-types/studying"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1289,
+   "end": 1407,
+   "chips": [
+    "https://aps-india.de/dmat/",
+    "https://aps-india.de/faqs/",
+    "https://www.fintiba.com/news/more-value-for-you",
+    "https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514",
+    "https://www.stwdo.de/wohnen/wohnanlagen/emil-figge-stra%C3%9Fe-15-39-dortmund"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1407,
+   "end": 2025,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own degree, scores and funding, and get the same honest German master's budget and deadline plan",
+   "runTitle": "Pune to Germany: a tuition-free English-taught master's for October 2027 on about INR 15 lakh of family money",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "Nationality, degree, awarding university and modules",
+     "value": "Indian; BTech Mechanical, Pune"
+    },
+    {
+     "key": "grading",
+     "label": "Grading scale and CGPA",
+     "value": "CGPA 7.8"
+    },
+    {
+     "key": "ielts",
+     "label": "IELTS type, scores and date",
+     "value": "IELTS 7.0"
+    },
+    {
+     "key": "intake",
+     "label": "Target intake",
+     "value": "Winter semester, October 2027"
+    },
+    {
+     "key": "funding",
+     "label": "Confirmed funding: amount and source",
+     "value": "About INR 15 lakh in total, from family"
+    },
+    {
+     "key": "aid",
+     "label": "Loan or scholarship status",
+     "value": "",
+     "placeholder": "e.g. education loan approved for INR 8 lakh, no scholarship yet"
+    },
+    {
+     "key": "status",
+     "label": "APS and dMAT status",
+     "value": "",
+     "placeholder": "e.g. APS not yet applied, dMAT not yet booked"
+    },
+    {
+     "key": "fx",
+     "label": "Exchange-rate assumption",
+     "value": "",
+     "placeholder": "e.g. INR 105 per euro"
+    }
+   ],
+   "template": "Compare German MSc options for my {profile}, {grading}, {ielts} and {intake}. My confirmed funding is {funding}, with {aid} and {status}. Show subject-fit gates, complete application deadlines, the full-degree budget at {fx} and accessible arrival cash. Plan only; do not contact, apply, register or pay.",
+   "phases": [
+    {
+     "title": "Check four universities' programmes, entry rules, fees and deadlines on their own pages",
+     "note": "Magdeburg, Dortmund, Bremen and Freiberg, plus the official visa and living-cost rules",
+     "judgment": "A university page contradicted itself: the Bremen Space Engineering page carried an admission paragraph for a different programme. It used the binding admission regulation instead, and would not turn a 7.8 CGPA into a promise of eligibility or quote an unverified grade cut-off."
+    },
+    {
+     "title": "Confirm visa funds, the APS certificate, insurance and living costs, then build the budget",
+     "note": "Blocked account, health insurance, student housing and the new dMAT test",
+     "judgment": "It checked the new dMAT requirement on APS India's own page rather than assuming: every B.Tech is in scope for winter 2027/28, with a published €150 fee, but not every master's applicant. That turned into a timing warning in the plan."
+    },
+    {
+     "title": "Write the plan page and sources list, then check the arithmetic and the layout",
+     "judgment": "The answer to the family's question was stated plainly: at an openly labelled ₹110 per euro, a tuition-free two-year plan needs about ₹35.09 lakh including deposit and reserve, not ₹15 lakh. The arithmetic and the desktop and phone layouts were checked."
+    }
+   ],
+   "workers": [
+    "Read the official pages of four English-taught engineering master's (Magdeburg, Dortmund, Bremen, Freiberg) for entry rules, English level, fees and deadlines",
+    "Checked blocked-account fees, the APS certificate and dMAT test, health insurance, student work rules and student-residence rents"
+   ],
+   "chipNames": {
+    "https://www.ovgu.de/en/Study/Study+Programmes/Master/Chemical+and+Energy+Engineering.html": "OVGU Magdeburg: MSc Chemical and Energy Engineering",
+    "https://mb.tu-dortmund.de/en/study/study-programs/msc-manufacturing-technology/": "TU Dortmund: MSc Manufacturing Technology",
+    "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/space-engineering-master": "University of Bremen: MSc Space Engineering",
+    "https://tu-freiberg.de/en/study/master-computational-materials-science": "TU Freiberg: MSc Computational Materials Science",
+    "https://www.make-it-in-germany.com/en/visa-recognition/visa-types/studying": "Government portal: studying and visa rules (Make it in Germany)",
+    "https://aps-india.de/dmat/": "APS India: dMAT notice",
+    "https://aps-india.de/faqs/": "APS India: FAQ",
+    "https://www.fintiba.com/news/more-value-for-you": "Fintiba: blocked-account tariff notice",
+    "https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514": "Techniker Krankenkasse: student insurance contributions",
+    "https://www.stwdo.de/wohnen/wohnanlagen/emil-figge-stra%C3%9Fe-15-39-dortmund": "Studentenwerk Dortmund: Emil-Figge-Straße residences"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的学位、成绩和资金，就能得到同样诚实的德国硕士预算与截止日期计划",
+   "runTitle": "从浦那到德国：用约 15 拉克卢比家庭资金，申请 2027 年 10 月入学的免学费英文授课硕士",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "国籍、学位、授予大学及课程",
+     "value": "印度籍；机械工程 BTech，浦那"
+    },
+    {
+     "key": "grading",
+     "label": "评分制度和 CGPA",
+     "value": "CGPA 7.8"
+    },
+    {
+     "key": "ielts",
+     "label": "IELTS 类型、成绩及日期",
+     "value": "IELTS 7.0"
+    },
+    {
+     "key": "intake",
+     "label": "目标入学期",
+     "value": "2027 年 10 月冬季学期"
+    },
+    {
+     "key": "funding",
+     "label": "已落实资金：金额及来源",
+     "value": "家庭支持，总共约 15 拉克卢比"
+    },
+    {
+     "key": "aid",
+     "label": "贷款或奖学金状态",
+     "value": "",
+     "placeholder": "例如：已批教育贷款 8 拉克卢比，暂无奖学金"
+    },
+    {
+     "key": "status",
+     "label": "APS 和 dMAT 状态",
+     "value": "",
+     "placeholder": "例如：APS 尚未申请，dMAT 尚未预约"
+    },
+    {
+     "key": "fx",
+     "label": "汇率假设",
+     "value": "",
+     "placeholder": "例如：1 欧元兑 105 卢比"
+    }
+   ],
+   "template": "请按我的{profile}、{grading}、{ielts}和{intake}，比较德国硕士选项。已落实资金是{funding}，贷款或奖学金状态为{aid}，APS 和 dMAT 状态为{status}。列出学科匹配门槛、完整材料截止日期、按{fx}计算的全学位预算，以及落地可动用现金。只做计划，不联系、不申请、不注册、不付款。",
+   "phases": [
+    {
+     "title": "在四所大学自己的页面上核对课程、入学要求、费用和截止日期",
+     "note": "马格德堡、多特蒙德、不来梅、弗莱贝格，加上官方签证与生活费规则",
+     "judgment": "有一所大学的页面自相矛盾：不来梅航天工程硕士页面里混进了另一个专业的录取说明。它改以有约束力的录取条例为准，也没有把 7.8 的 CGPA 说成稳过，更没有引用查不到出处的分数线。"
+    },
+    {
+     "title": "确认签证资金、APS 证书、保险和生活费，再搭预算",
+     "note": "封锁账户、医疗保险、学生宿舍，以及新出的 dMAT 考试",
+     "judgment": "新出的 dMAT 要求，它直接到 APS 印度官网核对而没有想当然：所有 B.Tech 都在范围内，适用于 2027/28 冬季学期，公布费用 150 欧元，但并非所有硕士申请人都要考。这一点后来变成计划里的时间预警。"
+    },
+    {
+     "title": "写出计划页和来源清单，再检查算术与排版",
+     "judgment": "它把家里最想知道的答案直接说清：按明确标注的 1 欧元 = 110 卢比，免学费的两年计划含押金和备用金约需 35.09 拉克卢比，而不是 15 拉克。算术以及电脑和手机排版都核对过。"
+    }
+   ],
+   "workers": [
+    "阅读四所英文授课工科硕士(马格德堡、多特蒙德、不来梅、弗莱贝格)的官方页面，核对入学条件、英语要求、费用和截止日期",
+    "核对封锁账户收费、APS 证书和 dMAT 考试、医疗保险、学生打工规则以及学生宿舍租金"
+   ],
+   "chipNames": {
+    "https://www.ovgu.de/en/Study/Study+Programmes/Master/Chemical+and+Energy+Engineering.html": "马格德堡大学(OVGU):化学与能源工程硕士",
+    "https://mb.tu-dortmund.de/en/study/study-programs/msc-manufacturing-technology/": "多特蒙德工业大学:制造技术硕士",
+    "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/space-engineering-master": "不来梅大学:航天工程硕士",
+    "https://tu-freiberg.de/en/study/master-computational-materials-science": "弗莱贝格工业大学:计算材料科学硕士",
+    "https://www.make-it-in-germany.com/en/visa-recognition/visa-types/studying": "德国政府门户:留学与签证规则(Make it in Germany)",
+    "https://aps-india.de/dmat/": "APS 印度:dMAT 公告",
+    "https://aps-india.de/faqs/": "APS 印度:常见问题",
+    "https://www.fintiba.com/news/more-value-for-you": "Fintiba:封锁账户收费公告",
+    "https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514": "TK 健康保险:学生保险费用表",
+    "https://www.stwdo.de/wohnen/wohnanlagen/emil-figge-stra%C3%9Fe-15-39-dortmund": "多特蒙德学生服务中心:Emil-Figge-Straße 宿舍"
+   }
+  }
+ }
+}

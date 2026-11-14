@@ -1,0 +1,147 @@
+{
+ "slug": "cappadocia-three-nights-balloon-backups",
+ "startedAt": "2026-11-05",
+ "activeSec": 1635,
+ "stats": {
+  "searches": 32,
+  "pages": 41,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 28,
+   "end": 963,
+   "chips": [
+    "https://www.kayak.com/flights/IST-ASR/2027-05-14/2027-05-17/2adults?sort=price_a",
+    "https://www.kayak.com/flights/IST-NAV/2027-05-14/2027-05-17/2adults?sort=price_a",
+    "https://voyagerballoons.com/",
+    "https://web.shgm.gov.tr/tr/s/80-balon-isletmeleri",
+    "https://www.tursab.org.tr/apps/Files/Content/3ce94ed3-2265-4180-8a87-594371bcf0b5.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 963,
+   "end": 1668,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own travellers, dates and budget and get the same trip plan, with backup balloon mornings and the checks to make before paying",
+   "runTitle": "Three days in Cappadocia for a couple from Dubai: one balloon flight, 14 to 17 May 2027, about USD 1,500",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "Travellers, passports and mobility needs",
+     "value": "a couple from Dubai"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "Friday 14 May to Monday 17 May 2027"
+    },
+    {
+     "key": "airport",
+     "label": "Istanbul airport and flight times",
+     "value": "Istanbul"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and exclusions",
+     "value": "about USD 1,500 for two, excluding flights to Istanbul"
+    }
+   ],
+   "template": "Plan Cappadocia for {travellers} on {dates}, connecting through {airport}, with {budget}. Keep backup balloon mornings, compare actual operating licences and written refund terms, and separate dated samples from real quotes. Price the full room, baggage and insurance bills. Plan only; do not book, contact anyone, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Check dated flights, balloon operators, hotels, and the official admission and licence sources",
+     "note": "Fares for the exact dates, four balloon operators’ own pages, cave-hotel prices, museum tickets",
+     "judgment": "It marked what it could not confirm instead of rounding it off. The official register of licensed balloon operators would not load, so no operator’s licence is called verified. The hotel pages showed November rates, not May, so they are examples only. And the cheaper flights leave from Istanbul’s second airport (Sabiha Gökçen), not the main one, and are labelled that way."
+    },
+    {
+     "title": "Build the three-day itinerary and a budget that adds up",
+     "note": "A plan page and a source list, with the balloon on the first morning and backups on the other two",
+     "judgment": "It did not squeeze the budget to fit. The plan says the working total is US$1,588 for two, which is $88 over the $1,500 target, and shows what would have to be cheaper to hit it (a balloon at €220 instead of €260), marked as not verified."
+    }
+   ],
+   "workers": [
+    "Checked public fares on the exact dates for flights from Istanbul to Kayseri and to Nevşehir, plus airport transfers and two cave-hotel price examples",
+    "Read four balloon operators’ own pages for standard and premium prices and for weather-cancellation and refund terms, and tried to check their licences on the aviation authority’s register"
+   ],
+   "chipNames": {
+    "https://www.kayak.com/flights/IST-ASR/2027-05-14/2027-05-17/2adults?sort=price_a": "KAYAK: Istanbul to Kayseri, 14–17 May 2027",
+    "https://www.kayak.com/flights/IST-NAV/2027-05-14/2027-05-17/2adults?sort=price_a": "KAYAK: Istanbul to Nevşehir, 14–17 May 2027",
+    "https://voyagerballoons.com/": "Voyager Balloons: prices and terms",
+    "https://web.shgm.gov.tr/tr/s/80-balon-isletmeleri": "Turkish civil aviation authority: balloon operator register",
+    "https://www.tursab.org.tr/apps/Files/Content/3ce94ed3-2265-4180-8a87-594371bcf0b5.pdf": "Ministry museum tariff from April 2027 (hosted by TÜRSAB)"
+   }
+  },
+  "zh": {
+   "askTitle": "把同行的人、日期和预算换成你的，就能得到同样的行程，含备选热气球清晨，以及付款前要做的核对",
+   "runTitle": "迪拜来的一对情侣在卡帕多奇亚玩三天：一次热气球，2027 年 5 月 14 日至 17 日，预算约 1500 美元",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "人数、护照及行动需求",
+     "value": "一对来自迪拜的情侣"
+    },
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 5 月 14 日（周五）至 17 日（周一）"
+    },
+    {
+     "key": "airport",
+     "label": "伊斯坦布尔机场及航班时间",
+     "value": "伊斯坦布尔"
+    },
+    {
+     "key": "budget",
+     "label": "预算及不包含项目",
+     "value": "两人约 1500 美元，不含飞到伊斯坦布尔的机票"
+    }
+   ],
+   "template": "请按{travellers}、{dates}、{airport}、{budget}规划卡帕多奇亚。留出热气球备选清晨，比较实际承飞许可及书面退款条款，分清有日期的示例和真实报价。算完整房账、行李及保险。只做规划，不预订、不联系、不开户、不付款。",
+   "phases": [
+    {
+     "title": "查指定日期的机票、热气球公司、酒店，以及官方门票和执照来源",
+     "note": "当天日期的票价、四家热气球公司自己的网页、洞穴酒店价格、博物馆门票",
+     "judgment": "没能确认的部分，它都标了出来，没有含糊带过。官方的热气球运营商名册打不开，所以没有哪家的执照被说成已核实；酒店页面显示的是 11 月的价格而不是 5 月，所以只当示例；较便宜的航班从伊斯坦布尔的第二机场（萨比哈·格克琴）起飞，不是主机场，也照实标明。"
+    },
+    {
+     "title": "排出三天行程，做出算得平的预算",
+     "note": "一个行程页加一份来源清单，热气球放在第一天清晨，另外两个清晨留作备选",
+     "judgment": "它没有把预算硬凑进去。计划里写明，目前合计为两人 1,588 美元，比 1,500 美元的目标高 88 美元，并写出怎样才能降下来（热气球从 260 欧元降到 220 欧元），同时标明这个更便宜的价格尚未核实。"
+    }
+   ],
+   "workers": [
+    "查伊斯坦布尔飞开塞利和内夫谢希尔两个机场在指定日期的公开票价，还有机场接送和两家洞穴酒店的价格示例",
+    "读四家热气球公司自己的网页：标准款和高级款的价格、天气取消和退款条款，并试着在航空管理部门的名册上核对它们的执照"
+   ],
+   "chipNames": {
+    "https://www.kayak.com/flights/IST-ASR/2027-05-14/2027-05-17/2adults?sort=price_a": "KAYAK：伊斯坦布尔飞开塞利，2027 年 5 月 14–17 日",
+    "https://www.kayak.com/flights/IST-NAV/2027-05-14/2027-05-17/2adults?sort=price_a": "KAYAK：伊斯坦布尔飞内夫谢希尔，2027 年 5 月 14–17 日",
+    "https://voyagerballoons.com/": "Voyager 热气球：价格和条款",
+    "https://web.shgm.gov.tr/tr/s/80-balon-isletmeleri": "土耳其民航管理部门：热气球运营商名册",
+    "https://www.tursab.org.tr/apps/Files/Content/3ce94ed3-2265-4180-8a87-594371bcf0b5.pdf": "文化旅游部 2027 年 4 月起的博物馆票价（TÜRSAB 托管）"
+   }
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "slug": "lagos-analyst-mba-abroad-vs-online",
+ "startedAt": "2026-11-06",
+ "activeSec": 3535,
+ "stats": {
+  "searches": 13,
+  "pages": 21,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 79,
+   "end": 3535,
+   "chips": [
+    "https://www.cbn.gov.ng/rates/exchratebycurrency.html",
+    "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+    "https://mbarecruit.degroote.mcmaster.ca/program/finances/",
+    "https://giesonline.illinois.edu/tuition-costs"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 57,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 57,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 57,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 3535,
+   "end": 3535,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 3535,
+   "end": 3535,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put your own offers, savings and target role into the boxes and get the same MBA cost-and-funding comparison",
+   "runTitle": "Lagos: a credit analyst weighs a UK, Canadian or online MBA for autumn 2027",
+   "fields": [
+    {
+     "key": "offers",
+     "label": "MBA offers and intake",
+     "value": "A one-year UK MBA, a two-year Canadian MBA and an online MBA kept alongside the job, all for autumn 2027"
+    },
+    {
+     "key": "evidence",
+     "label": "Degree result, management experience and English evidence",
+     "value": "30-year-old financial analyst in Lagos with 6 years of bank credit analysis, earning about NGN 14 million a year"
+    },
+    {
+     "key": "role",
+     "label": "Target role and country",
+     "value": "",
+     "placeholder": "e.g. a corporate finance manager in Canada, or a senior credit role in Lagos"
+    },
+    {
+     "key": "savings",
+     "label": "Savings currency, protected reserve and monthly surplus",
+     "value": "About USD 25,000 saved by autumn 2027"
+    },
+    {
+     "key": "awards",
+     "label": "Written awards or employer support",
+     "value": "",
+     "placeholder": "e.g. a 30% scholarship offer in writing, or an employer paying part of the fees"
+    }
+   ],
+   "template": "Compare {offers} for my {evidence}, {role}, {savings} and {awards}. Show the whole funding gap, live-study workload and admissions or work-permit conditions still to confirm. Ask before contacting schools, applying or sharing documents.",
+   "phases": [
+    {
+     "title": "Research school costs, admissions, scholarships and outcomes from official pages",
+     "note": "UK, Canadian and online programmes side by side, plus the Nigerian central-bank exchange rate",
+     "judgment": "It said plainly where evidence was missing: no verified official salary or employment report for the two UK MBAs, and Birmingham’s own living-cost guide has an addition error that is flagged rather than copied."
+    },
+    {
+     "title": "Verify the immigration rules, exchange rates and funding calculations",
+     "note": "UK Graduate visa length and Canadian post-study work permit eligibility",
+     "judgment": "It checked the post-study work rules instead of assuming them: the UK Graduate visa for this group is 18 months, not two years, and the Canadian work permit stays marked as conditional."
+    },
+    {
+     "title": "Check desktop and phone layout and re-run the arithmetic independently",
+     "note": "Funding gaps shown with and without a USD 5,000 emergency reserve",
+     "judgment": "An independent re-run of the arithmetic reproduced all 40 derived figures with no errors, and the guide marks as unconfirmed anything the schools have not yet published for 2027."
+    }
+   ],
+   "workers": [
+    "Checked fees, admission rules and 2027 deadlines for two one-year UK MBAs, plus scholarships open to Nigerians",
+    "Read the official admissions, cost and funding pages for two Canadian two-year MBAs and the study-permit and work-permit rules",
+    "Collected official tuition, admission and format details for two well-regarded online MBAs"
+   ],
+   "chipNames": {
+    "https://www.cbn.gov.ng/rates/exchratebycurrency.html": "Central Bank of Nigeria: official exchange rates",
+    "https://www.gov.uk/healthcare-immigration-application/how-much-pay": "GOV.UK: immigration health surcharge",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html": "Canada.ca: post-graduation work permit eligibility",
+    "https://mbarecruit.degroote.mcmaster.ca/program/finances/": "McMaster DeGroote MBA: finances",
+    "https://giesonline.illinois.edu/tuition-costs": "Illinois Gies online MBA: tuition and costs"
+   }
+  }
+ }
+}

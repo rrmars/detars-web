@@ -1,0 +1,259 @@
+{
+ "slug": "toronto-cost-of-living-newcomer-couple",
+ "startedAt": "2026-11-05",
+ "activeSec": 1772,
+ "stats": {
+  "searches": 36,
+  "pages": 57,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 76,
+   "end": 906,
+   "chips": [
+    "https://www.ontario.ca/page/apply-ohip-and-get-health-card",
+    "https://www.ttc.ca/riding-the-ttc/Updates/TTC-monthly-fare-capping",
+    "https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032on-jan/t4032on-january-general-information.html",
+    "https://www.canada.ca/en/employment-social-development/news/2026/09/canada-employment-insurance-commission-confirms-2027-employment-insurance-premium-rate.html",
+    "https://www.rpmsi.ca/property/davisville-village-apartments-111-davisville/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 906,
+   "end": 1468,
+   "chips": [
+    "https://www.canada.ca/en/employment-social-development/news/2026/09/canada-employment-insurance-commission-confirms-2027-employment-insurance-premium-rate.html",
+    "https://www.ontario.ca/page/renting-ontario-your-rights"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1468,
+   "end": 1712,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same editable budget before you sign a lease",
+   "runTitle": "India to Toronto in May 2027: a CAD 85,000 job offer and a one-bedroom within 40 minutes of downtown by TTC",
+   "fields": [
+    {
+     "key": "destination",
+     "label": "City, province and country",
+     "value": "Toronto, Ontario, Canada"
+    },
+    {
+     "key": "date",
+     "label": "Move date",
+     "value": "May 2027"
+    },
+    {
+     "key": "origin",
+     "label": "Where you are moving from",
+     "value": "India"
+    },
+    {
+     "key": "household",
+     "label": "Adults, children and pets",
+     "value": "Two adults, husband and wife"
+    },
+    {
+     "key": "income",
+     "label": "Gross income, currency and earners",
+     "value": "CAD 85,000 a year from the husband’s job offer; the wife will look for work after arriving"
+    },
+    {
+     "key": "paycycle",
+     "label": "Pay cycle",
+     "value": "",
+     "placeholder": "e.g. paid every two weeks, first cheque about 4 weeks after the start date"
+    },
+    {
+     "key": "office",
+     "label": "Office address",
+     "value": "Downtown Toronto"
+    },
+    {
+     "key": "commute",
+     "label": "Commute limit",
+     "value": "40 minutes by TTC"
+    },
+    {
+     "key": "home",
+     "label": "Home size, furnished or not, and rent ceiling",
+     "value": "1-bedroom"
+    },
+    {
+     "key": "car",
+     "label": "Car needs",
+     "value": "",
+     "placeholder": "e.g. no car, or one car with parking"
+    },
+    {
+     "key": "commitments",
+     "label": "Debts, remittances, home-country commitments, travel and medical needs",
+     "value": "",
+     "placeholder": "e.g. CAD 300 a month sent to family, one trip home a year"
+    }
+   ],
+   "template": "Plan our move to {destination} on {date} from {origin}: household {household}, gross income {income}, pay cycle {paycycle}, office {office}, commute limit {commute}, home {home}, car needs {car}, debts/remittances/home-country commitments/travel/medical needs {commitments}. Use primary payroll, tenancy, transit and health sources plus a meaningful exact rental sample. Keep URLs, read dates, specific-unit versus from-price details, utilities and unknowns; separate confirmed future rules from carried-forward assumptions. Give lean/base/stress costs, first-pay uncertainty, setup cash, refundable deposits, signing commitments and an income-interruption reserve, without double-counting first rent or reserves. Do not assume spouse credits, refunds, benefits, future jobs or health/visa eligibility. Explain tax/insurance omissions and estimated versus measured commutes. Recommend next steps with an editable workbook and source notes. Do not open accounts, contact anyone, apply, buy, book or publish.",
+   "phases": [
+    {
+     "title": "Check pay, rent, health and transit rules, and read real listings",
+     "note": "Payroll and tax, Ontario rent rules, OHIP, TTC fares, seven rental listings",
+     "judgment": "It corrected two outdated assumptions: Ontario has no three-month OHIP waiting period, and the ordinary adult TTC monthly pass has been discontinued, replaced by a fare cap of CAD 155.10 per person per month."
+    },
+    {
+     "title": "Build an editable budget workbook and a phone-friendly summary",
+     "note": "Seven-sheet workbook with live formulas, plus a mobile summary page",
+     "judgment": "Take-home pay is labelled as a planning figure, not a 2027 payslip: 2027 pension and EI limits are published but 2027 income-tax rates are not, so it uses 2026 tables, keeps the current 4.95% pension rate because the 4.75% cut is only announced, and assumes no spouse credit or refund."
+    },
+    {
+     "title": "Recalculate, inspect and deliver both files",
+     "judgment": "The independent colleague recalculated all 46 formulas in a separate copy with no errors, and confirmed the commutes are shown as estimates, not measured journeys."
+    }
+   ],
+   "workers": [
+    "Worked out take-home pay on CAD 85,000 from Canada.ca and Ontario payroll sources, and checked which 2027 figures are actually published",
+    "Read Ontario’s official rules on rent deposits and OHIP for newcomers, plus the current TTC fare cap",
+    "Opened seven real one-bedroom listings in subway neighbourhoods and estimated door-to-door commutes",
+    "Audited the workbook and summary against the research notes and recalculated every formula in a separate copy"
+   ],
+   "chipNames": {
+    "https://www.ontario.ca/page/apply-ohip-and-get-health-card": "Ontario: apply for OHIP and get a health card",
+    "https://www.ttc.ca/riding-the-ttc/Updates/TTC-monthly-fare-capping": "TTC monthly fare capping rules",
+    "https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032on-jan/t4032on-january-general-information.html": "CRA 2026 Ontario payroll deduction tables",
+    "https://www.canada.ca/en/employment-social-development/news/2026/09/canada-employment-insurance-commission-confirms-2027-employment-insurance-premium-rate.html": "Government of Canada: 2027 EI premium rate announcement",
+    "https://www.rpmsi.ca/property/davisville-village-apartments-111-davisville/": "Davisville Village, 111 Davisville Ave (listing)",
+    "https://www.ontario.ca/page/renting-ontario-your-rights": "Ontario: renting and your rights"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的搬迁计划，签租约之前先拿到同样可编辑的预算",
+   "runTitle": "从印度搬到多伦多（2027 年 5 月）：年薪 85,000 加元，要坐地铁 40 分钟内到市中心的一居室",
+   "fields": [
+    {
+     "key": "origin",
+     "label": "出发地",
+     "value": "印度"
+    },
+    {
+     "key": "date",
+     "label": "日期",
+     "value": "2027 年 5 月"
+    },
+    {
+     "key": "destination",
+     "label": "城市、省和国家",
+     "value": "加拿大安大略省多伦多"
+    },
+    {
+     "key": "household",
+     "label": "家庭成员（成人、儿童、宠物）",
+     "value": "两名成人，夫妻二人"
+    },
+    {
+     "key": "income",
+     "label": "税前收入（金额、货币和工作人数）",
+     "value": "丈夫的工作邀请年薪 85,000 加元；妻子到后再找工作"
+    },
+    {
+     "key": "paycycle",
+     "label": "发薪周期",
+     "value": "",
+     "placeholder": "例如：每两周发一次薪，首张工资单约在入职后 4 周"
+    },
+    {
+     "key": "office",
+     "label": "办公室地址",
+     "value": "多伦多市中心"
+    },
+    {
+     "key": "commute",
+     "label": "通勤上限",
+     "value": "坐多伦多公交（TTC）40 分钟"
+    },
+    {
+     "key": "home",
+     "label": "住房（面积、家具和租金上限）",
+     "value": "一居室"
+    },
+    {
+     "key": "car",
+     "label": "用车需求",
+     "value": "",
+     "placeholder": "例如：不买车，或有一辆车需要停车位"
+    },
+    {
+     "key": "commitments",
+     "label": "债务、汇款、原居国负担、旅行和医疗",
+     "value": "",
+     "placeholder": "例如：每月给家里汇 300 加元，每年回国一次"
+    }
+   ],
+   "template": "请规划我们从{origin}于{date}搬到{destination}的预算：家庭{household}，税前收入{income}，发薪周期{paycycle}，办公室{office}，通勤上限{commute}，住房{home}，用车{car}，债务、汇款、原居国负担、旅行和医疗{commitments}。用工资、租赁、交通和医疗一手来源及有实际意义的具体房源，保留网址、查阅日期、具体单元与起价区别、水电包含项和未知项，分清已确认未来规则与沿用假设。列出节省、基础、压力开支，首薪不确定性、安置现金、可退押金、签约承诺和收入中断储备，别重复算首月租金或储备。不预设配偶抵免、退税、福利、未来就业或医保及签证资格。说明税务保险漏项、通勤是估算还是实测，给建议、可编辑工作簿和来源说明。不要开户、联系他人、申请、购买、预订或发布。",
+   "phases": [
+    {
+     "title": "核对工资、租房、医保和交通规则，并读取真实房源",
+     "note": "工资与税、安大略租房规则、OHIP、TTC 票价、7 个房源",
+     "judgment": "纠正了两条过时的假设：安大略省的 OHIP 没有三个月等待期；TTC 普通成人月票已取消，改为每人每月 155.10 加元的封顶票价。"
+    },
+    {
+     "title": "做成可编辑的预算表和适合手机看的摘要",
+     "note": "7 张工作表、带实时公式，另有手机版摘要页",
+     "judgment": "税后收入标明是规划数字，不是 2027 年的工资单：2027 年的养老金和失业保险上限已公布，但 2027 年的所得税参数没有，所以沿用 2026 年税表；4.75% 的养老金费率只是宣布过，所以保留现行的 4.95%；也没有假定配偶抵免或退税。"
+    },
+    {
+     "title": "重新计算、检查并交付两份文件",
+     "judgment": "独立复核的同事在副本里重算了全部 46 个公式，没有出错，并确认通勤时间是估算，而不是实测行程。"
+    }
+   ],
+   "workers": [
+    "按 85,000 加元算税后收入，用加拿大联邦和安大略省官方工资扣款资料，并查明哪些 2027 年数字已正式公布",
+    "读了安大略省关于押金和新移民医保（OHIP）的官方规定，以及多伦多公交（TTC）现行的封顶票价",
+    "打开 7 个地铁沿线的真实一居室房源页面，并估算从家到市中心的通勤时间",
+    "对照调研笔记审查预算表和摘要，并在副本里重算全部公式"
+   ],
+   "chipNames": {
+    "https://www.ontario.ca/page/apply-ohip-and-get-health-card": "安大略省：申请 OHIP 和健康卡",
+    "https://www.ttc.ca/riding-the-ttc/Updates/TTC-monthly-fare-capping": "TTC 月度封顶票价规则",
+    "https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4032-payroll-deductions-tables/t4032on-jan/t4032on-january-general-information.html": "加拿大税务局 2026 年安大略省工资扣款表",
+    "https://www.canada.ca/en/employment-social-development/news/2026/09/canada-employment-insurance-commission-confirms-2027-employment-insurance-premium-rate.html": "加拿大政府：2027 年失业保险费率公告",
+    "https://www.rpmsi.ca/property/davisville-village-apartments-111-davisville/": "Davisville Village，Davisville 大道 111 号（房源）",
+    "https://www.ontario.ca/page/renting-ontario-your-rights": "安大略省：租房与租客权利"
+   }
+  }
+ }
+}

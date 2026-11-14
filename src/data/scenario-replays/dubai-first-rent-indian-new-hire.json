@@ -1,0 +1,131 @@
+{
+ "slug": "dubai-first-rent-indian-new-hire",
+ "startedAt": "2026-11-05",
+ "activeSec": 1260,
+ "stats": {
+  "searches": 21,
+  "pages": 29,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 30,
+   "end": 161,
+   "chips": [
+    "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
+    "https://dubailand.gov.ae/en/eservices/rental-index/rental-index",
+    "https://www.dewa.gov.ae/en/consumer/supply-management/activation-of-electricity-water-move-in",
+    "https://dubailand.gov.ae/en/frequently-asked-questions",
+    "https://www.rta.ae/wps/portal/rta/ae/public-transport/metro-stations-map"
+   ],
+   "workers": []
+  },
+  {
+   "start": 161,
+   "end": 422,
+   "chips": [
+    "https://dubailand.gov.ae/media/aoxclaxp/tenancyguideen.pdf",
+    "https://dubailand.gov.ae/en/news-media/smart-rental-index-announcement",
+    "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-al-amir-167001124.html",
+    "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-nopoli-tower-164574166.html",
+    "https://dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 422,
+   "end": 1209,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own job, salary and arrival date and get the same first-rental cash plan before you sign",
+   "runTitle": "Bengaluru to Dubai: a first studio or 1-bedroom near Business Bay on AED 18,000 a month",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "Nationality, arrival and job-start dates",
+     "value": "Moving from Bengaluru; the job starts on 1 March 2027"
+    },
+    {
+     "key": "pay",
+     "label": "Monthly salary, accessible cash, employer support and payroll date",
+     "value": "Salary of AED 18,000 a month"
+    },
+    {
+     "key": "office",
+     "label": "Exact office entrance",
+     "value": "Office in Business Bay"
+    },
+    {
+     "key": "rent",
+     "label": "Rent ceiling and cheque preferences",
+     "value": "About AED 6,500 a month, or the annual equivalent"
+    },
+    {
+     "key": "idstatus",
+     "label": "ID and banking status",
+     "value": "",
+     "placeholder": "e.g. Emirates ID not yet issued, no UAE bank account"
+    }
+   ],
+   "template": "Plan my first Dubai rental for {arrival}, with {pay}, {office}, {rent} and {idstatus}. Compare studios and modest one-bedrooms using the full fee sheet, realistic commute and current dated listings. Separate opening cash, monthly rent reserves and first-year cash flow; keep an ID-delay temporary-stay backup and clear refund conditions. Flag legal or banking questions for the relevant official/provider. Plan only; do not contact anyone, apply, create accounts, reserve or pay.",
+   "phases": [
+    {
+     "title": "Read the official rules on cheques, deposits, Ejari and utilities, and check the rental index and Metro access",
+     "note": "Dubai Land Department and DEWA rules, the rental index and commute options"
+    },
+    {
+     "title": "Collect and inspect 12 current listings in four Metro-friendly areas",
+     "note": "Rent, cheque terms, size and the date each listing was seen",
+     "judgment": "It would not read a missing fee as a free one: in most listings the deposit, agency fee, admin fee and Ejari charge were simply not stated, so they stay unquantified rather than counted as zero. It also noted a listing whose web address named Building 4 while the page described Building 1."
+    },
+    {
+     "title": "Build the guide and the first-year cash plan, then verify the figures and the page",
+     "judgment": "The independent colleague recomputed the plan on its own, AED 43,005 to get in the door and then AED 11,100 a month against the AED 18,000 salary, and found it consistent. It also spotted two saved listing captures that were error pages, so they are not treated as evidence."
+    }
+   ],
+   "workers": [
+    "Found and inspected six rental listings in JLT and Dubai Marina, noting rent, cheques and listing age",
+    "Found and inspected six rental listings in Al Barsha and Barsha Heights, noting rent, cheques and listing age",
+    "Recomputed the cash plan independently and spot-checked the guide's claims against the official fee pages"
+   ],
+   "chipNames": {
+    "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/": "Dubai Land Department: Ejari registration",
+    "https://dubailand.gov.ae/en/eservices/rental-index/rental-index": "Dubai Land Department: rental index",
+    "https://www.dewa.gov.ae/en/consumer/supply-management/activation-of-electricity-water-move-in": "DEWA: moving in, activating power and water",
+    "https://dubailand.gov.ae/en/frequently-asked-questions": "Dubai Land Department: tenancy FAQs",
+    "https://www.rta.ae/wps/portal/rta/ae/public-transport/metro-stations-map": "RTA: Dubai Metro stations map",
+    "https://dubailand.gov.ae/media/aoxclaxp/tenancyguideen.pdf": "Dubai Land Department: tenancy guide",
+    "https://dubailand.gov.ae/en/news-media/smart-rental-index-announcement": "Dubai Land Department: smart rental index announcement",
+    "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-barsha-heights-tecom-al-amir-167001124.html": "Listing example: Al Amir, Barsha Heights",
+    "https://www.propertyfinder.ae/en/plp/rent/apartment-for-rent-dubai-al-barsha-al-barsha-1-nopoli-tower-164574166.html": "Listing example: Nopoli Tower, Al Barsha",
+    "https://dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in": "DEWA: service guide for moving in"
+   }
+  }
+ }
+}

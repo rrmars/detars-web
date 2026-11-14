@@ -1,0 +1,148 @@
+{
+ "slug": "dubai-family-rental-al-barsha-discovery-gardens",
+ "startedAt": "2026-11-07",
+ "activeSec": 2775,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 40,
+   "end": 1234,
+   "chips": [
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Decree%20No.%20%2843%29%20of%202013%20Determining%20Rent%20Increase%20for%20Real%20Property.pdf",
+    "https://dubailand.gov.ae/en/news-media/smart-rental-index-announcement/",
+    "https://www.dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in",
+    "https://www.empower.ae/customer-care/charges-explanation",
+    "https://web.khda.gov.ae/en/Education-Directory/schools"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 27,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1234,
+   "end": 1869,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1869,
+   "end": 2801,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own salary and housing allowance and see what a Dubai rental really costs",
+   "runTitle": "Bengaluru to Dubai: an Indian family renting near Dubai Internet City on AED 120,000 a year",
+   "fields": [
+    {
+     "key": "date",
+     "label": "Move date",
+     "value": "March 2027"
+    },
+    {
+     "key": "children",
+     "label": "Children’s ages or school grades",
+     "value": "6 and 10"
+    },
+    {
+     "key": "office",
+     "label": "Workplace (exact Dubai Internet City office)",
+     "value": "Dubai Internet City"
+    },
+    {
+     "key": "salary",
+     "label": "Salary and package details",
+     "value": "AED 38,000 a month"
+    },
+    {
+     "key": "allowance",
+     "label": "Housing allowance (amount, inclusive or additional, payout dates)",
+     "value": "AED 120,000 a year"
+    },
+    {
+     "key": "bedrooms",
+     "label": "Shared 2-bed or genuine 3-bed",
+     "value": "a 2- or 3-bedroom apartment or townhouse"
+    },
+    {
+     "key": "school",
+     "label": "School, board and transfer needs",
+     "value": "CBSE or Indian-curriculum schools nearby"
+    },
+    {
+     "key": "transport",
+     "label": "Transport plan",
+     "value": "",
+     "placeholder": "e.g. one car for the father, school bus for the children"
+    },
+    {
+     "key": "cheques",
+     "label": "Cheque-book readiness",
+     "value": "",
+     "placeholder": "e.g. cheque book for up to four payments ready by arrival"
+    },
+    {
+     "key": "cash",
+     "label": "Relocation cash plus protected reserve",
+     "value": "",
+     "placeholder": "e.g. AED 60,000 for arrival costs and AED 40,000 kept in reserve"
+    }
+   ],
+   "template": "Help our Indian family plan a Dubai move for {date}, with children aged {children}, workplace {office}, salary {salary} and housing allowance {allowance}. Start with Al Barsha 1, compare Discovery Gardens for value and The Greens for the work commute. We need {bedrooms}, {school}, {transport}, {cheques} and {cash}. Separate dated ads from confirmed availability. Confirm school and bus feasibility, test actual journeys, itemise rent, cooling, utilities, deposits and signing cash, and list unresolved terms. Ask before contacting anyone, sharing documents, submitting forms or making a payment.",
+   "phases": [
+    {
+     "title": "Read Dubai’s tenancy law, rent-increase rules, utility and cooling fees and the school directory, and collect dated listings",
+     "note": "Rent rules, deposits, utilities, cooling, seven areas’ listings and schools",
+     "judgment": "The school directory only says “Indian curriculum”, so it did not relabel any school as CBSE. It also left one school off the shortlist because search results disagreed on CBSE versus ICSE."
+    },
+    {
+     "title": "Build the guide and cost models with the arithmetic shown",
+     "note": "Three shortlisted homes compared on true yearly cost and cash needed at keys",
+     "judgment": "It marked every running cost without an official price as its own assumption, and showed that the cheaper rent can need more cash on arrival: Discovery Gardens AED 55,682.50 against Al Barsha AED 22,028.15, because its advertised payment is two cheques instead of twelve."
+    },
+    {
+     "title": "Independent check of the figures and claims, plus desktop and phone layout tests",
+     "judgment": "The reviewer matched all 69 cost figures (121 checks passed) and still listed what it could not support: the guide stated the payment-method rule and some registration steps more specifically than its source list records. School seats and CBSE status stay unconfirmed."
+    }
+   ],
+   "workers": [
+    "Read Dubai’s tenancy laws, the rent-increase rules and the registration, electricity-deposit and cooling fee pages",
+    "Collected seven asking-rent examples across the requested areas and checked three Indian-curriculum schools in the official school directory",
+    "Recomputed every money figure independently and checked the guide’s claims against its sources"
+   ],
+   "chipNames": {
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Decree%20No.%20%2843%29%20of%202013%20Determining%20Rent%20Increase%20for%20Real%20Property.pdf": "Dubai Decree 43/2013: how much rent can rise at renewal",
+    "https://dubailand.gov.ae/en/news-media/smart-rental-index-announcement/": "Dubai Land Department: Smart Rental Index announcement",
+    "https://www.dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in": "DEWA: moving in, deposits and connection",
+    "https://www.empower.ae/customer-care/charges-explanation": "Empower: district cooling charges explained",
+    "https://web.khda.gov.ae/en/Education-Directory/schools": "Dubai school regulator (KHDA): school directory"
+   }
+  }
+ }
+}

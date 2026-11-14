@@ -1,0 +1,238 @@
+{
+ "slug": "free-ai-tools-student-research-hands-on-review",
+ "startedAt": "2026-11-05",
+ "activeSec": 2087,
+ "stats": {
+  "searches": 50,
+  "pages": 64,
+  "colleagues": 6,
+  "parallel": 5,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 952,
+   "chips": [
+    "https://www.perplexity.ai/",
+    "https://consensus.app/",
+    "https://www.semanticscholar.org/",
+    "https://elicit.com/",
+    "https://scholar.google.com/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 5,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 952,
+   "end": 1491,
+   "chips": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11817371"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1491,
+   "end": 2029,
+   "chips": [],
+   "workers": [
+    {
+     "n": 6,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "zh": {
+   "askTitle": "换成你的课题和限制条件，就能让免费 AI 工具在同一道题上真刀真枪比一次",
+   "runTitle": "大学生想知道：哪些免费 AI 工具真能帮上研究作业？用同一道题实测，不注册任何账号",
+   "fields": [
+    {
+     "key": "question",
+     "label": "学校 AI 政策",
+     "value": "短视频使用对注意力持续时间的影响"
+    },
+    {
+     "key": "field",
+     "label": "课程或领域",
+     "value": "大学课程的研究作业（未指定具体科目）"
+    },
+    {
+     "key": "policy",
+     "label": "问题",
+     "value": "",
+     "placeholder": "例如：允许用 AI 找文献，但必须自己阅读并核对"
+    },
+    {
+     "key": "number",
+     "label": "公开免账号来源或授权图书馆",
+     "value": "5"
+    },
+    {
+     "key": "dates",
+     "label": "数量",
+     "value": "2023 年或以后"
+    },
+    {
+     "key": "population",
+     "label": "日期范围",
+     "value": "大学生"
+    },
+    {
+     "key": "outcome",
+     "label": "人群",
+     "value": "注意力持续时间"
+    },
+    {
+     "key": "access",
+     "label": "结果指标",
+     "value": "不注册账号就能用的免费版本"
+    }
+   ],
+   "template": "请按{question}，帮我为{field}研究{policy}，仅用{number}，找最多{dates}篇在{population}首次发表、涉及{outcome}且直接测量{access}的同行评审研究。保留首批结果，交代搜索词、筛选、访问方式、日期和可见服务版本；列 DOI、作者、载体、上线和卷期日期、样本、设计、工具、无显著及冲突结果、局限，附一手链接，标明全文或仅摘要。标出接近但不完全匹配的论文和数字矛盾，宁少勿编；分开找论文、综合、等待和核查时间。帮我验证，不代替阅读，不注册、付款、联系或代交作业。",
+   "phases": [
+    {
+     "title": "不登录实测各个研究工具，保存原始输出和耗时",
+     "note": "Perplexity、Consensus、Semantic Scholar、Elicit 和一个对话式 AI，用同一条原话指令各试一次"
+    },
+    {
+     "title": "自己建一份核实过的五篇论文基线，逐条核查各工具给出的引用",
+     "note": "30 条“工具—论文”引用核查",
+     "judgment": "它没有顺着题目硬凑“五篇都证明了”。五篇相关论文逐篇对到原文后，结论是：它们并不能证明短视频会缩短大学生的注意力。有一篇的原文把反应时间印成了“分钟”，前后分组范围也互相矛盾，它没有悄悄改成“正确”的数字，而是照原样标出矛盾。"
+    },
+    {
+     "title": "做 HTML 对比页和原始数据表，并核对",
+     "judgment": "独立复核的同事发现交付的 Excel 里有一处旧说法没跟上已更正的证据，证据索引的文件大小和校验值也对不上，另有一条核查的自述前后矛盾。交付前这几处都已同步更正，所有校验值重新对上。"
+    }
+   ],
+   "workers": [
+    "找到并核实五篇符合条件的论文，作为对照基线，逐篇对到一手来源",
+    "不登录，用同一条指令实测 Perplexity 和 Consensus，并核查它们引用的 12 篇论文是否真实、说法对不对",
+    "不登录，实测 Elicit 和 Semantic Scholar，保留原始界面证据，并核查前五条结果",
+    "再试一个不用账号的对话式 AI（ChatGPT 访客模式，Copilot 遇到网络故障），并核查它给的五篇论文",
+    "核查 Consensus 页面上额外显示的九张论文卡片，逐张对到原始论文",
+    "独立复核最终对比：有没有说过头、评分是否公平、文件是否齐全"
+   ],
+   "chipNames": {
+    "https://www.perplexity.ai/": "Perplexity（未登录）",
+    "https://consensus.app/": "Consensus（未登录）",
+    "https://www.semanticscholar.org/": "Semantic Scholar（未登录）",
+    "https://elicit.com/": "Elicit（未登录）",
+    "https://scholar.google.com/": "Google Scholar",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11817371": "Al-Leimon 等 2025 年论文（PubMed Central 全文）"
+   }
+  },
+  "en": {
+   "askTitle": "Swap in your own topic and limits and the free AI tools get put through the same hands-on test",
+   "runTitle": "A university student asks which free AI tools really help with research assignments, tested on one shared task with no accounts created",
+   "fields": [
+    {
+     "key": "question",
+     "label": "question",
+     "value": "the effect of short-form video use on attention span"
+    },
+    {
+     "key": "field",
+     "label": "course/field",
+     "value": "A university research assignment (no specific course given)"
+    },
+    {
+     "key": "policy",
+     "label": "institution AI policy",
+     "value": "",
+     "placeholder": "e.g. AI may be used to find sources, but I must read and check them myself"
+    },
+    {
+     "key": "number",
+     "label": "number",
+     "value": "5"
+    },
+    {
+     "key": "dates",
+     "label": "dates",
+     "value": "2023 or later"
+    },
+    {
+     "key": "population",
+     "label": "population",
+     "value": "University students"
+    },
+    {
+     "key": "outcome",
+     "label": "outcome",
+     "value": "Attention span"
+    },
+    {
+     "key": "access",
+     "label": "public/no-account or authorised library access",
+     "value": "Free tiers that work without creating an account"
+    }
+   ],
+   "template": "Help me research {question} for {field} under {policy}. Find up to {number} peer-reviewed studies first published between {dates}, involving {population} and directly measuring {outcome}, using only {access}. Keep the first results; report searches, filters, access, dates and any visible service/version. Give DOI, authors, venue, online/issue dates, sample, design, instrument, null/conflicting findings and limitations, with primary links and full-text/abstract status. Label near-matches and inconsistent numbers; return fewer rather than inventing papers. Separate discovery, synthesis, waiting and checking time. Help me verify, not replace reading; do not create accounts, pay, contact anyone or submit work.",
+   "phases": [
+    {
+     "title": "Test the research tools logged out, keeping raw outputs and timings",
+     "note": "Perplexity, Consensus, Semantic Scholar, Elicit and one chat assistant, each run once on the same word-for-word prompt"
+    },
+    {
+     "title": "Build a verified five-paper baseline and audit every tool’s citations",
+     "note": "30 tool-by-paper citation checks",
+     "judgment": "It did not bend the question into “five papers prove it”. Checked against the originals, the five relevant papers do not show that short videos shorten university students’ attention. One paper prints reaction times in minutes and has conflicting group ranges; it did not quietly swap in a “correct” number but flagged the contradiction as printed."
+    },
+    {
+     "title": "Make the HTML comparison and the raw-results spreadsheet, then check both",
+     "judgment": "The independent colleague found the delivered spreadsheet had an older statement that did not match the corrected evidence, evidence-index sizes and checksums that no longer matched, and one audit note that contradicted itself. All were corrected before delivery and the checksums were re-verified."
+    }
+   ],
+   "workers": [
+    "Found and verified five qualifying papers as a baseline, checking each against its primary source",
+    "Tested Perplexity and Consensus logged out on the same prompt, and checked whether the 12 papers they cited exist and say what was claimed",
+    "Tested Elicit and Semantic Scholar logged out, kept raw screen evidence and audited the first five results",
+    "Tried a further chat assistant that needs no account (ChatGPT as a guest; Copilot hit a network failure) and audited its five papers",
+    "Audited the nine extra paper cards Consensus displayed, each against its original paper",
+    "Independently reviewed the final comparison for overclaims, scoring fairness and completeness"
+   ],
+   "chipNames": {
+    "https://www.perplexity.ai/": "Perplexity (logged out)",
+    "https://consensus.app/": "Consensus (logged out)",
+    "https://www.semanticscholar.org/": "Semantic Scholar (logged out)",
+    "https://elicit.com/": "Elicit (logged out)",
+    "https://scholar.google.com/": "Google Scholar",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11817371": "Al-Leimon et al. 2025 (full text on PubMed Central)"
+   }
+  }
+ }
+}

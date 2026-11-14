@@ -1,0 +1,127 @@
+{
+ "slug": "austin-first-year-freelancer-estimated-tax",
+ "startedAt": "2026-11-06",
+ "activeSec": 1981,
+ "stats": {
+  "searches": 39,
+  "pages": 19,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 107,
+   "end": 646,
+   "chips": [
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts",
+    "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf",
+    "https://www.irs.gov/faqs/estimated-tax/individuals/individuals",
+    "https://www.irs.gov/faqs/estimated-tax/individuals/individuals-2",
+    "https://www.irs.gov/instructions/i7206"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 646,
+   "end": 1525,
+   "chips": [
+    "https://www.irs.gov/pub/irs-pdf/f1040sse.pdf",
+    "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-seps",
+    "https://www.irs.gov/instructions/i8995"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1525,
+   "end": 1915,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own freelance year and get the same tax plan before your first payment is due",
+   "runTitle": "Austin, Texas: a first-year freelance UX designer on about $95,000 of 2027 income",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "Tax year, filing status, age and state",
+     "value": "2027 tax year; single, no dependents; Texas"
+    },
+    {
+     "key": "income",
+     "label": "Expected collected income",
+     "value": "About $95,000 of client income in 2027"
+    },
+    {
+     "key": "costs",
+     "label": "Business costs and separate health premiums",
+     "value": "About $8,000: laptop, software, a home office corner and health insurance premiums I pay myself"
+    },
+    {
+     "key": "other",
+     "label": "Other income or withholding",
+     "value": "Nobody withholds tax for me now"
+    },
+    {
+     "key": "prior",
+     "label": "Completed prior-year adjusted tax and AGI",
+     "value": "2026 W-2 salary of $88,000; 2026 federal tax fully withheld"
+    }
+   ],
+   "template": "Build a first-year freelance tax plan for {profile}, {income}, {costs}, {other}, and {prior}. Compare penalty protection with a full-tax cash budget. Flag home-office, QBI and retirement eligibility, map payment dates, and explain any assumptions in a calculator. Plan only; do not access accounts, submit returns or make payments.",
+   "phases": [
+    {
+     "title": "Confirm the 2027 IRS figures, estimated-tax rules, deductions and due dates",
+     "note": "Safe harbor, uneven income, deductions and payment dates from IRS sources",
+     "judgment": "It would not treat the $88,000 salary as a prior-year tax figure: “fully withheld” does not mean zero tax, so the calculator asks for the real 2026 tax and AGI. It also put health premiums on a separate line from business costs, because the IRS form instructions treat them differently."
+    },
+    {
+     "title": "Build the guide, an editable calculator and the sourced calculations",
+     "note": "A practical guide, a calculator you can change, and every calculation traced to a source",
+     "judgment": "An independent reviewer found a quiet trap: if prior-year AGI was left blank, the calculator would silently pick the 100% safe-harbor rule. The main estimate was unaffected, and the calculator was changed to require both numbers first."
+    },
+    {
+     "title": "Recheck the arithmetic, the calculator and the pages on desktop and phone",
+     "judgment": "The workbook was recalculated with no errors across 48 formulas and five changed-input tests. 2027 retirement limits that were not yet published are not invented; the retirement sizing is labelled as using 2026 limits."
+    }
+   ],
+   "workers": [
+    "Checked the IRS rules on safe harbor, uneven income, quarterly due dates and how to pay, and what an $88,000 salary does and does not say about prior-year tax",
+    "Checked the IRS rules on health insurance versus business expenses, the QBI deduction, a renter’s home-office corner and retirement-plan limits",
+    "Audited the finished guide, calculator and source notes on its own: recomputed the tax, retirement and payment figures and read the workbook’s formulas"
+   ],
+   "chipNames": {
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts": "IRS: 2027 inflation adjustments (5 Nov 2026)",
+    "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf": "IRS Revenue Procedure 2026-35",
+    "https://www.irs.gov/faqs/estimated-tax/individuals/individuals": "IRS estimated-tax safe-harbor FAQ",
+    "https://www.irs.gov/faqs/estimated-tax/individuals/individuals-2": "IRS estimated-tax due-date FAQ",
+    "https://www.irs.gov/instructions/i7206": "IRS instructions for Form 7206 (health insurance)",
+    "https://www.irs.gov/pub/irs-pdf/f1040sse.pdf": "IRS Schedule SE (self-employment tax)",
+    "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-seps": "IRS: SEP retirement plan FAQs",
+    "https://www.irs.gov/instructions/i8995": "IRS instructions for Form 8995 (QBI deduction)"
+   }
+  }
+ }
+}

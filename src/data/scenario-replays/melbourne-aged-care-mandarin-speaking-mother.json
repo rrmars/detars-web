@@ -1,0 +1,204 @@
+{
+ "slug": "melbourne-aged-care-mandarin-speaking-mother",
+ "startedAt": "2026-11-07",
+ "activeSec": 3344,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 1312,
+   "chips": [
+    "https://www.health.gov.au/sites/default/files/2026-09/schedule_of_fees_and_charges_for_residential_care_20_september_2026.pdf",
+    "https://www.myagedcare.gov.au/preparing-your-assessment",
+    "https://www.health.gov.au/our-work/residential-aged-care/charging/rad-and-rac-retention",
+    "https://www.myagedcare.gov.au/find-a-provider/search/nw80f4ll62-uniting-agewell-limited/aged-care-homes/uniting-agewell-box-hill-20wv4xl9d",
+    "https://www.opalhealthcare.com.au/residential-aged-care/box-hill-views"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1312,
+   "end": 2424,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2424,
+   "end": 3374,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family’s situation and get the same care-home and fees comparison",
+   "runTitle": "Melbourne, 82-year-old mother after a fall: aged-care fees, her home and Mandarin-speaking homes near Glen Waverley",
+   "fields": [
+    {
+     "key": "care",
+     "label": "Mother’s care needs and Mandarin preferences",
+     "value": "82, widowed; had a fall and can no longer live alone safely; Mandarin-speaking staff if possible"
+    },
+    {
+     "key": "area",
+     "label": "Suburbs and family travel limits",
+     "value": "Near Glen Waverley or Box Hill; I live in Melbourne’s south-east"
+    },
+    {
+     "key": "approval",
+     "label": "Care approval and target move date",
+     "value": "Move within about three months"
+    },
+    {
+     "key": "home",
+     "label": "Ownership, debts and protected occupants",
+     "value": "She owns her Glen Waverley home, estimated at AUD 1.3 million"
+    },
+    {
+     "key": "finances",
+     "label": "Pension and savings",
+     "value": "Full age pension; about AUD 180,000 in savings"
+    },
+    {
+     "key": "prior",
+     "label": "Prior care and fee protection",
+     "value": "",
+     "placeholder": "e.g. on a home-care package since 2024; no previous residential care"
+    },
+    {
+     "key": "offers",
+     "label": "Written room offers and extras",
+     "value": "",
+     "placeholder": "e.g. a single room quoted at AUD 750,000 with AUD 30 a day extra for a bigger suite"
+    }
+   ],
+   "template": "Help us compare Melbourne residential care for {care} near {area}. Use {approval}, {home}, {finances}, {prior} and {offers}. Separate care safety, language coverage, cash fees and RAD retention. Compare keeping, renting and selling without assuming full pension after sale. List questions for each home and a specialist aged-care financial adviser. Ask before contacting anyone, submitting forms or sharing personal records.",
+   "phases": [
+    {
+     "title": "Check the current aged-care fee rules, assessment steps and local homes from official sources",
+     "note": "Government fee schedules, pension rules and the homes’ own pages",
+     "judgment": "It would not present a convenient number as settled: with the pension supplements, the extra care contribution for keeping the home is $0 only if those supplements are excluded, and just one official source backed that. Without it, about $1.57 a day. It also owned up that its first checks used an existing browser profile, then re-read the fee schedule in fresh, empty sessions."
+    },
+    {
+     "title": "Write the guide and a source list with worked fee examples",
+     "note": "A clear recommendation, a timeline from today, fees explained and a dated list of homes",
+     "judgment": "The guide leads with a recommendation, not a pile of figures: secure safe care first, keep the home for now, and get specialist advice before selling or paying a large room deposit."
+    },
+    {
+     "title": "Check every calculation and source on its own, and test the page on desktop and phone",
+     "judgment": "The independent reviewer recomputed 52 figures and all passed, yet still flagged that the guide said evidence was saved when that folder was empty. The missing material was recovered and the check rerun before delivery."
+    }
+   ],
+   "workers": [
+    "Found homes near Glen Waverley and Box Hill, with their published room prices, star ratings and Mandarin services",
+    "Read the official fee schedules and formulas, and worked out the cost under two options: keeping the home or selling",
+    "Recomputed every dollar figure and checked each claim against the sources, without redoing the research"
+   ],
+   "chipNames": {
+    "https://www.health.gov.au/sites/default/files/2026-09/schedule_of_fees_and_charges_for_residential_care_20_september_2026.pdf": "Residential care fees and charges, September 2026",
+    "https://www.myagedcare.gov.au/preparing-your-assessment": "My Aged Care: preparing for your assessment",
+    "https://www.health.gov.au/our-work/residential-aged-care/charging/rad-and-rac-retention": "Government page on deposit retention",
+    "https://www.myagedcare.gov.au/find-a-provider/search/nw80f4ll62-uniting-agewell-limited/aged-care-homes/uniting-agewell-box-hill-20wv4xl9d": "Uniting AgeWell Box Hill on My Aged Care",
+    "https://www.opalhealthcare.com.au/residential-aged-care/box-hill-views": "Box Hill Views, the home’s own page"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你们家自己的情况，得到同样的养老院与费用比较",
+   "runTitle": "墨尔本，82 岁妈妈摔倒后：养老院费用、她的房子，以及 Glen Waverley 附近能讲普通话的养老院",
+   "fields": [
+    {
+     "key": "care",
+     "label": "妈妈的照护需求和普通话偏好",
+     "value": "82 岁，丧偶；摔倒后不能再独自安全生活；最好有会讲普通话的员工"
+    },
+    {
+     "key": "area",
+     "label": "区域和家人交通范围",
+     "value": "Glen Waverley 或 Box Hill 附近；我住在墨尔本东南区"
+    },
+    {
+     "key": "approval",
+     "label": "照护批准和目标入住日",
+     "value": "三个月左右入住"
+    },
+    {
+     "key": "home",
+     "label": "产权、负债和受保护居住者",
+     "value": "她名下有 Glen Waverley 的房子，估值约 130 万澳元"
+    },
+    {
+     "key": "finances",
+     "label": "养老金和存款",
+     "value": "全额养老金；存款约 18 万澳元"
+    },
+    {
+     "key": "prior",
+     "label": "既往照护及收费保护",
+     "value": "",
+     "placeholder": "例如：2024 年起在用居家照护套餐；之前没住过养老院"
+    },
+    {
+     "key": "offers",
+     "label": "书面房型报价和附加费",
+     "value": "",
+     "placeholder": "例如：单人间报价 75 万澳元，大套间每天另加 30 澳元"
+    }
+   ],
+   "template": "请按{care}，比较{area}附近的墨尔本养老院。使用{approval}、{home}、{finances}、{prior}、{offers}。分开比较照护安全、语言支持、现金费用和 RAD 扣留。比较留房、出租和出售，不假定卖房后仍领全额养老金。列出问每家养老院和专业养老照护财务顾问的问题。联系任何人、提交表格或分享个人资料之前，先问我。",
+   "phases": [
+    {
+     "title": "从官方来源核对最新的养老院收费规则、评估流程和本地养老院",
+     "note": "政府收费表、养老金规则和各家养老院自己的页面",
+     "judgment": "没把方便的数字当成定论：计入养老金补贴后，保留房子时额外的照护分担费要在这些补贴被排除的前提下才是 0，而只有一个官方来源支持这一点；不排除的话约每天 1.57 澳元。它还主动说明，最初几次核对用的是已有的浏览器环境，随后在全新的空白环境里重读了收费表。"
+    },
+    {
+     "title": "写指南和来源清单，附带费用算例",
+     "note": "先给明确建议，再给从今天起的时间线、费用说明和带日期的养老院名单",
+     "judgment": "指南先给建议，而不是堆数字：先保障安全的照护，暂时保留房子，卖房或交大额入住押金之前先找专业顾问。"
+    },
+    {
+     "title": "独立核对每项计算和来源，并在电脑和手机宽度下测试页面",
+     "judgment": "独立复核的同事重算了 52 个数字，全部通过，但仍指出指南称已保存证据、实际文件夹却是空的；缺的材料补回并重新核对后才交付。"
+    }
+   ],
+   "workers": [
+    "找 Glen Waverley 和 Box Hill 附近的养老院，整理公布的房价、星级和普通话服务",
+    "读官方收费表和公式，并算出两种做法的费用：保留房子或卖房",
+    "重算每个金额，逐条对照来源核对，不重做调研"
+   ],
+   "chipNames": {
+    "https://www.health.gov.au/sites/default/files/2026-09/schedule_of_fees_and_charges_for_residential_care_20_september_2026.pdf": "住宿式照护收费表（2026 年 9 月）",
+    "https://www.myagedcare.gov.au/preparing-your-assessment": "My Aged Care：评估前的准备",
+    "https://www.health.gov.au/our-work/residential-aged-care/charging/rad-and-rac-retention": "政府页面：入住押金的扣留",
+    "https://www.myagedcare.gov.au/find-a-provider/search/nw80f4ll62-uniting-agewell-limited/aged-care-homes/uniting-agewell-box-hill-20wv4xl9d": "My Aged Care 上的 Uniting AgeWell Box Hill",
+    "https://www.opalhealthcare.com.au/residential-aged-care/box-hill-views": "Box Hill Views 养老院自己的页面"
+   }
+  }
+ }
+}

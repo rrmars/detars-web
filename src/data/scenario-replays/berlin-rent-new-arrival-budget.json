@@ -1,0 +1,179 @@
+{
+ "slug": "berlin-rent-new-arrival-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1581,
+ "stats": {
+  "searches": 29,
+  "pages": 46,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 25,
+   "end": 695,
+   "chips": [
+    "https://service.berlin.de/dienstleistung/120686/",
+    "https://www.gesetze-im-internet.de/bgb/__551.html",
+    "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1615170.php",
+    "https://www.datenschutz-berlin.de/themen/wohnen/selbstauskunft/",
+    "https://www.polizei-beratung.de/aktuelles/detailansicht/vorsicht-vor-betrug-bei-der-wohnungssuche/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 695,
+   "end": 1402,
+   "chips": [
+    "https://www.berlin.de/sen/wohnen/service/mietspiegel/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1402,
+   "end": 1565,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own arrival date, salary and rent limit to get a Berlin rent and landing-cost plan",
+   "runTitle": "A non-EU developer moving to Berlin on EUR 62,000: finding a first flat within six weeks",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "Arrival date and household",
+     "value": "moving for a job that starts on 1 March 2027, single"
+    },
+    {
+     "key": "salary",
+     "label": "Salary, contract and health insurer",
+     "value": "EU Blue Card, gross salary EUR 62,000 a year"
+    },
+    {
+     "key": "office",
+     "label": "Office location",
+     "value": "",
+     "placeholder": "e.g. an office near Alexanderplatz"
+    },
+    {
+     "key": "cash",
+     "label": "Cash available for the move",
+     "value": "",
+     "placeholder": "e.g. EUR 8,000 saved"
+    },
+    {
+     "key": "rentLimit",
+     "label": "Rent limit",
+     "value": "",
+     "placeholder": "e.g. no more than EUR 1,300 a month all-in"
+    }
+   ],
+   "template": "Plan my Berlin move for {arrival}, with {salary}, {office}, {cash} and {rentLimit}. Show take-home assumptions, dated whole-home adverts, all-in rent, deposits and landing costs. Include registration, newcomer documents, scam checks and a backup if the search takes longer. Keep EUR unchanged; do not contact, apply, book, pay or publish.",
+   "phases": [
+    {
+     "title": "Read the rental and registration rules, check how take-home pay is calculated, and collect dated adverts",
+     "note": "Berlin rent rules, registration, deposit, scams, tax and social contributions",
+     "judgment": "It caught a rule that is easy to misread: the three-month registration exemption for short stays is not permission to wait, because someone planning to stay long-term must register within two weeks. It also found that older official pages show a stale 2025 end date for Berlin’s rent cap, and the Senate’s own announcement says 31 December 2029."
+    },
+    {
+     "title": "Build the rent table and test it against estimated take-home pay",
+     "judgment": "It labelled the take-home figure for what it is: about EUR 3,215 a month under 2026 tax rules, not confirmed 2027 payroll, because no final 2027 calculation had been published and draft reforms were deliberately left out."
+    },
+    {
+     "title": "Write the guide and sources list, then run one final check",
+     "judgment": "It kept the limits of the rent examples in view: the adverts are November price examples, not confirmed March availability, and any cold rent it could not see is marked as unknown rather than guessed."
+    }
+   ],
+   "workers": [
+    "Read primary sources on registration, the paperwork landlords ask for, deposit limits, Berlin’s rent cap and scam warnings",
+    "Worked out a transparent estimate of monthly take-home pay on EUR 62,000 from the official tax and social-contribution rules"
+   ],
+   "chipNames": {
+    "https://service.berlin.de/dienstleistung/120686/": "Service Berlin: registering a new address",
+    "https://www.gesetze-im-internet.de/bgb/__551.html": "German Civil Code §551: rental deposit limits",
+    "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1615170.php": "Berlin Senate Chancellery press release (2025)",
+    "https://www.datenschutz-berlin.de/themen/wohnen/selbstauskunft/": "Berlin data-protection authority: what landlords may ask",
+    "https://www.polizei-beratung.de/aktuelles/detailansicht/vorsicht-vor-betrug-bei-der-wohnungssuche/": "Police advice on housing-search fraud",
+    "https://www.berlin.de/sen/wohnen/service/mietspiegel/": "Berlin Senate: rent index (Mietspiegel)"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的抵达日期、工资和租金上限，得到柏林租房与落脚费用规划",
+   "runTitle": "非欧盟程序员以 62,000 欧元年薪搬到柏林：六周内找到第一套房",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "抵达日期及家庭情况",
+     "value": "为 3 月 1 日（2027 年）开始的工作搬家，单身"
+    },
+    {
+     "key": "salary",
+     "label": "工资、合同和保险机构",
+     "value": "欧盟蓝卡，税前年薪 62,000 欧元"
+    },
+    {
+     "key": "office",
+     "label": "办公室地点",
+     "value": "",
+     "placeholder": "例如：亚历山大广场附近"
+    },
+    {
+     "key": "cash",
+     "label": "可用于搬家的现金",
+     "value": "",
+     "placeholder": "例如：已存 8,000 欧元"
+    },
+    {
+     "key": "rentLimit",
+     "label": "租金上限",
+     "value": "",
+     "placeholder": "例如：全包每月不超过 1,300 欧元"
+    }
+   ],
+   "template": "请规划我的柏林搬迁：抵达日期及家庭{arrival}，工资、合同和保险机构{salary}，办公室{office}，可用现金{cash}，租金上限{rentLimit}。列出到手工资假设、带日期的整套房源、全部租金、押金和落脚费用，加入住址登记、新来者材料、防骗核对和找房延误的备用方案。保留 EUR，不要联系、申请、预订、付款或发布。",
+   "phases": [
+    {
+     "title": "阅读租房和住址登记规则，核对到手工资算法，收集带日期的房源",
+     "note": "柏林租房规则、住址登记、押金、防骗、税和社保",
+     "judgment": "它抓出了一条容易看错的规则：短期居留可免登记三个月的说法，并不等于可以拖着不登记，打算长期居住的人应在两周内登记；它还发现旧的官方页面把柏林租金上限的到期日写成过时的 2025 年，而市政府自己的公告写的是 2029 年 12 月 31 日。"
+    },
+    {
+     "title": "做出租金表，并对照预计的到手工资检验",
+     "judgment": "它把到手工资的性质说清楚了：按 2026 年税制大约每月 3,215 欧元，不是已确认的 2027 年工资单，因为 2027 年的最终算法还没公布，草案中的改革也刻意没有计入。"
+    },
+    {
+     "title": "写成指南和来源清单，最后做一次整体检查",
+     "judgment": "它没有夸大租金示例：房源是 11 月的价格样本，不代表 3 月仍有房，看不到的冷租金标为未知，而不是猜一个数。"
+    }
+   ],
+   "workers": [
+    "阅读一手资料：住址登记、房东会要的材料、押金上限、柏林租金上限和防骗提醒",
+    "依据官方税和社保规则，算出 62,000 欧元年薪对应的每月到手工资，写清每一步假设"
+   ],
+   "chipNames": {
+    "https://service.berlin.de/dienstleistung/120686/": "柏林市政服务：住址登记",
+    "https://www.gesetze-im-internet.de/bgb/__551.html": "德国民法典第 551 条：租房押金上限",
+    "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1615170.php": "柏林市政府新闻稿（2025）",
+    "https://www.datenschutz-berlin.de/themen/wohnen/selbstauskunft/": "柏林数据保护机构：房东能问什么",
+    "https://www.polizei-beratung.de/aktuelles/detailansicht/vorsicht-vor-betrug-bei-der-wohnungssuche/": "警方提醒：找房诈骗",
+    "https://www.berlin.de/sen/wohnen/service/mietspiegel/": "柏林市政府：租金指数（Mietspiegel）"
+   }
+  }
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "slug": "yogyakarta-batik-international-sales-etsy-first",
+ "startedAt": "2026-11-07",
+ "activeSec": 3300,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 22,
+   "end": 574,
+   "chips": [
+    "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026/view",
+    "https://pajak.go.id/id/siaran-pers/pph-final-umkm-tetap-05-persen-djp-perkuat-ketepatan-sasaran",
+    "https://beacukai.go.id/faq-ekspor-barang-kiriman",
+    "https://help.shopify.com/en/manual/your-account/manage-billing/billing-charges/types-of-charges/third-party-charges/third-party-transaction-fees",
+    "https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 574,
+   "end": 1752,
+   "chips": [
+    "https://mydhl.express.dhl/content/dam/downloads/id/en/rate-guide/service_and_rate_guide_id_en_2026.pdf.coredownload.pdf",
+    "https://www.posindonesia.co.id/id/check-tarif",
+    "https://www.cbp.gov/trade/basic-import-export/internet-purchases",
+    "https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/gst-on-imported-goods-and-services/gst-on-low-value-imported-goods",
+    "https://www.customs.go.jp/english/c-answer_e/imtsukan/1006_e.htm"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1752,
+   "end": 3165,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 23,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own product, workshop size and target countries and get the same export launch plan",
+   "runTitle": "Yogyakarta to the world: a batik workshop planning its first international sales",
+   "fields": [
+    {
+     "key": "product",
+     "label": "Product type",
+     "value": "Hand-drawn (tulis) silk and cotton batik scarves"
+    },
+    {
+     "key": "city",
+     "label": "City, country",
+     "value": "Yogyakarta, Indonesia"
+    },
+    {
+     "key": "dest",
+     "label": "Destination countries",
+     "value": "The US, Australia, Japan and the EU"
+    },
+    {
+     "key": "makers",
+     "label": "Number of makers",
+     "value": "A small workshop with two artisans"
+    },
+    {
+     "key": "budget",
+     "label": "Start-up budget, amount and currency",
+     "value": "IDR 20 million"
+    },
+    {
+     "key": "range",
+     "label": "Local price range",
+     "value": "IDR 450,000–1,800,000 per scarf"
+    },
+    {
+     "key": "orders",
+     "label": "Monthly order target",
+     "value": "40 international orders a month within a year"
+    },
+    {
+     "key": "country",
+     "label": "My country",
+     "value": "Indonesia"
+    },
+    {
+     "key": "weight",
+     "label": "Parcel weight",
+     "value": "200 g"
+    }
+   ],
+   "template": "Build a practical launch plan for selling {product} made in {city} to buyers in {dest}. My workshop has {makers}, a start-up budget of {budget}, a local price range of {range} and a monthly order target of {orders}. Compare marketplaces and my own shop, including fees, payout route to {country} and approval limits. Show the real shipping lane and weight for a {weight} packed parcel, buyer import tax in each destination and what happens to my margin if the shipping charge is lower than the carrier’s rate. Add a staged twelve-month plan with go and stop gates. Separate published rates from assumptions, flag anything unconfirmed, and ask before creating accounts, contacting anyone or sharing personal data.",
+   "phases": [
+    {
+     "title": "Research the sales channels, Indonesian export rules and small-business tax",
+     "note": "Marketplace fees and payouts, customs paperwork, registration and tax",
+     "judgment": "It corrected a common claim before it reached the guide: the 0.5% small-business income tax no longer expires after seven years, because a 2026 regulation removed that limit from 22 April 2026."
+    },
+    {
+     "title": "Build the guide: channel comparison, shipping, buyer import tax, pricing and a 12-month plan",
+     "note": "Shipping prices and buyer import tax by destination, with published rates kept apart from assumptions",
+     "judgment": "It would not make up a price it could not find: DHL’s published rates were used (IDR 1,377,000 base to the US, billed at a 500 g minimum), and the exact Pos Indonesia 200 g rate is marked as not verified."
+    },
+    {
+     "title": "Independent audit of the money figures and claims, plus desktop and phone layout",
+     "note": "Mobile table readability fixed",
+     "judgment": "The auditor recomputed every price and margin row and found the arithmetic matches, but did not give an unconditional pass. It listed what stays unresolved (actual shipping, seller eligibility, some legal details) and asked for the loss-making effect of shipping to show for Japan and Australia too."
+    }
+   ],
+   "workers": [
+    "Compared Etsy, Shopify and other marketplaces on seller eligibility for Indonesia, payout to an Indonesian bank and dated fees",
+    "Read Indonesia’s official export, business-registration and small-business tax rules for an individual seller",
+    "Looked for public 200 g shipping prices from Indonesia to the four destination markets",
+    "Independently recomputed every money figure in the guide and checked it against the source list"
+   ],
+   "chipNames": {
+    "https://jdih.kemenkeu.go.id/dok/pp-20-tahun-2026/view": "Government Regulation 20/2026: small-business tax",
+    "https://pajak.go.id/id/siaran-pers/pph-final-umkm-tetap-05-persen-djp-perkuat-ketepatan-sasaran": "Tax Office: 0.5% final tax for small businesses",
+    "https://beacukai.go.id/faq-ekspor-barang-kiriman": "Customs: export FAQ for parcels",
+    "https://help.shopify.com/en/manual/your-account/manage-billing/billing-charges/types-of-charges/third-party-charges/third-party-transaction-fees": "Shopify: third-party transaction fees",
+    "https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts": "US FTC: textile labeling rules",
+    "https://mydhl.express.dhl/content/dam/downloads/id/en/rate-guide/service_and_rate_guide_id_en_2026.pdf.coredownload.pdf": "DHL Express: 2026 Indonesia rate guide",
+    "https://www.posindonesia.co.id/id/check-tarif": "Pos Indonesia: tariff checker",
+    "https://www.cbp.gov/trade/basic-import-export/internet-purchases": "US Customs: internet purchases",
+    "https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/gst-on-imported-goods-and-services/gst-on-low-value-imported-goods": "Australian Tax Office: GST on low-value imports",
+    "https://www.customs.go.jp/english/c-answer_e/imtsukan/1006_e.htm": "Japan Customs: import procedures"
+   }
+  }
+ }
+}

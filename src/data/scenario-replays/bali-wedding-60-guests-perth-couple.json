@@ -1,0 +1,200 @@
+{
+ "slug": "bali-wedding-60-guests-perth-couple",
+ "startedAt": "2026-11-06",
+ "activeSec": 5721,
+ "stats": {
+  "searches": 33,
+  "pages": 82,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 44,
+   "end": 1114,
+   "chips": [
+    "https://indonesia.embassy.gov.au/jakt/marriageind.html",
+    "https://www.smartraveller.gov.au/our-role/notarial-services/how-get-certificate-no-impediment-marriage",
+    "https://www.wa.gov.au/service/justice/civil-law/marriages",
+    "https://www.imigrasi.go.id/faq/visa",
+    "https://mayaresorts.com/ubud/wedding"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 24,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 24,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1114,
+   "end": 5721,
+   "chips": [
+    "https://peraturan.bpk.go.id/Details/47406/uu-no-1-tahun-1974",
+    "https://disdukcapil.badungkab.go.id/",
+    "https://www.atasombakbali.com/terms-and-conditions.html"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 17,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own wedding plan and get the same legal-versus-symbolic comparison and budget check",
+   "runTitle": "Perth to Bali: a wedding for about 60 guests on AUD 45,000",
+   "fields": [
+    {
+     "key": "guests",
+     "label": "Guest count including us",
+     "value": "About 60 guests"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "Late September 2027"
+    },
+    {
+     "key": "ceiling",
+     "label": "AUD ceiling",
+     "value": "AUD 45,000 for the wedding itself (venue, catering, decor, photographer, celebrant and legalities); guests pay their own travel"
+    },
+    {
+     "key": "venues",
+     "label": "Venue quotes and mandatory rooms",
+     "value": "",
+     "placeholder": "e.g. a villa quote that requires a three-night stay, or a resort package with included rooms"
+    },
+    {
+     "key": "priorities",
+     "label": "Drinks and styling priorities",
+     "value": "",
+     "placeholder": "e.g. a free-flowing drinks package and lots of flowers"
+    },
+    {
+     "key": "needs",
+     "label": "Rain and accessibility needs",
+     "value": "",
+     "placeholder": "e.g. a covered seated layout for 60 and step-free access for an older relative"
+    }
+   ],
+   "template": "Compare a Perth legal marriage and symbolic Bali celebration for {guests} on {dates}, with {ceiling}, {venues}, {priorities} and {needs}. Show all-in costs, refundable security, payment/cancellation dates and unresolved items. Ask before contacting suppliers, sharing documents or making bookings.",
+   "phases": [
+    {
+     "title": "Read the official marriage and entry rules, and collect published venue and supplier prices",
+     "note": "The legal route, entry rules for guests, venue and catering prices",
+     "judgment": "It said plainly what it could not confirm: the Indonesian legal text for marrying as a foreigner could not be retrieved, so Australian Embassy guidance is not passed off as Indonesian law. The much-repeated Aksari package price of IDR 127,655,000 was left unverified, and the only agent price it found had expired on 31 December 2025."
+    },
+    {
+     "title": "Build two fully worked budgets and the page, with every calculation shown",
+     "note": "A resort plan within the ceiling, a more comfortable villa plan, and a dated source list",
+     "judgment": "A separate colleague rebuilt all 19 budget rows from their inputs and found no discrepancies (the restrained plan: AUD 43,682.13, AUD 1,317.87 under the ceiling). It also asked for two phrases that sounded firmer than the sources, “funded rain structure” and “contracted 3 hours”, to be reworded as modelled allowances."
+    }
+   ],
+   "workers": [
+    "Read the Australian and Indonesian official guidance on marrying in Bali, the Perth marriage process, and the visa and tourist-levy rules for guests",
+    "Found published prices for cliff-top venues in Uluwatu and venues in Ubud",
+    "Read the rate sheets and event rules of private villas that can seat 60 guests",
+    "Rebuilt every budget figure on its own from the inputs and checked the page’s claims against the sources"
+   ],
+   "chipNames": {
+    "https://indonesia.embassy.gov.au/jakt/marriageind.html": "Australian Embassy: marriage in Indonesia",
+    "https://www.smartraveller.gov.au/our-role/notarial-services/how-get-certificate-no-impediment-marriage": "DFAT: certificate of no impediment process",
+    "https://www.wa.gov.au/service/justice/civil-law/marriages": "WA government: getting married in Western Australia",
+    "https://www.imigrasi.go.id/faq/visa": "Indonesian Immigration: visa FAQ",
+    "https://mayaresorts.com/ubud/wedding": "Maya Ubud: wedding spaces and FAQ",
+    "https://peraturan.bpk.go.id/Details/47406/uu-no-1-tahun-1974": "Indonesian Marriage Law No. 1 of 1974",
+    "https://disdukcapil.badungkab.go.id/": "Badung civil registry",
+    "https://www.atasombakbali.com/terms-and-conditions.html": "Atas Ombak villa: event terms and conditions"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的婚礼计划，得到同样的法律婚与象征性庆典对比和预算核对",
+   "runTitle": "从珀斯到巴厘岛：约 60 位宾客、预算 45,000 澳元的婚礼",
+   "fields": [
+    {
+     "key": "guests",
+     "label": "含新人的总人数",
+     "value": "约 60 位宾客"
+    },
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 9 月下旬"
+    },
+    {
+     "key": "ceiling",
+     "label": "澳元预算上限",
+     "value": "婚礼本身 45,000 澳元（场地、餐饮、布置、摄影、证婚人和法律手续），宾客自付旅费"
+    },
+    {
+     "key": "venues",
+     "label": "场地报价和强制订房",
+     "value": "",
+     "placeholder": "例如：要求连住三晚的别墅报价，或含客房的度假村套餐"
+    },
+    {
+     "key": "priorities",
+     "label": "酒水和布置偏好",
+     "value": "",
+     "placeholder": "例如：想要畅饮酒水套餐和大量鲜花"
+    },
+    {
+     "key": "needs",
+     "label": "雨备和无障碍安排",
+     "value": "",
+     "placeholder": "例如：60 人有顶的座位布局，并为年长亲戚提供无台阶通道"
+    }
+   ],
+   "template": "帮我们比较珀斯合法结婚和巴厘岛象征性庆典，日期 {dates}，人数 {guests}，预算 {ceiling}，已有 {venues}，偏好 {priorities}，需要 {needs}。列全价、可退保证金、付款取消日期和未确认项。联系供应商、分享文件或预订前先问我们。",
+   "phases": [
+    {
+     "title": "查阅官方结婚与入境规定，收集场地和供应商的公开价格",
+     "note": "法律途径、宾客入境规定、场地和餐饮价格",
+     "judgment": "它明确说出了无法确认的部分：没能取得印尼关于外国人结婚的法律原文，所以不会把澳大利亚使馆的说明当作印尼法律。网上被反复引用的 Aksari 套餐价格 127,655,000 印尼盾也没有被当作事实，它找到的唯一一份代理报价已在 2025 年 12 月 31 日过期。"
+    },
+    {
+     "title": "做出两份完整算过的预算和页面，每一步计算都写明",
+     "note": "预算内的度假村方案、更宽裕的别墅方案，以及带日期的来源清单",
+     "judgment": "另一位同事从原始数据重建了全部 19 行预算，没有发现任何出入（预算内方案总计 43,682.13 澳元，比上限低 1,317.87 澳元）。他还要求把两处比来源说得更肯定的措辞——“已列入预算的防雨搭建”和“约定的 3 小时”——改成模型假设的额度。"
+    }
+   ],
+   "workers": [
+    "查阅澳大利亚和印尼官方关于在巴厘岛结婚的说明、珀斯的结婚流程，以及宾客的签证和旅游税规定",
+    "查找乌鲁瓦图悬崖场地和乌布场地公开发布的价格",
+    "查阅可容纳 60 位宾客的私人别墅的价目表和活动规定",
+    "根据原始数据独立重算每一项预算数字，并对照来源核对页面中的说法"
+   ],
+   "chipNames": {
+    "https://indonesia.embassy.gov.au/jakt/marriageind.html": "澳大利亚使馆：在印尼结婚",
+    "https://www.smartraveller.gov.au/our-role/notarial-services/how-get-certificate-no-impediment-marriage": "外交贸易部：无婚姻障碍证明办理流程",
+    "https://www.wa.gov.au/service/justice/civil-law/marriages": "西澳政府：在西澳结婚",
+    "https://www.imigrasi.go.id/faq/visa": "印尼移民局：签证常见问题",
+    "https://mayaresorts.com/ubud/wedding": "Maya Ubud：婚礼场地与常见问题",
+    "https://peraturan.bpk.go.id/Details/47406/uu-no-1-tahun-1974": "印尼 1974 年第 1 号婚姻法",
+    "https://disdukcapil.badungkab.go.id/": "巴东县民事登记处",
+    "https://www.atasombakbali.com/terms-and-conditions.html": "Atas Ombak 别墅：活动条款与条件"
+   }
+  }
+ }
+}

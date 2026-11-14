@@ -1,0 +1,255 @@
+{
+ "slug": "best-phone-under-500-us",
+ "startedAt": "2026-11-05",
+ "activeSec": 2737,
+ "stats": {
+  "searches": 53,
+  "pages": 83,
+  "colleagues": 5,
+  "parallel": 4,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 34,
+   "end": 592,
+   "chips": [
+    "https://store.google.com/us/config/pixel_9a?hl=en-US",
+    "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/",
+    "https://us.nothing.tech/products/phone-4a-pro",
+    "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp",
+    "https://www.verizon.com/support/device-unlocking-policy/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 592,
+   "end": 1911,
+   "chips": [
+    "https://www.apple.com/os/ios/",
+    "https://security.oneplus.com/en/mend",
+    "https://news.samsung.com/us/samsung-unveils-galaxy-a57-5g-galaxy-a37-5g-pro-level-features-awesome-price/",
+    "https://www.backmarket.com/en-us/c/news/battery-health",
+    "https://www.metrobyt-mobile.com/terms-and-conditions/phone-unlock-policy"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 26,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1911,
+   "end": 2536,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 5,
+     "minutes": 3,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own phone needs and get the same kind of comparison",
+   "runTitle": "Choosing a US phone under USD 500: 4–5 years of updates, battery life and indoor photos of the kids",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country",
+     "value": "United States"
+    },
+    {
+     "key": "date",
+     "label": "Buy-by date",
+     "value": "",
+     "placeholder": "e.g. within the next week"
+    },
+    {
+     "key": "budget",
+     "label": "All-in budget",
+     "value": "Under USD 500, bought unlocked"
+    },
+    {
+     "key": "carrier",
+     "label": "ZIP code and carrier or plan",
+     "value": "",
+     "placeholder": "e.g. ZIP 60614, Verizon prepaid"
+    },
+    {
+     "key": "sim",
+     "label": "SIM and Wi-Fi calling needs",
+     "value": "",
+     "placeholder": "e.g. one physical SIM, Wi-Fi calling at home"
+    },
+    {
+     "key": "battery",
+     "label": "Battery use",
+     "value": "Battery life matters most"
+    },
+    {
+     "key": "photos",
+     "label": "Photo needs and lighting",
+     "value": "Photos of my kids indoors"
+    },
+    {
+     "key": "support",
+     "label": "Years of security and OS updates wanted",
+     "value": "Ideally 4–5 years"
+    },
+    {
+     "key": "condition",
+     "label": "Condition, minimum battery health and returns",
+     "value": "",
+     "placeholder": "e.g. refurbished is fine if battery health is 85%+ and returns are 30 days"
+    }
+   ],
+   "template": "Find a phone in {country} by {date}, within {budget}, for {carrier}, with {sim}, {battery}, {photos} {support}, and {condition}; compare exact sellers and configurations, battery condition, returns and total cash cost, separate promotions from real savings, and tell me what to check before keeping it. Use dated sources and country-specific support policies; distinguish reviews from owner stories, flag unknowns, and do not buy, add to carts, activate, contact sellers or claim hands-on testing.",
+   "phases": [
+    {
+     "title": "Check current US prices, each maker’s update promise, reviews and owner reports",
+     "judgment": "It held every maker to its own written update promise: Nothing promises three years of Android updates and six of security, not the 4–5 years of new Android versions asked for, and the $499.99 Moto G Stylus was excluded because its official security support ends in April 2029."
+    },
+    {
+     "title": "Rank the options for indoor kid photos and four to five years of ownership"
+    },
+    {
+     "title": "Build the comparison page and spreadsheet, then check them",
+     "judgment": "The independent reviewer flagged that Samsung’s six-year support clock starts at the first global launch, not at US availability, so the long-support claim needed a qualifier. It also marked the iPhone battery upgrade as a lead still to verify, not a confirmed configuration."
+    }
+   ],
+   "workers": [
+    "Checked Motorola, OnePlus and Nothing offers and how long each maker will really keep patching",
+    "Checked current Pixel and Galaxy prices, specs and update policies on live store pages",
+    "Checked Apple and refurbished options sold outright, and their support terms",
+    "Cleaned up the wording in the comparison data so every line reads properly",
+    "Independently audited the claims against the research notes and ranked the corrections"
+   ],
+   "chipNames": {
+    "https://store.google.com/us/config/pixel_9a?hl=en-US": "Google Store: Pixel 9a",
+    "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/": "Samsung US: Galaxy A57 5G",
+    "https://us.nothing.tech/products/phone-4a-pro": "Nothing US: Phone (4a) Pro",
+    "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp": "Motorola US: Moto G Stylus 2026",
+    "https://www.verizon.com/support/device-unlocking-policy/": "Verizon device unlocking policy",
+    "https://www.apple.com/os/ios/": "Apple: iOS software updates",
+    "https://security.oneplus.com/en/mend": "OnePlus security update schedule",
+    "https://news.samsung.com/us/samsung-unveils-galaxy-a57-5g-galaxy-a37-5g-pro-level-features-awesome-price/": "Samsung US: Galaxy A57 and A37 launch news",
+    "https://www.backmarket.com/en-us/c/news/battery-health": "Back Market: refurbished battery health",
+    "https://www.metrobyt-mobile.com/terms-and-conditions/phone-unlock-policy": "Metro by T-Mobile phone unlock policy"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的手机需求，得到同样的对比报告",
+   "runTitle": "在美国选一部 500 美元以内的手机：4–5 年更新、续航和室内拍孩子",
+   "fields": [
+    {
+     "key": "country",
+     "label": "国家",
+     "value": "美国"
+    },
+    {
+     "key": "date",
+     "label": "最晚购买日期",
+     "value": "",
+     "placeholder": "例如：一周内"
+    },
+    {
+     "key": "budget",
+     "label": "总到手预算",
+     "value": "500 美元以内，买解锁版"
+    },
+    {
+     "key": "carrier",
+     "label": "邮编及运营商套餐",
+     "value": "",
+     "placeholder": "例如：邮编 60614,Verizon 预付费套餐"
+    },
+    {
+     "key": "sim",
+     "label": "SIM 和 Wi-Fi 通话需求",
+     "value": "",
+     "placeholder": "例如：一张实体 SIM，在家用 Wi-Fi 通话"
+    },
+    {
+     "key": "battery",
+     "label": "续航习惯",
+     "value": "最看重续航"
+    },
+    {
+     "key": "photos",
+     "label": "拍照需求和光线",
+     "value": "在室内拍孩子"
+    },
+    {
+     "key": "support",
+     "label": "希望的安全更新和系统升级年限",
+     "value": "最好 4–5 年"
+    },
+    {
+     "key": "condition",
+     "label": "接受的成色、电池下限和退货要求",
+     "value": "",
+     "placeholder": "例如：翻新机可以，但电池健康度要 85% 以上、支持 30 天退货"
+    }
+   ],
+   "template": "请帮我在{country}、{date}前选手机，总到手预算{budget}，邮编及运营商套餐{carrier}，需要{sim}、{battery}、{photos}，希望还支持{support}，接受的成色、电池下限和退货要求为{condition}；比较具体卖家、配置、电池状况、退货条件及现金总支出，分清促销与实际省钱，并列出留下手机前要检查什么。使用注明日期的来源和地区支持政策，区分评测与机主经历，标出未知项，不要购买、加入购物车、激活、联系卖家或声称实机测试。",
+   "phases": [
+    {
+     "title": "核对美国现价、各品牌的更新承诺、评测与机主反馈",
+     "judgment": "它按各品牌自己白纸黑字的更新承诺来衡量：Nothing 承诺 3 年系统更新加 6 年安全更新，并不是你要的 4–5 年系统版本升级；499.99 美元的 Moto G Stylus 因官方安全支持 2029 年 4 月就结束而被剔除。"
+    },
+    {
+     "title": "按室内拍孩子和用 4–5 年来给候选机排序"
+    },
+    {
+     "title": "生成对比网页和表格，并做检查",
+     "judgment": "独立复核的同事指出：三星的六年支持是从全球首发算起，而不是从美国上市算起，所以“长期支持”要加限定；还把 iPhone 的电池升级版标成“待核实的线索”，而不是已确认的配置。"
+    }
+   ],
+   "workers": [
+    "核对摩托罗拉、一加和 Nothing 的在售价格，以及各家实际能补丁多久",
+    "在实时商店页面核对 Pixel 和 Galaxy 的现价、规格和更新政策",
+    "核对苹果与整机买断的翻新机选项及其支持条款",
+    "润色对比数据里的文字，让每一句都读得通顺",
+    "对照调研笔记独立核查各项说法，并按轻重列出需要更正的地方"
+   ],
+   "chipNames": {
+    "https://store.google.com/us/config/pixel_9a?hl=en-US": "Google Store：Pixel 9a",
+    "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/": "三星美国官网：Galaxy A57 5G",
+    "https://us.nothing.tech/products/phone-4a-pro": "Nothing 美国官网：Phone (4a) Pro",
+    "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp": "摩托罗拉美国官网：Moto G Stylus 2026",
+    "https://www.verizon.com/support/device-unlocking-policy/": "Verizon 设备解锁政策",
+    "https://www.apple.com/os/ios/": "苹果：iOS 软件更新",
+    "https://security.oneplus.com/en/mend": "一加安全更新时间表",
+    "https://news.samsung.com/us/samsung-unveils-galaxy-a57-5g-galaxy-a37-5g-pro-level-features-awesome-price/": "三星美国：Galaxy A57 与 A37 发布消息",
+    "https://www.backmarket.com/en-us/c/news/battery-health": "Back Market：翻新机电池健康度",
+    "https://www.metrobyt-mobile.com/terms-and-conditions/phone-unlock-policy": "Metro by T-Mobile 手机解锁政策"
+   }
+  }
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "slug": "manchester-secondary-school-hong-kong-family",
+ "startedAt": "2026-11-07",
+ "activeSec": 3439,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 95,
+   "end": 1815,
+   "chips": [
+    "https://www.trafford.gov.uk/schools-and-learning/starting-school-and-admissions/changing-schools",
+    "https://www.stockport.gov.uk/changing-schools-during-school-year",
+    "https://www.agsb.co.uk/page/?pid=54&title=In+Year+Transfers",
+    "https://stockportgrammar.co.uk/senior-school/admissions/fees/",
+    "https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/bf138f04-daa2-4759-b950-937a17a4c675"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 25,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1815,
+   "end": 2148,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2148,
+   "end": 3416,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your child's year, postcode and budget, and compare secondary-school routes the way this Hong Kong family did",
+   "runTitle": "A Hong Kong family in south Manchester: grammar, state and independent routes for a Year 8 boy",
+   "fields": [
+    {
+     "key": "age",
+     "label": "Birthday and current year group",
+     "value": "Aged 13, currently in Year 8"
+    },
+    {
+     "key": "where",
+     "label": "Postcode and current school",
+     "value": "On the Stockport/Trafford border in south Manchester; the current school is not named"
+    },
+    {
+     "key": "improve",
+     "label": "What needs to improve",
+     "value": "They are unhappy with the current school"
+    },
+    {
+     "key": "work",
+     "label": "English and maths work",
+     "value": "Strong in maths; English is good but not native-level"
+    },
+    {
+     "key": "journey",
+     "label": "Journey limit",
+     "value": "",
+     "placeholder": "e.g. no more than 40 minutes each way by bus"
+    },
+    {
+     "key": "budget",
+     "label": "Annual and up-front budget",
+     "value": "",
+     "placeholder": "e.g. up to £6,000 a year if fees are needed"
+    },
+    {
+     "key": "chinese",
+     "label": "Cantonese or Chinese goals",
+     "value": "Wants to keep up Cantonese and Chinese"
+    }
+   ],
+   "template": "Help us compare south Manchester secondary-school routes using {age}, {where}, {improve}, {work}, {journey}, {budget} and {chinese}. Keep a practical non-selective backup, separate test eligibility from vacancies, and check GCSE fit and full costs. Ask us before contacting schools, sharing pupil information or submitting anything.",
+   "phases": [
+    {
+     "title": "Read both councils' admission rules, compare eight schools and collect the costs from official sources",
+     "note": "In-year transfers, grammar tests, government results, school fees and bursaries",
+     "judgment": "It caught a mismatch between a grammar school's 2027 admissions policy and its own web page: the policy adds a modern foreign language test for Years 9–11, the page does not mention it. It flagged this and did not invent a threshold."
+    },
+    {
+     "title": "Write the guide with a recommendation, an eight-school table and a month-by-month timeline"
+    },
+    {
+     "title": "Audit the claims and the arithmetic, then check the page at desktop and phone width",
+     "judgment": "The audit recomputed 14 money figures and all eight schools' government results rows, and everything matched. The delivery also says plainly that a second reviewer stalled and was stopped, so this was a recalculation plus a source cross-check, not an outside sign-off."
+    }
+   ],
+   "workers": [
+    "Read both councils' and the grammar schools' own admission rules: who decides, waiting lists, appeals, entry tests and deadlines",
+    "Pulled the official government results and inspection reports for eight schools, plus GCSE Chinese and support for learners of English",
+    "Collected independent-school fees, bursary rules and late-entry availability, and what private tutoring costs",
+    "Assigned to recompute every money figure and check each claim against the sources; stopped before reporting, so the main run finished the audit"
+   ],
+   "chipNames": {
+    "https://www.trafford.gov.uk/schools-and-learning/starting-school-and-admissions/changing-schools": "Trafford Council: changing schools",
+    "https://www.stockport.gov.uk/changing-schools-during-school-year": "Stockport Council: changing schools mid-year",
+    "https://www.agsb.co.uk/page/?pid=54&title=In+Year+Transfers": "Altrincham Grammar School for Boys: in-year transfers",
+    "https://stockportgrammar.co.uk/senior-school/admissions/fees/": "Stockport Grammar School: fees",
+    "https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/bf138f04-daa2-4759-b950-937a17a4c675": "Department for Education: school performance data"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你孩子的年级、邮编和预算，就能像这个香港家庭一样比较各条中学路径",
+   "runTitle": "香港家庭在南曼彻斯特：八年级男孩的文法、公立和私立路径",
+   "fields": [
+    {
+     "key": "age",
+     "label": "生日和当前年级",
+     "value": "13 岁，现在读八年级（Year 8）"
+    },
+    {
+     "key": "where",
+     "label": "邮编和现校",
+     "value": "在南曼彻斯特，斯托克波特和特拉福德交界处；没有写现校名称"
+    },
+    {
+     "key": "improve",
+     "label": "希望改善的问题",
+     "value": "对现在的学校不满意"
+    },
+    {
+     "key": "work",
+     "label": "英语数学作业",
+     "value": "数学强；英语不错，但不是母语水平"
+    },
+    {
+     "key": "journey",
+     "label": "通勤上限",
+     "value": "",
+     "placeholder": "例如：公交单程不超过 40 分钟"
+    },
+    {
+     "key": "budget",
+     "label": "年度及前期预算",
+     "value": "",
+     "placeholder": "例如：需要付学费的话，每年不超过 6000 英镑"
+    },
+    {
+     "key": "chinese",
+     "label": "粤语中文目标",
+     "value": "想继续保持粤语和中文"
+    }
+   ],
+   "template": "请按{age}、{where}、{improve}、{work}、{journey}、{budget}和{chinese}，比较南曼彻斯特中学路径。保留可行的非选拔备用校，分开考试资格和实际空位，核对 GCSE 衔接与完整费用。联系学校、分享学生资料或提交任何内容前，先问我们。",
+   "phases": [
+    {
+     "title": "读两个市政厅的招生规则，比较八所学校，并从官方来源收集费用",
+     "note": "转校规则、文法学校考试、政府成绩、学费和助学金",
+     "judgment": "它发现一所文法学校的 2027 招生政策和学校网页对不上：政策里写明 9–11 年级要加现代外语测试，网页却没提。它把这一点标了出来，没有自己编一个分数线。"
+    },
+    {
+     "title": "写出带推荐的指南、八所学校对比表和逐月时间表"
+    },
+    {
+     "title": "审核各项说法和算术，再检查电脑和手机上的页面",
+     "judgment": "审核重新计算了 14 项金额，以及八所学校的政府成绩数据，全部对得上。交付里也直接说明：另一位复核同事中途卡住、被停掉了，所以这是重新计算加来源对照，不是外部人员的确认。"
+    }
+   ],
+   "workers": [
+    "读两个市政厅和文法学校自己的招生规则：谁决定、候补名单、申诉、入学考试和截止日期",
+    "查八所学校的政府官方成绩和督导报告，以及 GCSE 中文课程和英语学习支持",
+    "收集私立学校的学费、助学金规则、插班名额，以及请私人家教的价格",
+    "被安排重算每一项金额、逐条核对来源；中途卡住被停掉，复核由主流程自己完成"
+   ],
+   "chipNames": {
+    "https://www.trafford.gov.uk/schools-and-learning/starting-school-and-admissions/changing-schools": "特拉福德市政厅：转学",
+    "https://www.stockport.gov.uk/changing-schools-during-school-year": "斯托克波特市政厅：学年中转学",
+    "https://www.agsb.co.uk/page/?pid=54&title=In+Year+Transfers": "奥尔特灵厄姆男子文法学校：学年中转入",
+    "https://stockportgrammar.co.uk/senior-school/admissions/fees/": "斯托克波特文法学校：学费",
+    "https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/bf138f04-daa2-4759-b950-937a17a4c675": "教育部：学校成绩数据"
+   }
+  }
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "slug": "mexico-city-month-canadian-remote-worker",
+ "startedAt": "2026-11-05",
+ "activeSec": 3183,
+ "stats": {
+  "searches": 50,
+  "pages": 51,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 72,
+   "end": 696,
+   "chips": [
+    "https://embamex.sre.gob.mx/canada/index.php/en/visas-and-services-for-foreigners",
+    "https://www.gob.mx/inm/articulos/forma-migratoria-multiple-digital-fmmd?idiom=as",
+    "https://travel.gc.ca/travelling/health-safety/altitude-illnesses",
+    "https://uotan.mx/",
+    "https://spacioss.com.mx/co-working/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 696,
+   "end": 2797,
+   "chips": [
+    "https://co-madre.com/precios/",
+    "https://mexicocity.cdmx.gob.mx/wp-content/uploads/2026/01/guia_barrios_cdmx.pdf",
+    "https://www.gob.mx/sre/acciones-y-programas/visa-de-visitante-sin-permiso-para-realizar-actividades-remuneradas",
+    "https://www.gob.mx/inm/acciones-y-programas/paises-y-regiones-que-no-requieren-visa-para-viajar-a-mexico"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2797,
+   "end": 3215,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates and budget and get a month-abroad plan with every fee and caveat kept",
+   "runTitle": "Toronto-hours remote worker, one month in Mexico City: USD 2,800, 1–31 March 2027",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Exact arrival and departure dates",
+     "value": "1–31 March 2027"
+    },
+    {
+     "key": "passport",
+     "label": "Passport and residence",
+     "value": "Canadian passport; living in Canada"
+    },
+    {
+     "key": "employer",
+     "label": "Employer location and work hours",
+     "value": "Works remotely on Toronto hours"
+    },
+    {
+     "key": "budget",
+     "label": "Budget currency and amount",
+     "value": "About USD 2,800 for the month, excluding flights"
+    },
+    {
+     "key": "deposit",
+     "label": "Separate deposit cash",
+     "value": "",
+     "placeholder": "e.g. USD 1,500 set aside on top for a deposit"
+    },
+    {
+     "key": "workspace",
+     "label": "Workspace needs",
+     "value": "",
+     "placeholder": "e.g. quiet desk, reliable Wi-Fi, open to 19:00"
+    },
+    {
+     "key": "areas",
+     "label": "Preferred areas",
+     "value": "Roma Norte, Condesa, Narvarte, Del Valle, Coyoacán"
+    }
+   ],
+   "template": "Plan a working month in Mexico City for {dates}, with {passport}, {employer}, {budget}, {deposit}, {workspace} and {areas}. Compare dated housing leads, full fees, daily work hours, coworking commitments and transport. Flag immigration, tax and insurance questions for professional confirmation. Plan only; do not contact hosts, create accounts, book or pay.",
+   "phases": [
+    {
+     "title": "Look up housing, coworking, transport, health and entry sources",
+     "note": "Official entry and health pages, plus coworking and rental sites"
+    },
+    {
+     "title": "Write the practical guide and the source log",
+     "note": "Neighbourhood trade-offs, housing and coworking prices, transport, budget table",
+     "judgment": "Housing is labelled as advertised rates, not confirmed March vacancies: only one listing (Narvarte, MXN 26,000 a month) explicitly covers 1 March–31 May 2027. A second colleague re-checked all ten against the original pages, and a USD 2,900 figure that could not be supported was withdrawn, because the page shows USD 2,600."
+    },
+    {
+     "title": "Check the content, the budget arithmetic and the finished page",
+     "judgment": "The month budget is checked at MXN 50,400 / USD 2,800, and the guide says openly that the exchange rate behind it is an assumption."
+    }
+   ],
+   "workers": [
+    "Found and opened ten furnished monthly listings across four areas, noting price, size, fees and what each page leaves out",
+    "Checked Mexico’s official entry rules for Canadian passport holders and the digital visitor permit, plus official altitude and water guidance",
+    "Collected published coworking day and monthly prices from three operators, plus the official Metro and Metrobús fares",
+    "Independently re-checked the housing table against the original listing pages"
+   ],
+   "chipNames": {
+    "https://embamex.sre.gob.mx/canada/index.php/en/visas-and-services-for-foreigners": "Mexican Embassy in Canada: visas and services",
+    "https://www.gob.mx/inm/articulos/forma-migratoria-multiple-digital-fmmd?idiom=as": "Immigration Institute: digital visitor permit (FMMD)",
+    "https://travel.gc.ca/travelling/health-safety/altitude-illnesses": "Government of Canada: altitude illness advice",
+    "https://uotan.mx/": "Uotan coworking",
+    "https://spacioss.com.mx/co-working/": "Spacioss coworking",
+    "https://co-madre.com/precios/": "Co-Madre coworking prices",
+    "https://mexicocity.cdmx.gob.mx/wp-content/uploads/2026/01/guia_barrios_cdmx.pdf": "Mexico City neighbourhood guide",
+    "https://www.gob.mx/sre/acciones-y-programas/visa-de-visitante-sin-permiso-para-realizar-actividades-remuneradas": "SRE: visitor visa without paid activity",
+    "https://www.gob.mx/inm/acciones-y-programas/paises-y-regiones-que-no-requieren-visa-para-viajar-a-mexico": "Immigration Institute: visa-exempt countries"
+   }
+  }
+ }
+}

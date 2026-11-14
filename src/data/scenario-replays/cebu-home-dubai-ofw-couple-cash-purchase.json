@@ -1,0 +1,132 @@
+{
+ "slug": "cebu-home-dubai-ofw-couple-cash-purchase",
+ "startedAt": "2026-11-07",
+ "activeSec": 2431,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 18,
+   "end": 558,
+   "chips": [
+    "https://www.metrobank.com.ph/personal/loans/home-loan/home-purchase",
+    "https://www.bpi.com.ph/personal/loans/my-overseas-pinoy",
+    "https://alansariexchange.com/wp-content/uploads/2019/10/KFS%20Remittance%20-25JAN25%20%5Bfrom%20operations%5D_compressed.pdf?_t=1737965760",
+    "https://www.pagibigfundservices.com/virtualpagibig/MP2TermsAndConditions.aspx",
+    "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/90470"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 558,
+   "end": 1704,
+   "chips": [
+    "https://pco.gov.ph/news_releases/pag-ibig-lowers-housing-loan-rates-raises-maximum-home-loan-to-p10-million"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1704,
+   "end": 2278,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 8,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own situation and get the same cash-versus-mortgage comparison for a home in Cebu",
+   "runTitle": "Dubai to Cebu: a Filipino couple weighing a PHP 4.5 million home, cash or mortgage",
+   "fields": [
+    {
+     "key": "income",
+     "label": "Income and expenses",
+     "value": "Combined take-home pay of AED 16,500 a month"
+    },
+    {
+     "key": "savings",
+     "label": "Debts and liquid savings",
+     "value": "PHP 1.4 million saved"
+    },
+    {
+     "key": "mp2",
+     "label": "MP2 maturity",
+     "value": "",
+     "placeholder": "e.g. MP2 savings maturing in March 2029"
+    },
+    {
+     "key": "ceiling",
+     "label": "Price ceiling",
+     "value": "Up to PHP 4.5 million"
+    },
+    {
+     "key": "returndate",
+     "label": "Return date",
+     "value": "Moving back in about 2030"
+    }
+   ],
+   "template": "Compare a Cebu cash purchase with a mortgage using {income}, {savings}, {mp2}, {ceiling} and {returndate}. Protect our reserve, test net AED/PHP savings, and flag Pag-IBIG, SPA and property checks. Ask before contacting anyone, applying, transferring money or sharing personal data.",
+   "phases": [
+    {
+     "title": "Read official bank, Pag-IBIG and remittance pages",
+     "note": "Loan terms, transfer fees and rules for buying property remotely",
+     "judgment": "It would not invent a quote. Exchange-house fees are published (Al Ansari lists AED 23.10 plus VAT), but they are not a personal quote, and no live exchange-rate quote could be obtained without handing over personal data. The guide says so."
+    },
+    {
+     "title": "Write the guide with a 2027–2030 savings plan and a source list",
+     "note": "Cash purchase against mortgage, transfer cost table, red-flag checklist",
+     "judgment": "It kept a 5.75% rate from being read as a current offer: the public Pag-IBIG calculator showed it, but that does not establish 2026 promotional pricing. It also found Metrobank’s maximum term for overseas workers is 15 years, not the 25 years in its general advertising."
+    },
+    {
+     "title": "Independent check of every figure and source, plus desktop and phone layout tests",
+     "judgment": "The independent colleague recomputed the figures and found every displayed calculation correct. It still recommended two wording fixes, including showing Metrobank’s income-tax-return condition for loans above PHP 3m, and it noted that not every page was read in a fresh, signed-out browser as required."
+    }
+   ],
+   "workers": [
+    "Compared the public fees for sending money from the UAE to the Philippines through exchange houses, banks and apps, without asking for personal quotes",
+    "Looked up Pag-IBIG housing-loan rules for active overseas members, and kept the 2026 changes apart from the older rates",
+    "Checked bank housing-loan terms and paperwork for overseas workers, and found dated bank-owned house-and-lot examples in Cebu",
+    "Recomputed every money figure on its own and checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.metrobank.com.ph/personal/loans/home-loan/home-purchase": "Metrobank home loan: purchase terms",
+    "https://www.bpi.com.ph/personal/loans/my-overseas-pinoy": "BPI My Overseas Pinoy home loan",
+    "https://alansariexchange.com/wp-content/uploads/2019/10/KFS%20Remittance%20-25JAN25%20%5Bfrom%20operations%5D_compressed.pdf?_t=1737965760": "Al Ansari key facts statement for remittances",
+    "https://www.pagibigfundservices.com/virtualpagibig/MP2TermsAndConditions.aspx": "Pag-IBIG MP2 savings terms and conditions",
+    "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/90470": "Pag-IBIG Circular 402: loan amount and assessment",
+    "https://pco.gov.ph/news_releases/pag-ibig-lowers-housing-loan-rates-raises-maximum-home-loan-to-p10-million": "Government news release: Pag-IBIG raises maximum housing loan to PHP 10m"
+   }
+  }
+ }
+}

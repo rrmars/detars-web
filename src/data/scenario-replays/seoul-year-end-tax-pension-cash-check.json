@@ -1,0 +1,81 @@
+{
+ "slug": "seoul-year-end-tax-pension-cash-check",
+ "startedAt": "2026-11-07",
+ "activeSec": 823,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 823,
+   "chips": [
+    "https://www.law.go.kr/법령/소득세법/제59조의3"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own salary, spending and accounts, and see whether pension savings, an ISA or cash is the better home for year-end money",
+   "runTitle": "A Seoul office worker's year-end tax check: pension savings, ISA or cash before 31 December",
+   "fields": [
+    {
+     "key": "household",
+     "label": "Tax year, age, residence and household status",
+     "value": "2026 tax year, age 31, single, living alone in Seoul"
+    },
+    {
+     "key": "salary",
+     "label": "Gross salary, deductible insurance and withholding",
+     "value": "Total annual salary of KRW 62 million"
+    },
+    {
+     "key": "pension",
+     "label": "Existing pension contributions and account terms",
+     "value": "No pension savings or IRP contributions yet; an ISA opened in 2025 holding KRW 8 million"
+    },
+    {
+     "key": "cards",
+     "label": "Card spending by category",
+     "value": "About KRW 1.6 million a month on credit card and about KRW 400,000 on debit card and cash payments"
+    },
+    {
+     "key": "lease",
+     "label": "Lease, loan dates and repayments",
+     "value": "Jeonse officetel with a KRW 180 million deposit and a KRW 120 million bank loan"
+    },
+    {
+     "key": "cash",
+     "label": "Cash actually accessible and near-term needs",
+     "value": "KRW 3 million spare cash now"
+    }
+   ],
+   "template": "Build a Korean year-end tax and cash plan for {household}, {salary}, {pension}, {cards}, {lease}, and {cash}. Compare pension savings, IRP, ISA and keeping cash; separate tax reductions from refunds, check compatible deductions, and flag any proposal or unverified rule. Plan only; do not access accounts, contribute money or file a return.",
+   "phases": [
+    {
+     "title": "Research the 2026 rules, write the guide and have it independently checked",
+     "note": "Pension-account credit, card deduction, jeonse loan deduction and the ISA trade-off",
+     "judgment": "The check was done by someone who did not write the guide. The independent reviewer recomputed the money figures from the source notes without reading the author’s calculations, and found no mismatches in 25 checks. It also pushed back on labelling: the headline 13.2% rate was stated without a caveat although the local-tax add-on was unconfirmed. The author fixed those labels."
+    }
+   ],
+   "workers": [
+    "Recomputed every money figure from the source notes without looking at the author’s calculations, and checked the guide's statute claims"
+   ],
+   "chipNames": {
+    "https://www.law.go.kr/법령/소득세법/제59조의3": "Income Tax Act, article 59-3 (pension account tax credit)"
+   }
+  }
+ }
+}

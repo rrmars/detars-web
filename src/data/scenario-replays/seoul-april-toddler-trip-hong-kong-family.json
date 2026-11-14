@@ -1,0 +1,167 @@
+{
+ "slug": "seoul-april-toddler-trip-hong-kong-family",
+ "startedAt": "2026-11-07",
+ "activeSec": 2738,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 54,
+   "end": 2155,
+   "chips": [
+    "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&locale=EN",
+    "https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do",
+    "https://www.airportrailroad.com/policy/transport",
+    "https://www.seoulchildrensmuseum.org/eng/reservation/viewAdmission.do",
+    "https://www.visitsealife.com/coex-seoul/en/plan-your-visit/before-you-visit/opening-hours/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 35,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 2155,
+   "end": 2383,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2383,
+   "end": 2576,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2576,
+   "end": 2732,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family and dates and get a nap-friendly Seoul plan with a budget that adds up",
+   "runTitle": "Hong Kong to Seoul: four nights in April with a 2.5-year-old on HKD 18,000",
+   "fields": [
+    {
+     "key": "nights",
+     "label": "Number of nights",
+     "value": "4"
+    },
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Seoul"
+    },
+    {
+     "key": "adults",
+     "label": "Adults",
+     "value": "two adults"
+    },
+    {
+     "key": "age",
+     "label": "Child’s age",
+     "value": "2.5 years"
+    },
+    {
+     "key": "dates",
+     "label": "Travel dates",
+     "value": "8 to 12 April 2027"
+    },
+    {
+     "key": "home",
+     "label": "Home city",
+     "value": "Hong Kong"
+    },
+    {
+     "key": "budget",
+     "label": "Total budget, excluding flights",
+     "value": "HKD 18,000 for the three of them"
+    },
+    {
+     "key": "nap",
+     "label": "Nap or rest window",
+     "value": "",
+     "placeholder": "e.g. 13:00–15:00"
+    },
+    {
+     "key": "passports",
+     "label": "Passports",
+     "value": "Hong Kong SAR passports"
+    },
+    {
+     "key": "stroller",
+     "label": "Stroller and car-seat situation",
+     "value": "a toddler travelling with a stroller"
+    },
+    {
+     "key": "currency",
+     "label": "Budget currency",
+     "value": "KRW and HKD"
+    }
+   ],
+   "template": "Plan a {nights}-night trip to {city} for {adults} and a child aged {age}, travelling {dates} from {home}, with a total budget of {budget} excluding flights and a nap or rest window of {nap}. Recommend one base area and a fallback, with room-price caps, entry and visa checks for {passports}, airport transfers that suit {stroller}, a few toddler-friendly places with published hours and ticket examples, and a day-by-day plan around naps. Build a budget in {currency} with an exchange-rate convention and stress tests. Separate published prices from allowances, mark anything unverified for my dates, and ask before booking, contacting anyone or submitting forms.",
+   "phases": [
+    {
+     "title": "Read official entry, transport, hotel and toddler-venue pages, with dates and prices noted",
+     "note": "Entry rules, airport transfers, four neighbourhoods, kids’ places and blossom dates",
+     "judgment": "It kept to what the official pages say: Korea’s temporary waiver of the K-ETA travel permit for adults ends on 31 December 2026, and whether it continues into April 2027 is unconfirmed. Likewise, it found no verified hotel quote for their exact dates, so none was invented."
+    },
+    {
+     "title": "Finish the toddler-venue research after a colleague’s first attempt was interrupted",
+     "note": "Eight venues with hours, ticket prices and age rules",
+     "judgment": "When it could not read a venue’s page, such as the Lotte World Aquarium’s fee and free-age terms, it listed that as unverified rather than filling it in from search snippets. It also found that a greenhouse at Children’s Grand Park is closed until the second half of 2027."
+    },
+    {
+     "title": "Complete the guide and the dated source list"
+    },
+    {
+     "title": "Independent check of money and sources, plus desktop and phone layout tests",
+     "judgment": "The reviewer recomputed every HKD budget line and found them right, and in the same report said what it could not approve: exact-date prices and rules for April 2027 stay unresolved, and the source list has two small gaps (hotel lounge details and check-in/out times)."
+    }
+   ],
+   "workers": [
+    "Checked entry rules for Hong Kong passport holders, the arrival declaration and airport-to-city options with a toddler and a stroller",
+    "Read venue pages for eight toddler-friendly places: opening hours, ticket prices and age rules",
+    "Compared four neighbourhoods, looked for family-room hotel rates and checked cherry-blossom festival dates",
+    "Recomputed every money figure and checked the guide against its source list"
+   ],
+   "chipNames": {
+    "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&locale=EN": "K-ETA official notice on the temporary exemption",
+    "https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do": "Korea’s arrival-card guide: who must declare",
+    "https://www.airportrailroad.com/policy/transport": "Airport Railroad (AREX): transport policy and fares",
+    "https://www.seoulchildrensmuseum.org/eng/reservation/viewAdmission.do": "Seoul Children’s Museum: admission",
+    "https://www.visitsealife.com/coex-seoul/en/plan-your-visit/before-you-visit/opening-hours/": "COEX aquarium: opening hours"
+   }
+  }
+ }
+}

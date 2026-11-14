@@ -1,0 +1,143 @@
+{
+ "slug": "london-toronto-two-bedroom-move-with-cat",
+ "startedAt": "2026-11-06",
+ "activeSec": 1812,
+ "stats": {
+  "searches": 51,
+  "pages": 42,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 37,
+   "end": 564,
+   "chips": [
+    "https://www.cbsa-asfc.gc.ca/publications/dm-md/d2/d2-2-1-eng.html",
+    "https://www.pssremovals.com/removals-to-canada",
+    "https://inspection.canada.ca/en/importing-food-plants-animals/pets/cats",
+    "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-canada-certificate-2923",
+    "https://www.airtransat.com/en-CA/travel-information/special-services/pets-and-service-dogs"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 564,
+   "end": 1306,
+   "chips": [
+    "https://www.fetchapet.co.uk/pet-export/canada",
+    "https://inspection.canada.ca/en/importing-food-plants-animals/pets/rabies-free",
+    "https://www.gov.uk/taking-your-pet-abroad/travelling-to-a-noneu-country",
+    "https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 5,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1306,
+   "end": 1746,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same ship-or-rebuy comparison before you book anything",
+   "runTitle": "London to Toronto: a 2-bedroom flat, 25 cubic metres and one cat, against a CAD 8,000 allowance",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Moving dates",
+     "value": "Arriving around 1 April 2027, moving from south London"
+    },
+    {
+     "key": "status",
+     "label": "Immigration status, employment duration and earlier Canadian residence",
+     "value": "",
+     "placeholder": "e.g. 2-year work permit, 3-year contract, never lived in Canada"
+    },
+    {
+     "key": "inventory",
+     "label": "Inventory",
+     "value": "About 25 cubic metres of furniture and boxes from a 2-bedroom flat, less if the big items are sold"
+    },
+    {
+     "key": "allowance",
+     "label": "HR allowance rules",
+     "value": "CAD 8,000 relocation allowance"
+    },
+    {
+     "key": "cat",
+     "label": "Cat's age, breed, measurements, health and country history",
+     "value": "One cat"
+    },
+    {
+     "key": "ceiling",
+     "label": "Spending ceiling and delivery flexibility",
+     "value": "",
+     "placeholder": "e.g. CAD 15,000 in total; furniture can arrive up to 3 months late"
+    }
+   ],
+   "template": "Plan our London–Toronto move for {dates}, {status}, {inventory}, {allowance} and {cat}. Compare shipping with rebuying, check customs and pet-flight requirements, and show cash needs including flights, housing and deferred purchases within {ceiling}. Plan only; do not contact, submit forms, book or pay.",
+   "phases": [
+    {
+     "title": "Collect public removal prices, customs rules, cat travel requirements and Toronto replacement prices",
+     "note": "Removal quotes, customs, cat entry rules, airline policies and rebuying costs",
+     "judgment": "It refused to assume the new job counts as settling in Canada: whether employment runs past 36 months decides which customs rules apply, so the plan is marked as dependent on the couple's actual status."
+    },
+    {
+     "title": "Build three costed plans, a timeline and the report page, while a colleague recomputes the numbers",
+     "note": "Ship a full container, ship 10 m³ shared, or take suitcases and air freight and rebuy",
+     "judgment": "The independent recount ran 155 checks. It caught two summary figures that were one cent off and a delivery window that stopped at July when shared shipping can arrive as late as 4 August. The final page carries both fixes."
+    },
+    {
+     "title": "Final checks and page tests at desktop and phone widths",
+     "judgment": "It kept the cat's cabin seat out of the headline number: the recommended plan costs CAD 12,951.54 with the cat in cargo, and CAD 8,771.54 only if the cat may fly in the cabin, which no airline source confirmed for a London departure."
+    }
+   ],
+   "workers": [
+    "Collected public prices and transit times from four removal companies",
+    "Read Canada's official customs rules for settlers' goods, the declaration forms and the goods-to-follow timing",
+    "Checked what Canada and the UK require to bring a cat in, plus airline pet rules and shipping costs",
+    "Recomputed the cost model independently and checked each figure against the page and its sources"
+   ],
+   "chipNames": {
+    "https://www.cbsa-asfc.gc.ca/publications/dm-md/d2/d2-2-1-eng.html": "CBSA guidance on settlers' effects (D2-2-1)",
+    "https://www.pssremovals.com/removals-to-canada": "PSS Removals: UK to Canada",
+    "https://inspection.canada.ca/en/importing-food-plants-animals/pets/cats": "CFIA: bringing a cat into Canada",
+    "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-canada-certificate-2923": "GOV.UK: health certificate for exporting a cat to Canada",
+    "https://www.airtransat.com/en-CA/travel-information/special-services/pets-and-service-dogs": "Air Transat: pet travel rules",
+    "https://www.fetchapet.co.uk/pet-export/canada": "Fetchapet: pet shipping to Canada",
+    "https://inspection.canada.ca/en/importing-food-plants-animals/pets/rabies-free": "CFIA: rabies-free country rules for pets",
+    "https://www.gov.uk/taking-your-pet-abroad/travelling-to-a-noneu-country": "GOV.UK: taking a pet to a non-EU country",
+    "https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf": "IATA: pet container requirements"
+   }
+  }
+ }
+}

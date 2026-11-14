@@ -1,0 +1,265 @@
+{
+ "slug": "study-abroad-from-india-total-cost-application-plan",
+ "startedAt": "2026-11-05",
+ "activeSec": 2808,
+ "stats": {
+  "searches": 111,
+  "pages": 227,
+  "colleagues": 6,
+  "parallel": 5,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 390,
+   "chips": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+    "https://www.uni-saarland.de/en/study/programmes/master/informatics.html",
+    "https://www.gov.uk/graduate-visa",
+    "https://aps-india.de/dmat/",
+    "https://statistik.tu-dortmund.de/en/prospective-students/application-enrollment/master-data-science/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 390,
+   "end": 740,
+   "chips": [
+    "https://studyinthestates.dhs.gov/2026/10/dhs-publishes-proposed-rule-establishing-fees-for-optional-practical-training",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+    "https://international.tu-dortmund.de/en/international-applicants/application/master/application-for-non-eu/eea/",
+    "https://www.uow.edu.au/study/courses/master-of-computer-science/?students=international&campus=Wollongong&year=2027",
+    "https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 740,
+   "end": 2687,
+   "chips": [
+    "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible",
+    "https://aps-india.de/dmat/",
+    "https://www.uni-saarland.de/en/study/programmes/master/informatics.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 5,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 6,
+     "minutes": 10,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own budget, grades and test status and get a full-cost comparison before you pay any application fee",
+   "runTitle": "Pune to five countries: a master’s in computer science or data science from fall 2027, with ₹35 lakh in family funds",
+   "fields": [
+    {
+     "key": "courses",
+     "label": "Courses and intake",
+     "value": "Master’s in computer science or data science, 1–2 years, starting fall 2027; comparing the UK, Germany, Canada, Australia and the US"
+    },
+    {
+     "key": "city",
+     "label": "City in India",
+     "value": "Pune"
+    },
+    {
+     "key": "budget",
+     "label": "Whole-degree budget",
+     "value": "35 lakh in family funds; an education loan for the rest if it is worth it"
+    },
+    {
+     "key": "degree",
+     "label": "Degree, grades and course credits",
+     "value": "Final-year B.Tech"
+    },
+    {
+     "key": "graduation",
+     "label": "Graduation date",
+     "value": "",
+     "placeholder": "e.g. May 2027"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "",
+     "placeholder": "e.g. 22"
+    },
+    {
+     "key": "tests",
+     "label": "Test and APS status",
+     "value": "",
+     "placeholder": "e.g. IELTS booked, GRE not taken, APS not started"
+    },
+    {
+     "key": "loan",
+     "label": "Loan limit",
+     "value": "",
+     "placeholder": "e.g. up to ₹20 lakh"
+    }
+   ],
+   "template": "Help me compare {courses} from {city} with ₹{budget}, {degree}, {graduation}, {age}, {tests} and {loan}. Include full completion costs, payment dates, separate refundable cash and loan costs, a return-to-India repayment check and application steps. Count no job income or scholarships until confirmed in writing; flag requirements and fees I must check before paying. Do not open accounts, upload documents, apply, contact anyone, book or pay for me.",
+   "phases": [
+    {
+     "title": "Research official university costs and immigration rules in five countries",
+     "note": "Tuition, living costs, visas, proof of funds and work rights for ten programmes",
+     "judgment": "Two official TU Dortmund pages disagree on the winter application deadline (15 June on the department page, 15 May on the central admissions page). It kept the conflict visible and told you to plan on the earlier date until the intake notice is published."
+    },
+    {
+     "title": "Build the editable cost workbook and the application timeline",
+     "note": "Full-degree costs, deposits kept apart from spending, loan scenarios",
+     "judgment": "A US proposal to charge $70,000 for first-year work training and $30,000 for the second year (8 October 2026) is shown as a risk, not added to the costs: it is a proposal, not an enacted charge."
+    },
+    {
+     "title": "Write the ranked summary, then audit the formulas and the finished page",
+     "judgment": "It replaced the UK funds figure with the correct one: £10,827 for nine months from 30 November 2026, not the £10,539 on the overview page. The independent colleague then re-evaluated all 830 workbook formulas and found zero mismatches."
+    }
+   ],
+   "workers": [
+    "Read official UK government and university pages for Leicester and Sheffield: tuition, living costs, visa and health surcharge, and the post-study visa",
+    "Read official Canadian pages for Memorial and Winnipeg: course fees, study-permit funds, work rules and the post-graduation work permit",
+    "Read official German university and immigration pages for Saarland and TU Dortmund: semester charges, blocked-account proof of funds, the new APS test and work rules",
+    "Read official US pages for Buffalo and UT Arlington: tuition and fees, insurance, visa fees and work-training rules",
+    "Read official Australian pages for Wollongong and Deakin: tuition, living costs, student visa fees and post-study rules, including the age limit",
+    "Independently audited the finished workbook: re-evaluated every formula and checked it against the original request and the summary page"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html": "IRCC: study-permit proof of funds",
+    "https://www.uni-saarland.de/en/study/programmes/master/informatics.html": "Saarland University: master’s in informatics",
+    "https://www.gov.uk/graduate-visa": "UK government: Graduate visa",
+    "https://aps-india.de/dmat/": "APS India: dMAT notice and FAQ",
+    "https://statistik.tu-dortmund.de/en/prospective-students/application-enrollment/master-data-science/": "TU Dortmund statistics department: Data Science master’s",
+    "https://studyinthestates.dhs.gov/2026/10/dhs-publishes-proposed-rule-establishing-fees-for-optional-practical-training": "US DHS notice, 8 Oct 2026: proposed work-training fees",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500": "Australian Home Affairs: Student visa (500)",
+    "https://international.tu-dortmund.de/en/international-applicants/application/master/application-for-non-eu/eea/": "TU Dortmund: non-EU application office",
+    "https://www.uow.edu.au/study/courses/master-of-computer-science/?students=international&campus=Wollongong&year=2027": "University of Wollongong: Master of Computer Science 2027",
+    "https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants": "UK government: student financial evidence",
+    "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible": "UK Immigration Rules change HC 584 (Sept 2026)"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的预算、成绩和考试情况，在交任何申请费之前先拿到一份完整成本对比",
+   "runTitle": "从浦那出发比较五国：2027 年秋季读计算机或数据科学硕士，家庭可出 35 lakh",
+   "fields": [
+    {
+     "key": "courses",
+     "label": "课程及入学批次",
+     "value": "计算机或数据科学硕士，1–2 年，2027 年秋季入学；比较英国、德国、加拿大、澳大利亚和美国"
+    },
+    {
+     "key": "city",
+     "label": "印度城市",
+     "value": "浦那"
+    },
+    {
+     "key": "budget",
+     "label": "整个学位预算",
+     "value": "35 lakh（家庭可承担），其余视是否划算再用教育贷款"
+    },
+    {
+     "key": "degree",
+     "label": "学位、成绩及课程学分",
+     "value": "理工学士（B.Tech）在读，最后一年"
+    },
+    {
+     "key": "graduation",
+     "label": "毕业日期",
+     "value": "",
+     "placeholder": "例如：2027 年 5 月"
+    },
+    {
+     "key": "age",
+     "label": "年龄",
+     "value": "",
+     "placeholder": "例如：22 岁"
+    },
+    {
+     "key": "tests",
+     "label": "考试和 APS 状态",
+     "value": "",
+     "placeholder": "例如：已订雅思，未考 GRE，APS 还没开始"
+    },
+    {
+     "key": "loan",
+     "label": "贷款上限",
+     "value": "",
+     "placeholder": "例如：最多 20 lakh"
+    }
+   ],
+   "template": "请帮我比较{courses}：我在{city}，整个学位预算 ₹{budget}，已有{degree}，预计{graduation}毕业，年龄{age}，考试和 APS 状态{tests}，贷款上限{loan}。请列完整学业成本、付款日期、另备可退现金和贷款费用、回印度还款试算及申请步骤。工作收入和奖学金未书面确认前按零，列清付款前要确认的要求和收费；不要替我开户、上传文件、申请、联系、订考或付款。",
+   "phases": [
+    {
+     "title": "调研五个国家的官方学校费用和移民规则",
+     "note": "十个项目的学费、生活费、签证、资金证明和打工权利",
+     "judgment": "多特蒙德工大两个官方页面对冬季申请截止日说法不一（院系页写 6 月 15 日，中央招生页写 5 月 15 日）。它把冲突摆在明处，并建议在该批次公告出来之前按较早的日期准备。"
+    },
+    {
+     "title": "建立可编辑的成本表和申请时间线",
+     "note": "整个学位的成本、押金与花费分开、贷款情景",
+     "judgment": "美国有一项提案：首年实习工作收费 7 万美元、第二年 3 万美元（2026 年 10 月 8 日）。它只作为风险列出，没有计入成本，因为这只是提案，尚未生效。"
+    },
+    {
+     "title": "写出排序摘要，再审计公式并检查成品页面",
+     "judgment": "它把英国的资金证明金额改成了正确的数字：自 2026 年 11 月 30 日起 9 个月需 10,827 英镑，而不是概览页上的 10,539 英镑。独立同事随后重新计算了表格里的全部 830 个公式，没有发现不一致。"
+    }
+   ],
+   "workers": [
+    "阅读英国政府和大学官方页面（莱斯特、谢菲尔德）：学费、生活费、签证和医疗附加费、毕业后留英签证",
+    "阅读加拿大官方页面（纪念大学、温尼伯大学）：课程费用、学习许可资金要求、打工规定和毕业后工作许可",
+    "阅读德国大学和移民官方页面（萨尔大学、多特蒙德工大）：学期费用、封锁账户资金证明、新的 APS 测试和打工规定",
+    "阅读美国官方页面（布法罗大学、德州大学阿灵顿分校）：学费和杂费、保险、签证费和实习工作规定",
+    "阅读澳大利亚官方页面（伍伦贡大学、迪肯大学）：学费、生活费、学生签证费和毕业后规定，包括年龄上限",
+    "独立审计做好的表格：重新计算每一个公式，并对照需求和摘要页核查"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html": "加拿大移民部：学习许可资金证明",
+    "https://www.uni-saarland.de/en/study/programmes/master/informatics.html": "萨尔大学：信息学硕士",
+    "https://www.gov.uk/graduate-visa": "英国政府：毕业生签证",
+    "https://aps-india.de/dmat/": "APS 印度：dMAT 通知与常见问题",
+    "https://statistik.tu-dortmund.de/en/prospective-students/application-enrollment/master-data-science/": "多特蒙德工大统计系：数据科学硕士",
+    "https://studyinthestates.dhs.gov/2026/10/dhs-publishes-proposed-rule-establishing-fees-for-optional-practical-training": "美国国土安全部 2026 年 10 月 8 日公告：拟议实习收费",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500": "澳大利亚内政部：学生签证（500）",
+    "https://international.tu-dortmund.de/en/international-applicants/application/master/application-for-non-eu/eea/": "多特蒙德工大：非欧盟申请办公室",
+    "https://www.uow.edu.au/study/courses/master-of-computer-science/?students=international&campus=Wollongong&year=2027": "伍伦贡大学：计算机硕士 2027",
+    "https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants": "英国政府：学生资金证明要求",
+    "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026-accessible": "英国移民规则修订 HC 584（2026 年 9 月）"
+   }
+  }
+ }
+}

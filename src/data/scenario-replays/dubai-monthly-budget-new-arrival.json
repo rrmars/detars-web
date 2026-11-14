@@ -1,0 +1,228 @@
+{
+ "slug": "dubai-monthly-budget-new-arrival",
+ "startedAt": "2026-11-05",
+ "activeSec": 2055,
+ "stats": {
+  "searches": 60,
+  "pages": 43,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 45,
+   "end": 945,
+   "chips": [
+    "https://www.dewa.gov.ae/en/consumer/billing/slab-tariff?bck=1",
+    "https://www.dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in",
+    "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
+    "https://rta.ae/wps/portal/rta/ae/public-transport/Nol-Fares",
+    "https://www.eand.ae/en/mshop/home/plans/home-wireless-faq/home-wireless-promotion.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 945,
+   "end": 1617,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1617,
+   "end": 1971,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same kind of monthly budget",
+   "runTitle": "A job in Dubai’s Business Bay at AED 22,000 a month: the real monthly budget and the cost of moving in",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Dubai"
+    },
+    {
+     "key": "date",
+     "label": "Move date",
+     "value": "February 2027"
+    },
+    {
+     "key": "salary",
+     "label": "Salary received and currency",
+     "value": "AED 22,000 a month"
+    },
+    {
+     "key": "household",
+     "label": "Household",
+     "value": "Single"
+    },
+    {
+     "key": "office",
+     "label": "Exact office location",
+     "value": "Business Bay area"
+    },
+    {
+     "key": "car",
+     "label": "Car choice",
+     "value": "No car at first"
+    },
+    {
+     "key": "lifestyle",
+     "label": "Lifestyle and food needs",
+     "value": "",
+     "placeholder": "e.g. cook at home most nights, eat out twice a week"
+    },
+    {
+     "key": "debts",
+     "label": "Debts, foreign taxes, pension, remittances",
+     "value": "",
+     "placeholder": "e.g. AED 1,500 a month sent to family"
+    },
+    {
+     "key": "employer",
+     "label": "Housing, health and relocation paid by the employer",
+     "value": "",
+     "placeholder": "e.g. basic health cover only, no housing allowance"
+    }
+   ],
+   "template": "Plan my move to {city} on {date}: {salary}, {household}, {office}, {car}, {lifestyle}, {debts} and {employer}. Compare 3–4 annual rentals with original URLs and read dates; separate asking rent, contract cheque schedules and annual/12 budgeting. Show monthly spending/savings, non-refundable setup, refundable deposits, prepayments, cash until actual first payroll, later cheques and first-year retained cash. Check official fees, utilities/cooling, employer obligations and fares; flag unsupported allowances, future-price assumptions and inaccessible sources. Add last-mile taxi and optional car economic-cost/upfront-cash comparisons. Keep financing separate from rent cheques; avoid double-counting AC or prepayments. Do not book, contact, apply or publish.",
+   "phases": [
+    {
+     "title": "Read current rental listings and official Dubai costs",
+     "judgment": "It would not call a disputed price settled: the telecom provider’s own FAQ and its detailed terms disagree on a plan’s renewal price (299 versus 399 before VAT), so both are reported as unresolved. The 2027 sewerage rate, found only in news reports, was likewise left marked as unverified."
+    },
+    {
+     "title": "Build the editable budget and a phone-friendly summary"
+    },
+    {
+     "title": "Check the calculations, sources and final files",
+     "judgment": "The independent reviewer found that “cash before the first salary” left out AED 6,912.43 of running costs. The full figure at the first payday is AED 60,769.93, against AED 53,857.50 for signing and setup alone, and the final range reflects both."
+    }
+   ],
+   "workers": [
+    "Found and read seven individual annual rental listings across Business Bay, JLT, Al Jaddaf and Al Furjan",
+    "Read the official sources on electricity, water, cooling, internet, moving-in fees and tenancy registration",
+    "Checked Metro, taxi and driving-licence costs, and what owning a car would take",
+    "Independently recalculated the budget workbook and checked the figures against the research"
+   ],
+   "chipNames": {
+    "https://www.dewa.gov.ae/en/consumer/billing/slab-tariff?bck=1": "DEWA: electricity and water tariff",
+    "https://www.dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in": "DEWA: moving-in services",
+    "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/": "Dubai Land Department: Ejari tenancy registration",
+    "https://rta.ae/wps/portal/rta/ae/public-transport/Nol-Fares": "RTA: Nol fares",
+    "https://www.eand.ae/en/mshop/home/plans/home-wireless-faq/home-wireless-promotion.html": "e&: home wireless plan FAQ"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的搬家情况，得到同样的月度预算",
+   "runTitle": "月薪 22,000 迪拉姆到迪拜商业湾上班：真实的月度预算和入住成本",
+   "fields": [
+    {
+     "key": "date",
+     "label": "搬家日期",
+     "value": "2027 年 2 月"
+    },
+    {
+     "key": "city",
+     "label": "迪拜或其他城市",
+     "value": "迪拜"
+    },
+    {
+     "key": "salary",
+     "label": "到账薪资及币种",
+     "value": "每月 22,000 迪拉姆"
+    },
+    {
+     "key": "household",
+     "label": "家庭人数",
+     "value": "单身"
+    },
+    {
+     "key": "office",
+     "label": "办公室确切楼宇",
+     "value": "商业湾一带"
+    },
+    {
+     "key": "car",
+     "label": "用车选择",
+     "value": "起初不买车"
+    },
+    {
+     "key": "lifestyle",
+     "label": "生活和饮食需求",
+     "value": "",
+     "placeholder": "例如：大多数晚上自己做饭，每周外食两次"
+    },
+    {
+     "key": "debts",
+     "label": "债务、外国税款、养老金、汇款",
+     "value": "",
+     "placeholder": "例如：每月汇给家里 1,500 迪拉姆"
+    },
+    {
+     "key": "employer",
+     "label": "雇主承担的住房、医疗、搬迁",
+     "value": "",
+     "placeholder": "例如：只有基础医疗，没有住房补贴"
+    }
+   ],
+   "template": "请规划我在{date}搬到{city}的预算：{salary}、{household}、{office}、{car}、{lifestyle}、{debts}及{employer}。比较 3–4 套年租房源，附原始链接和读取日期，分清叫价、合同支票安排及年租除以 12 的预算。列出月支出和结余、不可退安置费、可退押金、预付款、实际首次发薪前现金、后续支票及首年留存现金。核对官方收费、水电制冷、雇主义务和票价，标明无依据的预留、未来价格假设及无法访问的来源。加入最后一公里打车及可选汽车的经济成本和前期现金对比。融资不当成租金支票，空调和预付款不重复计算；不要预订、联系、申请或发布。",
+   "phases": [
+    {
+     "title": "查看当前租房房源和迪拜官方收费",
+     "judgment": "有争议的价格它不会说成定论：电信运营商自己的常见问答和详细条款对某套餐的续约价说法不一(未税 299 对 399)，两个数字都按“未定”如实列出；2027 年的排污费率只在新闻报道里找到，同样标为未核实。"
+    },
+    {
+     "title": "做出可编辑的预算表和适合手机阅读的摘要"
+    },
+    {
+     "title": "核对计算、来源和最终文件",
+     "judgment": "独立复核的同事发现“首次发薪前所需现金”漏算了 6,912.43 迪拉姆的日常开支：到首次发薪日的完整金额是 60,769.93 迪拉姆，而只算签约和安置费是 53,857.50 迪拉姆；最终给出的区间同时反映了这两个数。"
+    }
+   ],
+   "workers": [
+    "在商业湾、JLT、Al Jaddaf 和 Al Furjan 找到并逐个读了七套年租房源",
+    "读水电、制冷、网络、入住费用和租约登记的官方资料",
+    "核对地铁、打车和驾照的费用，以及买车要花多少",
+    "独立重算预算表，并把数字和调研资料逐项对照"
+   ],
+   "chipNames": {
+    "https://www.dewa.gov.ae/en/consumer/billing/slab-tariff?bck=1": "DEWA:水电收费标准",
+    "https://www.dewa.gov.ae/en/about-us/service-guide/consumer-services/move-in": "DEWA:入住办理服务",
+    "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/": "迪拜土地局:Ejari 租约登记",
+    "https://rta.ae/wps/portal/rta/ae/public-transport/Nol-Fares": "RTA:Nol 票价",
+    "https://www.eand.ae/en/mshop/home/plans/home-wireless-faq/home-wireless-promotion.html": "e&:家用无线套餐常见问题"
+   }
+  }
+ }
+}

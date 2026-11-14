@@ -1,0 +1,224 @@
+{
+ "slug": "tokyo-backend-job-search-filipino-engineer",
+ "startedAt": "2026-11-05",
+ "activeSec": 1572,
+ "stats": {
+  "searches": 30,
+  "pages": 71,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 324,
+   "chips": [
+    "https://www.moj.go.jp/isa/applications/status/gijinkoku.html",
+    "https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html",
+    "https://www.moj.go.jp/isa/content/001398882.pdf",
+    "https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide",
+    "https://2025.surveys.tokyodev.com/en-US/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 324,
+   "end": 1467,
+   "chips": [
+    "https://japan-dev.com/jobs/paypay-securities/paypay-securities-backend-engineer-ljuyvo",
+    "https://japan-dev.com/jobs/mujin/mujin-software-engineer--open-position-robotics--backend-c-kejo6u",
+    "https://japan-dev.com/jobs/meetsmore/meetsmore-senior-software-engineer--platform-atlas-ptjy21",
+    "https://japan-dev.com/jobs/jamm/jamm-full-stack-developer-y9t2e8",
+    "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1467,
+   "end": 1606,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own country, experience and savings, and get the same honest Tokyo job-search plan",
+   "runTitle": "A Filipino backend engineer (Go and Python, JLPT N4) planning a Tokyo job by October 2027",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country you live in",
+     "value": "The Philippines"
+    },
+    {
+     "key": "experience",
+     "label": "Dated Go/Python work experience",
+     "value": "6 years of backend work in Go and Python"
+    },
+    {
+     "key": "education",
+     "label": "Degree, major and relevant exam passes",
+     "value": "",
+     "placeholder": "e.g. BS Computer Science; passed an IT qualification exam"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "",
+     "placeholder": "e.g. 31"
+    },
+    {
+     "key": "languages",
+     "label": "English and Japanese level",
+     "value": "Japanese at JLPT N4"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and dependants",
+     "value": "",
+     "placeholder": "e.g. about ¥1.2m saved, no dependants"
+    },
+    {
+     "key": "notice",
+     "label": "Notice period",
+     "value": "",
+     "placeholder": "e.g. one month"
+    },
+    {
+     "key": "start",
+     "label": "Target start",
+     "value": "Working in Tokyo by October 2027"
+    }
+   ],
+   "template": "Plan my Tokyo backend search as a Filipino engineer living in {country}, with {experience}, {education}, {age}, {languages}, {savings}, {notice} and {start}. Separate direct backend jobs from broader alternatives and matching pools; check role-specific fit, guaranteed pay, sponsorship, Philippine departure requirements and full moving costs. Build a practical weekly plan. Plan only; do not apply, contact anyone, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Check live roles, salary evidence, visa rules and Tokyo costs",
+     "note": "Official immigration guidance, three salary sources and the job boards",
+     "judgment": "It would not treat \"six years of experience\" as a green light for the visa. It flagged that the degree, the study-plus-experience total or a designated IT exam decides eligibility, and marked the Philippine departure paperwork as still needing verification for October 2027."
+    },
+    {
+     "title": "Build the plan page and source list from the postings it could verify",
+     "note": "Ten checked open roles, first-year costs and a 16-week schedule",
+     "judgment": "It threw out its own first draft of the job list after several links turned out to be dead pages, and reported honestly that only 8 pages were verified. It then rebuilt the list to 10 checked postings and labelled them as six direct backend roles, three broader alternatives and one matching pool, not ten equal matches."
+    },
+    {
+     "title": "Check the files and save them to the requested folder"
+    }
+   ],
+   "workers": [
+    "Read the Immigration Services Agency's official pages on work visas, certificate of eligibility and the points system, and checked the Philippine departure steps",
+    "Found open Tokyo backend jobs and opened each posting to check it was still live, open to overseas applicants and clear on Japanese level and pay"
+   ],
+   "chipNames": {
+    "https://www.moj.go.jp/isa/applications/status/gijinkoku.html": "Immigration Services Agency: Engineer / Specialist in Humanities / International Services",
+    "https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html": "Immigration Services Agency: designated IT exams notice",
+    "https://www.moj.go.jp/isa/content/001398882.pdf": "Immigration Services Agency: Highly Skilled Professional points table",
+    "https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide": "Japan Dev: software developer salary guide",
+    "https://2025.surveys.tokyodev.com/en-US/": "TokyoDev Developer Survey 2025",
+    "https://japan-dev.com/jobs/paypay-securities/paypay-securities-backend-engineer-ljuyvo": "PayPay Securities: Backend Engineer posting",
+    "https://japan-dev.com/jobs/mujin/mujin-software-engineer--open-position-robotics--backend-c-kejo6u": "Mujin: Software Engineer (Robotics / Backend) posting",
+    "https://japan-dev.com/jobs/meetsmore/meetsmore-senior-software-engineer--platform-atlas-ptjy21": "MeetsMore: Senior Software Engineer, Platform posting",
+    "https://japan-dev.com/jobs/jamm/jamm-full-stack-developer-y9t2e8": "Jamm: Full Stack Developer posting",
+    "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7": "Visual Alpha: Senior Full-Stack Software Engineer posting"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的所在国、经验和存款，就能得到同样诚实的东京求职计划",
+   "runTitle": "一位菲律宾后端工程师(Go 和 Python，日语 JLPT N4)，计划在 2027 年 10 月前进入东京工作",
+   "fields": [
+    {
+     "key": "country",
+     "label": "现居国家",
+     "value": "菲律宾"
+    },
+    {
+     "key": "experience",
+     "label": "有日期的 Go/Python 工作经历",
+     "value": "6 年 Go 和 Python 后端工作经验"
+    },
+    {
+     "key": "education",
+     "label": "学历专业及相关考试合格情况",
+     "value": "",
+     "placeholder": "例如：计算机科学本科；通过某项 IT 资格考试"
+    },
+    {
+     "key": "age",
+     "label": "年龄",
+     "value": "",
+     "placeholder": "例如：31 岁"
+    },
+    {
+     "key": "languages",
+     "label": "英语和日语能力",
+     "value": "日语 JLPT N4"
+    },
+    {
+     "key": "savings",
+     "label": "存款及家属",
+     "value": "",
+     "placeholder": "例如：存款约 120 万日元，无家属"
+    },
+    {
+     "key": "notice",
+     "label": "离职通知期",
+     "value": "",
+     "placeholder": "例如：一个月"
+    },
+    {
+     "key": "start",
+     "label": "目标入职时间",
+     "value": "2027 年 10 月前在东京入职"
+    }
+   ],
+   "template": "我是住在{country}的菲律宾工程师，请按{experience}、{education}、{age}、{languages}、{savings}、{notice}和{start}规划东京后端求职。分开直接后端岗位、更宽泛备选和匹配池，核对具体岗位匹配、保证薪酬、担保、菲律宾出境要求及完整搬家成本，排出可执行的每周行动。只规划，不申请、不联系、不建账户、不付款。",
+   "phases": [
+    {
+     "title": "核对在招职位、薪资依据、签证规则和东京生活成本",
+     "note": "官方入管资料、三个薪资来源和招聘网站",
+     "judgment": "它没有把「六年经验」当成签证的通行证。它指出，真正决定资格的是学历、学习加工作年限的合计，或指定的 IT 资格考试，并把菲律宾出境手续标成「针对 2027 年 10 月仍需核实」。"
+    },
+    {
+     "title": "用已核实的职位建出计划页和来源清单",
+     "note": "10 个逐一核对过的在招职位、第一年费用和 16 周日程",
+     "judgment": "它推翻了自己最初的职位清单，因为好几个链接其实是失效页面，并如实报告当时只核实了 8 个页面。随后重新补到 10 个核对过的职位，并标明其中 6 个是直接后端岗位、3 个是更宽泛的备选、1 个是匹配池，没有说成 10 个同等匹配。"
+    },
+    {
+     "title": "检查文件并存入指定文件夹"
+    }
+   ],
+   "workers": [
+    "阅读日本出入国在留管理厅的官方页面，查工作签证、在留资格认定证明书和积分制度，并核对菲律宾出境手续",
+    "寻找东京在招的后端职位，逐个打开岗位页面，确认仍在招、接受海外申请，并核实日语要求和薪资"
+   ],
+   "chipNames": {
+    "https://www.moj.go.jp/isa/applications/status/gijinkoku.html": "日本出入国在留管理厅:工程师/人文知识·国际业务在留资格",
+    "https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html": "日本出入国在留管理厅:指定 IT 资格考试公告",
+    "https://www.moj.go.jp/isa/content/001398882.pdf": "日本出入国在留管理厅:高度人才积分表",
+    "https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide": "Japan Dev:软件开发者薪资指南",
+    "https://2025.surveys.tokyodev.com/en-US/": "TokyoDev 2025 开发者调查",
+    "https://japan-dev.com/jobs/paypay-securities/paypay-securities-backend-engineer-ljuyvo": "PayPay Securities:后端工程师职位",
+    "https://japan-dev.com/jobs/mujin/mujin-software-engineer--open-position-robotics--backend-c-kejo6u": "Mujin:软件工程师(机器人/后端)职位",
+    "https://japan-dev.com/jobs/meetsmore/meetsmore-senior-software-engineer--platform-atlas-ptjy21": "MeetsMore:高级软件工程师(平台)职位",
+    "https://japan-dev.com/jobs/jamm/jamm-full-stack-developer-y9t2e8": "Jamm:全栈开发者职位",
+    "https://japan-dev.com/jobs/visual-alpha/visual-alpha-senior-software-engineer-dxw8c7": "Visual Alpha:高级全栈软件工程师职位"
+   }
+  }
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "slug": "japan-fourteen-days-vegetarian-family",
+ "startedAt": "2026-11-07",
+ "activeSec": 2344,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 43,
+   "end": 501,
+   "chips": [
+    "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
+    "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html",
+    "https://japanrailpass.net/en/purchase/price/index.html",
+    "https://hakonetrip.odakyu-global.com/passes/hakone-freepass/",
+    "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai_hiroshima/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 501,
+   "end": 1265,
+   "chips": [
+    "https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/CL-01-Visitor-Visa-Without-Guarantor.pdf",
+    "https://www.evisa.mofa.go.jp/faq",
+    "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1265,
+   "end": 2143,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 7,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own dates, passports and food rules to get the same visa, rail-pass and meal-by-meal check",
+   "runTitle": "A vegetarian family of four from Mumbai: 14 days in Japan, 2–15 April 2027, INR 9 lakh",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Arrival and departure dates and airports",
+     "value": "2–15 April 2027"
+    },
+    {
+     "key": "profile",
+     "label": "Passports, home city and children’s ages",
+     "value": "A family of four with Indian passports, living in Mumbai: two parents in their 40s and children aged 9 and 13"
+    },
+    {
+     "key": "diet",
+     "label": "Food requirements",
+     "value": "Vegetarian food, with no meat or fish stock"
+    },
+    {
+     "key": "rooms",
+     "label": "Four-person room quotes",
+     "value": "",
+     "placeholder": "e.g. a family room for four in Kyoto at ¥38,000 a night"
+    },
+    {
+     "key": "budget",
+     "label": "Ground budget and exchange-rate assumption",
+     "value": "A budget of INR 9 lakh for everything except international flights"
+    },
+    {
+     "key": "hiroshima",
+     "label": "Hiroshima: yes or no",
+     "value": "whether to include Hiroshima (possible, not decided)"
+    }
+   ],
+   "template": "Plan our Japan trip for {dates} for {profile}, with {diet}. Keep Tokyo–Hakone–Kyoto–Osaka gentle, compare {rooms} against {budget}, and test {hiroshima} before choosing rail tickets. Show open visa/food checks, meal backups, cancellation terms and a contingency-inclusive total. Ask before booking, contacting anyone or submitting documents.",
+   "phases": [
+    {
+     "title": "Read the official visa, rail pass, vegetarian food and hotel pages",
+     "note": "Visa rules, rail passes, restaurant menus and family rooms",
+     "judgment": "It kept estimates from passing as facts: hotel amounts are labelled planning allowances, not quotes; one hotel’s child age cut-off is six, so rail child pricing is not applied to rooms; and a Hiroshima restaurant with contradictory opening hours is flagged to recheck."
+    },
+    {
+     "title": "Cost the route, passes and budget, then write the guide and its source list",
+     "note": "Rail comparison, day-by-day route and full budget in yen and rupees",
+     "judgment": "It did the child-fare sums exactly rather than by halving: Odawara–Kyoto is ¥12,100 adult and ¥6,040 child, not ¥6,050. It also refused to assume two discounted Sanyo single tickets would be valid for a same-day return."
+    },
+    {
+     "title": "Independent check of the arithmetic and claims, then desktop and phone layout tests",
+     "judgment": "The delivery says plainly that this is qualified research: the arithmetic passes, but local fares, 2027 prices and hotel rates, visa appointments and proof that every page was read in a fresh, signed-out browser are still open, and the check lists them rather than hiding them."
+    }
+   ],
+   "workers": [
+    "Checked the restaurants’ own pages for vegetarian menus and stock in six destinations, and four-person family hotel rooms",
+    "Went through the Mumbai consulate and visa-centre checklists and Japan’s foreign ministry rules for the family’s visas",
+    "Checked official prices and conditions for the nationwide rail pass, regional passes and the Hakone pass, including child fares and the October 2026 price change",
+    "Independent audit: recomputed every money figure and checked the guide’s claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html": "Japan MOFA: online visa application",
+    "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html": "VFS Global Japan: Mumbai",
+    "https://japanrailpass.net/en/purchase/price/index.html": "Japan Rail Pass: official prices",
+    "https://hakonetrip.odakyu-global.com/passes/hakone-freepass/": "Odakyu: Hakone Freepass",
+    "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai_hiroshima/": "JR-West: Kansai–Hiroshima Area Pass",
+    "https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/CL-01-Visitor-Visa-Without-Guarantor.pdf": "VFS checklist: visitor visa without guarantor (Mumbai)",
+    "https://www.evisa.mofa.go.jp/faq": "Japan eVisa: frequently asked questions",
+    "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html": "Japan MOFA: short-stay visa exemption list"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的日期、护照和饮食要求，就能得到同样的签证、铁路票和逐餐核对",
+   "runTitle": "孟买的素食四口之家：2027 年 4 月 2–15 日游日本 14 天，预算 90 万卢比",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "抵离日本的日期和机场",
+     "value": "2027 年 4 月 2 日至 15 日"
+    },
+    {
+     "key": "profile",
+     "label": "护照、居住地和孩子年龄",
+     "value": "一家四口，持印度护照，住在孟买：父母都四十多岁，孩子 9 岁和 13 岁"
+    },
+    {
+     "key": "diet",
+     "label": "饮食要求",
+     "value": "素食，汤底也不能有肉或鱼"
+    },
+    {
+     "key": "rooms",
+     "label": "四人房报价",
+     "value": "",
+     "placeholder": "例如：京都四人家庭房每晚 3.8 万日元"
+    },
+    {
+     "key": "budget",
+     "label": "地面预算及汇率假设",
+     "value": "除国际机票外，总预算 90 万卢比"
+    },
+    {
+     "key": "hiroshima",
+     "label": "是否去广岛",
+     "value": "要不要去广岛（有可能去，还没定）"
+    }
+   ],
+   "template": "为我们安排{dates}的旅行，成员资料是{profile}，饮食要求是{diet}。东京—箱根—京都—大阪保持轻松，把{rooms}与{budget}对照，先决定{hiroshima}再比较车票。列出签证/饮食待确认项、整餐后备、取消条件和含备用金总额。订房、联系他人或提交文件前先问我。",
+   "phases": [
+    {
+     "title": "阅读官方签证、铁路通票、素食餐厅和酒店页面",
+     "note": "签证规则、铁路通票、餐厅菜单和家庭房",
+     "judgment": "它没有让估算冒充事实：酒店金额标为规划预留而非报价；一家酒店的儿童年龄界线是六岁，所以铁路的儿童票价没有套到住宿上；广岛一家营业时间前后矛盾的餐厅被标出，提醒重新确认。"
+    },
+    {
+     "title": "核算路线、通票和预算，写出指南和来源清单",
+     "note": "铁路比价、逐日路线和日元卢比两套全程预算",
+     "judgment": "儿童票价它是精确算的，不是简单对半：小田原—京都成人 ¥12,100、儿童 ¥6,040，而不是 ¥6,050。两张打折的山阳新干线单程票，它也没有想当然地当成当天往返可用。"
+    },
+    {
+     "title": "独立核对算术和说法，再测试电脑和手机版面",
+     "judgment": "交付时明确说这是“有保留的调研”：算术全部通过，但当地交通票价、2027 年的价格和酒店房价、签证预约，以及全程干净浏览环境的记录仍有待确认，独立核对把它们列了出来，没有藏起来。"
+    }
+   ],
+   "workers": [
+    "查了六个目的地餐厅自家页面上的素食菜单和汤底，还有四人家庭房的酒店",
+    "读了孟买领事馆和签证中心的材料清单，以及日本外务省对这家人签证的规定",
+    "查了全国铁路通票、地区通票和箱根通票的官方价格与条件，包括儿童票价和 2026 年 10 月的调价",
+    "独立审查：把每个金额重新算一遍，并对照来源清单核对指南里的说法"
+   ],
+   "chipNames": {
+    "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html": "日本外务省：在线签证申请",
+    "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html": "VFS Global 日本：孟买",
+    "https://japanrailpass.net/en/purchase/price/index.html": "日本铁路通票官方价格",
+    "https://hakonetrip.odakyu-global.com/passes/hakone-freepass/": "小田急：箱根周游券",
+    "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai_hiroshima/": "JR 西日本：关西—广岛地区通票",
+    "https://www.vfsglobal.com/one-pager/japan/india/mumbai/pdf/CL-01-Visitor-Visa-Without-Guarantor.pdf": "VFS 清单：无担保人的访亲观光签证（孟买）",
+    "https://www.evisa.mofa.go.jp/faq": "日本电子签证常见问题",
+    "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html": "日本外务省：短期停留免签国家名单"
+   }
+  }
+ }
+}

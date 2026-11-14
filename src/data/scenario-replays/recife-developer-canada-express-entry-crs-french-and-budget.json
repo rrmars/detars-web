@@ -1,0 +1,103 @@
+{
+ "slug": "recife-developer-canada-express-entry-crs-french-and-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 1956,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 1956,
+   "chips": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html",
+    "https://www.bankofcanada.ca/valet/observations/FXCADBRL/json?recent=5"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 8,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own ages, test levels, savings and city, and get the same Express Entry score and budget check",
+   "runTitle": "Brazilian developer and nurse couple from Recife: Express Entry scores, French and a first-three-months budget in Canada",
+   "fields": [
+    {
+     "key": "couple",
+     "label": "My partner and me",
+     "value": "My wife and me, no children"
+    },
+    {
+     "key": "ages",
+     "label": "Ages",
+     "value": "I’m 29 and she is 28"
+    },
+    {
+     "key": "work",
+     "label": "Education and years of skilled work for each",
+     "value": "Me: bachelor’s in computer science, 6 years of full-time backend development in Brazil. Her: bachelor’s in nursing, 4 years of experience"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in BRL",
+     "value": "BRL 140,000"
+    },
+    {
+     "key": "levels",
+     "label": "CLB or NCLC for each skill",
+     "value": "IELTS not taken yet; I estimate CLB 8–9 and she estimates CLB 7"
+    },
+    {
+     "key": "city",
+     "label": "Canadian city",
+     "value": "",
+     "placeholder": "e.g. Calgary"
+    }
+   ],
+   "template": "Help me plan Express Entry for {couple}. We are {ages}, with {work}, and we have {savings}. Rebuild the CRS and Federal Skilled Worker scores for each of us as principal applicant using my English and French test levels of {levels}, compare them with the latest rounds, and check the French and healthcare category rules. Rebuild the settlement funds, pre-arrival costs and first three months in {city} with my own prices, and mark anything unconfirmed, placeholder or from memory. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official Express Entry pages, fees and cost sources, build the guide, then run an independent check",
+     "judgment": "The independent reviewer found four real mistakes in the first draft, among them a French-draw count that should be 3, not 5, and a “46% depreciation” that is really about a 32% loss in the real’s value. All four were fixed, and the guide says plainly that the re-check afterwards was done by the lead colleague, not by the reviewer."
+    }
+   ],
+   "workers": [
+    "Looked up published prices for language tests, credential assessment and police certificates for applicants in Recife",
+    "Built a sourced three-month cost-of-living baseline for a couple arriving in a Canadian city: rent, transit, health cover and the exchange rate",
+    "Recomputed every score and money figure on its own and checked the guide against the live government pages"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html": "IRCC: Express Entry rounds of invitations",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html": "IRCC: Federal Skilled Worker selection factors",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html": "IRCC: Comprehensive Ranking System grid",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html": "IRCC: proof of settlement funds",
+    "https://www.bankofcanada.ca/valet/observations/FXCADBRL/json?recent=5": "Bank of Canada: CAD to BRL exchange rate"
+   }
+  }
+ }
+}

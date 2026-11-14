@@ -1,0 +1,125 @@
+{
+ "slug": "lake-como-wedding-singapore-legal-symbolic-celebration",
+ "startedAt": "2026-11-07",
+ "activeSec": 2014,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 20,
+   "end": 593,
+   "chips": [
+    "https://www.giustizia.it/giustizia/it/mg_3_1_18.page",
+    "https://washington.mfa.gov.sg/consular-services/citizens-services/registry-of-marriages-matters--our-marriage-journey/",
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+    "https://visa.vfsglobal.com/one-pager/italy/india/new-delhi/english/index.html",
+    "https://www.villacarlotta.it/site/assets/files/1946/matrimoni_2026-2027.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 593,
+   "end": 1507,
+   "chips": [
+    "https://www.comune.como.it/servizi/Matrimonio-civile/",
+    "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2327/Come-ci-si-sposa-in-Italia-quali-documenti-sono-necessari",
+    "https://www.comune.como.it/amministrazione/documenti-e-dati/Regolamento-per-la-celebrazione-dei-matrimoni-civili-e-per-la-costituzione-delle-unioni-civili/",
+    "https://www.villaserbelloni.com/en/weddings.html"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1507,
+   "end": 1847,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own date, guest count and budget to get the same legal-route and venue comparison for your Lake Como wedding",
+   "runTitle": "A Singapore couple’s Lake Como wedding for 80 guests on EUR 85,000",
+   "fields": [
+    {
+     "key": "date",
+     "label": "Wedding date",
+     "value": "Mid-September 2027"
+    },
+    {
+     "key": "guests",
+     "label": "Guest count",
+     "value": "About 80 guests, flying in mostly from Singapore and India"
+    },
+    {
+     "key": "budget",
+     "label": "Gross budget",
+     "value": "EUR 85,000 for the wedding itself, excluding guests’ own travel"
+    },
+    {
+     "key": "details",
+     "label": "Ceremony, dietary and accessibility needs",
+     "value": "A Hindu-style ceremony element and a western-style reception, with vegetarian Indian catering"
+    }
+   ],
+   "template": "Help us plan a Singapore legal solemnisation and symbolic Lake Como celebration for {date}, {guests} and {budget}. Our essential ceremony, dietary and accessibility needs are {details}. Compare exclusive event-space options, indoor plans, transport and full commitments; keep contingency separate and flag unresolved documents, fire and menu permissions. Ask before contacting anyone, submitting forms, booking or paying.",
+   "phases": [
+    {
+     "title": "Read the official marriage, venue and guest-visa rules without contacting anyone",
+     "note": "Italian and Singapore marriage paperwork, venue price examples, Schengen visa lead times",
+     "judgment": "It would not treat a Singapore marriage-record search as a substitute for the Italian no-impediment paperwork: the official pages do not say it is accepted, so the guide frames “marry in Singapore first” as a risk call, not proof that marrying in Italy is impossible."
+    },
+    {
+     "title": "Build the guide, the source register and an itemised budget",
+     "note": "Legal-route comparison, venues with dated prices, timeline and a line-by-line budget",
+     "judgment": "It labelled every secondary venue price as unconfirmed and said plainly that no venue it looked at has confirmed permission for a ceremonial fire."
+    },
+    {
+     "title": "Independent re-check of every money figure, plus desktop and phone layout tests",
+     "judgment": "The independent colleague recomputed every budget row and every venue calculation, all passed, and then said the guide is a decision-stage tool, not a confirmed, available €85,000 wedding. The plan came to €84,194 including a 10% reserve, €806 under the ceiling."
+    }
+   ],
+   "workers": [
+    "Found dated price and capacity evidence for villas, restaurants and hotels around Como, Bellagio and Varenna for 80 guests",
+    "Read the official Italian town-hall and Singapore marriage-registry pages to compare marrying legally in Italy with marrying in Singapore first",
+    "Recomputed every money figure on its own and checked the guide’s claims against the source register"
+   ],
+   "chipNames": {
+    "https://www.giustizia.it/giustizia/it/mg_3_1_18.page": "Italian Ministry of Justice: marriage guidance",
+    "https://washington.mfa.gov.sg/consular-services/citizens-services/registry-of-marriages-matters--our-marriage-journey/": "Singapore MFA: Registry of Marriages matters",
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en": "EU: applying for a Schengen visa",
+    "https://visa.vfsglobal.com/one-pager/italy/india/new-delhi/english/index.html": "Italy visa centre for India (New Delhi)",
+    "https://www.villacarlotta.it/site/assets/files/1946/matrimoni_2026-2027.pdf": "Villa Carlotta 2026–2027 wedding price list",
+    "https://www.comune.como.it/servizi/Matrimonio-civile/": "Comune di Como: civil marriage",
+    "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2327/Come-ci-si-sposa-in-Italia-quali-documenti-sono-necessari": "Italian integration portal: how foreigners marry in Italy",
+    "https://www.comune.como.it/amministrazione/documenti-e-dati/Regolamento-per-la-celebrazione-dei-matrimoni-civili-e-per-la-costituzione-delle-unioni-civili/": "Como civil-marriage regulation",
+    "https://www.villaserbelloni.com/en/weddings.html": "Grand Hotel Villa Serbelloni weddings"
+   }
+  }
+ }
+}

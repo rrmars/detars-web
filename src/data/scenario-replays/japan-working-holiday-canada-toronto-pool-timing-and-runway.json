@@ -1,0 +1,110 @@
+{
+ "slug": "japan-working-holiday-canada-toronto-pool-timing-and-runway",
+ "startedAt": "2026-11-07",
+ "activeSec": 1536,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 1536,
+   "chips": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/working-holiday.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/rounds-invitations.html",
+    "https://www.jobbank.gc.ca/wagereport/occupation/22524",
+    "https://www.kaigaihoken.jp/price/study.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    },
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own city, age and savings and get the same working-holiday timeline and budget",
+   "runTitle": "Fukuoka to Canada: a 29-year-old hotel worker’s working holiday, ¥1.6 million saved",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City in Japan",
+     "value": "Fukuoka"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "29"
+    },
+    {
+     "key": "birthday",
+     "label": "Birthday",
+     "value": "",
+     "placeholder": "e.g. 14 March"
+    },
+    {
+     "key": "job",
+     "label": "Job",
+     "value": "Hotel front-desk worker"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in JPY",
+     "value": "JPY 1.6 million"
+    },
+    {
+     "key": "arrival",
+     "label": "Month and year of arrival",
+     "value": "May 2027"
+    }
+   ],
+   "template": "Help me plan a Canada International Experience Canada Working Holiday from {city}. I am {age} with a birthday on {birthday}, work as {job}, have {savings} and want to arrive around {arrival}. Rebuild the application timeline around my birthday and the date the 2027 pool opens, compare Toronto and Vancouver for my kind of job, and redo the upfront budget and cash runway with my own savings and exchange rate, marking anything unconfirmed or assumed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Research the rules, costs and tax, then write the guide and have it independently checked",
+     "judgment": "The researchers corrected two points in the instructions they were given: BC’s lower liquor-server wage ended in 2021, not 2018, and Ontario’s health plan needs 6 months of full-time work, not 12. An independent reviewer then recomputed every money figure, found them matching within $1 or ¥1, and flagged seven issues. After the guide was edited, a second check confirmed all seven were fixed."
+    }
+   ],
+   "workers": [
+    "Researched working-holiday rules, provincial health cover, minimum wages and rent examples for Vancouver and Toronto",
+    "Researched Canadian tax, the Social Insurance Number, banking and exchange rates from government sources",
+    "Independently recomputed every money figure and checked the guide’s claims against the pages it cites",
+    "Re-checked the guide after it was edited, to confirm that each earlier issue had been fixed"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/working-holiday.html": "IRCC: Working Holiday (International Experience Canada)",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility.html": "IRCC: IEC eligibility",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/rounds-invitations.html": "IRCC: IEC rounds of invitations",
+    "https://www.jobbank.gc.ca/wagereport/occupation/22524": "Job Bank: wage report",
+    "https://www.kaigaihoken.jp/price/study.html": "Overseas insurance price page (Japan)"
+   }
+  }
+ }
+}

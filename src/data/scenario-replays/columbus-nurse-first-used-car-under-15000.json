@@ -1,0 +1,129 @@
+{
+ "slug": "columbus-nurse-first-used-car-under-15000",
+ "startedAt": "2026-11-06",
+ "activeSec": 2330,
+ "stats": {
+  "searches": 63,
+  "pages": 41,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 43,
+   "end": 986,
+   "chips": [
+    "https://www.bmv.ohio.gov/doc-fees.aspx",
+    "https://clerk.franklincountyohio.gov/Auto-Title/Fees",
+    "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2015",
+    "https://consumer.ftc.gov/articles/buying-used-car-dealer",
+    "https://www.nhtsa.gov/winter-driving-tips"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 986,
+   "end": 1662,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 5,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1662,
+   "end": 1905,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own commute, budget and ads and get the same all-in used-car comparison",
+   "runTitle": "Columbus, Ohio: a new nurse’s first used car, $15,000 all-in",
+   "fields": [
+    {
+     "key": "ads",
+     "label": "VINs and ads",
+     "value": "",
+     "placeholder": "e.g. the VIN and link for each car you are considering"
+    },
+    {
+     "key": "home",
+     "label": "Columbus-area residence",
+     "value": "",
+     "placeholder": "e.g. your neighbourhood or ZIP code"
+    },
+    {
+     "key": "commute",
+     "label": "Shift rota and commute",
+     "value": "About 22 miles each way, often night shifts, through Ohio winters; job starts in February 2027"
+    },
+    {
+     "key": "cash",
+     "label": "Total cash and emergency reserve",
+     "value": "$15,000 all-in, covering price, Ohio sales tax, title and registration fees and any dealer doc fee"
+    },
+    {
+     "key": "quotes",
+     "label": "Insurance quotes and loan terms",
+     "value": "",
+     "placeholder": "e.g. an insurance quote you were given, or a credit-union loan offer"
+    }
+   ],
+   "template": "Compare {ads} for my {home}, {commute} and {cash}. Reconcile included fees, estimate purchase and first-year cash separately, flag history, recall and winter-readiness checks, and list questions for an independent inspector. Use {quotes} if available. Plan only; do not contact sellers, apply for credit or pay.",
+   "phases": [
+    {
+     "title": "Collect real Columbus listings, Ohio fees, safety ratings and ownership costs",
+     "note": "Ads, Ohio tax and fees, crash tests, recalls and winter-tyre evidence",
+     "judgment": "It corrected itself with primary evidence: one Corolla ad showed $8,443 on the dealer’s own page, not the $8,948 from the search index, so the lower figure was used. It also kept crash-test results year by year (2017–18 Corolla improved, 2014–16 only “Marginal”; the 2018 Fit’s headlights rated Poor) instead of carrying a good score across model years."
+    },
+    {
+     "title": "Build the comparison page with a cost calculator and a dated source list",
+     "judgment": "The independent colleague ran 77 separate arithmetic checks with no failures, and also flagged that the page’s opening search band of $11,000–$11,500 could break the all-cash budget: a car at $11,500 leads to a $15,188 package."
+    },
+    {
+     "title": "Check the arithmetic again, then test desktop and phone layouts",
+     "judgment": "The hand-over keeps its limits visible: most listings rest on search-index evidence, availability is unconfirmed, and exact title and registration costs need confirming at the actual purchase."
+    }
+   ],
+   "workers": [
+    "Found real used-car ads around Columbus for the six models, with price, mileage and a link for each",
+    "Checked Ohio’s official sales tax, dealer-fee cap, title and registration costs for a first car",
+    "Looked up crash tests, recalls and fuel economy for each model year, plus the case for winter tyres versus AWD",
+    "Independently recalculated the numbers and compared the ads against the source list"
+   ],
+   "chipNames": {
+    "https://www.bmv.ohio.gov/doc-fees.aspx": "Ohio BMV dealer documentary fee rules",
+    "https://clerk.franklincountyohio.gov/Auto-Title/Fees": "Franklin County Clerk of Courts title fees",
+    "https://www.iihs.org/ratings/vehicle/honda/civic-4-door-sedan/2015": "IIHS ratings: 2015 Honda Civic sedan",
+    "https://consumer.ftc.gov/articles/buying-used-car-dealer": "FTC: buying a used car from a dealer",
+    "https://www.nhtsa.gov/winter-driving-tips": "NHTSA winter driving tips"
+   }
+  }
+ }
+}

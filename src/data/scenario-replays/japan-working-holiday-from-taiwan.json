@@ -1,0 +1,215 @@
+{
+ "slug": "japan-working-holiday-from-taiwan",
+ "startedAt": "2026-11-05",
+ "activeSec": 2001,
+ "stats": {
+  "searches": 47,
+  "pages": 46,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 54,
+   "end": 454,
+   "chips": [
+    "https://www.koryu.or.jp/tw/visa/taipei/working/guide2026/",
+    "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_enroll.html",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/list/kiba/minimum-wage-information_2026.html",
+    "https://www.oakhouse.jp/eng/house/15"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 454,
+   "end": 1537,
+   "chips": [
+    "https://www.koryu.or.jp/tw/visa/taipei/working/workingholiday/2026-1/",
+    "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_exemption.html",
+    "https://www.jp-bank.japanpost.jp/kaisetu/kat_gaikokujin.html",
+    "https://www.studyinjapan.go.jp/en/planning/immigration-procedures/"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1537,
+   "end": 1931,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own details and get the same Tokyo start plan, with official deadlines kept apart from estimates",
+   "runTitle": "Taipei to Tokyo on a Working Holiday: arriving around 1 June 2027 with TWD 250,000",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "Age, Taiwan residency and passport details",
+     "value": "26 years old, living in Taipei"
+    },
+    {
+     "key": "past",
+     "label": "Previous Working Holiday approvals",
+     "value": "",
+     "placeholder": "e.g. none so far"
+    },
+    {
+     "key": "status",
+     "label": "Application status",
+     "value": "Wants a Japan Working Holiday visa"
+    },
+    {
+     "key": "arrival",
+     "label": "Flexible arrival dates",
+     "value": "Arriving in Tokyo around 1 June 2027"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and protected reserve",
+     "value": "About TWD 250,000 in savings"
+    },
+    {
+     "key": "japanese",
+     "label": "Japanese level",
+     "value": "",
+     "placeholder": "e.g. can order food and ask for directions"
+    },
+    {
+     "key": "housing",
+     "label": "Housing needs",
+     "value": "Share house or monthly apartment, costs compared"
+    }
+   ],
+   "template": "Plan my Tokyo start from Taiwan using {profile}, {past}, {status}, {arrival}, {savings}, {japanese} and {housing}. Separate official deadlines from estimates, compare full housing bills and list what to confirm before paying. Help structure my own holiday plan; do not apply, contact, reserve or pay.",
+   "phases": [
+    {
+     "title": "Read the exchange association's rules and the official steps after arrival",
+     "note": "Application rules and timing, newcomer registration, insurance and pension",
+     "judgment": "It did not guess the 2027 dates. They were not yet published, so it said so plainly and told the reader to keep 1 June flexible. Five of the eight housing rooms it checked were showing as full, so it noted that none confirms June 2027 availability."
+    },
+    {
+     "title": "Collect eight dated housing listings and pay examples",
+     "note": "Share houses vs monthly apartments, plus Tokyo wage figures",
+     "judgment": "It kept wage examples labelled as examples. Tokyo’s legal minimum is ¥1,280 an hour from 1 October 2026, while the job ads it found (¥1,300+ at McDonald’s, ¥1,700+ at UNIQLO Ginza) are neither averages nor guaranteed offers."
+    },
+    {
+     "title": "Write the guide and source list, then have it independently checked",
+     "judgment": "The independent colleague re-added the budget and caught one slip: the source list said ¥504,000 would be left, but the sum (1,175,000 − 675,000) is ¥500,000. It was fixed before delivery."
+    }
+   ],
+   "workers": [
+    "Inspected eight official Tokyo room listings (four share-house rooms, four furnished monthly apartments) and worked out what two months would really cost in each",
+    "Checked the official first-two-weeks steps in Tokyo (address registration, health insurance, pension, bank account, phone) and looked for real part-time pay examples",
+    "Read the finished guide on its own and rechecked the facts and every sum against what was asked"
+   ],
+   "chipNames": {
+    "https://www.koryu.or.jp/tw/visa/taipei/working/guide2026/": "Japan-Taiwan Exchange Association: Working Holiday guide",
+    "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_enroll.html": "Japan Pension Service: how to enrol",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/list/kiba/minimum-wage-information_2026.html": "Hello Work Tokyo: 2026 minimum wage information",
+    "https://www.oakhouse.jp/eng/house/15": "Oakhouse: share-house listing example",
+    "https://www.koryu.or.jp/tw/visa/taipei/working/workingholiday/2026-1/": "Japan-Taiwan Exchange Association: Working Holiday round notice",
+    "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_exemption.html": "Japan Pension Service: exemptions and deferrals",
+    "https://www.jp-bank.japanpost.jp/kaisetu/kat_gaikokujin.html": "Japan Post Bank: accounts for foreign residents",
+    "https://www.studyinjapan.go.jp/en/planning/immigration-procedures/": "Study in Japan: immigration procedures"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的情况，同样拿到一份东京起步方案，官方期限和估算分得清清楚楚",
+   "runTitle": "台北到东京的打工度假：2027 年 6 月 1 日前后抵达，存款 25 万新台币",
+   "fields": [
+    {
+     "key": "profile",
+     "label": "年龄、台湾居住及护照情况",
+     "value": "26 岁，住在台北"
+    },
+    {
+     "key": "past",
+     "label": "以往打工度假获批记录",
+     "value": "",
+     "placeholder": "例如：目前没有"
+    },
+    {
+     "key": "status",
+     "label": "目前申请状态",
+     "value": "想申请日本打工度假签证"
+    },
+    {
+     "key": "arrival",
+     "label": "可调整的到达日期",
+     "value": "2027 年 6 月 1 日前后抵达东京"
+    },
+    {
+     "key": "savings",
+     "label": "存款及保护的应急金",
+     "value": "存款约 25 万新台币"
+    },
+    {
+     "key": "japanese",
+     "label": "日文程度",
+     "value": "",
+     "placeholder": "例如：能点餐、问路"
+    },
+    {
+     "key": "housing",
+     "label": "住房需求",
+     "value": "合租屋或按月租的公寓，比较费用"
+    }
+   ],
+   "template": "请按{profile}、{past}、{status}、{arrival}、{savings}、{japanese}和{housing}，规划我的东京起步。分清官方期限和估算，比较完整住房账单，列出付款前要确认什么。协助组织我自己的度假计划，不申请、不联系、不预订、不付款。",
+   "phases": [
+    {
+     "title": "阅读交流协会的申请规则和抵达后的官方手续",
+     "note": "申请规则与时间、新住民登记、保险和年金",
+     "judgment": "它没有去猜 2027 年的日期。这些日期尚未公布，它就直接写明，并提醒读者 6 月 1 日要留有弹性。它查看的 8 个房源中有 5 个显示已满，所以也注明没有一个能确认 2027 年 6 月仍有空房。"
+    },
+    {
+     "title": "收集 8 个带日期的房源和时薪例子",
+     "note": "合租屋与按月公寓，以及东京的工资数字",
+     "judgment": "它把工资例子明确标成“例子”。东京法定最低时薪自 2026 年 10 月 1 日起是 1,280 日元，而它找到的招聘信息（麦当劳 1,300 日元起、UNIQLO 银座 1,700 日元起）既不是平均值，也不保证录用。"
+    },
+    {
+     "title": "写成指南和来源清单，再请人独立复核",
+     "judgment": "独立复核的同事把预算重新加了一遍，抓出一处笔误：来源清单写着剩下 504,000 日元，而算式（1,175,000 − 675,000）的结果是 500,000 日元。交付前已改正。"
+    }
+   ],
+   "workers": [
+    "逐一查看东京 8 个官方房源（4 间合租屋单人房、4 间带家具的按月公寓），算出各自住两个月的真实花费",
+    "核对到东京后前两周的官方手续（住址登记、健康保险、年金、银行账户、手机），并查找真实的兼职时薪例子",
+    "单独通读成稿，对照需求重新核对事实和每一笔加减"
+   ],
+   "chipNames": {
+    "https://www.koryu.or.jp/tw/visa/taipei/working/guide2026/": "日本台湾交流协会：打工度假说明",
+    "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_enroll.html": "日本年金机构：加入方式",
+    "https://jsite.mhlw.go.jp/tokyo-hellowork/list/kiba/minimum-wage-information_2026.html": "东京 Hello Work：2026 年最低工资信息",
+    "https://www.oakhouse.jp/eng/house/15": "Oakhouse：合租屋房源示例",
+    "https://www.koryu.or.jp/tw/visa/taipei/working/workingholiday/2026-1/": "日本台湾交流协会：打工度假梯次公告",
+    "https://www.nenkin.go.jp/international/english/japanese-system/nationalpension/np_exemption.html": "日本年金机构：免除与缓缴",
+    "https://www.jp-bank.japanpost.jp/kaisetu/kat_gaikokujin.html": "日本邮政银行：外国居民开户",
+    "https://www.studyinjapan.go.jp/en/planning/immigration-procedures/": "Study in Japan：入境手续"
+   }
+  }
+ }
+}

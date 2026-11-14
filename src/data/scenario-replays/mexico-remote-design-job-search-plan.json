@@ -1,0 +1,238 @@
+{
+ "slug": "mexico-remote-design-job-search-plan",
+ "startedAt": "2026-11-05",
+ "activeSec": 3866,
+ "stats": {
+  "searches": 85,
+  "pages": 116,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 20,
+   "end": 1971,
+   "chips": [
+    "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/rmf/RMF_2026-DOF-28122025.pdf",
+    "https://wwwnp.sat.gob.mx/minisitio/DeclaracionAnual/Personas/quienes_deben_presentarla.html",
+    "https://wwwmat.sat.gob.mx/articulo/80321/articulo-29",
+    "https://remote.com/global-hr/employer-of-record",
+    "https://job-boards.greenhouse.io/wikimedia/jobs/8319366"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 39,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 23,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 30,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1971,
+   "end": 3116,
+   "chips": [
+    "https://applicants.bairesdev.com/job/66/296889/apply?lang=en",
+    "https://applicants.bairesdev.com/job/66/296890/apply?lang=en"
+   ],
+   "workers": []
+  },
+  {
+   "start": 3116,
+   "end": 3710,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 3710,
+   "end": 3793,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own city, start date and pay floor and get the same job-search plan, built around roles that can actually hire you",
+   "runTitle": "Guadalajara to a remote design job: a mid-level product designer aiming to start by April 2027",
+   "fields": [
+    {
+     "key": "location",
+     "label": "Where in Mexico you live",
+     "value": "Guadalajara, Mexico"
+    },
+    {
+     "key": "start",
+     "label": "Target start date",
+     "value": "by April 2027"
+    },
+    {
+     "key": "experience",
+     "label": "Experience and your strongest work",
+     "value": "5 years as a mid-level product designer"
+    },
+    {
+     "key": "portfolio",
+     "label": "Portfolio",
+     "value": "",
+     "placeholder": "e.g. a Figma-based portfolio site with 3 case studies"
+    },
+    {
+     "key": "time",
+     "label": "Time you can give each week",
+     "value": "",
+     "placeholder": "e.g. 10 hours a week"
+    },
+    {
+     "key": "pay",
+     "label": "Pay floor and currency",
+     "value": "",
+     "placeholder": "e.g. USD 4,000 a month"
+    },
+    {
+     "key": "permit",
+     "label": "Work permission",
+     "value": "",
+     "placeholder": "e.g. Mexican citizen, no permit needed"
+    },
+    {
+     "key": "pref",
+     "label": "Employee or contractor preference",
+     "value": "",
+     "placeholder": "e.g. happy to be a contractor if the pay is higher"
+    }
+   ],
+   "template": "Help me plan a remote design job search from {location} for {start}. Use my {experience}, {portfolio}, {time}, {pay}, {permit} and {pref}. Prioritise country eligibility, realistic pay and a weekly plan. Flag questions for an accountant or lawyer. Plan only; do not apply or contact anyone.",
+   "phases": [
+    {
+     "title": "Check pay benchmarks, Mexican tax and hiring routes, and which jobs are open",
+     "note": "Salary sources, the tax authority’s own pages, and company career pages",
+     "judgment": "It corrected an out-of-date tax checklist: the 2026 miscellaneous tax rules, not the old 2024 guidance, now govern annual filing for RESICO income. It also said what it could not confirm: the detailed current RESICO rate table was not recovered, only the published 1%–2.5% band."
+    },
+    {
+     "title": "Keep checking until there are ten postings that truly fit",
+     "note": "A second round of job checks on company career pages",
+     "judgment": "It reported that the first round found only five fitting postings, not ten, and kept looking instead of padding the list. It dropped roles that failed on location: a Deel role whose country list left out Mexico, hybrid-only roles at Multiplica and Marathon, and a closed Bitovi vacancy."
+    },
+    {
+     "title": "Put the job evidence into the plan page and the source list",
+     "judgment": "Pay and fit caveats went into the plan rather than being smoothed over: Wikimedia’s published US$116,633–181,243 is a US-only band, not Mexico pay, and doola’s wording does not name Mexico, so the plan says to ask first."
+    },
+    {
+     "title": "Check every citation, completeness, and desktop and phone layout"
+    }
+   ],
+   "workers": [
+    "Searched public job boards for real remote product-design openings and checked each one on the employer’s own page for location rules, level and pay",
+    "Read Mexico’s tax authority pages on contractor tax regimes, annual filing and VAT on foreign clients, plus how employer-of-record hiring works",
+    "Went through eight companies’ current career pages to see which design roles were really open to someone in Mexico, then added three more verified roles"
+   ],
+   "chipNames": {
+    "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/rmf/RMF_2026-DOF-28122025.pdf": "SAT: 2026 miscellaneous tax rules",
+    "https://wwwnp.sat.gob.mx/minisitio/DeclaracionAnual/Personas/quienes_deben_presentarla.html": "SAT: who must file an annual return",
+    "https://wwwmat.sat.gob.mx/articulo/80321/articulo-29": "SAT: VAT law, article 29 (exports)",
+    "https://remote.com/global-hr/employer-of-record": "Remote: how employer-of-record hiring works",
+    "https://job-boards.greenhouse.io/wikimedia/jobs/8319366": "Wikimedia Foundation: Senior UX Designer posting",
+    "https://applicants.bairesdev.com/job/66/296889/apply?lang=en": "BairesDev: UX Designer posting",
+    "https://applicants.bairesdev.com/job/66/296890/apply?lang=en": "BairesDev: UI Designer posting"
+   }
+  },
+  "zh": {
+   "askTitle": "把所在城市、入职时间和薪资底线换成你的，就能得到同样的远程求职计划，只盯真正能雇你的岗位",
+   "runTitle": "从瓜达拉哈拉找远程设计工作：5 年经验的中级产品设计师，目标 2027 年 4 月前入职",
+   "fields": [
+    {
+     "key": "location",
+     "label": "你在墨西哥的所在地",
+     "value": "墨西哥瓜达拉哈拉"
+    },
+    {
+     "key": "start",
+     "label": "目标入职日期",
+     "value": "2027 年 4 月前"
+    },
+    {
+     "key": "experience",
+     "label": "经验和最强作品",
+     "value": "5 年中级产品设计经验"
+    },
+    {
+     "key": "portfolio",
+     "label": "作品集",
+     "value": "",
+     "placeholder": "例如：一个放了 3 个案例的 Figma 作品集网站"
+    },
+    {
+     "key": "time",
+     "label": "每周能投入的时间",
+     "value": "",
+     "placeholder": "例如：每周 10 小时"
+    },
+    {
+     "key": "pay",
+     "label": "薪资底线和币种",
+     "value": "",
+     "placeholder": "例如：每月 4000 美元"
+    },
+    {
+     "key": "permit",
+     "label": "工作许可",
+     "value": "",
+     "placeholder": "例如：墨西哥公民，不需要工作许可"
+    },
+    {
+     "key": "pref",
+     "label": "雇员或承包偏好",
+     "value": "",
+     "placeholder": "例如：薪酬更高的话可以接受承包"
+    }
+   ],
+   "template": "请帮我规划从{location}寻找远程设计工作，目标{start}。结合我的{experience}、{portfolio}、{time}、{pay}、{permit}及{pref}，优先筛选允许所在国家的岗位、合理薪酬和每周行动。提醒我哪些问题要问会计或律师。只做计划，不投递、不联系招聘方。",
+   "phases": [
+    {
+     "title": "查薪资参考、墨西哥的税务和雇佣方式，以及有哪些岗位在招",
+     "note": "薪资来源、墨西哥税务机关官网、各公司招聘页",
+     "judgment": "它纠正了一份过时的报税清单：RESICO 收入的年度申报现在以 2026 年税务综合规定为准，不再沿用 2024 年的旧说明。它还写明了没能确认的部分：现行 RESICO 的详细税率表没有找到，只核实了公布过的 1%–2.5% 区间。"
+    },
+    {
+     "title": "继续核实，直到凑够十个真正合适的岗位",
+     "note": "再查一轮各公司的招聘页",
+     "judgment": "第一轮只找到五个合适岗位，不是十个，它如实说了，并继续找，没有拿不合格的凑数。因地点不符被剔除的有：Deel 一个国家名单里没有墨西哥的岗位、Multiplica 和 Marathon 的混合办公岗位，以及已经关闭的 Bitovi 岗位。"
+    },
+    {
+     "title": "把岗位证据整合进计划页和来源清单",
+     "judgment": "薪资和匹配度的疑点都写进了计划，没有抹平：Wikimedia 公布的 11.6 万至 18.1 万美元是仅限美国的区间，不是墨西哥的薪酬；doola 的招聘文字没有点名墨西哥，计划里写明要先问清楚。"
+    },
+    {
+     "title": "核对每条引用、完整性，以及电脑和手机上的显示"
+    }
+   ],
+   "workers": [
+    "在公开招聘网站上找真实的远程产品设计岗位，并到雇主自己的页面核对地点要求、经验年限和薪资",
+    "读墨西哥税务机关的官网页面：承包人的税务方案、年度申报、对外国客户收款的增值税，以及通过代雇用机构入职是怎么回事",
+    "逐个查了八家公司当前的招聘页，看设计岗位是否真的向住在墨西哥的人开放，之后又补充核实了三个岗位"
+   ],
+   "chipNames": {
+    "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/rmf/RMF_2026-DOF-28122025.pdf": "墨西哥税务机关：2026 年税务综合规定",
+    "https://wwwnp.sat.gob.mx/minisitio/DeclaracionAnual/Personas/quienes_deben_presentarla.html": "墨西哥税务机关：谁需要报年度税",
+    "https://wwwmat.sat.gob.mx/articulo/80321/articulo-29": "墨西哥税务机关：增值税法第 29 条（出口）",
+    "https://remote.com/global-hr/employer-of-record": "Remote：代雇用机构入职方式",
+    "https://job-boards.greenhouse.io/wikimedia/jobs/8319366": "Wikimedia 基金会：高级 UX 设计师岗位",
+    "https://applicants.bairesdev.com/job/66/296889/apply?lang=en": "BairesDev：UX 设计师岗位",
+    "https://applicants.bairesdev.com/job/66/296890/apply?lang=en": "BairesDev：UI 设计师岗位"
+   }
+  }
+ }
+}

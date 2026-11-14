@@ -1,0 +1,161 @@
+{
+ "slug": "texas-home-bakery-first-sales-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 2163,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 77,
+   "end": 605,
+   "chips": [
+    "https://www.dshs.texas.gov/retail-food-establishments/permits-retail-food-establishments/texas-cottage-food-production",
+    "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm",
+    "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00541F.htm",
+    "https://comptroller.texas.gov/taxes/publications/96-280.php",
+    "https://www.sa.gov/Directory/Departments/SAMHD/Licenses-Food-Permits"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 605,
+   "end": 1070,
+   "chips": [
+    "https://www.sos.state.tx.us/corp/namefilingsfaqs.shtml"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1070,
+   "end": 2029,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own city, recipes, costs and market terms and get the same Texas home-bakery plan",
+   "runTitle": "San Antonio: a nurse plans a home bakery for March 2027 on a $3,000 budget",
+   "fields": [
+    {
+     "key": "address",
+     "label": "Physical home address or DSHS registration ID",
+     "value": "",
+     "placeholder": "e.g. your DSHS registration ID in place of a home address"
+    },
+    {
+     "key": "allergens",
+     "label": "Allergens to replace",
+     "value": "",
+     "placeholder": "e.g. wheat, milk, eggs, soy, plus tree nuts if present"
+    },
+    {
+     "key": "city",
+     "label": "City and home/property restrictions",
+     "value": "San Antonio, Texas"
+    },
+    {
+     "key": "recipes",
+     "label": "Recipes and shelf-stability evidence",
+     "value": "",
+     "placeholder": "e.g. a sourdough loaf and cookie recipe, with how long each keeps"
+    },
+    {
+     "key": "costs",
+     "label": "Actual ingredient and packaging costs",
+     "value": "",
+     "placeholder": "e.g. last month’s flour, butter, boxes and labels, with what you paid"
+    },
+    {
+     "key": "yields",
+     "label": "Timed batch yields",
+     "value": "",
+     "placeholder": "e.g. 24 cookies per batch in 90 minutes"
+    },
+    {
+     "key": "hours",
+     "label": "Available hours",
+     "value": "",
+     "placeholder": "e.g. 10 hours a week around night shifts"
+    },
+    {
+     "key": "cash",
+     "label": "Cash reserve",
+     "value": "$3,000 to start"
+    },
+    {
+     "key": "prices",
+     "label": "Prices and order mix",
+     "value": "Cakes, cookies and sourdough, about 15–20 orders a month at first"
+    },
+    {
+     "key": "pay",
+     "label": "Target hourly pay",
+     "value": "At least $15 an hour after ingredients, packaging, market fees and payment fees"
+    },
+    {
+     "key": "market",
+     "label": "Market’s written admission and attendance terms",
+     "value": "",
+     "placeholder": "e.g. the market’s vendor page with booth fee and application dates"
+    }
+   ],
+   "template": "{address}<br> Contains: wheat, milk, eggs, soy {allergens}. Build a preorder-first Texas home-bakery plan for {city}, using {recipes}, {costs}, {yields}, {hours} and {cash}. Compare {prices} with {pay} after all work and fees. Separate food rules, sales-tax/DBA questions and {market}. Show the no-market alternative and missing launch checks. Ask before contacting anyone, filing, paying or sharing my details.",
+   "phases": [
+    {
+     "title": "Check the current Texas, San Antonio, tax and market rules against official pages",
+     "note": "Home-food law, sales-tax permit, business-name registration and market vendor terms",
+     "judgment": "It kept an inconvenient finding in the plan: the Saturday market it checked excludes home-food sellers, and two official pages disagree on the business-name filing fee, so that fee is left as unsettled rather than averaged."
+    },
+    {
+     "title": "Build the guide, the start-up budget and a pricing model that counts her own labour",
+     "note": "Per-product prices with the arithmetic shown",
+     "judgment": "The pricing result was not softened: with explicit assumptions, preorders of shelf-stable items work (cakes $80, cookie dozens $33, loaves $25), but weekly markets miss her $15-an-hour target."
+    },
+    {
+     "title": "Independent audit of the rules and arithmetic, plus desktop and phone layout",
+     "note": "Layout problems fixed",
+     "judgment": "The independent check caught real mistakes: all twelve monthly hourly-pay cells were wrong (for example $400.23 an hour instead of $17.79). They were corrected and the check passed on a re-run."
+    }
+   ],
+   "workers": [
+    "Checked state sales-tax rules, county business-name registration and the vendor terms of a Saturday market",
+    "Read the current Texas home-food law and the state health department’s guidance, and checked what city rules and private restrictions can stop",
+    "Independently recomputed every money figure and checked each rule claim against the source list"
+   ],
+   "chipNames": {
+    "https://www.dshs.texas.gov/retail-food-establishments/permits-retail-food-establishments/texas-cottage-food-production": "Texas health department: cottage food production",
+    "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm": "Texas Health and Safety Code, chapter 437",
+    "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00541F.htm": "Texas Senate Bill 541 (2025): bill text",
+    "https://comptroller.texas.gov/taxes/publications/96-280.php": "Texas Comptroller: sales tax on bakeries",
+    "https://www.sa.gov/Directory/Departments/SAMHD/Licenses-Food-Permits": "City of San Antonio: licenses and food permits",
+    "https://www.sos.state.tx.us/corp/namefilingsfaqs.shtml": "Texas Secretary of State: business name filings FAQ"
+   }
+  }
+ }
+}

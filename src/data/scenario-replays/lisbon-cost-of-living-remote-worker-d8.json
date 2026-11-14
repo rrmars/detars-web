@@ -1,0 +1,222 @@
+{
+ "slug": "lisbon-cost-of-living-remote-worker-d8",
+ "startedAt": "2026-11-05",
+ "activeSec": 2203,
+ "stats": {
+  "searches": 40,
+  "pages": 64,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 42,
+   "end": 1495,
+   "chips": [
+    "https://vistos.mne.gov.pt/en/national-visas/general-information/fees",
+    "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/temporary-stay",
+    "https://aima.gov.pt/pt/noticias/atualizacao-da-tabela-de-taxas",
+    "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx",
+    "https://www.metrolisboa.pt/en/buy/navegante-card/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1495,
+   "end": 1847,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1847,
+   "end": 2113,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same kind of budget and visa check",
+   "runTitle": "A US-paid developer moving to Lisbon on the D8 visa for a year from April 2027: a monthly budget and the visa facts",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Lisbon"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival date",
+     "value": "April 2027"
+    },
+    {
+     "key": "departure",
+     "label": "Departure date",
+     "value": "About a year later (April 2028)"
+    },
+    {
+     "key": "people",
+     "label": "Who is coming",
+     "value": "Just me (single)"
+    },
+    {
+     "key": "nationality",
+     "label": "Nationalities and legal or tax residence",
+     "value": "",
+     "placeholder": "e.g. Brazilian citizen, tax resident in the US"
+    },
+    {
+     "key": "insurance",
+     "label": "Age and insurance needs",
+     "value": "Health insurance that the visa requires"
+    },
+    {
+     "key": "income",
+     "label": "Gross income, currency and employee or contractor status",
+     "value": "About USD 7,000 a month gross, paid by a US company"
+    },
+    {
+     "key": "calls",
+     "label": "Local call hours",
+     "value": "",
+     "placeholder": "e.g. US time-zone calls until 22:00 Lisbon time"
+    }
+   ],
+   "template": "Plan my stay in {city} from {arrival} to {departure} for {people}, with {nationality}, {insurance}, {income} and {calls}. Compare lean, base and cushion budgets, exact rental terms and late-hours workspaces. Separate spending, deposits, prepayments and emergency cash; count annual rent once. Check my visa route and tax obligations without assuming NHR/IFICI relief, show dated sources and what needs checking, and do not contact, apply, book, pay or publish.",
+   "phases": [
+    {
+     "title": "Read current Lisbon rentals, the official D8 rules and living costs",
+     "judgment": "On the visa’s income line it gave two figures and said how firm each is: €3,680 a month on the enacted 2026 minimum wage, €3,880 on the announced 2027 wage, to be rechecked once the implementing law is out. It also refused to assume either the old NHR or the IFICI tax regime applies."
+    },
+    {
+     "title": "Build the editable budget workbook and a phone-friendly summary"
+    },
+    {
+     "title": "Check the calculations, sources and files",
+     "judgment": "The independent reviewer re-checked the 123 formulas and found no errors, and confirmed that deposits and prepaid rent are not double-counted in the cash-flow figures. It also spot-checked the rental quote terms and primary sources, and the layout at phone width."
+    }
+   ],
+   "workers": [
+    "Found furnished one-bedroom Lisbon listings and read each one directly for rent, deposit and contract terms",
+    "Read the official Portuguese sources on the D8 visa: income requirement, documents, fees, insurance and tax residence",
+    "Collected provider prices for the Navegante transport pass, coworking desks, internet and household costs",
+    "Independently audited the workbook, formulas and summary against the research notes"
+   ],
+   "chipNames": {
+    "https://vistos.mne.gov.pt/en/national-visas/general-information/fees": "Portugal national visas: official fees",
+    "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/temporary-stay": "Portugal national visas: temporary-stay documents",
+    "https://aima.gov.pt/pt/noticias/atualizacao-da-tabela-de-taxas": "AIMA: updated fee table",
+    "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx": "Portuguese Tax Authority: tax residency rules",
+    "https://www.metrolisboa.pt/en/buy/navegante-card/": "Metro de Lisboa: Navegante card"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的搬迁计划，得到同样的预算和签证核对",
+   "runTitle": "美国公司发薪的程序员，2027 年 4 月起凭 D8 签证到里斯本住一年：月度预算与签证要点",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "抵达日期",
+     "value": "2027 年 4 月"
+    },
+    {
+     "key": "departure",
+     "label": "离境日期",
+     "value": "约一年后(2028 年 4 月)"
+    },
+    {
+     "key": "city",
+     "label": "城市",
+     "value": "里斯本"
+    },
+    {
+     "key": "people",
+     "label": "同行人数",
+     "value": "只有我一个人(单身)"
+    },
+    {
+     "key": "nationality",
+     "label": "国籍及合法、税务居住地",
+     "value": "",
+     "placeholder": "例如：巴西国籍，美国税务居民"
+    },
+    {
+     "key": "insurance",
+     "label": "年龄和保险需求",
+     "value": "签证要求的医疗保险"
+    },
+    {
+     "key": "income",
+     "label": "税前收入及币种",
+     "value": "税前约 7,000 美元/月，由美国公司支付"
+    },
+    {
+     "key": "status",
+     "label": "身份(雇员或承包者)",
+     "value": "",
+     "placeholder": "例如：美国公司的全职雇员"
+    },
+    {
+     "key": "calls",
+     "label": "当地通话时间",
+     "value": "",
+     "placeholder": "例如：需要在里斯本时间 22:00 前与美国团队通话"
+    }
+   ],
+   "template": "请规划我从{arrival}至{departure}在{city}的远程工作生活，同行{people}，国籍及合法、税务居住地{nationality}，年龄和保险需求{insurance}，税前收入及币种{income}，身份{status}，当地通话时间{calls}；比较节俭、基准和宽裕预算、具体租约及晚间工位，分开消费、押金、预付租金和应急金，全年房租只算一次，核对签证与税务但不假定 NHR 或 IFICI 优惠，列来源日期和待确认事项，不联系、申请、预订、付款或发布。",
+   "phases": [
+    {
+     "title": "查看里斯本当前租房、D8 官方规则和生活成本",
+     "judgment": "对签证的收入线，它给了两个数字并说明各自有多牢靠：按已生效的 2026 年最低工资是每月 3,680 欧元，按已公布的 2027 年最低工资是 3,880 欧元，待实施法规出台后复查；同时它不假定旧的 NHR 或 IFICI 税收优惠适用。"
+    },
+    {
+     "title": "做出可编辑的预算表和适合手机阅读的摘要"
+    },
+    {
+     "title": "核对计算、来源和文件",
+     "judgment": "独立复核的同事重新检查了 123 个公式，没有出错，也确认现金流里的押金和预付租金没有重复计算；还抽查了租房报价条款和一手来源，并在手机宽度下查看了版面。"
+    }
+   ],
+   "workers": [
+    "找带家具的一居室房源，并逐个读原页面上的租金、押金和合同条款",
+    "读葡萄牙官方资料里的 D8 签证：收入要求、材料、费用、保险和税务居住",
+    "收集 Navegante 交通卡、共享办公桌、网络和日常开销的服务商价格",
+    "对照调研笔记，独立复核预算表、公式和摘要"
+   ],
+   "chipNames": {
+    "https://vistos.mne.gov.pt/en/national-visas/general-information/fees": "葡萄牙国家签证:官方收费",
+    "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/temporary-stay": "葡萄牙国家签证:短期居留所需材料",
+    "https://aima.gov.pt/pt/noticias/atualizacao-da-tabela-de-taxas": "AIMA:更新后的收费表",
+    "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx": "葡萄牙税务局:税务居民规则",
+    "https://www.metrolisboa.pt/en/buy/navegante-card/": "里斯本地铁:Navegante 交通卡"
+   }
+  }
+ }
+}

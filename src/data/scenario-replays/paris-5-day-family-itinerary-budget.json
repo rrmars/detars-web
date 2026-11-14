@@ -1,0 +1,188 @@
+{
+ "slug": "paris-5-day-family-itinerary-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 2735,
+ "stats": {
+  "searches": 84,
+  "pages": 24,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 47,
+   "end": 911,
+   "chips": [
+    "https://www.hoteljeanbart.com/en-GB/rooms/triple-room.html",
+    "https://www.hoteljeanbart.com/en-GB/rooms/family-suite-max-4-people-.html",
+    "https://www.hotelvendomesaintgermain.com/en/chambres",
+    "https://www.hotelvendomesaintgermain.com/en/cgv",
+    "http://www.ludo-jardin.fr/infos-pratiques/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 911,
+   "end": 2682,
+   "chips": [
+    "https://www.toureiffel.paris/en/rates-opening-times",
+    "https://www.ratp.fr/informer/picts/plans/pdf/bus_paris/82.pdf"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2682,
+   "end": 2717,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own dates, children's ages and budget, and get a family Paris plan that separates real prices from allowances",
+   "runTitle": "Paris with a 5-year-old, 8–12 July 2027, on about €2,200",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates and flight times",
+     "value": "Arrive Thursday 8 July 2027, leave Monday 12 July 2027"
+    },
+    {
+     "key": "people",
+     "label": "Adults and children's ages",
+     "value": "A couple and a 5-year-old"
+    },
+    {
+     "key": "budget",
+     "label": "Budget excluding flights",
+     "value": "About EUR 2,200"
+    },
+    {
+     "key": "rooms",
+     "label": "Room needs",
+     "value": "",
+     "placeholder": "e.g. one room for three with breakfast in one area"
+    },
+    {
+     "key": "stroller",
+     "label": "Stroller and rest needs",
+     "value": "Naps and stroller-friendly routes"
+    },
+    {
+     "key": "sights",
+     "label": "Must-see places",
+     "value": "Must-sees with short queues, parks and playgrounds, and one child-friendly museum"
+    }
+   ],
+   "template": "Plan a Paris family trip for {dates}, with {people}, {budget}, {rooms}, {stroller} and {sights}; keep the days manageable, show booking choices and free alternatives, and separate confirmed prices from allowances.",
+   "phases": [
+    {
+     "title": "Check official attractions, transport, July events and family room prices",
+     "note": "Family rooms in the Latin Quarter, July closures and events, playground and museum details",
+     "judgment": "It caught a price that looked cheaper than it was. One hotel's family suite was advertised “from €196”, but its own tariff page showed €295 a night for three people, so four nights come to €1,180, not €784."
+    },
+    {
+     "title": "Build the family-paced itinerary and a budget that adds up",
+     "note": "Day-by-day plan, Métro and bus notes, tickets and a reconciled cost table",
+     "judgment": "Uncertainty is stated, not smoothed over. Hotel prices are labelled as published starting rates and not confirmed July availability, and 2027 closures, events and bus-stop access it could not confirm are flagged. It also noted that Bastille Day falls on 14 July, after the family leaves."
+    },
+    {
+     "title": "Write and check the itinerary and source notes"
+    }
+   ],
+   "workers": [
+    "Found family-room options in the Latin Quarter and Luxembourg area, with the price seen and the date it was seen",
+    "Checked what is on or closed around 8–12 July 2027, plus opening hours and child prices for the playground and the natural history museum"
+   ],
+   "chipNames": {
+    "https://www.hoteljeanbart.com/en-GB/rooms/triple-room.html": "Hôtel Jean Bart triple room",
+    "https://www.hoteljeanbart.com/en-GB/rooms/family-suite-max-4-people-.html": "Hôtel Jean Bart family suite",
+    "https://www.hotelvendomesaintgermain.com/en/chambres": "Hôtel Vendôme Saint Germain rooms",
+    "https://www.hotelvendomesaintgermain.com/en/cgv": "Hôtel Vendôme Saint Germain terms",
+    "http://www.ludo-jardin.fr/infos-pratiques/": "Luxembourg Garden playground (practical information)",
+    "https://www.toureiffel.paris/en/rates-opening-times": "Eiffel Tower rates and opening times",
+    "https://www.ratp.fr/informer/picts/plans/pdf/bus_paris/82.pdf": "RATP bus line 82 map"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的日期、孩子年龄和预算，拿到一份把真实价格和预留分开的巴黎亲子行程",
+   "runTitle": "带 5 岁孩子游巴黎，2027 年 7 月 8–12 日，预算约 2,200 欧元",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期和航班时间",
+     "value": "2027 年 7 月 8 日（周四）到达，7 月 12 日（周一）离开"
+    },
+    {
+     "key": "people",
+     "label": "成人及儿童年龄",
+     "value": "一对夫妻带一个 5 岁孩子"
+    },
+    {
+     "key": "budget",
+     "label": "不含机票的预算",
+     "value": "约 2,200 欧元"
+    },
+    {
+     "key": "rooms",
+     "label": "房间需求",
+     "value": "",
+     "placeholder": "例如：一间三人房，含早餐，集中在一个区域"
+    },
+    {
+     "key": "stroller",
+     "label": "推车和休息需要",
+     "value": "要午睡，路线要推车友好"
+    },
+    {
+     "key": "sights",
+     "label": "最想看的地方",
+     "value": "排队短的必看景点、公园和游乐场，以及一座适合孩子的博物馆"
+    }
+   ],
+   "template": "请按{dates}、{people}、{budget}、{rooms}、{stroller}及{sights}，帮我安排巴黎亲子游；每天别排太满，列出预订选择和免费替代，把已确认价格与预留分清。",
+   "phases": [
+    {
+     "title": "查官方景点、交通、七月活动和亲子房价格",
+     "note": "拉丁区亲子房、七月关闭与活动情况、游乐场和博物馆细节",
+     "judgment": "它识破了一个看起来比实际便宜的价格。有家酒店的家庭套房标着“€196 起”，但它自己的价目页写明三人每晚 295 欧元，四晚是 1,180 欧元，而不是 784 欧元。"
+    },
+    {
+     "title": "排出适合孩子节奏的行程，做出能对上账的预算",
+     "note": "每日安排、地铁和公交提示、门票和核对过的费用表",
+     "judgment": "不确定的地方照实写出，没有抹平。酒店价格标明是公布的起步价而非 7 月实际可订，查不到的 2027 年关闭、活动和公交站无障碍情况也都做了标注；还写明 7 月 14 日国庆日在一家人离开之后。"
+    },
+    {
+     "title": "写出并检查行程和来源说明"
+    }
+   ],
+   "workers": [
+    "找拉丁区和卢森堡一带的亲子房，记下看到的价格和看到的日期",
+    "查 2027 年 7 月 8–12 日前后的活动和关闭情况，以及游乐场和自然史博物馆的开放时间和儿童票价"
+   ],
+   "chipNames": {
+    "https://www.hoteljeanbart.com/en-GB/rooms/triple-room.html": "让巴尔酒店三人房",
+    "https://www.hoteljeanbart.com/en-GB/rooms/family-suite-max-4-people-.html": "让巴尔酒店家庭套房",
+    "https://www.hotelvendomesaintgermain.com/en/chambres": "旺多姆圣日耳曼酒店客房",
+    "https://www.hotelvendomesaintgermain.com/en/cgv": "旺多姆圣日耳曼酒店条款",
+    "http://www.ludo-jardin.fr/infos-pratiques/": "卢森堡公园儿童游乐场（实用信息）",
+    "https://www.toureiffel.paris/en/rates-opening-times": "埃菲尔铁塔票价与开放时间",
+    "https://www.ratp.fr/informer/picts/plans/pdf/bus_paris/82.pdf": "RATP 82 路公交线路图"
+   }
+  }
+ }
+}

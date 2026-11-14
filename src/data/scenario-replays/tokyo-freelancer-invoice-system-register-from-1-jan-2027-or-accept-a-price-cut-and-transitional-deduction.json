@@ -1,0 +1,94 @@
+{
+ "slug": "tokyo-freelancer-invoice-system-register-from-1-jan-2027-or-accept-a-price-cut-and-transitional-deduction",
+ "startedAt": "2026-11-07",
+ "activeSec": 628,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 0,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 628,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own sales and clients and get the same register-or-stay-exempt comparison, in yen",
+   "runTitle": "Tokyo freelance designer on about ¥7.2 million of sales: register from 1 January 2027, or accept a price cut?",
+   "fields": [
+    {
+     "key": "profession",
+     "label": "Profession",
+     "value": "Freelance graphic designer"
+    },
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Tokyo"
+    },
+    {
+     "key": "sales",
+     "label": "Annual sales, tax-excluded",
+     "value": "About JPY 7.2 million"
+    },
+    {
+     "key": "corporate",
+     "label": "Share from corporate clients",
+     "value": "About 70%"
+    },
+    {
+     "key": "individual",
+     "label": "Share from individuals",
+     "value": "",
+     "placeholder": "e.g. 15%"
+    },
+    {
+     "key": "overseas",
+     "label": "Share from overseas clients",
+     "value": "",
+     "placeholder": "e.g. 15%"
+    },
+    {
+     "key": "purchases",
+     "label": "Annual tax-included purchases from registered suppliers",
+     "value": "",
+     "placeholder": "e.g. JPY 1 million"
+    },
+    {
+     "key": "baseYear",
+     "label": "Base year",
+     "value": "",
+     "placeholder": "e.g. 2025"
+    },
+    {
+     "key": "year",
+     "label": "Year of the January–June period",
+     "value": "",
+     "placeholder": "e.g. 2026"
+    },
+    {
+     "key": "amounts",
+     "label": "Taxable sales in those two periods",
+     "value": "",
+     "placeholder": "e.g. JPY 8.0 million, and JPY 4.0 million for January–June"
+    }
+   ],
+   "template": "Help me decide whether to register as a qualified invoice issuer as a {profession} based in {city}. My sales are about {sales}, with about {corporate} from corporate clients, {individual} from individuals and {overseas} from overseas clients, and about {purchases} in purchases from registered suppliers. My taxable sales in {baseYear} and in January–June {year} were {amounts}. Rebuild the consumption-tax comparison by method, the break-even price cut against what my clients lose under the transitional deduction, and the registration timeline, with my numbers, and label anything that is not on an official page as unconfirmed. Do not contact anyone or file anything for me.",
+   "phases": [
+    {
+     "title": "Read the tax office’s pages, recompute every figure in code and write the decision guide",
+     "note": "Consumption tax by method, what her clients lose if she stays exempt, and the registration timeline",
+     "judgment": "It told the reader that two things in her own request were out of date: the special rule that cut the tax to one-fifth has ended and a 30% rule applies to 2027–28 only, and clients’ deductible share is now 70% until September 2028, not the 80%-then-50% schedule she had heard. It also labelled the 3.6% break-even price cut as a judgement call, not something the arithmetic settles."
+    }
+   ],
+   "workers": [],
+   "chipNames": {}
+  }
+ }
+}

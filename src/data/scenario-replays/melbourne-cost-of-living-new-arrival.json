@@ -1,0 +1,253 @@
+{
+ "slug": "melbourne-cost-of-living-new-arrival",
+ "startedAt": "2026-11-05",
+ "activeSec": 2082,
+ "stats": {
+  "searches": 45,
+  "pages": 80,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 24,
+   "end": 341,
+   "chips": [
+    "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+    "https://www.vic.gov.au/half-price-travel",
+    "https://transport.vic.gov.au/tickets-and-payments/fares/metropolitan-fares",
+    "https://www.domain.com.au/rent/footscray-vic-3011/apartment/",
+    "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bond-amounts-and-paying-a-bond"
+   ],
+   "workers": []
+  },
+  {
+   "start": 341,
+   "end": 1059,
+   "chips": [
+    "https://immi.homeaffairs.gov.au/visas/working-in-australia/regional-migration/eligible-regional-areas",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491",
+    "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/standard-deduction-for-work-related-expenses",
+    "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/coming-to-australia/tax-free-threshold-for-newcomers-to-australia"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1059,
+   "end": 1887,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own salary, move date and visa to get the same arrival budget, rentals and runway check",
+   "runTitle": "A couple moving to Melbourne in March 2027 on one AUD 95,000 salary while the partner looks for work",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City and country",
+     "value": "Melbourne, Australia"
+    },
+    {
+     "key": "move_date",
+     "label": "Move date",
+     "value": "March 2027"
+    },
+    {
+     "key": "household",
+     "label": "Adults and children",
+     "value": "Two adults, no children"
+    },
+    {
+     "key": "car",
+     "label": "Car or no car",
+     "value": "Getting around by public transport"
+    },
+    {
+     "key": "salary",
+     "label": "Salary, and whether super is added or included",
+     "value": "AUD 95,000 a year"
+    },
+    {
+     "key": "first_payday",
+     "label": "First payday",
+     "value": "",
+     "placeholder": "e.g. two weeks after starting work, 17 March 2027"
+    },
+    {
+     "key": "partner",
+     "label": "Partner’s confirmed net income",
+     "value": "None yet; my partner will look for work after we arrive"
+    },
+    {
+     "key": "visa",
+     "label": "Visa, tax residency and health cover",
+     "value": "A skilled visa"
+    },
+    {
+     "key": "listings",
+     "label": "Number of rentals to compare",
+     "value": "a few"
+    },
+    {
+     "key": "office",
+     "label": "Office location and start time",
+     "value": "The Melbourne CBD, a 1- or 2-bedroom place within 35 minutes by public transport"
+    }
+   ],
+   "template": "Plan our move to {city} on {move_date} for {household}, {car}, salary {salary}, first payday {first_payday} and confirmed partner net income {partner}. Use our {visa}. Show monthly costs using weekly × 52 ÷ 12, actual lease charges, take-home pay, private-cover and super-inclusive alternatives. Compare {listings} dated rentals near {office} and actual door-to-office trips. Separate bond, prepaid rent, setup, pre-payday living and emergency reserves; check delayed pay without double-counting. Give an editable budget and summary with dated sources, estimates and unknowns. Do not contact anyone, apply, book, pay or publish.",
+   "phases": [
+    {
+     "title": "Read official tax, visa, health and transport rules, plus current rental listings",
+     "note": "Tax rates, fares, bond rules and dated listings",
+     "judgment": "It spotted that today’s Melbourne fares are temporarily discounted until 1 January 2027, so it did not build a March 2027 budget on them. It budgeted an undiscounted baseline of $420–500 a month for two frequent travellers instead."
+    },
+    {
+     "title": "Build the editable monthly budget, arrival costs and one-income runway scenarios",
+     "note": "Take-home pay, rent, bills, arrival cash and reserves",
+     "judgment": "Because the visa subclass wasn’t known, it flagged a real conflict: Melbourne counts as non-regional, but the 491 and 494 visa conditions require living and working in designated regional areas, so a CBD budget can’t simply apply to those visas."
+    },
+    {
+     "title": "Create and verify the spreadsheet and the phone-friendly page",
+     "judgment": "The independent reviewer caught an overstatement: the commute times were described as including the office walk, but they actually end at the CBD station exit, so the wording was corrected."
+    }
+   ],
+   "workers": [
+    "Found and read current rental listings in three suburbs, with weekly rent, bedrooms, nearest station and the train time to the CBD",
+    "Checked the official public transport fares and Victoria’s rules on bond and rent, then utilities, internet, phone and grocery costs",
+    "Checked the official tax, super and health rules for the arrival scenarios, including part-year tax and Medicare",
+    "Independently reviewed the finished budget workbook, recomputing totals and checking the arrival and runway sums for double-counting"
+   ],
+   "chipNames": {
+    "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents": "ATO: tax rates for Australian residents",
+    "https://www.vic.gov.au/half-price-travel": "Victoria: half-price travel",
+    "https://transport.vic.gov.au/tickets-and-payments/fares/metropolitan-fares": "Victoria: metropolitan fares",
+    "https://www.domain.com.au/rent/footscray-vic-3011/apartment/": "Domain: rentals in Footscray",
+    "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bond-amounts-and-paying-a-bond": "Consumer Affairs Victoria: bond amounts",
+    "https://immi.homeaffairs.gov.au/visas/working-in-australia/regional-migration/eligible-regional-areas": "Home Affairs: eligible regional areas",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491": "Home Affairs: Skilled Work Regional visa (491)",
+    "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/standard-deduction-for-work-related-expenses": "ATO: standard deduction for work-related expenses",
+    "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/coming-to-australia/tax-free-threshold-for-newcomers-to-australia": "ATO: tax-free threshold for newcomers"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的薪资、搬家日期和签证，就能得到同样的落地预算、房源和单薪撑多久核对",
+   "runTitle": "一对伴侣 2027 年 3 月搬到墨尔本：一份 9.5 万澳元的年薪，伴侣还在找工作",
+   "fields": [
+    {
+     "key": "city",
+     "label": "城市和国家",
+     "value": "澳大利亚墨尔本"
+    },
+    {
+     "key": "move_date",
+     "label": "搬家日期",
+     "value": "2027 年 3 月"
+    },
+    {
+     "key": "household",
+     "label": "成人和孩子",
+     "value": "两个成年人，没有孩子"
+    },
+    {
+     "key": "car",
+     "label": "有车或无车",
+     "value": "靠公共交通出行"
+    },
+    {
+     "key": "salary",
+     "label": "工资金额，另加或已含退休金",
+     "value": "年薪 9.5 万澳元"
+    },
+    {
+     "key": "first_payday",
+     "label": "首薪日",
+     "value": "",
+     "placeholder": "例如：上班后两周，2027 年 3 月 17 日"
+    },
+    {
+     "key": "partner",
+     "label": "伴侣已确认的净收入",
+     "value": "暂时没有，伴侣到了以后再找工作"
+    },
+    {
+     "key": "visa",
+     "label": "签证、税务居民和医疗资格",
+     "value": "技术移民签证"
+    },
+    {
+     "key": "listings",
+     "label": "比较的房源数量",
+     "value": "几"
+    },
+    {
+     "key": "office",
+     "label": "办公室位置和上班时间",
+     "value": "墨尔本市中心，公共交通 35 分钟内的一居或两居"
+    }
+   ],
+   "template": "请帮我们规划{city}、{move_date}的落地预算：家庭{household}、{car}，工资{salary}，首薪日{first_payday}，伴侣已确认净收入{partner}，签证、税务居民事实和医疗资格{visa}。月预算用周额 × 52 ÷ 12，但另核对租约实际收费；比较私人医保和含退休金薪资情景。找{listings}条{office}附近带日期房源，实查门到办公室通勤。分开押金、预付房租、安顿费、首薪前生活和应急储备，检查发薪延迟且不重复计入。给可编辑预算和摘要，写明来源日期、估算及未知项；不要联系、申请、预订、付款或发布。",
+   "phases": [
+    {
+     "title": "阅读官方税务、签证、医保和交通规定，以及当前在租房源",
+     "note": "税率、票价、押金规定和有日期的房源",
+     "judgment": "它注意到墨尔本现在的票价到 2027 年 1 月 1 日前是临时折扣，所以没有拿它来做 2027 年 3 月的预算，改用不打折的基准：两个人经常出行，每月约 420–500 澳元。"
+    },
+    {
+     "title": "做可编辑的月度预算、落地费用和单薪撑多久的情景",
+     "note": "税后收入、房租、账单、落地现金和储备",
+     "judgment": "签证子类别未知，所以它标出一处真实冲突：墨尔本不算偏远地区，而 491 和 494 签证的条件要求在指定偏远地区居住和工作，市中心的预算不能直接套用在这两类签证上。"
+    },
+    {
+     "title": "生成并核对电子表格和手机友好页面",
+     "judgment": "独立复核同事抓到一处夸大：通勤时间被说成包含走到办公室的路程，实际只到市中心车站出口，措辞随后做了修正。"
+    }
+   ],
+   "workers": [
+    "在三个郊区找到并读了在租房源，记下周租、卧室数、最近车站和到市中心的列车时间",
+    "查了官方公共交通票价和维多利亚州的押金、租金规定，再查水电、网络、手机和食品开销",
+    "查了官方税务、退休金和医保规定，覆盖落地后几种情景，包括当年部分年度税和医保税",
+    "独立审查做好的预算工作簿，重新算合计，并检查落地现金和撑多久的计算有没有重复计入"
+   ],
+   "chipNames": {
+    "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents": "澳大利亚税务局：居民税率",
+    "https://www.vic.gov.au/half-price-travel": "维多利亚州：半价乘车",
+    "https://transport.vic.gov.au/tickets-and-payments/fares/metropolitan-fares": "维多利亚州：大都会票价",
+    "https://www.domain.com.au/rent/footscray-vic-3011/apartment/": "Domain：Footscray 在租房源",
+    "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bond-amounts-and-paying-a-bond": "维多利亚州消费者事务局：押金金额",
+    "https://immi.homeaffairs.gov.au/visas/working-in-australia/regional-migration/eligible-regional-areas": "移民部：指定偏远地区",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491": "移民部：偏远地区技术工作签证（491）",
+    "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/standard-deduction-for-work-related-expenses": "澳大利亚税务局：工作相关标准扣除",
+    "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/coming-to-australia/tax-free-threshold-for-newcomers-to-australia": "澳大利亚税务局：新移民免税额"
+   }
+  }
+ }
+}

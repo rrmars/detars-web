@@ -1,0 +1,126 @@
+{
+ "slug": "vancouver-newcomer-family-rent-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1447,
+ "stats": {
+  "searches": 32,
+  "pages": 36,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 45,
+   "end": 865,
+   "chips": [
+    "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/rent-rtb/rent-increases",
+    "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/starting-a-tenancy/deposits-fees",
+    "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/10-a-day-childcarebc-centres/faq-families",
+    "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/child-care-benefit/information-for-families/rates-payments",
+    "https://rcmp.ca/en/bc/richmond/news/2025/08/richmond-rcmp-warns-public-about-rental-deposit-scams"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 865,
+   "end": 1030,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1030,
+   "end": 1396,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own family, salary and workplace and get a first-rental plan for Metro Vancouver",
+   "runTitle": "Manila family of three to Vancouver: a two-bedroom near SkyTrain on a CAD 82,000 salary",
+   "fields": [
+    {
+     "key": "family",
+     "label": "Adults, child ages or birthdays, immigration status",
+     "value": "Two adults and a 4-year-old; new permanent residents"
+    },
+    {
+     "key": "date",
+     "label": "Arrival date",
+     "value": "1 May 2027"
+    },
+    {
+     "key": "city",
+     "label": "City of departure",
+     "value": "Manila"
+    },
+    {
+     "key": "salary",
+     "label": "Gross salary, payroll estimate and accessible savings",
+     "value": "Job offer of CAD 82,000 a year"
+    },
+    {
+     "key": "workplace",
+     "label": "Workplace address and shifts",
+     "value": "Burnaby"
+    },
+    {
+     "key": "care",
+     "label": "Care coverage, provider quotes, debts and other obligations",
+     "value": "",
+     "placeholder": "e.g. no care help yet, one daycare quote of CAD 800 a month, no debts"
+    }
+   ],
+   "template": "Plan our first Metro Vancouver rental for {family}, arriving {date} from {city}, with {salary}. Use {workplace} to compare station corridors and actual two-bedroom housing costs. Model {care}, count no benefit until eligibility and amount are established, and separate monthly spending, landing cash and emergency runway. Flag deposit/privacy/scam risks, child-care vacancies and the MSP/private-insurance gap. Keep dated examples distinct from confirmed quotes. Plan only; do not contact anyone, apply, create accounts, book or pay.",
+   "phases": [
+    {
+     "title": "Check live listings, commute options and the official rules and costs",
+     "note": "Rental pages, BC tenancy rules, childcare programmes, newcomer scam warnings",
+     "judgment": "It checked childcare against the official rules instead of repeating a headline figure: the fee reduction for ages 3 to kindergarten is up to $545 a month for group care, and the separate benefit of about $550 is a maximum with its own eligibility tests, so nothing was counted as guaranteed. It also noticed a fee schedule that ends in April 2027, just before the family arrives."
+    },
+    {
+     "title": "Write the practical guide and the source log",
+     "note": "Areas, listings, tenancy rules, first-month cash, monthly budget",
+     "judgment": "It did not hide the hard part: take-home pay is estimated at $5,210 a month on a labelled 2026 tax-year proxy, and the guide says paid childcare can push a one-income budget into deficit."
+    },
+    {
+     "title": "Check completeness, figures, links and how the page renders",
+     "judgment": "The independent reviewer recomputed the budget and found it all matched. It also checked that listings with no floor area say “Size not stated” rather than a guessed size, and advised against inferring sizes."
+    }
+   ],
+   "workers": [
+    "Found current two-bedroom rental listings near SkyTrain in Burnaby, New Westminster, Surrey, East Vancouver and Coquitlam, and opened each page",
+    "Read the official BC tenancy rules, the rent-increase limit, and ChildCare BC fees and funding",
+    "Independently checked the guide against the original listing pages and recomputed the budget"
+   ],
+   "chipNames": {
+    "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/rent-rtb/rent-increases": "BC government: rent increases",
+    "https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies/starting-a-tenancy/deposits-fees": "BC government: security deposits and fees",
+    "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/10-a-day-childcarebc-centres/faq-families": "ChildCare BC $10-a-day centres: family FAQ",
+    "https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/child-care-benefit/information-for-families/rates-payments": "BC Child Care Benefit: rates and payments",
+    "https://rcmp.ca/en/bc/richmond/news/2025/08/richmond-rcmp-warns-public-about-rental-deposit-scams": "RCMP: rental deposit scam warning"
+   }
+  }
+ }
+}

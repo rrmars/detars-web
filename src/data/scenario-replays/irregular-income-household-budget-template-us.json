@@ -1,0 +1,187 @@
+{
+ "slug": "irregular-income-household-budget-template-us",
+ "startedAt": "2026-11-05",
+ "activeSec": 1679,
+ "stats": {
+  "searches": 20,
+  "pages": 15,
+  "colleagues": 2,
+  "parallel": 1,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 100,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 100,
+   "end": 1086,
+   "chips": [
+    "https://fns-prod.azureedge.us/sites/default/files/resource-files/CostofFoodSep2026LowModLib.pdf",
+    "https://www.huduser.gov/portal/datasets/fmr.html",
+    "https://www.govinfo.gov/content/pkg/FR-2026-09-01/pdf/2026-17891.pdf",
+    "https://info.childcareaware.org/price-and-supply-2025",
+    "https://www.ymcawf.org/childcare/preschool/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1086,
+   "end": 1564,
+   "chips": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own pay, bills and freelance income and get a budget workbook that copes with irregular months",
+   "runTitle": "A US household with a salary and a freelance income: a budget workbook that survives uneven months",
+   "fields": [
+    {
+     "key": "place",
+     "label": "Country/state, currency, start month",
+     "value": "United States"
+    },
+    {
+     "key": "pay",
+     "label": "Net pay and pay schedule",
+     "value": "Salaried, paid twice a month"
+    },
+    {
+     "key": "freelance",
+     "label": "Twelve months of freelance income and business costs",
+     "value": "Partner is a freelance designer whose income swings a lot from month to month"
+    },
+    {
+     "key": "taxrate",
+     "label": "Independently estimated tax-reserve rate",
+     "value": "",
+     "placeholder": "e.g. 25% of each freelance payment set aside for tax"
+    },
+    {
+     "key": "balances",
+     "label": "Reconciled checking, after-tax buffer and each fund",
+     "value": "",
+     "placeholder": "e.g. checking $4,200, tax buffer $3,000, car-insurance fund $600"
+    },
+    {
+     "key": "bills",
+     "label": "Real bills, spending, loan balances/APRs/minimums and next renewal amounts/dates",
+     "value": "Rent, two car payments, student loans and daycare; annual bills for car insurance, Amazon Prime, holiday gifts and the dentist"
+    }
+   ],
+   "template": "Adapt this budget for {place}, using {pay}, twelve months of {freelance}, {taxrate}, reconciled {balances}, and {bills}. Work in a copy and preserve formulas. Explain blanks versus zeros, catch-up savings, closed-month transfer/target snapshots and rent-day cash; flag biweekly/daily gaps. Check twelve months of cash conservation, warnings and payoff caps. Do not invent prices, tax or income, connect accounts, move money, contact providers or publish.",
+   "phases": [
+    {
+     "title": "Pick the cost anchors and decide how uneven freelance income gets averaged",
+     "note": "Method first, before any building"
+    },
+    {
+     "title": "Build the example workbook and a one-page guide while a reviewer tests the model",
+     "note": "Income, bills, annual-bill savings, debt payoff and a 12-month dashboard",
+     "judgment": "The independent reviewer first called the workbook “not ready for dependable household use”. One example: entering 15 January as a car-insurance due date scheduled $0 for January instead of $1,200. It listed four faults in all, and each was fixed."
+    },
+    {
+     "title": "Recalculate every formula, run scenario tests and check the charts",
+     "judgment": "The re-check confirmed all four faults were gone. The final workbook recalculated 1,181 formulas with no errors and passed 13 scenario checks. Public cost figures are labelled apart from made-up ones: the $2,100 rent could not be matched to an official rent table, so it is marked as fictional."
+    }
+   ],
+   "workers": [
+    "Looked up current public figures for food, rent, daycare, car insurance and subscriptions, noting each date and what it covers",
+    "Independently reviewed the budget model, listed what was wrong, then re-checked it after the fixes"
+   ],
+   "chipNames": {
+    "https://fns-prod.azureedge.us/sites/default/files/resource-files/CostofFoodSep2026LowModLib.pdf": "USDA monthly food cost report (September 2026)",
+    "https://www.huduser.gov/portal/datasets/fmr.html": "HUD fair market rents",
+    "https://www.govinfo.gov/content/pkg/FR-2026-09-01/pdf/2026-17891.pdf": "Federal Register notice on FY2027 fair market rents",
+    "https://info.childcareaware.org/price-and-supply-2025": "Child Care Aware: child care prices and supply",
+    "https://www.ymcawf.org/childcare/preschool/": "YMCA preschool weekly rates (example)",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes": "IRS estimated taxes for the self-employed"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的收入、账单和自由职业收入，拿到一份能应付收入起伏的预算表",
+   "runTitle": "美国一户家庭，一份工资加一份自由职业收入：扛得住收入起伏的预算表",
+   "fields": [
+    {
+     "key": "place",
+     "label": "国家州、币种、起始月",
+     "value": "美国"
+    },
+    {
+     "key": "pay",
+     "label": "税后工资和周期",
+     "value": "领薪水，每月发两次"
+    },
+    {
+     "key": "freelance",
+     "label": "十二个月自由职业收款及业务费用",
+     "value": "伴侣是自由职业设计师，收入月与月之间起伏很大"
+    },
+    {
+     "key": "taxrate",
+     "label": "独立估算的税款预留比例",
+     "value": "",
+     "placeholder": "例如：每笔自由职业收款留 25% 作税款"
+    },
+    {
+     "key": "balances",
+     "label": "已分别对账的支票账户、税后缓冲金和各专项金",
+     "value": "",
+     "placeholder": "例如：支票账户 4,200 美元、税款缓冲金 3,000 美元、车险专项金 600 美元"
+    },
+    {
+     "key": "bills",
+     "label": "真实账单、消费、贷款余额年利率最低还款及下次续费金额日期",
+     "value": "房租、两笔车贷、学生贷款和托儿费；每年一次的车险、亚马逊 Prime、节日礼物和牙医"
+    }
+   ],
+   "template": "请按{place}调整预算，用{pay}、十二个月{freelance}、{taxrate}、已分别对账的{balances}，以及{bills}。在副本保留公式，说明空白与零、到期补足、已结月份转账和目标快照、房租日现金，指出每两周发薪和每日时点缺口；查十二个月现金守恒、警告和还清上限。不编价格、税或收入，不连账号、转钱、联系或发布。",
+   "phases": [
+    {
+     "title": "选定费用参照，并决定怎么平均起伏不定的自由职业收入",
+     "note": "先定方法，再动手做表"
+    },
+    {
+     "title": "做出示例表格和一页说明，同时由复核同事测试模型",
+     "note": "收入、账单、年度费用储备、还债和 12 个月总览",
+     "judgment": "独立复核的同事一开始给出的结论是“还不能放心用”。比如，把车险到期日填成 1 月 15 日，表格里 1 月竟然记 0 美元，而不是 1,200 美元。它一共列出四处问题，之后都改好了。"
+    },
+    {
+     "title": "重算每个公式，做情景测试，检查图表",
+     "judgment": "复核确认四处问题都已消失。最终表格重算了 1,181 个公式，没有报错，13 项情景测试全部通过。公开的费用数字和虚构的数字分开标注：2,100 美元的房租没能对上官方租金表，所以标为虚构。"
+    }
+   ],
+   "workers": [
+    "查食品、房租、托儿、车险和订阅的最新公开数字，并注明各自的日期和适用范围",
+    "独立审查预算模型，列出问题，修改后再复查一遍"
+   ],
+   "chipNames": {
+    "https://fns-prod.azureedge.us/sites/default/files/resource-files/CostofFoodSep2026LowModLib.pdf": "美国农业部月度食品成本报告（2026 年 9 月）",
+    "https://www.huduser.gov/portal/datasets/fmr.html": "HUD 公平市场租金",
+    "https://www.govinfo.gov/content/pkg/FR-2026-09-01/pdf/2026-17891.pdf": "联邦公报：2027 财年公平市场租金公告",
+    "https://info.childcareaware.org/price-and-supply-2025": "Child Care Aware：托育价格与供给",
+    "https://www.ymcawf.org/childcare/preschool/": "YMCA 学前班周费率（示例）",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes": "美国国税局：个体经营者预估税"
+   }
+  }
+ }
+}

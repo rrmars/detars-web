@@ -1,0 +1,112 @@
+{
+ "slug": "sao-paulo-couple-irpf-brl-5000-exemption-is-a-fading-reduction-withholding-refund-and-before-31-december",
+ "startedAt": "2026-11-07",
+ "activeSec": 1498,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 1498,
+   "chips": [
+    "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/receita-federal-lanca-perguntas-e-respostas-sobre-tributacao-de-altas-rendas-consideracoes-sobre-lucros-e-dividendos/manual_padrao_rfb_per_tributacao_sutri_v2.pdf",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/exemplos-de-aplicacao-da-lei-15-270-2025",
+    "https://www.in.gov.br/web/dou/-/portaria-interministerial-mps/mf-n-13-de-9-de-janeiro-de-2026-680382603"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 1,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own pay, partner’s income and dividends and get the same before-and-after tax check for Brazil’s 2026 change",
+   "runTitle": "São Paulo: a couple and Brazil’s new income-tax rules, from monthly withholding to the 2027 return",
+   "fields": [
+    {
+     "key": "me",
+     "label": "Your work situation",
+     "value": "Employee (CLT contract)"
+    },
+    {
+     "key": "city",
+     "label": "City",
+     "value": "São Paulo"
+    },
+    {
+     "key": "partner",
+     "label": "Partner’s work situation",
+     "value": "Company owner"
+    },
+    {
+     "key": "children",
+     "label": "Number of children",
+     "value": "1"
+    },
+    {
+     "key": "pay",
+     "label": "Your gross monthly pay",
+     "value": "BRL 6,800, plus 13th salary and vacation bonus"
+    },
+    {
+     "key": "prolabore",
+     "label": "Partner’s monthly pró-labore",
+     "value": "BRL 3,500"
+    },
+    {
+     "key": "dividends",
+     "label": "Monthly dividends",
+     "value": "About BRL 9,000"
+    },
+    {
+     "key": "company",
+     "label": "Company type",
+     "value": "Simples Nacional consultancy"
+    },
+    {
+     "key": "costs",
+     "label": "Health and school costs, itemised by beneficiary",
+     "value": "",
+     "placeholder": "e.g. child’s school BRL 1,800 a month, partner’s health plan BRL 900 a month"
+    }
+   ],
+   "template": "Help me work out what Brazil's 2026 income-tax change does to my household. I am {me} in {city}, my partner is {partner}, and we have {children} children. My gross monthly pay is {pay}, my partner's pró-labore is {prolabore} and the dividends are {dividends} a month from a {company}. Recompute our monthly withholding before and after the reduction, the 2027 refund or amount to pay for separate and joint returns using our real health and school costs of {costs}, and check whether any single dividend payment could pass the monthly line. List what I should do before 31 December and what I should ask my accountant, and mark everything that is not confirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the law text, the Receita Federal Q&A and the 2026 tables, then write and check the guide",
+     "note": "Withholding before and after the reduction, dividend rules and a joint-or-separate return comparison",
+     "judgment": "It did not lean on a court case it could not confirm: one colleague’s reading of the case conflicted with another’s, who found no trace of that case number, so the guide treats it as unconfirmed news. Open points such as the pró-labore contribution and the 2027 filing dates stay marked unconfirmed."
+    }
+   ],
+   "workers": [
+    "Read the Receita Federal Q&A on the new dividend rules page by page and pulled out the exact rule text",
+    "Collected the 2026 official figures: social-security table, minimum wage, the 13th-salary and vacation rules and the filing obligations"
+   ],
+   "chipNames": {
+    "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm": "Law 15.270/2025 (Planalto)",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/receita-federal-lanca-perguntas-e-respostas-sobre-tributacao-de-altas-rendas-consideracoes-sobre-lucros-e-dividendos/manual_padrao_rfb_per_tributacao_sutri_v2.pdf": "Receita Federal Q&A on profits and dividends",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026": "Receita Federal: 2026 tax tables",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/exemplos-de-aplicacao-da-lei-15-270-2025": "Receita Federal: worked examples of Law 15.270",
+    "https://www.in.gov.br/web/dou/-/portaria-interministerial-mps/mf-n-13-de-9-de-janeiro-de-2026-680382603": "Portaria MPS/MF 13/2026 (2026 social-security table)"
+   }
+  }
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "slug": "kyoto-osaka-wheelchair-autumn-five-nights",
+ "startedAt": "2026-11-07",
+ "activeSec": 3248,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 54,
+   "end": 1256,
+   "chips": [
+    "https://www.rihga.co.jp/kyoto/stay/universal-room/twin",
+    "https://osakastation-hotel.jp/en/accessible-hotel/",
+    "https://kyoto-universal.jp/route-18-chikurin.html",
+    "https://osaka-info.jp/en/special/universal/course03/",
+    "https://cdn.prod.website-files.com/670988c0b72508f3398b22ff/6adb16051beca6c8f0326c5e_2026_10_29_ALLCLEAR_AU_PDS.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1256,
+   "end": 3039,
+   "chips": [
+    "https://ngt-k.com/en/kyoto/same-day-wheelchair-rental/",
+    "https://www.jr-odekake.net/railroad/service/barrierfree/boarding-alighting/"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 23,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 3039,
+   "end": 3081,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own trip and get the same access-first plan before you book anything",
+   "runTitle": "Melbourne to Kyoto and Osaka: six autumn days by manual wheelchair on AUD 7,500",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Travel dates",
+     "value": "18–23 November 2027 (5 nights, 6 days)"
+    },
+    {
+     "key": "chair",
+     "label": "Chair dimensions, transfer needs and roll-in shower requirements",
+     "value": "Manual wheelchair used full-time; can stand briefly for transfers"
+    },
+    {
+     "key": "companion",
+     "label": "Companion help",
+     "value": "Travelling with her husband"
+    },
+    {
+     "key": "flights",
+     "label": "Flight times",
+     "value": "",
+     "placeholder": "e.g. land at Kansai 9:30, fly home 17:00"
+    },
+    {
+     "key": "budget",
+     "label": "Budget excluding flights",
+     "value": "AUD 7,500 for the two of them"
+    }
+   ],
+   "template": "Plan Kyoto and Osaka for {dates} with {chair}, {companion}, {flights} and {budget}. Prioritize guaranteed room allocation, staff-assisted rail, a fitted replacement-chair fallback and written medical/aid-cover terms. Separate dated prices from allowances and flag what is still unconfirmed. Ask before contacting anyone, sharing personal information or booking.",
+   "phases": [
+    {
+     "title": "Research official access information, prices and breakdown backups in both cities",
+     "note": "Rail and stations, hotel rooms and insurance, autumn sights and food",
+     "judgment": "It would not claim a roll-in shower it could not prove: the hotel pages give bed heights (54 cm in Kyoto, 53 cm in Osaka), but no step-free roll-in shower was fully verified, so the guide says to get the exact room confirmed in writing before booking."
+    },
+    {
+     "title": "Write the guide, source list and budget with the arithmetic shown",
+     "note": "Day-by-day plan, hotel table, budget in yen and Australian dollars",
+     "judgment": "The budget is labelled conditional, not a quote: ¥667,000 (AUD 7,021.05) including a 15% buffer at an assumed ¥95 to the dollar. The guide also lists what is still open: guaranteed roll-in rooms, 2027 hotel prices, medical underwriting and out-of-hours replacement chairs."
+    },
+    {
+     "title": "Independent check of every money figure, plus desktop and phone layout tests",
+     "judgment": "The independent colleague recomputed all 15 budget rows and the other money figures from scratch and found nothing to correct, while saying plainly what it could not confirm: booking suitability and future affordability."
+    }
+   ],
+   "workers": [
+    "Checked rail routes, fares, staff boarding help and which station gates and platforms are step-free, plus taxi and wheelchair-repair leads",
+    "Inspected hotel pages for two accessible-room candidates in each city and read the travel-insurance wording on mobility aids",
+    "Checked official Kyoto and Osaka access guides for temples, gardens and food streets that suit a manual wheelchair",
+    "Recomputed every money figure on its own and checked the guide’s claims against its source list"
+   ],
+   "chipNames": {
+    "https://www.rihga.co.jp/kyoto/stay/universal-room/twin": "RIHGA Royal Hotel Kyoto: barrier-free twin room",
+    "https://osakastation-hotel.jp/en/accessible-hotel/": "The Osaka Station Hotel: accessible room",
+    "https://kyoto-universal.jp/route-18-chikurin.html": "Kyoto City barrier-free route: bamboo grove",
+    "https://osaka-info.jp/en/special/universal/course03/": "Osaka official accessible food outing around Namba",
+    "https://cdn.prod.website-files.com/670988c0b72508f3398b22ff/6adb16051beca6c8f0326c5e_2026_10_29_ALLCLEAR_AU_PDS.pdf": "AllClear travel insurance policy document",
+    "https://ngt-k.com/en/kyoto/same-day-wheelchair-rental/": "NGT Kyoto same-day wheelchair rental",
+    "https://www.jr-odekake.net/railroad/service/barrierfree/boarding-alighting/": "JR West boarding and alighting assistance"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的行程，订任何东西之前先拿到同样以无障碍为先的计划",
+   "runTitle": "墨尔本到京都、大阪：手动轮椅的六天秋日行，预算 7,500 澳元",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 11 月 18 日至 23 日（5 晚 6 天）"
+    },
+    {
+     "key": "chair",
+     "label": "轮椅尺寸、转移需要和可直接进入式淋浴要求",
+     "value": "全程使用手动轮椅，转移时能短暂站立"
+    },
+    {
+     "key": "companion",
+     "label": "同行协助",
+     "value": "丈夫同行"
+    },
+    {
+     "key": "flights",
+     "label": "航班时间",
+     "value": "",
+     "placeholder": "例如：上午 9:30 抵达关西，下午 17:00 返程"
+    },
+    {
+     "key": "budget",
+     "label": "不含机票预算",
+     "value": "两人合计 7,500 澳元"
+    }
+   ],
+   "template": "为{dates}的京都和大阪之旅做计划，需求是{chair}、{companion}、{flights}和{budget}。优先落实保证房间分配、车站协助、适配的备用轮椅及书面医疗和器具承保条款。区分有日期的价格与预留，标出尚未确认之处。联系他人、分享个人信息或预订前先问我。",
+   "phases": [
+    {
+     "title": "查证两地的官方无障碍信息、价格和轮椅故障备用方案",
+     "note": "铁路与车站、酒店客房与保险、秋景景点与餐饮",
+     "judgment": "没有把查不实的说成有：酒店页面只给了床高（京都 54 厘米、大阪 53 厘米），完整的无门槛淋浴并没有被证实，所以指南要求订房前先拿到书面确认的具体房间。"
+    },
+    {
+     "title": "写成指南，配上来源清单和写明算式的预算",
+     "note": "逐日行程、酒店对照表、日元和澳元预算",
+     "judgment": "预算标明是有条件的估算，不是报价：含 15% 机动费用共 ¥667,000（约 7,021.05 澳元），按假定的 ¥95 兑 1 澳元计算。指南还列出仍未落实的事项：保证有无门槛淋浴的房间、2027 年酒店价格、医疗核保，以及非营业时间的替换轮椅。"
+    },
+    {
+     "title": "独立复核每一笔金额，并测试电脑和手机版面",
+     "judgment": "独立复核的同事从头重算了全部 15 行预算和其他金额，没有发现需要更正之处，同时直接说明它无法确认的两点：是否适合订房，以及将来是否负担得起。"
+    }
+   ],
+   "workers": [
+    "查证铁路路线、票价、车站人员协助上车，以及哪些检票口和站台无台阶，并整理无障碍出租车和轮椅维修线索",
+    "查看酒店官网，为京都和大阪各找出两家有无障碍客房的候选，并读了保险条款里关于助行器具的约定",
+    "对照京都、大阪官方无障碍指南，筛出适合手动轮椅的寺院、庭园和美食街",
+    "独立重算每一笔金额，并把指南里的说法逐条对回来源清单"
+   ],
+   "chipNames": {
+    "https://www.rihga.co.jp/kyoto/stay/universal-room/twin": "京都 RIHGA 皇家酒店：无障碍双床房",
+    "https://osakastation-hotel.jp/en/accessible-hotel/": "大阪站酒店：无障碍客房",
+    "https://kyoto-universal.jp/route-18-chikurin.html": "京都市无障碍路线：竹林之道",
+    "https://osaka-info.jp/en/special/universal/course03/": "大阪官方无障碍美食路线（难波一带）",
+    "https://cdn.prod.website-files.com/670988c0b72508f3398b22ff/6adb16051beca6c8f0326c5e_2026_10_29_ALLCLEAR_AU_PDS.pdf": "AllClear 旅行保险条款文件",
+    "https://ngt-k.com/en/kyoto/same-day-wheelchair-rental/": "NGT 京都当日轮椅租赁",
+    "https://www.jr-odekake.net/railroad/service/barrierfree/boarding-alighting/": "JR 西日本上下车协助说明"
+   }
+  }
+ }
+}

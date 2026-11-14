@@ -1,0 +1,151 @@
+{
+ "slug": "nairobi-remote-bookkeeping-career-switch",
+ "startedAt": "2026-11-07",
+ "activeSec": 2355,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 63,
+   "end": 805,
+   "chips": [
+    "https://www.kra.go.ke/individual/filing-paying/types-of-taxes/individual-income-tax",
+    "https://www.odpc.go.ke/faqs/",
+    "https://www.payoneer.com/pricing/",
+    "https://ncbagroup.com/ke/tariffs-fees/",
+    "https://www.irs.gov/individuals/international-taxpayers/nra-withholding"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 23,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 805,
+   "end": 1736,
+   "chips": [
+    "https://quickbooks.intuit.com/global/accountants-software/events/certification/",
+    "https://www.xero.com/uk/certifications/",
+    "https://www.kra.go.ke/images/publications/Everything-About-Turnover-Tax.pdf",
+    "https://wise.com/help/articles/2932362/guide-to-kes-transfers",
+    "https://payoneer.custhelp.com/app/answers/detail/a_id/43738/~/annual-account-fee"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1736,
+   "end": 2217,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 8,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own salary, savings and target clients, and get the same checked transition plan with exit conditions",
+   "runTitle": "Nairobi accountant switching to remote bookkeeping for US and UK clients on KES 250,000 of savings",
+   "fields": [
+    {
+     "key": "salary",
+     "label": "Gross/net payslip and usable salary",
+     "value": "KES 120,000 a month"
+    },
+    {
+     "key": "savings",
+     "label": "Savings, debts, dependants and monthly spending",
+     "value": "KES 250,000 saved for the transition"
+    },
+    {
+     "key": "status",
+     "label": "CPA(K)/practice status",
+     "value": "CPA(K), working as an accountant in Nairobi"
+    },
+    {
+     "key": "restrictions",
+     "label": "Employment restrictions and notice",
+     "value": "",
+     "placeholder": "e.g. 3 months’ notice and no outside work without written consent"
+    },
+    {
+     "key": "clients",
+     "label": "US/UK target clients and available hours",
+     "value": "Small US and UK businesses"
+    },
+    {
+     "key": "software",
+     "label": "Software access",
+     "value": "",
+     "placeholder": "e.g. own QuickBooks Online and Xero subscriptions"
+    },
+    {
+     "key": "quotes",
+     "label": "Actual payment quotes",
+     "value": "",
+     "placeholder": "e.g. a Wise and a bank quote for receiving USD 1,000 in Kenya"
+    }
+   ],
+   "template": "Help me build a Nairobi-to-remote-bookkeeping transition plan using {salary}, {savings}, {status}, {restrictions}, {clients}, {software} and {quotes}. Separate training, compliance and paid-pilot gates. Model collections after fees and restricted tax/health reserves, stress-test client loss and FX, and keep me employed unless every exit condition is met no earlier than November 2027. Ask before contacting anyone, opening accounts, sharing client data or submitting forms.",
+   "phases": [
+    {
+     "title": "Research official certification costs, payment routes, Kenyan tax rules and data-protection basics",
+     "note": "Certifications and job-board rates, payment routes into Kenya, tax and data-protection rules",
+     "judgment": "It took back a claim it could not support: a KES 750 bank fee had been noted as visually confirmed, and the colleague removed that and marked the bank tariff as unverified."
+    },
+    {
+     "title": "Build the guide and a transparent shilling-and-dollar transition model",
+     "note": "Resignation conditions up front, a fee table with arithmetic, and a month-by-month runway",
+     "judgment": "The recommendation is cautious by design: certification is the easy part (the official QuickBooks and Xero routes are free), but the job examples also ask for experience and several exclude Kenyan applicants, so the guide says to stay employed and consider resigning from November 2027 at the earliest, after three qualifying collection months."
+    },
+    {
+     "title": "Independently verify the figures and sources, and test the page on desktop and phone",
+     "judgment": "The independent check recomputed 270 figures with zero discrepancies, yet still flagged a timing mismatch: January counts USD 150 of incoming payments while first client outreach is scheduled for February. It also listed what it could not verify, such as bank fees and Kenya-specific earnings."
+    }
+   ],
+   "workers": [
+    "Checked Kenyan tax and registration rules, plus data-protection and contract basics for handling US and UK client data",
+    "Checked what QuickBooks Online and Xero certifications cost and require, whether Kenyans can enrol, and dated offshore bookkeeping job rates",
+    "Compared ways of being paid into Kenya (Payoneer, Wise, bank transfer) with their fees and eligibility rules",
+    "Recomputed every figure on its own and checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.kra.go.ke/individual/filing-paying/types-of-taxes/individual-income-tax": "KRA: individual income tax",
+    "https://www.odpc.go.ke/faqs/": "Kenya Data Protection Commissioner: FAQs",
+    "https://www.payoneer.com/pricing/": "Payoneer pricing",
+    "https://ncbagroup.com/ke/tariffs-fees/": "NCBA Kenya tariffs and fees",
+    "https://www.irs.gov/individuals/international-taxpayers/nra-withholding": "IRS: withholding for non-resident aliens",
+    "https://quickbooks.intuit.com/global/accountants-software/events/certification/": "Intuit: QuickBooks ProAdvisor certification",
+    "https://www.xero.com/uk/certifications/": "Xero advisor certifications",
+    "https://www.kra.go.ke/images/publications/Everything-About-Turnover-Tax.pdf": "KRA: everything about turnover tax",
+    "https://wise.com/help/articles/2932362/guide-to-kes-transfers": "Wise: guide to KES transfers",
+    "https://payoneer.custhelp.com/app/answers/detail/a_id/43738/~/annual-account-fee": "Payoneer: annual account fee"
+   }
+  }
+ }
+}

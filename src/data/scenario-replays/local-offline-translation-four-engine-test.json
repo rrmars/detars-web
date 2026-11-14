@@ -1,0 +1,179 @@
+{
+ "slug": "local-offline-translation-four-engine-test",
+ "startedAt": "2026-11-06",
+ "activeSec": 3398,
+ "stats": {
+  "searches": 20,
+  "pages": 53,
+  "colleagues": 2,
+  "parallel": 1,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 1120,
+   "chips": [
+    "https://pypi.org/project/argostranslate/",
+    "https://huggingface.co/Helsinki-NLP/opus-mt-en-de/raw/main/README.md",
+    "https://huggingface.co/facebook/nllb-200-distilled-600M/raw/main/README.md",
+    "https://huggingface.co/Qwen/Qwen3-4B-GGUF/raw/main/LICENSE",
+    "https://developer.apple.com/documentation/Translation/TranslationSession"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 34,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1120,
+   "end": 2109,
+   "chips": [
+    "https://raw.githubusercontent.com/facebookresearch/flores/main/flores200/LICENSE",
+    "https://creativecommons.org/licenses/by-sa/4.0/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2109,
+   "end": 3071,
+   "chips": [],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 3071,
+   "end": 3303,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Tell it your computer, languages and workload, and get a measured pick for offline translation",
+   "runTitle": "A small online shop with a 16 GB Apple-silicon Mac: four free offline translators tested head to head",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "Computer, operating system and memory",
+     "value": "Apple-silicon Mac with 16 GB RAM shared with other work"
+    },
+    {
+     "key": "languages",
+     "label": "Source and target languages",
+     "value": "English, Spanish, German and Simplified Chinese"
+    },
+    {
+     "key": "volume",
+     "label": "Message length and volume",
+     "value": "Product descriptions and customer emails"
+    },
+    {
+     "key": "use",
+     "label": "Private or commercial use",
+     "value": "Commercial, for a small online shop; customer messages must stay on the machine"
+    }
+   ],
+   "template": "Help me choose a local translator for {machine}, {languages}, {volume} and {use}. Use these measurements only where relevant. Plan exact-model licence checks, an offline setup test and a fluent-reader check of numbers, negation and conditions. Ask before installing packages, downloading models, using stored credentials or uploading any text.",
+   "phases": [
+    {
+     "title": "Check the Mac, the current offline tools, the test texts and every licence",
+     "note": "Argos, OPUS-MT, NLLB, a small local language model and the Mac's built-in translation",
+     "judgment": "It would not accept a one-line licence summary. The Chinese Argos packages turned out to carry CC-BY-4.0 attribution notices, so a blanket \"MIT/CC0\" description was dropped. It also noted that matching file fingerprints only prove the copies are identical, not that they are authentic originals, and left that marked as unverified."
+    },
+    {
+     "title": "Build the test set and run four translation engines one at a time under the 6 GB memory cap",
+     "note": "Public test sentences with reference translations, plus the shop's own sample text"
+    },
+    {
+     "title": "Score every result, then have a separate reviewer recompute the scores",
+     "judgment": "A second colleague wrote its own scoring program without seeing the first one or any test sentence, then recomputed all 40 scores: no mismatches. The run also owned up to a slip of its own: the first model downloads had picked up an old saved login, so the \"no accounts\" rule was not fully met. It said so in the report instead of claiming a clean run."
+    },
+    {
+     "title": "Open the report at desktop and phone widths and deliver"
+    }
+   ],
+   "workers": [
+    "Checked each candidate's licence on its official page, whether the Mac's built-in translation can run without a window, and where the test sentences and downloads come from",
+    "Independently reviewed the results: wrote a separate scoring program without seeing the main one or any test sentence, then recomputed every score"
+   ],
+   "chipNames": {
+    "https://pypi.org/project/argostranslate/": "Argos Translate on PyPI",
+    "https://huggingface.co/Helsinki-NLP/opus-mt-en-de/raw/main/README.md": "OPUS-MT English-to-German model card",
+    "https://huggingface.co/facebook/nllb-200-distilled-600M/raw/main/README.md": "NLLB-200 600M model card",
+    "https://huggingface.co/Qwen/Qwen3-4B-GGUF/raw/main/LICENSE": "Qwen3-4B licence (official repository)",
+    "https://developer.apple.com/documentation/Translation/TranslationSession": "Apple Translation framework: TranslationSession",
+    "https://raw.githubusercontent.com/facebookresearch/flores/main/flores200/LICENSE": "FLORES-200 licence (Meta)",
+    "https://creativecommons.org/licenses/by-sa/4.0/": "Creative Commons BY-SA 4.0 licence"
+   }
+  },
+  "zh": {
+   "askTitle": "告诉它你的电脑、语言和用量，就能得到一份实测过的离线翻译推荐",
+   "runTitle": "一家小网店、一台 16 GB 内存的苹果芯片 Mac：四款免费离线翻译工具同场实测",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "电脑、操作系统和内存",
+     "value": "苹果芯片 Mac，16 GB 内存，还要和其他工作共用"
+    },
+    {
+     "key": "languages",
+     "label": "源语言和目标语言",
+     "value": "英语、西班牙语、德语和简体中文"
+    },
+    {
+     "key": "volume",
+     "label": "消息长度与处理量",
+     "value": "商品描述和客户邮件"
+    },
+    {
+     "key": "use",
+     "label": "个人或商业用途",
+     "value": "商业用途，小网店；客户消息必须留在本机"
+    }
+   ],
+   "template": "帮我为 {machine}、{languages}、{volume}、{use} 选择本地翻译工具。只在适用时参考这些测量结果，规划具体模型授权核对、离线安装测试，以及由懂目标语言的人检查数字、否定和条件的步骤。安装软件包、下载模型、使用已保存凭据或上传任何文本前，先问我。",
+   "phases": [
+    {
+     "title": "查看这台 Mac、当前可用的离线工具、测试文本和每一项授权",
+     "note": "Argos、OPUS-MT、NLLB、小型本地语言模型，以及 Mac 自带翻译",
+     "judgment": "它没有满足于一句话的授权概括。Argos 的中文语言包带有 CC-BY-4.0 署名要求，所以「一律 MIT/CC0」的说法被删掉了。它还指出：文件指纹一致只能证明副本相同，不能证明就是原始官方文件，并把这一点标成未核实。"
+    },
+    {
+     "title": "建立测试集，在 6 GB 内存上限内逐个运行四个翻译引擎",
+     "note": "带参考译文的公开测试句，加上网店自己的样例文本"
+    },
+    {
+     "title": "给每个结果打分，再由另一位同事独立重算分数",
+     "judgment": "另一位同事在没看过第一套评分程序、也没看过任何测试句的情况下自己写了评分程序，把 40 个分数全部重算一遍，没有出入。这次运行还承认了自己的一处疏漏：最初下载模型时用到了电脑里旧的登录凭据，「不用账号」的规则没有完全做到，报告里如实写明，没有说成毫无瑕疵。"
+    },
+    {
+     "title": "在电脑和手机宽度下打开报告检查，然后交付"
+    }
+   ],
+   "workers": [
+    "在官方页面核对各候选工具的授权，查 Mac 自带翻译能否不开窗口运行，并查明测试句和下载文件的来源",
+    "独立复核结果：在没看过主评分程序和任何测试句的前提下另写评分程序，重算每一个分数"
+   ],
+   "chipNames": {
+    "https://pypi.org/project/argostranslate/": "Argos Translate(PyPI)",
+    "https://huggingface.co/Helsinki-NLP/opus-mt-en-de/raw/main/README.md": "OPUS-MT 英译德模型说明",
+    "https://huggingface.co/facebook/nllb-200-distilled-600M/raw/main/README.md": "NLLB-200 600M 模型说明",
+    "https://huggingface.co/Qwen/Qwen3-4B-GGUF/raw/main/LICENSE": "Qwen3-4B 授权文件(官方仓库)",
+    "https://developer.apple.com/documentation/Translation/TranslationSession": "Apple 翻译框架:TranslationSession",
+    "https://raw.githubusercontent.com/facebookresearch/flores/main/flores200/LICENSE": "FLORES-200 授权(Meta)",
+    "https://creativecommons.org/licenses/by-sa/4.0/": "知识共享 BY-SA 4.0 授权"
+   }
+  }
+ }
+}

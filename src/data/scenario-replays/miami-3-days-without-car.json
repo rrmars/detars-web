@@ -1,0 +1,234 @@
+{
+ "slug": "miami-3-days-without-car",
+ "startedAt": "2026-11-05",
+ "activeSec": 1983,
+ "stats": {
+  "searches": 61,
+  "pages": 34,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 90,
+   "end": 1032,
+   "chips": [
+    "https://www.miamidade.gov/resources/transportation_publicworks/documents/pdfs/misc/transit-fare-guide.pdf",
+    "https://www.miamidade.gov/global/release.page?Mduid_release=rel1791321030577194",
+    "https://thewynwoodwalls.com/admissions",
+    "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/hours-fees",
+    "https://www.bigbustours.com/en/miami/big-bus-everglades-experience-ticket"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1032,
+   "end": 1802,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1802,
+   "end": 1934,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your dates, group and hotel, and get the same car-free three-day Miami plan with a day-by-day budget",
+   "runTitle": "Three friends in their late twenties, first time in Miami, no rental car, about USD 150 each per day",
+   "fields": [
+    {
+     "key": "dest",
+     "label": "Miami / destination",
+     "value": "Miami"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "mid-February 2027"
+    },
+    {
+     "key": "party",
+     "label": "Party size and ages",
+     "value": "three friends, late 20s, first time in Miami"
+    },
+    {
+     "key": "hotel",
+     "label": "Hotel or address",
+     "value": "",
+     "placeholder": "e.g. a hotel on Collins Avenue in South Beach"
+    },
+    {
+     "key": "flights",
+     "label": "Airport and flight times",
+     "value": "",
+     "placeholder": "e.g. arrive MIA 10:30 a.m., leave 6:00 p.m. on day 4"
+    },
+    {
+     "key": "rideshare",
+     "label": "Rideshare budget",
+     "value": "",
+     "placeholder": "e.g. USD 20 per person per day"
+    },
+    {
+     "key": "walking",
+     "label": "Walking limit",
+     "value": "",
+     "placeholder": "e.g. about 2 miles at a time"
+    },
+    {
+     "key": "budget",
+     "label": "Total budget and currency",
+     "value": "about USD 150 per person per day"
+    },
+    {
+     "key": "excluded",
+     "label": "Excluded items",
+     "value": "hotel"
+    }
+   ],
+   "template": "Plan three full sightseeing days in {dest} on {dates} for {party}, staying at {hotel}, with flights {flights}. No rental car; allow {rideshare}, {walking} and {budget}, excluding {excluded}. Group South Beach, Wynwood and Little Havana sensibly, with a modest bar night and optional nature day. Distinguish Sawgrass from Everglades National Park. Show pickup and airport buffers, rain/rest options, shared costs, daily totals, tax/tips, reserve and exclusions. Check fares, closures, tickets, age/ID rules and events for our dates; link sources and check dates, separating estimates from confirmed availability. Say what to drop if flights shorten the trip. Do not book, contact or publish.",
+   "phases": [
+    {
+     "title": "Check current transport, opening hours and prices, and what could clash with February 2027",
+     "note": "Metro and bus fares, airport bus, trolley, venue hours, a half-day trip and beach safety",
+     "judgment": "Instead of trusting a fare table lifted from a PDF, it looked at the page itself. The table seemed to charge $2.65 for the free Metromover, but the page showed that fare belongs to express bus routes. It also budgets $2.75 a ride for February, since the county has approved the increase, rather than today’s $2.25."
+    },
+    {
+     "title": "Build the phone-friendly page and the editable budget spreadsheet",
+     "note": "Day-by-day plan grouped by area, with transport times and costs",
+     "judgment": "An independent colleague found that changing the “sightseeing days” cell in the budget would show money left over without adding any spending for the extra day. The delivered workbook now treats it as a fixed three-day scope."
+    },
+    {
+     "title": "Check the files, the formulas and the phone layout, then deliver"
+    }
+   ],
+   "workers": [
+    "Checked current Metrorail, Metromover, bus, trolley and Brightline fares and hours, and rough rideshare costs from the airport and downtown",
+    "Checked opening hours, prices and age rules for the places on the list, such as Wynwood Walls, the Little Havana bars and the beach parks",
+    "Compared two half-day trips from South Beach, Key Biscayne and an Everglades-area airboat outing, with access, hours and safety",
+    "Independently reviewed the finished page and spreadsheet and the way they were built, sampling the original sources"
+   ],
+   "chipNames": {
+    "https://www.miamidade.gov/resources/transportation_publicworks/documents/pdfs/misc/transit-fare-guide.pdf": "Miami-Dade transit fare guide",
+    "https://www.miamidade.gov/global/release.page?Mduid_release=rel1791321030577194": "Miami-Dade announcement: fare change from January 2027",
+    "https://thewynwoodwalls.com/admissions": "Wynwood Walls admissions",
+    "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/hours-fees": "Bill Baggs Cape Florida: hours and fees",
+    "https://www.bigbustours.com/en/miami/big-bus-everglades-experience-ticket": "Big Bus Everglades outing ticket"
+   }
+  },
+  "zh": {
+   "askTitle": "把日期、人数和酒店换成你的，不租车的三天迈阿密行程和逐日预算就按你的情况重排",
+   "runTitle": "三位二十代后期的朋友第一次去迈阿密，不租车，每人每天约 150 美元",
+   "fields": [
+    {
+     "key": "party",
+     "label": "人数和年龄",
+     "value": "三位朋友，二十代后期，第一次去迈阿密"
+    },
+    {
+     "key": "dest",
+     "label": "迈阿密或目的地",
+     "value": "迈阿密"
+    },
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 2 月中旬"
+    },
+    {
+     "key": "hotel",
+     "label": "酒店地址",
+     "value": "",
+     "placeholder": "例如：南海滩 Collins Avenue 上的一家酒店"
+    },
+    {
+     "key": "flights",
+     "label": "机场和时间",
+     "value": "",
+     "placeholder": "例如：上午 10:30 到达 MIA，第 4 天下午 6 点离开"
+    },
+    {
+     "key": "rideshare",
+     "label": "网约车预算",
+     "value": "",
+     "placeholder": "例如：每人每天 20 美元"
+    },
+    {
+     "key": "walking",
+     "label": "步行上限",
+     "value": "",
+     "placeholder": "例如：一次大约走 2 英里"
+    },
+    {
+     "key": "budget",
+     "label": "币种和金额",
+     "value": "每人每天约 150 美元"
+    },
+    {
+     "key": "excluded",
+     "label": "不含的项目",
+     "value": "酒店"
+    }
+   ],
+   "template": "请为{party}安排{dest}、{dates}的三个完整游览日，住{hotel}，航班为{flights}。不租车，网约车预算{rideshare}，步行上限{walking}，总预算{budget}，不含{excluded}。合理串联 South Beach、Wynwood 和 Little Havana，安排适度酒吧之夜及可选自然郊游，区分 Sawgrass 和 Everglades National Park。列出接送、机场缓冲、雨天和休息替代项、车费分摊、每日总额、税费小费、预留及排除项；按日期确认票价、关闭、门票、年龄证件要求和活动，附链接与查阅日期，分清估算和已确认余位。说明航班压缩行程时删什么。不要预订、联系或发布。",
+   "phases": [
+    {
+     "title": "核对当前的交通、营业时间和价格，以及 2027 年 2 月可能冲突的事",
+     "note": "地铁和公交票价、机场巴士、免费电车、各处营业时间、半日游和海滩安全",
+     "judgment": "它没有直接相信从 PDF 里抓出来的票价表，而是去看页面本身：表里似乎给免费的 Metromover 标了 2.65 美元，页面显示这个价格属于快线巴士。它还按每次 2.75 美元来算 2 月的车费，因为县里已批准涨价，而不是现在的 2.25 美元。"
+    },
+    {
+     "title": "做出手机能看的网页和可编辑的预算表",
+     "note": "按区域安排的每日行程，附交通时间和花费",
+     "judgment": "独立同事发现，预算表里“游览天数”一格如果改动，会显示出多余的余额，却没有给多出来的那天加任何花费。交付的表格现在把它定为固定的三天。"
+    },
+    {
+     "title": "检查文件、公式和手机排版，然后交付"
+    }
+   ],
+   "workers": [
+    "核对当前地铁、Metromover、公交、免费电车和 Brightline 的票价与时间，并估算从机场和市区打车的大致费用",
+    "核对行程里各处的营业时间、价格和年龄要求，如 Wynwood Walls、小哈瓦那的酒吧和海滩公园",
+    "比较南海滩出发的两种半日游，基斯坦岛和大沼泽地一带的气垫船，查交通、时间和安全",
+    "独立复核成品网页、预算表和它们的生成方式，并抽查原始来源"
+   ],
+   "chipNames": {
+    "https://www.miamidade.gov/resources/transportation_publicworks/documents/pdfs/misc/transit-fare-guide.pdf": "迈阿密-戴德县交通票价指南",
+    "https://www.miamidade.gov/global/release.page?Mduid_release=rel1791321030577194": "迈阿密-戴德县公告：2027 年 1 月起调整票价",
+    "https://thewynwoodwalls.com/admissions": "Wynwood Walls 门票",
+    "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park/hours-fees": "Bill Baggs 角佛罗里达公园：时间和费用",
+    "https://www.bigbustours.com/en/miami/big-bus-everglades-experience-ticket": "Big Bus 大沼泽地游览票"
+   }
+  }
+ }
+}

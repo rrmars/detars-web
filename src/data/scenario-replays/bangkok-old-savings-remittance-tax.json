@@ -1,0 +1,130 @@
+{
+ "slug": "bangkok-old-savings-remittance-tax",
+ "startedAt": "2026-11-07",
+ "activeSec": 2693,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 0,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 406,
+   "end": 1217,
+   "chips": [
+    "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf",
+    "https://www.rd.go.th/fileadmin/download/nation/singapore_e_revise1.pdf",
+    "https://www.bot.or.th/en/statistics/exchange-rate.html",
+    "https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens",
+    "https://www.rd.go.th/fileadmin/download/english_form/2025/PIT90_2568_eng_310368_02.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1217,
+   "end": 1807,
+   "chips": [
+    "https://www.rd.go.th/fileadmin/user_upload/porphor/GuideTaxFromAbroad_EN.pdf"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1807,
+   "end": 2419,
+   "chips": [
+    "https://uscode.house.gov/view.xhtml?req=title:26%20section:871%20edition:prelim"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2419,
+   "end": 2464,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own transfer plan, old savings and later income and get the same Thai remittance-tax breakdown",
+   "runTitle": "Bangkok: can savings from Singapore fund a condo down payment without Thai tax?",
+   "fields": [
+    {
+     "key": "year",
+     "label": "Year and purpose",
+     "value": "2027, as a condo down payment"
+    },
+    {
+     "key": "currency",
+     "label": "Countries, currencies and target net cash",
+     "value": "From Singapore (SGD) and the US (USD) to Thailand (THB); THB 1.5 million to bring home"
+    },
+    {
+     "key": "old",
+     "label": "Documented old earnings and remaining principal",
+     "value": "About SGD 60,000 in a Singapore account, saved while working there in 2019–2023, before 2024"
+    },
+    {
+     "key": "later",
+     "label": "Later interest, gross dividends and transaction-level gains",
+     "value": "In 2026, about USD 900 of dividends and a gain of about USD 3,000 from selling shares in a US brokerage account worth about USD 40,000"
+    },
+    {
+     "key": "status",
+     "label": "Income-year Thai day counts, US status and treaty conditions",
+     "value": "",
+     "placeholder": "e.g. 330 days in Thailand in 2026, not a US citizen or green-card holder"
+    }
+   ],
+   "template": "Help me plan a Thailand remittance for {year} using {currency}. Separate {old} from {later}. Check {status}, distinguish gross income, withholding, net cash and capped credits, and map records and the correct filing year. Explain unknowns without assuming an exemption. Planning only; do not access accounts, send money or file a return.",
+   "phases": [
+    {
+     "title": "Read the official rules, the treaties and the exchange rate, and list what stays uncertain",
+     "note": "Revenue Department instructions, Singapore and US treaty terms, and the central-bank rate",
+     "judgment": "It would not call a proposed tax break law. No same-year exemption could be confirmed as enacted, so the guide treats it as a reported proposal, and it says the confidence in that is moderate because the official gazette would not open."
+    },
+    {
+     "title": "Run every calculation in code and write the guide and the source list",
+     "note": "Three scenarios: old savings only, 2026 dividends and gain, and a mix",
+     "judgment": "It showed how thin the margin is: SGD 60,000 converts to about THB 1,554,204 at the 6 November rate, only THB 54,204 above the THB 1.5 million target, and it labels these as planning figures, not 2027 rates."
+    },
+    {
+     "title": "Independent legal and arithmetic review, then fix and re-read",
+     "note": "The reviewer did not write the guide",
+     "judgment": "The independent reviewer recomputed everything with its own calculator: 58 of 58 comparisons matched. It also reported its own slip, a fetch that fell back to a browser, and excluded that page from the evidence."
+    },
+    {
+     "title": "Check desktop and phone layout and wrap up with nothing left running"
+    }
+   ],
+   "workers": [
+    "Searched the official sources for any later change to Thailand’s tax rule on money brought in from abroad, and whether it is law or only a proposal",
+    "Independently recomputed every money figure and checked the legal claims against the underlying texts, without having written the guide"
+   ],
+   "chipNames": {
+    "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf": "Revenue Department instruction P.161/2566",
+    "https://www.rd.go.th/fileadmin/download/nation/singapore_e_revise1.pdf": "Thailand–Singapore tax treaty (Revenue Department)",
+    "https://www.bot.or.th/en/statistics/exchange-rate.html": "Bank of Thailand: exchange rates",
+    "https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens": "IRS: taxation of nonresident aliens",
+    "https://www.rd.go.th/fileadmin/download/english_form/2025/PIT90_2568_eng_310368_02.pdf": "Revenue Department: personal income tax form (English)",
+    "https://www.rd.go.th/fileadmin/user_upload/porphor/GuideTaxFromAbroad_EN.pdf": "Revenue Department guide: tax on income from abroad",
+    "https://uscode.house.gov/view.xhtml?req=title:26%20section:871%20edition:prelim": "US Code, section 871: tax on nonresident aliens"
+   }
+  }
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "slug": "local-text-to-speech-five-tool-test",
+ "startedAt": "2026-11-06",
+ "activeSec": 2419,
+ "stats": {
+  "searches": 18,
+  "pages": 55,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 46,
+   "end": 1231,
+   "chips": [
+    "https://huggingface.co/rhasspy/piper-voices/raw/main/en/en_US/lessac/medium/MODEL_CARD",
+    "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html",
+    "https://huggingface.co/hexgrad/Kokoro-82M/raw/main/README.md",
+    "https://raw.githubusercontent.com/thewh1teagle/kokoro-onnx/main/LICENSE",
+    "https://www.apple.com/legal/sla/docs/macOSTahoe.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1231,
+   "end": 1994,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1994,
+   "end": 2350,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Describe your Mac and your videos to find an offline narrator, with voice rights checked",
+   "runTitle": "Free offline narration on a Mac: five text-to-speech tools, 25 recordings, one pick",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "Computer, operating system and memory",
+     "value": "An Apple-silicon Mac with 16 GB RAM, shared with other work"
+    },
+    {
+     "key": "language",
+     "label": "Language and sample text",
+     "value": "English narration"
+    },
+    {
+     "key": "length",
+     "label": "Video length",
+     "value": "Short educational videos"
+    },
+    {
+     "key": "use",
+     "label": "Private use or public publishing",
+     "value": "",
+     "placeholder": "e.g. published on YouTube, so commercial use matters"
+    }
+   ],
+   "template": "Help me choose an offline narrator for {machine}, {language}, {length} and {use}. Compare setup effort, voice-specific rights and what I should listen for. Use this English test only where relevant. Ask before installing packages, downloading models, running speech tools or uploading any text or audio.",
+   "phases": [
+    {
+     "title": "Check each tool’s official pages and licences, then install the small offline voice engines",
+     "note": "Piper, Kokoro, eSpeak NG, Flite and the Mac’s built-in voice",
+     "judgment": "It would not call the Piper voice cleanly free to use. The voice’s own card links a research-only dataset licence that conflicts with the repository’s general MIT label, so the voice’s rights are marked unclear."
+    },
+    {
+     "title": "Have each tool read five test scripts aloud under a memory cap, then transcribe and score the audio locally",
+     "note": "Nothing was sent online while speaking or transcribing"
+    },
+    {
+     "title": "Recompute the error rates a second time, write the report and check it on desktop and phone",
+     "judgment": "All 50 error-rate figures were recomputed a second time. The report also says nobody has listened to the audio, so how natural or emotional the voices sound is not judged."
+    }
+   ],
+   "workers": [
+    "Checked the official pages for each offline speech tool: versions, licences for both the software and the voice, how to install it on a Mac, and which languages it covers"
+   ],
+   "chipNames": {
+    "https://huggingface.co/rhasspy/piper-voices/raw/main/en/en_US/lessac/medium/MODEL_CARD": "Piper Lessac voice: model card",
+    "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html": "Lessac dataset licence (research use only)",
+    "https://huggingface.co/hexgrad/Kokoro-82M/raw/main/README.md": "Kokoro-82M model card",
+    "https://raw.githubusercontent.com/thewh1teagle/kokoro-onnx/main/LICENSE": "kokoro-onnx software licence",
+    "https://www.apple.com/legal/sla/docs/macOSTahoe.pdf": "macOS Tahoe software licence"
+   }
+  },
+  "zh": {
+   "askTitle": "说说你的 Mac 和视频情况，找到一款离线配音方案，并核对好音色权利",
+   "runTitle": "Mac 上的免费离线配音：五款文字转语音工具、25 段录音、一个推荐",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "电脑、操作系统和内存",
+     "value": "苹果芯片的 Mac，16 GB 内存，还要和其他工作共用"
+    },
+    {
+     "key": "language",
+     "label": "语言和示例文本",
+     "value": "英语配音"
+    },
+    {
+     "key": "length",
+     "label": "视频长度",
+     "value": "短的教学视频"
+    },
+    {
+     "key": "use",
+     "label": "私人使用或公开发布",
+     "value": "",
+     "placeholder": "例如：发布到 YouTube，所以商用权利很重要"
+    }
+   ],
+   "template": "请帮我为 {machine}、{language}、{length} 以及 {use} 选择离线配音方案。比较安装难度、具体音色权利和需要试听的重点。只在相关时参考这份英语测试。安装软件、下载模型、运行语音工具或上传任何文本和音频前，请先问我。",
+   "phases": [
+    {
+     "title": "核对各工具的官方页面和许可，再装好小型离线语音引擎",
+     "note": "Piper、Kokoro、eSpeak NG、Flite 和 Mac 自带语音",
+     "judgment": "它没有把 Piper 的这个音色直接说成可放心使用：音色自己的说明页链接着一份只限研究的数据集许可，与代码库笼统标注的 MIT 相冲突，所以把音色权利标为不明确。"
+    },
+    {
+     "title": "让每款工具在内存上限内朗读五段测试文稿，再在本机转写并打分",
+     "note": "朗读和转写期间，没有任何内容发到网上"
+    },
+    {
+     "title": "再重算一遍错误率，写出报告，并检查电脑和手机上的显示",
+     "judgment": "50 个错误率数字都被重新算了一遍；报告也写明没有人听过这些录音，所以声音是否自然、有没有情绪，没有评价。"
+    }
+   ],
+   "workers": [
+    "查了每款离线语音工具的官方页面：版本、软件和音色各自的许可、在 Mac 上怎么安装，以及支持哪些语言"
+   ],
+   "chipNames": {
+    "https://huggingface.co/rhasspy/piper-voices/raw/main/en/en_US/lessac/medium/MODEL_CARD": "Piper Lessac 音色：模型说明页",
+    "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html": "Lessac 数据集许可（仅限研究）",
+    "https://huggingface.co/hexgrad/Kokoro-82M/raw/main/README.md": "Kokoro-82M 模型说明页",
+    "https://raw.githubusercontent.com/thewh1teagle/kokoro-onnx/main/LICENSE": "kokoro-onnx 软件许可",
+    "https://www.apple.com/legal/sla/docs/macOSTahoe.pdf": "macOS Tahoe 软件许可协议"
+   }
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "paris-freelancer-micro-company-vat-check",
+ "startedAt": "2026-11-07",
+ "activeSec": 1557,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 1557,
+   "chips": [
+    "https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/lessentiel-du-statut.html",
+    "https://entreprendre.service-public.gouv.fr/vosdroits/F21746",
+    "https://www.urssaf.fr/accueil/actualites/taux-cotisations-autoentrepeneur.html",
+    "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217524"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own turnover and situation and compare staying micro with a company, with the unknowns flagged",
+   "runTitle": "Paris freelance developer on EUR 68,000: stay micro-entrepreneur or move to a company?",
+   "fields": [
+    {
+     "key": "activity",
+     "label": "Activity and current regime",
+     "value": "Freelance web developer (non-regulated liberal profession), micro-entrepreneur since 2024"
+    },
+    {
+     "key": "household",
+     "label": "Household and other income",
+     "value": "Single, no children, rents a studio"
+    },
+    {
+     "key": "prior",
+     "label": "Prior-year turnover and dated current-year payments received",
+     "value": "About EUR 68,000 in 2026"
+    },
+    {
+     "key": "projected",
+     "label": "Projected turnover excluding VAT, and deductible costs",
+     "value": "EUR 80,000–85,000 expected in 2027; real costs about EUR 6,000 a year"
+    },
+    {
+     "key": "vat",
+     "label": "VAT history and client contracts",
+     "value": "Two French agency clients; near or above the VAT franchise threshold"
+    },
+    {
+     "key": "rfr",
+     "label": "Reference tax income (RFR) and any flat-rate tax election",
+     "value": "Has not opted for the flat-rate income tax payment (versement libératoire)"
+    },
+    {
+     "key": "cash",
+     "label": "Personal cash and protection needs",
+     "value": "",
+     "placeholder": "e.g. EUR 25,000 of savings, wants sick-pay cover"
+    }
+   ],
+   "template": "Compare staying micro, EI au réel, EURL and SASU for {activity}, {household}, {prior}, {projected}, {vat}, {rfr}, and {cash}. Separate annualized tax illustrations from actual cash timing. Compare dividend barème/PFU choices and flag unconfirmed social treatment, future rates and fees. Help me prepare questions for my accountant; do not access accounts, file returns or incorporate anything.",
+   "phases": [
+    {
+     "title": "Gather the official rates and rules for staying micro, an EURL and a SASU",
+     "note": "Tax-office, social-contribution and legal-code pages",
+     "judgment": "It kept official facts apart from its own inference. The flat tax on dividends is 31.4% in 2026, not the 30% still quoted on blogs. No official 2027 change was found, so 2027 is marked unconfirmed, and a net-pay ratio it derived itself is labelled “not official”."
+    }
+   ],
+   "workers": [
+    "Collected the official 2026 rates: company tax, the flat tax on dividends, social contributions for a company president and an EURL manager, registration costs, and the micro-entrepreneur contribution rules"
+   ],
+   "chipNames": {
+    "https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/lessentiel-du-statut.html": "URSSAF auto-entrepreneur: the essentials of the status",
+    "https://entreprendre.service-public.gouv.fr/vosdroits/F21746": "Service-Public: official business guidance",
+    "https://www.urssaf.fr/accueil/actualites/taux-cotisations-autoentrepeneur.html": "URSSAF: auto-entrepreneur contribution rates",
+    "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217524": "Légifrance: legal text"
+   }
+  }
+ }
+}

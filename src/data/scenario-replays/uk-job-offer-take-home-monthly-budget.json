@@ -1,0 +1,212 @@
+{
+ "slug": "uk-job-offer-take-home-monthly-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1765,
+ "stats": {
+  "searches": 28,
+  "pages": 32,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 51,
+   "end": 849,
+   "chips": [
+    "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027",
+    "https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/annex-a-rates-and-allowances",
+    "https://www.gov.uk/guidance/salary-sacrifice-and-the-effects-on-paye",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E09000011/",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000003/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 849,
+   "end": 1033,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1033,
+   "end": 1586,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 9,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own two offers, pension terms and costs and get the same take-home and monthly-budget comparison",
+   "runTitle": "Two UK job offers compared: London £62,000 versus Manchester £54,000, starting April 2027",
+   "fields": [
+    {
+     "key": "place",
+     "label": "City or country and tax residence",
+     "value": "the UK"
+    },
+    {
+     "key": "start",
+     "label": "Start date or tax year",
+     "value": "April 2027"
+    },
+    {
+     "key": "offerA",
+     "label": "Offer A: salary, bonus, office postcode and attendance",
+     "value": "London, £62,000 salary, hybrid with 3 days in the office"
+    },
+    {
+     "key": "offerB",
+     "label": "Offer B: the same details",
+     "value": "Manchester, £54,000 salary, £3,000 sign-on bonus, mostly remote with 1 office day a month"
+    },
+    {
+     "key": "pension",
+     "label": "Pension method, contribution rates and bonus match",
+     "value": "A: 5% employer match if I put in 5%; B: 8% employer pension if I put in 4%"
+    },
+    {
+     "key": "personal",
+     "label": "Tax code, pay so far, loan plans, other income",
+     "value": "Plan 2 student loan"
+    },
+    {
+     "key": "household",
+     "label": "Household and area",
+     "value": "renting a 1-bed in either city"
+    },
+    {
+     "key": "costs",
+     "label": "Rent, council tax band, bills, travel, car, childcare, debts and spending",
+     "value": "",
+     "placeholder": "e.g. rent £1,500, council tax band C, no car"
+    }
+   ],
+   "template": "Compare my offers in {place}, starting {start}: A {offerA} and B {offerB}. Use my {pension}, {personal}, {household} and {costs}. Separate recurring take-home, claimed tax relief, pension funding, one-off bonus, monthly leftover and upfront cash. Use dated official links, flag assumptions and future policy, keep dated examples distinct from updated prices, and test local versus intercity travel. Do not contact employers or submit personal data; this is not personal financial advice.",
+   "phases": [
+    {
+     "title": "Check the official tax rules and the living-cost sources for each city",
+     "note": "Income tax, National Insurance, student loan and pension rules; rent, council tax, bills and transport",
+     "judgment": "It kept “announced” and “passed into law” apart. The 2027/28 tax figures are already announced in the Budget, but the colleague wrote that announcement is not proof of enacted legislation, and that the student-loan changes were not independently checked."
+    },
+    {
+     "title": "Build the editable comparison workbook and the phone-friendly summary",
+     "note": "Take-home pay under both pension methods, a monthly budget for each city, and a side-by-side summary",
+     "judgment": "It did not guess which pension method applies. Both are shown side by side (London take-home £3,506 a month with salary sacrifice, £3,478 with relief at source), because the offer wording cannot settle it, and tax relief that has to be claimed later is shown separately from cash received."
+    },
+    {
+     "title": "Recalculate, test other scenarios and inspect the finished files",
+     "judgment": "An independent reviewer recalculated the workbook on test copies and found the results matched. It also tested edits, such as changing the pension basis and the loan threshold. In total: 206 formulas, no errors, 56 number checks passed."
+    }
+   ],
+   "workers": [
+    "Read the official GOV.UK and HMRC pages for 2026/27 tax, National Insurance and student-loan rates, and what is already announced for 2027/28",
+    "Collected official figures for one-bed rent, council tax, energy, water, broadband and transport in London and Manchester",
+    "Independent check: recalculated the workbook’s formulas on its own and tested what happens when key inputs are changed"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027": "HMRC: 2026/27 rates and thresholds for employers",
+    "https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/annex-a-rates-and-allowances": "Budget 2026: rates and allowances",
+    "https://www.gov.uk/guidance/salary-sacrifice-and-the-effects-on-paye": "HMRC: salary sacrifice and PAYE",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E09000011/": "ONS: private rents in Greenwich",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000003/": "ONS: private rents in Manchester"
+   }
+  },
+  "zh": {
+   "askTitle": "把你的两个 offer、养老金条款和生活开支换进去，就能得到同样的到手工资和月度预算对比",
+   "runTitle": "两份英国工作 offer 对比：伦敦年薪 6.2 万英镑 对 曼彻斯特 5.4 万英镑，2027 年 4 月入职",
+   "fields": [
+    {
+     "key": "place",
+     "label": "城市、国家和税务居住地",
+     "value": "英国"
+    },
+    {
+     "key": "start",
+     "label": "入职日期或税年",
+     "value": "2027 年 4 月"
+    },
+    {
+     "key": "offerA",
+     "label": "岗位 A：工资、奖金、办公室邮编和到岗频率",
+     "value": "伦敦，年薪 6.2 万英镑，混合办公，每周到岗 3 天"
+    },
+    {
+     "key": "offerB",
+     "label": "岗位 B：同样的信息",
+     "value": "曼彻斯特，年薪 5.4 万英镑，另有 3000 英镑入职奖金，大多远程办公，每月到岗 1 天"
+    },
+    {
+     "key": "pension",
+     "label": "养老金扣缴方式、比例、基数和奖金配比",
+     "value": "A：我出 5% 则公司配 5%；B：我出 4% 则公司出 8%"
+    },
+    {
+     "key": "personal",
+     "label": "税码、本税年已领工资、贷款计划、其他收入",
+     "value": "Plan 2 学生贷款"
+    },
+    {
+     "key": "household",
+     "label": "家庭和居住区域",
+     "value": "在两个城市都租一居室"
+    },
+    {
+     "key": "costs",
+     "label": "房租、市政税档位、账单、出行、汽车、托育、债务和生活费",
+     "value": "",
+     "placeholder": "例如：房租 1500 英镑、市政税 C 档、没有车"
+    }
+   ],
+   "template": "请比较我在{place}、{start}开始的岗位：A{offerA}，B{offerB}。结合我的{pension}、{personal}、{household}及{costs}。分清固定到手收入、额外申领减免、养老金、一次性奖金、月结余和前期现金，附有日期的官方链接，标明假设和未来政策，区分旧案例与新价格，并比较本地和城际到岗。不要联系雇主或提交个人资料；这不是个人财务建议。",
+   "phases": [
+    {
+     "title": "查官方税务规则，以及两座城市的生活成本来源",
+     "note": "所得税、国民保险、学生贷款和养老金规则；房租、市政税、账单和交通",
+     "judgment": "它把“已公布”和“已立法”分开了。2027/28 年度的税率数字预算案里已经公布，但同事写明公布不等于法律已通过，学生贷款的相关修订也没有独立核实。"
+    },
+    {
+     "title": "做出可编辑的对比表格和手机友好的摘要页",
+     "note": "两种养老金方式下的到手工资、各城市月度预算、并排汇总",
+     "judgment": "它没有猜该用哪种养老金方式，而是并排给出两种结果（伦敦每月到手：工资牺牲方式 £3,506，税收减免方式 £3,478），因为 offer 的文字无法判断；日后要自己申领的退税，和已到手的现金也分开列。"
+    },
+    {
+     "title": "重新计算、测试其他情形，并检查成品文件",
+     "judgment": "一位独立的复核同事在副本上重新计算，结果与表格一致，还测试了改动养老金基数、贷款起征点等输入。合计：206 条公式没有错误，56 项数字核对通过。"
+    }
+   ],
+   "workers": [
+    "读英国政府和税务局的官方页面：2026/27 年度的所得税、国民保险和学生贷款比例，以及 2027/28 年度已经公布的内容",
+    "收集伦敦和曼彻斯特一居室的房租、市政税、能源、水费、宽带和交通的官方数据",
+    "独立复核：自己重算表格里的公式，并测试改动关键输入后结果会怎样"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027": "英国税务局：2026/27 年度雇主适用税率和起征点",
+    "https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/annex-a-rates-and-allowances": "2026 年预算案：税率和免税额",
+    "https://www.gov.uk/guidance/salary-sacrifice-and-the-effects-on-paye": "英国税务局：工资牺牲与工资税",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E09000011/": "英国国家统计局：格林尼治私人租金",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000003/": "英国国家统计局：曼彻斯特私人租金"
+   }
+  }
+ }
+}

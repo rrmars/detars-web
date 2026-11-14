@@ -1,0 +1,218 @@
+{
+ "slug": "singapore-first-30-days-manila-analyst",
+ "startedAt": "2026-11-06",
+ "activeSec": 2348,
+ "stats": {
+  "searches": 76,
+  "pages": 60,
+  "colleagues": 5,
+  "parallel": 4,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 41,
+   "end": 1408,
+   "chips": [
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass",
+    "https://www.mom.gov.sg/faq/work-pass-general/can-pass-holders-travel-in-and-out-of-singapore-if-they-have-not-received-the-pass-card",
+    "https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property",
+    "https://www.dbs.com.sg/personal/deposits/for-foreigners/new-to-singapore?pid=sg-dbs-pweb-locator-txtlink-opening-a-personal-account-if-you-are-new-to-singapore",
+    "https://www.cea.gov.sg/consumers/rental-scams/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 28,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1408,
+   "end": 1930,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1930,
+   "end": 2254,
+   "chips": [],
+   "workers": [
+    {
+     "n": 5,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own arrival date, housing and payday, and get the same ordered first-30-days plan for your Employment Pass",
+   "runTitle": "Manila to Singapore: a calm 30-day plan for a data analyst landing on 4 January 2027",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "Passport and departure status",
+     "value": "Flying out of Manila, alone with two suitcases"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival date and actual in-principle approval conditions",
+     "value": "Landing 4 January 2027 on an Employment Pass, in-principle approval received"
+    },
+    {
+     "key": "stay",
+     "label": "Temporary stay and any unpaid bill",
+     "value": "Serviced apartment for the first 2 weeks"
+    },
+    {
+     "key": "office",
+     "label": "Office location",
+     "value": "",
+     "placeholder": "e.g. an office near Raffles Place"
+    },
+    {
+     "key": "rent",
+     "label": "Rent and house rules",
+     "value": "A room or a studio near the CBD and in 2–3 cheaper areas, after the first 2 weeks"
+    },
+    {
+     "key": "funds",
+     "label": "Accessible funds",
+     "value": "",
+     "placeholder": "e.g. S$6,000 across a Philippine card and cash"
+    },
+    {
+     "key": "payroll",
+     "label": "Payroll cutoff and credit date",
+     "value": "Paid at the end of January"
+    }
+   ],
+   "template": "Plan my Singapore EP arrival using {passport}, {arrival}, {stay}, {office}, {rent}, {funds} and {payroll}. Separate issuance, registration and card delivery; match bank and phone documents; show move-in cash, stamp deadlines and fallback accommodation. Give me a practical checklist. Plan only; do not apply, contact anyone, book or pay.",
+   "phases": [
+    {
+     "title": "Read the official rules and gather dated prices for banks, phones, housing and transport",
+     "note": "Immigration and pass steps, bank onboarding, mobile plans, rooms and studios",
+     "judgment": "Two official sources disagree on when the Singpass sign-up starts, so it reported both versions side by side rather than quietly picking one."
+    },
+    {
+     "title": "Write the week-by-week plan, cost tables and a register of every source and calculation",
+     "note": "A 35-item checklist, four phone providers, two ways to send money, 13 dated room and studio listings"
+    },
+    {
+     "title": "Check the page at desktop and phone width, plus an independent review of dates and arithmetic",
+     "judgment": "A separate reviewer recomputed the dates, stamp-duty examples and budget and found them all matching. It also caught that the page had treated the traveller's nationality as a given when it was never stated, and asked for a fallback if the bank account is not ready before payroll cutoff."
+    }
+   ],
+   "workers": [
+    "Read the official immigration, pass, Singpass and tax pages to pin down what happens at arrival, card registration and tenancy stamp duty",
+    "Collected current mobile plan prices from four providers, ID rules for keeping a number, and January train and bus fares",
+    "Checked which banks let a new pass holder open an account with what documents, and how money can be sent from the Philippines",
+    "Gathered dated room and studio listings in central and cheaper areas, plus deposit and agent-fee norms",
+    "Independent review of the finished page and source notes: recomputed dates and sums, checked how firmly each claim is supported"
+   ],
+   "chipNames": {
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass": "MOM: Employment Pass after approval",
+    "https://www.mom.gov.sg/faq/work-pass-general/can-pass-holders-travel-in-and-out-of-singapore-if-they-have-not-received-the-pass-card": "MOM: what you can do before the card arrives",
+    "https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property": "IRAS: stamp duty on a rental lease",
+    "https://www.dbs.com.sg/personal/deposits/for-foreigners/new-to-singapore?pid=sg-dbs-pweb-locator-txtlink-opening-a-personal-account-if-you-are-new-to-singapore": "DBS: opening an account when new to Singapore",
+    "https://www.cea.gov.sg/consumers/rental-scams/": "CEA: rental scams to watch for"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的抵达日期、住处和发薪日，就能得到同样一份按顺序排好的新加坡雇佣准证落地 30 天计划",
+   "runTitle": "从马尼拉到新加坡：数据分析师 2027 年 1 月 4 日落地的 30 天安排",
+   "fields": [
+    {
+     "key": "passport",
+     "label": "护照及出境身份",
+     "value": "从马尼拉出发，一个人，带两个行李箱"
+    },
+    {
+     "key": "arrival",
+     "label": "抵达日期和实际 IPA 条件",
+     "value": "2027 年 1 月 4 日落地，持雇佣准证，已收到原则性批准"
+    },
+    {
+     "key": "stay",
+     "label": "临时住宿及未付账单",
+     "value": "前两周住服务式公寓"
+    },
+    {
+     "key": "office",
+     "label": "办公地点",
+     "value": "",
+     "placeholder": "例如：办公室在莱佛士坊附近"
+    },
+    {
+     "key": "rent",
+     "label": "租金及房屋规则",
+     "value": "两周后租房：市中心附近和 2–3 个较便宜的区域，单间和一居室都看"
+    },
+    {
+     "key": "funds",
+     "label": "可动用资金",
+     "value": "",
+     "placeholder": "例如：菲律宾银行卡加现金共约 6,000 新币"
+    },
+    {
+     "key": "payroll",
+     "label": "工资资料截止及到账日",
+     "value": "月底发薪"
+    }
+   ],
+   "template": "请按 {passport}、{arrival}、{stay}、{office}、{rent}、{funds} 和 {payroll} 安排新加坡 EP 落地计划。分清签发、登记和送卡，匹配银行及手机材料，列明入住资金、印花税期限和备用住宿，给我实用清单。只做规划，不申请、不联系、不预订或付款。",
+   "phases": [
+    {
+     "title": "读官方规则，收集银行、手机、住房和交通的带日期价格",
+     "note": "入境和准证步骤、银行开户、手机套餐、单间和一居室房源",
+     "judgment": "两处官方说法对新加坡个人数字身份（Singpass）从什么时候开始注册不一致，它把两种说法并排写明，没有擅自选一个。"
+    },
+    {
+     "title": "写出按周排列的计划、费用表，以及每个来源和每笔计算的登记册",
+     "note": "35 项清单、4 家手机运营商、2 种汇款方式、13 条带日期的房源"
+    },
+    {
+     "title": "用电脑和手机宽度打开页面检查，并让独立同事复核日期和算术",
+     "judgment": "独立复核同事把日期、印花税例子和预算重新算了一遍，全部对得上；同时指出页面把「护照国籍」当成了已知事实（用户其实没说），还建议补一条：发薪截止前银行账户还没开成怎么办。"
+    }
+   ],
+   "workers": [
+    "读官方移民、准证、Singpass 和税务页面，弄清落地、办卡登记和租约印花税这几步怎么走",
+    "收集四家运营商当前的手机套餐价格、保留号码的证件规则，以及 1 月的地铁和公交票价",
+    "查新准证持有人能在哪些银行开户、要带什么材料，以及怎样从菲律宾汇钱过来",
+    "收集市中心和较便宜区域带日期的单间、一居室房源，以及押金和中介费的惯例",
+    "独立复核成稿和来源说明：重算日期和金额，检查每条说法的依据有多牢"
+   ],
+   "chipNames": {
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass": "人力部：雇佣准证申请后的步骤",
+    "https://www.mom.gov.sg/faq/work-pass-general/can-pass-holders-travel-in-and-out-of-singapore-if-they-have-not-received-the-pass-card": "人力部：卡片送到前能做什么",
+    "https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property": "税务局：租约印花税",
+    "https://www.dbs.com.sg/personal/deposits/for-foreigners/new-to-singapore?pid=sg-dbs-pweb-locator-txtlink-opening-a-personal-account-if-you-are-new-to-singapore": "星展：新到新加坡如何开户",
+    "https://www.cea.gov.sg/consumers/rental-scams/": "房地产中介监管局：租房骗局提醒"
+   }
+  }
+ }
+}

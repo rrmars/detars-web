@@ -1,0 +1,218 @@
+{
+ "slug": "uk-masters-nigeria-cost-application-plan",
+ "startedAt": "2026-11-05",
+ "activeSec": 2062,
+ "stats": {
+  "searches": 32,
+  "pages": 49,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 51,
+   "end": 1399,
+   "chips": [],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 51,
+   "end": 395,
+   "chips": [
+    "https://www.gov.uk/student-visa/money",
+    "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026",
+    "https://www.gov.uk/graduate-visa",
+    "https://www.chevening.org/scholarship/nigeria/",
+    "https://www.tees.ac.uk/sections/international/global_excellence_scholarship.cfm"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1399,
+   "end": 1988,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own country, grades and savings and get the same UK master’s budget, with gaps and reserves shown",
+   "runTitle": "Nigeria to a UK MSc in Data Science, September 2027, on a GBP 32,000 family budget",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country you leave from",
+     "value": "Nigeria"
+    },
+    {
+     "key": "intake",
+     "label": "Intake",
+     "value": "September 2027"
+    },
+    {
+     "key": "degree",
+     "label": "Degree and grades",
+     "value": "BSc Computer Science from a Lagos university, 2:1 equivalent; wants a one-year MSc in Data Science outside London"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and currency",
+     "value": "About GBP 32,000 family budget for tuition plus living"
+    },
+    {
+     "key": "courses",
+     "label": "Courses and written fees",
+     "value": "",
+     "placeholder": "e.g. MSc Data Science at a named university, GBP 17,000 on its fee page"
+    },
+    {
+     "key": "english",
+     "label": "English evidence",
+     "value": "",
+     "placeholder": "e.g. IELTS 6.5 taken in 2026, or a WAEC English grade"
+    },
+    {
+     "key": "scholarships",
+     "label": "Confirmed scholarships",
+     "value": "",
+     "placeholder": "e.g. none yet, or a GBP 2,000 award in writing"
+    },
+    {
+     "key": "plans",
+     "label": "Family or post-study plans",
+     "value": "",
+     "placeholder": "e.g. coming alone, hoping to use the Graduate route afterwards"
+    }
+   ],
+   "template": "Plan my UK MSc from {country} for {intake}, using {degree}, {savings}, {courses}, {english}, {scholarships} and {plans}. Separate tuition, living, visa costs and reserves. Show funding gaps, document timing and questions to settle before paying. Plan only; do not contact anyone, apply or pay for me.",
+   "phases": [
+    {
+     "title": "Find programmes, fees and scholarships from official university and funder pages",
+     "note": "Example courses, tuition by year, and scholarship eligibility and dates",
+     "judgment": "It would not count a scholarship that does not apply. Teesside’s £2,000 award is for January 2027 entry only, with an offer needed by 1 November 2026, so it is left out of the September 2027 sums. Chevening (closed 6 October 2026) and the Commonwealth Master’s (closed 20 October 2026) are marked as already closed."
+    },
+    {
+     "title": "Check the visa and money rules and build the cost and timeline assumptions",
+     "note": "Visa funds, health surcharge, TB test, Graduate route and the dated timeline",
+     "judgment": "It kept today’s rule apart from one already announced: living money for the visa is £1,171 a month now, rising to £1,203 for applications from 30 November 2026. The plan uses the higher figure (£14,436 for 12 months), which leaves a tuition ceiling of £17,564 within £32,000."
+    },
+    {
+     "title": "Write the plan and source list, and have them independently checked",
+     "judgment": "The independent colleague recalculated all four programme totals, three scholarship scenarios and the living and Graduate-route figures, and reopened three sources to confirm sampled claims. Everything matched."
+    }
+   ],
+   "workers": [
+    "Found affordable one-year Data Science master’s courses outside London and read their published international fees and entry requirements",
+    "Checked Chevening, Commonwealth and university scholarship rules, and which application dates are still open",
+    "Read the finished plan on its own, recalculated its figures and reopened sample sources to check them"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/student-visa/money": "GOV.UK: Student visa, money you need",
+    "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026": "GOV.UK: Statement of changes to the Immigration Rules (HC 584)",
+    "https://www.gov.uk/graduate-visa": "GOV.UK: Graduate visa",
+    "https://www.chevening.org/scholarship/nigeria/": "Chevening: scholarships in Nigeria",
+    "https://www.tees.ac.uk/sections/international/global_excellence_scholarship.cfm": "Teesside University: Global Excellence Scholarship"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的国家、成绩和存款，同样拿到英国硕士预算，缺口和储备一目了然",
+   "runTitle": "尼日利亚到英国读数据科学硕士，2027 年 9 月入学，家庭预算 3.2 万英镑",
+   "fields": [
+    {
+     "key": "country",
+     "label": "出发国家",
+     "value": "尼日利亚"
+    },
+    {
+     "key": "intake",
+     "label": "入学时间",
+     "value": "2027 年 9 月"
+    },
+    {
+     "key": "degree",
+     "label": "学位和成绩",
+     "value": "拉各斯一所大学的计算机科学学士，相当于 2:1；想读伦敦以外的一年制数据科学硕士"
+    },
+    {
+     "key": "savings",
+     "label": "存款及币种",
+     "value": "家庭预算约 3.2 万英镑，用于学费加生活费"
+    },
+    {
+     "key": "courses",
+     "label": "候选课程和书面学费",
+     "value": "",
+     "placeholder": "例如：某大学的数据科学硕士，学费页面写明 1.7 万英镑"
+    },
+    {
+     "key": "english",
+     "label": "英语材料",
+     "value": "",
+     "placeholder": "例如：2026 年考的雅思 6.5，或 WAEC 英语成绩"
+    },
+    {
+     "key": "scholarships",
+     "label": "已确认奖学金",
+     "value": "",
+     "placeholder": "例如：暂无，或已有书面确认的 2,000 英镑奖学金"
+    },
+    {
+     "key": "plans",
+     "label": "家属或毕业后计划",
+     "value": "",
+     "placeholder": "例如：一个人去，毕业后想走毕业生签证"
+    }
+   ],
+   "template": "请按{country}、{intake}、{degree}、{savings}、{courses}、{english}、{scholarships}和{plans}，帮我安排英国硕士预算。分清学费、生活费、签证费和储备，列出资金缺口、文件准备时间，以及付款前要问清的问题。只做计划，不联系任何人、不代申请、不代付款。",
+   "phases": [
+    {
+     "title": "从大学和资助方的官方页面找课程、学费和奖学金",
+     "note": "示例课程、各学年学费，以及奖学金的资格和日期",
+     "judgment": "它不会把不适用的奖学金算进去。提赛德大学的 2,000 英镑奖学金只适用于 2027 年 1 月入学，且要在 2026 年 11 月 1 日前拿到录取，所以 2027 年 9 月入学的算式里没有它。Chevening（2026 年 10 月 6 日截止）和英联邦硕士奖学金（2026 年 10 月 20 日截止）都标明已经截止。"
+    },
+    {
+     "title": "核对签证和资金规则，建立费用与时间线假设",
+     "note": "签证资金、医疗附加费、结核病检测、毕业生签证和带日期的时间线",
+     "judgment": "它把现行规则和已公布的新规分开写：签证要求的生活费现在是每月 1,171 英镑，2026 年 11 月 30 日起的申请将升到 1,203 英镑。计划按较高的数字算（12 个月为 14,436 英镑），这样在 3.2 万英镑里，学费上限就是 17,564 英镑。"
+    },
+    {
+     "title": "写成计划和来源清单，再请人独立复核",
+     "judgment": "独立复核的同事重新计算了全部 4 个课程的总额、3 种奖学金情形，以及生活费和毕业生签证相关的数字，还重新打开 3 个来源核对抽查的说法，结果全部吻合。"
+    }
+   ],
+   "workers": [
+    "找出伦敦以外学费较低的一年制数据科学硕士课程，并读取它们公布的国际生学费和入学要求",
+    "核对 Chevening、英联邦奖学金和大学奖学金的规则，以及哪些申请日期还没过",
+    "单独通读成稿的计划，重新计算其中的数字，并重新打开部分来源核对"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/student-visa/money": "英国政府网：学生签证所需资金",
+    "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026": "英国政府网：移民规则修订声明（HC 584）",
+    "https://www.gov.uk/graduate-visa": "英国政府网：毕业生签证",
+    "https://www.chevening.org/scholarship/nigeria/": "Chevening：尼日利亚的奖学金",
+    "https://www.tees.ac.uk/sections/international/global_excellence_scholarship.cfm": "提赛德大学：全球卓越奖学金"
+   }
+  }
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "slug": "canada-masters-philippines-70000-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1972,
+ "stats": {
+  "searches": 60,
+  "pages": 48,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 29,
+   "end": 789,
+   "chips": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/attestation-letters.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+    "https://brocku.ca/goodman/programs/msc/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 789,
+   "end": 1277,
+   "chips": [
+    "https://www.douglascollege.ca/fees-and-finances/tuition-and-fee-estimator/tuition-and-fees-international-students",
+    "https://www.unbc.ca/calendar/graduate/fees",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1277,
+   "end": 1910,
+   "chips": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html",
+    "https://brocku.ca/programs/graduate/msc/"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own degree, funds and offers to get the same rules-checked Canada study plan, with a clear stop point",
+   "runTitle": "Manila to Canada: a two-year business postgraduate programme on CAD 70,000",
+   "fields": [
+    {
+     "key": "intake",
+     "label": "Intake and province",
+     "value": "September 2027, public college or university in Ontario or British Columbia"
+    },
+    {
+     "key": "degree",
+     "label": "Degree, grades and quantitative preparation",
+     "value": "BS Business Administration, Manila"
+    },
+    {
+     "key": "english",
+     "label": "English evidence",
+     "value": "",
+     "placeholder": "e.g. IELTS 7.0 overall, taken in 2026"
+    },
+    {
+     "key": "research",
+     "label": "Research interests",
+     "value": "",
+     "placeholder": "e.g. supply chain analytics"
+    },
+    {
+     "key": "funds",
+     "label": "Family funds available",
+     "value": "About CAD 70,000 for the whole programme, including living costs"
+    },
+    {
+     "key": "offers",
+     "label": "Programme offers and fees",
+     "value": "",
+     "placeholder": "e.g. a master’s offer at CAD 6,700 per term"
+    },
+    {
+     "key": "funding",
+     "label": "Confirmed funding and payment dates",
+     "value": "",
+     "placeholder": "e.g. a fellowship of CAD 10,000 paid in two instalments"
+    }
+   ],
+   "template": "Help me compare Canada study options for {intake}, with {degree}, {english}, {research}, {funds}, {offers} and {funding}. Separate tuition, living costs, upfront cash and reserves. Keep fellowship separate from wages, flag permit and PGWP questions, and tell me when to pause. Plan only; do not apply, contact, pay or book.",
+   "phases": [
+    {
+     "title": "Check study-permit and work-permit rules on official government pages, and find real programmes",
+     "note": "Attestation letters, the cap, proof of funds, and which programmes qualify for a work permit",
+     "judgment": "It separated what is confirmed from what is only this year’s rule: a public master’s degree avoids the attestation letter, a postgraduate diploma does not, and 2026 provincial allocations were not presented as confirmed September 2027 rules. It noted that no 2027 announcement could be found."
+    },
+    {
+     "title": "Look up programme tuition and city living costs"
+    },
+    {
+     "title": "Write the plan and source list, then check the page once at the end",
+     "judgment": "The bottom line is stated plainly: CAD 70,000 is not enough for the unfunded 24-month options it modelled. Only Brock could fit, at about CAD 67,615, and only with a confirmed fellowship and a 20-month finish. It also records that it could not fully confirm the research was done in a fresh, signed-out browser."
+    }
+   ],
+   "workers": [
+    "Researched five real programmes in Ontario and British Columbia: fees, length, entry requirements and whether graduates can get a work permit",
+    "Read the official government rules on attestation letters, the study-permit cap, proof of funds, biometrics, medical exams and fees"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html": "IRCC proof-of-funds table",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/attestation-letters.html": "IRCC attestation-letter rules (graduate programmes)",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html": "IRCC 2026 study-permit cap allocations",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html": "IRCC work-permit field-of-study rules",
+    "https://brocku.ca/goodman/programs/msc/": "Brock University MSc Management",
+    "https://www.douglascollege.ca/fees-and-finances/tuition-and-fee-estimator/tuition-and-fees-international-students": "Douglas College international tuition",
+    "https://www.unbc.ca/calendar/graduate/fees": "UNBC graduate fees",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html": "IRCC study-permit eligibility",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html": "IRCC study-permit document guide",
+    "https://brocku.ca/programs/graduate/msc/": "Brock University graduate programme page"
+   }
+  },
+  "zh": {
+   "askTitle": "填上你自己的学历、资金和录取情况，得到一份规则核对过、有明确停手点的加拿大留学方案",
+   "runTitle": "马尼拉到加拿大：用 7 万加元读两年商科研究生项目",
+   "fields": [
+    {
+     "key": "intake",
+     "label": "入学时间和省份",
+     "value": "2027 年 9 月入学，安大略省或不列颠哥伦比亚省的公立学院或大学"
+    },
+    {
+     "key": "degree",
+     "label": "学历、成绩和数理基础",
+     "value": "马尼拉的工商管理学士（BS Business Administration）"
+    },
+    {
+     "key": "english",
+     "label": "英语证明",
+     "value": "",
+     "placeholder": "例如：雅思总分 7.0，2026 年考的"
+    },
+    {
+     "key": "research",
+     "label": "研究兴趣",
+     "value": "",
+     "placeholder": "例如：供应链分析"
+    },
+    {
+     "key": "funds",
+     "label": "家庭可用资金",
+     "value": "整个项目（含生活费）约 7 万加元"
+    },
+    {
+     "key": "offers",
+     "label": "课程录取及费用",
+     "value": "",
+     "placeholder": "例如：硕士录取，每学期学费 6,700 加元"
+    },
+    {
+     "key": "funding",
+     "label": "已确认资助及到账日期",
+     "value": "",
+     "placeholder": "例如：1 万加元奖学金，分两次发放"
+    }
+   ],
+   "template": "请按{intake}、{degree}、{english}、{research}、{funds}、{offers}和{funding}，帮我比较加拿大留学选择。分清学费、生活费、前期现金和储备，把 fellowship 与工资分开，提醒我学签和 PGWP 要核对什么，以及什么时候该停一停。只做计划，不申请、不联系、不付款、不预订。",
+   "phases": [
+    {
+     "title": "在官方网页核对学签和工签规则，并找真实项目",
+     "note": "省级证明信、名额上限、资金证明，以及哪些项目符合工签条件",
+     "judgment": "它把已经确认的和只是今年的规则分开写：公立大学的硕士学位项目不需要省级证明信，研究生文凭则需要；2026 年的省级名额也没有被当成 2027 年 9 月的确定规则，并注明没有找到 2027 年的公布。"
+    },
+    {
+     "title": "查项目学费和各城市的生活费"
+    },
+    {
+     "title": "写方案和来源清单，最后统一检查一次页面",
+     "judgment": "结论直说了：7 万加元不够读它测算的无资助 24 个月项目。只有 Brock 能放得下，约 67,615 加元，而且前提是拿到确认的奖学金、并在 20 个月内读完。它还如实记下，调研过程没有完全验证过是在干净环境里进行的。"
+    }
+   ],
+   "workers": [
+    "研究了安大略和不列颠哥伦比亚的五个真实项目：学费、学制、入学要求，以及毕业后能不能拿到工作许可",
+    "阅读官方规则：省级证明信、学签名额上限、资金证明、生物信息采集、体检和各项费用"
+   ],
+   "chipNames": {
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html": "加拿大移民部资金证明表",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/attestation-letters.html": "加拿大移民部省级证明信规则（研究生项目）",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html": "加拿大移民部 2026 年学签名额分配",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html": "加拿大移民部工签专业领域规则",
+    "https://brocku.ca/goodman/programs/msc/": "Brock 大学管理学硕士",
+    "https://www.douglascollege.ca/fees-and-finances/tuition-and-fee-estimator/tuition-and-fees-international-students": "Douglas 学院国际生学费",
+    "https://www.unbc.ca/calendar/graduate/fees": "北不列颠哥伦比亚大学研究生费用",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html": "加拿大移民部学签资格",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html": "加拿大移民部学签材料指南",
+    "https://brocku.ca/programs/graduate/msc/": "Brock 大学研究生项目页"
+   }
+  }
+ }
+}

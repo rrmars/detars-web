@@ -1,0 +1,157 @@
+{
+ "slug": "schengen-visa-india-application-timeline",
+ "startedAt": "2026-11-05",
+ "activeSec": 1524,
+ "stats": {
+  "searches": 31,
+  "pages": 39,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 39,
+   "end": 891,
+   "chips": [
+    "https://france-visas.gouv.fr/en/inde",
+    "https://visa.vfsglobal.com/ind/en/fra/fees",
+    "https://france-visas.gouv.fr/en/web/france-visas/assistant-visa",
+    "https://consbangalore.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/dove-chiedere-un-visto/",
+    "https://travel-europe.europa.eu/ees/what-is-the-ees"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 891,
+   "end": 1396,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1396,
+   "end": 1474,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own passport, city and dates to get a Schengen application plan with deadlines worked back from your departure",
+   "runTitle": "Bengaluru to France and Italy: a first Schengen visa for a couple, departing 15 May 2027",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "Nationality and passport",
+     "value": "Indian couple, both salaried; neither has held a Schengen visa before"
+    },
+    {
+     "key": "city",
+     "label": "City of residence",
+     "value": "Bengaluru"
+    },
+    {
+     "key": "dates",
+     "label": "Arrival and exit dates",
+     "value": "Flying out 15 May 2027, a 10-day trip"
+    },
+    {
+     "key": "route",
+     "label": "Countries, day split and first external border",
+     "value": "France and Italy, with the split of days not yet decided"
+    }
+   ],
+   "template": "Help me plan a Schengen tourism application for {nationality}, living in {city}, travelling {dates} through {route}. Identify the competent country, separate the application clocks, list official document and fee checks, and suggest an early target with contingencies. Do not create accounts, book, apply or pay.",
+   "phases": [
+    {
+     "title": "Check the official France and Italy application, document and fee pages",
+     "note": "Where to apply from Bengaluru, which documents, which fees",
+     "judgment": "It corrected a common assumption with the official checklist: France asks for three months of bank statements and one previous year’s income-tax return, not six months and three years. And where the visa centre’s page published no rupee figure for its service fee, it did not make one up by converting."
+    },
+    {
+     "title": "Write the guide, a dated timeline and the source list",
+     "judgment": "Because the split of days between France and Italy was not given, it did not pick a country for the couple. The guide covers both routes and names what is still unconfirmed: Italy’s visa-centre street address and France’s service charge in rupees."
+    },
+    {
+     "title": "Final check of the content and links, and one page-layout check"
+    }
+   ],
+   "workers": [
+    "Went through France’s official visa checklist and published fees for a salaried couple applying from Bengaluru",
+    "Checked which Italian consulate and visa centre handle Bengaluru, and what could and could not be confirmed about Italian fees and documents"
+   ],
+   "chipNames": {
+    "https://france-visas.gouv.fr/en/inde": "France-Visas: information for India",
+    "https://visa.vfsglobal.com/ind/en/fra/fees": "VFS Global France: India service fees",
+    "https://france-visas.gouv.fr/en/web/france-visas/assistant-visa": "France-Visas: document and fee checklist",
+    "https://consbangalore.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/dove-chiedere-un-visto/": "Italian consulate Bengaluru: where to apply",
+    "https://travel-europe.europa.eu/ees/what-is-the-ees": "EU Entry/Exit System: what it is"
+   }
+  },
+  "zh": {
+   "askTitle": "填上你自己的护照、城市和日期，得到一份从出发日往回倒推截止时间的申根申请计划",
+   "runTitle": "班加罗尔到法国和意大利：一对夫妻首次申根签证，2027 年 5 月 15 日出发",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "国籍和护照",
+     "value": "印度籍夫妻，两人都有固定工作；之前都没有申根签证"
+    },
+    {
+     "key": "city",
+     "label": "居住城市",
+     "value": "班加罗尔"
+    },
+    {
+     "key": "dates",
+     "label": "旅行日期（抵达和离境）",
+     "value": "2027 年 5 月 15 日出发，行程 10 天"
+    },
+    {
+     "key": "route",
+     "label": "国家、各国天数和首个外部边境",
+     "value": "法国和意大利，各国停留天数尚未定"
+    }
+   ],
+   "template": "请帮我规划申根旅游申请：国籍和护照{nationality}，居住{city}，旅行日期{dates}，行程{route}。先判断受理国家，分开递交、等预约、审理和护照返还时间，列出官方材料与费用核对项，给提前目标及应急方案。不要创建账户、预约、递交或付款。",
+   "phases": [
+    {
+     "title": "核对法国和意大利的官方申请、材料和费用页面",
+     "note": "在班加罗尔去哪里递交、要哪些材料、收哪些费用",
+     "judgment": "它用官方清单纠正了一个常见说法：法国要的是最近三个月的银行流水和上一个财年的一份所得税申报，不是六个月流水和三年申报。签证中心页面没有公布服务费的卢比金额时，它也没有自己换算一个数。"
+    },
+    {
+     "title": "写指南、带日期的时间线和来源清单",
+     "judgment": "由于没有给出法国和意大利各待几天，它没有替这对夫妻选定受理国。指南把两条路线都写了，并列出仍未确认的两项：意大利签证中心的街道地址，以及法国服务费的卢比金额。"
+    },
+    {
+     "title": "最后检查内容和链接，并检查一次页面版式"
+    }
+   ],
+   "workers": [
+    "逐项核对法国官方的签证材料清单和公布的费用，按在班加罗尔申请的在职夫妻来看",
+    "核对班加罗尔归哪个意大利领事馆和签证中心受理，以及意大利的费用和材料哪些能确认、哪些不能"
+   ],
+   "chipNames": {
+    "https://france-visas.gouv.fr/en/inde": "法国签证网：印度申请信息",
+    "https://visa.vfsglobal.com/ind/en/fra/fees": "VFS Global 法国：印度服务费",
+    "https://france-visas.gouv.fr/en/web/france-visas/assistant-visa": "法国签证网：材料和费用清单",
+    "https://consbangalore.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/dove-chiedere-un-visto/": "意大利驻班加罗尔总领馆：去哪里申请",
+    "https://travel-europe.europa.eu/ees/what-is-the-ees": "欧盟出入境系统简介"
+   }
+  }
+ }
+}

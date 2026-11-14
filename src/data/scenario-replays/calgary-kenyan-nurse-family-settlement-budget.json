@@ -1,0 +1,132 @@
+{
+ "slug": "calgary-kenyan-nurse-family-settlement-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 3317,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 73,
+   "end": 1507,
+   "chips": [
+    "https://nurses.ab.ca/nursing-in-alberta/international-applicants/options-for-confirming-competency/",
+    "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/fees/fee-structure-for-2026-2027/",
+    "https://www.nnas.ca/expedited-service/",
+    "https://www.alberta.ca/starting-a-tenancy",
+    "https://www.calgarytransit.com/news/calgary-transit-fares-changing-for-2026.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1507,
+   "end": 2420,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2420,
+   "end": 3120,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family’s details and get the same settlement budget before you land",
+   "runTitle": "Nairobi to Calgary: a nurse’s licensing route, first rental and six-month cash plan on CAD 28,000",
+   "fields": [
+    {
+     "key": "deadline",
+     "label": "Landing deadline",
+     "value": "July 2027"
+    },
+    {
+     "key": "kids",
+     "label": "Children’s birth dates",
+     "value": "aged 5 and 9"
+    },
+    {
+     "key": "savings",
+     "label": "Savings before travel and setup",
+     "value": "CAD 28,000"
+    },
+    {
+     "key": "nursing",
+     "label": "Nursing credential assessment, recent hours and English evidence",
+     "value": "BScN, 8 years’ experience as a registered nurse in Nairobi"
+    },
+    {
+     "key": "partner",
+     "label": "Partner’s accounting credentials and membership",
+     "value": "Husband is an accountant"
+    },
+    {
+     "key": "area",
+     "label": "Work or study areas to rent near",
+     "value": "",
+     "placeholder": "e.g. a school in the northwest and a workplace downtown"
+    },
+    {
+     "key": "income",
+     "label": "First-income dates, care and licensing costs",
+     "value": "",
+     "placeholder": "e.g. first pay in month 3, after-school care CAD 400 a month"
+    }
+   ],
+   "template": "Help our Kenyan PR family plan Calgary settlement by {deadline}. Our children were born on {kids}, savings before travel/setup are {savings}, and our nursing ECA, recent hours and English evidence are {nursing}. My partner's accounting credentials/membership are {partner}. Compare suitable four-person rentals near {area}, map the CRNA route without assuming NNAS or bridging is mandatory, and stress-test {income}. Keep benefits at zero until approved and received. Ask before contacting anyone, sharing documents, applying or paying.",
+   "phases": [
+    {
+     "title": "Read the nursing college, tenancy, child-benefit and transit rules and gather dated rental examples",
+     "note": "Licensing routes and fees, rents and deposits, schools, health cover, transit",
+     "judgment": "It did not assume the usual route: Alberta’s nursing college offers other ways to confirm competency, so the national credential assessment and a bridging programme are not treated as mandatory. It also found that working as a care aide in the meantime needs its own separate registration."
+    },
+    {
+     "title": "Build the guide with the licensing timeline, rent comparison and six-month cash table",
+     "note": "Two-bedroom versus three-bedroom, month-by-month savings",
+     "judgment": "It showed the shortfall plainly instead of softening it: the two-bedroom plan costs $4,017 a month, savings last 3.68 months without income, and six months leave a $9,302 gap. Rents are labelled as examples, and car, winter-gear and 2027 fare prices are marked unverified."
+    },
+    {
+     "title": "Independent check of every money figure, plus desktop and phone layout tests",
+     "judgment": "The independent colleague recomputed every money figure and found them all correct. It also flagged that the licensing exam fee depends on the registration date, so the plan keeps the higher $570 as a cautious budget instead of assuming the $360 that applies if registration is completed before 1 February 2027."
+    }
+   ],
+   "workers": [
+    "Collected dated rental listings and the tenancy-deposit, school, transit-fare and accountant-entry evidence",
+    "Traced the Alberta nursing registration route from official sources: exams, English proof, bridging options, fees and timing",
+    "Recomputed every money figure on its own and checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://nurses.ab.ca/nursing-in-alberta/international-applicants/options-for-confirming-competency/": "College of Registered Nurses of Alberta: ways to confirm competency",
+    "https://nurses.ab.ca/nursing-in-alberta/registration-requirements/fees/fee-structure-for-2026-2027/": "College of Registered Nurses of Alberta: 2026–27 fees",
+    "https://www.nnas.ca/expedited-service/": "NNAS: expedited service",
+    "https://www.alberta.ca/starting-a-tenancy": "Government of Alberta: starting a tenancy",
+    "https://www.calgarytransit.com/news/calgary-transit-fares-changing-for-2026.html": "Calgary Transit: 2026 fares"
+   }
+  }
+ }
+}

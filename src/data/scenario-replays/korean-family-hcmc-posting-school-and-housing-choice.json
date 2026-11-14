@@ -1,0 +1,168 @@
+{
+ "slug": "korean-family-hcmc-posting-school-and-housing-choice",
+ "startedAt": "2026-11-07",
+ "activeSec": 874,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 6,
+  "parallel": 6,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 284,
+   "chips": [
+    "https://english.luatvietnam.vn/decree-no-219-2025-nd-cp-dated-august-07-2025-of-the-government-on-foreign-workers-in-vietnam-407607-doc1.html",
+    "https://vss.gov.vn/english/news/Pages/vietnam-social-security.aspx?ItemID=12713&CateID=198",
+    "https://resources.finalsite.net/images/v1773021428/saigon/mdwplrmltvaxycfqzbt5/TuitionFeesScheduleSY2627.pdf",
+    "https://www.ishcmc.com/wp-content/uploads/sites/37/2026/10/ISHCMC_2026-27_Fee_Schedule_07.10.26.pdf",
+    "https://www.vietcombank.com.vn/api/exchangerates?date=2026-11-06"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 284,
+   "end": 599,
+   "chips": [
+    "http://kshcm.net/?menu_no=37",
+    "https://www.nps.or.kr/pnsinfo/sclsmise/getOHAF0131M0.do?id=38_01",
+    "https://www.goegn.kr/goegn/cm/cntnts/cntntsView.do?mi=15925&cntntsId=4639",
+    "https://taxsummaries.pwc.com/vietnam/individual/taxes-on-personal-income",
+    "https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-phut-ngay-05-11-2026.html"
+   ],
+   "workers": [
+    {
+     "n": 5,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 6,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 599,
+   "end": 874,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own family, pay and company support to get the same school, area and savings comparison before you commit to a posting",
+   "runTitle": "A Korean family of four posted to Ho Chi Minh City from March 2027: which school, which area, and what they can save",
+   "fields": [
+    {
+     "key": "start_date",
+     "label": "Posting start date",
+     "value": "March 2027"
+    },
+    {
+     "key": "years",
+     "label": "Length of posting",
+     "value": "3 years"
+    },
+    {
+     "key": "family",
+     "label": "Adults and children’s ages",
+     "value": "two adults aged 41 and 39; children aged 9 and 13"
+    },
+    {
+     "key": "pay",
+     "label": "Salary and allowance",
+     "value": "KRW 7.5 million a month net plus a USD 1,200 monthly overseas allowance"
+    },
+    {
+     "key": "support",
+     "label": "Rent cap and school-fee share paid by the company",
+     "value": "rent up to USD 2,500 a month and half of school fees"
+    },
+    {
+     "key": "schools",
+     "label": "Schools to compare",
+     "value": "the Korean international school in Ho Chi Minh City and 2–3 international schools"
+    },
+    {
+     "key": "areas",
+     "label": "Areas to compare",
+     "value": "District 7 (Phu My Hung) vs Thu Duc (Thao Dien / An Phu)"
+    },
+    {
+     "key": "plant",
+     "label": "Plant location",
+     "value": "",
+     "placeholder": "e.g. a factory in Saigon Hi-Tech Park or in the Tan Thuan export zone"
+    }
+   ],
+   "template": "Help me plan a posting to Ho Chi Minh City starting {start_date} for {years}. My family is {family}; pay is {pay}; the company covers {support}. Compare {schools} and {areas} against the plant location {plant}, rebuild the monthly budget and savings with my own grocery, insurance and tax figures, and flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Four colleagues split the research: residence and work rules, schools, housing areas, health cover and exchange rates",
+     "note": "Rule texts, school fee schedules, dated rent examples and live rates",
+     "judgment": "A colleague found that Decree 219/2025 appears to have replaced the older work-permit decree (inferred from secondary sources; its repeal clause was not read), and that the intra-company exemption may not cover a manufacturing manager. The guide therefore plans for a regular work permit and labels the apostille start date as coming from secondary sources only."
+    },
+    {
+     "title": "Two follow-up colleagues cover the gaps (return to Korean schools, pension and tax, daily costs) while the guide is written",
+     "note": "A school-by-school savings comparison and the three deliverable files",
+     "judgment": "Where a figure could not be read, it was left out rather than guessed: no petrol price went into the guide because the official table would not load, and the Korean return-to-school rules are labelled as coming from one regional education office, not the Ministry."
+    },
+    {
+     "title": "Recompute every money figure, check claims against the source list, then check the page on desktop and phone widths",
+     "judgment": "The guide’s author ran a second pass that recomputed every money figure from the raw inputs using a different method, and all matched. It also admitted a weakness in plain words: about VND 37.1M of the VND 44.2M monthly living subtotal is planning allowances, not priced facts, so the savings are indicative."
+    }
+   ],
+   "workers": [
+    "Looked into Vietnam’s work permit, residence card and family visas, including who applies, documents and apostilles",
+    "Compared Phu My Hung with Thao Dien and An Phu using dated rent examples, drive times to factory areas and Korean community life",
+    "Compared the Korean school with three international schools on published fees, entry timing and language support",
+    "Checked health insurance and hospital billing, social insurance rules for foreigners, electricity tariffs and exchange rates",
+    "Followed up on rules for children returning to Korean schools, pension and tax treaties, and Korean-language hospital service",
+    "Followed up on published prices for cleaners, childcare, ride-hailing and home internet"
+   ],
+   "chipNames": {
+    "https://english.luatvietnam.vn/decree-no-219-2025-nd-cp-dated-august-07-2025-of-the-government-on-foreign-workers-in-vietnam-407607-doc1.html": "Decree 219/2025 on foreign workers (English translation)",
+    "https://vss.gov.vn/english/news/Pages/vietnam-social-security.aspx?ItemID=12713&CateID=198": "Vietnam Social Security: rules for foreign employees",
+    "https://resources.finalsite.net/images/v1773021428/saigon/mdwplrmltvaxycfqzbt5/TuitionFeesScheduleSY2627.pdf": "SSIS tuition and fees schedule 2026–27",
+    "https://www.ishcmc.com/wp-content/uploads/sites/37/2026/10/ISHCMC_2026-27_Fee_Schedule_07.10.26.pdf": "ISHCMC fee schedule 2026–27",
+    "https://www.vietcombank.com.vn/api/exchangerates?date=2026-11-06": "Vietcombank exchange rates, 6 Nov 2026",
+    "http://kshcm.net/?menu_no=37": "Korean school HCMC: transfer-out notice",
+    "https://www.nps.or.kr/pnsinfo/sclsmise/getOHAF0131M0.do?id=38_01": "Korea National Pension Service: Vietnam agreement",
+    "https://www.goegn.kr/goegn/cm/cntnts/cntntsView.do?mi=15925&cntntsId=4639": "Education office guide for returning students",
+    "https://taxsummaries.pwc.com/vietnam/individual/taxes-on-personal-income": "PwC summary of Vietnam personal income tax",
+    "https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-phut-ngay-05-11-2026.html": "Petrolimex fuel price notice, 5 Nov 2026"
+   }
+  }
+ }
+}

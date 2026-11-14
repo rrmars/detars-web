@@ -1,0 +1,170 @@
+{
+ "slug": "coffee-shop-13-week-cash-flow-forecast-template",
+ "startedAt": "2026-11-05",
+ "activeSec": 1627,
+ "stats": {
+  "searches": 12,
+  "pages": 3,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 28,
+   "end": 139,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 139,
+   "end": 600,
+   "chips": [
+    "https://www.restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-operators-kept-food-cost-ratios-in-check-in-2024/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 1,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 600,
+   "end": 1439,
+   "chips": [
+    "https://squareup.com/help/us/en/article/3807-deposit-options-with-square",
+    "https://www.irs.gov/publications/p505"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own sales, bills and cash to get a 13-week cash forecast that shows the weeks you would run short",
+   "runTitle": "A one-location US coffee shop: a 13-week cash forecast that rolls forward in ten minutes a week",
+   "fields": [
+    {
+     "key": "where",
+     "label": "Country or state, currency and business type",
+     "value": "A single-location coffee shop in the US, in US dollars"
+    },
+    {
+     "key": "start",
+     "label": "First Monday of the forecast",
+     "value": "",
+     "placeholder": "e.g. Monday 9 November 2026"
+    },
+    {
+     "key": "cash",
+     "label": "Cash on hand, tax reserve and minimum buffer",
+     "value": "",
+     "placeholder": "e.g. $18,000 in the bank, $4,000 of it set aside for taxes, keep at least $5,000 spendable"
+    },
+    {
+     "key": "pos",
+     "label": "Card sales history, unsettled cards, processor cut-off and fees",
+     "value": "About $38,000 in monthly sales, higher on weekends and in winter"
+    },
+    {
+     "key": "bills",
+     "label": "Supplier bills, catering, payroll, rent, loan, taxes and owner draws",
+     "value": "Six part-time staff paid biweekly; rent $6,500 due on the 1st; a $40k SBA loan being repaid; quarterly estimated taxes; suppliers paid on net-15 and net-30"
+    },
+    {
+     "key": "drop",
+     "label": "Sales-drop scenario",
+     "value": "15% lower sales"
+    }
+   ],
+   "template": "Adapt this 13-week cash workbook for my café in {where}, starting Monday {start}, using {cash}, {pos}, {bills}. Keep facts and assumptions separate, formulas and tab names intact, and replace estimates without duplicates. Show baseline and {drop} weekly flows, cash, reserve, spendable cash and daily lows; keep commitments fixed unless changed. Do not invent finance or equate positive cash with profit/solvency or reserves with tax owed. Test zero-drop, roll-forward, holidays, overdue and negative-cash cases on copies, flag range limits, and keep records local without uploads, contact or transactions.",
+   "phases": [
+    {
+     "title": "Confirm public benchmarks and plan the dated cash schedules"
+    },
+    {
+     "title": "Build the Excel forecast and the one-page update guide",
+     "note": "Card payout delays, catering, payroll weeks, rent, supplier terms, loan and tax set-asides",
+     "judgment": "It did not dress up a benchmark as a target. The 32.4% supplier-cost figure comes from a broad survey of limited-service restaurants, not coffee shops specifically, and the workbook says it is only a rough proxy for the supplier budget."
+    },
+    {
+     "title": "Recalculate, test sales-drop and roll-forward cases, and check the delivery",
+     "note": "Every formula recalculated and the weekly roll-forward tested",
+     "judgment": "While testing the roll-forward it added a warning for overdue unpaid bills, so they can’t silently drop out when the start date moves on. The finished example also shows the user’s real problem: total cash rises slightly in week one, yet spendable cash dips to $4,656, under the $5,000 floor."
+    }
+   ],
+   "workers": [
+    "Wrote the one-page, ten-minute weekly guide for a shop owner who is not an accountant"
+   ],
+   "chipNames": {
+    "https://www.restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-operators-kept-food-cost-ratios-in-check-in-2024/": "National Restaurant Association: food-cost ratios, 2024",
+    "https://squareup.com/help/us/en/article/3807-deposit-options-with-square": "Square: deposit options and timing",
+    "https://www.irs.gov/publications/p505": "IRS Publication 505: estimated tax"
+   }
+  },
+  "zh": {
+   "askTitle": "填上你自己的销售、账单和现金，得到一份能看出哪几周会缺钱的 13 周现金预测",
+   "runTitle": "美国一家单店咖啡馆：每周只花十分钟就能滚动更新的 13 周现金预测",
+   "fields": [
+    {
+     "key": "where",
+     "label": "国家或州、币种和主体类型",
+     "value": "美国的一家单店咖啡馆，用美元"
+    },
+    {
+     "key": "start",
+     "label": "预测起始的第一个周一",
+     "value": "",
+     "placeholder": "例如：2026 年 11 月 9 日（周一）"
+    },
+    {
+     "key": "cash",
+     "label": "现有现金、税款储备和最低缓冲",
+     "value": "",
+     "placeholder": "例如：账上 1.8 万美元，其中 4,000 美元留作税款，至少保持 5,000 美元可动用"
+    },
+    {
+     "key": "pos",
+     "label": "刷卡销售历史、未结算刷卡款、处理商截止时间和费用",
+     "value": "月销售额约 3.8 万美元，周末和冬天更高"
+    },
+    {
+     "key": "bills",
+     "label": "供应商账单、外烩、工资、房租、贷款、税款和店主提款",
+     "value": "6 名兼职员工，双周发薪；房租每月 1 号 6,500 美元；还着一笔 4 万美元的 SBA 贷款；按季预缴税；供应商账期 15 天和 30 天"
+    },
+    {
+     "key": "drop",
+     "label": "销售下降情景",
+     "value": "销售额下降 15%"
+    }
+   ],
+   "template": "请为{where}咖啡馆，从{start}周一起调整这份 13 周表，用{cash}、{pos}、{bills}。事实假设分开，保留公式和表名，替换估算不重复；展示基准及{drop}每周进出、现金、储备、可用额和每日低点，承诺成本未经更改保持固定。不编融资，不把正现金当盈利或偿债能力，也不把储备当税额。在副本试零降幅、滚动、假日、逾期和负现金，提示范围限制；仅本地使用，不上传、联系或交易。",
+   "phases": [
+    {
+     "title": "确认公开的行业参考数据，并设计带日期的收支安排"
+    },
+    {
+     "title": "做出 Excel 预测表和一页纸更新指南",
+     "note": "刷卡到账延迟、外烩、发薪周、房租、供应商账期、贷款和税款预留",
+     "judgment": "它没有把行业参考数据包装成目标。32.4% 的供应成本比例来自对快餐类餐厅的宽口径调查，不是专门针对咖啡馆，表格里也写明它只是粗略参考。"
+    },
+    {
+     "title": "重算全部公式，测试销售下降和滚动更新，并检查交付",
+     "note": "所有公式重新计算，每周滚动更新也测试过",
+     "judgment": "测试滚动更新时，它加了一条“逾期未付账单”提醒，免得起始日期往后挪时这些账单悄悄消失。做好的示例也把用户真正的问题摆了出来：第一周总现金略有上升，可动用现金却降到 4,656 美元，低于 5,000 美元的底线。"
+    }
+   ],
+   "workers": [
+    "为不是会计的店主写了一页纸、每周十分钟的更新指南"
+   ],
+   "chipNames": {
+    "https://www.restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-operators-kept-food-cost-ratios-in-check-in-2024/": "美国餐饮协会：2024 年食材成本占比",
+    "https://squareup.com/help/us/en/article/3807-deposit-options-with-square": "Square：到账方式和时间",
+    "https://www.irs.gov/publications/p505": "美国国税局第 505 号出版物：预缴税"
+   }
+  }
+ }
+}

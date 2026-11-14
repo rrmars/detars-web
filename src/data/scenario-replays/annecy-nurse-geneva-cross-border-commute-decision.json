@@ -1,0 +1,145 @@
+{
+ "slug": "annecy-nurse-geneva-cross-border-commute-decision",
+ "startedAt": "2026-11-07",
+ "activeSec": 1067,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 246,
+   "chips": [
+    "https://www.ge.ch/demander-permis-travail-frontalier",
+    "https://www.redcross.ch/fr/notre-offre/professions-de-la-sante-reconnaissance-et-enregistrement/reconnaissance-de-diplomes-etrangers",
+    "https://www.sem.admin.ch/sem/fr/home/themen/aufenthalt/eu_efta/ausweis_g_eu_efta.html",
+    "https://www.ge.ch/document/faq-assurance-maladie-frontaliers-residant-france",
+    "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-chf.en.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 246,
+   "end": 693,
+   "chips": [
+    "https://silgeneve.ch/legis/data/rsg_b5_15p20.htm",
+    "https://www.hug.ch/emploi/travailler-aux-hug",
+    "https://www.ge.ch/frontalier-assurance-maladie",
+    "https://www.impots.gouv.fr/international-particulier/salaries-en-suisse",
+    "https://www.a41-adelac.com/sites/adelac/files/2026-02/TARIFS_2026.pdf"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 693,
+   "end": 1067,
+   "chips": [
+    "https://www.bsv.admin.ch/fr/cotisations-apercu",
+    "https://www.ch.ch/fr/vehicules-et-circulation/vignette-autoroutiere/"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own offer and get the same monthly comparison, stress test and list of questions for the employer",
+   "runTitle": "Annecy to Geneva: a French hospital nurse on EUR 2,450 net a month weighing a cross-border job from mid-2027",
+   "fields": [
+    {
+     "key": "employer",
+     "label": "Geneva hospital or clinic",
+     "value": "A Geneva hospital or clinic (not yet chosen)"
+    },
+    {
+     "key": "town",
+     "label": "Town in France",
+     "value": "Annecy"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "32"
+    },
+    {
+     "key": "experience",
+     "label": "Years and type of nursing experience",
+     "value": "Registered nurse (IDE) at a French hospital"
+    },
+    {
+     "key": "pay",
+     "label": "Current net monthly pay",
+     "value": "About EUR 2,450 net a month"
+    },
+    {
+     "key": "offer",
+     "label": "Offer details: function class, step, 13th-month treatment, start date",
+     "value": "Start from mid-2027"
+    },
+    {
+     "key": "rates",
+     "label": "Pension rate and source-tax rate",
+     "value": "",
+     "placeholder": "e.g. pension 8.5%, source tax 11%"
+    }
+   ],
+   "template": "Help me decide whether to take a nursing job in {employer} while living in {town}. I am {age} with {experience} and take home about {pay}. The offer says {offer}. Rebuild the monthly comparison with my real figures, replace the assumed deduction rates with the ones I give you {rates}, run the stress test, and list what I should still ask for in writing. Flag anything unconfirmed. Ask before contacting anyone or submitting anything.",
+   "phases": [
+    {
+     "title": "Read the official Geneva and Swiss pages on the cross-border permit and diploma recognition, and fix the exchange rate",
+     "judgment": "It pinned down which body actually handles a nurse's French diploma (the Swiss Red Cross, not the medical-professions board) and openly flagged that it could not confirm the French nursing diploma is on the EU automatic-recognition list."
+    },
+    {
+     "title": "Find the Geneva pay scale, health-insurance rules, tax treatment and commute costs, and write the guide",
+     "judgment": "A colleague checked the French health-insurance option against the official formula and corrected the rule as first described: it is 8% of (income from two years earlier minus 25% of the Social Security ceiling), about EUR 701 for 2027 on a July start with an assumed salary."
+    },
+    {
+     "title": "Re-check contribution rates and rules, recompute every figure and test the layout",
+     "judgment": "No official page gave the Swiss pension and Geneva source-tax rates, so the net-pay figures use labelled 9% and 10% placeholders. Stress-tested: even if both are 10 points too low, the gain stays at about EUR 1,600 a month."
+    }
+   ],
+   "workers": [
+    "Read the Geneva and Swiss pages on the cross-border permit and on recognition of a French nursing diploma, noting what could not be confirmed",
+    "Found the 2026 Geneva State pay scale and the tax rules for cross-border workers, and listed the rates that could not be found",
+    "Covered the French-or-Swiss health-insurance choice, its deadline and cost, the euro-franc rate and the commute"
+   ],
+   "chipNames": {
+    "https://www.ge.ch/demander-permis-travail-frontalier": "Geneva population office: cross-border work permit",
+    "https://www.redcross.ch/fr/notre-offre/professions-de-la-sante-reconnaissance-et-enregistrement/reconnaissance-de-diplomes-etrangers": "Swiss Red Cross: recognition of foreign diplomas",
+    "https://www.sem.admin.ch/sem/fr/home/themen/aufenthalt/eu_efta/ausweis_g_eu_efta.html": "Swiss State Secretariat for Migration: G permit",
+    "https://www.ge.ch/document/faq-assurance-maladie-frontaliers-residant-france": "Geneva: health insurance FAQ for cross-border workers",
+    "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-chf.en.html": "European Central Bank: euro to Swiss franc rate",
+    "https://silgeneve.ch/legis/data/rsg_b5_15p20.htm": "Geneva State pay scale in force from 1 Jan 2026",
+    "https://www.hug.ch/emploi/travailler-aux-hug": "Geneva University Hospitals: working at HUG",
+    "https://www.ge.ch/frontalier-assurance-maladie": "Geneva: cross-border workers and health insurance",
+    "https://www.impots.gouv.fr/international-particulier/salaries-en-suisse": "French tax authority: employees working in Switzerland",
+    "https://www.a41-adelac.com/sites/adelac/files/2026-02/TARIFS_2026.pdf": "A41 motorway tolls 2026 (ADELAC)",
+    "https://www.bsv.admin.ch/fr/cotisations-apercu": "Swiss Federal Social Insurance Office: contributions overview",
+    "https://www.ch.ch/fr/vehicules-et-circulation/vignette-autoroutiere/": "ch.ch: motorway vignette"
+   }
+  }
+ }
+}

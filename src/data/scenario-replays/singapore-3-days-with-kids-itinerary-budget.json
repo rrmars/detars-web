@@ -1,0 +1,218 @@
+{
+ "slug": "singapore-3-days-with-kids-itinerary-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1573,
+ "stats": {
+  "searches": 47,
+  "pages": 67,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 580,
+   "chips": [
+    "https://www.mandai.com/en/tickets-and-passes/multi-attractions.html",
+    "https://www.science.edu.sg/visit-us/ticket-prices",
+    "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html",
+    "https://www.simplygo.com.sg/concession-monthly-travel-cards/child/child-concession-card/",
+    "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/sg-arrival-card-with-electronic-health-declaration"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 580,
+   "end": 1351,
+   "chips": [
+    "https://ask.gov.sg/ica/questions/clqety23x007h3k360ho25s3a",
+    "https://www.laupasat.sg/",
+    "https://www.sentosa.com.sg/en/getting-to-sentosa/"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1351,
+   "end": 1498,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family and dates and get the same itinerary and strict daily budget check",
+   "runTitle": "An Australian family of four, 3 days in Singapore in July 2027, about SGD 400 a day",
+   "fields": [
+    {
+     "key": "days",
+     "label": "Full sightseeing days",
+     "value": "3 full days"
+    },
+    {
+     "key": "city",
+     "label": "City",
+     "value": "Singapore (a stopover, first visit)"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "Early July 2027"
+    },
+    {
+     "key": "family",
+     "label": "Adults and children’s ages and heights",
+     "value": "Two adults and children aged 6 and 10"
+    },
+    {
+     "key": "stay",
+     "label": "Hotel or MRT area",
+     "value": "",
+     "placeholder": "e.g. a hotel within a short walk of City Hall MRT"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and strict daily, average or total limit",
+     "value": "About SGD 400 a day for the family"
+    },
+    {
+     "key": "inclusions",
+     "label": "Hotel and airport inclusions",
+     "value": "Hotel not included in the SGD 400"
+    },
+    {
+     "key": "needs",
+     "label": "Passports, heat, walking, nap and late-night needs",
+     "value": "Australian family; likes animals, hands-on museums and hawker food; not too much walking in the heat"
+    }
+   ],
+   "template": "Plan {days} in {city} on {dates} for {family}, staying near {stay}, with {budget} and {inclusions}. Our passports and heat, walking, nap and late-night needs are {needs}. Keep one main outing per day, meal/rest breaks and indoor alternatives; compare actual tourist tickets and passes, show replacement-day costs, separate fare credit and reserve from extra spending, and check closures, entry rules and dated availability. Give sources and next checks, but do not contact, book, submit, pay or publish.",
+   "phases": [
+    {
+     "title": "Check official attraction, transport and arrival information",
+     "note": "Ticket prices, age rules, closures, getting around and the arrival card",
+     "judgment": "It checked dates a year ahead, not just prices: Gardens by the Bay has already announced July 2027 closures (Flower Dome 13 July, Cloud Forest 27 July), so the plan tells the family to avoid those two days for the two-dome visit. It also dropped Snow City, which closed for good on 30 September 2026."
+    },
+    {
+     "title": "Build the family itinerary and a sourced budget",
+     "judgment": "The independent colleague held the plan to the family’s own rule. A swapped-in Night Safari day came to S$418, over the S$400 daily limit, so the guide now says it is outside the cap unless spending drops by S$18, and that averaging across days needs the family’s agreement."
+    },
+    {
+     "title": "Make the phone-friendly page and the spreadsheet, and check them"
+    }
+   ],
+   "workers": [
+    "Checked the official ticket prices, family bundles and booking rules for the Zoo, Bird Paradise and Night Safari, and whether each bundle really saves money",
+    "Checked the Science Centre, Gardens by the Bay, Oceanarium and Universal Studios: family prices, fit for ages 6 and 10, and closures already announced for July 2027",
+    "Read the finished guide and spreadsheet on its own and rechecked the content and the sums against what the family asked for"
+   ],
+   "chipNames": {
+    "https://www.mandai.com/en/tickets-and-passes/multi-attractions.html": "Mandai Wildlife Group: multi-attraction passes",
+    "https://www.science.edu.sg/visit-us/ticket-prices": "Science Centre Singapore: ticket prices",
+    "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html": "Gardens by the Bay: opening hours",
+    "https://www.simplygo.com.sg/concession-monthly-travel-cards/child/child-concession-card/": "SimplyGo: child concession card",
+    "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/sg-arrival-card-with-electronic-health-declaration": "ICA: SG Arrival Card",
+    "https://ask.gov.sg/ica/questions/clqety23x007h3k360ho25s3a": "ICA: when to submit the SG Arrival Card",
+    "https://www.laupasat.sg/": "Lau Pa Sat hawker centre",
+    "https://www.sentosa.com.sg/en/getting-to-sentosa/": "Sentosa: getting there"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的家庭和日期，同样拿到行程和严格的每日预算核对",
+   "runTitle": "澳大利亚一家四口，2027 年 7 月在新加坡玩 3 天，每天约 400 新币",
+   "fields": [
+    {
+     "key": "days",
+     "label": "完整游览天数",
+     "value": "3 个整天"
+    },
+    {
+     "key": "city",
+     "label": "城市",
+     "value": "新加坡（中转停留，第一次去）"
+    },
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 7 月上旬"
+    },
+    {
+     "key": "family",
+     "label": "成人数及孩子年龄、身高",
+     "value": "两位成人，孩子 6 岁和 10 岁"
+    },
+    {
+     "key": "stay",
+     "label": "酒店或地铁站",
+     "value": "",
+     "placeholder": "例如：步行可到政府大厦地铁站的酒店"
+    },
+    {
+     "key": "budget",
+     "label": "金额及严格每日、日均或总额限制",
+     "value": "全家每天约 400 新币"
+    },
+    {
+     "key": "inclusions",
+     "label": "是否含酒店和机场交通",
+     "value": "400 新币不含酒店"
+    },
+    {
+     "key": "needs",
+     "label": "详情",
+     "value": "澳大利亚家庭；喜欢动物、可动手的博物馆和小贩中心美食；不想在热天走太多路"
+    }
+   ],
+   "template": "请安排{city}在{dates}的{days}，同行{family}，住{stay}附近，预算{budget}，{inclusions}；护照及耐热、步行、午睡和晚睡需求{needs}。每天留一个主活动、吃饭休息和室内备选，按实际游客票比较通票，列替换日费用，别重复算储值、储备金和交通，确认停馆、入境要求和日期余票，给来源与下一步，但不联系、预订、提交、付款或发布。",
+   "phases": [
+    {
+     "title": "核对景点、交通和入境的官方信息",
+     "note": "票价、年龄规定、停开安排、出行方式和入境卡",
+     "judgment": "它不只核对价格，还提前一年核对日期：滨海湾花园已公布 2027 年 7 月的停开安排（花穹 13 日、云雾林 27 日），所以行程提醒一家人两个花园穹顶那天要避开这两天。它还去掉了冰雪世界，因为它已在 2026 年 9 月 30 日永久关闭。"
+    },
+    {
+     "title": "安排亲子行程并做出带来源的预算",
+     "judgment": "独立复核的同事按这家人自己定的规矩卡了一道关：换成夜间野生动物园的那天要 418 新币，超出每天 400 新币的上限，所以指南现在写明：除非那天少花 18 新币，否则不在上限之内；想跨天平均，需要全家同意。"
+    },
+    {
+     "title": "做出手机可看的页面和电子表格，并检查"
+    }
+   ],
+   "workers": [
+    "查清动物园、鸟类天堂和夜间野生动物园的官方票价、家庭套票和预订规则，并算清各套票是否真的省钱",
+    "查清科学中心、滨海湾花园、海洋馆和环球影城的家庭票价、是否适合 6 岁和 10 岁的孩子，以及 2027 年 7 月已公布的停开安排",
+    "单独通读成稿的指南和电子表格，对照全家的需求重新核对内容和每笔计算"
+   ],
+   "chipNames": {
+    "https://www.mandai.com/en/tickets-and-passes/multi-attractions.html": "万礼集团：多景点通票",
+    "https://www.science.edu.sg/visit-us/ticket-prices": "新加坡科学中心：票价",
+    "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html": "滨海湾花园：开放时间",
+    "https://www.simplygo.com.sg/concession-monthly-travel-cards/child/child-concession-card/": "SimplyGo：儿童优惠卡",
+    "https://www.ica.gov.sg/information-and-e-services/entry-and-departure/entering-singapore/sg-arrival-card-with-electronic-health-declaration": "移民与关卡局：新加坡入境卡",
+    "https://ask.gov.sg/ica/questions/clqety23x007h3k360ho25s3a": "移民与关卡局：入境卡何时提交",
+    "https://www.laupasat.sg/": "老巴刹小贩中心",
+    "https://www.sentosa.com.sg/en/getting-to-sentosa/": "圣淘沙：如何前往"
+   }
+  }
+ }
+}

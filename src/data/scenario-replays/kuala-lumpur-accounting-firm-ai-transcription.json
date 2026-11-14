@@ -1,0 +1,128 @@
+{
+ "slug": "kuala-lumpur-accounting-firm-ai-transcription",
+ "startedAt": "2026-11-07",
+ "activeSec": 2322,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 39,
+   "end": 1131,
+   "chips": [
+    "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/11/Act-A1727.pdf",
+    "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf",
+    "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_CBPDT_EN-1.pdf",
+    "https://fireflies.ai/pricing",
+    "https://help.otter.ai/hc/en-us/articles/360047247414-Supported-languages"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1131,
+   "end": 1829,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 12,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1829,
+   "end": 2171,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own firm, languages and budget, and compare meeting-note tools the way a confidential practice should",
+   "runTitle": "A 12-person Kuala Lumpur accounting firm choosing an AI meeting-notes tool on about MYR 600 a month",
+   "fields": [
+    {
+     "key": "firm",
+     "label": "Firm",
+     "value": "A 12-person accounting and tax firm in Kuala Lumpur"
+    },
+    {
+     "key": "languages",
+     "label": "Meeting languages",
+     "value": "English, Malay and some Mandarin"
+    },
+    {
+     "key": "platforms",
+     "label": "Meeting platforms and simultaneous hosts",
+     "value": "In-person meetings plus Teams and Zoom"
+    },
+    {
+     "key": "budget",
+     "label": "MYR budget",
+     "value": "About MYR 600 a month for the firm"
+    },
+    {
+     "key": "licences",
+     "label": "Existing licences",
+     "value": "",
+     "placeholder": "e.g. Microsoft 365 Business Premium for all staff, one Zoom Pro account"
+    }
+   ],
+   "template": "Help {firm} compare meeting-note options for {languages}, {platforms} and {budget}. Separate fictional-data testing from client use. Check contract purposes, transfer routes, secrecy, no-training, incident escalation and deletion before recommending deployment. Use {licences} and flag unresolved costs. Ask before signing up, uploading audio, contacting vendors or buying anything.",
+   "phases": [
+    {
+     "title": "Read vendor pricing and language pages and Malaysia's data protection rules",
+     "note": "Tool prices and supported languages, plus the 2024 amendments to the data protection law",
+     "judgment": "It checked vendors' claims against each other. One tool's pricing page said it supports Chinese, but its own current help pages say otherwise, and Malay did not appear in the language lists it inspected. Teams was found to document Malay transcription, yet Malay is missing from its list of languages for mixed-language meetings."
+    },
+    {
+     "title": "Write the comparison guide and the claim-by-claim source list",
+     "note": "Recommendation, comparison table, legal duties and consent checklist",
+     "judgment": "It recommended evaluating, not buying: three named meeting hosts on one tool at MYR 391.50 a month (assuming USD 1 = MYR 4.50, before tax), while stating that real client meetings stay blocked until contract terms, cross-border transfer, professional secrecy and Malay-English accuracy are cleared."
+    },
+    {
+     "title": "Independent check of the figures and claims, plus desktop and phone layout tests",
+     "judgment": "A separate colleague passed the money figures, and also found two problems: a billing unit that Notta's pages do not actually state, and a clause in one vendor's data-processing terms that allows advertising and marketing purposes. The second one was turned into a purchasing gate in the guide."
+    }
+   ],
+   "workers": [
+    "Read Malaysia's amended data protection law and the official guidance on cross-border transfers, breach reporting and data protection officers",
+    "Checked Microsoft Teams and Zoom: transcription languages, prices and where meeting data is processed",
+    "Read Notta, Otter and Fireflies public pricing, language, privacy and training-data terms",
+    "Recomputed every money figure and checked the guide's claims against the saved sources"
+   ],
+   "chipNames": {
+    "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/11/Act-A1727.pdf": "Personal Data Protection (Amendment) Act 2024",
+    "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf": "Commissioner's guideline on data breach notification",
+    "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_CBPDT_EN-1.pdf": "Commissioner's guideline on cross-border transfers",
+    "https://fireflies.ai/pricing": "Fireflies pricing",
+    "https://help.otter.ai/hc/en-us/articles/360047247414-Supported-languages": "Otter supported languages"
+   }
+  }
+ }
+}

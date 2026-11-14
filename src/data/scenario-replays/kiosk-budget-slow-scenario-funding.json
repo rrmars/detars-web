@@ -1,0 +1,197 @@
+{
+ "slug": "kiosk-budget-slow-scenario-funding",
+ "startedAt": "2026-11-05",
+ "activeSec": 1817,
+ "stats": {
+  "searches": 18,
+  "pages": 28,
+  "colleagues": 2,
+  "parallel": 1,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 68,
+   "end": 165,
+   "chips": [
+    "https://www.gov.uk/government/publications/minimum-wage-rates-for-2027",
+    "https://www.gov.uk/how-vat-works/vat-thresholds",
+    "https://squareup.com/gb/en/hardware/reader"
+   ],
+   "workers": []
+  },
+  {
+   "start": 165,
+   "end": 1617,
+   "chips": [
+    "https://www.gov.uk/national-minimum-wage-rates",
+    "https://www.food.gov.uk/business-guidance/register-a-food-business",
+    "https://www.gov.uk/business-rates-relief/small-business-rate-relief",
+    "https://www.manchester.gov.uk/online-directories/licences-and-permissions-directories/licensing/markets-and-street-trading/street-trader-licence-and-consent",
+    "https://www.gov.uk/employers-liability-insurance"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 2,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1617,
+   "end": 1806,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own kiosk plan and get the same slow-sales funding check before you sign anything",
+   "runTitle": "A first coffee kiosk in Manchester: 15 m², takeaway only, opening 1 March 2027",
+   "fields": [
+    {
+     "key": "site",
+     "label": "Site and opening date",
+     "value": "a 15 m² takeaway-only kiosk in Manchester, UK, opening 1 March 2027"
+    },
+    {
+     "key": "funding",
+     "label": "Currency and funding",
+     "value": "",
+     "placeholder": "e.g. pounds, £30,000 of my own savings"
+    },
+    {
+     "key": "demand",
+     "label": "Ticket and demand",
+     "value": "",
+     "placeholder": "e.g. £4.20 a cup, 120 cups a day once established"
+    },
+    {
+     "key": "staff",
+     "label": "Staff ages and hours",
+     "value": "1 owner + 2 part-time staff"
+    },
+    {
+     "key": "drawings",
+     "label": "My work and drawings",
+     "value": "",
+     "placeholder": "e.g. I work 40 hours a week and draw £1,500 a month"
+    },
+    {
+     "key": "quotes",
+     "label": "Lease and supplier quotes",
+     "value": "",
+     "placeholder": "e.g. £1,200 a month rent, espresso machine quote £6,000"
+    }
+   ],
+   "template": "Plan my coffee-kiosk budget for {site}, with {funding}, {demand}, {staff}, {drawings} and {quotes}. Lead with slow-sales funding, the lowest usable cash and any gap. Separate profit, cash after drawings and start-up recovery; flag tax, VAT, payroll and deposit assumptions. Show what to confirm before signing. Plan only; do not contact suppliers, apply, pay or publish.",
+   "phases": [
+    {
+     "title": "Check UK pay, tax and card-fee rules and set clear planning assumptions",
+     "note": "Minimum wage from April 2027, employer costs, VAT and card fees"
+    },
+    {
+     "title": "Build the formula-driven budget and three sales scenarios",
+     "note": "Start-up costs, 12-month profit and cash, plus Manchester registration, street-trading, rates, insurance and pension rules",
+     "judgment": "It would not assume the kiosk escapes street-trading rules just because it sits on private land. The £500 permit allowance is labelled as an unsourced placeholder, with a note that Manchester’s published fee can be £720, and the site’s status is left as an open question."
+    },
+    {
+     "title": "Recalculate, test edits and deliver the summary and sources",
+     "judgment": "An independent colleague found three real faults in the workbook: units shown as pounds, the average ticket added up across months, and zero demand showing a break-even of zero cups a day. All three were fixed and retested. Zero demand now says “not achievable”, and the final check ran 226 tests with no formula errors."
+    }
+   ],
+   "workers": [
+    "Read the official UK and Manchester rules for a small fixed kiosk: food registration, street trading, business rates, insurance, holiday pay, pensions and employer costs",
+    "Independently audited the finished workbook: followed the formulas and assumptions through and tried edge cases such as zero demand"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/government/publications/minimum-wage-rates-for-2027": "Minimum wage rates for 2027 (GOV.UK)",
+    "https://squareup.com/gb/en/hardware/reader": "Square card reader pricing (UK)",
+    "https://www.gov.uk/how-vat-works/vat-thresholds": "VAT thresholds (GOV.UK)",
+    "https://www.gov.uk/national-minimum-wage-rates": "National minimum wage rates (GOV.UK)",
+    "https://www.food.gov.uk/business-guidance/register-a-food-business": "Register a food business (Food Standards Agency)",
+    "https://www.gov.uk/business-rates-relief/small-business-rate-relief": "Small business rate relief",
+    "https://www.manchester.gov.uk/online-directories/licences-and-permissions-directories/licensing/markets-and-street-trading/street-trader-licence-and-consent": "Manchester street trader licence and consent",
+    "https://www.gov.uk/employers-liability-insurance": "Employers’ liability insurance (GOV.UK)"
+   }
+  },
+  "zh": {
+   "askTitle": "把你自己的咖啡亭方案填进去，签约前先做一遍同样的低销量资金检查",
+   "runTitle": "曼彻斯特第一家咖啡亭：约 15 平方米，只做外带，2027 年 3 月 1 日开业",
+   "fields": [
+    {
+     "key": "site",
+     "label": "地点和开业日期",
+     "value": "英国曼彻斯特，约 15 平方米、只做外带的咖啡亭，2027 年 3 月 1 日开业"
+    },
+    {
+     "key": "funding",
+     "label": "币种和资金",
+     "value": "",
+     "placeholder": "例如：英镑，自有积蓄 3 万英镑"
+    },
+    {
+     "key": "demand",
+     "label": "客单价和需求",
+     "value": "",
+     "placeholder": "例如：每杯 4.2 英镑，稳定后每天卖 120 杯"
+    },
+    {
+     "key": "staff",
+     "label": "员工年龄和工时",
+     "value": "1 位店主加 2 位兼职员工"
+    },
+    {
+     "key": "drawings",
+     "label": "我的劳动和提款",
+     "value": "",
+     "placeholder": "例如：我每周干 40 小时，每月提款 1,500 英镑"
+    },
+    {
+     "key": "quotes",
+     "label": "租约及供应商报价",
+     "value": "",
+     "placeholder": "例如：月租 1,200 英镑，咖啡机报价 6,000 英镑"
+    }
+   ],
+   "template": "请按{site}、{funding}、{demand}、{staff}、{drawings}、{quotes}，帮我算咖啡亭预算。先看低销量时要备多少钱、最低可用现金及缺口。分清利润、提款后现金和回本；提醒我税款、VAT、工资和押金有哪些假设，以及签约前要问清什么。只做计划，不联系供应商、不申请、不付款、不发布。",
+   "phases": [
+    {
+     "title": "查英国最低工资、税费和刷卡手续费规则，定下清楚的测算假设",
+     "note": "2027 年 4 月起的最低工资、雇主成本、增值税和刷卡费"
+    },
+    {
+     "title": "搭好用公式驱动的预算表和三种销量情景",
+     "note": "开业前花费、12 个月利润和现金，以及曼彻斯特的食品登记、街头经营、营业房产税、保险和养老金规则",
+     "judgment": "它没有因为咖啡亭在私人土地上，就默认可以免受街头经营管理。许可费的 500 英镑预留金明确标成没有来源的占位数，并注明曼彻斯特公布的费用可能是 720 英镑；选址性质也留作待确认的问题。"
+    },
+    {
+     "title": "重新计算、试改数据，交付摘要和来源",
+     "judgment": "一位独立同事在表格里找出三处真问题：单位被显示成英镑、平均客单价被按月份加总、需求为零时盈亏平衡显示成每天 0 杯。三处都已改正并重新测试，需求为零时现在显示“无法实现”；最后一轮跑了 226 项核对，公式零错误。"
+    }
+   ],
+   "workers": [
+    "查英国和曼彻斯特对小型固定咖啡亭的官方规定：食品登记、街头经营、营业房产税、保险、带薪假、养老金和雇主成本",
+    "独立复核做好的表格：沿着公式和假设逐项追下去，并试了需求为零等极端情况"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/government/publications/minimum-wage-rates-for-2027": "2027 年最低工资标准（英国政府网）",
+    "https://squareup.com/gb/en/hardware/reader": "Square 刷卡器价格（英国）",
+    "https://www.gov.uk/how-vat-works/vat-thresholds": "增值税起征门槛（英国政府网）",
+    "https://www.gov.uk/national-minimum-wage-rates": "全国最低工资标准（英国政府网）",
+    "https://www.food.gov.uk/business-guidance/register-a-food-business": "食品经营者登记（食品标准局）",
+    "https://www.gov.uk/business-rates-relief/small-business-rate-relief": "小企业营业房产税减免",
+    "https://www.manchester.gov.uk/online-directories/licences-and-permissions-directories/licensing/markets-and-street-trading/street-trader-licence-and-consent": "曼彻斯特街头商贩许可与同意",
+    "https://www.gov.uk/employers-liability-insurance": "雇主责任保险（英国政府网）"
+   }
+  }
+ }
+}

@@ -1,6 +1,7 @@
 import { defineConfig, envField } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import fs from "node:fs";
+import remarkCjkFriendly from "remark-cjk-friendly";
 
 // Scenario indexes are real pages only for English, Chinese and locales that have at least one translated
 // guide. Every other locale index is a localized shell over the English guides (canonical -> English), so it
@@ -38,6 +39,9 @@ export default defineConfig({
       seg ? `/${seg}/scenarios` : "/scenarios"
     ])
   ),
+  // CommonMark drops **bold** whose closing ** sits after CJK punctuation and before a CJK letter
+  // (e.g. "…$1,788。**但…"); this plugin applies the CJK-friendly flanking rules.
+  markdown: { remarkPlugins: [remarkCjkFriendly] },
   output: "static",
   trailingSlash: "ignore",
   vite: {

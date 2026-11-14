@@ -1,0 +1,194 @@
+{
+ "slug": "niseko-hong-kong-family-ski-week",
+ "startedAt": "2026-11-06",
+ "activeSec": 2450,
+ "stats": {
+  "searches": 62,
+  "pages": 21,
+  "colleagues": 5,
+  "parallel": 4,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 27,
+   "end": 850,
+   "chips": [
+    "https://www.edb.gov.hk/attachment/en/curriculum-development/resource-support/guidelines-sch-calendar/Example_school%20calendar_2627_E.pdf",
+    "https://www.annupuri.info/en/lift-tickets/",
+    "https://nbsjapan.com/wp-content/uploads/2026/06/Updated-NISEKO-NBS-PRICE-PACK-26-27.pdf",
+    "https://hanazononiseko.com/en/winter/ski-school/group",
+    "https://hanazononiseko.com/en/winter/activities/tube-park"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 850,
+   "end": 2223,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 5,
+     "minutes": 15,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2223,
+   "end": 2335,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own family, dates and budget, and get the same costed ski-week plan",
+   "runTitle": "Hong Kong family of four, 6 nights in Niseko on HK$60,000 including flights",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "6 nights in Niseko during the Hong Kong school Lunar New Year break, February 2027"
+    },
+    {
+     "key": "party",
+     "label": "Adults and children’s ages",
+     "value": "2 adults, children aged 7 and 11"
+    },
+    {
+     "key": "experience",
+     "label": "Ski experience and lesson language",
+     "value": "All beginners except one adult who skis a little"
+    },
+    {
+     "key": "budget",
+     "label": "Total budget and reserve",
+     "value": "HKD 60,000 including flights"
+    },
+    {
+     "key": "needs",
+     "label": "Room, baggage and meal needs",
+     "value": "Baggage for ski gear"
+    }
+   ],
+   "template": "Help us plan Niseko from Hong Kong for {dates}, {party}, {experience}, {budget} and {needs}. Separate confirmed quotes from allowances. Match flights, family beds, lessons, passes, transfers and ski insurance before recommending commitments. Ask before contacting anyone or making a booking.",
+   "phases": [
+    {
+     "title": "Look up school holiday dates, flights, transfers, lodging and ski costs from public sources",
+     "note": "Lodging, flights and transfers, and ski costs researched side by side",
+     "judgment": "It did not pretend to have quotes it never found: there is no fare for the target week and no confirmed available family room for those exact dates, so the later-February fares are labelled as comparisons, not quotes."
+    },
+    {
+     "title": "Build a saving budget and a comfortable one, then write the page and sources",
+     "note": "Budgets in HKD with every calculation shown",
+     "judgment": "The independent check caught a flaw: the saving plan returned rented outerwear before the tubing day. Fixing it moved the totals to HK$66,279 (saving plan, still over the HK$60,000 cap) and HK$59,849 (strict compromise, leaving HK$151 under the cap)."
+    },
+    {
+     "title": "Open the page at desktop and phone width and check the arithmetic again"
+    }
+   ],
+   "workers": [
+    "Looked for real Niseko lodging with published family prices, bed set-ups and booking and cancellation terms",
+    "Checked flights from Hong Kong, ski-gear baggage rules, how to get from the airport to Niseko, and Japan entry and insurance",
+    "Collected this season’s lift pass, kids’ and adult lesson, rental and tubing prices and the peak-date rules",
+    "Cleaned up the wording of the page and source notes without changing a single number",
+    "Recalculated every budget line from the raw figures, independently of whoever built the budget"
+   ],
+   "chipNames": {
+    "https://www.edb.gov.hk/attachment/en/curriculum-development/resource-support/guidelines-sch-calendar/Example_school%20calendar_2627_E.pdf": "Hong Kong EDB example school calendar 2026/27",
+    "https://www.annupuri.info/en/lift-tickets/": "Annupuri lift ticket prices",
+    "https://nbsjapan.com/wp-content/uploads/2026/06/Updated-NISEKO-NBS-PRICE-PACK-26-27.pdf": "NBS ski school 2026/27 price pack",
+    "https://hanazononiseko.com/en/winter/ski-school/group": "Hanazono ski school group lessons",
+    "https://hanazononiseko.com/en/winter/activities/tube-park": "Hanazono tubing park"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的家庭、日期和预算，得到同样带价钱的滑雪周计划",
+   "runTitle": "香港四口之家，预算 6 万港元（含机票），二世古 6 晚",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 2 月香港学校农历新年假期，二世古 6 晚"
+    },
+    {
+     "key": "party",
+     "label": "成人和儿童年龄",
+     "value": "2 位成人，孩子 7 岁和 11 岁"
+    },
+    {
+     "key": "experience",
+     "label": "滑雪经验及教学语言",
+     "value": "全家都是初学者，只有一位成人会一点滑雪"
+    },
+    {
+     "key": "budget",
+     "label": "总预算和应急金",
+     "value": "6 万港元（含机票）"
+    },
+    {
+     "key": "needs",
+     "label": "房间、行李和餐饮需要",
+     "value": "要带滑雪装备的行李"
+    }
+   ],
+   "template": "请帮我们安排从香港出发的二世古旅行：{dates}、{party}、{experience}、{budget}、{needs}。把已确认报价与预留款分开。推荐付款前，请把航班、全家床位、课程、雪票、接送和滑雪保险配好。联系任何人或预订前先问我。",
+   "phases": [
+    {
+     "title": "从公开来源查学校假期日期、机票、接送、住宿和滑雪费用",
+     "note": "住宿、机票接送、滑雪费用三条线同时调研",
+     "judgment": "没找到的报价它没有硬编：目标那一周没有机票价格，也没有确认能订的家庭房，所以 2 月下旬的机票只当“参照”，不当“报价”。"
+    },
+    {
+     "title": "做出“省钱版”和“舒适版”两份预算，写成页面和来源说明",
+     "note": "全部以港元计价，每一步计算都列出",
+     "judgment": "独立复核发现了一处漏洞：省钱方案在玩雪圈那天之前就还了租来的外套。修正后，省钱版总价为 HK$66,279（仍超出 6 万港元上限），严格压缩版为 HK$59,849（在 6 万港元上限下只剩 HK$151）。"
+    },
+    {
+     "title": "用电脑和手机宽度打开页面，再核对一遍算术"
+    }
+   ],
+   "workers": [
+    "查找二世古的真实住宿，记下公布的家庭价格、床位配置和预订与取消条款",
+    "查香港出发的航班、滑雪装备行李规定、机场到二世古的交通，以及入境和保险",
+    "整理本雪季的雪票、儿童与成人课程、租装备和玩雪圈价格，以及旺季日期规则",
+    "整理页面和来源说明的措辞，一个数字都不动",
+    "从原始数字出发重算每一行预算，独立于做预算的人"
+   ],
+   "chipNames": {
+    "https://www.edb.gov.hk/attachment/en/curriculum-development/resource-support/guidelines-sch-calendar/Example_school%20calendar_2627_E.pdf": "香港教育局 2026/27 学校日历示例",
+    "https://www.annupuri.info/en/lift-tickets/": "安努普利雪票价格",
+    "https://nbsjapan.com/wp-content/uploads/2026/06/Updated-NISEKO-NBS-PRICE-PACK-26-27.pdf": "NBS 滑雪学校 2026/27 价目册",
+    "https://hanazononiseko.com/en/winter/ski-school/group": "花园滑雪学校团体课",
+    "https://hanazononiseko.com/en/winter/activities/tube-park": "花园玩雪圈乐园"
+   }
+  }
+ }
+}

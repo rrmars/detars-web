@@ -1,0 +1,137 @@
+{
+ "slug": "local-meeting-notes-mac-hands-on-test",
+ "startedAt": "2026-11-07",
+ "activeSec": 3092,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 52,
+   "end": 699,
+   "chips": [
+    "https://huggingface.co/ggerganov/whisper.cpp/raw/main/README.md",
+    "https://huggingface.co/datasets/CAiRE/ASCEND/raw/main/README.md",
+    "https://huggingface.co/datasets/edinburghcstr/ami/raw/main/README.md",
+    "https://docs.ollama.com/faq",
+    "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/raw/main/README.md"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 699,
+   "end": 2590,
+   "chips": [
+    "https://formulae.brew.sh/api/formula/whisper-cpp.json"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2590,
+   "end": 2999,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Tell it your Mac and your recordings to get a private meeting-notes test plan that checks itself",
+   "runTitle": "Can a free, offline setup on a 16 GB Mac turn confidential meetings into notes? A hands-on test",
+   "fields": [
+    {
+     "key": "mac",
+     "label": "Mac model, memory and macOS",
+     "value": "An Apple-silicon Mac with 16 GB of memory"
+    },
+    {
+     "key": "audio",
+     "label": "Languages, recording length and audio conditions",
+     "value": "English, sometimes mixed with Mandarin; meetings of 30–60 minutes"
+    }
+   ],
+   "template": "Help me plan local transcription on {mac} for {audio}. Start with a short non-confidential sample, separate transcription accuracy from summary quality, and show how I can check names, numbers, decisions and task owners. Explain local storage and network precautions. Ask before installing software, downloading models or sharing any recording.",
+   "phases": [
+    {
+     "title": "Get licensed audio clips and free local models, and write the scoring checklist before testing",
+     "note": "Three licensed clips, three speech-to-text model sizes and one small summary model",
+     "judgment": "A colleague who was never shown any audio or text reviewed only the test code and caught a measurement flaw: the language model’s memory use was being read from the small client program, not the model itself. The guide reports the memory of the whole running setup instead."
+    },
+    {
+     "title": "Run every test one at a time, offline, with memory and swap safeguards",
+     "note": "Speech-to-text on three clips, then the summary model",
+     "judgment": "It graded the summaries against a checklist written before any run, and the small model got 3 out of 5 on the controlled test. The guide says not to rely on it for final action lists."
+    },
+    {
+     "title": "Recompute every number with separate code, and check the guide on desktop and phone",
+     "judgment": "A separate check recomputed the results from the saved outputs: 180 numerical checks matched except two timing gaps of 73 and 97 milliseconds, which are listed openly. The guide’s verdict is that no tested setup is good enough for unattended meeting notes."
+    }
+   ],
+   "workers": [
+    "Reviewed the test method and code, without being given any audio, transcript or summary, and listed what could mislead the results"
+   ],
+   "chipNames": {
+    "https://huggingface.co/ggerganov/whisper.cpp/raw/main/README.md": "whisper.cpp: speech-to-text models and licence",
+    "https://huggingface.co/datasets/CAiRE/ASCEND/raw/main/README.md": "ASCEND: English–Mandarin conversation recordings",
+    "https://huggingface.co/datasets/edinburghcstr/ami/raw/main/README.md": "AMI: English meeting recordings",
+    "https://docs.ollama.com/faq": "Ollama: FAQ on running models locally",
+    "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/raw/main/README.md": "Qwen2.5 1.5B: small local summary model",
+    "https://formulae.brew.sh/api/formula/whisper-cpp.json": "Homebrew: whisper.cpp package"
+   }
+  },
+  "zh": {
+   "askTitle": "告诉它你的 Mac 和录音情况，得到一套会自我核对的私密会议纪要测试方案",
+   "runTitle": "16 GB 的 Mac 上，免费离线方案能把保密会议变成纪要吗?一次实测",
+   "fields": [
+    {
+     "key": "mac",
+     "label": "Mac 型号、内存和 macOS",
+     "value": "苹果芯片 Mac，16 GB 内存"
+    },
+    {
+     "key": "audio",
+     "label": "语言、录音时长和音频条件",
+     "value": "英语，有时夹杂普通话；会议时长 30–60 分钟"
+    }
+   ],
+   "template": "请帮我在 {mac} 上规划 {audio} 的本地转写。先用不涉密的短样本，分开评估转写准确率和摘要质量，说明如何核对姓名、数字、决定和任务负责人。请解释本地存储和联网防护。安装软件、下载模型或分享任何录音前，先征求我的同意。",
+   "phases": [
+    {
+     "title": "找到有授权的录音片段和免费本地模型，并在测试前先写好评分清单",
+     "note": "三段有授权的录音、三种大小的语音转文字模型、一个小型摘要模型",
+     "judgment": "一位没有接触过任何录音和文字的同事只审查了测试代码，指出一个测量缺陷：语言模型的内存占用读的是小小的客户端程序，不是模型本身。指南改为报告整个运行环境的内存。"
+    },
+    {
+     "title": "所有测试逐个离线运行，并设置内存和交换空间保护",
+     "note": "先在三段录音上做语音转文字，再运行摘要模型",
+     "judgment": "它用测试前就写好的清单给摘要打分，小模型在受控测试中只得到 5 分里的 3 分，指南因此提醒不要依赖它生成最终的待办清单。"
+    },
+    {
+     "title": "用独立代码重算每个数字，并检查指南在电脑和手机上的排版",
+     "judgment": "一套单独的核对根据保存的输出重新计算了结果：180 项数字检查除两处分别相差 73 毫秒和 97 毫秒的计时偏差外全部吻合，这两处已公开列出。指南的结论是：没有任何一套测试过的方案好到可以无人值守地做会议纪要。"
+    }
+   ],
+   "workers": [
+    "只审查测试方法和代码，不接触任何录音、转写稿或摘要，列出可能误导结果的地方"
+   ],
+   "chipNames": {
+    "https://huggingface.co/ggerganov/whisper.cpp/raw/main/README.md": "whisper.cpp:语音转文字模型与授权",
+    "https://huggingface.co/datasets/CAiRE/ASCEND/raw/main/README.md": "ASCEND:中英混说对话录音",
+    "https://huggingface.co/datasets/edinburghcstr/ami/raw/main/README.md": "AMI:英语会议录音",
+    "https://docs.ollama.com/faq": "Ollama:本地运行模型的常见问题",
+    "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/raw/main/README.md": "Qwen2.5 1.5B:小型本地摘要模型",
+    "https://formulae.brew.sh/api/formula/whisper-cpp.json": "Homebrew:whisper.cpp 安装包"
+   }
+  }
+ }
+}

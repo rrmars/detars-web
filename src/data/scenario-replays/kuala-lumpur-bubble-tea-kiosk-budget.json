@@ -1,0 +1,228 @@
+{
+ "slug": "kuala-lumpur-bubble-tea-kiosk-budget",
+ "startedAt": "2026-11-06",
+ "activeSec": 6475,
+ "stats": {
+  "searches": 73,
+  "pages": 29,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 4895,
+   "chips": [
+    "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx",
+    "https://www.halal.gov.my/?data=bW9kdWxlcy9jb2xsYXBzaWJsZV9jb250ZW50Ozs7Ow%3D%3D&utama=panduan",
+    "https://www.perkeso.gov.my/en/our-services/employer-employee/contribution-rate.html",
+    "https://www.dbkl.gov.my/jabatan/jabatan-pelesenan-dan-pembangunan-perniagaan",
+    "https://www.mof.gov.my/portal/ms/berita/akhbar/sst-perkhidmatan-sewaan-diturunkan-kepada-6-peratus-pmks-terima-pelepasan-baharu"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 82,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 4895,
+   "end": 5215,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 5215,
+   "end": 5943,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 15,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 5943,
+   "end": 6475,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own kiosk plan and get the same own-brand versus franchise cash test",
+   "runTitle": "Kuala Lumpur: a bubble tea kiosk for two sisters on RM 120,000 of savings",
+   "fields": [
+    {
+     "key": "franchise",
+     "label": "Franchise offer",
+     "value": "A small franchise (no specific offer yet)"
+    },
+    {
+     "key": "site",
+     "label": "KL or PJ site",
+     "value": "A mid-tier shopping mall in Kuala Lumpur or Petaling Jaya"
+    },
+    {
+     "key": "money",
+     "label": "Savings, maximum borrowing and separate personal reserve",
+     "value": "RM 120,000 saved between us; borrow no more than RM 50,000"
+    },
+    {
+     "key": "costs",
+     "label": "All-in rent and opening quotes",
+     "value": "",
+     "placeholder": "e.g. a mall quote of RM 9,000 a month all-in and an RM 60,000 fit-out quote"
+    },
+    {
+     "key": "sales",
+     "label": "Paid sales test and realised ticket",
+     "value": "",
+     "placeholder": "e.g. a 2-week weekend stall: 80 paid cups a day at RM 11.50 each"
+    },
+    {
+     "key": "owner",
+     "label": "Owner hours and required drawings",
+     "value": "",
+     "placeholder": "e.g. both of us on the counter 40 hours a week, taking RM 2,000 each a month"
+    },
+    {
+     "key": "halal",
+     "label": "Halal needs",
+     "value": "",
+     "placeholder": "e.g. certification wanted from opening day, with a Muslim team member on every shift"
+    }
+   ],
+   "template": "Help us compare an own-brand tea kiosk and {franchise} in {site} using {money}, {costs}, {sales}, {owner} and {halal}. Show slow-start cash, break-even and missing costs. Ask before contacting anyone, submitting forms or sharing documents.",
+   "phases": [
+    {
+     "title": "Research Malaysian costs, rules, ingredient prices and franchise packages",
+     "note": "Registration, licences, wages, halal rules, supplier prices and delivery-platform fees",
+     "judgment": "It would not promise halal certification by opening. The current JAKIM manual requires permanent Muslim staff on every shift and three months of operation before a new application, so it warned not to assume certification in April 2027. It also labelled the 30% delivery commission as an assumption, because no current published rate could be confirmed."
+    },
+    {
+     "title": "Pull the research together and recover the missing ingredient prices"
+    },
+    {
+     "title": "Build the recalculating workbook, the plan page and the sources-and-calculations file",
+     "note": "Prices, cups per day, rent and ingredient costs can all be changed",
+     "judgment": "It did not tidy the result into a yes. The own-brand plan dips to RM 27,398 in the slow-start months, below the RM 30,000 reserve target, and the franchise option needs RM 190,000 against a RM 170,000 ceiling, so neither was called ready for a lease."
+    },
+    {
+     "title": "Independently check the arithmetic, recalculate the workbook and view the page on desktop and phone",
+     "judgment": "The independent colleague matched 131 of its own recomputed results, yet still flagged three weak spots: advance rent above one month was not fully credited (RM 5,300 too low), borrowing could pass the RM 50,000 limit without a warning, and a zero pack size silently made an ingredient free. After the fixes, a second pass ran 290 edit-and-recalculate tests that all passed."
+    }
+   ],
+   "workers": [
+    "Checked the official rules for registering the business, council licences, food handling and halal certification",
+    "Looked for dated kiosk rents and deposits in Kuala Lumpur and Petaling Jaya malls, equipment prices and published franchise packages",
+    "Priced tea, milk, pearls, cups and packaging from supplier lists to work out the cost of each drink",
+    "Recomputed the workbook’s numbers on its own and tested it by changing price, cups per day, rent and ingredient costs"
+   ],
+   "chipNames": {
+    "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx": "SSM: company registration fee table",
+    "https://www.halal.gov.my/?data=bW9kdWxlcy9jb2xsYXBzaWJsZV9jb250ZW50Ozs7Ow%3D%3D&utama=panduan": "JAKIM: halal certification guide",
+    "https://www.perkeso.gov.my/en/our-services/employer-employee/contribution-rate.html": "PERKESO: contribution rates",
+    "https://www.dbkl.gov.my/jabatan/jabatan-pelesenan-dan-pembangunan-perniagaan": "Kuala Lumpur City Hall (DBKL): licensing department",
+    "https://www.mof.gov.my/portal/ms/berita/akhbar/sst-perkhidmatan-sewaan-diturunkan-kepada-6-peratus-pmks-terima-pelepasan-baharu": "Ministry of Finance: service tax on rental"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的档口计划，得到同样的自创品牌与加盟现金流测试",
+   "runTitle": "吉隆坡：两姐妹用 12 万令吉积蓄开一个奶茶档口",
+   "fields": [
+    {
+     "key": "franchise",
+     "label": "加盟方案",
+     "value": "一个小型加盟（还没选定具体方案）"
+    },
+    {
+     "key": "site",
+     "label": "吉隆坡或八打灵再也场地",
+     "value": "吉隆坡或八打灵再也的中档购物中心"
+    },
+    {
+     "key": "money",
+     "label": "存款、最高借款及另留个人储备",
+     "value": "两人共有 12 万令吉存款；借款不超过 5 万令吉"
+    },
+    {
+     "key": "costs",
+     "label": "全包租金及开业报价",
+     "value": "",
+     "placeholder": "例如：商场全包月租 9,000 令吉的报价，以及 6 万令吉的装修报价"
+    },
+    {
+     "key": "sales",
+     "label": "付费销量测试及实收价",
+     "value": "",
+     "placeholder": "例如：两周周末摆摊，每天卖出 80 杯，实收每杯 11.5 令吉"
+    },
+    {
+     "key": "owner",
+     "label": "业主工时及所需提款",
+     "value": "",
+     "placeholder": "例如：两人每周各在店里 40 小时，每月各提取 2,000 令吉"
+    },
+    {
+     "key": "halal",
+     "label": "清真需求",
+     "value": "",
+     "placeholder": "例如：希望开业当天就取得认证，每个班次都有穆斯林员工"
+    }
+   ],
+   "template": "请用{money}、{costs}、{sales}、{owner}和{halal}，比较{site}的自创奶茶档口与{franchise}。列出慢热期现金、盈亏平衡和缺失成本。联系他人、提交表格或分享文件前，请先问我。",
+   "phases": [
+    {
+     "title": "调研马来西亚的成本、规定、原料价格和加盟套餐",
+     "note": "注册、牌照、工资、清真规定、供应商价格和外卖平台费用",
+     "judgment": "它不肯承诺开业时就有清真认证。JAKIM 现行手册要求每个班次都有固定的穆斯林员工，并且要先营业三个月才能提交新申请，所以它提醒不要默认 2027 年 4 月就能拿到认证。外卖平台 30% 的佣金也被标明是假设，因为查不到现行的公开费率。"
+    },
+    {
+     "title": "汇总调研结果，补回缺失的原料价格"
+    },
+    {
+     "title": "制作可重新计算的表格、方案页面和来源与计算文件",
+     "note": "售价、日销杯数、租金和原料成本都可以修改",
+     "judgment": "它没有把结果粉饰成“可以”。自创品牌方案在慢热期会降到 27,398 令吉，低于 3 万令吉的储备目标；加盟方案需要 19 万令吉，超出 17 万令吉的上限，所以两个方案都没有被说成可以签租约。"
+    },
+    {
+     "title": "独立核对算术、重新计算表格，并在电脑和手机上查看页面",
+     "judgment": "独立复核的同事重算后有 131 项结果与表格吻合，但仍指出三处隐患：超过一个月的预付租金没有完全计入（少算 5,300 令吉）、借款超过 5 万令吉上限时不会提醒、包装数量填 0 会让原料悄悄变成零成本。修复之后，第二轮做了 290 项修改后重算的测试，全部通过。"
+    }
+   ],
+   "workers": [
+    "核对官方关于公司注册、市政牌照、食品操作和清真认证的规定",
+    "查找吉隆坡和八打灵再也商场档口带日期的租金和押金、设备价格以及公开的加盟套餐",
+    "根据供应商价目表给茶叶、牛奶、珍珠、杯子和包装定价，算出每杯饮品的成本",
+    "独立重算表格里的数字，并通过改动售价、日销杯数、租金和原料成本来测试"
+   ],
+   "chipNames": {
+    "https://www.ssm.com.my/Pages/Services/Registration-of-Company-(ROC)/Table-of-Fees.aspx": "马来西亚公司委员会（SSM）：公司注册费用表",
+    "https://www.halal.gov.my/?data=bW9kdWxlcy9jb2xsYXBzaWJsZV9jb250ZW50Ozs7Ow%3D%3D&utama=panduan": "JAKIM：清真认证指南",
+    "https://www.perkeso.gov.my/en/our-services/employer-employee/contribution-rate.html": "PERKESO：缴费费率",
+    "https://www.dbkl.gov.my/jabatan/jabatan-pelesenan-dan-pembangunan-perniagaan": "吉隆坡市政局（DBKL）：牌照与商业发展部门",
+    "https://www.mof.gov.my/portal/ms/berita/akhbar/sst-perkhidmatan-sewaan-diturunkan-kepada-6-peratus-pmks-terima-pelepasan-baharu": "财政部：租赁服务税"
+   }
+  }
+ }
+}

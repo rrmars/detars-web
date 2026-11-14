@@ -1,0 +1,199 @@
+{
+ "slug": "hanoi-halong-five-day-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1776,
+ "stats": {
+  "searches": 44,
+  "pages": 26,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 46,
+   "end": 544,
+   "chips": [
+    "https://www.peonycruises.com/peony-cruises-2-days-1-night.html",
+    "https://www.orchidcruises.com/schedule/itinerary-2-days-1-night/",
+    "https://www.halongtravelgroup.com/tours/paradise-sails-cruise-2-days-1-night.html",
+    "https://hanoidragonhotel.com/room/deluxe-twin/",
+    "https://evisa.gov.vn/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 544,
+   "end": 1832,
+   "chips": [
+    "https://www.vietnamparadisetravel.com/cruise/peony-cruise",
+    "https://www.vietnamparadisetravel.com/cruise/orchid-cruise",
+    "https://www.orchidcruises.com/ship/orchid-classic/",
+    "https://vietnam.travel/plan-your-trip/visa-requirements/",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates and budget to get a bay-and-city plan with every price dated",
+   "runTitle": "Sydney to northern Vietnam: 5 days around Hanoi and one night on the bay, AUD 900 each",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "5 days, 10–14 April 2027"
+    },
+    {
+     "key": "travellers",
+     "label": "Travellers and passports",
+     "value": "Two friends from Sydney, Australian passports"
+    },
+    {
+     "key": "flights",
+     "label": "Arrival and departure flights",
+     "value": "Arrive Hanoi Saturday 10 April in the morning, leave Wednesday 14 April in the evening"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency, with flight inclusions",
+     "value": "About AUD 900 per person, not counting international flights"
+    },
+    {
+     "key": "beds",
+     "label": "Bed and room needs",
+     "value": "",
+     "placeholder": "e.g. two friends sharing one twin room"
+    },
+    {
+     "key": "needs",
+     "label": "Mobility and dietary needs",
+     "value": "",
+     "placeholder": "e.g. no long stair climbs; one vegetarian"
+    },
+    {
+     "key": "pace",
+     "label": "Preferred pace",
+     "value": "",
+     "placeholder": "e.g. relaxed, one main activity a day"
+    }
+   ],
+   "template": "Plan northern Vietnam for {dates}, {travellers}, {flights}, {budget}, {beds}, {needs} and {pace}. Compare bay routes using dated tariffs and full transfer/tax costs, leave a night back in Hanoi before flying, and make the extra day trip optional. Separate quotes, estimates and unresolved entry or booking checks. Plan only; do not book, contact suppliers, pay or apply.",
+   "phases": [
+    {
+     "title": "Check hotel, cruise, food and Australian entry-rule details against public pages",
+     "note": "Twin-room prices, three overnight cruises, street-food prices and the e-visa rules",
+     "judgment": "The cruise prices turned out to be per cabin for two, not per person, and the booking page contradicted itself on tax. It refused to call the US$300 Peony price all-in."
+    },
+    {
+     "title": "Write the day-by-day plan, a budget that adds up and dated source notes",
+     "note": "Itinerary with transfer times, cost table and a source list with access dates",
+     "judgment": "The budget adds up to AUD 900 per person (AUD 841 planned plus AUD 59 contingency), and the plan says plainly that April availability and final supplier totals are still unconfirmed. Nothing was booked or contacted."
+    }
+   ],
+   "workers": [
+    "Looked up published twin-room prices at two Hanoi hotels, noting tax and breakfast terms, and priced four classic Hanoi food stops",
+    "Compared three overnight cruises, two on Lan Ha Bay and one on Ha Long Bay, on published prices, what is included, pick-up times and which stops they share"
+   ],
+   "chipNames": {
+    "https://www.peonycruises.com/peony-cruises-2-days-1-night.html": "Peony Cruises: itinerary and terms",
+    "https://www.orchidcruises.com/schedule/itinerary-2-days-1-night/": "Orchid Cruises: 2-day itinerary",
+    "https://www.halongtravelgroup.com/tours/paradise-sails-cruise-2-days-1-night.html": "Paradise Sails package (Halong Travel Group)",
+    "https://hanoidragonhotel.com/room/deluxe-twin/": "Dragon Hotel: Deluxe Twin room",
+    "https://evisa.gov.vn/": "Official Vietnam e-visa portal",
+    "https://www.vietnamparadisetravel.com/cruise/peony-cruise": "Peony tariff (Paradise Travel reseller)",
+    "https://www.vietnamparadisetravel.com/cruise/orchid-cruise": "Orchid Classic tariff (Paradise Travel reseller)",
+    "https://www.orchidcruises.com/ship/orchid-classic/": "Orchid Classic ship description",
+    "https://vietnam.travel/plan-your-trip/visa-requirements/": "Vietnam tourism authority: visa requirements",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam": "Smartraveller: Vietnam travel advice"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的日期和预算，拿到一份价格都标明日期的“城市加海湾”行程",
+   "runTitle": "从悉尼出发的越南北部五日：河内加海湾住一晚，每人 AUD 900",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "共 5 天，2027 年 4 月 10 日至 14 日"
+    },
+    {
+     "key": "travellers",
+     "label": "人数与护照",
+     "value": "两位悉尼朋友，持澳大利亚护照"
+    },
+    {
+     "key": "flights",
+     "label": "抵离航班",
+     "value": "4 月 10 日（周六）上午抵达河内，4 月 14 日（周三）晚上离开"
+    },
+    {
+     "key": "budget",
+     "label": "预算币种及机票是否包含",
+     "value": "每人约 AUD 900，不含国际机票"
+    },
+    {
+     "key": "beds",
+     "label": "床型与房间需要",
+     "value": "",
+     "placeholder": "例如：两人合住一间双床房"
+    },
+    {
+     "key": "needs",
+     "label": "行动及饮食需要",
+     "value": "",
+     "placeholder": "例如：不想爬太多台阶；其中一人吃素"
+    },
+    {
+     "key": "pace",
+     "label": "喜欢的节奏",
+     "value": "",
+     "placeholder": "例如：轻松一点，每天一个主要活动"
+    }
+   ],
+   "template": "请规划越南北部旅行：{dates}、{travellers}、{flights}、{budget}、{beds}、{needs}、{pace}。用有日期的价表和完整接送、税费比较海湾航线，搭飞机前先回河内住一晚，额外一日游保持可选。区分报价、估算、尚未解决的入境和预订核对事项。只做计划，不预订、不联系供应商、不付款、不申请。",
+   "phases": [
+    {
+     "title": "对照公开网页核对酒店、游船、餐饮和澳洲护照入境规定",
+     "note": "双床房价格、三条过夜游船、街头美食价格和电子签证规定",
+     "judgment": "游船价格其实是每间舱房两人的价，不是每人价，预订页的税费说法也前后矛盾，所以它没有把 Peony 的 US$300 当成全包价。"
+    },
+    {
+     "title": "写出逐日行程、能算得拢的预算和带日期的来源说明",
+     "note": "含接送时间的行程、费用表和注明查阅日期的来源清单",
+     "judgment": "预算合计为每人 AUD 900（计划 AUD 841 加备用金 AUD 59）；方案里也直说四月的空位和最终供应商总价尚未确认，没有预订，也没有联系任何人。"
+    }
+   ],
+   "workers": [
+    "查了两家河内酒店公开的双床房价格，注明税费和早餐条件，并给四处河内经典小吃估了价",
+    "比较三条过夜游船：兰夏湾两条、下龙湾一条，看公开价格、含哪些项目、接送时间和停靠点是否重叠"
+   ],
+   "chipNames": {
+    "https://www.peonycruises.com/peony-cruises-2-days-1-night.html": "Peony 游船：行程与条款",
+    "https://www.orchidcruises.com/schedule/itinerary-2-days-1-night/": "Orchid 游船：两天行程",
+    "https://www.halongtravelgroup.com/tours/paradise-sails-cruise-2-days-1-night.html": "Paradise Sails 套餐（Halong Travel Group）",
+    "https://hanoidragonhotel.com/room/deluxe-twin/": "Dragon 酒店：豪华双床房",
+    "https://evisa.gov.vn/": "越南官方电子签证网站",
+    "https://www.vietnamparadisetravel.com/cruise/peony-cruise": "Peony 价表（Paradise Travel 代理）",
+    "https://www.vietnamparadisetravel.com/cruise/orchid-cruise": "Orchid Classic 价表（Paradise Travel 代理）",
+    "https://www.orchidcruises.com/ship/orchid-classic/": "Orchid Classic 船只介绍",
+    "https://vietnam.travel/plan-your-trip/visa-requirements/": "越南旅游局：签证要求",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam": "澳洲 Smartraveller：越南旅行提示"
+   }
+  }
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "slug": "mexico-city-month-brazilian-remote-couple",
+ "startedAt": "2026-11-07",
+ "activeSec": 1519,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 26,
+   "end": 459,
+   "chips": [
+    "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf",
+    "https://embamex.sre.gob.mx/brasil/index.php/embajada/54-actosnotariales/481-visas2026",
+    "https://www.latamairlines.com/br/pt/destinos/mexico",
+    "https://www.latamairlines.com/br/pt/destinos/mexico/voos-para-cidade-do-mexico",
+    "https://www.att.com.mx/planes/prepago/att-go/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 459,
+   "end": 912,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 912,
+   "end": 1397,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 8,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own trip and test a Mexico City working month against your budget cap",
+   "runTitle": "São Paulo to Mexico City: a Brazilian remote-working couple, one month in March 2027, BRL 22,000",
+   "fields": [
+    {
+     "key": "travel",
+     "label": "Travel dates and GRU flight totals",
+     "value": "March 2027, flying from São Paulo (GRU)"
+    },
+    {
+     "key": "passports",
+     "label": "Each passport and qualifying visa or residence documents",
+     "value": "Both Brazilian nationals"
+    },
+    {
+     "key": "duties",
+     "label": "Actual duties, employer approval and entry-classification advice",
+     "value": "Both remote software workers paid in BRL, working Brazil hours"
+    },
+    {
+     "key": "apartment",
+     "label": "All-in apartment offers, deposit and cancellation terms",
+     "value": "",
+     "placeholder": "e.g. furnished 1-bedroom in Roma, MXN 30,000 a month, one month’s deposit, free cancellation up to 14 days before"
+    },
+    {
+     "key": "workspace",
+     "label": "Two-person internet and workstation needs",
+     "value": "Reliable internet and a dedicated desk in the apartment"
+    },
+    {
+     "key": "fx",
+     "label": "Payment-method effective FX",
+     "value": "",
+     "placeholder": "e.g. card at BRL 0.29 per MXN after fees"
+    }
+   ],
+   "template": "Help us test a Mexico City working month using {travel}, {passports}, {duties}, {apartment}, {workspace} and {fx}. Keep the BRL 22,000 cap, show the weaker-real and higher-rent cases, and tell us what must change before we commit. Ask before contacting anyone, applying, booking or sharing personal documents.",
+   "phases": [
+    {
+     "title": "Read the official entry rules and gather flight, rent, phone and transport prices",
+     "note": "Entry rules, apartment examples, flights, connectivity and safety guidance",
+     "judgment": "It would not call remote work cleared. Mexico’s visitor guidance recognises some foreign-paid business activities, but the explicit permission to work for a foreign salary it found belongs to temporary residence, not the electronic visa, so the guide leaves that question open."
+    },
+    {
+     "title": "Write the guide with a month budget in pesos and reais, and a claim-by-claim source list",
+     "note": "Neighbourhood comparison, entry checklist, budget table, weaker-real and higher-rent cases",
+     "judgment": "The answer is “not yet”. The conditional budget fits at BRL 21,136.36, but swapping in the real Roma apartment example it found pushes the total to BRL 22,984.85, over the BRL 22,000 cap."
+    },
+    {
+     "title": "Independent check of every number, plus desktop and phone layout tests",
+     "judgment": "The independent colleague confirmed the arithmetic, then said plainly what that does not prove: a passing sum is not trip readiness. It also noted the airline example could not be reproduced independently, so that evidence stays limited."
+    }
+   ],
+   "workers": [
+    "Read Mexican and Brazilian government pages on entry for Brazilians, including the electronic visa, length of stay and remote-work guidance",
+    "Gathered public prices for flights from São Paulo, the BRL/MXN rate, mobile data and transport, plus guidance on water, altitude and earthquakes",
+    "Found dated one-month furnished apartment examples in Roma, Condesa and other neighbourhoods, and read their terms",
+    "Recomputed every money figure on its own and checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://consulmex.sre.gob.mx/saopaulo/images/visaelectronica/guia_visa_electronica_v260210.pdf": "Official Mexican electronic visa guide for Brazilians",
+    "https://embamex.sre.gob.mx/brasil/index.php/embajada/54-actosnotariales/481-visas2026": "Mexican embassy in Brazil: 2026 visa information",
+    "https://www.latamairlines.com/br/pt/destinos/mexico": "LATAM: flights to Mexico (advertised return example)",
+    "https://www.latamairlines.com/br/pt/destinos/mexico/voos-para-cidade-do-mexico": "LATAM: flights to Mexico City (March page)",
+    "https://www.att.com.mx/planes/prepago/att-go/": "AT&T Mexico: Go prepaid plans"
+   }
+  }
+ }
+}

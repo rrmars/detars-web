@@ -1,0 +1,146 @@
+{
+ "slug": "hanoi-couple-japan-student-vs-ssw-budgets-and-repayment",
+ "startedAt": "2026-11-07",
+ "activeSec": 897,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 301,
+   "chips": [
+    "https://www.moj.go.jp/isa/03_00176.html",
+    "https://www.moj.go.jp/isa/applications/ssw/index.html",
+    "https://www.moj.go.jp/isa/applications/status/gijinkoku.html",
+    "https://www.naganuma-school.ac.jp/courses/fees.html",
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219490&classid=1&orggroupid=1"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 301,
+   "end": 612,
+   "chips": [
+    "https://arc.ac.jp/Tokyo/admission/schoolexpense202604/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 612,
+   "end": 897,
+   "chips": [
+    "https://www.moj.go.jp/isa/policies/ssw/faq.html",
+    "https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own savings, loan, qualification and partner’s Japanese level to compare a language school with going straight to skilled work",
+   "runTitle": "A Hanoi couple choosing between a Japanese language school and skilled-worker jobs, with budgets and loan repayment",
+   "fields": [
+    {
+     "key": "who",
+     "label": "Who is going",
+     "value": "a married couple: Huy (24) and Lan (23)"
+    },
+    {
+     "key": "city",
+     "label": "City you live in",
+     "value": "Hanoi"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "VND 180 million"
+    },
+    {
+     "key": "loan",
+     "label": "Possible family loan",
+     "value": "up to VND 250 million"
+    },
+    {
+     "key": "credential",
+     "label": "Your diploma and field",
+     "value": "IT college diploma, Japanese at JLPT N5 (Huy)"
+    },
+    {
+     "key": "partner_japanese",
+     "label": "Partner’s Japanese level",
+     "value": "no Japanese (Lan)"
+    },
+    {
+     "key": "contract",
+     "label": "Contract length",
+     "value": "",
+     "placeholder": "e.g. a 3-year contract"
+    }
+   ],
+   "template": "Help me compare a Japanese language school with going straight to Specified Skilled Worker (i) for {who}, who live in {city}. We have {savings} and a possible family loan of {loan}. My credential is {credential}, and my partner's Japanese is {partner_japanese}. Rebuild the upfront budget and the repayment timeline with my own pay, living-cost and exchange-rate assumptions, show the fee against the Vietnamese cap for {contract}, check any agency quote I paste in for debt-bondage warning signs, and mark anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Three colleagues research in parallel: the language-school route, the skilled-worker route, and Vietnamese fee and debt rules",
+     "note": "Japanese immigration and labour pages, school fee pages, Vietnamese law texts and exchange rates",
+     "judgment": "It corrected the premise it was handed: food service, one of the fields the agencies were pitching, is closed to new entrants. Japan stopped issuing eligibility certificates for it on 13 April 2026, and the Vietnam skills test stopped taking bookings on 6 April."
+    },
+    {
+     "title": "Write the guide: a recommendation for each of them, a path comparison, the spouse question, and budgets with repayment timelines",
+     "note": "Both paths costed in yen and dong, with what-if-it-fails",
+     "judgment": "It refused to assume Huy’s diploma counts as a degree: no official text says a Vietnamese three-year college diploma qualifies, so he is steered to skilled work unless he can prove an eligible credential first. Its own pay and living-cost numbers are labelled as assumptions."
+    },
+    {
+     "title": "Independent check of every money figure and every claim against the source list, then layout checks and fixes",
+     "judgment": "The independent reviewer failed the guide narrowly: every money figure recomputed correctly, but the loan payoff for the faster route was written as early-to-mid 2028 when the reviewer’s own calculation gave late 2027 to early 2028. The guide was corrected, and its closing note says the second pass was a rerun by the lead, not a new reviewer."
+    }
+   ],
+   "workers": [
+    "Looked into the language-school route: student visa rules, part-time limits, example school fees and the switch to an engineer visa",
+    "Looked into the skilled-worker route: open fields, test fees and dates in Vietnam, whether a spouse can come, and the new training system",
+    "Looked into Vietnamese rules on sending-agency fees, agency price examples, warning signs of debt bondage and the exchange rate",
+    "Independent check: recomputed every money figure and compared the claims with the source list"
+   ],
+   "chipNames": {
+    "https://www.moj.go.jp/isa/03_00176.html": "Immigration Services Agency: food-service intake halted",
+    "https://www.moj.go.jp/isa/applications/ssw/index.html": "Immigration Services Agency: skilled worker overview",
+    "https://www.moj.go.jp/isa/applications/status/gijinkoku.html": "Immigration Services Agency: engineer and humanities status",
+    "https://www.naganuma-school.ac.jp/courses/fees.html": "Naganuma language school: course fees",
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219490&classid=1&orggroupid=1": "Vietnamese government legal portal",
+    "https://arc.ac.jp/Tokyo/admission/schoolexpense202604/": "ARC Tokyo language school: fees from April 2026",
+    "https://www.moj.go.jp/isa/policies/ssw/faq.html": "Skilled worker FAQ: family accompaniment",
+    "https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html": "Employment for Skill Development: FAQ"
+   }
+  }
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "slug": "wedding-budget-100-guests-austin",
+ "startedAt": "2026-11-05",
+ "activeSec": 2198,
+ "stats": {
+  "searches": 27,
+  "pages": 31,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 39,
+   "end": 1259,
+   "chips": [
+    "https://www.caminorealranch.com/pricing",
+    "https://www.caminorealranch.com/hourly-bar",
+    "https://www.tuscanhall.com/rates/",
+    "https://www.henryselis.com/wedding-pricing/",
+    "https://idjevents.com/pricing"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1259,
+   "end": 1813,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1813,
+   "end": 1997,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own date, guest count and cap to get a wedding budget that tracks who paid what",
+   "runTitle": "Austin, October 2027: about 100 guests on a USD 35,000 budget with parents contributing",
+   "fields": [
+    {
+     "key": "date",
+     "label": "Wedding date",
+     "value": "October 2027, Austin, Texas"
+    },
+    {
+     "key": "guests",
+     "label": "Guest count",
+     "value": "About 100 guests"
+    },
+    {
+     "key": "cap",
+     "label": "Currency and cap",
+     "value": "USD 35,000 in total, part of it from the parents"
+    }
+   ],
+   "template": "Plan my wedding budget for {date}, {guests} and {cap}. Separate family promises, received gifts, direct vendor payments, final bills and paid installments. Use dated prices, label estimates and show tax, staffing, delivery, minimums and cancellation terms. Compare guest counts and weekdays only for costs not yet contracted. Keep a reserve, avoid counting deposits twice, distinguish service charges from tips and flag cash shortfalls. Do not contact, book, pay or publish anything.",
+   "phases": [
+    {
+     "title": "Read Austin vendors’ published prices and record each source",
+     "note": "Venue, catering, bar, rentals, cake, photography, flowers, music, coordinator, invitations",
+     "judgment": "It did not trust stale numbers. The venue’s own pricing page shows $6,000 on a Friday and $7,000 on a Saturday for 2027, not the $4,700 and $5,500 in cached search results, and where the venue’s two bar price lists disagreed ($3.25 and $3.50 per guest per hour) it flagged the cheaper one as unsettled."
+    },
+    {
+     "title": "Build the budget workbook, contribution tracking, payment timeline and one-page guide",
+     "note": "20 categories, who-pays-what, deposits and due dates, six guest-count and weekday scenarios",
+     "judgment": "The independent reviewer found a flaw that normal testing misses: a payment entered without a payer route could silently drop out of the cash-flow view (December spending understated by $100 in its test). The workbook then got a check that flags any such row."
+    },
+    {
+     "title": "Recalculate, test and check the layout"
+    }
+   ],
+   "workers": [
+    "Read Austin venue, catering, bar, rental and cake price pages directly from the vendors, noting the price date and what each price excludes",
+    "Read vendor price pages for photography, attire, flowers, DJ, month-of coordinator and invitations",
+    "Independently audited the finished workbook’s formulas and numbers, and tested it by entering changes"
+   ],
+   "chipNames": {
+    "https://www.caminorealranch.com/pricing": "Camino Real Ranch: 2027 venue pricing",
+    "https://www.caminorealranch.com/hourly-bar": "Camino Real Ranch: hourly bar prices",
+    "https://www.tuscanhall.com/rates/": "Tuscan Hall: venue rates",
+    "https://www.henryselis.com/wedding-pricing/": "Henry Selis Photography: wedding pricing",
+    "https://idjevents.com/pricing": "iDJ Events: DJ pricing"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的日期、宾客人数和预算上限，就能得到一份记清谁付了什么的婚礼预算",
+   "runTitle": "奥斯汀，2027 年 10 月：约 100 位宾客，总预算 35,000 美元，父母出一部分",
+   "fields": [
+    {
+     "key": "date",
+     "label": "婚礼日期",
+     "value": "2027 年 10 月，美国得州奥斯汀"
+    },
+    {
+     "key": "guests",
+     "label": "宾客人数",
+     "value": "约 100 位"
+    },
+    {
+     "key": "cap",
+     "label": "币种和总上限",
+     "value": "总共 35,000 美元，其中一部分由父母出"
+    }
+   ],
+   "template": "请帮我安排{date}、{guests}、{cap}的婚礼预算。分清家庭承诺、已收赠款、供应商直接付款、最终账单和已付分期。采用有日期的价格，标明估算，列出税、人员、配送、最低收费和取消条款。只对尚未签约的费用比较人数和星期变化。单留备用金，避免重复算定金，区分服务费和小费，并标记现金不足。不要联系、预订、付款或发布任何内容。",
+   "phases": [
+    {
+     "title": "查阅奥斯汀商家公布的价格，并记录每个来源",
+     "note": "场地、餐饮、酒水、租赁、蛋糕、摄影、鲜花、音乐、统筹、请柬",
+     "judgment": "它没有轻信过时数字：场地官网上 2027 年周五是 6,000 美元、周六是 7,000 美元，而不是缓存搜索结果里的 4,700 和 5,500；场地两份酒水价目互相矛盾（每位每小时 3.25 与 3.50 美元）时，它把较便宜的数字标为未定。"
+    },
+    {
+     "title": "搭建预算表、出资记录、付款时间线和一页指南",
+     "note": "20 个类别、谁付什么、定金与到期日、六种人数和星期的情景",
+     "judgment": "独立复核发现了常规测试发现不了的缺陷：录入付款时如果没填付款途径，这笔钱会悄悄从现金流里消失（它的测试里 12 月支出少算了 100 美元）。之后表格加了检查，凡是这样的行都会被标出来。"
+    },
+    {
+     "title": "重新计算、测试并检查版面"
+    }
+   ],
+   "workers": [
+    "直接查阅奥斯汀场地、餐饮、酒水、租赁和蛋糕商家的价目页，记下价格日期和不含的项目",
+    "查阅摄影、礼服、鲜花、DJ、当天统筹和请柬商家的价目页",
+    "独立审查成品表格的公式和数字，并通过实际改动来测试"
+   ],
+   "chipNames": {
+    "https://www.caminorealranch.com/pricing": "Camino Real Ranch:2027 年场地价格",
+    "https://www.caminorealranch.com/hourly-bar": "Camino Real Ranch:按小时计的酒水价格",
+    "https://www.tuscanhall.com/rates/": "Tuscan Hall:场地价格",
+    "https://www.henryselis.com/wedding-pricing/": "Henry Selis 摄影:婚礼摄影价格",
+    "https://idjevents.com/pricing": "iDJ Events:DJ 价格"
+   }
+  }
+ }
+}

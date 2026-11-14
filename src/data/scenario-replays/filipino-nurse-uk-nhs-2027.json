@@ -1,0 +1,148 @@
+{
+ "slug": "filipino-nurse-uk-nhs-2027",
+ "startedAt": "2026-11-07",
+ "activeSec": 4782,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 20,
+   "end": 308,
+   "chips": [
+    "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/check-ready/costs/",
+    "https://www.gov.uk/health-care-worker-visa/how-much-it-costs",
+    "https://www.nhsemployers.org/articles/pay-scales-202627",
+    "https://www.nhsemployers.org/publications/repayment-clauses-guidance-0",
+    "https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-the-philippines/tuberculosis-testing-in-the-philippines"
+   ],
+   "workers": []
+  },
+  {
+   "start": 308,
+   "end": 4481,
+   "chips": [
+    "https://philippines.iom.int/manila-health-center",
+    "https://www.nmc.org.uk/news/news-and-updates/nmc-approves-first-increase-in-registration-fees-for-11-years/",
+    "https://dmw.gov.ph/archives/services/workers/Professional_Checklist.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 33,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 4481,
+   "end": 4645,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own nursing route and get the same costed plan, from NMC fees to the family-later budget",
+   "runTitle": "Cebu to NHS England: a registered nurse with 4 years on the ward and PHP 350,000, aiming to start around September 2027",
+   "fields": [
+    {
+     "key": "qualification",
+     "label": "Qualification and PRC status",
+     "value": "Registered nurse in Cebu with 4 years of ward experience"
+    },
+    {
+     "key": "english",
+     "label": "English scores and test dates",
+     "value": "",
+     "placeholder": "e.g. IELTS Academic booked for March 2027"
+    },
+    {
+     "key": "cbt",
+     "label": "CBT / NMC stage",
+     "value": "",
+     "placeholder": "e.g. qualification evaluation submitted, CBT not yet booked"
+    },
+    {
+     "key": "start",
+     "label": "Target registered-start date",
+     "value": "Around September 2027"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "PHP 350,000"
+    },
+    {
+     "key": "offer",
+     "label": "Written trust offer and repayment terms",
+     "value": "",
+     "placeholder": "e.g. offer letter with a 2-year repayment clause"
+    },
+    {
+     "key": "prepay",
+     "label": "Who prepays each cost",
+     "value": "",
+     "placeholder": "e.g. trust pays the visa and flight; I pay the NMC fees"
+    },
+    {
+     "key": "route",
+     "label": "Philippine deployment route",
+     "value": "",
+     "placeholder": "e.g. direct hire with a UK trust"
+    },
+    {
+     "key": "family",
+     "label": "Family ages and joining plans",
+     "value": "Nobody at first; her husband and child might join later"
+    }
+   ],
+   "template": "Help me plan a Philippine-to-NHS England move using {qualification}, {english}, {cbt}, {start}, {savings}, {offer}, {prepay}, {route} and {family}. Compare upfront cash with reimbursement, protect maintenance evidence, check the registration and sponsorship clocks, and show a delayed-start and family-later budget. Flag unconfirmed requirements. Ask before contacting anyone, applying, booking or sharing documents.",
+   "phases": [
+    {
+     "title": "Read the official NMC, GOV.UK, NHS Employers and Philippine pages on registration, visa and pay"
+    },
+    {
+     "title": "Build the costed guide: who pays what, first-year pay and a family-later budget",
+     "judgment": "Two traps were avoided: the registration fees come from the dated 1 October 2026 page (GBP 1,226 in total), not from older pages that still show GBP 140 and GBP 153; and the guide declines to promise settlement in September 2032, because the settlement rules are being changed."
+    },
+    {
+     "title": "Recheck every figure with a separate calculation, test desktop and phone layouts, and deliver",
+     "judgment": "The recheck caught two rounding slips in the pay table and fixed them; all 70 checks then passed. The independent reviewer was interrupted, so the guide says plainly that no outside review is claimed, and lists the Philippine departure paperwork as still unconfirmed."
+    }
+   ],
+   "workers": [
+    "Read the NMC pages on the registration steps, fees, timing and the English test options and scores",
+    "Read the official visa rules: fees, the maintenance funds rule, family joining later, the TB test and what trusts may charge back",
+    "Assigned an independent recomputation of every money figure; this review was interrupted, so a separate scripted check covered the arithmetic instead"
+   ],
+   "chipNames": {
+    "https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/check-ready/costs/": "NMC: costs of overseas registration",
+    "https://www.gov.uk/health-care-worker-visa/how-much-it-costs": "GOV.UK: Health and Care Worker visa costs",
+    "https://www.nhsemployers.org/articles/pay-scales-202627": "NHS Employers: 2026/27 pay scales",
+    "https://www.nhsemployers.org/publications/repayment-clauses-guidance-0": "NHS Employers: repayment clauses guidance",
+    "https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-the-philippines/tuberculosis-testing-in-the-philippines": "GOV.UK: TB testing in the Philippines",
+    "https://philippines.iom.int/manila-health-center": "IOM Manila Health Assessment Centre",
+    "https://www.nmc.org.uk/news/news-and-updates/nmc-approves-first-increase-in-registration-fees-for-11-years/": "NMC: first registration fee increase in 11 years",
+    "https://dmw.gov.ph/archives/services/workers/Professional_Checklist.pdf": "Philippine DMW: professional workers checklist"
+   }
+  }
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "slug": "thailand-dtv-vs-ltr-german-freelancer",
+ "startedAt": "2026-11-07",
+ "activeSec": 3716,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 46,
+   "end": 1954,
+   "chips": [
+    "https://ltr.boi.go.th/",
+    "https://www.rd.go.th/english/37749.html",
+    "https://frankfurt.thaiembassy.org/de/page/destination-thailand-visa",
+    "https://www.gesetze-im-internet.de/estg/__1.html",
+    "https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/entsendung-ins-ausland/selbststaendige/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 24,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 30,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1954,
+   "end": 3107,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 3107,
+   "end": 3560,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 9,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates, income and insurance and get the same DTV-versus-LTR comparison before you commit to Thailand",
+   "runTitle": "Berlin to Chiang Mai: a German freelance designer choosing between two Thai long-stay visas",
+   "fields": [
+    {
+     "key": "profession",
+     "label": "Profession",
+     "value": "UX designer"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival date in Chiang Mai",
+     "value": "",
+     "placeholder": "e.g. January 2027"
+    },
+    {
+     "key": "departure",
+     "label": "Planned departure date",
+     "value": "",
+     "placeholder": "e.g. December 2027"
+    },
+    {
+     "key": "later",
+     "label": "Possible later extension",
+     "value": "2028"
+    },
+    {
+     "key": "amount",
+     "label": "Yearly amount (EUR)",
+     "value": "70,000"
+    },
+    {
+     "key": "incomeType",
+     "label": "Is that turnover, profit or personal income?",
+     "value": "",
+     "placeholder": "e.g. profit before tax"
+    },
+    {
+     "key": "savings",
+     "label": "Savings history",
+     "value": "",
+     "placeholder": "e.g. 6 months of statements, about €25,000"
+    },
+    {
+     "key": "clients",
+     "label": "Clients and IP arrangements",
+     "value": "EU clients"
+    },
+    {
+     "key": "home",
+     "label": "German home or business access",
+     "value": "",
+     "placeholder": "e.g. keeping my Berlin flat, sublet while away"
+    },
+    {
+     "key": "insurance",
+     "label": "Insurance (GKV / PKV / KSK) and policy",
+     "value": "",
+     "placeholder": "e.g. GKV with a private travel add-on"
+    }
+   ],
+   "template": "I’m a German freelance {profession} planning Chiang Mai from {arrival} to {departure}, possibly through {later}. My €{amount} is {incomeType}, savings history is {savings}, clients/IP arrangements are {clients}, German home/business access is {home}, and insurance is {insurance}. Help me organise a DTV document timeline, separate calendar-year day counts and the questions for my German–Thai tax adviser and insurer.",
+   "phases": [
+    {
+     "title": "Read Thai visa and tax rules and German residency and insurance rules from official sources",
+     "note": "Thai visa and tax rules on one side, German residency, treaty and health insurance on the other",
+     "judgment": "It would not let a client’s location decide where income is taxed: design work done in Chiang Mai is ordinarily Thai-source income even for EU clients. And where it could not retrieve the official Germany–Thailand treaty, it marked those points “unconfirmed pending official reread”."
+    },
+    {
+     "title": "Write the guide, with the comparison table, cost table and a source list",
+     "note": "Recommendation first, then costs in THB and EUR with the arithmetic shown"
+    },
+    {
+     "title": "Independent check of every claim and number, plus desktop and phone layout tests",
+     "judgment": "An independent colleague checked 47 claims; all 31 money figures and date calculations passed. It also flagged an inconsistent wording about subsidiary ownership on the Thai investment board’s page, rather than letting it through."
+    }
+   ],
+   "workers": [
+    "Read Thailand’s tax rules for a freelancer living in Chiang Mai, including the Long-Term Resident visa and tax-treaty provisions",
+    "Checked German tax residency, the Germany–Thailand tax treaty and health insurance rules for someone who keeps or gives up a German address",
+    "Read the finished guide against its source list, recomputed every money figure and rule claim on their own"
+   ],
+   "chipNames": {
+    "https://ltr.boi.go.th/": "Thailand BOI Long-Term Resident visa site",
+    "https://www.rd.go.th/english/37749.html": "Thai Revenue Department: tax for foreigners",
+    "https://frankfurt.thaiembassy.org/de/page/destination-thailand-visa": "Thai Embassy Frankfurt: Destination Thailand Visa",
+    "https://www.gesetze-im-internet.de/estg/__1.html": "German Income Tax Act §1",
+    "https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/entsendung-ins-ausland/selbststaendige/": "DVKA: self-employed working abroad"
+   }
+  }
+ }
+}

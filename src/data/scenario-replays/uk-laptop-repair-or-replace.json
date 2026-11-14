@@ -1,0 +1,130 @@
+{
+ "slug": "uk-laptop-repair-or-replace",
+ "startedAt": "2026-11-05",
+ "activeSec": 2643,
+ "stats": {
+  "searches": 54,
+  "pages": 44,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 16,
+   "end": 1917,
+   "chips": [
+    "https://www.gov.uk/expenses-if-youre-self-employed/office-property",
+    "https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-system-requirements",
+    "https://www.pudseycomputers.co.uk/services/repair-workshop",
+    "https://hardvance.co.uk/p/pny-cs900-ssd7cs900-500-rb-500gb-2-5-inch-ssd-sata-3-interface-read-450mb-s-write-320mb-s-3-year-warranty/",
+    "https://laptopbitz.co.uk/product/genuine-dell-battery-tnt6h/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 26,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 29,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1917,
+   "end": 2252,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2252,
+   "end": 2551,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own laptop and budget and get the same repair-or-replace comparison",
+   "runTitle": "Leeds: repair or replace a 6-year-old laptop within GBP 700",
+   "fields": [
+    {
+     "key": "laptop",
+     "label": "Exact laptop model, processor and symptoms",
+     "value": "A 6-year-old Windows laptop that is slow and has a weak battery (model not known yet)"
+    },
+    {
+     "key": "postcode",
+     "label": "UK postcode",
+     "value": "Leeds"
+    },
+    {
+     "key": "date",
+     "label": "Decision date",
+     "value": "By January 2027"
+    },
+    {
+     "key": "budget",
+     "label": "All-in budget",
+     "value": "GBP 700 ceiling"
+    },
+    {
+     "key": "apps",
+     "label": "Apps and workload",
+     "value": "Bookkeeping, invoices, video calls and light photo editing for social posts"
+    },
+    {
+     "key": "battery",
+     "label": "Battery life and portability",
+     "value": "",
+     "placeholder": "e.g. 6+ hours away from a desk, under 1.6 kg"
+    },
+    {
+     "key": "checks",
+     "label": "Windows compatibility result, storage used and repair quote",
+     "value": "",
+     "placeholder": "e.g. passes the Windows 11 check, 180 GB used, a shop quote of £150"
+    }
+   ],
+   "template": "Compare repairing my {laptop} with replacing it in {postcode} by {date}, within {budget}. I use {apps}, need {battery}, and have {checks}. Separate parts, labour, delivery, migration, backup and secure disposal; flag missing battery, charger and warranty details. Plan only; do not contact shops or buy anything.",
+   "phases": [
+    {
+     "title": "Research UK repair prices, current laptop listings and official guidance",
+     "note": "Parts and labour prices, laptops on sale, Windows support and tax basics",
+     "judgment": "It would not promise a full-day battery for the refurbished ThinkPad: the 8h58 figure came from a review of a different, higher-spec version, so the guide tells you to check battery condition."
+    },
+    {
+     "title": "Write the guide and dated source notes with a practical recommendation"
+    },
+    {
+     "title": "Check the sources, the sums and the page layout, then deliver",
+     "judgment": "The independent reviewer caught that a fifth option, a Dell laptop, came to GBP 729 once backup and wiping allowances were added, and that was before its charger. It was taken off the shortlist rather than shown as a qualifying choice."
+    }
+   ],
+   "workers": [
+    "Priced the repair path: a 500GB SSD, DDR4 laptop memory, battery examples and independent shop labour in Leeds",
+    "Looked for laptops on sale in the UK under GBP 700 and checked their specs and original battery reviews",
+    "Reviewed the finished guide and source notes on its own against the original question, checking the prices, sums and battery claims"
+   ],
+   "chipNames": {
+    "https://www.gov.uk/expenses-if-youre-self-employed/office-property": "HMRC: self-employed office, property and equipment expenses",
+    "https://support.microsoft.com/en-us/windows/experience/compatibility/windows-11-system-requirements": "Microsoft: Windows 11 system requirements",
+    "https://www.pudseycomputers.co.uk/services/repair-workshop": "Pudsey Computers: repair workshop prices",
+    "https://hardvance.co.uk/p/pny-cs900-ssd7cs900-500-rb-500gb-2-5-inch-ssd-sata-3-interface-read-450mb-s-write-320mb-s-3-year-warranty/": "Hardvance: PNY CS900 500GB SSD",
+    "https://laptopbitz.co.uk/product/genuine-dell-battery-tnt6h/": "Laptopbitz: genuine Dell battery"
+   }
+  }
+ }
+}

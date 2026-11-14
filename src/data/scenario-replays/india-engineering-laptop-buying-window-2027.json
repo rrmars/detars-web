@@ -1,0 +1,133 @@
+{
+ "slug": "india-engineering-laptop-buying-window-2027",
+ "startedAt": "2026-11-07",
+ "activeSec": 1638,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 522,
+   "chips": [
+    "https://www.ansys.com/academic/students/ansys-student",
+    "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-Fusion-360.html",
+    "https://store.lenovo.com/in/en/nb-loq-15iax9-i5-16g-512g-11s-83gs000pin-1017.html",
+    "https://store.acer.com/en-in/offer-terms-conditions-in",
+    "https://www.croma.com/hp-gaming-laptops/bc/b-0161-806"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 522,
+   "end": 1115,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1115,
+   "end": 1489,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 9,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own course, budget and software and get the same laptop price check before you buy",
+   "runTitle": "A Pune family's first-year laptop: ₹85,000 for four years of SolidWorks, MATLAB and Python",
+   "fields": [
+    {
+     "key": "course",
+     "label": "College and mechanical-engineering course",
+     "value": "B.Tech in mechanical engineering, first year"
+    },
+    {
+     "key": "start",
+     "label": "Start date",
+     "value": "July 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Hard all-in budget",
+     "value": "₹85,000 maximum, including accessories and extended warranty"
+    },
+    {
+     "key": "commute",
+     "label": "Commute",
+     "value": "Two-wheeler commute"
+    },
+    {
+     "key": "software",
+     "label": "Required software and releases",
+     "value": "SolidWorks or Fusion 360, MATLAB, some Python and occasional ANSYS student work"
+    },
+    {
+     "key": "entitlements",
+     "label": "College application and Windows entitlements",
+     "value": "",
+     "placeholder": "e.g. whether the college supplies a Windows licence or software access"
+    }
+   ],
+   "template": "Help me choose a laptop for {course}, starting {start}, with a hard all-in budget of {budget} and a {commute}. In June–early July 2027, reprice ASUS TUF FA506NCG-HN200WS first and Lenovo LOQ 15IAX9 83GS000PIN as a conditional backup, alongside suitable contemporary exact SKUs. Check {software}, {entitlements}, 16 GB RAM and a documented 32 GB upgrade route. Include a supported OS, eligible warranty/ADP, accessories, taxes and delivery in the upfront total. Keep dated examples separate from confirmed offers, do not assume cashback or certification, and ask before contacting a seller, submitting verification or buying anything.",
+   "phases": [
+    {
+     "title": "Read the software makers' requirements and collect dated Indian laptop prices, warranty terms and offers",
+     "note": "Software requirements, exact models with prices, warranty and offers",
+     "judgment": "It flagged a catch many buying lists miss: SolidWorks' published requirements exclude Windows Home, so a gaming laptop that ships with Home cannot be called fully supported, whatever its graphics card."
+    },
+    {
+     "title": "Write the guide and compare the total cost of each model, with the arithmetic shown",
+     "note": "Total cost with warranty and extras, and whether to buy now or wait",
+     "judgment": "It declined to give a confident buy-now answer: no fully supported, fully protected set-up under ₹85,000 could be established. It advises waiting until June–early July 2027 and treats every price as a dated example, not an offer."
+    },
+    {
+     "title": "Independent audit of every figure, plus desktop and phone layout tests",
+     "judgment": "The independent colleague recomputed every money figure and found no arithmetic errors, but also found three statements in the guide that the source list did not support. They were repaired and checked again."
+    }
+   ],
+   "workers": [
+    "Read the published system requirements for SolidWorks, Fusion, MATLAB and Ansys Student",
+    "Found exact laptop models sold in India and noted their dated prices from official stores and major retailers",
+    "Checked extended-warranty and accidental-damage costs and the student and bank offers that appear for four brands",
+    "Recomputed every money figure independently and checked each claim in the guide against its sources"
+   ],
+   "chipNames": {
+    "https://www.ansys.com/academic/students/ansys-student": "Ansys Student: what the free version includes",
+    "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-Fusion-360.html": "Autodesk: Fusion system requirements",
+    "https://store.lenovo.com/in/en/nb-loq-15iax9-i5-16g-512g-11s-83gs000pin-1017.html": "Lenovo India store: LOQ 15IAX9 listing",
+    "https://store.acer.com/en-in/offer-terms-conditions-in": "Acer India store: offer terms",
+    "https://www.croma.com/hp-gaming-laptops/bc/b-0161-806": "Croma: HP gaming laptop listings"
+   }
+  }
+ }
+}

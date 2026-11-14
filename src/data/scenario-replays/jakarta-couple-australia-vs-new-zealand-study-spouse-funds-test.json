@@ -1,0 +1,136 @@
+{
+ "slug": "jakarta-couple-australia-vs-new-zealand-study-spouse-funds-test",
+ "startedAt": "2026-11-07",
+ "activeSec": 1579,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 4,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 315,
+   "chips": [
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+    "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+    "https://study.uq.edu.au/study-options/programs/master-data-science-5660",
+    "https://www.businessmasters.auckland.ac.nz/programme-information/master-of-professional-accounting/",
+    "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 315,
+   "end": 716,
+   "chips": [
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/visa-processing-priorities/student-visa",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work",
+    "https://immi.homeaffairs.gov.au/visas/visa-pricing-estimator?visa=500",
+    "https://www.education.gov.au/managed-system-international-education/announcements/national-planning-level-2027-announced",
+    "https://www.studyaustralia.gov.au/en/plan-your-move/bringing-your-family"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 716,
+   "end": 1579,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own numbers and rebuild the Australia versus New Zealand funds test for a master’s with a working spouse",
+   "runTitle": "Jakarta to Australia or New Zealand: a master’s for her, work rights for him, on IDR 650 million",
+   "fields": [
+    {
+     "key": "countryA",
+     "label": "Country A",
+     "value": "Australia"
+    },
+    {
+     "key": "countryB",
+     "label": "Country B",
+     "value": "New Zealand"
+    },
+    {
+     "key": "savings",
+     "label": "Savings in IDR",
+     "value": "IDR 650 million"
+    },
+    {
+     "key": "programme",
+     "label": "Programme and university",
+     "value": "A 2-year master’s in accounting or data analytics, starting in 2027"
+    },
+    {
+     "key": "partner",
+     "label": "Partner’s age, job and English level",
+     "value": "30, mechanical technician, IELTS 5.5"
+    }
+   ],
+   "template": "Help me compare {countryA} and {countryB} for a master's with a working spouse. I have {savings}, my programme options are {programme}, and my partner is {partner}. Rebuild the visa funds test, the two-year budget and the partner work-rights comparison with my numbers, mark anything unconfirmed or assumed, and show how much funding I still need to find with and without my partner's income. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official visa, funds and exchange-rate pages in both countries",
+     "judgment": "It kept unconfirmed figures labelled as unconfirmed. The New Zealand partner-visa fee and processing time had no official figure, so they were left open rather than guessed, and a law firm’s living-cost numbers were flagged as the first thing to verify."
+    },
+    {
+     "title": "Write the guide with tuition, rent and a two-year budget in dollars and rupiah",
+     "judgment": "It caught a rule change that shapes the whole plan: since 2 October 2026 an Australian student-visa applicant cannot bring a spouse unless an exemption applies, and Indonesia is on the ASEAN exemption list. Because the official pages do not define “eligible”, it marked this to be checked with a registered migration agent or Home Affairs."
+    },
+    {
+     "title": "Check every money figure and source, and re-run the check after the last edit",
+     "judgment": "After the final edit the check was run again: 0 mismatches across 60 money figures. Fees beyond one Brisbane university, Melbourne rents and priced listings stay marked “not found” instead of being filled in."
+    }
+   ],
+   "workers": [
+    "Read New Zealand’s student visa, partner work visa and post-study work visa pages, plus the minimum wage",
+    "Pulled central-bank exchange rates, income tax tables, minimum and award wages, and public transport fares for both countries",
+    "Read Australia’s student visa rules: spouse inclusion, funds, fees, processing, work rights and the post-study graduate visa",
+    "Collected dated tuition fees for two-year master’s programmes and official rent figures for Brisbane, Auckland, Wellington and Melbourne"
+   ],
+   "chipNames": {
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500": "Australian Home Affairs: Student visa (subclass 500)",
+    "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/": "Immigration New Zealand: partner of a student work visa",
+    "https://study.uq.edu.au/study-options/programs/master-data-science-5660": "University of Queensland: Master of Data Science",
+    "https://www.businessmasters.auckland.ac.nz/programme-information/master-of-professional-accounting/": "University of Auckland: Master of Professional Accounting",
+    "https://www.rba.gov.au/statistics/frequency/exchange-rates.html": "Reserve Bank of Australia: exchange rates",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/visa-processing-priorities/student-visa": "Home Affairs: student visa processing priorities",
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work": "Home Affairs: Temporary Graduate visa (485), post-higher-education work",
+    "https://immi.homeaffairs.gov.au/visas/visa-pricing-estimator?visa=500": "Home Affairs: visa pricing estimator",
+    "https://www.education.gov.au/managed-system-international-education/announcements/national-planning-level-2027-announced": "Department of Education: 2027 national planning level",
+    "https://www.studyaustralia.gov.au/en/plan-your-move/bringing-your-family": "Study Australia: bringing your family"
+   }
+  }
+ }
+}

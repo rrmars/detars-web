@@ -1,0 +1,229 @@
+{
+ "slug": "taipei-move-hong-kong-family-residence-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 2823,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 24,
+   "end": 1210,
+   "chips": [
+    "https://goldcard.nat.gov.tw/en/qualification/field-of-digital/",
+    "https://goldcard.nat.gov.tw/en/faq/how-do-my-spouse-and-children-from-hong-kong-or-macao-apply-for-residency-in-taiwan/",
+    "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030295",
+    "https://rate.bot.com.tw/xrt/quote/ltm/HKD/spot/1",
+    "https://talent.nat.gov.tw/en/life/guide-to-preschools-in-taipei-options-and-enrollment"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 23,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1210,
+   "end": 2151,
+   "chips": [
+    "https://kid-online.tp.edu.tw/Files/%E8%87%BA%E5%8C%97%E5%B8%82115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E9%9D%9E%E7%87%9F%E5%88%A9%E5%B9%BC%E5%85%92%E5%9C%92%E6%9A%A8%E6%95%99%E4%BF%9D%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%8B%9B%E7%94%9F%E7%B0%A1%E7%AB%A0.pdf",
+    "https://kid.whole-heart.com.tw/parent/1151%E5%85%A8%E5%BF%83%E5%B9%BC%E5%85%92%E5%9C%92%E6%94%B6%E9%80%80%E8%B2%BB%E5%9F%BA%E6%BA%96%E8%A1%A8-3308.html"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2151,
+   "end": 2659,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 9,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "zh": {
+   "askTitle": "换成你们的身份、收入和孩子情况，去台湾的居留路线和单收入预算就按你们的情况重排",
+   "runTitle": "香港夫妇带 2 岁女儿 2027 年中搬台北：他远程工作月薪 48,000 港元，她是护士，储蓄 120 万港元",
+   "fields": [
+    {
+     "key": "date",
+     "label": "日期",
+     "value": "2027 年中"
+    },
+    {
+     "key": "status",
+     "label": "资料",
+     "value": "一对三十代中的香港夫妇，带一个 2 岁的女儿"
+    },
+    {
+     "key": "duties",
+     "label": "资料",
+     "value": "他是 UX 设计师，为香港雇主远程工作，月薪 48,000 港元"
+    },
+    {
+     "key": "nursing",
+     "label": "资料",
+     "value": "她是注册护士"
+    },
+    {
+     "key": "birthday",
+     "label": "日期",
+     "value": "",
+     "placeholder": "例如：孩子 2025 年 3 月出生"
+    },
+    {
+     "key": "savings",
+     "label": "金额",
+     "value": "储蓄 120 万港元"
+    },
+    {
+     "key": "home",
+     "label": "住处及照顾需要",
+     "value": "",
+     "placeholder": "例如：在大安、中山或内湖租两房，女儿读公立幼儿园"
+    },
+    {
+     "key": "fx",
+     "label": "汇率及每月预算",
+     "value": "",
+     "placeholder": "例如：1 港元兑 4 新台币，每月预算 17 万新台币"
+    }
+   ],
+   "template": "帮我们这个香港家庭规划{date}搬到台湾的居留和单收入预算。护照及身份是{status}，数位职责和税前薪资证明{duties}，护理学历及临床纪录{nursing}，孩子生日{birthday}，储蓄及保留备用金{savings}。先评估数位金卡，再安排港澳家属居留，并行评估她的专业资格居留，只把台湾雇主就业当后备。比较{home}，确认工作、健保和入学缺口，并在不计护理收入及补助下压力测试{fx}。联系他人、分享文件、申请或付款前，先问我。",
+   "phases": [
+    {
+     "title": "查港澳居民适用的居留路线、健保、护理执业、幼儿园和租房资料",
+     "note": "数位金卡、港澳家属居留、全民健保、护理师考试、台北公私立幼儿园费用和租房例子",
+     "judgment": "它没有把“够格”当成理所当然：月薪 48,000 港元只是在汇率不低于约 3.33 新台币兑 1 港元时，数字上才达到金卡 16 万新台币的薪资门槛，还要看数位职责和薪资证明；也不能承诺金卡能直接换永久居留；至于配偶能否在台工作，官方一般规定查到了，但对“港澳身份配偶”是否适用没查实，就如实写明不确定，没有硬套。"
+    },
+    {
+     "title": "写有出处的英文指南，做可重算的预算",
+     "note": "推荐路线先后顺序、居留路线对比表，以及每月约 175,600 新台币（约 43,900 港元）的预算，汇率按 4.00 假设"
+    },
+    {
+     "title": "独立核对算术和说法，测电脑和手机版式",
+     "judgment": "独立复核的同事把预算、汇率换算、租金、储备和税的算术都重算了一遍，没有数字要改，并列出还没落实的缺口。指南里还主动写明一处违规：部分公开网页是经一个已有的浏览器窗口读取的，违反了“只用干净浏览环境”的要求，如实披露，没有说自己合规。"
+    }
+   ],
+   "workers": [
+    "读台湾移民署、陆委会和数位金卡的官方规定，整理港澳家庭适用的居留路线、文件和时限",
+    "查全民健保的投保资格、保费和等待期，以及香港注册护士能否在台考照",
+    "查台北市官方的幼儿园入学资格和收费，并记录四个带日期的租房例子",
+    "独立复核：重算每个金额，对照来源清单检查指南里的说法"
+   ],
+   "chipNames": {
+    "https://goldcard.nat.gov.tw/en/qualification/field-of-digital/": "数位金卡：数位领域资格",
+    "https://goldcard.nat.gov.tw/en/faq/how-do-my-spouse-and-children-from-hong-kong-or-macao-apply-for-residency-in-taiwan/": "数位金卡：港澳配偶与子女如何申请居留",
+    "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030295": "外国专业人才延攬及僱用法（全国法规数据库）",
+    "https://rate.bot.com.tw/xrt/quote/ltm/HKD/spot/1": "台湾银行：港币汇率",
+    "https://talent.nat.gov.tw/en/life/guide-to-preschools-in-taipei-options-and-enrollment": "台湾人才入口：台北幼儿园选择与报名指南",
+    "https://kid-online.tp.edu.tw/Files/%E8%87%BA%E5%8C%97%E5%B8%82115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E9%9D%9E%E7%87%9F%E5%88%A9%E5%B9%BC%E5%85%92%E5%9C%92%E6%9A%A8%E6%95%99%E4%BF%9D%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%8B%9B%E7%94%9F%E7%B0%A1%E7%AB%A0.pdf": "台北市 115 学年度非营利幼儿园招生简章（PDF）",
+    "https://kid.whole-heart.com.tw/parent/1151%E5%85%A8%E5%BF%83%E5%B9%BC%E5%85%92%E5%9C%92%E6%94%B6%E9%80%80%E8%B2%BB%E5%9F%BA%E6%BA%96%E8%A1%A8-3308.html": "全心幼儿园：收退费基准表"
+   }
+  },
+  "en": {
+   "askTitle": "Swap in your own status, income and child details and the Taiwan residence route and one-income budget are re-planned for you",
+   "runTitle": "A Hong Kong couple with a 2-year-old moving to Taipei in mid-2027: he works remotely on HKD 48,000 a month, she is a nurse, HKD 1.2 million in savings",
+   "fields": [
+    {
+     "key": "date",
+     "label": "date",
+     "value": "mid-2027"
+    },
+    {
+     "key": "status",
+     "label": "details",
+     "value": "A Hong Kong couple in their mid-30s with a 2-year-old daughter"
+    },
+    {
+     "key": "duties",
+     "label": "details",
+     "value": "He is a UX designer working remotely for a Hong Kong employer at HKD 48,000 a month"
+    },
+    {
+     "key": "nursing",
+     "label": "details",
+     "value": "She is a registered nurse"
+    },
+    {
+     "key": "birthday",
+     "label": "date",
+     "value": "",
+     "placeholder": "e.g. born March 2025"
+    },
+    {
+     "key": "savings",
+     "label": "amounts",
+     "value": "HKD 1.2 million in savings"
+    },
+    {
+     "key": "home",
+     "label": "home/childcare needs",
+     "value": "",
+     "placeholder": "e.g. a 2-bedroom in Da’an, Zhongshan or Neihu, daughter in public preschool"
+    },
+    {
+     "key": "fx",
+     "label": "FX and monthly budget",
+     "value": "",
+     "placeholder": "e.g. TWD 4.0 per HKD and a TWD 170,000 monthly budget"
+    }
+   ],
+   "template": "Help our Hong Kong family plan Taiwan residence and a one-income move for {date}. Our passports/status are {status}, digital duties and gross salary evidence {duties}, nursing education/clinical records {nursing}, child's birthday {birthday}, savings and protected reserve {savings}. Assess Digital Gold Card first, HK-family residence next, her professional-residence route in parallel and Taiwan employment only as fallback. Compare {home}, confirm work/NHI/admission gaps, and stress-test {fx} without nursing income or subsidies. Ask before contacting anyone, sharing documents, applying or paying.",
+   "phases": [
+    {
+     "title": "Research residence routes for Hong Kong residents, health insurance, nursing licensing, preschool and rent",
+     "note": "Digital Gold Card, Hong Kong-family residence, National Health Insurance, the nursing exam, Taipei preschool fees and rental examples",
+     "judgment": "It did not treat eligibility as a given: HKD 48,000 a month clears the Gold Card’s NT$160,000 salary bar only if the exchange rate is at least about 3.33 TWD per HKD, and digital duties and salary evidence still matter; it also would not promise permanent residence from a Gold Card; and for spouse work rights it found the general rule but could not confirm it applies to a Hong Kong-status spouse, so it states the uncertainty rather than assuming."
+    },
+    {
+     "title": "Write a sourced English guide and a recomputable budget",
+     "note": "Route order, a residence comparison table and a monthly budget of about TWD 175,600 (about HKD 43,900) at an assumed 4.00 rate"
+    },
+    {
+     "title": "Independently verify the arithmetic and claims, and test desktop and phone layout",
+     "judgment": "The independent colleague recomputed the budget, currency conversion, rent, reserve and tax arithmetic: nothing needed changing, and the remaining gaps were listed. The guide also owns up to a breach of its own rules: some public pages were read through a browser window that already existed, against the instruction to use only a fresh, signed-out browser, and this is disclosed rather than presented as compliant."
+    }
+   ],
+   "workers": [
+    "Read Taiwan’s immigration, Mainland Affairs Council and Gold Card rules to map the residence routes, documents and timelines for a Hong Kong family",
+    "Checked National Health Insurance eligibility, premiums and waiting periods, and whether a Hong Kong registered nurse can sit the Taiwan exam",
+    "Checked official Taipei preschool admission rules and fees, and logged four dated rental examples",
+    "Independent check: recomputed every money figure and tested the guide’s claims against the source list"
+   ],
+   "chipNames": {
+    "https://goldcard.nat.gov.tw/en/qualification/field-of-digital/": "Digital Gold Card: digital field qualification",
+    "https://goldcard.nat.gov.tw/en/faq/how-do-my-spouse-and-children-from-hong-kong-or-macao-apply-for-residency-in-taiwan/": "Gold Card FAQ: Hong Kong and Macao spouse and children residency",
+    "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030295": "Act for the Recruitment and Employment of Foreign Professionals (law database)",
+    "https://rate.bot.com.tw/xrt/quote/ltm/HKD/spot/1": "Bank of Taiwan: HKD exchange rates",
+    "https://talent.nat.gov.tw/en/life/guide-to-preschools-in-taipei-options-and-enrollment": "Taiwan talent portal: guide to Taipei preschools",
+    "https://kid-online.tp.edu.tw/Files/%E8%87%BA%E5%8C%97%E5%B8%82115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E9%9D%9E%E7%87%9F%E5%88%A9%E5%B9%BC%E5%85%92%E5%9C%92%E6%9A%A8%E6%95%99%E4%BF%9D%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E6%8B%9B%E7%94%9F%E7%B0%A1%E7%AB%A0.pdf": "Taipei City 2026/27 non-profit preschool admission brochure (PDF)",
+    "https://kid.whole-heart.com.tw/parent/1151%E5%85%A8%E5%BF%83%E5%B9%BC%E5%85%92%E5%9C%92%E6%94%B6%E9%80%80%E8%B2%BB%E5%9F%BA%E6%BA%96%E8%A1%A8-3308.html": "Whole Heart Kindergarten: fee schedule"
+   }
+  }
+ }
+}

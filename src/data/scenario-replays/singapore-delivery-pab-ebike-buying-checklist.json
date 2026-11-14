@@ -1,0 +1,232 @@
+{
+ "slug": "singapore-delivery-pab-ebike-buying-checklist",
+ "startedAt": "2026-11-07",
+ "activeSec": 3197,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 49,
+   "end": 1001,
+   "chips": [
+    "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/PAB/List_of_Approved_PAB_Models.pdf",
+    "https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/vehicle-types-and-registrations/active-mobility-devices/PAB.html",
+    "https://www.mha.gov.sg/media-room/newsroom/guidance-for-public-on-storage-and-charging-of-lithium-ion-batteries-in-personal-mobility-devices/",
+    "https://www.grab.com/sg/driver/finance/insurance/free-insurance/",
+    "https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-a-platform-worker"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1001,
+   "end": 1527,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1527,
+   "end": 1833,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2010,
+   "end": 2825,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 28,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2825,
+   "end": 2943,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2943,
+   "end": 3131,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own rides, budget and bike offer to test whether a delivery PAB pays back",
+   "runTitle": "Woodlands, Singapore: a PR delivering 35 hours a week weighs a power-assisted bicycle on SGD 1,500",
+   "fields": [
+    {
+     "key": "platform",
+     "label": "Platform and status",
+     "value": "Singapore PR, aged 42, delivering food on a regular bicycle from Woodlands"
+    },
+    {
+     "key": "routes",
+     "label": "Routes and longest shift distance",
+     "value": "",
+     "placeholder": "e.g. Woodlands to Yishun, longest shift about 60 km"
+    },
+    {
+     "key": "budget",
+     "label": "All-in budget",
+     "value": "SGD 1,500 including accessories"
+    },
+    {
+     "key": "model",
+     "label": "Exact model and battery offer",
+     "value": "",
+     "placeholder": "e.g. a S$1,299 model with a 48V 10Ah battery"
+    },
+    {
+     "key": "charging",
+     "label": "Charging and storage setup",
+     "value": "",
+     "placeholder": "e.g. charge indoors at home, bike kept inside the flat"
+    },
+    {
+     "key": "earnings",
+     "label": "Online hours, payouts, expenses and CPF status",
+     "value": "About 35 hours a week on delivery"
+    }
+   ],
+   "template": "Help me compare a delivery PAB with keeping my bicycle. My platform and status are {platform}, routes and longest shift distance {routes}, all-in budget {budget}, exact model/battery offer {model}, and charging/storage setup {charging}. Check approval, equipment and insurance gaps, then stress-test payback using my {earnings}. Ask before contacting anyone, sharing documents, buying or applying.",
+   "phases": [
+    {
+     "title": "Read the current rules, platform insurance and earnings evidence, and find real bike listings",
+     "note": "LTA rules and approved list, platform rider pages, insurance, CPF, five retailer listings",
+     "judgment": "It would not invent an earnings gain. The only earnings sources it found, a 2022 research paper and a dated 2026 Grab sign-up offer, do not show a lasting pay uplift from a power-assisted bike, and a platform insurance page it could only see as a search snippet was marked unconfirmed."
+    },
+    {
+     "title": "Write the guide with the budget and payback calculations",
+     "note": "Recommendation first, rules checklist, five models, insurance comparison, payback table"
+    },
+    {
+     "title": "Independent check of claims and arithmetic, plus desktop and phone layout"
+    },
+    {
+     "title": "Fill the gaps the check found: riding conduct rules and penalties",
+     "judgment": "The independent check found the rules checklist was missing things a rider needs: riding single file, bicycle lanes and what to do after an accident on a path. It added them with four penalty examples taken from LTA, and the check then confirmed each example matches the source table."
+    },
+    {
+     "title": "Re-run the arithmetic, consistency and layout checks"
+    },
+    {
+     "title": "Update the independent check with what is resolved and what remains open",
+     "note": "Open items stay listed: exact-unit approval, insurance, accessory costs"
+    }
+   ],
+   "workers": [
+    "Read the delivery platforms’ own rider rules and insurance pages, the CPF position for a PR, and dated public earnings evidence",
+    "Found five retailer-listed power-assisted bicycles with dated prices and battery range, and checked them against the official LTA approved list",
+    "Independently recomputed every money figure and checked the guide against its sources; flagged missing riding rules, then rechecked after the fix"
+   ],
+   "chipNames": {
+    "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/PAB/List_of_Approved_PAB_Models.pdf": "LTA: list of approved PAB models",
+    "https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/vehicle-types-and-registrations/active-mobility-devices/PAB.html": "OneMotoring: power-assisted bicycles",
+    "https://www.mha.gov.sg/media-room/newsroom/guidance-for-public-on-storage-and-charging-of-lithium-ion-batteries-in-personal-mobility-devices/": "Ministry of Home Affairs: charging and storing lithium batteries",
+    "https://www.grab.com/sg/driver/finance/insurance/free-insurance/": "Grab: free insurance for drivers and riders",
+    "https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-a-platform-worker": "CPF Board: saving as a platform worker"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的路线、预算和车款报价，就能测试送餐用助力自行车值不值得买",
+   "runTitle": "新加坡兀兰：一位永久居民每周送餐 35 小时，在 1,500 新元预算内考虑换助力自行车",
+   "fields": [
+    {
+     "key": "platform",
+     "label": "我的平台及身份",
+     "value": "新加坡永久居民，42 岁，在兀兰骑普通自行车送餐"
+    },
+    {
+     "key": "routes",
+     "label": "路线及最长班次里程",
+     "value": "",
+     "placeholder": "例如：兀兰到义顺，最长一班约 60 公里"
+    },
+    {
+     "key": "budget",
+     "label": "全部预算",
+     "value": "1,500 新元，含配件"
+    },
+    {
+     "key": "model",
+     "label": "具体车型及电池报价",
+     "value": "",
+     "placeholder": "例如：售价 1,299 新元、48V 10Ah 电池的车型"
+    },
+    {
+     "key": "charging",
+     "label": "家中充电收纳条件",
+     "value": "",
+     "placeholder": "例如：在家里室内充电，车放在屋内"
+    },
+    {
+     "key": "earnings",
+     "label": "上线工时、收入、费用及 CPF 状态",
+     "value": "每周送餐约 35 小时"
+    }
+   ],
+   "template": "帮我比较购买送餐 PAB 和保留自行车。我的平台及身份是 {platform}，路线及最长班次里程是 {routes}，全部预算 {budget}，具体车型及电池报价 {model}，家中充电收纳条件 {charging}。先检查批准、装备和保险缺口，再按我的 {earnings} 测试回本。联系他人、分享资料、购买或申请前，请先问我。",
+   "phases": [
+    {
+     "title": "查清现行规定、平台保险和收入证据，并找实际在售的车款",
+     "note": "陆路交通管理局规定和获批清单、平台骑手页面、保险、公积金、五款零售商品",
+     "judgment": "它没有编造收入增长：找到的收入资料只有一份 2022 年研究和 2026 年 Grab 的限期新手奖励，都不能证明助力车会带来持续的增收；某平台的保险页面只看到搜索摘要，因此标为未确认。"
+    },
+    {
+     "title": "写出指南，并附预算和回本计算",
+     "note": "先给建议，再列规定清单、五款车型、保险对比和回本表"
+    },
+    {
+     "title": "独立核对说法和计算，并检查电脑和手机上的版面"
+    },
+    {
+     "title": "补上核对时发现的缺口：骑行规范和罚则",
+     "judgment": "独立复核发现规则清单漏了骑手需要知道的内容：单列行驶、自行车道，以及在路径上发生事故后该怎么做。补充后附上陆路交通管理局公布的四个罚则示例，复核再确认每个示例都与原表一致。"
+    },
+    {
+     "title": "重新核对计算、前后一致性和版面"
+    },
+    {
+     "title": "更新独立核对结果，写明已解决和仍未解决的事项",
+     "note": "仍保留的未决事项：具体车辆是否获批、保险、配件费用"
+    }
+   ],
+   "workers": [
+    "查阅送餐平台自己的骑手规定和保险页面、永久居民的公积金情况，以及有日期的公开收入资料",
+    "找到五款零售商在售的助力自行车，记下带日期的价格和续航，并与陆路交通管理局官方获批清单对照",
+    "独立重算每个金额并对照来源核对指南；指出缺失的骑行规范，修改后再复核"
+   ],
+   "chipNames": {
+    "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/PAB/List_of_Approved_PAB_Models.pdf": "陆路交通管理局:获批助力自行车型号清单",
+    "https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/vehicle-types-and-registrations/active-mobility-devices/PAB.html": "OneMotoring:助力自行车(PAB)",
+    "https://www.mha.gov.sg/media-room/newsroom/guidance-for-public-on-storage-and-charging-of-lithium-ion-batteries-in-personal-mobility-devices/": "内政部:锂电池充电和存放指引",
+    "https://www.grab.com/sg/driver/finance/insurance/free-insurance/": "Grab:司机及骑手免费保险",
+    "https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-a-platform-worker": "公积金局:平台工作者储蓄"
+   }
+  }
+ }
+}

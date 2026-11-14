@@ -1,0 +1,238 @@
+{
+ "slug": "singapore-to-sydney-family-move-plan",
+ "startedAt": "2026-11-05",
+ "activeSec": 1712,
+ "stats": {
+  "searches": 58,
+  "pages": 56,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 29,
+   "end": 365,
+   "chips": [
+    "https://www.abf.gov.au/entering-and-leaving-australia/moving-to-australia/upe",
+    "https://www.nsw.gov.au/education-and-training/primary-and-high-school/starting-primary-school/enrolling-your-child",
+    "https://www.servicesaustralia.gov.au/enrolling-medicare-if-youre-australian-permanent-resident?context=60092",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21)/tax-clearance-for-employees",
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/cancel-a-pass"
+   ],
+   "workers": []
+  },
+  {
+   "start": 365,
+   "end": 1475,
+   "chips": [
+    "https://www.agriculture.gov.au/biosecurity-trade/travelling/moving-immigrating",
+    "https://www.abf.gov.au/form-listing/forms/B534e.pdf",
+    "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/starting-a-residential-tenancy/signing-a-lease-and-moving"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1475,
+   "end": 1646,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own cities, dates, family and shipping plan, and get the same dated move plan",
+   "runTitle": "Family of three, Singapore to Sydney on 1 July 2027: budget, checklist and sources",
+   "fields": [
+    {
+     "key": "departure",
+     "label": "Departure city",
+     "value": "Singapore"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival city",
+     "value": "Sydney"
+    },
+    {
+     "key": "date",
+     "label": "Arrival date",
+     "value": "Main move on 1 July 2027"
+    },
+    {
+     "key": "family",
+     "label": "Family members and ages",
+     "value": "Two adults and one 6-year-old"
+    },
+    {
+     "key": "citizenship",
+     "label": "Citizenships and pass status",
+     "value": "Australian permanent residents"
+    },
+    {
+     "key": "cash",
+     "label": "Available cash and income gap",
+     "value": "",
+     "placeholder": "e.g. S$60,000 saved and a 2-month gap between salaries"
+    },
+    {
+     "key": "notice",
+     "label": "Job and lease notice terms",
+     "value": "",
+     "placeholder": "e.g. 2 months’ notice at work, lease ending 30 June 2027"
+    },
+    {
+     "key": "school",
+     "label": "School needs and real address",
+     "value": "NSW public school enrolment for the 6-year-old"
+    },
+    {
+     "key": "inventory",
+     "label": "Inventory and shipping preferences",
+     "value": "Contents of a 3-bedroom condo; compare a 20ft container, shared container and air freight for essentials"
+    },
+    {
+     "key": "car",
+     "label": "Car plans",
+     "value": "",
+     "placeholder": "e.g. buy a used car in Sydney rather than ship ours"
+    }
+   ],
+   "template": "Plan our move from {departure} to {arrival} on {date} for {family}, with {citizenship}, {cash}, {notice}, {school}, {inventory} and {car}. Separate spending, refundable deposits and buffers; resolve school and tenancy timing before setting a final budget. Only plan: do not contact, apply, book or pay.",
+   "phases": [
+    {
+     "title": "Research current moving costs and the official relocation rules",
+     "note": "Australian import and school rules, Singapore exit steps, and published shipping prices"
+    },
+    {
+     "title": "Build an editable budget, a dated checklist and a source list",
+     "note": "Spreadsheet scenarios, a checklist working back from 1 July, and sources with access dates",
+     "judgment": "It would not turn rough figures into quotes: the air-freight range is a general guide, not a Sydney price; S$1,776 for three flight seats is labelled illustrative arithmetic; and a garbled price table was not reinterpreted as a shipment total."
+    },
+    {
+     "title": "Recalculate the spreadsheet, check the pages visually and hand over the files",
+     "judgment": "It caught a timing clash in the plan itself: school starts on 20 July 2027, before the default permanent tenancy on 29 July, and the plan flags how to resolve it. All 63 spreadsheet formulas recalculated with zero errors."
+    }
+   ],
+   "workers": [
+    "Read the official Australian rules on importing household goods, NSW school enrolment, Medicare re-enrolment, driving licences and car registration",
+    "Checked the Singapore side of leaving: employer tax clearance, pass cancellation, CPF and insurance",
+    "Collected published prices for sea and air freight, July flights and four weeks of temporary housing in Sydney"
+   ],
+   "chipNames": {
+    "https://www.abf.gov.au/entering-and-leaving-australia/moving-to-australia/upe": "Australian Border Force: moving to Australia",
+    "https://www.nsw.gov.au/education-and-training/primary-and-high-school/starting-primary-school/enrolling-your-child": "NSW Government: enrolling your child in school",
+    "https://www.servicesaustralia.gov.au/enrolling-medicare-if-youre-australian-permanent-resident?context=60092": "Services Australia: Medicare for returning residents",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21)/tax-clearance-for-employees": "IRAS: employee tax clearance (IR21)",
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/cancel-a-pass": "MOM: cancelling an Employment Pass",
+    "https://www.agriculture.gov.au/biosecurity-trade/travelling/moving-immigrating": "Australian Agriculture Dept: moving household goods",
+    "https://www.abf.gov.au/form-listing/forms/B534e.pdf": "Biosecurity form B534 for used household goods",
+    "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/starting-a-residential-tenancy/signing-a-lease-and-moving": "NSW Government: signing a lease and moving in"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的城市、日期、家庭和运输打算，得到同样带日期的搬家计划",
+   "runTitle": "三口之家，2027 年 7 月 1 日从新加坡搬到悉尼：预算、清单和来源",
+   "fields": [
+    {
+     "key": "departure",
+     "label": "出发和抵达城市",
+     "value": "新加坡搬到悉尼"
+    },
+    {
+     "key": "date",
+     "label": "抵达日期",
+     "value": "主要搬家日为 2027 年 7 月 1 日"
+    },
+    {
+     "key": "family",
+     "label": "家庭成员和年龄",
+     "value": "两位成人、一个 6 岁孩子"
+    },
+    {
+     "key": "citizenship",
+     "label": "国籍及准证身份",
+     "value": "澳洲永久居民"
+    },
+    {
+     "key": "cash",
+     "label": "可用资金和收入空档",
+     "value": "",
+     "placeholder": "例如：存款 6 万新元，两份工资之间空档 2 个月"
+    },
+    {
+     "key": "notice",
+     "label": "雇佣及租约通知条款",
+     "value": "",
+     "placeholder": "例如：工作需提前 2 个月通知，租约 2027 年 6 月 30 日到期"
+    },
+    {
+     "key": "school",
+     "label": "入学需要和真实地址",
+     "value": "6 岁孩子要入读新州公立小学"
+    },
+    {
+     "key": "inventory",
+     "label": "物品清单及运输偏好",
+     "value": "三居室公寓里的全部物品；比较 20 尺整柜、拼箱，以及急用物品走空运"
+    },
+    {
+     "key": "car",
+     "label": "购车打算",
+     "value": "",
+     "placeholder": "例如：到悉尼买二手车，不运现在这辆"
+    }
+   ],
+   "template": "请按{departure}、{date}、{family}、{citizenship}、{cash}、{notice}、{school}、{inventory}、{car}，规划全家搬迁。分清花费、可退押金和缓冲，先接好入学与租期，再定最终预算。只做计划，不联系、不申请、不预订、不付款。",
+   "phases": [
+    {
+     "title": "查当前搬家费用和官方搬迁规定",
+     "note": "澳洲进口与入学规定、新加坡离境步骤、已公布的运费"
+    },
+    {
+     "title": "做出可编辑的预算表、带日期的清单和来源列表",
+     "note": "表格里有多种情景，清单从 7 月 1 日倒推，来源附查阅日期",
+     "judgment": "粗略数字它不会当报价用：空运区间只是通用参考，不是悉尼的价格；三个机位的 1,776 新元标明只是示意算术；一张乱码的价目表也没有硬解读成整批货的总价。"
+    },
+    {
+     "title": "重算表格、检查页面外观并交付文件",
+     "judgment": "它发现了计划本身的时间冲突：孩子 2027 年 7 月 20 日开学，早于默认的长租起租日 7 月 29 日，计划里标出了解决办法。表格里 63 个公式全部重算，零错误。"
+    }
+   ],
+   "workers": [
+    "读澳洲官方关于家庭物品入境、新州入学、医保重新登记、驾照和车辆登记的规定",
+    "核对新加坡这一侧的离境事项：雇主税务结清、准证注销、公积金和保险",
+    "收集已公布的海运和空运价格、7 月机票，以及悉尼 4 周临时住宿价格"
+   ],
+   "chipNames": {
+    "https://www.abf.gov.au/entering-and-leaving-australia/moving-to-australia/upe": "澳洲边境部队：移居澳洲",
+    "https://www.nsw.gov.au/education-and-training/primary-and-high-school/starting-primary-school/enrolling-your-child": "新州政府：孩子入学登记",
+    "https://www.servicesaustralia.gov.au/enrolling-medicare-if-youre-australian-permanent-resident?context=60092": "澳洲服务署：回国居民医保登记",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21)/tax-clearance-for-employees": "新加坡税务局：员工税务结清（IR21）",
+    "https://www.mom.gov.sg/passes-and-permits/employment-pass/cancel-a-pass": "新加坡人力部：注销就业准证",
+    "https://www.agriculture.gov.au/biosecurity-trade/travelling/moving-immigrating": "澳洲农业部：搬运家庭物品入境",
+    "https://www.abf.gov.au/form-listing/forms/B534e.pdf": "生物安全表格 B534（二手家庭物品）",
+    "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/starting-a-residential-tenancy/signing-a-lease-and-moving": "新州政府：签租约和入住"
+   }
+  }
+ }
+}

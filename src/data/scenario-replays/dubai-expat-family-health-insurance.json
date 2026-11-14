@@ -1,0 +1,145 @@
+{
+ "slug": "dubai-expat-family-health-insurance",
+ "startedAt": "2026-11-06",
+ "activeSec": 2100,
+ "stats": {
+  "searches": 39,
+  "pages": 13,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 461,
+   "chips": [
+    "https://www.isahd.ae/content/docs/GC%2003%202024.pdf",
+    "https://www.isahd.ae/Home/FAQ",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Law%20No.%20%2811%29%20of%202013.html",
+    "https://www.dni.ae/resources/downloads/medical/EBP_TOB_DNI_FOR_DEPENDENTS.pdf",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2016/Executive%20Council%20Resolution%20No.%20%287%29%20of%202016.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 461,
+   "end": 2078,
+   "chips": [],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 461,
+   "end": 758,
+   "chips": [
+    "https://u.ae/en/information-and-services/health-and-fitness/getting-a-health-insurance"
+   ],
+   "workers": []
+  },
+  {
+   "start": 758,
+   "end": 967,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 967,
+   "end": 2078,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own family, start date and offers and get the same Dubai health-cover comparison",
+   "runTitle": "Moving to Dubai in January 2027: health cover for a wife and two children",
+   "fields": [
+    {
+     "key": "family",
+     "label": "Family ages and sponsorship",
+     "value": "Wife and two children aged 4 and 8 on my residence visa; salary AED 28,000 a month, and my employer insures only me"
+    },
+    {
+     "key": "date",
+     "label": "Start date",
+     "value": "January 2027"
+    },
+    {
+     "key": "area",
+     "label": "Neighbourhood and preferred clinics",
+     "value": "",
+     "placeholder": "e.g. Dubai Marina, with a children’s clinic within 15 minutes"
+    },
+    {
+     "key": "offers",
+     "label": "Written offers and full schedules",
+     "value": "",
+     "placeholder": "e.g. two broker offers with the full benefit schedules attached"
+    },
+    {
+     "key": "needs",
+     "label": "Family-specific needs",
+     "value": "",
+     "placeholder": "e.g. maternity cover, dental work for a child, a regular asthma prescription"
+    }
+   ],
+   "template": "Help compare Dubai-compliant cover for {family}, starting {date}, near {area}. Use {offers} to compare all-in premiums, networks, co-pays, medicines and {needs}. Keep missing terms visible. Ask before contacting anyone, submitting forms or sharing personal documents.",
+   "phases": [
+    {
+     "title": "Look up the official Dubai rules and published plan prices",
+     "note": "Health authority benefit schedule, laws on who must pay, and insurer price lists",
+     "judgment": "It used the current official benefit schedule rather than older brochures: the yearly medicines limit is AED 2,500 including co-payment, not the AED 1,500 some older documents show."
+    },
+    {
+     "title": "Write the guide and a dated list of sources and calculations",
+     "note": "Comparison table, recommendation and checklist",
+     "judgment": "When the reviewer pointed out that the suggested yearly budget wasn’t backed by a named plan, the guide said so: a reliable current premium for enhanced family cover could not be established, and the extra price list it found is labelled as historical."
+    },
+    {
+     "title": "Fill in the guide from the research gathered"
+    },
+    {
+     "title": "Open the page on desktop and phone and check it"
+    },
+    {
+     "title": "Hand over the files and list what stays unresolved",
+     "note": "Pricing gaps and research limits stated openly",
+     "judgment": "It disclosed a process problem instead of hiding it: some research fell back to a browser that was already open, so it could not be certified as done in a fresh, signed-out browser."
+    }
+   ],
+   "workers": [
+    "Read the current official Dubai health authority benefit schedule, the rules for dependants and the circulars that replaced older ones",
+    "Found real named family health plans with published prices and noted what each price leaves out",
+    "Independently audited the finished guide and the source list against the original questions"
+   ],
+   "chipNames": {
+    "https://www.isahd.ae/content/docs/GC%2003%202024.pdf": "Dubai Health Authority: essential benefits circular 03/2024",
+    "https://www.isahd.ae/Home/FAQ": "Dubai Health Authority: insurance FAQ",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Law%20No.%20%2811%29%20of%202013.html": "Dubai Law No. 11 of 2013 on health insurance",
+    "https://www.dni.ae/resources/downloads/medical/EBP_TOB_DNI_FOR_DEPENDENTS.pdf": "Insurer price schedule: essential plan for dependants",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2016/Executive%20Council%20Resolution%20No.%20%287%29%20of%202016.html": "Executive Council Resolution No. 7 of 2016",
+    "https://u.ae/en/information-and-services/health-and-fitness/getting-a-health-insurance": "UAE government portal: getting health insurance"
+   }
+  }
+ }
+}

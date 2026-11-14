@@ -1,0 +1,133 @@
+{
+ "slug": "chiang-mai-us-retiree-social-security-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 1753,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 54,
+   "end": 985,
+   "chips": [
+    "https://washingtondc.thaiembassy.org/en/page/non-o-retirement",
+    "https://ratchakitcha.soc.go.th/documents/117219.pdf",
+    "https://longstay.tgia.org/",
+    "https://www.medicare.gov/publications/11037-medicare-coverage-outside-the-united-states.pdf",
+    "https://www.irs.gov/pub/irs-trty/thailand.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": false,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 4,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 985,
+   "end": 1506,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1506,
+   "end": 1630,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own situation and get the same visa, health-cover and budget comparison for your retirement move",
+   "runTitle": "Ohio retiree on USD 3,250 a month: a Chiang Mai move in October 2027",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City, country",
+     "value": "Chiang Mai, Thailand"
+    },
+    {
+     "key": "home",
+     "label": "Home country",
+     "value": "United States (Ohio)"
+    },
+    {
+     "key": "when",
+     "label": "Month and year",
+     "value": "October 2027"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "66"
+    },
+    {
+     "key": "marital",
+     "label": "Marital status",
+     "value": "Single"
+    },
+    {
+     "key": "income",
+     "label": "Monthly income sources, gross or net",
+     "value": "USD 2,350 Social Security plus USD 900 pension"
+    },
+    {
+     "key": "savings",
+     "label": "Savings amount",
+     "value": "USD 140,000"
+    },
+    {
+     "key": "conditions",
+     "label": "Health conditions and medicines",
+     "value": "",
+     "placeholder": "e.g. blood-pressure tablets, one knee replacement"
+    },
+    {
+     "key": "coverage",
+     "label": "Current health coverage",
+     "value": "",
+     "placeholder": "e.g. Medicare Part A and B plus a supplement plan"
+    }
+   ],
+   "template": "Help me plan a retirement move to {city} from {home} in {when}. I am {age}, {marital}, with {income}, {savings}, {conditions} and {coverage}. Compare the visa routes I could qualify for, list the financial and paperwork tests for each, build a monthly budget with rent examples and health cover, and give me a list of tax and insurance questions to take to a professional.",
+   "phases": [
+    {
+     "title": "Read the official visa, health-cover, Medicare, tax and rental pages",
+     "note": "Thai embassy and immigration pages, insurer and hospital prices, Medicare.gov, the US–Thailand tax treaty and condo listings",
+     "judgment": "When it found a newer retirement-visa order in Thailand’s Royal Gazette but could not read or translate it reliably, it did not guess. The visa thresholds rest on dated official guidance pages, and the gap is flagged for the reader."
+    },
+    {
+     "title": "Write the guide and the full source list",
+     "note": "Visa comparison, health cover, Medicare decision, tax questions, rent examples and a monthly budget in baht and dollars"
+    },
+    {
+     "title": "Check every money figure and claim a second time, then test desktop and phone layouts",
+     "judgment": "A second pass recomputed every budget row (all 15 matched at 35 baht to the dollar) and caught one factual slip: on arrival in October 2027 she will be 66 or 67, not 67 or 68. The guide and source list were corrected."
+    }
+   ],
+   "workers": [
+    "Assigned the tax and housing side: questions to take to a US–Thailand tax adviser, and dated condo rent examples in Nimman, Santitham and Hang Dong",
+    "Assigned the health side: insurance cost for a new 66-year-old applicant, private-hospital price examples in Chiang Mai, and the Medicare Part B decision"
+   ],
+   "chipNames": {
+    "https://washingtondc.thaiembassy.org/en/page/non-o-retirement": "Royal Thai Embassy Washington: Non-O retirement visa",
+    "https://ratchakitcha.soc.go.th/documents/117219.pdf": "Royal Thai Government Gazette: retirement visa order",
+    "https://longstay.tgia.org/": "Thai General Insurance Association: long-stay insurance",
+    "https://www.medicare.gov/publications/11037-medicare-coverage-outside-the-united-states.pdf": "Medicare.gov: coverage outside the United States",
+    "https://www.irs.gov/pub/irs-trty/thailand.pdf": "IRS: US–Thailand tax treaty"
+   }
+  }
+ }
+}

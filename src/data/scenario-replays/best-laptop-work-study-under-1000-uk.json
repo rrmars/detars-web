@@ -1,0 +1,186 @@
+{
+ "slug": "best-laptop-work-study-under-1000-uk",
+ "startedAt": "2026-11-05",
+ "activeSec": 1978,
+ "stats": {
+  "searches": 58,
+  "pages": 81,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 30,
+   "end": 1048,
+   "chips": [
+    "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air",
+    "https://www.apple.com/uk-edu/shop/browse/open/salespolicies/edu",
+    "https://www.currys.co.uk/services/shopping-with-us/price-promise.html",
+    "https://www.johnlewis.com/customer-services/prices-and-payment/price-promise",
+    "https://help.argos.co.uk/help/refunds-%26-returns/returns-product-support-and-repairs/returnsproductsupportrepairs"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1048,
+   "end": 1528,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1528,
+   "end": 1894,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own course, apps and budget, and get a UK laptop comparison with dated prices and the buy-or-wait call",
+   "runTitle": "One UK laptop for a part-time master's and a marketing job, up to about £1,000",
+   "fields": [
+    {
+     "key": "place",
+     "label": "Country and postcode",
+     "value": "UK"
+    },
+    {
+     "key": "date",
+     "label": "Buy-by date",
+     "value": "Needed from early 2027"
+    },
+    {
+     "key": "use",
+     "label": "Job or course, exact apps and workload",
+     "value": "Part-time master's plus a marketing job: Microsoft 365, Canva, Zoom/Teams, lots of browser tabs, occasional light photo and video editing"
+    },
+    {
+     "key": "budget",
+     "label": "Currency and amount, laptop-only or all-in",
+     "value": "Up to about £1,000"
+    },
+    {
+     "key": "commute",
+     "label": "Commute, screen and weight preferences",
+     "value": "Takes the train to work, so weight and battery matter; wants it to last 4+ years"
+    }
+   ],
+   "template": "Compare laptops in {place} by {date} for {use}, within {budget}, with {commute}. Check OS, exam, VPN, driver and local-app compatibility. Compare exact CPU, RAM, SSD, panel, keyboard, seller, condition, adapter, delivered price and dated stock. Separate public, verified student and unredeemed-code prices; include necessary charger/hub costs without assumed stacking. Use published tests and owner accounts, including criticism; distinguish exact versions from older tests, manufacturer maxima and lifespan hopes. Do not invent hands-on tests, ratings or four-year reliability. Recheck key primary pages and identify dated prices, later checks, failures and gaps. Explain returns and guarantees, recommend buy/wait thresholds and give payment checks. Do not buy, sign up, redeem codes, contact shops or publish.",
+   "phases": [
+    {
+     "title": "Check live UK shop prices, reviews and the buying terms that apply",
+     "note": "Apple, Currys, Argos, John Lewis and brand stores: exact models, prices with the date read, price-match and guarantee rules",
+     "judgment": "A cheap ASUS laptop was advertised with a 3K screen, but an owner of the exact same model reported Full HD. It recommended it only as a likely Full HD screen, not as a verified bargain."
+    },
+    {
+     "title": "Build the linked comparison page and spreadsheet of specs and prices",
+     "note": "Every price carries its link and the date it was read"
+    },
+    {
+     "title": "Check the files against the evidence, then give the picks and the buy-or-wait call",
+     "judgment": "An independent audit re-checked the arithmetic and the configurations against the original pages and found nothing that had to be fixed. The final answer still says what could not be confirmed: Amazon UK prices and a purchasable John Lewis offer are left open rather than guessed."
+    }
+   ],
+   "workers": [
+    "Checked Apple's UK prices, the education discount and eligibility, and the Surface option, with the original page text kept as evidence",
+    "Checked exact Windows thin-and-light models at UK retailers and what owners say, including the screen complaint on the ASUS",
+    "Read each shop's own price-match, student-offer, guarantee and returns terms, and noted what is excluded",
+    "Independent audit of the finished page and spreadsheet against the research: sums, specs, prices and offer conditions"
+   ],
+   "chipNames": {
+    "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air": "Apple UK Education Store: MacBook Air",
+    "https://www.apple.com/uk-edu/shop/browse/open/salespolicies/edu": "Apple UK education sales policy",
+    "https://www.currys.co.uk/services/shopping-with-us/price-promise.html": "Currys price promise",
+    "https://www.johnlewis.com/customer-services/prices-and-payment/price-promise": "John Lewis price promise",
+    "https://help.argos.co.uk/help/refunds-%26-returns/returns-product-support-and-repairs/returnsproductsupportrepairs": "Argos returns and repairs"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的课程、软件和预算，就能得到一份带日期价格、并告诉你现在买还是等的英国笔记本对比",
+   "runTitle": "英国一台笔记本，兼顾在职硕士和市场营销工作，预算约 1000 英镑",
+   "fields": [
+    {
+     "key": "place",
+     "label": "国家和邮编",
+     "value": "英国"
+    },
+    {
+     "key": "date",
+     "label": "购买日期",
+     "value": "2027 年初开始使用"
+    },
+    {
+     "key": "use",
+     "label": "工作、课程、具体软件和工作量",
+     "value": "在职读硕士，同时做市场营销：Microsoft 365、Canva、Zoom/Teams、开很多浏览器标签，偶尔做简单的照片和视频剪辑"
+    },
+    {
+     "key": "budget",
+     "label": "货币和金额，裸机或全套",
+     "value": "预算最多约 1000 英镑"
+    },
+    {
+     "key": "commute",
+     "label": "通勤频率、屏幕和重量",
+     "value": "坐火车上班，重量和续航重要；希望能用 4 年以上"
+    }
+   ],
+   "template": "请比较我在{place}、{date}前购买的笔记本：用于{use}，预算{budget}，偏好{commute}。先查操作系统、考试、VPN、驱动和本地软件是否适用。按具体 CPU、内存、SSD、面板、键盘、卖家、成色、适配器、送达价和库存日期比较。分清公开价、已核实学生价和未兑换优惠码价，算入必要充电器及扩展坞，不假设折扣叠加。看已发表评测和买家体验，也保留差评；分清具体版本、旧款测试、厂家最高值和寿命期待，不编造亲测、评分或四年可靠性。重查关键一手页面，标清价格日期、后续核查、失败和缺口。说明退货保障，给出买入或等待门槛及付款清单。不要购买、注册、兑换优惠码、联系商家或发布。",
+   "phases": [
+    {
+     "title": "核对英国商店的现价、评测和适用的购买条款",
+     "note": "苹果、Currys、Argos、John Lewis 等：具体型号、带读取日期的价格、比价和保修规则",
+     "judgment": "一款便宜的华硕笔记本宣传 3K 屏，但同型号车主反馈实际是全高清。它只把这款作为「很可能是全高清屏」来推荐，没有当成已核实的超值款。"
+    },
+    {
+     "title": "做出带链接的对比网页和规格价格表",
+     "note": "每个价格都附链接和读取日期"
+    },
+    {
+     "title": "对照证据检查文件，再给出推荐和买入或等待的建议",
+     "judgment": "独立审核同事对照原始页面重新核对了算术和配置，没有发现必须修改的问题。最终答复仍写明没法确认的部分：亚马逊英国站的价格和 John Lewis 可购买的优惠留作未决，没有猜。"
+    }
+   ],
+   "workers": [
+    "核对苹果英国站的价格、教育优惠和资格，以及 Surface 选项，并保留原始页面文字作为证据",
+    "核对英国商店里具体型号的轻薄 Windows 笔记本和车主评价，包括华硕那款屏幕的投诉",
+    "读各家商店自己的比价、学生优惠、保修和退货条款，记下哪些情况不适用",
+    "独立审核成稿网页和表格：对照调研核对合计、配置、价格和优惠条件"
+   ],
+   "chipNames": {
+    "https://www.apple.com/uk-edu/shop/buy-mac/macbook-air": "苹果英国教育商店：MacBook Air",
+    "https://www.apple.com/uk-edu/shop/browse/open/salespolicies/edu": "苹果英国教育优惠政策",
+    "https://www.currys.co.uk/services/shopping-with-us/price-promise.html": "Currys 比价承诺",
+    "https://www.johnlewis.com/customer-services/prices-and-payment/price-promise": "John Lewis 比价承诺",
+    "https://help.argos.co.uk/help/refunds-%26-returns/returns-product-support-and-repairs/returnsproductsupportrepairs": "Argos 退货和维修"
+   }
+  }
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "slug": "local-music-generation-commercial-use-test",
+ "startedAt": "2026-11-06",
+ "activeSec": 8720,
+ "stats": {
+  "searches": 9,
+  "pages": 6,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 3118,
+   "end": 8720,
+   "chips": [
+    "https://raw.githubusercontent.com/facebookresearch/audiocraft/main/docs/MUSICGEN.md",
+    "https://huggingface.co/cvssp/audioldm-s-full-v2/tree/main",
+    "https://huggingface.co/riffusion/riffusion-model-v1/raw/main/README.md",
+    "https://huggingface.co/stabilityai/stable-audio-open-small/raw/main/README.md",
+    "https://stability.ai/license"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 60,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 8720,
+   "end": 8720,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 8720,
+   "end": 8720,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Tell it your Mac, clip length and rules, and get a tested, licence-checked shortlist of offline music generators",
+   "runTitle": "A YouTube explainer maker on a 16 GB Apple-silicon Mac: which free offline music generators are safe for monetised videos",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "Computer and available memory",
+     "value": "Apple-silicon Mac with 16 GB RAM shared with other work"
+    },
+    {
+     "key": "duration",
+     "label": "Clip duration",
+     "value": "About 20 to 30 seconds"
+    },
+    {
+     "key": "use",
+     "label": "Commercial or noncommercial use",
+     "value": "Commercial: background music for monetised YouTube explainers"
+    },
+    {
+     "key": "rules",
+     "label": "Account and network rules",
+     "value": "Nothing uploaded, no subscription, no accounts or saved logins; gated models skipped"
+    },
+    {
+     "key": "style",
+     "label": "Narration and style needs",
+     "value": "Background music under narration in short explainers"
+    }
+   ],
+   "template": "Compare local instrumental music options for {machine}, {duration}, {use} and {rules}. Separate code and weight licences, document exact revisions, plan memory-stop checks and distinguish completed results from exclusions. Use {style} to design a listening checklist. Ask before downloading models, accepting terms, uploading audio or spending money.",
+   "phases": [
+    {
+     "title": "Check the Mac and the public licences, then pick four models that could run",
+     "note": "Model cards, code licences and model-weight licences read from the original sources",
+     "judgment": "It kept the code licence and the model licence apart. MusicGen and AudioLDM have permissive code but non-commercial model weights, and a missing licence file was treated as a warning sign, not as permission."
+    },
+    {
+     "title": "Install each model in isolation and run the same five prompts under a 6 GB memory guard",
+     "note": "One model at a time, with memory checked while it ran",
+     "judgment": "It reported that only two of the four models finished, not four. One was stopped for memory after briefly reaching 6.54 GB, and one was skipped because it needs a login, which the rules forbid."
+    },
+    {
+     "title": "Measure the clips, recompute the numbers a second time, and assemble the report",
+     "note": "Loudness, clipping, silence and an automated text-match score, labelled as such",
+     "judgment": "The measurements were checked a second time: file metrics for all ten clips were recomputed again, and the repeated text-match scores came out exactly the same."
+    }
+   ],
+   "workers": [
+    "Read the public model cards, licence texts and install notes for each candidate, keeping code licences and model-weight licences separate"
+   ],
+   "chipNames": {
+    "https://raw.githubusercontent.com/facebookresearch/audiocraft/main/docs/MUSICGEN.md": "MusicGen: official documentation (Meta AudioCraft)",
+    "https://huggingface.co/cvssp/audioldm-s-full-v2/tree/main": "AudioLDM small v2: model files and licence",
+    "https://huggingface.co/riffusion/riffusion-model-v1/raw/main/README.md": "Riffusion v1: model card",
+    "https://huggingface.co/stabilityai/stable-audio-open-small/raw/main/README.md": "Stable Audio Open Small: model card",
+    "https://stability.ai/license": "Stability AI licence terms"
+   }
+  },
+  "zh": {
+   "askTitle": "告诉它你的 Mac、片段时长和使用规则，就能得到一份实测并核对过授权的离线音乐生成短名单",
+   "runTitle": "一位 YouTube 讲解视频创作者、一台 16 GB 内存的苹果芯片 Mac：哪些免费离线音乐生成工具可用于盈利视频",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "电脑和可用内存",
+     "value": "苹果芯片 Mac，16 GB 内存，还要和其他工作共用"
+    },
+    {
+     "key": "duration",
+     "label": "片段时长",
+     "value": "约 20 到 30 秒"
+    },
+    {
+     "key": "use",
+     "label": "商业或非商业用途",
+     "value": "商业用途：盈利 YouTube 讲解视频的背景音乐"
+    },
+    {
+     "key": "rules",
+     "label": "账号和网络规则",
+     "value": "不上传任何内容、不订阅付费、不注册账号、不用已保存的登录；需要登录的模型跳过"
+    },
+    {
+     "key": "style",
+     "label": "旁白与风格需要",
+     "value": "短讲解视频里旁白下方的背景音乐"
+    }
+   ],
+   "template": "为 {machine}、{duration}、{use} 以及 {rules} 比较本地纯器乐选项。分开核对代码与权重许可，记录具体版本，规划内存停止检查，并区分已完成结果和排除项。根据 {style} 制定试听清单。下载模型、接受条款、上传音频或花钱前先征求我的同意。",
+   "phases": [
+    {
+     "title": "查看这台 Mac 和公开授权，再选出四个有可能跑得动的模型",
+     "note": "从原始来源阅读模型说明、代码授权和模型权重授权",
+     "judgment": "它把代码授权和模型授权分开看。MusicGen 和 AudioLDM 的代码授权宽松，但模型权重是非商业的；找不到授权文件也被当作警示信号，而不是默认允许。"
+    },
+    {
+     "title": "逐个隔离安装模型，在 6 GB 内存保护下用同样的五条提示词运行",
+     "note": "一次只跑一个模型，运行时持续检查内存",
+     "judgment": "它如实报告四个模型里只有两个跑完，而不是四个。一个在内存短暂冲到 6.54 GB 后被停掉，另一个因为需要登录而跳过，这是规则不允许的。"
+    },
+    {
+     "title": "测量音频片段，再重算一遍数字，并整理成报告",
+     "note": "响度、削波、静音占比，以及标明为自动参考的文本匹配分数",
+     "judgment": "测量结果被第二次核对：十段音频的文件指标都重新计算过，重复运行的文本匹配分数也完全一致。"
+    }
+   ],
+   "workers": [
+    "阅读每个候选模型的公开说明、授权文本和安装说明，把代码授权和模型权重授权分开记录"
+   ],
+   "chipNames": {
+    "https://raw.githubusercontent.com/facebookresearch/audiocraft/main/docs/MUSICGEN.md": "MusicGen:官方文档(Meta AudioCraft)",
+    "https://huggingface.co/cvssp/audioldm-s-full-v2/tree/main": "AudioLDM small v2:模型文件与授权",
+    "https://huggingface.co/riffusion/riffusion-model-v1/raw/main/README.md": "Riffusion v1:模型说明",
+    "https://huggingface.co/stabilityai/stable-audio-open-small/raw/main/README.md": "Stable Audio Open Small:模型说明",
+    "https://stability.ai/license": "Stability AI 授权条款"
+   }
+  }
+ }
+}

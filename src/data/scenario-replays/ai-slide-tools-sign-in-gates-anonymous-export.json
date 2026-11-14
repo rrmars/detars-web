@@ -1,0 +1,174 @@
+{
+ "slug": "ai-slide-tools-sign-in-gates-anonymous-export",
+ "startedAt": "2026-11-05",
+ "activeSec": 1812,
+ "stats": {
+  "searches": 25,
+  "pages": 15,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 42,
+   "end": 338,
+   "chips": [
+    "https://freeslide.app/",
+    "https://gamma.app/zh-cn/products/presentations",
+    "https://www.canva.com/create/ai-presentations/",
+    "https://www.beautiful.ai/ai-presentations",
+    "https://slides.google.com/create"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 338,
+   "end": 957,
+   "chips": [
+    "https://www.aippt.com/ai-powerpoint",
+    "https://vibeslide.app/",
+    "https://slidemaker.app/ai-presentation-maker",
+    "https://copilot.microsoft.com/"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 957,
+   "end": 1690,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own brief and audience to get the same logged-out slide-tool test and an honest draft deck",
+   "runTitle": "A coffee-subscription owner needs a 6-slide investor deck without opening a single new account",
+   "fields": [
+    {
+     "key": "brief",
+     "label": "Your confirmed brief",
+     "value": "Brewline delivers freshly roasted specialty coffee beans to small offices (5–50 staff) every two weeks; plans start at $89/month; assume 40 paying offices after 6 months; six slides: problem, solution, how it works, pricing, traction, ask"
+    },
+    {
+     "key": "audience",
+     "label": "Audience and purpose",
+     "value": "Investors; a quick 6-slide investor-style pitch deck"
+    }
+   ],
+   "template": "Make an investor-style deck from {brief} for {audience}. Keep supplied prices, label assumptions and leave missing revenue, plans, funding amounts and targets as placeholders. If trying a tool, separate creation access, sign-in, output, export and watermarks; quality is untested if no deck exists. Do not create accounts, pay, import sign-ins or publish.",
+   "phases": [
+    {
+     "title": "Try each slide maker logged out with the same coffee-subscription brief, saving screenshots",
+     "note": "Free routes only: no sign-ups, no payments",
+     "judgment": "It caught its own mistake: the first Google visit reused a browser that was already signed in and created a blank deck. It threw that result out, retested in a clean browser, and told you about it. No prompt was ever sent from the signed-in browser."
+    },
+    {
+     "title": "Build the six-slide baseline deck by hand and check every page visually",
+     "note": "An editable deck to judge the tools against, plus the remaining tools",
+     "judgment": "In its own baseline deck it did not invent what you hadn’t said: 40 paying offices is labelled an assumption, $3,560 a month is marked as an illustration only, and the funding ask is left blank."
+    },
+    {
+     "title": "Score the tools, build the comparison page and workbook, then verify and deliver",
+     "note": "Scores, screenshots and raw results in one page and one spreadsheet",
+     "judgment": "An independent reviewer opened the exported file itself and confirmed FreeSlide’s invented prices, ~$4.5k monthly revenue and $500k raise were really on the slides. It also pushed back that “same brief on ten products” overstated things, since several stopped before any prompt could be typed."
+    }
+   ],
+   "workers": [
+    "Tried Google Slides, PowerPoint on the web and SlidesAI while logged out, and saved screenshots of where each one stopped",
+    "Built the six-slide baseline deck by hand as an editable PowerPoint file, to compare the tools against",
+    "Tried Gamma, Canva and Beautiful.ai the same way, then SlideMaker, each in its own clean browser tab",
+    "Independently checked the finished comparison page, workbook and decks against the saved evidence"
+   ],
+   "chipNames": {
+    "https://freeslide.app/": "FreeSlide",
+    "https://gamma.app/zh-cn/products/presentations": "Gamma presentations",
+    "https://www.canva.com/create/ai-presentations/": "Canva AI presentations",
+    "https://www.beautiful.ai/ai-presentations": "Beautiful.ai presentations",
+    "https://slides.google.com/create": "Google Slides: create a presentation",
+    "https://www.aippt.com/ai-powerpoint": "AiPPT",
+    "https://vibeslide.app/": "VibeSlide",
+    "https://slidemaker.app/ai-presentation-maker": "SlideMaker.app",
+    "https://copilot.microsoft.com/": "Microsoft Copilot (standalone)"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的简报和听众，就能得到同样的免登录幻灯片工具实测，和一份如实标注的草稿",
+   "runTitle": "咖啡订阅小老板想要 6 页融资演示稿，而且不想多开任何账号",
+   "fields": [
+    {
+     "key": "brief",
+     "label": "你已确认的简报",
+     "value": "Brewline 每两周给 5–50 人的小办公室配送新鲜烘焙的精品咖啡豆；套餐 $89/月起；假设 6 个月后有 40 家付费办公室；共六页：问题、方案、流程、定价、进展、融资诉求"
+    },
+    {
+     "key": "audience",
+     "label": "听众和用途",
+     "value": "投资人；快速做一份 6 页的融资风格演示稿"
+    }
+   ],
+   "template": "请根据{brief}，为{audience}制作融资风格演示。保留已提供的价格，标明假设，缺失的收入、套餐、融资额和目标请留占位。如需尝试工具，分开记录创建入口、登录要求、输出、导出和水印；没有生成演示，就将质量标为未测试。不要创建账号、付款、导入登录状态或发布。",
+   "phases": [
+    {
+     "title": "未登录状态下，用同一份咖啡订阅简报逐个试用幻灯片工具并截图",
+     "note": "只试免费入口：不注册、不付款",
+     "judgment": "它发现了自己的失误：第一次打开 Google 时沿用了已有的登录状态，建出一份空白演示稿。它把这个结果剔除，在干净环境里重测，并向你如实说明。已登录的那次从未发送任何提示词。"
+    },
+    {
+     "title": "亲手做 6 页基准演示稿，并逐页目视检查",
+     "note": "一份可编辑的基准稿，用来衡量各工具，并继续试其余工具",
+     "judgment": "在自己做的基准稿里，它没有编造你没说过的内容：40 家付费办公室标明是假设，每月 $3,560 只作示例，融资金额留空。"
+    },
+    {
+     "title": "给工具打分，做对比页和工作簿，再核对并交付",
+     "note": "评分、截图和原始结果，放进一个页面和一张表格",
+     "judgment": "独立复核同事打开了导出的文件本身，确认 FreeSlide 编造的价格、约 $4.5k 月收入和 $500k 融资，确实写在幻灯片里。它还指出“同一份简报试了十个产品”的说法过头了，因为有几个在能输入提示词之前就被挡住了。"
+    }
+   ],
+   "workers": [
+    "在未登录状态下试了 Google Slides、PowerPoint 网页版和 SlidesAI，并截图记下每个工具在哪一步被挡住",
+    "亲手做了一份 6 页的可编辑 PowerPoint 基准稿，用来和各工具对照",
+    "用同样的办法试了 Gamma、Canva 和 Beautiful.ai，之后又试了 SlideMaker，每个都在独立干净的浏览器标签里",
+    "独立核对做好的对比页、工作簿和演示稿，对照保存下来的证据"
+   ],
+   "chipNames": {
+    "https://freeslide.app/": "FreeSlide",
+    "https://gamma.app/zh-cn/products/presentations": "Gamma 演示稿",
+    "https://www.canva.com/create/ai-presentations/": "Canva AI 演示稿",
+    "https://www.beautiful.ai/ai-presentations": "Beautiful.ai 演示稿",
+    "https://slides.google.com/create": "Google Slides：新建演示稿",
+    "https://www.aippt.com/ai-powerpoint": "AiPPT",
+    "https://vibeslide.app/": "VibeSlide",
+    "https://slidemaker.app/ai-presentation-maker": "SlideMaker.app",
+    "https://copilot.microsoft.com/": "Microsoft Copilot（独立版）"
+   }
+  }
+ }
+}

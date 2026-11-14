@@ -1,0 +1,189 @@
+{
+ "slug": "commuter-ebike-public-spec-shortlist",
+ "startedAt": "2026-11-05",
+ "activeSec": 1401,
+ "stats": {
+  "searches": 46,
+  "pages": 64,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 37,
+   "end": 852,
+   "chips": [
+    "https://lectricebikes.com/products/xpress-lite-green-ebike",
+    "https://ride1up.com/product/portola-02/",
+    "https://help.lectricebikes.com/l/en/article/c8pphxf28o-how-much-does-the-bike-weigh-xp-xp-step-thru-weight",
+    "https://portlandebikerebate.com/standard-cargo-applicants/",
+    "https://www.oregon.gov/dor/programs/businesses/Pages/Bicycle-excise-tax.aspx"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 852,
+   "end": 1171,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1171,
+   "end": 1336,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own city, budget and commute and get the same e-bike shortlist with the full starter cost",
+   "runTitle": "A Portland commuter, 16 miles a day with hills and rain, wants an e-bike under USD 1,500 in March 2027",
+   "fields": [
+    {
+     "key": "where",
+     "label": "Location and purchase date",
+     "value": "Portland, Oregon; buying in March 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Total budget and currency",
+     "value": "Under USD 1,500 all-in"
+    },
+    {
+     "key": "distance",
+     "label": "Daily distance and hills",
+     "value": "8 miles each way, with some hills"
+    },
+    {
+     "key": "body",
+     "label": "Height and inseam",
+     "value": "5'7\" tall, 160 lb"
+    },
+    {
+     "key": "stairs",
+     "label": "Stairs or storage",
+     "value": "Apartment with stairs"
+    },
+    {
+     "key": "charging",
+     "label": "Work charging",
+     "value": "",
+     "placeholder": "e.g. can charge at my desk, or no outlet at work"
+    },
+    {
+     "key": "rain",
+     "label": "Rain and gear needs",
+     "value": "Rides in the rain"
+    }
+   ],
+   "template": "Help me shortlist a commuter e-bike for {where}, with {budget}, {distance}, {body}, {stairs}, {charging} and {rain}. Compare the full starter cost, carrying weight, likely range and current buying terms. Flag what I should confirm before paying; do not buy or apply for anything.",
+   "phases": [
+    {
+     "title": "Check five affordable bikes, safety notices and Oregon incentives from public sources",
+     "note": "Prices and stock, specs, recalls, rebates and tax",
+     "judgment": "It would not count on a rebate. The advice is to budget the March 2027 purchase without subtracting one: Portland’s programme depends on income limits that expire 31 December 2026, and Oregon’s “no sales tax” still comes with a $15 bicycle tax on new e-bikes."
+    },
+    {
+     "title": "Work out costs and write the recommendations as a linked page",
+     "judgment": "It corrected a figure that is often quoted. Lectric’s support table gives 49 lb (XP Lite2) and 51.6 lb (XPress Lite) with the battery, not the often-quoted 41 and 45.6 lb, and the page warns that folding does not mean easy to carry up stairs."
+    },
+    {
+     "title": "Check the page and deliver the shortlist and sources"
+    }
+   ],
+   "workers": [
+    "Read the official listings for three of the bikes (Lectric XP Lite2, Lectric XPress Lite, Ride1Up Portola) for current price, stock, specs and weight",
+    "Checked Portland and Oregon e-bike rebates, the Oregon bicycle tax, and official safety recall notices for every bike on the list"
+   ],
+   "chipNames": {
+    "https://lectricebikes.com/products/xpress-lite-green-ebike": "Lectric: XPress Lite product page",
+    "https://ride1up.com/product/portola-02/": "Ride1Up: Portola 02 product page",
+    "https://help.lectricebikes.com/l/en/article/c8pphxf28o-how-much-does-the-bike-weigh-xp-xp-step-thru-weight": "Lectric support: how much the bikes weigh",
+    "https://portlandebikerebate.com/standard-cargo-applicants/": "Portland Rides: who can apply and what is covered",
+    "https://www.oregon.gov/dor/programs/businesses/Pages/Bicycle-excise-tax.aspx": "Oregon Department of Revenue: bicycle excise tax"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的城市、预算和通勤情况，同样拿到电助力车候选清单和买齐上路的总费用",
+   "runTitle": "波特兰通勤族，每天往返 16 英里，有坡有雨，想在 2027 年 3 月买一辆 1,500 美元以内的电助力车",
+   "fields": [
+    {
+     "key": "where",
+     "label": "地点和购买日期",
+     "value": "美国俄勒冈州波特兰；2027 年 3 月购买"
+    },
+    {
+     "key": "budget",
+     "label": "总预算和币种",
+     "value": "1,500 美元以内，含全部费用"
+    },
+    {
+     "key": "distance",
+     "label": "每日距离和坡道",
+     "value": "单程 8 英里，有一些坡"
+    },
+    {
+     "key": "body",
+     "label": "身高和内侧腿长",
+     "value": "身高 5 英尺 7 英寸，体重 160 磅"
+    },
+    {
+     "key": "stairs",
+     "label": "楼梯或存车条件",
+     "value": "住公寓，需要上下楼梯"
+    },
+    {
+     "key": "charging",
+     "label": "单位充电条件",
+     "value": "",
+     "placeholder": "例如：办公桌旁可以充电，或单位没有插座"
+    },
+    {
+     "key": "rain",
+     "label": "雨天及装备需求",
+     "value": "下雨天也骑"
+    }
+   ],
+   "template": "请按{where}、{budget}、{distance}、{body}、{stairs}、{charging}和{rain}，帮我筛选通勤电助力车。比较买齐上路装备的总费用、搬运重量、可能续航和当前购买条款，提醒我付款前还要确认什么；不要购买或代申请。",
+   "phases": [
+    {
+     "title": "从公开资料核对五款平价车、安全通报和俄勒冈的优惠政策",
+     "note": "价格与库存、规格、召回、补贴和税费",
+     "judgment": "它不指望补贴。建议在预算 2027 年 3 月的购买时不要先扣掉补贴：波特兰项目看收入上限，而公布的上限在 2026 年 12 月 31 日到期；俄勒冈虽然没有销售税，新电助力车仍要交 15 美元的自行车税。"
+    },
+    {
+     "title": "算出费用，写成带来源链接的推荐页面",
+     "judgment": "它更正了一个常被引用的数字。Lectric 的官方支持表写的是连电池 49 磅（XP Lite2）和 51.6 磅（XPress Lite），而不是常被引用的 41 磅和 45.6 磅，页面还提醒：能折叠不等于好搬上楼。"
+    },
+    {
+     "title": "检查页面，交付候选清单和来源"
+    }
+   ],
+   "workers": [
+    "读取其中三款车（Lectric XP Lite2、Lectric XPress Lite、Ride1Up Portola）的官方商品页，核对现价、库存、规格和重量",
+    "核对波特兰和俄勒冈州的电助力车补贴、俄勒冈的自行车税，以及清单上每款车的官方召回通知"
+   ],
+   "chipNames": {
+    "https://lectricebikes.com/products/xpress-lite-green-ebike": "Lectric：XPress Lite 商品页",
+    "https://ride1up.com/product/portola-02/": "Ride1Up：Portola 02 商品页",
+    "https://help.lectricebikes.com/l/en/article/c8pphxf28o-how-much-does-the-bike-weigh-xp-xp-step-thru-weight": "Lectric 支持中心：车重说明",
+    "https://portlandebikerebate.com/standard-cargo-applicants/": "波特兰骑行补贴：申请资格与覆盖范围",
+    "https://www.oregon.gov/dor/programs/businesses/Pages/Bicycle-excise-tax.aspx": "俄勒冈州税务局：自行车消费税"
+   }
+  }
+ }
+}

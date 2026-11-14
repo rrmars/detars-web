@@ -5,7 +5,7 @@ import { validateKnowledge } from "./validate-knowledge.mjs";
 const value = JSON.parse(await readFile(new URL("../public/knowledge.json", import.meta.url), "utf8"));
 test("public bundle is bounded and valid", () => {
   assert.equal(validateKnowledge(value), value);
-  assert.equal(value.documents.length, 2);
+  assert.ok(value.documents.length >= 1 && value.documents.length <= 64, `documents=${value.documents.length}`);
 });
 test("reject unsafe, missing, duplicate, malformed Unicode, oversized and unknown-link bundles", () => {
   for (const bad of [

@@ -1,0 +1,134 @@
+{
+ "slug": "toronto-retail-manager-data-analyst-switch",
+ "startedAt": "2026-11-06",
+ "activeSec": 3233,
+ "stats": {
+  "searches": 85,
+  "pages": 92,
+  "colleagues": 4,
+  "parallel": 4,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 30,
+   "end": 1209,
+   "chips": [
+    "https://www.ontario.ca/document/your-guide-employment-standards-act-0/requirements-related-publicly-advertised-job",
+    "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45350-canada-training-credit.html",
+    "https://eopg.labour.gov.on.ca/en/programs/better-jobs-ontario/questions-and-answers/program-overview/",
+    "https://www.ontario.ca/page/learn-about-osap",
+    "https://www.jobbank.gc.ca/marketreport/wages-occupation/17882/geo9219"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1209,
+   "end": 2717,
+   "chips": [
+    "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Reporting-Analyst_JR26080667",
+    "https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/Campus/job/Sun-Life-Toronto-One-York/Student--Analytics---Technology-Systems--Winter-2027-_JR00126478",
+    "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/job/Toronto-ON/Analytics-Co-op_2621449-2"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2717,
+   "end": 3143,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Plug in your own shifts, savings and goals and get a data-career plan built from real job ads",
+   "runTitle": "Toronto retail manager to data analyst: 12 hours a week, CAD 6,000, start January 2027",
+   "fields": [
+    {
+     "key": "hours",
+     "label": "Work shifts and weekly study hours",
+     "value": "Full-time retail store manager; about 12 hours a week for study"
+    },
+    {
+     "key": "education",
+     "label": "Education",
+     "value": "",
+     "placeholder": "e.g. a business diploma, no degree in a related field"
+    },
+    {
+     "key": "computer",
+     "label": "Computer and software access",
+     "value": "",
+     "placeholder": "e.g. own laptop, Excel at home, no paid BI licence"
+    },
+    {
+     "key": "pay",
+     "label": "Current pay and minimum acceptable offer",
+     "value": "Currently about CAD 62,000 a year"
+    },
+    {
+     "key": "budget",
+     "label": "Training budget",
+     "value": "CAD 6,000 saved"
+    }
+   ],
+   "template": "Help me plan a Toronto retail-to-data transition around {hours}, {education}, {computer}, {pay} and {budget}. Prioritize retail reporting, SQL and one BI tool. Fit projects and applications inside my available hours, flag degree/student restrictions and unconfirmed costs, and keep funding out of the budget until approved. Ask before enrolling, paying, contacting anyone, applying for jobs or sharing employer data.",
+   "phases": [
+    {
+     "title": "Gather current Toronto job ads, training options and funding rules from public sources",
+     "note": "Job ads, college and bootcamp pages, Ontario and federal funding rules",
+     "judgment": "It reported shortfalls instead of padding the list: the second ad researcher verified five current ads rather than twelve, and none was an ordinary junior opening. It also corrected a likely misreading of the Canada Training Credit, which refunds up to half of eligible fees, not an automatic CAD 5,000."
+    },
+    {
+     "title": "Build the sourced job-ad table and a realistic nine-month plan with the calculations",
+     "note": "Job-ad table, skills summary, training comparison, nine-month plan",
+     "judgment": "The final write-up says plainly that it did not reach the 25 junior ads asked for. Of the 25 ads it screened, seven were non-student early-career roles and eleven were student-only, and the skills summary uses only those seven."
+    },
+    {
+     "title": "Check the page at desktop and phone widths and deliver the files"
+    }
+   ],
+   "workers": [
+    "Searched public postings for junior Toronto data analyst ads at employers A to L and recorded the skills, experience and pay each one asks for",
+    "Did the same for employers M to Z, keeping only ads that could be opened and checked",
+    "Checked the official Ontario and federal rules on pay posting, the training credit, Better Jobs Ontario and part-time student aid",
+    "Compared college certificate and bootcamp fees, formats, workload and start dates"
+   ],
+   "chipNames": {
+    "https://www.ontario.ca/document/your-guide-employment-standards-act-0/requirements-related-publicly-advertised-job": "Ontario: rules for publicly advertised jobs",
+    "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45350-canada-training-credit.html": "Canada Revenue Agency: Canada Training Credit",
+    "https://eopg.labour.gov.on.ca/en/programs/better-jobs-ontario/questions-and-answers/program-overview/": "Better Jobs Ontario: program overview",
+    "https://www.ontario.ca/page/learn-about-osap": "Ontario: how OSAP works",
+    "https://www.jobbank.gc.ca/marketreport/wages-occupation/17882/geo9219": "Job Bank: Toronto wage report",
+    "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Reporting-Analyst_JR26080667": "Manulife: Summer 2027 reporting analyst intern",
+    "https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/Campus/job/Sun-Life-Toronto-One-York/Student--Analytics---Technology-Systems--Winter-2027-_JR00126478": "Sun Life: winter 2027 analytics student role",
+    "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/job/Toronto-ON/Analytics-Co-op_2621449-2": "CIBC: analytics co-op"
+   }
+  }
+ }
+}

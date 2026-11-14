@@ -1,0 +1,228 @@
+{
+ "slug": "tokyo-five-day-cherry-blossom-itinerary",
+ "startedAt": "2026-11-05",
+ "activeSec": 1358,
+ "stats": {
+  "searches": 30,
+  "pages": 45,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 48,
+   "end": 398,
+   "chips": [
+    "https://www.jma-net.go.jp/tokyo/shosai/kanyoho/sakura/sakura.html",
+    "https://www.meijijingu.or.jp/en/visit/",
+    "https://www.senso-ji.jp/guide/",
+    "https://www.kotoku-in.jp/en/",
+    "https://www.hasedera.jp/en/guide/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 398,
+   "end": 958,
+   "chips": [
+    "https://www.tnm.jp/modules/r_free_page/?id=113&lang=en",
+    "https://www.nezu-muse.or.jp/en/visit/",
+    "https://policies.env.go.jp/national-garden/shinjukugyoen/english/guide/information/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 958,
+   "end": 1227,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own trip and get the same five-day plan checked against official pages",
+   "runTitle": "A first-time couple in Tokyo for five days in late March 2027, in cherry blossom season",
+   "fields": [
+    {
+     "key": "city",
+     "label": "Tokyo or destination city",
+     "value": "Tokyo"
+    },
+    {
+     "key": "dates",
+     "label": "Exact dates",
+     "value": "Five days in late March 2027"
+    },
+    {
+     "key": "hotel",
+     "label": "Hotel or station",
+     "value": "",
+     "placeholder": "e.g. a hotel near Shinjuku Station"
+    },
+    {
+     "key": "airport",
+     "label": "Airport and arrival/departure times",
+     "value": "",
+     "placeholder": "e.g. land at Haneda at 14:00, fly out at 11:30 on the last day"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency",
+     "value": "About USD 250 a day for the two of us"
+    },
+    {
+     "key": "excluded",
+     "label": "Excluded costs",
+     "value": "The hotel"
+    },
+    {
+     "key": "walking",
+     "label": "Walking and step limits",
+     "value": "",
+     "placeholder": "e.g. up to 12,000 steps a day, no long staircases"
+    },
+    {
+     "key": "food",
+     "label": "Food needs",
+     "value": "",
+     "placeholder": "e.g. no raw fish; one of us is vegetarian"
+    }
+   ],
+   "template": "Plan five full spring sightseeing days for two adults in {city} on {dates}, staying at {hotel}, with {airport}, {budget}, {excluded}, {walking} and {food}; use the flexible approach above and flag what to check before buying. Do not book or contact anyone.",
+   "phases": [
+    {
+     "title": "Check official opening hours, blossom timing and transport for the places on the list",
+     "note": "Temples, parks, markets and the Kamakura day trip, plus when forecasts usually appear",
+     "judgment": "It kept a typical bloom date apart from a forecast: Tokyo’s usual full bloom is 31 March, but that is not a 2027 prediction, and it warned against assuming forecasts only appear in January, since the first forecast for 2026 came out on 18 December 2025."
+    },
+    {
+     "title": "Build the five-day plan as a phone page and a budget spreadsheet",
+     "note": "Day-by-day route, travel times, booking advice and costs",
+     "judgment": "The budget states its exchange rate as an assumption (¥150 to US$1), lands at about US$179 a day against the US$250 allowance, and marks anything for 2027 that has not been announced instead of assuming it will match 2026."
+    },
+    {
+     "title": "Check the files, the sums and the phone layout, then deliver",
+     "judgment": "An independent reviewer re-checked three details against official museum and temple pages, such as the Tokyo National Museum’s opening on 29 March 2027 and its gallery closures, and said plainly which claims it had not re-verified and that it was not a visual sign-off."
+    }
+   ],
+   "workers": [
+    "Checked the Kamakura day trip on the temples’ own sites: Great Buddha and Hasedera hours, last entry, fees and the train",
+    "Checked cherry blossom timing and visitor hours for Sensoji, Meiji Jingu, Ueno Park, Chidorigafuchi and Tsukiji Outer Market",
+    "Reviewed the finished plan on its own: all five days present, budget sums recomputed, and a few facts spot-checked"
+   ],
+   "chipNames": {
+    "https://www.jma-net.go.jp/tokyo/shosai/kanyoho/sakura/sakura.html": "Japan Meteorological Agency: Tokyo cherry blossoms",
+    "https://www.meijijingu.or.jp/en/visit/": "Meiji Jingu: visiting information",
+    "https://www.senso-ji.jp/guide/": "Sensoji: visitor guide",
+    "https://www.kotoku-in.jp/en/": "Kotoku-in (Great Buddha): official site",
+    "https://www.hasedera.jp/en/guide/": "Hasedera: visitor guide",
+    "https://www.tnm.jp/modules/r_free_page/?id=113&lang=en": "Tokyo National Museum: opening information",
+    "https://www.nezu-muse.or.jp/en/visit/": "Nezu Museum: visitor information",
+    "https://policies.env.go.jp/national-garden/shinjukugyoen/english/guide/information/": "Shinjuku Gyoen: park information"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的行程，得到同样对照官方页面核对过的五日安排",
+   "runTitle": "第一次去东京的两个人：2027 年 3 月下旬，樱花季里的五天",
+   "fields": [
+    {
+     "key": "city",
+     "label": "东京或目的地城市",
+     "value": "东京"
+    },
+    {
+     "key": "dates",
+     "label": "准确日期",
+     "value": "2027 年 3 月下旬，共五天"
+    },
+    {
+     "key": "hotel",
+     "label": "酒店或车站",
+     "value": "",
+     "placeholder": "例如：新宿站附近的酒店"
+    },
+    {
+     "key": "airport",
+     "label": "机场及抵离时间",
+     "value": "",
+     "placeholder": "例如：14:00 到羽田，最后一天 11:30 的航班离开"
+    },
+    {
+     "key": "budget",
+     "label": "金额及币种",
+     "value": "两个人每天约 250 美元"
+    },
+    {
+     "key": "excluded",
+     "label": "不含项目",
+     "value": "酒店"
+    },
+    {
+     "key": "walking",
+     "label": "步行和台阶上限",
+     "value": "",
+     "placeholder": "例如：每天不超过 12,000 步，不走长楼梯"
+    },
+    {
+     "key": "food",
+     "label": "饮食需求",
+     "value": "",
+     "placeholder": "例如：不吃生鱼；其中一人吃素"
+    }
+   ],
+   "template": "请按上面的灵活安排，为两名成年人规划{city}在{dates}的春季五个完整游览日：住在{hotel}，经{airport}出行，预算{budget}，不含{excluded}，步行和台阶上限{walking}，饮食需求{food}；提醒买票前要确认什么，不要预订或联系任何人。",
+   "phases": [
+    {
+     "title": "核对景点清单上的官方开放时间、樱花花期和交通",
+     "note": "寺院、公园、市场和镰仓一日游，以及樱花预报通常什么时候发布",
+     "judgment": "它把往年的常规花期和今年的预报分开：东京通常 3 月 31 日满开，但这不是对 2027 年的预测；它也提醒不要假定预报只在一月发布，因为 2026 年的首次预报是 2025 年 12 月 18 日发布的。"
+    },
+    {
+     "title": "做成手机网页和预算表格的五天安排",
+     "note": "逐日路线、交通时间、预订提示和费用",
+     "judgment": "预算把汇率写明是假设（1 美元兑 150 日元），折合每天约 179 美元，在 250 美元的额度内；2027 年还没公布的安排都做了标注，没有假定会和 2026 年一样。"
+    },
+    {
+     "title": "核对文件、算式和手机版式，然后交付",
+     "judgment": "独立复核的同事对照官方博物馆和寺院页面抽查了三处，比如东京国立博物馆 2027 年 3 月 29 日的开馆和展厅闭馆安排；它也如实说明哪些说法没有重新核实，这次不是版式验收。"
+    }
+   ],
+   "workers": [
+    "在寺院自己的网站上核对镰仓一日游：大佛和长谷寺的开放时间、最后入场、门票和电车",
+    "核对樱花花期，以及浅草寺、明治神宫、上野公园、千鸟之渊和筑地场外市场的参观时间",
+    "独立复核成稿：五天内容齐全，预算重新计算，并抽查了几项事实"
+   ],
+   "chipNames": {
+    "https://www.jma-net.go.jp/tokyo/shosai/kanyoho/sakura/sakura.html": "日本气象厅：东京樱花",
+    "https://www.meijijingu.or.jp/en/visit/": "明治神宫：参拜信息",
+    "https://www.senso-ji.jp/guide/": "浅草寺：参观指南",
+    "https://www.kotoku-in.jp/en/": "高德院（镰仓大佛）官网",
+    "https://www.hasedera.jp/en/guide/": "长谷寺：参观指南",
+    "https://www.tnm.jp/modules/r_free_page/?id=113&lang=en": "东京国立博物馆：开馆信息",
+    "https://www.nezu-muse.or.jp/en/visit/": "根津美术馆：参观信息",
+    "https://policies.env.go.jp/national-garden/shinjukugyoen/english/guide/information/": "新宿御苑：公园信息"
+   }
+  }
+ }
+}

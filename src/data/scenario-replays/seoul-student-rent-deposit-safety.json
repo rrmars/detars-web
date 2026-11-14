@@ -1,0 +1,219 @@
+{
+ "slug": "seoul-student-rent-deposit-safety",
+ "startedAt": "2026-11-05",
+ "activeSec": 1698,
+ "stats": {
+  "searches": 40,
+  "pages": 68,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 41,
+   "end": 480,
+   "chips": [
+    "https://dorm.yonsei.ac.kr/board/?id=schedule&mode=V&idx=9105",
+    "https://dorm.yonsei.ac.kr/board/?id=schedule&idx=8956&mode=V",
+    "https://dorm.yonsei.ac.kr/board/?id=schedule_en&idx=9045&mode=V",
+    "https://dorm.yonsei.ac.kr/en/board/?id=schedule_en"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 480,
+   "end": 1415,
+   "chips": [
+    "https://www.immigration.go.kr/bbs/moj/93/559234/artclView.do",
+    "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2853&ccfNo=2&cciNo=3&cnpClsNo=1",
+    "https://www.gov.kr/main?a=AA020InfoCappViewApp&HighCtgCD=A01010&CappBizCD=12700000026",
+    "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=15000000098",
+    "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=2&cciNo=1&cnpClsNo=1"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1415,
+   "end": 1634,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own campus, dates and deposit limit and get the same housing comparison, with the deposit-safety checks before you pay",
+   "runTitle": "Seoul housing for a Vietnamese master’s student at Yonsei: about KRW 800,000 a month, all-in, from March 2027",
+   "fields": [
+    {
+     "key": "campus",
+     "label": "Campus and department",
+     "value": "Yonsei University, Seoul"
+    },
+    {
+     "key": "dates",
+     "label": "Arrival and departure dates",
+     "value": "from 1 March 2027, for 12 months"
+    },
+    {
+     "key": "budget",
+     "label": "Housing-only or whole-life budget",
+     "value": "about KRW 800,000 a month, all-in"
+    },
+    {
+     "key": "deposit",
+     "label": "Upfront deposit limit",
+     "value": "",
+     "placeholder": "e.g. no more than KRW 3,000,000 upfront"
+    },
+    {
+     "key": "programme",
+     "label": "Programme and nationality",
+     "value": "international master’s student, Vietnamese, aged 24"
+    },
+    {
+     "key": "needs",
+     "label": "Room, gender and access needs",
+     "value": "",
+     "placeholder": "e.g. single room, female-only floor, step-free access"
+    },
+    {
+     "key": "adverts",
+     "label": "Adverts you already have",
+     "value": "",
+     "placeholder": "e.g. links to 3 listings you are considering"
+    }
+   ],
+   "template": "Compare housing near {campus} for {dates}, with {budget}, {deposit}, {programme}, {needs} and {adverts}. Separate all bills and deposits, flag document and refund risks, and list what to confirm before payment. Plan only; do not contact, apply, reserve or pay.",
+   "phases": [
+    {
+     "title": "Read the university’s official dorm notices and the government’s registration and housing rules",
+     "note": "Dorm fees and eligibility, foreigner registration, and the legal basis for deposit protection",
+     "judgment": "It would not let the exchange-student dorm pass as an option for a degree-seeking master’s student: the notice says “Exchange/visiting students only”. It also said that no spring 2027 dates or fees had been published, and labelled the 2026 dates as past examples, not 2027 deadlines."
+    },
+    {
+     "title": "Check at least ten live listings and compare the full monthly cost of each",
+     "note": "Listings in Sinchon, Yeonhui, Hongdae and Mangwon, plus how to check a building’s ownership record",
+     "judgment": "It flagged conflicting official guidance rather than picking one silently: an address change is to be reported within 15 days, while some local government pages still say 14. It also stated that the 90-day window for registering as a foreigner is not 90 days of protected housing rights, and removed citations it could not match to the right source."
+    },
+    {
+     "title": "Build the guide page and source list, then check the files",
+     "judgment": "The finished guide says plainly what is not known: spring 2027 dorm dates were not found published, and a live advert does not guarantee a room is free in March. Before delivery it re-checked the listing count, internal links and the budget arithmetic."
+    }
+   ],
+   "workers": [
+    "Read Yonsei’s official housing notices for graduate dorm fees, who can apply and when applications open",
+    "Collected current public listings in Yeonhui and Mangwon, covering goshiwon, share houses and one-rooms, so rent, deposit and fees could be compared",
+    "Read official Korean government pages on foreigner registration, reporting an address change, and how to look up a building’s ownership record"
+   ],
+   "chipNames": {
+    "https://dorm.yonsei.ac.kr/board/?id=schedule&mode=V&idx=9105": "Yonsei Housing: fall 2026 regular selection",
+    "https://dorm.yonsei.ac.kr/board/?id=schedule&idx=8956&mode=V": "Yonsei Housing: spring 2026 regular selection",
+    "https://dorm.yonsei.ac.kr/board/?id=schedule_en&idx=9045&mode=V": "Yonsei Housing: exchange and visiting student notice",
+    "https://dorm.yonsei.ac.kr/en/board/?id=schedule_en": "Yonsei Housing: English schedule board",
+    "https://www.immigration.go.kr/bbs/moj/93/559234/artclView.do": "Ministry of Justice: foreigner registration card",
+    "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2853&ccfNo=2&cciNo=3&cnpClsNo=1": "Easy Law: international student registration",
+    "https://www.gov.kr/main?a=AA020InfoCappViewApp&HighCtgCD=A01010&CappBizCD=12700000026": "Government24: foreigner change-of-residence report",
+    "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=15000000098": "Government24: building register",
+    "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=2&cciNo=1&cnpClsNo=1": "Easy Law: checking the property-rights register"
+   }
+  },
+  "zh": {
+   "askTitle": "把校区、日期和押金上限换成你的，就能得到同样的住房对比，以及付款前的押金安全检查",
+   "runTitle": "延世大学的越南籍硕士生在首尔找房：2027 年 3 月入学，每月全包约 80 万韩元",
+   "fields": [
+    {
+     "key": "campus",
+     "label": "校区和系楼",
+     "value": "首尔延世大学"
+    },
+    {
+     "key": "dates",
+     "label": "抵达和离开日期",
+     "value": "2027 年 3 月 1 日起，住 12 个月"
+    },
+    {
+     "key": "budget",
+     "label": "纯住房还是全部生活的预算",
+     "value": "每月全包约 80 万韩元"
+    },
+    {
+     "key": "deposit",
+     "label": "前期押金上限",
+     "value": "",
+     "placeholder": "例如：前期押金最多 300 万韩元"
+    },
+    {
+     "key": "programme",
+     "label": "项目和国籍",
+     "value": "国际硕士生，越南籍，24 岁"
+    },
+    {
+     "key": "needs",
+     "label": "房型、性别和无障碍需求",
+     "value": "",
+     "placeholder": "例如：单人间、女生楼层、无台阶通道"
+    },
+    {
+     "key": "adverts",
+     "label": "已有的房源广告",
+     "value": "",
+     "placeholder": "例如：你在考虑的 3 条房源链接"
+    }
+   ],
+   "template": "请比较{campus}附近、{dates}期间的住房，预算为{budget}，前期押金最多{deposit}，我的项目及国籍是{programme}，房型、性别及无障碍需求为{needs}，已有广告为{adverts}。分清所有账单和押金，提醒文件及退款风险，列出付款前要确认什么。只做计划，不联系、不申请、不留房、不付款。",
+   "phases": [
+    {
+     "title": "读学校官方宿舍通知，以及政府关于外国人登记和租房保护的规定",
+     "note": "宿舍费用和申请资格、外国人登记、押金保护的法律依据",
+     "judgment": "它没有把交换生宿舍当作可选项：公告写明“仅限交换生或访问生”，而提问的是读学位的硕士生。它还写明 2027 年春季学期的日期和费用没有公布，并把 2026 年的日期标成过往参考，不当作 2027 年的截止日。"
+    },
+    {
+     "title": "核对至少十个在线房源，算出每个的完整月费用",
+     "note": "新村、延禧、弘大、望远四个片区的房源，以及怎样查建筑物的产权记录",
+     "judgment": "遇到官方说法不一致，它没有悄悄选一个，而是标了出来：搬家后的地址变更应在 15 天内申报，而个别地方政府页面仍写 14 天。它还写明，外国人登记的 90 天期限不等于 90 天受保护的租住权利，并删掉了对不上来源的引用。"
+    },
+    {
+     "title": "做出指南页和来源清单，并检查文件",
+     "judgment": "最终指南直接写出了不知道的部分：2027 年春季宿舍的日期没有找到公布，网上有房源也不保证三月还有空房。交付前它重新核对了房源数量、内部链接和预算算术。"
+    }
+   ],
+   "workers": [
+    "读延世大学官方的住宿通知：研究生宿舍的费用、谁能申请、什么时候申请",
+    "收集延禧和望远一带当前公开的房源，包括考试院、合租屋和一居室，方便比较房租、押金和杂费",
+    "读韩国政府官网页面：外国人登记、搬家后的地址申报，以及怎样查一栋楼的产权记录"
+   ],
+   "chipNames": {
+    "https://dorm.yonsei.ac.kr/board/?id=schedule&mode=V&idx=9105": "延世宿舍：2026 秋季常规遴选",
+    "https://dorm.yonsei.ac.kr/board/?id=schedule&idx=8956&mode=V": "延世宿舍：2026 春季常规遴选",
+    "https://dorm.yonsei.ac.kr/board/?id=schedule_en&idx=9045&mode=V": "延世宿舍：交换生和访问生公告",
+    "https://dorm.yonsei.ac.kr/en/board/?id=schedule_en": "延世宿舍：英文日程公告栏",
+    "https://www.immigration.go.kr/bbs/moj/93/559234/artclView.do": "法务部：外国人登记证",
+    "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2853&ccfNo=2&cciNo=3&cnpClsNo=1": "Easy Law：留学生登记与变更",
+    "https://www.gov.kr/main?a=AA020InfoCappViewApp&HighCtgCD=A01010&CappBizCD=12700000026": "Government24：外国人变更住址申报",
+    "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=15000000098": "Government24：建筑物登记簿",
+    "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=2&cciNo=1&cnpClsNo=1": "Easy Law：查看产权登记簿"
+   }
+  }
+ }
+}

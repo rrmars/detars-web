@@ -1,0 +1,148 @@
+{
+ "slug": "portugal-d7-retirement-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1869,
+ "stats": {
+  "searches": 59,
+  "pages": 28,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 661,
+   "chips": [
+    "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/D7-Residence-Visa-For-Retirement-Purposes-Religious-Purposes-Or-For-Living-From-Individual-Revenues-March-2025.pdf",
+    "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia",
+    "https://www.gov.uk/government/publications/portugal-tax-treaties",
+    "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Decreto-Lei-212-2026.pdf",
+    "https://www.medis.pt/seguros-de-saude/vintage/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 661,
+   "end": 1590,
+   "chips": [
+    "https://www.generalitranquilidade.pt/particulares/seguros/saude/saude-55"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 23,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1590,
+   "end": 1809,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own ages, pensions, savings and target areas to get the same visa, rent and monthly-budget check before you sign a lease",
+   "runTitle": "A UK couple of 64 planning a D7 move to Portugal in autumn 2027: visa floor, rent, healthcare and tax against £3,200 a month",
+   "fields": [
+    {
+     "key": "couple",
+     "label": "Nationalities, UK residence and relationship",
+     "value": "a retired couple from the UK"
+    },
+    {
+     "key": "ages",
+     "label": "Birth dates or ages",
+     "value": "both aged 64"
+    },
+    {
+     "key": "arrival",
+     "label": "Target arrival",
+     "value": "autumn 2027"
+    },
+    {
+     "key": "pensions",
+     "label": "Pensions per person and scheme types",
+     "value": "combined pension income of £3,200 a month after tax"
+    },
+    {
+     "key": "tax",
+     "label": "Current tax deductions",
+     "value": "",
+     "placeholder": "e.g. £400 a month of income tax taken at source"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and protected reserve",
+     "value": "£60,000 in savings"
+    },
+    {
+     "key": "health",
+     "label": "Healthcare needs and insurance quotes",
+     "value": "",
+     "placeholder": "e.g. one regular prescription each; two written insurance quotes"
+    },
+    {
+     "key": "areas",
+     "label": "Preferred areas and actual lease quotes",
+     "value": "near Lisbon: Cascais, Oeiras or Almada"
+    }
+   ],
+   "template": "Plan a Portugal retirement move for {couple}, {ages}, {arrival}, {pensions}, {tax}, {savings}, {health} and {areas}. Separate the D7 evidence floor from living costs, calculate scenarios from confirmed post-move net income, and flag what needs immigration, tax or insurance confirmation before a lease. Keep FX, dated adverts and unquoted allowances distinct. Plan only; do not apply, contact anyone, open accounts, book or pay.",
+   "phases": [
+    {
+     "title": "Three colleagues research in parallel: official D7 visa requirements, healthcare and tax on UK pensions, and live two-bedroom adverts",
+     "note": "Visa checklist and the income floor, public and private healthcare, the tax treaty, and dated rent examples",
+     "judgment": "It would not pass off the wrong insurance price as theirs: the only published premium it found (€49.20 a month) is for someone aged 57, and another insurer’s €25 a day is a hospital benefit, not a premium, so no price for two 64-year-olds is claimed."
+    },
+    {
+     "title": "Write the friendly guide with rent examples, healthcare, tax and a monthly budget against £3,200",
+     "note": "Estimates and announced-but-not-yet-in-force changes are marked as such",
+     "judgment": "It told them plainly that the plan is tight: their income clears the D7 floor, but at £1 = €1.15 the illustrative €3,500 monthly plan leaves only €180, and the guide shows how that moves with exchange rates, rent and inflation."
+    },
+    {
+     "title": "Independent review: recompute the budget, sample the raw rental evidence, then check links and page layout",
+     "judgment": "The reviewer found no numerical error and still raised two honest qualifications: the guide runs long, at about 3,800 words, and some early research steps used an existing browser profile rather than a fresh one, which the source record discloses."
+    }
+   ],
+   "workers": [
+    "Read the official D7 visa requirements from the Portuguese consulate, the application centre and the immigration agency, with timings",
+    "Checked public healthcare access, private insurance examples and tax on UK pensions now the old resident regime has ended",
+    "Collected live two-bedroom rental adverts in Lisbon, Cascais, Oeiras and Almada",
+    "Independent review of the finished guide: recomputed the budget and sampled the rental evidence"
+   ],
+   "chipNames": {
+    "https://www.vfsglobal.com/one-pager/portugal/uk/english/pdf/D7-Residence-Visa-For-Retirement-Purposes-Religious-Purposes-Or-For-Living-From-Individual-Revenues-March-2025.pdf": "VFS UK: D7 visa checklist",
+    "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia": "AIMA: means of subsistence",
+    "https://www.gov.uk/government/publications/portugal-tax-treaties": "UK government: Portugal tax treaties",
+    "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Decreto-Lei-212-2026.pdf": "Portugal Decree-Law 212/2026 on tax rates",
+    "https://www.medis.pt/seguros-de-saude/vintage/": "Médis: health insurance for over-50s",
+    "https://www.generalitranquilidade.pt/particulares/seguros/saude/saude-55": "Generali Tranquilidade: health insurance 55+"
+   }
+  }
+ }
+}

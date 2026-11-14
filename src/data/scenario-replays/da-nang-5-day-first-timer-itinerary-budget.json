@@ -1,0 +1,241 @@
+{
+ "slug": "da-nang-5-day-first-timer-itinerary-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1865,
+ "stats": {
+  "searches": 40,
+  "pages": 41,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 29,
+   "end": 581,
+   "chips": [
+    "https://evisa.gov.vn/faq",
+    "https://vietnam.embassy.gov.au/hnoi/Driving_in_Vietnam.html",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam",
+    "https://danangfantasticity.com/en/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites",
+    "https://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 581,
+   "end": 1359,
+   "chips": [
+    "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-quyet-98-2026-NQ-HDND-sua-doi-Nghi-quyet-02-2026-NQ-HDND-Da-Nang-720271.aspx",
+    "https://cttdt.danangportal.gov.vn/vi/web/dng/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1359,
+   "end": 1667,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates, airports and budget to get a costed day-by-day trip plan",
+   "runTitle": "Sydney to Da Nang for 5 days: a costed first-timer plan on AUD 180 a day for two",
+   "fields": [
+    {
+     "key": "days",
+     "label": "Number of days",
+     "value": "5"
+    },
+    {
+     "key": "destination",
+     "label": "Destination",
+     "value": "Da Nang"
+    },
+    {
+     "key": "party",
+     "label": "Who is travelling: number, ages and mobility",
+     "value": "my wife and me, early 30s"
+    },
+    {
+     "key": "dates",
+     "label": "Travel dates",
+     "value": "late September 2027"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival airport and time",
+     "value": "",
+     "placeholder": "e.g. arriving at Da Nang airport around 10:00 on day 1"
+    },
+    {
+     "key": "departure",
+     "label": "Departure airport and time",
+     "value": "",
+     "placeholder": "e.g. leaving Da Nang airport at 20:00 on day 5"
+    },
+    {
+     "key": "passport",
+     "label": "Passports",
+     "value": "Australian passports"
+    },
+    {
+     "key": "interests",
+     "label": "Interests and base preference",
+     "value": "beach time, Hoi An old town, Ba Na Hills or the Marble Mountains if worth it, street food, maybe a day trip to Hue or the Hai Van Pass; undecided between My Khe beach, Hoi An and the city as a base"
+    },
+    {
+     "key": "budget",
+     "label": "Budget amount and currency",
+     "value": "about AUD 180 for the two of us, excluding the hotel"
+    },
+    {
+     "key": "limitType",
+     "label": "Daily limit or flexible trip total",
+     "value": "a daily limit"
+    }
+   ],
+   "template": "Plan {days} arrival-through-departure days in {destination} for {party} on {dates}, arriving {arrival} and leaving {departure}. Our passports are {passport}, interests and base preference {interests}, budget {budget}, with {limitType}. Show morning, afternoon and evening plans, realistic transport and waiting, safe weather swaps and cancellations. Price meals, tickets, both airport transfers and day cars; clearly separate hotels, flights, visas and insurance. Give daily totals, an exchange-rate assumption and separate reserve; subtract a day before adding its replacement. Check dated official fees and entry rules, distinguish packages from statutory tickets, and flag unknowns with sources. Do not book, submit forms, pay or contact suppliers.",
+   "phases": [
+    {
+     "title": "Read the official entry rules, transport, ticket and weather information",
+     "note": "Visa, licence rules, attraction prices and late-September weather",
+     "judgment": "It stopped a plan that would not have worked: Australian licences, even with an international permit, do not allow you to ride a scooter in Vietnam, so the plan uses cars and drivers. It also marked entry rules for September 2027 as unconfirmed, because only today’s rules could be read."
+    },
+    {
+     "title": "Build the costed five-day plan, phone page and spreadsheet",
+     "note": "Day-by-day plan, daily totals, bad-weather swaps",
+     "judgment": "It settled a ticket conflict by reading the law itself: older pages still advertised a 120,000 VND Hoi An bundle, but the city’s July 2026 resolution sets 20,000 VND per person per building, so it recommended budgeting up to 120,000 until the bundle is confirmed. It also corrected Hai Van Pass from “free” to 70,000 VND per adult, and a separate reviewer recomputed the AUD 601.38 total and flagged two spreadsheet cells that would go stale if you change the assumptions."
+    },
+    {
+     "title": "Check the finished files and hand them over",
+     "judgment": "It told you plainly what it could not confirm for 2027: everything was read on 5 November 2026, so rules and prices need rechecking before you go, and hotel, flights, insurance and the USD 50 in visa fees for the two of you stay outside the daily budget."
+    }
+   ],
+   "workers": [
+    "Read the official Vietnam e-visa pages and Australian government advice on entry, passport validity and driving or riding with an Australian licence",
+    "Collected dated ticket prices and opening hours for Marble Mountains, Hoi An, Ba Na Hills, Hai Van Pass and Hue, plus private-car fares",
+    "Independently opened the finished page and spreadsheet, recomputed the total and checked cited prices and rules against their sources"
+   ],
+   "chipNames": {
+    "https://evisa.gov.vn/faq": "Vietnam e-visa portal: FAQ",
+    "https://vietnam.embassy.gov.au/hnoi/Driving_in_Vietnam.html": "Australian Embassy in Vietnam: driving in Vietnam",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam": "Smartraveller: Vietnam travel advice",
+    "https://danangfantasticity.com/en/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites": "Da Nang 2026 attraction admission prices",
+    "https://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh": "Hoi An World Heritage tourism information",
+    "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-quyet-98-2026-NQ-HDND-sua-doi-Nghi-quyet-02-2026-NQ-HDND-Da-Nang-720271.aspx": "Da Nang Resolution 98/2026/NQ-HĐND (visiting fees)",
+    "https://cttdt.danangportal.gov.vn/vi/web/dng/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang": "Da Nang city portal: new visiting fees from 10 August"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的出行日期、机场和预算，得到逐日算好费用的行程",
+   "runTitle": "悉尼到岘港 5 天：两人每天 180 澳元、带费用明细的首次游行程",
+   "fields": [
+    {
+     "key": "party",
+     "label": "出行人数、年龄和行动能力",
+     "value": "我和太太，30 出头"
+    },
+    {
+     "key": "destination",
+     "label": "目的地",
+     "value": "岘港"
+    },
+    {
+     "key": "dates",
+     "label": "出行日期",
+     "value": "2027 年 9 月下旬"
+    },
+    {
+     "key": "days",
+     "label": "天数",
+     "value": "5"
+    },
+    {
+     "key": "arrival",
+     "label": "抵达机场和时间",
+     "value": "",
+     "placeholder": "例如：第 1 天上午 10 点左右抵达岘港机场"
+    },
+    {
+     "key": "departure",
+     "label": "离境机场和时间",
+     "value": "",
+     "placeholder": "例如：第 5 天晚上 8 点从岘港机场离开"
+    },
+    {
+     "key": "passport",
+     "label": "护照",
+     "value": "澳大利亚护照"
+    },
+    {
+     "key": "interests",
+     "label": "兴趣及住宿偏好",
+     "value": "想要海滩时光、会安古城、巴拿山或五行山（值得的话）、街头美食，也许加一天顺化或海云关的一日游；住在美溪海滩、会安还是市区，还没定"
+    },
+    {
+     "key": "budget",
+     "label": "预算金额和币种",
+     "value": "两个人每天约 180 澳元，不含酒店"
+    },
+    {
+     "key": "limitType",
+     "label": "单日上限还是灵活的全程预算",
+     "value": "单日上限"
+    }
+   ],
+   "template": "请为{party}规划{destination}、{dates}从抵达到离境共{days}天：抵达{arrival}、离境{departure}，护照{passport}，兴趣及住宿偏好{interests}，预算{budget}，采用{limitType}。给上午、下午和晚间安排，留现实的行车及等候时间，写雨天调换和恶劣天气取消办法。逐日算餐饮、门票、接送机和包车，明确酒店、机票、签证和保险另计与否；列汇率和独立储备，替换一天先扣旧日。核对有日期的官方票价和入境规则，区分套票与法定收费，给来源和未知项。不要预订、提交表格、付款或联系供应商。",
+   "phases": [
+    {
+     "title": "阅读官方入境规则、交通、门票和天气信息",
+     "note": "签证、驾照规定、景点票价和 9 月下旬天气",
+     "judgment": "它拦下了一个行不通的方案：澳大利亚驾照即使配国际驾照，也不能在越南骑摩托，所以行程改用包车和司机；它还把 2027 年 9 月的入境规则标为“未确认”，因为只能读到目前有效的规则。"
+    },
+    {
+     "title": "编出带费用的五天行程、手机网页和表格",
+     "note": "逐日安排、每日合计、坏天气备选",
+     "judgment": "它直接读法规原文，解决了一处票价冲突：旧页面仍写着会安 12 万越南盾的联票，但当地 2026 年 7 月的决议规定每人每处 2 万越南盾，所以建议先按最多 12 万预算，等联票确认后再改；它还把海云关从“免费”更正为每位成人 7 万越南盾；另一位独立复核的同事重算了 601.38 澳元的总价，并指出表格里有两处在你改动假设后会过期。"
+    },
+    {
+     "title": "检查成品文件并交付",
+     "judgment": "它明确告诉你哪些 2027 年的信息无法确认：所有内容都读于 2026 年 11 月 5 日，出发前需要重新核对；酒店、机票、保险，以及两个人共 50 美元的签证费，都不在每日预算内。"
+    }
+   ],
+   "workers": [
+    "阅读越南官方电子签证页面和澳大利亚政府建议，核实入境要求、护照有效期以及澳大利亚驾照在越南的使用规定",
+    "收集五行山、会安、巴拿山、海云关和顺化的带日期票价与开放时间，以及包车价格",
+    "独立打开成品网页和表格，重新计算总价，并对照来源核对引用的价格和规定"
+   ],
+   "chipNames": {
+    "https://evisa.gov.vn/faq": "越南电子签证官网：常见问题",
+    "https://vietnam.embassy.gov.au/hnoi/Driving_in_Vietnam.html": "澳大利亚驻越南使馆：在越南驾车",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam": "澳大利亚政府 Smartraveller：越南旅行提示",
+    "https://danangfantasticity.com/en/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites": "岘港 2026 年景点门票价格",
+    "https://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh": "会安世界遗产旅游信息",
+    "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-quyet-98-2026-NQ-HDND-sua-doi-Nghi-quyet-02-2026-NQ-HDND-Da-Nang-720271.aspx": "岘港市第 98/2026/NQ-HĐND 号决议（参观收费）",
+    "https://cttdt.danangportal.gov.vn/vi/web/dng/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang": "岘港市政府门户：8 月 10 日起新参观收费"
+   }
+  }
+ }
+}

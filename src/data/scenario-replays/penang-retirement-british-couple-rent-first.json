@@ -1,0 +1,137 @@
+{
+ "slug": "penang-retirement-british-couple-rent-first",
+ "startedAt": "2026-11-07",
+ "activeSec": 1802,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 40,
+   "end": 563,
+   "chips": [
+    "https://www.mm2h.gov.my/apply/guidelines",
+    "https://www.ihhmalaysia-international.com/gleneagles/penang",
+    "https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad/countries-where-we-pay-an-annual-increase-in-the-state-pension",
+    "https://www.gov.uk/government/publications/malaysia-tax-treaties",
+    "https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/planning-your-healthcare/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 563,
+   "end": 1474,
+   "chips": [
+    "https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf",
+    "https://mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1474,
+   "end": 1656,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own dates, pensions and savings and get a rent-first trial plan for Penang",
+   "runTitle": "Retired British couple, Penang from late 2027: GBP 3,400 a month and GBP 220,000 saved",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Trial dates",
+     "value": "From late 2027, for most of the year"
+    },
+    {
+     "key": "ages",
+     "label": "Ages or birthdays",
+     "value": "67 and 64"
+    },
+    {
+     "key": "pensions",
+     "label": "Net pensions, by scheme",
+     "value": "Combined pensions of GBP 3,400 a month"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "GBP 220,000 after selling their house"
+    },
+    {
+     "key": "reserve",
+     "label": "Protected medical reserve",
+     "value": "",
+     "placeholder": "e.g. GBP 30,000 kept aside for medical costs"
+    },
+    {
+     "key": "areas",
+     "label": "Areas",
+     "value": "Tanjung Bungah or Gurney (2–3 bedroom condo)"
+    },
+    {
+     "key": "stress",
+     "label": "Rent, insurance and GBP/MYR to stress-test",
+     "value": "",
+     "placeholder": "e.g. rent up to RM4,500, insurance £3,000 a year, 5.4 MYR per GBP"
+    }
+   ],
+   "template": "Help us plan a genuine Penang trial for {dates}. We are British retirees aged {ages}, with net pensions {pensions}, savings {savings} and protected medical reserve {reserve}. Compare lawful short-stay options in {areas}, stress-test {stress}, and list the medical, tax and residence questions to resolve. Keep rent-first as the starting point; assess MM2H only if we want to own and can fund the full cash peak. Ask before contacting anyone, sharing documents, applying or paying.",
+   "phases": [
+    {
+     "title": "Read the official Malaysian visa rules, Penang hospital prices and UK pension rules",
+     "note": "Residence scheme, hospitals, insurer, State Pension, tax treaty, NHS",
+     "judgment": "Where official sources disagreed, it recorded both versions instead of picking one: the annual-stay rule for over-50s and when the fixed deposit can be withdrawn. It also wrote down what it could not confirm, such as Penang’s own minimum and the rules for late 2027."
+    },
+    {
+     "title": "Build the guide and the source log with every calculation shown",
+     "note": "Recommendation, requirements table, healthcare, pension and tax, rent examples, monthly budget",
+     "judgment": "The insurance and tax sections stay cautious: no insurance premium was quoted because none was found, and the guide warns against promising exemption from both UK and Malaysian tax at once. The monthly budget of RM14,130 (£2,616.67) is stated with its assumed exchange rate and costs."
+    },
+    {
+     "title": "Independent check of claims and arithmetic, plus desktop and phone layout review",
+     "judgment": "The independent reviewer re-ran 90 numeric checks and all passed. It still flagged two wordings that sounded firmer than the sources, a fee called a “maximum” and a rent listing implied to run a year, as items to fix."
+    }
+   ],
+   "workers": [
+    "Read Malaysia’s official My Second Home rules and fees (deposits, property, age and stay rules) and the DE Rantau pass",
+    "Collected Penang private-hospital prices, over-65 insurance evidence, NHS access, State Pension rules and the UK tax treatment of teacher pensions",
+    "Independently recomputed every money figure and checked the guide’s claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.mm2h.gov.my/apply/guidelines": "MM2H official portal: application guidelines",
+    "https://www.ihhmalaysia-international.com/gleneagles/penang": "Gleneagles Penang hospital",
+    "https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad/countries-where-we-pay-an-annual-increase-in-the-state-pension": "GOV.UK: where the State Pension rises each year",
+    "https://www.gov.uk/government/publications/malaysia-tax-treaties": "GOV.UK: UK–Malaysia tax treaty",
+    "https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/planning-your-healthcare/": "NHS: planning your healthcare abroad",
+    "https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf": "Malaysia My Second Home official guide (PDF)",
+    "https://mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf": "DE Rantau pass FAQ (PDF)"
+   }
+  }
+ }
+}

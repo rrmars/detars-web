@@ -1,0 +1,197 @@
+{
+ "slug": "bangkok-four-days-with-kids",
+ "startedAt": "2026-11-05",
+ "activeSec": 1374,
+ "stats": {
+  "searches": 36,
+  "pages": 27,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 760,
+   "chips": [
+    "https://www.royalgrandpalace.th/en/buy-ticket",
+    "https://www.visitsealife.com/bangkok/en/tickets/",
+    "https://tdac.immigration.go.th/manual/en/faq.html",
+    "https://helsinki.thaiembassy.org/en/publicservice/new-visa-exemption-and-visa-on-arrival-voa-to-thailand?menu=5d80876d15e39c3354007bb1&page=5f49f4a199a85e260f4278de",
+    "https://suvarnabhumi.airportthai.co.th/service/way-to-airport/detail/Transportation_BKK"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 760,
+   "end": 1249,
+   "chips": [
+    "https://www.bts.co.th/files/uploads/tickets/pdf/fare_matrix_Eff.1Nov25_SJC.pdf",
+    "https://www.tourismthailand.org/Attraction/chatuchak-weekend-market"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1249,
+   "end": 1325,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your dates, family, passports and budget, and get the same relaxed Bangkok plan with the entry rules checked",
+   "runTitle": "Jakarta family of four, kids aged 8 and 12: four days in Bangkok in June 2027 on USD 1,600",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "arriving Thursday morning, 24 June 2027, leaving Sunday evening, 27 June 2027"
+    },
+    {
+     "key": "party",
+     "label": "Adults and children’s ages and heights",
+     "value": "two adults, children aged 8 and 12"
+    },
+    {
+     "key": "passport",
+     "label": "Passport nationality",
+     "value": "Indonesian"
+    },
+    {
+     "key": "airports",
+     "label": "Arrival and departure airport and flight times",
+     "value": "",
+     "placeholder": "e.g. arrive BKK 9:40 a.m., depart DMK 9:00 p.m."
+    },
+    {
+     "key": "diet",
+     "label": "Dietary needs",
+     "value": "one child is vegetarian"
+    },
+    {
+     "key": "budget",
+     "label": "Budget excluding flights",
+     "value": "about USD 1,600 for the family"
+    }
+   ],
+   "template": "Plan a relaxed Bangkok trip for {dates}, {party}, {passport}, {airports}, {diet} and {budget}. Compare occupancy-approved room quotes, early temples, a short market visit, an indoor rain option and vegetarian fallbacks. Separate dated prices from estimates, preserve the airport buffer and check entry only for our actual passports. Plan only; do not book, pay or submit forms.",
+   "phases": [
+    {
+     "title": "Check official attraction, entry and transport facts, and look up family hotel rooms and their prices",
+     "note": "Entry rules for Indonesian passports, ticket prices, airport transfers and two hotels’ family rooms",
+     "judgment": "It caught a rule that has just changed. An older official document still gave Indonesian visitors 60 days visa-free, but the current embassy notices say 30 days from 15 September 2026, so the plan uses 30. It also noticed the official wording on the free arrival card is slightly inconsistent (three days or 72 hours) and advises filing one or two days before landing."
+    },
+    {
+     "title": "Write the itinerary page, entry guidance and source list, with a budget that adds up",
+     "note": "Day-by-day plan with heat and rain options, vegetarian food and a cost table",
+     "judgment": "The hotels appear as a shortlist, not as bookable rooms: one booking site lists the room for four guests but its general conditions say three and count anyone aged 12 and over as an adult, so the plan states that conflict next to each price. An independent colleague re-did the budget sums (THB 42,400 + 8,800 = 51,200, which equals USD 1,600 at the stated rate) and they held."
+    },
+    {
+     "title": "Check the files, the budget sums and how the page looks on desktop and phone"
+    }
+   ],
+   "workers": [
+    "Checked the current official entry rules for Indonesian passports and the free arrival card, plus airport transfer fares and rail fares",
+    "Found family rooms that really sleep four near a train or river station, with the price seen, where and when",
+    "Independently checked the finished itinerary against the family’s request and re-ran the budget arithmetic"
+   ],
+   "chipNames": {
+    "https://www.royalgrandpalace.th/en/buy-ticket": "Grand Palace: tickets",
+    "https://www.visitsealife.com/bangkok/en/tickets/": "SEA LIFE Bangkok: tickets",
+    "https://tdac.immigration.go.th/manual/en/faq.html": "Thailand Digital Arrival Card: FAQ",
+    "https://helsinki.thaiembassy.org/en/publicservice/new-visa-exemption-and-visa-on-arrival-voa-to-thailand?menu=5d80876d15e39c3354007bb1&page=5f49f4a199a85e260f4278de": "Thai embassy: visa exemption changes from 15 Sept 2026",
+    "https://suvarnabhumi.airportthai.co.th/service/way-to-airport/detail/Transportation_BKK": "Suvarnabhumi Airport: ways into the city",
+    "https://www.bts.co.th/files/uploads/tickets/pdf/fare_matrix_Eff.1Nov25_SJC.pdf": "BTS fare matrix",
+    "https://www.tourismthailand.org/Attraction/chatuchak-weekend-market": "Tourism Authority of Thailand: Chatuchak market"
+   }
+  },
+  "zh": {
+   "askTitle": "把日期、家人、护照和预算换成你的，放松的曼谷行程就按你的情况重排，入境规定也一并核对",
+   "runTitle": "雅加达一家四口、孩子 8 岁和 12 岁：2027 年 6 月曼谷四天，预算 1,600 美元",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 6 月 24 日（周四）上午到达，6 月 27 日（周日）晚上离开"
+    },
+    {
+     "key": "party",
+     "label": "成人及孩子年龄和身高",
+     "value": "两位大人，孩子 8 岁和 12 岁"
+    },
+    {
+     "key": "passport",
+     "label": "护照国籍",
+     "value": "印度尼西亚"
+    },
+    {
+     "key": "airports",
+     "label": "抵离机场与航班时间",
+     "value": "",
+     "placeholder": "例如：上午 9:40 抵达 BKK，晚上 9:00 从 DMK 离开"
+    },
+    {
+     "key": "diet",
+     "label": "饮食需求",
+     "value": "一个孩子吃素"
+    },
+    {
+     "key": "budget",
+     "label": "不含机票的预算",
+     "value": "全家约 1,600 美元"
+    }
+   ],
+   "template": "请为{dates}、{party}、{passport}、{airports}、{diet}和{budget}规划轻松的曼谷旅行。比较明确接受全家入住的客房报价，安排清早寺庙、短逛市场、室内雨天替代及素食后备。分清有日期的价格和估算，保留赶机场余量，只按我们的实际护照核对入境。只做计划，不预订、不付款、不提交表格。",
+   "phases": [
+    {
+     "title": "核对官方的景点、入境和交通信息，并查适合家庭的酒店房型和价格",
+     "note": "印尼护照的入境规定、门票价格、机场交通，以及两家酒店的家庭房",
+     "judgment": "它抓到了一条刚改的规定：一份较早的官方文件还写着印尼游客可免签 60 天，但现行的使馆通告说，2026 年 9 月 15 日起是 30 天，所以方案按 30 天写。它还注意到免费入境卡的官方说法有点不一致（3 天内或 72 小时），于是建议落地前一两天再填。"
+    },
+    {
+     "title": "写出行程网页、入境说明和来源清单，预算要算得拢",
+     "note": "按天安排的行程，附高温和雨天备选、素食和费用表",
+     "judgment": "酒店只作为备选清单，没有写成可订的房：有个订房网站把这个房型列为可住四人，但总条款写的是三人，并且把 12 岁及以上算作成人，方案把这个冲突写在每个价格旁边。独立同事把预算重新算了一遍（42,400 泰铢加 8,800 泰铢等于 51,200 泰铢，按文中汇率正好是 1,600 美元），没有出错。"
+    },
+    {
+     "title": "检查文件、预算算式，以及网页在电脑和手机上的显示"
+    }
+   ],
+   "workers": [
+    "核对印尼护照现行的官方入境规定和免费入境卡，以及机场交通和轨道交通的车费",
+    "找真能住四个人、离地铁或码头近的家庭房，并记下在哪里、何时看到的价格",
+    "对照一家人的要求，独立检查做好的行程，并把预算重算一遍"
+   ],
+   "chipNames": {
+    "https://www.royalgrandpalace.th/en/buy-ticket": "大皇宫：购票",
+    "https://www.visitsealife.com/bangkok/en/tickets/": "曼谷 SEA LIFE：门票",
+    "https://tdac.immigration.go.th/manual/en/faq.html": "泰国数字入境卡：常见问题",
+    "https://helsinki.thaiembassy.org/en/publicservice/new-visa-exemption-and-visa-on-arrival-voa-to-thailand?menu=5d80876d15e39c3354007bb1&page=5f49f4a199a85e260f4278de": "泰国使馆：2026 年 9 月 15 日起的免签调整",
+    "https://suvarnabhumi.airportthai.co.th/service/way-to-airport/detail/Transportation_BKK": "素万那普机场：进城方式",
+    "https://www.bts.co.th/files/uploads/tickets/pdf/fare_matrix_Eff.1Nov25_SJC.pdf": "BTS 票价表",
+    "https://www.tourismthailand.org/Attraction/chatuchak-weekend-market": "泰国旅游局：恰图恰周末市场"
+   }
+  }
+ }
+}

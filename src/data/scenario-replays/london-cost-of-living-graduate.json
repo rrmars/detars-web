@@ -1,0 +1,206 @@
+{
+ "slug": "london-cost-of-living-graduate",
+ "startedAt": "2026-11-05",
+ "activeSec": 1902,
+ "stats": {
+  "searches": 33,
+  "pages": 43,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 30,
+   "end": 747,
+   "chips": [
+    "https://tfl.gov.uk/fares/find-fares/capping",
+    "https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares",
+    "https://www.gov.uk/guidance/fees-you-can-charge-as-part-of-a-tenancy",
+    "https://www.gov.uk/guidance/renters-rights-act-overview-for-tenants",
+    "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 747,
+   "end": 1583,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1583,
+   "end": 1815,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own job and city and get the same kind of budget",
+   "runTitle": "A 22-year-old graduate starting in Canary Wharf on £34,000: can you live in London and still save?",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City and country",
+     "value": "London, UK"
+    },
+    {
+     "key": "date",
+     "label": "Move date",
+     "value": "September 2027"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "22"
+    },
+    {
+     "key": "salary",
+     "label": "Gross salary",
+     "value": "£34,000 a year"
+    },
+    {
+     "key": "office",
+     "label": "Office address and days in the office",
+     "value": "Canary Wharf"
+    },
+    {
+     "key": "housing",
+     "label": "Housing: room or studio",
+     "value": "A room in a flatshare, or a small studio"
+    },
+    {
+     "key": "goal",
+     "label": "Savings goal",
+     "value": "To save a bit each month"
+    },
+    {
+     "key": "details",
+     "label": "Tax code and residency, earlier earnings, pension basis and rate, loan plan and repayment start",
+     "value": "Plan 2 student loan; 5% workplace pension"
+    }
+   ],
+   "template": "Plan my move to {city} on {date}, age {age}, gross salary {salary}, office {office}, housing {housing} and savings goal {goal}. Use my {details}. Compare dated rental adverts and real commutes; show recurring and partial-year take-home pay, full monthly costs, higher-rent checks, deposits, credited holding payments, setup costs and cash needed before first pay. Keep prepaid rent and retained reserves separate. Give an editable budget, sources and checks for unknowns. Do not contact landlords, sign up, book, pay or publish.",
+   "phases": [
+    {
+     "title": "Check pay rules, current room and studio ads and living-cost rules against official sources",
+     "judgment": "It did not trust the “Available now” label on listings: reading each full page showed that a £700 room and a £1,350 studio were no longer available, so they were left out and the comparison uses six listings that were really open. It also noticed that older £1.75 bus fares were stale and used the current £1.85."
+    },
+    {
+     "title": "Build the editable budget workbook and phone summary, with dated sources",
+     "judgment": "The independent reviewer confirmed monthly take-home of £2,206.80, then found two weak spots in the editable workbook: some advice figures in the summary did not update when inputs changed, and a tax refund would have been ignored. Neither changes the default results."
+    },
+    {
+     "title": "Recalculate, inspect and deliver both files",
+     "judgment": "It warned that if the course finishes in 2027, student-loan repayments would normally start in April 2028, not September 2027, so the first year’s take-home is not reduced by the loan."
+    }
+   ],
+   "workers": [
+    "Checked official fares and caps, council tax rules for flatshares, deposit rules and bill baselines",
+    "Found and read six current room and studio ads in east and south-east London",
+    "Independently audited the workbook formulas and the figures against the sources"
+   ],
+   "chipNames": {
+    "https://tfl.gov.uk/fares/find-fares/capping": "TfL: fare capping",
+    "https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares": "TfL: bus and tram fares",
+    "https://www.gov.uk/guidance/fees-you-can-charge-as-part-of-a-tenancy": "GOV.UK: fees you can charge as part of a tenancy",
+    "https://www.gov.uk/guidance/renters-rights-act-overview-for-tenants": "GOV.UK: Renters’ Rights Act overview for tenants",
+    "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges": "Ofgem: energy price cap unit rates and standing charges"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的工作和城市，得到同样的预算",
+   "runTitle": "22 岁毕业生到金丝雀码头上班、年薪 3.4 万英镑：住在伦敦还能存下钱吗?",
+   "fields": [
+    {
+     "key": "city",
+     "label": "城市和国家",
+     "value": "英国伦敦"
+    },
+    {
+     "key": "date",
+     "label": "搬家日期",
+     "value": "2027 年 9 月"
+    },
+    {
+     "key": "age",
+     "label": "年龄",
+     "value": "22 岁"
+    },
+    {
+     "key": "salary",
+     "label": "税前年薪",
+     "value": "34,000 英镑"
+    },
+    {
+     "key": "office",
+     "label": "办公室地址和到岗天数",
+     "value": "金丝雀码头"
+    },
+    {
+     "key": "housing",
+     "label": "租房：房间或开间",
+     "value": "合租房间，或小开间"
+    },
+    {
+     "key": "goal",
+     "label": "想存的金额",
+     "value": "每月能存一点"
+    },
+    {
+     "key": "details",
+     "label": "税务居民身份、税码、此前收入、养老金基数与比例、学贷计划和起还日期",
+     "value": "Plan 2 学生贷款；5% 的公司养老金"
+    }
+   ],
+   "template": "请帮我规划{city}、{date}的搬家预算：年龄{age}，税前年薪{salary}，办公室{office}，租房{housing}，想存{goal}。税务居民身份、税码、此前收入、养老金基数与扣款方法及比例、学贷计划和起还日期是{details}。比较带日期房源和实际通勤，分别算长期与首年到手工资、完整月支出、房租上涨后的余量，以及首薪前现金。押金、可抵扣保留金、安顿费、预付租金和保留储备分开，不重复计入。给我可编辑预算、来源及未知项检查清单；不要联系房东、注册、预订、付款或发布。",
+   "phases": [
+    {
+     "title": "对照官方资料核对工资规则、当前房间和开间房源与生活成本规则",
+     "judgment": "它不轻信房源上的“可立即入住”标签：逐页读完发现一间 700 英镑的房间和一间 1,350 英镑的开间已经租出，于是排除，对比里只用了真正开放的六套房源；还发现网上旧的 1.75 英镑公交票价已过时，改用现行的 1.85 英镑。"
+    },
+    {
+     "title": "做出可编辑的预算表和手机摘要，并附带日期的来源",
+     "judgment": "独立复核的同事先确认每月到手工资 2,206.80 英镑，又找出可编辑表格的两处薄弱点：摘要里有些建议金额不会随输入变化，以及退税会被忽略；两者都不影响默认结果。"
+    },
+    {
+     "title": "重算、检查并交付两份文件",
+     "judgment": "它提醒：如果课程在 2027 年结束，学生贷款通常 2028 年 4 月才开始扣款，而不是 2027 年 9 月，所以第一年的到手工资不扣学贷。"
+    }
+   ],
+   "workers": [
+    "核对官方票价与封顶、合租的市政税规则、押金规则和水电基准",
+    "在伦敦东部和东南部找到并读了六条当前的房间和开间广告",
+    "对照来源，独立复核预算表的公式和数字"
+   ],
+   "chipNames": {
+    "https://tfl.gov.uk/fares/find-fares/capping": "伦敦交通局:票价封顶",
+    "https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares": "伦敦交通局:公交和电车票价",
+    "https://www.gov.uk/guidance/fees-you-can-charge-as-part-of-a-tenancy": "英国政府:租约中可收取的费用",
+    "https://www.gov.uk/guidance/renters-rights-act-overview-for-tenants": "英国政府:租客权利法案(Renters’ Rights Act)概览",
+    "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges": "Ofgem:能源价格上限的单价和固定费用"
+   }
+  }
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "slug": "tbilisi-one-year-ukrainian-remote-developer",
+ "startedAt": "2026-11-07",
+ "activeSec": 2045,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 75,
+   "end": 646,
+   "chips": [
+    "https://sda.gov.ge/en/products/migration-residence-permits/",
+    "https://www.gpih.ge/en/mandatory-tourist-insurance/",
+    "https://tbcbank.ge/en/for-expats",
+    "https://bankofgeorgia.ge/en/retail/non-resident",
+    "https://home.ss.ge/en/real-estate/2-room-Flat-For-Rent-Vake-33053908"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 646,
+   "end": 1480,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 14,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1480,
+   "end": 1902,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same check on residence rules, small business status, banking, insurance and the cat",
+   "runTitle": "Warsaw to Tbilisi for 2027: a Ukrainian backend developer on about EUR 4,500 a month, with a cat",
+   "fields": [
+    {
+     "key": "start",
+     "label": "Start date",
+     "value": "Some time in 2027"
+    },
+    {
+     "key": "status",
+     "label": "Passport and residence status",
+     "value": "Ukrainian citizen, currently living in Warsaw"
+    },
+    {
+     "key": "income",
+     "label": "Gross amount and contract activity",
+     "value": "About EUR 4,500 a month as a backend developer contracting for a Polish company"
+    },
+    {
+     "key": "costs",
+     "label": "Actual Warsaw costs",
+     "value": "",
+     "placeholder": "e.g. EUR 2,300 a month including rent, food and transport"
+    },
+    {
+     "key": "registrations",
+     "label": "Polish and Ukrainian registrations",
+     "value": "",
+     "placeholder": "e.g. registered for Polish tax; Ukrainian military registration"
+    },
+    {
+     "key": "cat",
+     "label": "Cat documents",
+     "value": "",
+     "placeholder": "e.g. microchip certificate and rabies vaccination record"
+    },
+    {
+     "key": "housing",
+     "label": "Housing area and budget",
+     "value": "1-bedroom in Vake, Saburtalo or Vera"
+    },
+    {
+     "key": "tax",
+     "label": "Tax and social assessment",
+     "value": "",
+     "placeholder": "e.g. written view from a Polish tax adviser"
+    }
+   ],
+   "template": "Help me assess a year in Tbilisi from Warsaw starting {start}. I hold {status}, invoice {income}, spend {costs}, retain {registrations}, and travel with {cat}. Compare housing at {housing}, identify work/SBS, banking, insurance and pet-document gates, and calculate savings only after {tax}. Ask before contacting anyone, sharing documents, applying or paying.",
+   "phases": [
+    {
+     "title": "Read Georgian and Polish official rules on stay, work, tax, banks, insurance and bringing a cat, and collect dated rent listings",
+     "note": "Residence and work rules, small business tax, bank and insurance terms, pet import",
+     "judgment": "One colleague withdrew its own earlier claims about bank packages, insurance prices and an official list it said it had inspected, because it could not show where it had read them, and told the team not to publish them as verified. Another warned against saying every foreign remote contractor needs a work permit, and found that a new Ukrainian arrival gets one year, not two or three."
+    },
+    {
+     "title": "Write the guide with a monthly budget in lari and euro, and start the independent review",
+     "judgment": "The independent reviewer re-ran all 91 figure checks with no failures, but still caught a flaw in the savings formula that could subtract continuing foreign tax twice. It was corrected before the guide was delivered."
+    },
+    {
+     "title": "Fix the formula, re-check the numbers and test desktop and phone layouts"
+    }
+   ],
+   "workers": [
+    "Read the current Georgian rules on how long Ukrainians can stay, work-permit questions and residence permit routes",
+    "Read the Georgian Revenue Service rules on small business status: 1% turnover tax, conditions, filing deadlines and registration fees",
+    "Looked into bank accounts, health insurance and cat import rules, and corrected what could not be backed up by a page actually read",
+    "Independently recomputed every money figure in the finished guide and checked its claims against the source list"
+   ],
+   "chipNames": {
+    "https://sda.gov.ge/en/products/migration-residence-permits/": "Georgia Public Service Development Agency: residence permits",
+    "https://www.gpih.ge/en/mandatory-tourist-insurance/": "Mandatory tourist insurance (GPIH)",
+    "https://tbcbank.ge/en/for-expats": "TBC Bank: expat banking",
+    "https://bankofgeorgia.ge/en/retail/non-resident": "Bank of Georgia: non-resident accounts",
+    "https://home.ss.ge/en/real-estate/2-room-Flat-For-Rent-Vake-33053908": "Vake 2-room flat rent listing (example, not availability)"
+   }
+  }
+ }
+}

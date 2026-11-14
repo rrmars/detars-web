@@ -1,0 +1,136 @@
+{
+ "slug": "hanoi-three-month-remote-work-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1088,
+ "stats": {
+  "searches": 31,
+  "pages": 44,
+  "colleagues": 4,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 26,
+   "end": 302,
+   "chips": [
+    "https://evisa.gov.vn/faq",
+    "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/khai-bao-tam-tru-cho-nguoi-nuoc-ngoai-co-so-luu-tru-can-chu-dong-1792748300",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam",
+    "https://www.nsw.gov.au/about-nsw/daylight-saving",
+    "https://vietlonghousing.com/properties/modern-1-bedroom-apartment-in-tay-ho/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 302,
+   "end": 941,
+   "chips": [
+    "https://www.iqair.com/newsroom/hanoi-among-top-10-most-polluted-cities-in-the-world-2-4-2026",
+    "https://aqicn.org/city/vietnam/hanoi/us-embassy/",
+    "https://vietnam.embassy.gov.au/hnoi/Consular.html"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 941,
+   "end": 1047,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates, hours and budget and get the same Hanoi stay check before you book anything",
+   "runTitle": "Sydney to Hanoi: three months for a remote designer, from 1 February 2027",
+   "fields": [
+    {
+     "key": "situation",
+     "label": "Passport and freelance-work situation",
+     "value": "Freelance designer working remotely from Australia, single"
+    },
+    {
+     "key": "dates",
+     "label": "Arrival and departure dates",
+     "value": "3 months starting 1 February 2027"
+    },
+    {
+     "key": "hours",
+     "label": "Time-zone hours and call needs",
+     "value": "Works Sydney hours"
+    },
+    {
+     "key": "budget",
+     "label": "Monthly budget plus arrival cash",
+     "value": "Housing about USD 600–800 a month for a furnished studio or 1-bedroom with fast internet"
+    },
+    {
+     "key": "areas",
+     "label": "Preferred areas",
+     "value": "Tay Ho / West Lake, Ba Dinh, Hoan Kiem, Dong Da and Cau Giay compared"
+    }
+   ],
+   "template": "Plan a Hanoi stay for {situation} on {dates}, keeping {hours} and {budget}. Compare quiet furnished flats in {areas}, show rent, deposit, utilities and every unknown together, and check entry permission separately from paid-work permission. Build a tested internet/mobile backup and a Tết arrival plan. Separate dated samples from real quotes. Plan only; do not contact anyone, book, apply, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Look up current listings and the practical rules for a three-month stay",
+     "note": "Entry permission, residence registration, clock changes and live rental pages",
+     "judgment": "It caught that the Tết public holiday is already settled: the government has approved 4–10 February 2027, not just proposed it. Individual business closures are left marked as unconfirmed."
+    },
+    {
+     "title": "Write the guide and the source list, with estimates labelled",
+     "note": "Area comparison, ten listings, SIM and internet options, February air and a monthly budget",
+     "judgment": "It said plainly what it could not confirm: February vacancy and whether landlords accept three months. The air-quality figure is labelled as last year’s February reading, not a forecast."
+    },
+    {
+     "title": "Independent check of the arithmetic, links and page layout",
+     "note": "Desktop and phone rendering included",
+     "judgment": "The independent reviewer rechecked the budget range, the 89-day stay and the April clock change, and flagged that the SIM prices are data plans, not full purchase costs."
+    }
+   ],
+   "workers": [
+    "Checked the official sources on air quality, mobile and internet plans, Tết dates, clock changes and coworking access",
+    "Opened six live furnished listings in Tay Ho and Ba Dinh and recorded rent, charges and deposit for each",
+    "Found four more listings in Hoan Kiem, Cau Giay and Ba Dinh to cover the central areas",
+    "Independently reviewed the finished guide: coverage, arithmetic and whether the claims match the sources"
+   ],
+   "chipNames": {
+    "https://evisa.gov.vn/faq": "Vietnam e-visa FAQ (official)",
+    "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/khai-bao-tam-tru-cho-nguoi-nuoc-ngoai-co-so-luu-tru-can-chu-dong-1792748300": "Ministry of Public Security: temporary residence declaration",
+    "https://www.smartraveller.gov.au/destinations/asia/vietnam": "Smartraveller: Vietnam travel advice",
+    "https://www.nsw.gov.au/about-nsw/daylight-saving": "NSW Government: daylight saving dates",
+    "https://vietlonghousing.com/properties/modern-1-bedroom-apartment-in-tay-ho/": "Tay Ho furnished 1-bedroom listing example",
+    "https://www.iqair.com/newsroom/hanoi-among-top-10-most-polluted-cities-in-the-world-2-4-2026": "IQAir: Hanoi air-quality report, 4 Feb 2026",
+    "https://aqicn.org/city/vietnam/hanoi/us-embassy/": "US Embassy Hanoi air-quality monitor",
+    "https://vietnam.embassy.gov.au/hnoi/Consular.html": "Australian Embassy in Hanoi: consular information"
+   }
+  }
+ }
+}

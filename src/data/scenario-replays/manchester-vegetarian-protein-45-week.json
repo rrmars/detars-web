@@ -1,0 +1,126 @@
+{
+ "slug": "manchester-vegetarian-protein-45-week",
+ "startedAt": "2026-11-06",
+ "activeSec": 1817,
+ "stats": {
+  "searches": 44,
+  "pages": 24,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 63,
+   "end": 924,
+   "chips": [
+    "https://www.food.gov.uk/sites/default/files/media/document/5-cminders-cookingsafely-01-cooking-and-reheating-safely.pdf",
+    "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+    "https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid",
+    "https://www.tesco.com/shop/en-GB/products/299914279?redirectIfUnavailable=true",
+    "https://www.aldi.co.uk/product/worldwide-foods-red-lentils-000000000000336258"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 25,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 924,
+   "end": 1586,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 9,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1586,
+   "end": 1745,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own budget and kitchen, and get the same priced, safety-checked meal-prep week",
+   "runTitle": "Manchester student on £45 a week: a 7-day vegetarian plan at about 120 g protein a day",
+   "fields": [
+    {
+     "key": "budget",
+     "label": "Food budget",
+     "value": "£45 a week"
+    },
+    {
+     "key": "goals",
+     "label": "Protein and energy goals",
+     "value": "About 120 g protein and about 2,600 kcal a day"
+    },
+    {
+     "key": "foods",
+     "label": "Allergies and foods I eat",
+     "value": "Vegetarian; I eat eggs and dairy"
+    },
+    {
+     "key": "shops",
+     "label": "Shops I can reach",
+     "value": "",
+     "placeholder": "e.g. Lidl and Asda, plus an Aldi a bus ride away"
+    },
+    {
+     "key": "space",
+     "label": "Fridge and freezer space",
+     "value": "One shelf in a shared fridge and a small freezer drawer"
+    },
+    {
+     "key": "cooktime",
+     "label": "Time available to cook",
+     "value": "About 2 hours on Sunday to batch-cook"
+    }
+   ],
+   "template": "Help me adapt this vegetarian meal-prep week for {budget}, {goals}, {foods}, {shops}, {space} and {cooktime}. Separate whole-pack cash from food used, keep safe cooling and storage deadlines visible, and flag prices and nutrition assumptions I should check. Do not buy anything or contact anyone.",
+   "phases": [
+    {
+     "title": "Check public Tesco and Aldi prices, nutrition labels and official food-safety advice",
+     "note": "Ten staples at Tesco, the rest at Aldi, plus cooling, freezing and reheating rules",
+     "judgment": "The Tesco researcher noticed that the rice label’s nutrition table is for cooked rice, not the dry grains in the pack. It converted to a per-dry-weight figure and marked that number as derived, not printed on the pack."
+    },
+    {
+     "title": "Build the meal plan and a self-recalculating workbook, then check it independently",
+     "note": "Shopping list, daily protein and calories, two batch recipes, storage plan",
+     "judgment": "The independent reviewer recomputed everything on their own: the £23.65 shop (Tesco £18.16 plus Aldi £5.49) and 123–128 g protein a day all matched. They also caught that the workbook still showed an averaged daily cost, which was fixed, and would not call storage settled until the yoghurt’s opened-life label and freezer-drawer fit were checked."
+    },
+    {
+     "title": "Build the web page and source list, then test desktop and phone layouts",
+     "judgment": "The final page says plainly what stays unconfirmed: January prices and whether the frozen sauces and bread actually fit the small freezer drawer. It advises leaving about 4–5 L of clear space."
+    }
+   ],
+   "workers": [
+    "Checked Tesco’s public prices and label nutrition for ten staples such as oats, milk, eggs, bread and yoghurt, and saved the storage wording for yoghurt, cheddar and long-life milk",
+    "Checked Aldi’s public prices and nutrition for lentils, pasta, tinned tomatoes, beans, vegetables, curry powder and tofu, and worked out whether protein powder is worth it",
+    "Recomputed the meal plan, shopping total and workbook from scratch, and checked whether the fridge and freezer plan is practical"
+   ],
+   "chipNames": {
+    "https://www.food.gov.uk/sites/default/files/media/document/5-cminders-cookingsafely-01-cooking-and-reheating-safely.pdf": "Food Standards Agency: cooking and reheating safely",
+    "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely": "GOV.UK: chill, freeze and defrost food safely",
+    "https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid": "McCance and Widdowson food composition data (CoFID)",
+    "https://www.tesco.com/shop/en-GB/products/299914279?redirectIfUnavailable=true": "Tesco long-life semi-skimmed milk page",
+    "https://www.aldi.co.uk/product/worldwide-foods-red-lentils-000000000000336258": "Aldi red lentils page"
+   }
+  }
+ }
+}

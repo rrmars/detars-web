@@ -1,0 +1,186 @@
+{
+ "slug": "osaka-first-apartment-vietnamese-engineer",
+ "startedAt": "2026-11-07",
+ "activeSec": 3096,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 63,
+   "end": 894,
+   "chips": [
+    "https://www.homes.co.jp/chintai/osaka/juso_06107-st/price/",
+    "https://www.homes.co.jp/chintai/osaka/awaji_06171-st/price/",
+    "https://www.gtn.co.jp/business/realestate/rent-guarantor/agency_faq",
+    "https://www.gtn-mobile.com/s/plan/eazy?language=en_US",
+    "https://www.sbishinseibank.co.jp/english/e_speakers/identity_verification.html"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 894,
+   "end": 1514,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1514,
+   "end": 2938,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 26,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same kind of first-apartment plan",
+   "runTitle": "A Vietnamese engineer’s first apartment in Osaka, starting work near Umeda on 1 April 2027",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "Nationality and actual visa or work permission",
+     "value": "Vietnamese, on an Engineer/Specialist in Humanities visa"
+    },
+    {
+     "key": "dates",
+     "label": "Arrival and work-start dates",
+     "value": "Work starts 1 April 2027"
+    },
+    {
+     "key": "office",
+     "label": "Office entrance and commute limit",
+     "value": "Office near Umeda; under 40 minutes door to door"
+    },
+    {
+     "key": "layout",
+     "label": "Layout and rent limit",
+     "value": "A 1K or 1LDK"
+    },
+    {
+     "key": "funds",
+     "label": "Accessible funds and confirmed payday",
+     "value": "",
+     "placeholder": "e.g. JPY 1.5 million in savings; first pay on 25 April"
+    },
+    {
+     "key": "quotes",
+     "label": "Written property quotes, guarantor and payment terms",
+     "value": "No Japanese guarantor and no Japanese bank account yet"
+    }
+   ],
+   "template": "Help me plan my first Osaka apartment using {nationality}, {dates}, {office}, {layout}, {funds} and {quotes}. Compare housing cash, a delayed move and delayed pay. Flag unconfirmed landlord acceptance, registration/mail suitability, interim rent payment and the actual door-to-door commute. Ask before contacting anyone, applying, booking, paying or sharing my documents.",
+   "phases": [
+    {
+     "title": "Read primary sources on rents, screening for newcomers and the paperwork",
+     "judgment": "It stopped at what the sources could prove: one guarantor company says you can sign a lease before opening a Japanese bank account, but that does not mean every landlord will accept an overseas transfer. It also picked up that one bank had suspended online account opening on 23 October 2026 and now points to a branch appointment."
+    },
+    {
+     "title": "Build the English guide and a complete source list"
+    },
+    {
+     "title": "Independently check the arithmetic and rules, and test the layout on desktop and phone",
+     "judgment": "The independent audit found six wording and evidence problems, each repaired or openly qualified, and no money errors. The guide still lists what nobody could confirm from outside: landlord approval for this applicant and the real door-to-door commute."
+    }
+   ],
+   "workers": [
+    "Checked the official pages of Osaka agencies, guarantor companies, banks and phone providers that take new arrivals",
+    "Found dated rent statistics and a sample listing for four Osaka stations",
+    "Independently recomputed every money figure and checked each rule against the source list"
+   ],
+   "chipNames": {
+    "https://www.homes.co.jp/chintai/osaka/juso_06107-st/price/": "HOME’S: rent statistics for Juso",
+    "https://www.homes.co.jp/chintai/osaka/awaji_06171-st/price/": "HOME’S: rent statistics for Awaji",
+    "https://www.gtn.co.jp/business/realestate/rent-guarantor/agency_faq": "GTN: rent guarantor agency FAQ",
+    "https://www.gtn-mobile.com/s/plan/eazy?language=en_US": "GTN Mobile: Eazy plan",
+    "https://www.sbishinseibank.co.jp/english/e_speakers/identity_verification.html": "SBI Shinsei Bank: identity verification"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的情况，得到同样的第一套租房计划",
+   "runTitle": "越南工程师在大阪的第一套出租房，2027 年 4 月 1 日起在梅田附近上班",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "国籍和实际签证及工作许可",
+     "value": "越南籍，持“技术・人文知识・国际业务”工作签证"
+    },
+    {
+     "key": "dates",
+     "label": "抵达与入职日期",
+     "value": "2027 年 4 月 1 日入职"
+    },
+    {
+     "key": "office",
+     "label": "办公室入口和通勤上限",
+     "value": "办公室在梅田附近；门到门不超过 40 分钟"
+    },
+    {
+     "key": "layout",
+     "label": "户型与租金上限",
+     "value": "1K 或 1LDK"
+    },
+    {
+     "key": "funds",
+     "label": "可动用资金和已确认发薪日",
+     "value": "",
+     "placeholder": "例如：存款 150 万日元；首次发薪 4 月 25 日"
+    },
+    {
+     "key": "quotes",
+     "label": "房源书面报价、保证公司和付款条款",
+     "value": "没有日本人担保人，也还没有日本银行账户"
+    }
+   ],
+   "template": "请根据{nationality}、{dates}、{office}、{layout}、{funds}，以及{quotes}，规划我在大阪的第一套出租房。比较住房现金、延迟入住和延迟发薪情形。标明尚未确认的房东接受、登记与收信资格、临时交租方式和真实门到门通勤。联系他人、申请、预订、付款或分享我的证件前，先问我。",
+   "phases": [
+    {
+     "title": "查阅租金、新移民审核和手续办理的一手资料",
+     "judgment": "它只说到来源能证明的地方：有保证公司称可以在开日本银行账户之前签租约，但这并不等于每家房东都接受海外汇款；还留意到一家银行已在 2026 年 10 月 23 日暂停线上开户，改为预约到分行办理。"
+    },
+    {
+     "title": "做出英文指南和完整的来源清单"
+    },
+    {
+     "title": "独立核对计算和规则，并在电脑和手机上测试版面",
+     "judgment": "独立复核找出六处措辞和证据问题，都已修正或明确加上限定，金额没有错误；指南仍列出外人无法确认的事项：房东是否接受这位申请人，以及真实的门到门通勤。"
+    }
+   ],
+   "workers": [
+    "核对接受新移民的大阪中介、保证公司、银行和手机运营商的官方页面",
+    "找四个大阪车站带日期的租金统计和一个房源示例",
+    "独立重算每个金额，并对照来源清单核查每条规则"
+   ],
+   "chipNames": {
+    "https://www.homes.co.jp/chintai/osaka/juso_06107-st/price/": "HOME'S:十三站租金统计",
+    "https://www.homes.co.jp/chintai/osaka/awaji_06171-st/price/": "HOME'S:淡路站租金统计",
+    "https://www.gtn.co.jp/business/realestate/rent-guarantor/agency_faq": "GTN:租房保证公司常见问题",
+    "https://www.gtn-mobile.com/s/plan/eazy?language=en_US": "GTN Mobile:Eazy 套餐",
+    "https://www.sbishinseibank.co.jp/english/e_speakers/identity_verification.html": "SBI 新生银行:身份确认"
+   }
+  }
+ }
+}

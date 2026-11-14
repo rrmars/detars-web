@@ -1,0 +1,171 @@
+{
+ "slug": "bali-canggu-monthly-rental",
+ "startedAt": "2026-11-04",
+ "activeSec": 1369,
+ "stats": {
+  "searches": 1,
+  "pages": 15,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 56,
+   "end": 357,
+   "chips": [
+    "https://zehavabalienterprise.com/property/berawa-room-rent-vlcngg-312/",
+    "https://zehavabalienterprise.com/property/pondok-canggu-rent-vlcngg-41/",
+    "https://rentroombali.com/property/jubilee-studios-pererenan/",
+    "https://rentroombali.com/property/pratama-studios-pererenan/",
+    "https://rentroombali.com/faq/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 357,
+   "end": 1289,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1289,
+   "end": 1353,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own area, dates and budget and get the same monthly-rental comparison and cost sheet",
+   "runTitle": "Canggu, Bali, January–March 2027: a remote worker’s monthly rental under USD 1,500 all-in",
+   "fields": [
+    {
+     "key": "area",
+     "label": "City or areas",
+     "value": "Canggu, Bali (Berawa, Batu Bolong, Pererenan or wherever fits)"
+    },
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "January–March 2027"
+    },
+    {
+     "key": "hours",
+     "label": "Work hours and time zone",
+     "value": "",
+     "placeholder": "e.g. 9:00–17:00 Singapore time, with video calls"
+    },
+    {
+     "key": "scope",
+     "label": "Housing only or full living",
+     "value": "All-in"
+    },
+    {
+     "key": "budget",
+     "label": "Budget amount and currency",
+     "value": "Under USD 1,500 a month"
+    },
+    {
+     "key": "needs",
+     "label": "Bathroom, kitchen, desk, chair and call privacy",
+     "value": "Reliable internet and a proper place to work; on my own"
+    }
+   ],
+   "template": "Compare 5–7 monthly rentals in {area} for {dates} and {hours}. My {scope} budget is {budget}; I need {needs}. Show rent, minimum stay, utilities/caps, cleaning, fees, deposits and cancellation terms, with original links and read dates. Separate quoted costs from allowances; include optional coworking and transport. Recommend budget-first and work-first choices, flag unknown availability/noise/network/location, and give me walkthrough, desk-speed-test and written-quote questions. Do not contact, book or pay, or call an advert confirmed vacancy.",
+   "phases": [
+    {
+     "title": "Re-check the listings from the earlier notes and separate live ads from dated availability",
+     "judgment": "It would not call an advert a vacancy: none of the pages it re-read confirms January–March 2027 availability, and a live ad with no date is not dated stock."
+    },
+    {
+     "title": "Build the comparison page and the editable budget workbook",
+     "note": "Neighbourhood comparison, listing links and itemised monthly budgets"
+    },
+    {
+     "title": "Check the arithmetic, the workbook and the page, then give the recommendation",
+     "judgment": "Every one of the workbook’s 147 formulas was checked a second time with separate arithmetic. The full spreadsheet recalculation timed out, and the guide says so."
+    }
+   ],
+   "workers": [
+    "Re-read four listing pages (Berawa, Pondok Canggu, Jubilee, Pratama) and the rental FAQ, checking prices, minimum stays and whether any January–March availability was stated"
+   ],
+   "chipNames": {
+    "https://zehavabalienterprise.com/property/berawa-room-rent-vlcngg-312/": "Berawa Room listing",
+    "https://zehavabalienterprise.com/property/pondok-canggu-rent-vlcngg-41/": "Pondok Canggu listing",
+    "https://rentroombali.com/property/jubilee-studios-pererenan/": "Jubilee Studios listing, Pererenan",
+    "https://rentroombali.com/property/pratama-studios-pererenan/": "Pratama Studios listing, Pererenan",
+    "https://rentroombali.com/faq/": "RentRoomBali FAQ"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的区域、日期和预算，得到同样的月租对比和费用表",
+   "runTitle": "巴厘岛仓古，2027 年 1–3 月：远程工作者的月租房，整月预算不超过 1,500 美元",
+   "fields": [
+    {
+     "key": "area",
+     "label": "城市或街区",
+     "value": "巴厘岛仓古(Berawa、Batu Bolong、Pererenan，或更合适的区域)"
+    },
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 1–3 月"
+    },
+    {
+     "key": "hours",
+     "label": "工作时段和时区",
+     "value": "",
+     "placeholder": "例如：新加坡时间 9:00–17:00，要开视频会议"
+    },
+    {
+     "key": "scope",
+     "label": "仅住房或整月生活",
+     "value": "整月全包"
+    },
+    {
+     "key": "budget",
+     "label": "预算金额及币种",
+     "value": "每月不超过 1,500 美元"
+    },
+    {
+     "key": "needs",
+     "label": "卫浴、厨房、书桌、椅子和通话隐私",
+     "value": "网络可靠，有像样的办公位置；一个人住"
+    }
+   ],
+   "template": "比较{area}在{dates}的 5–7 处月租房源，我的工作时段和时区是{hours}，{scope}预算为{budget}，需要{needs}。列出租金、最短租期、水电及上限、清洁、手续费、押金和取消条款，附原始链接及查阅日期。区分报价与预留额，加入可选共享办公和交通，分别推荐省钱及办公优先方案。指出空房、噪声、网络和位置中的未知项，给我看房、书桌测速及书面报价问题。不要联系、预订或付款，也不要把广告说成已确认有房。",
+   "phases": [
+    {
+     "title": "复核上次笔记里的房源，区分在线广告与有日期的空房信息",
+     "judgment": "它没有把广告当成空房：复核的页面都没有确认 2027 年 1–3 月有房，没有日期的在线广告不算有日期的房源。"
+    },
+    {
+     "title": "制作对比网页和可编辑的预算表格",
+     "note": "街区对比、房源链接和逐项月度预算"
+    },
+    {
+     "title": "检查计算、表格和网页，再给出推荐",
+     "judgment": "表格里的 147 个公式都另用一套算法重新核对过。完整的表格重新计算超时了，说明里也如实写明。"
+    }
+   ],
+   "workers": [
+    "重新阅读 4 个房源页面(Berawa、Pondok Canggu、Jubilee、Pratama)和租房常见问题，核对价格、最短租期，以及页面有没有写明 1–3 月是否有房"
+   ],
+   "chipNames": {
+    "https://zehavabalienterprise.com/property/berawa-room-rent-vlcngg-312/": "Berawa 单间房源页",
+    "https://zehavabalienterprise.com/property/pondok-canggu-rent-vlcngg-41/": "Pondok Canggu 房源页",
+    "https://rentroombali.com/property/jubilee-studios-pererenan/": "Pererenan 的 Jubilee Studios 房源页",
+    "https://rentroombali.com/property/pratama-studios-pererenan/": "Pererenan 的 Pratama Studios 房源页",
+    "https://rentroombali.com/faq/": "RentRoomBali 常见问题"
+   }
+  }
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "slug": "digital-nomad-visas-portugal-spain-thailand-bali-mexico",
+ "startedAt": "2026-11-05",
+ "activeSec": 2790,
+ "stats": {
+  "searches": 53,
+  "pages": 95,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 38,
+   "end": 1623,
+   "chips": [
+    "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
+    "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-Visa.aspx",
+    "https://www.boe.es/eli/es/rd/2026/02/18/126",
+    "https://washingtondc.thaiembassy.org/en/page/dtv-visa",
+    "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1623,
+   "end": 2309,
+   "chips": [
+    "https://washingtondc.thaiembassy.org/en/page/visa-information",
+    "https://bangkok.immigration.go.th/th/fee/"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 5,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2309,
+   "end": 2686,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own passport, income and savings and see which remote-work visas you actually fit before you apply",
+   "runTitle": "US freelance designer, five remote-work visa routes, leaving in March 2027",
+   "fields": [
+    {
+     "key": "countries",
+     "label": "Countries",
+     "value": "Portugal (D8), Spain, Thailand (DTV), Indonesia/Bali (E33G), Mexico (temporary residence)"
+    },
+    {
+     "key": "passport",
+     "label": "Passport, lawful residence and state/county",
+     "value": "the US"
+    },
+    {
+     "key": "date",
+     "label": "Departure date",
+     "value": "March 2027"
+    },
+    {
+     "key": "stays",
+     "label": "Exact stays and household",
+     "value": "Most of 2027 abroad"
+    },
+    {
+     "key": "work",
+     "label": "Employment or business structure, clients, company age, remote terms, degree and experience",
+     "value": "Freelance UX designer with overseas clients"
+    },
+    {
+     "key": "income",
+     "label": "Personal paid income (gross and net) and history",
+     "value": "About USD 5,500 a month from overseas clients"
+    },
+    {
+     "key": "savings",
+     "label": "Liquid savings and monthly minimum balances",
+     "value": "",
+     "placeholder": "e.g. USD 20,000 in savings, never below USD 12,000 in the last 3 months"
+    }
+   ],
+   "template": "Compare {countries} for {passport}, leaving {date}, with {stays}. My work is {work}; personal paid gross/net income is {income}, not turnover, and liquid savings/monthly minimums are {savings}. Give a shortlist and backward plan. Separate financial tests, full eligibility, visitor entry, work/local-client rights, social security, insurance and tax. Use primary sources. Keep conflicting consular figures and source dates; distinguish enacted rules, announcements, projections, selective rereads, failed access and older information. Separate alternative routes, stay/entry/extension/card stages, future fees, extras and document validity. Do not promise approval, 2027 rules or tax exemptions, or create accounts, contact officials, apply, pay, book, submit or publish.",
+   "phases": [
+    {
+     "title": "Research five visa programmes and tax-residency rules from official sources",
+     "note": "Income and savings tests, fees, documents, insurance, work rights and tax risk per country",
+     "judgment": "Spain’s income figure was left as a conflict, not forced into one number. The consulate publishes EUR 2,442 a month, while a calculation from the 2026 wage decree gives EUR 2,849. Both are shown and labelled."
+    },
+    {
+     "title": "Build the editable workbook and the phone-friendly summary, with sources and timeline",
+     "note": "Comparison table, fees, March 2027 timeline, tax-risk flags",
+     "judgment": "An independent check confirmed it was right not to call Bali a fit. USD 66,000 a year in income is not enough on its own: the official page also needs an employment agreement with a company outside Indonesia, so freelance eligibility is marked not established."
+    },
+    {
+     "title": "Check the files, the eligibility conclusions and the finished page",
+     "judgment": "What it could not confirm (some fees, renewal details, 2027 changes) is flagged as unverified instead of estimated. The workbook’s 11 formulas and the phone-width page were checked."
+    }
+   ],
+   "workers": [
+    "Read official Portugal and Spain pages on income thresholds, documents, fees and the extra rules for freelancers",
+    "Read official Thailand (DTV) and Indonesia (E33G) pages: savings and income tests, fees, insurance, renewals and tax-residency risk",
+    "Checked Mexico’s official consulate, immigration and tax sources",
+    "Independently spot-checked the research for eligibility conclusions that could be wrong, including freelancer rules and income tests"
+   ],
+   "chipNames": {
+    "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe": "AIMA (Portugal): remote-work residence permit",
+    "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-Visa.aspx": "Spanish Consulate in Washington: telework visa",
+    "https://www.boe.es/eli/es/rd/2026/02/18/126": "Spain’s 2026 minimum-wage decree (BOE)",
+    "https://washingtondc.thaiembassy.org/en/page/dtv-visa": "Thai Embassy in Washington: DTV visa",
+    "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G": "Indonesian Immigration: E33G visa",
+    "https://washingtondc.thaiembassy.org/en/page/visa-information": "Thai Embassy in Washington: visa information",
+    "https://bangkok.immigration.go.th/th/fee/": "Thai Immigration Bureau: fee page"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的护照、收入和存款，申请前先看清自己真正符合哪些远程工作签证",
+   "runTitle": "美国自由职业设计师比较五条远程工作签证路线，2027 年 3 月出发",
+   "fields": [
+    {
+     "key": "countries",
+     "label": "国家",
+     "value": "葡萄牙（D8）、西班牙、泰国（DTV）、印尼巴厘岛（E33G）、墨西哥（临时居留）"
+    },
+    {
+     "key": "passport",
+     "label": "护照",
+     "value": "美国"
+    },
+    {
+     "key": "residence",
+     "label": "合法居住地及州县",
+     "value": "美国"
+    },
+    {
+     "key": "date",
+     "label": "出发日期",
+     "value": "2027 年 3 月"
+    },
+    {
+     "key": "stays",
+     "label": "各地停留和同行人",
+     "value": "2027 年大部分时间在国外"
+    },
+    {
+     "key": "work",
+     "label": "雇佣或企业结构、客户主体及国家、公司及合作年限、远程条款、学位经验",
+     "value": "UX 自由职业设计师，客户在海外"
+    },
+    {
+     "key": "income",
+     "label": "个人税前和税后实收收入及历史",
+     "value": "每月约 5,500 美元，来自海外客户"
+    },
+    {
+     "key": "savings",
+     "label": "流动储蓄和历史月最低余额",
+     "value": "",
+     "placeholder": "例如：存款 2 万美元，近 3 个月最低余额不低于 1.2 万美元"
+    }
+   ],
+   "template": "请比较{countries}的远程工作途径：我持{passport}，从{residence}申请，{date}出发，各地停留和同行人{stays}。工作为{work}；个人税前和税后实收收入{income}，不是营业额，流动储蓄和历史月最低余额{savings}。给我候选和倒排计划，分清财务门槛、完整资格、访客入境、工作及本地客户权限、社保、保险和税务。使用一手来源。保留领馆数字冲突与来源日期，分清生效规则、公告、预测、选择性复查、读取失败和旧资料。分别列替代途径、停留及入境窗口、延期和办卡阶段、未来费用、附加支出和材料时效。不要承诺获批、2027规则或免税，也不要创建账户、联系官员、申请、付款、预订、提交或发布。",
+   "phases": [
+    {
+     "title": "依据官方来源，调研五个签证项目和税务居民规则",
+     "note": "各国的收入与存款要求、费用、材料、保险、工作权利和税务风险",
+     "judgment": "西班牙的收入数字没有硬凑成一个，而是把冲突如实留着：领馆公布每月 2,442 欧元，按 2026 年最低工资法令折算则是 2,849 欧元。两个数都列出并分别标注。"
+    },
+    {
+     "title": "建立可编辑的表格和适合手机看的摘要页，附来源和时间线",
+     "note": "对比表、费用、2027 年 3 月出发时间线、税务风险提示",
+     "judgment": "独立复核认可了不把巴厘岛算作“符合”的判断。年收入 6.6 万美元本身不够：官方页面还要求与印尼境外公司签的雇佣协议，所以自由职业者的资格被标为“未确认”。"
+    },
+    {
+     "title": "检查文件、资格判断和做好的页面",
+     "judgment": "没能确认的内容（部分费用、续期细节、2027 年变化）都标成“未核实”，没有估一个数字充数。表格里的 11 个公式和手机宽度下的页面也都检查过。"
+    }
+   ],
+   "workers": [
+    "阅读葡萄牙和西班牙官方页面：收入门槛、材料、费用，以及对自由职业者的额外要求",
+    "阅读泰国（DTV）和印尼（E33G）官方页面：存款与收入要求、费用、保险、续期和税务居民风险",
+    "核查墨西哥领事、移民和税务方面的官方来源",
+    "独立抽查调研结论里可能出错的资格判断，包括自由职业者规则和收入要求"
+   ],
+   "chipNames": {
+    "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe": "葡萄牙 AIMA：远程工作居留许可",
+    "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-Visa.aspx": "西班牙驻华盛顿领事馆：远程工作签证",
+    "https://www.boe.es/eli/es/rd/2026/02/18/126": "西班牙 2026 年最低工资法令（官方公报）",
+    "https://washingtondc.thaiembassy.org/en/page/dtv-visa": "泰国驻华盛顿使馆：DTV 签证",
+    "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G": "印尼移民局：E33G 签证",
+    "https://washingtondc.thaiembassy.org/en/page/visa-information": "泰国驻华盛顿使馆：签证信息",
+    "https://bangkok.immigration.go.th/th/fee/": "泰国移民局：收费页面"
+   }
+  }
+ }
+}

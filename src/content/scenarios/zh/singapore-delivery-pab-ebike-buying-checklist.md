@@ -20,7 +20,7 @@ sources:
   - title: "R2 — PRIMARY: LTA Rules & Code of Conduct, undated live page"
     url: "https://www.lta.gov.sg/content/ltagov/en/getting_around/active_mobility/rules_and_public_education/rules_and_code_of_conduct.html"
     accessDate: "2026-11-07"
-  - title: "M0 — PRIMARY: LTA approved model list, **as at1July2026**,29pages"
+  - title: "M0 — PRIMARY: LTA approved model list, as at 1 July 2026, 29 pages"
     url: "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/PAB/List_of_Approved_PAB_Models.pdf"
     accessDate: "2026-11-07"
   - title: "R3 — PRIMARY: LTA Mandatory Theory Test PDF, updated December2025"
@@ -314,7 +314,7 @@ Rahman **42** 岁，出生于 **1995** 年之前。该群体可选择加入更�
 
 - [R1 — PRIMARY: LTA OneMotoring PAB, undated live page](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/vehicle-types-and-registrations/active-mobility-devices/PAB.html) — 查阅日期: 2026-11-07
 - [R2 — PRIMARY: LTA Rules & Code of Conduct, undated live page](https://www.lta.gov.sg/content/ltagov/en/getting_around/active_mobility/rules_and_public_education/rules_and_code_of_conduct.html) — 查阅日期: 2026-11-07
-- [M0 — PRIMARY: LTA approved model list, **as at1July2026**,29pages](https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/PAB/List_of_Approved_PAB_Models.pdf) — 查阅日期: 2026-11-07
+- [M0 — PRIMARY: LTA approved model list, as at 1 July 2026, 29 pages](https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/PAB/List_of_Approved_PAB_Models.pdf) — 查阅日期: 2026-11-07
 - [R3 — PRIMARY: LTA Mandatory Theory Test PDF, updated December2025](https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/pdf/mtt_for_escooters_pab.pdf) — 查阅日期: 2026-11-07
 - [R6 — PRIMARY: LTA permitted-device map, correct as of9March2026](https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/pdf/where_devices_are_allowed_mar2026_web.pdf) — 查阅日期: 2026-11-07
 - [R12 — PRIMARY: LTA PAB English handbook, 2021 filename, still linked from live R3](https://www.lta.gov.sg/content/dam/ltagov/getting_around/active_mobility/rules_public_education/rules_code_of_conduct/pdf/pab_english_handbook_20210611.pdf) — 查阅日期: 2026-11-07

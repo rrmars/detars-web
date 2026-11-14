@@ -1,0 +1,202 @@
+{
+ "slug": "australia-masters-vietnamese-student-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1637,
+ "stats": {
+  "searches": 48,
+  "pages": 59,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 21,
+   "end": 820,
+   "chips": [
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+    "https://www.deakin.edu.au/course/master-finance-international",
+    "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-finance-mc201",
+    "https://www.uts.edu.au/courses/master-of-finance",
+    "https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 820,
+   "end": 1497,
+   "chips": [
+    "https://www.uts.edu.au/for-students/international/life-in-sydney/cost-of-living",
+    "https://www.mq.edu.au/study/information-for/international/living-study-sydney/expenses",
+    "https://www.uts.edu.au/for-students/current-students/support/uts-housing-service/our-residence-yura-mudang/fees"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1497,
+   "end": 1536,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own degree, IELTS scores and budget to get the same Australian master’s comparison and honest cost check",
+   "runTitle": "Vietnamese finance graduate planning an Australian master’s in 2027 on a family budget of about AUD 120,000",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "Nationality and residence",
+     "value": "Vietnamese, living in Ho Chi Minh City"
+    },
+    {
+     "key": "degree",
+     "label": "Degree, institution, grades and graduation date",
+     "value": "A Bachelor of Finance"
+    },
+    {
+     "key": "ielts",
+     "label": "IELTS bands and test date",
+     "value": "IELTS overall 6.5"
+    },
+    {
+     "key": "intake",
+     "label": "Intake preference",
+     "value": "February 2027, with July 2027 as the fallback if February is no longer realistic"
+    },
+    {
+     "key": "budget",
+     "label": "Family budget",
+     "value": "About AUD 120,000 in total"
+    },
+    {
+     "key": "offers",
+     "label": "Written offers and net fees",
+     "value": "",
+     "placeholder": "e.g. a written Deakin offer with net tuition of AUD 36,000 a year after a 25% award"
+    }
+   ],
+   "template": "Compare Australian coursework master's routes for {nationality}, {degree}, {ielts}, {intake} and {budget}. Check course-specific international intake/deadlines, assessed duration, scholarship conditions and full-study living/visa/insurance costs. Compare {offers}, keep a funded backup and distinguish dated samples from confirmed terms. Plan only; do not apply, contact anyone, create accounts, book or pay.",
+   "phases": [
+    {
+     "title": "Check five programmes, the student visa rules, costs and scholarships on official pages",
+     "note": "Three Melbourne and two Sydney programmes",
+     "judgment": "It corrected a scholarship assumption that would have misled this applicant: Macquarie’s ASEAN A$10,000 scholarship excludes Vietnam, but its newer A$15,000-a-year Early Acceptance Scholarship explicitly covers Vietnamese citizens from 2027."
+    },
+    {
+     "title": "Build the budget scenarios against AUD 120,000, the intake timeline and the guide",
+     "note": "Ten budget scenarios and a dated timeline",
+     "judgment": "It gave the unwelcome answer plainly: no scenario without a scholarship fits AUD 120,000, and the leanest Deakin route comes to about AUD 118,533 only if the conditions fall into place."
+    },
+    {
+     "title": "Check content, sums and the rendered page, then deliver",
+     "judgment": "The open questions are left open: Deakin’s intake availability for this course could not be confirmed even after a second try, and Macquarie’s Vietnam-specific deadline wasn’t found. The independent reviewer also said it did not check how the page looks."
+    }
+   ],
+   "workers": [
+    "Checked three Melbourne master’s programmes on the universities’ own pages: entry rules, 2027 fees, intake dates and scholarships",
+    "Checked two Sydney master’s programmes the same way, including application deadlines and living costs",
+    "Independently reviewed the plan, sampling the official pages it relies on and recomputing every budget row"
+   ],
+   "chipNames": {
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500": "Home Affairs: Student visa (subclass 500)",
+    "https://www.deakin.edu.au/course/master-finance-international": "Deakin: Master of Finance",
+    "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-finance-mc201": "RMIT: Master of Finance",
+    "https://www.uts.edu.au/courses/master-of-finance": "UTS: Master of Finance",
+    "https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance/": "Macquarie: Master of Banking and Finance",
+    "https://www.uts.edu.au/for-students/international/life-in-sydney/cost-of-living": "UTS: cost of living in Sydney",
+    "https://www.mq.edu.au/study/information-for/international/living-study-sydney/expenses": "Macquarie: living expenses in Sydney",
+    "https://www.uts.edu.au/for-students/current-students/support/uts-housing-service/our-residence-yura-mudang/fees": "UTS housing: residence fees"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的学历、雅思成绩和预算，就能得到同样的澳洲硕士比较和如实的费用核对",
+   "runTitle": "越南金融专业毕业生计划 2027 年读澳洲硕士，家庭预算约 12 万澳元",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "国籍及居住地",
+     "value": "越南籍，住在胡志明市"
+    },
+    {
+     "key": "degree",
+     "label": "学历、学校、成绩及毕业日期",
+     "value": "金融学士学位"
+    },
+    {
+     "key": "ielts",
+     "label": "雅思单项和考试日期",
+     "value": "雅思总分 6.5"
+    },
+    {
+     "key": "intake",
+     "label": "入学偏好",
+     "value": "2027 年 2 月入学；如果 2 月来不及，就改 2027 年 7 月"
+    },
+    {
+     "key": "budget",
+     "label": "家庭预算",
+     "value": "总共约 12 万澳元"
+    },
+    {
+     "key": "offers",
+     "label": "书面录取和净学费",
+     "value": "",
+     "placeholder": "例如：迪肯大学的书面录取，获 25% 奖学金后净学费每年 3.6 万澳元"
+    }
+   ],
+   "template": "请按{nationality}、{degree}、{ielts}、{intake}及{budget}比较澳洲授课型硕士路线。核对具体课程的国际生开班及截止日、评估学制、奖学金条件，以及全学程生活、签证和保险费用。比较{offers}，保留资金可行的备选，分清有日期的例子与确认条款。只做规划，不申请、不联系、不开户、不预订、不付款。",
+   "phases": [
+    {
+     "title": "在官方页面上核对五个项目、学生签证规定、费用和奖学金",
+     "note": "墨尔本三个、悉尼两个项目",
+     "judgment": "它纠正了一个会误导这位申请人的奖学金假设：麦考瑞大学的东盟 1 万澳元奖学金不包括越南，但新设的每年 1.5 万澳元早鸟奖学金明确面向 2027 年起的越南公民。"
+    },
+    {
+     "title": "按 12 万澳元预算做费用情景、入学时间线和指南",
+     "note": "十种预算情景和一条有日期的时间线",
+     "judgment": "它直接给出了不那么好听的答案：不含奖学金的情景没有一个能压进 12 万澳元，最省的迪肯路线要条件都落实，才约 118,533 澳元。"
+    },
+    {
+     "title": "核对内容、算术和页面效果，然后交付",
+     "judgment": "没答案的问题就如实留着：迪肯这个项目的入学名额，试了第二遍仍没能确认；麦考瑞针对越南的截止日也没查到。独立复核同事还说明，它没有检查页面实际渲染的样子。"
+    }
+   ],
+   "workers": [
+    "在大学自家页面上查了墨尔本三个硕士项目：入学条件、2027 年学费、开学日期和奖学金",
+    "用同样的办法查了悉尼两个硕士项目，包括申请截止日和生活费",
+    "独立审查这份规划：抽查它所依据的官方页面，并把预算的每一行重新算一遍"
+   ],
+   "chipNames": {
+    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500": "移民部：学生签证（500 类）",
+    "https://www.deakin.edu.au/course/master-finance-international": "迪肯大学：金融硕士",
+    "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-finance-mc201": "皇家墨尔本理工大学：金融硕士",
+    "https://www.uts.edu.au/courses/master-of-finance": "悉尼科技大学：金融硕士",
+    "https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance/": "麦考瑞大学：银行与金融硕士",
+    "https://www.uts.edu.au/for-students/international/life-in-sydney/cost-of-living": "悉尼科技大学：悉尼生活费",
+    "https://www.mq.edu.au/study/information-for/international/living-study-sydney/expenses": "麦考瑞大学：悉尼生活开销",
+    "https://www.uts.edu.au/for-students/current-students/support/uts-housing-service/our-residence-yura-mudang/fees": "悉尼科技大学住宿：宿舍费用"
+   }
+  }
+ }
+}

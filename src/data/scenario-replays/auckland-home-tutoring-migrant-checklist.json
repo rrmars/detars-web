@@ -1,0 +1,137 @@
+{
+ "slug": "auckland-home-tutoring-migrant-checklist",
+ "startedAt": "2026-11-07",
+ "activeSec": 2052,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 48,
+   "end": 648,
+   "chips": [
+    "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-employment-conditions-for-open-work-visa-holders/",
+    "https://www.police.govt.nz/advice-services/businesses-and-organisations/nz-police-vetting-service/register-new-zealand-police",
+    "https://www.aucklandcouncil.govt.nz/building-and-consents/Documents/ac2201-home-based-business-activities.pdf",
+    "https://expertmathstuition.co.nz/our-fees-and-policies/",
+    "https://www.superprof.co.nz/lessons/mathematics/auckland/2/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 648,
+   "end": 1277,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1277,
+   "end": 1926,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 9,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Fill in your own visa, suburb and budget, and get the same checked launch plan for tutoring in Auckland",
+   "runTitle": "A former maths teacher from Chennai starting NCEA and Cambridge tutoring in Mount Roskill, Auckland, from February 2027",
+   "fields": [
+    {
+     "key": "launch",
+     "label": "Launch date",
+     "value": "February 2027"
+    },
+    {
+     "key": "visa",
+     "label": "Visa conditions and expiry",
+     "value": "Partner work visa with open work rights; husband holds an Accredited Employer Work Visa"
+    },
+    {
+     "key": "credentials",
+     "label": "Teaching credentials and syllabus strengths",
+     "value": "Former high-school maths teacher from Chennai; NCEA and Cambridge"
+    },
+    {
+     "key": "suburb",
+     "label": "Suburb and home-use constraints",
+     "value": "Mount Roskill, Auckland, at home and online"
+    },
+    {
+     "key": "budget",
+     "label": "Budget",
+     "value": "NZD 3,000"
+    },
+    {
+     "key": "hours",
+     "label": "Realistic weekly availability",
+     "value": "Aiming for 20 paid hours a week by mid-2027"
+    },
+    {
+     "key": "platform",
+     "label": "Platform to compare",
+     "value": "",
+     "placeholder": "e.g. a tutor-listing site you are considering"
+    }
+   ],
+   "template": "Help me plan solo maths tutoring in Auckland for {launch}. My visa conditions and expiry are {visa}, teaching credentials and syllabus strengths {credentials}, suburb/home-use constraints {suburb}, budget {budget} and realistic weekly availability {hours}. Check visa and tutor-registration gaps, compare direct referrals with {platform}, stress-test paid hours and tax/ACC cash, and prepare parent terms, safeguarding and privacy steps. Keep home visits conditional and ask before contacting anyone, posting, sharing pupil information or applying.",
+   "phases": [
+    {
+     "title": "Read the official rules on visas, tutor checks, tax and ACC, and collect dated Auckland rates and platform fees",
+     "note": "Immigration, Police vetting, child safety and privacy, IRD and ACC, and real tutor adverts",
+     "judgment": "It treated the six tutor adverts as examples, not evidence of a market: all were undated, and they were not six verified tutors. It also threw out early page fetches that had silently gone through an already-open browser and re-read the sources plainly, saying so in the notes."
+    },
+    {
+     "title": "Write the guide and the money model, with every source listed",
+     "note": "Recommendation first, rate and platform-fee tables, pricing, schedule and a first-year income and tax table"
+    },
+    {
+     "title": "Recheck every claim and number with a separate reviewer, and test the desktop and phone layouts",
+     "judgment": "The reviewer ran 49 separate arithmetic checks and all passed, but the report still spells out what is unresolved: undated adverts, whether tutor registration rules apply, several platform fees. The NZ$31,081.60 first-year surplus stays labelled as conditional."
+    }
+   ],
+   "workers": [
+    "Checked what her partner work visa allows, whether tutors need a Police vet or registration, and the child-safety and privacy rules",
+    "Read the official IRD and ACC guidance for sole-trader tutoring: GST threshold, provisional tax and levies",
+    "Collected public Auckland maths tutor rates and platform fees, noting which adverts are undated",
+    "Independently reviewed the finished guide: recomputed every money figure and checked claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-employment-conditions-for-open-work-visa-holders/": "Immigration New Zealand: changes to open work visa conditions",
+    "https://www.police.govt.nz/advice-services/businesses-and-organisations/nz-police-vetting-service/register-new-zealand-police": "NZ Police vetting service: who can request a vet",
+    "https://www.aucklandcouncil.govt.nz/building-and-consents/Documents/ac2201-home-based-business-activities.pdf": "Auckland Council: home-based business activities",
+    "https://expertmathstuition.co.nz/our-fees-and-policies/": "Expert Maths Tuition: fees and policies (an advertised rate)",
+    "https://www.superprof.co.nz/lessons/mathematics/auckland/2/": "Superprof: Auckland maths tutors (an advertised rate)"
+   }
+  }
+ }
+}

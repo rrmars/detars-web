@@ -1,0 +1,148 @@
+{
+ "slug": "lyon-family-move-to-montreal-lmia-caq-route",
+ "startedAt": "2026-11-07",
+ "activeSec": 1890,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 6,
+  "parallel": 5,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 419,
+   "chips": [
+    "https://www.quebec.ca/en/immigration/temporary/workers/hiring-foreign-workers/process-hiring-foreign-workers",
+    "https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/registering/arriving-quebec-agreements-other-countries",
+    "https://www.opq.org/devenir-pharmacien-au-quebec/admission/diplomes-en-france/",
+    "https://www.tal.gouv.qc.ca/en/renting-a-dwelling/rent-increase",
+    "https://www.bankofcanada.ca/valet/observations/FXEURCAD/json?recent=5"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 419,
+   "end": 1686,
+   "chips": [
+    "https://www.canada.ca/en/employment-social-development/services/foreign-workers/labour-market-impact-assessment-processing-times.html",
+    "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/high/requirements.html",
+    "https://www.quebec.ca/en/immigration/permanent/skilled-workers/skilled-worker-selection-program",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility/france.html",
+    "https://www.mcgill.ca/familycare/schooling/eligibility-study-english"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 5,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1686,
+   "end": 1890,
+   "chips": [],
+   "workers": [
+    {
+     "n": 6,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own city, job offer and family and get the same permit-route comparison and first-year budget",
+   "runTitle": "A French family from Lyon moving to Montréal: a CAD 115,000 job offer starting September 2027",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City in France",
+     "value": "Lyon"
+    },
+    {
+     "key": "offer",
+     "label": "Employer, role, salary and start date",
+     "value": "a software company in Montréal, CAD 115,000 a year, starting September 2027"
+    },
+    {
+     "key": "family",
+     "label": "Adults’ ages and occupations, children’s ages",
+     "value": "Claire (38, hospital pharmacist) and Julien (40, software project manager); children aged 7 and 11"
+    },
+    {
+     "key": "profession",
+     "label": "Profession",
+     "value": "pharmacist"
+    }
+   ],
+   "template": "Help me plan a move from {city} to Montréal. The job offer is {offer}; the family is {family}. Check which LMIA stream and NOC/TEER code the employer is likely to use, whether my spouse can get an open work permit, which RAMQ and school steps apply, and what the recognition path for {profession} looks like. Rebuild the first-year budget with my own rent, savings and employer-benefit figures, and flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official pages on work permits, schools, health cover, pharmacist recognition, rents and tax",
+     "note": "Quebec and federal immigration pages, RAMQ, the pharmacists’ order, rental board and exchange rate",
+     "judgment": "It did not repeat the usual “three-month wait” for health cover. The official page exempts people arriving from a country with a social-security agreement, which includes France, and it flagged that Claire’s cover depends on her permit type: an open work permit may not qualify, and that stayed marked unresolved."
+    },
+    {
+     "title": "Write the guide, route comparison and first-year budget with the arithmetic shown",
+     "note": "Recommended permit route, timeline, rent examples, tax estimate and euro conversion",
+     "judgment": "The budget ends about CAD 3,464 short: net pay of about CAD 79,671 against outlays of about CAD 83,135. The guide states plainly that rent, groceries, utilities, phones and setup are its own placeholders, not sourced figures."
+    },
+    {
+     "title": "Independent check of every money figure and claim against the sources",
+     "judgment": "A separate colleague recomputed every money figure on their own, and all matched to the cent. They also flagged six wording and citation problems, including a filing-time statement that clashed with the six-month rule. All were fixed, and the summary says openly that the check was not re-run after those edits."
+    }
+   ],
+   "workers": [
+    "Read the official rules on French- versus English-language schooling and enrolment, and on public health-insurance cover in Quebec",
+    "Checked how a French pharmacy degree is recognised by Quebec’s pharmacists’ order: steps, fees, the exam route and the internship",
+    "Collected dated 3-bedroom rent examples in Rosemont, Villeray and Outremont, plus tenancy rules, transit fares and the euro–dollar rate",
+    "Read the official Canada and Quebec pages on the work-permit route: job-market approval, Quebec acceptance certificate, fees, processing times and permits for the spouse and children",
+    "Gathered the federal and Quebec income-tax, pension, employment-insurance and parental-insurance figures needed to estimate take-home pay",
+    "Independent check: recomputed every money figure separately and traced the guide’s claims back to the sources list"
+   ],
+   "chipNames": {
+    "https://www.quebec.ca/en/immigration/temporary/workers/hiring-foreign-workers/process-hiring-foreign-workers": "Quebec: process for hiring a foreign worker",
+    "https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/registering/arriving-quebec-agreements-other-countries": "RAMQ: arriving from a country with a social security agreement",
+    "https://www.opq.org/devenir-pharmacien-au-quebec/admission/diplomes-en-france/": "Quebec pharmacists’ order: diplomas from France",
+    "https://www.tal.gouv.qc.ca/en/renting-a-dwelling/rent-increase": "Quebec rental board: rent increases",
+    "https://www.bankofcanada.ca/valet/observations/FXEURCAD/json?recent=5": "Bank of Canada: euro–Canadian dollar rate",
+    "https://www.canada.ca/en/employment-social-development/services/foreign-workers/labour-market-impact-assessment-processing-times.html": "Canada: job-market approval processing times",
+    "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/high/requirements.html": "Canada: high-wage job-market approval requirements",
+    "https://www.quebec.ca/en/immigration/permanent/skilled-workers/skilled-worker-selection-program": "Quebec: Skilled Worker Selection Program",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility/france.html": "Canada: International Experience Canada, France",
+    "https://www.mcgill.ca/familycare/schooling/eligibility-study-english": "McGill: eligibility for English schooling"
+   }
+  }
+ }
+}

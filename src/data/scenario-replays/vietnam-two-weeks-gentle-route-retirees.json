@@ -1,0 +1,189 @@
+{
+ "slug": "vietnam-two-weeks-gentle-route-retirees",
+ "startedAt": "2026-11-07",
+ "activeSec": 1799,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 39,
+   "end": 398,
+   "chips": [
+    "https://vn.mofa.go.kr/vn-ko/brd/m_2203/view.do?page=1&seq=1345931",
+    "https://en.baochinhphu.vn/viet-nam-extends-visa-exemption-for-citizens-from-12-countries-until-march-2028-111250308092628146.htm",
+    "https://evisa.gov.vn/",
+    "https://giotaugiave.dsvn.vn/",
+    "https://www.vietnamairlines.com/en-vn/flights-from-hanoi-to-hue"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 398,
+   "end": 1157,
+   "chips": [
+    "https://vn.usembassy.gov/notice-implementation-of-pre-arrival-declaration-for-international-visitors-arriving-at-airports-in-vietnam/",
+    "https://vnembassy-jp.org/en/vietnam-extends-visa-exemption-policy",
+    "https://www.hanainsure.co.kr/w/product/travelLeisure/abroadTravelIntro"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1157,
+   "end": 1663,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own dates, ages and budget, and get the same gentle Vietnam route checked against official pages",
+   "runTitle": "Retired couple from Busan, 15 days in Vietnam on KRW 6 million (flights excluded)",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "3–17 March 2027, flying into Hanoi and out of Ho Chi Minh City"
+    },
+    {
+     "key": "travellers",
+     "label": "Travellers’ ages, passports and residence",
+     "value": "Retired couple from Busan, both 66, South Korean passports"
+    },
+    {
+     "key": "needs",
+     "label": "Walking/boarding needs",
+     "value": "They walk well, but no long overnight bus rides and no more than one early-morning start in a row"
+    },
+    {
+     "key": "budget",
+     "label": "Budget excluding international flights",
+     "value": "KRW 6 million for both"
+    }
+   ],
+   "template": "Plan a gentle Vietnam trip for {dates}, {travellers}, with {needs} and {budget}. Compare Hanoi, a bay overnight, Hue, Hoi An and a Mekong day trip. Keep two domestic flights, no overnight buses, rest days and a Hanoi night after the cruise. Check late breakfast and optional dawn excursions, all-in two-person quotes, entry/declaration rules and suitable insurance. Keep a 15% contingency and separate dated examples from available offers. Ask before contacting anyone, sharing information, applying or paying.",
+   "phases": [
+    {
+     "title": "Check entry rules, transport, hotels, cruises and insurance against official pages",
+     "note": "Entry rules, transport, hotel and cruise examples, and over-65 insurance in parallel",
+     "judgment": "It would not smooth over a disagreement: the official sources differ on whether the arrival declaration is mandatory or only strongly encouraged, so the guide flags it as unresolved and says to recheck before travel."
+    },
+    {
+     "title": "Write the guide and a source list for every rule and price",
+     "note": "Route, transport comparison, itinerary with rest days, budget in VND and KRW",
+     "judgment": "It reported conflicts in its own transport sources: the official scenic-train page has conflicting timetable blocks, and a car operator’s “free scenic stops” claim contradicts its own surcharge table. Train fares from the primary site could not be confirmed, so alternatives are clearly marked."
+    },
+    {
+     "title": "Independently recompute the money figures and test the page on desktop and phone",
+     "judgment": "The independent check recomputed 38 money examples and all 22 budget rows: total KRW 5,315,556, leaving KRW 684,444 of the KRW 6 million. It also said what it could not certify: because some early page fetches silently went through an already-open browser, it could not be confirmed that every page was read in a fresh, signed-out browser."
+    }
+   ],
+   "workers": [
+    "Verified entry rules for South Korean passports, March weather by region and insurance options for over-65s",
+    "Found hotel examples in four cities on the hotels’ own pages and compared two overnight Ha Long cruises",
+    "Compared domestic flights, the Reunification train, car transfers and Mekong tours, with dated fares and journey times",
+    "Recomputed every money figure on its own and checked each claim against the source list"
+   ],
+   "chipNames": {
+    "https://vn.mofa.go.kr/vn-ko/brd/m_2203/view.do?page=1&seq=1345931": "Korean Embassy in Vietnam: entry notice",
+    "https://en.baochinhphu.vn/viet-nam-extends-visa-exemption-for-citizens-from-12-countries-until-march-2028-111250308092628146.htm": "Vietnam visa exemption extended to March 2028 (Government news)",
+    "https://evisa.gov.vn/": "Vietnam official e-visa portal",
+    "https://giotaugiave.dsvn.vn/": "Vietnam Railways timetable and fares",
+    "https://www.vietnamairlines.com/en-vn/flights-from-hanoi-to-hue": "Vietnam Airlines: Hanoi–Hue flights",
+    "https://vn.usembassy.gov/notice-implementation-of-pre-arrival-declaration-for-international-visitors-arriving-at-airports-in-vietnam/": "US Embassy notice on Vietnam’s pre-arrival declaration",
+    "https://vnembassy-jp.org/en/vietnam-extends-visa-exemption-policy": "Vietnam Embassy in Japan: visa exemption extension",
+    "https://www.hanainsure.co.kr/w/product/travelLeisure/abroadTravelIntro": "Hana Insurance overseas travel cover"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的日期、年龄和预算，得到同样对照官方页面核过的轻松越南行程",
+   "runTitle": "釜山退休夫妇，15 天越南行，预算 600 万韩元（不含机票）",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 3 月 3 日至 17 日，河内入境、胡志明市出境"
+    },
+    {
+     "key": "travellers",
+     "label": "旅客年龄、护照和居住地",
+     "value": "釜山退休夫妇，两人都是 66 岁，持韩国护照"
+    },
+    {
+     "key": "needs",
+     "label": "步行及上下船需求",
+     "value": "走路没问题，但不想坐长途夜班大巴，也不想连着多天清晨出发"
+    },
+    {
+     "key": "budget",
+     "label": "不含国际机票的预算",
+     "value": "两人共 600 万韩元"
+    }
+   ],
+   "template": "请为{dates}、{travellers}安排轻松的越南游，考虑{needs}和{budget}。比较河内、海湾过夜、顺化、会安及湄公河一日游；保留两段国内航班，不坐过夜巴士，安排休息日和下船后的河内住宿。核对晚早餐、可跳过的清晨活动、两人全包报价、入境和申报规则及合适保险。保留15%机动金，把有日期的示例与确实可买的产品分开。联系他人、分享资料、申请或付款前先问我。",
+   "phases": [
+    {
+     "title": "对照官方页面核对入境规定、交通、酒店、游轮和保险",
+     "note": "入境规定、交通、酒店与游轮示例、65 岁以上保险同时进行",
+     "judgment": "官方说法有出入时它不会含糊带过：到达申报到底是强制还是“强烈建议”，各官方来源说法不一，所以指南标为“未解决”，并提醒出发前再核。"
+    },
+    {
+     "title": "写成指南，并为每条规定和价格列出来源",
+     "note": "路线、交通对比、含休息日的行程，以及越南盾与韩元预算",
+     "judgment": "它把自己查到的交通信息里的矛盾如实报了出来：官方景观火车页面的时刻表前后冲突，某家包车公司宣传的“免费景观停靠”又与自家加收价目表相矛盾；铁路官网上的票价未能确认，所以替代来源都明确标注。"
+    },
+    {
+     "title": "独立重算所有金额，并用电脑和手机宽度测试页面",
+     "judgment": "独立复核重算了 38 个金额示例和全部 22 行预算：总计 5,315,556 韩元，在 600 万韩元里还剩 684,444 韩元。它也说明了做不到的部分：早期有几次网页读取悄悄走了已有的浏览器，所以无法严格保证全程都是干净的浏览环境。"
+    }
+   ],
+   "workers": [
+    "核实韩国护照的入境规定、各地区三月天气，以及 65 岁以上的保险选择",
+    "在酒店自家页面上找四个城市的酒店示例，并比较两家下龙湾过夜游轮",
+    "对比国内航班、统一铁路火车、包车接送和湄公河行程，附日期、票价和耗时",
+    "独立重算每一笔金额，并对照来源清单核对每条说法"
+   ],
+   "chipNames": {
+    "https://vn.mofa.go.kr/vn-ko/brd/m_2203/view.do?page=1&seq=1345931": "韩国驻越南大使馆：入境通知",
+    "https://en.baochinhphu.vn/viet-nam-extends-visa-exemption-for-citizens-from-12-countries-until-march-2028-111250308092628146.htm": "越南免签延长至 2028 年 3 月（政府新闻）",
+    "https://evisa.gov.vn/": "越南官方电子签证平台",
+    "https://giotaugiave.dsvn.vn/": "越南铁路时刻表与票价",
+    "https://www.vietnamairlines.com/en-vn/flights-from-hanoi-to-hue": "越南航空：河内—顺化航班",
+    "https://vn.usembassy.gov/notice-implementation-of-pre-arrival-declaration-for-international-visitors-arriving-at-airports-in-vietnam/": "美国驻越使馆：入境前申报通知",
+    "https://vnembassy-jp.org/en/vietnam-extends-visa-exemption-policy": "越南驻日本使馆：免签延期",
+    "https://www.hanainsure.co.kr/w/product/travelLeisure/abroadTravelIntro": "韩亚保险海外旅行险"
+   }
+  }
+ }
+}

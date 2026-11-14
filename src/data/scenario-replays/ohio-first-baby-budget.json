@@ -1,0 +1,131 @@
+{
+ "slug": "ohio-first-baby-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 2567,
+ "stats": {
+  "searches": 46,
+  "pages": 32,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 1250,
+   "chips": [
+    "https://www.dol.gov/agencies/whd/fmla/faq",
+    "https://www.dol.gov/agencies/wb/paid-leave/State-Paid-Family-Medical-Leave-Laws",
+    "https://www.irs.gov/credits-deductions/individuals/child-tax-credit",
+    "https://www.cpsc.gov/SafeSleep",
+    "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1250,
+   "end": 1771,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1771,
+   "end": 2289,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own city, due date, pay and leave and get the same first-year baby budget",
+   "runTitle": "Columbus, Ohio: a first-year baby budget for a couple expecting in May 2027",
+   "fields": [
+    {
+     "key": "city",
+     "label": "Ohio city",
+     "value": "Columbus, Ohio"
+    },
+    {
+     "key": "due",
+     "label": "Due date",
+     "value": "15 May 2027"
+    },
+    {
+     "key": "pay",
+     "label": "Take-home pay",
+     "value": "",
+     "placeholder": "e.g. $6,800 a month combined after tax"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and existing monthly surplus",
+     "value": "",
+     "placeholder": "e.g. $12,000 saved and about $600 left over each month"
+    },
+    {
+     "key": "leave",
+     "label": "Each parent’s leave benefits",
+     "value": "",
+     "placeholder": "e.g. 6 weeks at 60% pay for one parent, unpaid leave for the other"
+    },
+    {
+     "key": "health",
+     "label": "Health plan and premium change",
+     "value": "Both employed with employer health insurance"
+    },
+    {
+     "key": "feeding",
+     "label": "Feeding budget assumptions",
+     "value": "",
+     "placeholder": "e.g. formula only, or a mix with breastfeeding"
+    },
+    {
+     "key": "childcare",
+     "label": "Childcare start date and quotes",
+     "value": "Childcare from month 4, comparing a centre, in-home care and a nanny share in Columbus"
+    }
+   ],
+   "template": "Plan a first-year baby budget for my family in {city}, due {due}, with {pay}, {savings}, {leave}, {health}, {feeding} and {childcare}. Separate prebirth costs, spending, lost income and confirmed benefits; show monthly cash peaks and an Ohio paid-leave verification checklist. Plan only; do not contact providers, sign up or buy anything.",
+   "phases": [
+    {
+     "title": "Research current prices, childcare costs, benefits and safety guidance",
+     "note": "Tax credits, leave rules, gear listings and Columbus childcare rates",
+     "judgment": "It would not guess the 2027 tax figure: the Child Tax Credit is confirmed at $2,200 for 2026 and used as a clearly labelled stand-in, and an unofficial $2,300 forecast was left out."
+    },
+    {
+     "title": "Build the editable workbook and a one-page planning guide with sources",
+     "note": "One-off gear, monthly consumables, birth costs, childcare and a May 2027 to April 2028 cash view"
+    },
+    {
+     "title": "Recalculate the workbook and check the guide before handing over",
+     "note": "328 formulas recalculated with no errors",
+     "judgment": "It kept the Ohio paid-leave answer honest: the official list showing no state programme is an older one, and whether anything has been enacted since was not fully checked, so the guide includes a checklist to verify it."
+    }
+   ],
+   "workers": [
+    "Read the official sources on the 2027 Child Tax Credit, dependent-care limits, unpaid family leave, Ohio leave rules and safe secondhand gear",
+    "Collected current public prices for two tiers each of car seat, crib, mattress, stroller, high chair and carrier, plus diapers and formula"
+   ],
+   "chipNames": {
+    "https://www.dol.gov/agencies/whd/fmla/faq": "US Department of Labor: FMLA FAQ",
+    "https://www.dol.gov/agencies/wb/paid-leave/State-Paid-Family-Medical-Leave-Laws": "US Department of Labor: state paid family and medical leave laws",
+    "https://www.irs.gov/credits-deductions/individuals/child-tax-credit": "IRS: Child Tax Credit",
+    "https://www.cpsc.gov/SafeSleep": "CPSC: safe sleep guidance",
+    "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx": "American Academy of Pediatrics: car seat guidance"
+   }
+  }
+ }
+}

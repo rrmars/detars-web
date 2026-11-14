@@ -1,0 +1,185 @@
+{
+ "slug": "used-car-shortlist-under-15000-us",
+ "startedAt": "2026-11-05",
+ "activeSec": 1675,
+ "stats": {
+  "searches": 59,
+  "pages": 66,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 545,
+   "chips": [
+    "https://azdot.gov/mvd/services/registration-plates-title/buying-vehicle",
+    "https://www.phoenix.gov/content/dam/phoenix/financesite/documents/privilege-use-tax/Combined-Tax-Rate-Chart-0126.pdf",
+    "https://difi.az.gov/consumer/automobile-insurance",
+    "https://consumer.ftc.gov/articles/buying-used-car-dealer",
+    "https://static.nhtsa.gov/odi/rcl/2017/RCLRPT-17V393-7065.PDF"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 545,
+   "end": 1524,
+   "chips": [
+    "https://azdor.gov/individuals/income-tax-filing-assistance/vehicle-use-tax-calculator",
+    "https://www.fueleconomy.gov/feg/bymodel/2016_Toyota_Corolla.shtml",
+    "https://api.nhtsa.gov/recalls/recallsByVehicle?make=honda&model=fit&modelYear=2015",
+    "https://static.nhtsa.gov/odi/tsbs/2017/SB-10099348-9340.pdf"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 21,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1524,
+   "end": 1606,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own city, date and cash ceiling and get a shortlist checked the same way",
+   "runTitle": "Phoenix: a reliable used car for a commuter, all-in budget $15,000",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City or state",
+     "value": "Phoenix, Arizona"
+    },
+    {
+     "key": "date",
+     "label": "Purchase date",
+     "value": "January 2027"
+    },
+    {
+     "key": "cash",
+     "label": "Cash ceiling",
+     "value": "USD 15,000 all-in, including tax, title and registration"
+    },
+    {
+     "key": "mileage",
+     "label": "Annual mileage",
+     "value": "About 15,000 miles a year"
+    },
+    {
+     "key": "reserve",
+     "label": "Repair reserve",
+     "value": "",
+     "placeholder": "e.g. $1,500 kept aside for repairs in the first year"
+    }
+   ],
+   "template": "Help me shortlist used cars in {city} for {date}, with {cash} and {mileage}. Separate acquisition fees from running costs, check dated local ads and vehicle-specific warnings, and keep {reserve} available. Give me an inspection and paperwork checklist; do not contact sellers, apply for credit, reserve or buy anything.",
+   "phases": [
+    {
+     "title": "Re-check the listings, recalls and official cost sources",
+     "note": "Earlier notes were treated as leads and checked again",
+     "judgment": "Notes left by an earlier attempt were not taken on trust: the researcher reopened all six Corolla and Mazda3 listings, dated November 5, 2026, and re-verified that Toyota’s later CVT service campaign replaces the earlier one."
+    },
+    {
+     "title": "Build the decision report, cost table and buying checklist",
+     "note": "Four model targets, twelve inspected ads, fuel and recall notes",
+     "judgment": "A researcher first reported “Partial—not six verified usable listings” for the Fit and CR-V, rather than padding the list; a follow-up round then closed the gap with six inspected ads. Along the way one CR-V with 26,118 miles was excluded because the same VIN appears in a salvage-auction history, pending a title check, and a Fit with conflicting prices was labelled an unverified lead."
+    },
+    {
+     "title": "Check the final page once and hand over the files"
+    }
+   ],
+   "workers": [
+    "Reopened six Phoenix-area Corolla and Mazda3 listings to re-check price, mileage and location, then checked recall campaigns and fuel economy",
+    "Inspected Phoenix-area Honda Fit and CR-V listings and checked recalls, official fuel economy and manufacturer bulletins for those years"
+   ],
+   "chipNames": {
+    "https://azdot.gov/mvd/services/registration-plates-title/buying-vehicle": "Arizona MVD: buying a vehicle",
+    "https://www.phoenix.gov/content/dam/phoenix/financesite/documents/privilege-use-tax/Combined-Tax-Rate-Chart-0126.pdf": "City of Phoenix: combined tax rates",
+    "https://difi.az.gov/consumer/automobile-insurance": "Arizona insurance department: auto insurance",
+    "https://consumer.ftc.gov/articles/buying-used-car-dealer": "FTC: buying a used car from a dealer",
+    "https://static.nhtsa.gov/odi/rcl/2017/RCLRPT-17V393-7065.PDF": "NHTSA: recall report 17V393",
+    "https://azdor.gov/individuals/income-tax-filing-assistance/vehicle-use-tax-calculator": "Arizona Department of Revenue: vehicle use tax calculator",
+    "https://www.fueleconomy.gov/feg/bymodel/2016_Toyota_Corolla.shtml": "fueleconomy.gov: 2016 Toyota Corolla",
+    "https://api.nhtsa.gov/recalls/recallsByVehicle?make=honda&model=fit&modelYear=2015": "NHTSA: recalls for the 2015 Honda Fit",
+    "https://static.nhtsa.gov/odi/tsbs/2017/SB-10099348-9340.pdf": "NHTSA: Honda service bulletin 10099348"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的城市、购买日期和现金上限，得到同样经过核对的候选清单",
+   "runTitle": "凤凰城：通勤用的可靠二手车，含税费总预算 15,000 美元",
+   "fields": [
+    {
+     "key": "city",
+     "label": "城市或州",
+     "value": "美国亚利桑那州凤凰城"
+    },
+    {
+     "key": "date",
+     "label": "购买日期",
+     "value": "2027 年 1 月"
+    },
+    {
+     "key": "cash",
+     "label": "现金上限",
+     "value": "含税费、过户和注册，总共 15,000 美元"
+    },
+    {
+     "key": "mileage",
+     "label": "年里程",
+     "value": "每年约 15,000 英里"
+    },
+    {
+     "key": "reserve",
+     "label": "维修备用金",
+     "value": "",
+     "placeholder": "例如：留出 1,500 美元作第一年维修备用"
+    }
+   ],
+   "template": "请帮我筛选{city}、{date}的二手车，现金上限{cash}，年里程{mileage}。分开购入费用和日常用车成本，比较带日期的本地广告及单车风险，保留{reserve}。给我验车和文件清单；不要联系卖家、申请贷款、预留或购买。",
+   "phases": [
+    {
+     "title": "复核在售广告、召回信息和官方费用来源",
+     "note": "之前留下的笔记只当线索，重新核对",
+     "judgment": "上一次中断时留下的笔记没有直接采信：同事重新打开了卡罗拉和马自达 3 共六条广告，日期为 2026 年 11 月 5 日，并重新确认丰田后来的 CVT 服务活动取代了更早的那一项。"
+    },
+    {
+     "title": "制作决策报告、费用表和购车清单",
+     "note": "四个车型目标、十二条已逐条查看的广告、油耗和召回说明",
+     "judgment": "有同事先如实汇报飞度和 CR-V “只完成了一部分，没有六条可用的已核实广告”，没有凑数；之后补了一轮，才补齐六条已逐条查看的广告。其中一台行驶 26,118 英里的 CR-V 因同一车架号出现在拍卖的报废记录里，在查清产权前被排除；一台价格互相矛盾的飞度只标为未核实的线索。"
+    },
+    {
+     "title": "最后检查一次页面，交付文件"
+    }
+   ],
+   "workers": [
+    "重开凤凰城一带六条卡罗拉和马自达 3 的在售广告，复核价格、里程和地点，并核对召回活动和油耗",
+    "查看凤凰城一带本田飞度和 CR-V 的在售广告，并核对这些年款的召回、官方油耗和厂家技术通告"
+   ],
+   "chipNames": {
+    "https://azdot.gov/mvd/services/registration-plates-title/buying-vehicle": "亚利桑那州车辆管理局：购买车辆",
+    "https://www.phoenix.gov/content/dam/phoenix/financesite/documents/privilege-use-tax/Combined-Tax-Rate-Chart-0126.pdf": "凤凰城：综合税率表",
+    "https://difi.az.gov/consumer/automobile-insurance": "亚利桑那州保险部门：车险",
+    "https://consumer.ftc.gov/articles/buying-used-car-dealer": "美国联邦贸易委员会：从经销商买二手车",
+    "https://static.nhtsa.gov/odi/rcl/2017/RCLRPT-17V393-7065.PDF": "NHTSA：召回报告 17V393",
+    "https://azdor.gov/individuals/income-tax-filing-assistance/vehicle-use-tax-calculator": "亚利桑那州税务局：车辆使用税计算器",
+    "https://www.fueleconomy.gov/feg/bymodel/2016_Toyota_Corolla.shtml": "fueleconomy.gov：2016 款丰田卡罗拉",
+    "https://api.nhtsa.gov/recalls/recallsByVehicle?make=honda&model=fit&modelYear=2015": "NHTSA：2015 款本田飞度召回",
+    "https://static.nhtsa.gov/odi/tsbs/2017/SB-10099348-9340.pdf": "NHTSA：本田技术通告 10099348"
+   }
+  }
+ }
+}

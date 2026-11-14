@@ -1,0 +1,137 @@
+{
+ "slug": "jeju-three-days-east-coast",
+ "startedAt": "2026-11-05",
+ "activeSec": 1846,
+ "stats": {
+  "searches": 41,
+  "pages": 24,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 1100,
+   "chips": [
+    "https://www.timeanddate.com/holidays/south-korea/2027",
+    "https://www.jejutamra.com/rent/",
+    "https://m.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do",
+    "https://www.opinet.co.kr/user/dopospdrg/dopOsPdrgAreaView.do",
+    "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1100,
+   "end": 1874,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own group, dates and budget and get the same east-coast Jeju plan, with the car-or-bus question checked first",
+   "runTitle": "Seoul to Jeju: three friends, three days, about KRW 600,000 each",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "Travellers, ages, licences and mobility needs",
+     "value": "Three friends in their mid-20s, travelling from Seoul"
+    },
+    {
+     "key": "dates",
+     "label": "Dates and flight times",
+     "value": "Fly in on Friday 1 October 2027, fly out on the evening of Sunday 3 October 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and exclusions",
+     "value": "About KRW 600,000 per person, excluding flights"
+    }
+   ],
+   "template": "Plan east-coast Jeju for {travellers} on {dates}, with {budget}. Compare eligible all-in car/insurance quotes with a realistic bus route, price rooms for the actual group, and keep sunrise, rain and airport-return alternatives. Separate dated samples from confirmed quotes. Plan only; do not book, contact anyone, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Check holidays, car and bus prices, and where to stay",
+     "note": "Chuseok dates, rental and fuel prices, official bus fares, a few east-coast rooms and cafés",
+     "judgment": "It checked who can actually rent the car before relying on the price: the quote it found needs a driver aged 26 or over who has held a licence for more than a year, which friends in their mid-20s may not meet. So the plan keeps a bus version beside the car one."
+    },
+    {
+     "title": "Build the day-by-day plan and a budget that adds up",
+     "note": "Sunrise, coast, Olle trail, rainy-day option and a cost table",
+     "judgment": "Hotel prices are shown as dated examples, not quotes. The cheapest option it found was a price for two adults, not three, so the guide says to price a three-person room first and claims no rate for October 2027."
+    }
+   ],
+   "workers": [
+    "Looked for three places to stay on the east side with prices shown publicly, plus black-pork meals and café prices",
+    "Checked car-rental prices and who is allowed to rent, the fuel price, and official bus fares and routes"
+   ],
+   "chipNames": {
+    "https://www.timeanddate.com/holidays/south-korea/2027": "South Korea public holidays 2027 (timeanddate)",
+    "https://www.jejutamra.com/rent/": "Tamra rent-a-car listing",
+    "https://m.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do": "LOTTE Rent-a-Car rental information",
+    "https://www.opinet.co.kr/user/dopospdrg/dopOsPdrgAreaView.do": "Opinet: fuel prices by region",
+    "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule": "Jeju Bus Information: fares and timetables"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你们自己的人数、日期和预算，得到同样的济州东海岸方案，并先查清谁能租车",
+   "runTitle": "首尔到济州：三位朋友三天，每人约 60 万韩元",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "人数、年龄、驾照和行动需求",
+     "value": "三位 20 代中期的朋友，从首尔出发"
+    },
+    {
+     "key": "dates",
+     "label": "日期及航班时间",
+     "value": "2027 年 10 月 1 日（周五）飞到，10 月 3 日（周日）晚上飞走"
+    },
+    {
+     "key": "budget",
+     "label": "预算及不包含项目",
+     "value": "每人约 60 万韩元，不含机票"
+    }
+   ],
+   "template": "请按{travellers}、{dates}、{budget}规划济州东海岸。比较符合资格的租车保险全包价和现实公交路线，按实际人数询房，保留日出、雨天和回机场替代安排。分清有日期的示例与确认报价。只做规划，不预订、不联系、不开户、不付款。",
+   "phases": [
+    {
+     "title": "核对假期、租车与公交价格，以及住哪里",
+     "note": "中秋日期、租车和油价、官方公交票价、几家东海岸的住处和咖啡馆",
+     "judgment": "它先查清谁能租车，再看价格：找到的报价要求司机 26 岁以上、持驾照满一年，20 代中期的朋友未必符合。所以方案在自驾之外保留了一套公交版本。"
+    },
+    {
+     "title": "做出逐日行程和对得上的预算",
+     "note": "日出、海岸、Olle 步道、雨天备案和费用表",
+     "judgment": "住宿价格只当作带日期的示例，不是报价。找到的最低价是两位成人的价格，不是三人的，所以文中让大家先问三人房的价格，也没有给出 2027 年 10 月的任何房价。"
+    }
+   ],
+   "workers": [
+    "找出三处东边可住的地方（价格公开可查），以及黑猪肉餐厅和咖啡馆的价格",
+    "查租车价格和谁有资格租、油价，以及官方公交票价和路线"
+   ],
+   "chipNames": {
+    "https://www.timeanddate.com/holidays/south-korea/2027": "2027 年韩国公共假日（timeanddate）",
+    "https://www.jejutamra.com/rent/": "Tamra 租车价格页",
+    "https://m.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do": "乐天租车租车须知与价格",
+    "https://www.opinet.co.kr/user/dopospdrg/dopOsPdrgAreaView.do": "Opinet：各地区油价",
+    "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule": "济州公交信息：票价与时刻表"
+   }
+  }
+ }
+}

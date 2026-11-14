@@ -1,0 +1,144 @@
+{
+ "slug": "lisbon-family-move-toronto-d8-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 2683,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 45,
+   "end": 1584,
+   "chips": [
+    "https://toronto.consuladoportugal.mne.gov.pt/en/consular-matters/visa/residency-visa",
+    "https://aima.gov.pt/pt/viver/reagrupamento-familiar-com-familiar-fora-de-territorio-nacional-art-98-o-n-o-1",
+    "https://www.dgeste.mec.pt/sinf/faqsmatriculas/index_en.php",
+    "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx",
+    "https://www.caislisbon.org/join-us/fee-schedule"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1584,
+   "end": 2158,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2158,
+   "end": 2525,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 8,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put your own family, visa route and school plan into the boxes and get the same Lisbon move check",
+   "runTitle": "Toronto to Lisbon: a family of four, D7 or D8 visa, from September 2027",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "Arrival date",
+     "value": "September 2027, for at least two years"
+    },
+    {
+     "key": "family",
+     "label": "Passports and family relationships",
+     "value": "Canadian citizens, a family of four: two parents and two children"
+    },
+    {
+     "key": "children",
+     "label": "Children’s ages, birthdays and completed grades",
+     "value": "Aged 8 and 12"
+    },
+    {
+     "key": "language",
+     "label": "Portuguese-language needs",
+     "value": "",
+     "placeholder": "e.g. neither child speaks Portuguese yet; both would need language support in school"
+    },
+    {
+     "key": "employer",
+     "label": "Employer approval and gross income",
+     "value": "Remote product manager for a Toronto company, CAD 165,000 a year"
+    },
+    {
+     "key": "freelance",
+     "label": "Freelance income",
+     "value": "One parent works as a freelance graphic designer"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and Canadian home costs",
+     "value": "",
+     "placeholder": "e.g. CAD 150,000 in savings and a Toronto home that will be rented out"
+    },
+    {
+     "key": "school",
+     "label": "School preference",
+     "value": "Comparing international and Portuguese public schools in Lisbon, Cascais or Oeiras"
+    }
+   ],
+   "template": "Plan our Toronto-to-Lisbon move for {arrival} with {family}, children aged {children}, {language}, {employer}, {freelance}, {savings} and {school}. Compare linked D8 family applications, public-school support and a fully quoted international alternative. Build first-year cash flow with taxes, contributions, deposits and upfront school bills separated. Flag unconfirmed Toronto requirements and future fees. Ask before contacting anyone, submitting forms, sharing personal information or paying.",
+   "phases": [
+    {
+     "title": "Read the official immigration, school, housing and tax sources",
+     "note": "Visa rules, school enrolment and fees, rents, tax residency and health cover",
+     "judgment": "It used the wage figure that is actually law today (€920 for 2026) and marked the announced 2027 figure (€970) as not yet confirmed. It also dropped an outdated assurance: the first residence permit now takes up to 90 days to decide, with no automatic approval."
+    },
+    {
+     "title": "Build the guide and the first-year budget in euros and Canadian dollars",
+     "note": "Visa recommendation, timeline, school comparison and cash flow with the arithmetic shown"
+    },
+    {
+     "title": "Independent check of every figure, plus desktop and phone layout",
+     "note": "Layout problems found and fixed",
+     "judgment": "The reviewer recomputed all 22 budget rows and found no numerical errors. It also said which claims it could not confirm independently, the public-school enrolment steps, so those stay marked as unconfirmed."
+    }
+   ],
+   "workers": [
+    "Read the official consulate, immigration, minimum-wage and Canadian document sources for the D7 and D8 visas and for family applications",
+    "Checked how Portuguese public-school enrolment works, then collected dated fee schedules from three international schools and sample 3-bedroom rents",
+    "Collected the official sources on tax residency, working for a Toronto employer from Portugal, social security and health cover",
+    "Independently recomputed every money figure and checked the guide’s claims against the source list"
+   ],
+   "chipNames": {
+    "https://toronto.consuladoportugal.mne.gov.pt/en/consular-matters/visa/residency-visa": "Portuguese Consulate in Toronto: residency visa",
+    "https://aima.gov.pt/pt/viver/reagrupamento-familiar-com-familiar-fora-de-territorio-nacional-art-98-o-n-o-1": "AIMA: family reunification rules",
+    "https://www.dgeste.mec.pt/sinf/faqsmatriculas/index_en.php": "Portugal’s education ministry: school enrolment FAQ",
+    "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx": "Portuguese Tax Authority: tax residency rules",
+    "https://www.caislisbon.org/join-us/fee-schedule": "CAISL Lisbon: fee schedule"
+   }
+  }
+ }
+}

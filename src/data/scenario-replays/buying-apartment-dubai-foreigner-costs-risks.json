@@ -1,0 +1,269 @@
+{
+ "slug": "buying-apartment-dubai-foreigner-costs-risks",
+ "startedAt": "2026-11-05",
+ "activeSec": 2427,
+ "stats": {
+  "searches": 44,
+  "pages": 64,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 43,
+   "end": 270,
+   "chips": [
+    "https://dubailand.gov.ae/en/eservices/property-sale-registration/",
+    "https://rulebook.centralbank.ae/en/rulebook/regulations-regarding-mortgage-loans",
+    "https://u.ae/en/information-and-services/moving-to-the-uae/expatriates-buying-a-property-in-the-uae",
+    "https://www.adcb.com/en/get-in-touch/faqs/loans/mortgage-services",
+    "https://icp.gov.ae/en/services/uae-golden-residency/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 270,
+   "end": 728,
+   "chips": [
+    "https://dubailand.gov.ae/en/eservices/service-charge-index-overview/",
+    "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa",
+    "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 728,
+   "end": 1993,
+   "chips": [
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2006/Bylaw%20No.%20(85)%20of%202006.html",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2009/Law%20No.%20(33)%20of%202008%20Amending%20Law%20No.%20(26)%20of%202007.html",
+    "https://tax.gov.ae/en/taxes/vat/vat.topics/real.estate.aspx",
+    "https://mollak.dubailand.gov.ae/publicpages/service-charge-index.html"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 20,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1993,
+   "end": 2206,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own situation and get the same buying-cost, risk and yield workup for a Dubai apartment",
+   "runTitle": "A UK citizen working in Saudi Arabia: a one-bedroom Dubai apartment at AED 1.2–1.5 million",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City and country",
+     "value": "Dubai, UAE"
+    },
+    {
+     "key": "nationality",
+     "label": "Nationality",
+     "value": "UK citizen"
+    },
+    {
+     "key": "residence",
+     "label": "Country you live and work in",
+     "value": "Saudi Arabia"
+    },
+    {
+     "key": "date",
+     "label": "When you plan to buy",
+     "value": "2027"
+    },
+    {
+     "key": "purpose",
+     "label": "Investment or later own use",
+     "value": "An investment I might later live in"
+    },
+    {
+     "key": "budget",
+     "label": "Price-only or all-in budget",
+     "value": "Around AED 1.2–1.5 million"
+    },
+    {
+     "key": "profile",
+     "label": "Age, income, debts and cash",
+     "value": "",
+     "placeholder": "e.g. age 38, income AED 40,000 a month, no other debts, AED 400,000 in cash"
+    },
+    {
+     "key": "financing",
+     "label": "Cash or mortgage plan",
+     "value": "I would probably need a mortgage for part of it"
+    },
+    {
+     "key": "details",
+     "label": "Details",
+     "value": "",
+     "placeholder": "e.g. the exact amounts behind the answers above, off-plan or ready, preferred areas"
+    }
+   ],
+   "template": "Help me compare apartments in {city} as a {nationality} living and working in {residence}, buying {date} for {purpose}. My {budget}, {profile} and {financing} are {details}. Keep exact dated adverts, links, sizes, vacancy conflicts and local notes. Separate title, foreign ownership, lending and residence checks. Give an editable buying, holding and rental budget with itemised fees, approved charges where available, explicit unknowns, vacancy, management, letting, repairs and insurance. Separate yield, NOI, principal, debt/life cash flow, reserves and relationship assets; test rent, rates, charges and loan minima/valuation. Keep off-plan obligations separate without invented milestones, rent or guaranteed financing. Label old or failed checks, and give conditional advice and a diligence checklist. Do not contact agents, apply, reserve, buy, submit or publish.",
+   "phases": [
+    {
+     "title": "Check the official ownership, fee, mortgage, escrow, visa and rental sources",
+     "note": "Registration fees, central bank lending limits, off-plan protection and the Golden Visa threshold",
+     "judgment": "It corrected a figure in the question itself: the 4% Dubai Land Department fee is a total that is shared equally between seller and buyer unless the contract says otherwise, so on AED 1.2–1.5 million the default buyer share is AED 24,000–30,000, not the full amount."
+    },
+    {
+     "title": "Find current one-bedroom listings and the cost inputs behind them",
+     "note": "Six dated listings in three areas, service charges and bank terms",
+     "judgment": "It would not rely on a listing’s service charge: the advert showed AED 16.33 per sq ft with no year, while the official index gave AED 17.67 for 2026, so the official figure went into the model."
+    },
+    {
+     "title": "Build the editable workbook and the summary page",
+     "note": "Purchase costs, holding costs, mortgage scenarios and net yield",
+     "judgment": "An independent colleague tested the workbook by editing it and found the off-plan sheet kept its own copy of the price, so changing the main price would have left two conflicting totals. It also confirmed the core logic: net yield is counted before the mortgage, and cash flow includes principal, interest and life insurance."
+    },
+    {
+     "title": "Recalculate, inspect and deliver the files"
+    }
+   ],
+   "workers": [
+    "Found six real one-bedroom listings in the budget and looked up official service charges for the shortlisted buildings",
+    "Read the central bank’s mortgage rules and the published non-resident home loans of the main banks",
+    "Read the official rules on foreign ownership, registration fees, off-plan purchases, agent fees, service charges and moving in yourself later",
+    "Checked the workbook’s formulas independently and tried editing the inputs to see whether it still holds together"
+   ],
+   "chipNames": {
+    "https://dubailand.gov.ae/en/eservices/property-sale-registration/": "Dubai Land Department: property sale registration",
+    "https://rulebook.centralbank.ae/en/rulebook/regulations-regarding-mortgage-loans": "UAE Central Bank: mortgage loan regulations",
+    "https://u.ae/en/information-and-services/moving-to-the-uae/expatriates-buying-a-property-in-the-uae": "UAE government portal: expatriates buying property",
+    "https://www.adcb.com/en/get-in-touch/faqs/loans/mortgage-services": "ADCB: mortgage FAQs (non-residents)",
+    "https://icp.gov.ae/en/services/uae-golden-residency/": "Federal Authority for Identity: UAE Golden Residency",
+    "https://dubailand.gov.ae/en/eservices/service-charge-index-overview/": "Dubai Land Department: service charge index",
+    "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa": "UAE government portal: Golden Visa",
+    "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx": "Federal Tax Authority: taxation of individuals",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2006/Bylaw%20No.%20(85)%20of%202006.html": "Dubai Bylaw 85/2006 on brokerage",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2009/Law%20No.%20(33)%20of%202008%20Amending%20Law%20No.%20(26)%20of%202007.html": "Dubai Law 33/2008 on tenancy and own-use eviction",
+    "https://tax.gov.ae/en/taxes/vat/vat.topics/real.estate.aspx": "Federal Tax Authority: VAT on real estate",
+    "https://mollak.dubailand.gov.ae/publicpages/service-charge-index.html": "Mollak service charge index"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的情况，得到同样的迪拜公寓购房成本、风险和收益核算",
+   "runTitle": "在沙特工作的英国公民：预算 120–150 万迪拉姆的迪拜一居室",
+   "fields": [
+    {
+     "key": "city",
+     "label": "城市和国家",
+     "value": "阿联酋迪拜"
+    },
+    {
+     "key": "nationality",
+     "label": "国籍",
+     "value": "英国公民"
+    },
+    {
+     "key": "residence",
+     "label": "居住工作的国家",
+     "value": "沙特阿拉伯"
+    },
+    {
+     "key": "date",
+     "label": "计划购买时间",
+     "value": "2027 年"
+    },
+    {
+     "key": "purpose",
+     "label": "投资或以后自住",
+     "value": "投资，以后可能自己住"
+    },
+    {
+     "key": "budget",
+     "label": "仅房价或全包预算",
+     "value": "约 120–150 万迪拉姆"
+    },
+    {
+     "key": "profile",
+     "label": "年龄、收入、负债、现金",
+     "value": "",
+     "placeholder": "例如：38 岁，月收入 4 万迪拉姆，无其他负债，现金 40 万迪拉姆"
+    },
+    {
+     "key": "financing",
+     "label": "现金或按揭安排",
+     "value": "大概需要按揭一部分"
+    },
+    {
+     "key": "details",
+     "label": "详情",
+     "value": "",
+     "placeholder": "例如：以上各项的具体金额、期房还是现房、倾向的区域"
+    }
+   ],
+   "template": "请帮我比较{city}的公寓：持{nationality}、在{residence}居住工作，计划{date}购买，用于{purpose}。{budget}、{profile}和{financing}为{details}。保留具体广告日期、链接、面积、空置冲突和本地说明，分开查产权、外国持有、银行和居留资格。给可编辑购房、持有、出租预算，列分项费用、可取得的获批物业费、未知项、空置、管理、招租、维修和保险。区分收益率、NOI、还本、扣债务寿险现金流、储备和关系资产，测试租金、利率、收费及最低贷款和估值门槛。期房承诺单列，不编节点、租金或保证融资。标清旧资料和查阅失败，给有条件建议及尽调清单。不要联系中介、申请、预订、购买、提交或发布。",
+   "phases": [
+    {
+     "title": "核对官方的产权、费用、按揭、托管、签证和租金来源",
+     "note": "登记费用、央行放贷上限、期房保障和黄金签证门槛",
+     "judgment": "它纠正了提问里的一个数字：迪拜土地局的 4% 是总额，除非合同另有约定，由买卖双方各担一半，所以在 120–150 万迪拉姆的价位上，买方默认承担 24,000–30,000 迪拉姆，而不是全部。"
+    },
+    {
+     "title": "找出当前在售的一居室和背后的成本数据",
+     "note": "三个区域的六套带日期的房源、物业费和银行条件",
+     "judgment": "它没有直接采用房源广告里的物业费：广告写的是每平方英尺 16.33 迪拉姆，没有标注年份，而官方指数给出的 2026 年标准是 17.67，所以模型里用了官方数字。"
+    },
+    {
+     "title": "制作可编辑的表格和汇总页面",
+     "note": "购房成本、持有成本、按揭情景和净收益率",
+     "judgment": "一位独立同事通过实际改动数据来测试表格，发现期房工作表自带一份价格，改了主价格就会出现两套互相冲突的合计。他同时确认核心逻辑没有问题：净收益率不计按揭，现金流则扣除了本金、利息和寿险。"
+    },
+    {
+     "title": "重新计算、检查并交付文件"
+    }
+   ],
+   "workers": [
+    "找到预算内六套真实在售的一居室，并查询入围楼盘的官方物业费",
+    "查阅央行的按揭规定和主要银行公布的非居民房贷产品",
+    "查阅官方关于外国人持有、登记费、期房购买、中介费、物业费以及日后自住的规定",
+    "独立检查表格里的公式，并实际改动输入数据，看模型是否仍然自洽"
+   ],
+   "chipNames": {
+    "https://dubailand.gov.ae/en/eservices/property-sale-registration/": "迪拜土地局：房产买卖登记",
+    "https://rulebook.centralbank.ae/en/rulebook/regulations-regarding-mortgage-loans": "阿联酋央行：按揭贷款规定",
+    "https://u.ae/en/information-and-services/moving-to-the-uae/expatriates-buying-a-property-in-the-uae": "阿联酋政府门户：外籍人士购房",
+    "https://www.adcb.com/en/get-in-touch/faqs/loans/mortgage-services": "阿布扎比商业银行：按揭常见问题（非居民）",
+    "https://icp.gov.ae/en/services/uae-golden-residency/": "联邦身份与公民事务局：阿联酋黄金居留",
+    "https://dubailand.gov.ae/en/eservices/service-charge-index-overview/": "迪拜土地局：物业费指数",
+    "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa": "阿联酋政府门户：黄金签证",
+    "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx": "联邦税务局：个人征税基础",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2006/Bylaw%20No.%20(85)%20of%202006.html": "迪拜 2006 年第 85 号细则：中介费",
+    "https://dlp.dubai.gov.ae/Legislation%20Reference/2009/Law%20No.%20(33)%20of%202008%20Amending%20Law%20No.%20(26)%20of%202007.html": "迪拜 2008 年第 33 号法：租赁与自用收回",
+    "https://tax.gov.ae/en/taxes/vat/vat.topics/real.estate.aspx": "联邦税务局：房地产增值税",
+    "https://mollak.dubailand.gov.ae/publicpages/service-charge-index.html": "Mollak 物业费指数"
+   }
+  }
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "slug": "taipei-three-days-with-rain-plan",
+ "startedAt": "2026-11-05",
+ "activeSec": 2028,
+ "stats": {
+  "searches": 64,
+  "pages": 27,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 625,
+   "chips": [
+    "https://www.travel.taipei/en/information/taoyuanmetro/",
+    "https://www.travel.taipei/en/attraction/details/1691",
+    "https://tianjin.dandyhotel.com.tw/en/rooms-e/",
+    "https://www.hotelscombined.com.tw/Hotel/Dandy_Hotel_Tianjin_Branch.htm"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 625,
+   "end": 1243,
+   "chips": [
+    "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+    "https://twac.immigration.gov.tw/",
+    "https://english.metro.taipei/cp.aspx?n=BECC2E7AC426F659&s=98639C1CC8FAE752",
+    "https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/ticket.php",
+    "https://guide.michelin.com/us/en/article/news-and-views/taipei-2019-bib-gourmand-street-food"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1243,
+   "end": 1320,
+   "chips": [
+    "https://www.easycard.com.tw/en/easycard?cls=1521769569&id=1521769904",
+    "https://www.tymetro.com.tw/tymetro-new/en/_images/document/travel-guide/price.pdf",
+    "https://guide.michelin.com/us/en/taipei-region/taipei/restaurant/fang-chia"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1320,
+   "end": 1835,
+   "chips": [
+    "https://guide.michelin.com/us/en/article/news-and-views/taipei-2019-bib-gourmand-street-food",
+    "https://www.travel.taipei/en/pictorial/article/20097/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1835,
+   "end": 2088,
+   "chips": [
+    "https://www.dgpa.gov.tw/information?uid=353&pid=13028"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the dates, travellers and budget to get the same food-first Taipei plan for your trip",
+   "runTitle": "Two friends from Kuala Lumpur, a food-first Taipei weekend on USD 700 each",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates and nights",
+     "value": "Friday 22 to Sunday 24 October 2027"
+    },
+    {
+     "key": "origin",
+     "label": "Where you travel from",
+     "value": "Kuala Lumpur"
+    },
+    {
+     "key": "travellers",
+     "label": "Travellers, passports and dietary needs",
+     "value": "Two friends with Malaysian passports"
+    },
+    {
+     "key": "flights",
+     "label": "Arrival and departure airport and flight times",
+     "value": "Arrive Friday morning, leave Sunday night"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency, excluding or including flights",
+     "value": "About USD 700 per person, excluding flights"
+    },
+    {
+     "key": "room",
+     "label": "Room and bed needs",
+     "value": "",
+     "placeholder": "e.g. one room with two single beds"
+    }
+   ],
+   "template": "Plan a relaxed Taipei trip for {dates}, travelling from {origin} with {travellers}, {flights}, {budget} and {room}. Group food stops by area, label dated menus and estimated travel times, include rain and queue fallbacks, and protect the airport buffer. Show entry checks and a per-person budget. Plan only; do not book, contact, pay or submit forms.",
+   "phases": [
+    {
+     "title": "Check food shops, hotels, airport train fares and night-market hours for a trip a year away",
+     "note": "Menus and prices, hotel listings, airport train fares and night-market opening days",
+     "judgment": "A researcher took back its own earlier claim: a hotel rate it first called “official NT$4,500–7,500” could not be found again on the hotel’s working website, so it was replaced with a price it had actually opened, labelled as an old listing and not a 2027 quote."
+    },
+    {
+     "title": "Draft the itinerary with hotels, transport, entry rules and the arrival card",
+     "note": "First draft of the route, hotels, transport and entry guidance"
+    },
+    {
+     "title": "Finish the checks on fares, food prices and hotel listings"
+    },
+    {
+     "title": "Write the itinerary page and the dated source list",
+     "note": "Final itinerary page and a source list with access dates",
+     "judgment": "It would not borrow a stall’s fame for 2027: Fang Chia is described as a Michelin Bib Gourmand stop from the 2019 guide, labelled as a historical award that could not be confirmed as current."
+    },
+    {
+     "title": "Check totals, dates and how the page looks in a clean browser",
+     "judgment": "It caught a date trap: Monday 25 October 2027 is a public holiday on the government’s calendar, so the weekend becomes a long one and the plan warns about busier queues and higher room prices."
+    }
+   ],
+   "workers": [
+    "Looked for two or three hotels around Zhongshan with twin beds, and noted the price shown, the date it was shown and where",
+    "Found dated menu prices and opening hours for the breakfast shops, beef noodle shop and night-market snack stalls, and checked the Michelin Bib Gourmand listing"
+   ],
+   "chipNames": {
+    "https://www.travel.taipei/en/information/taoyuanmetro/": "Taipei tourism: Taoyuan Airport MRT",
+    "https://www.travel.taipei/en/attraction/details/1691": "Taipei tourism: Raohe Street Night Market",
+    "https://tianjin.dandyhotel.com.tw/en/rooms-e/": "Dandy Hotel Tianjin: official room page",
+    "https://www.hotelscombined.com.tw/Hotel/Dandy_Hotel_Tianjin_Branch.htm": "Dandy Hotel Tianjin: listed room prices",
+    "https://www.boca.gov.tw/cp-149-4486-7785a-2.html": "Bureau of Consular Affairs: entry rules for Malaysian passports",
+    "https://twac.immigration.gov.tw/": "Taiwan Arrival Card portal",
+    "https://english.metro.taipei/cp.aspx?n=BECC2E7AC426F659&s=98639C1CC8FAE752": "Taipei Metro: route map and travel times",
+    "https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/ticket.php": "Taoyuan Airport MRT: tickets",
+    "https://guide.michelin.com/us/en/article/news-and-views/taipei-2019-bib-gourmand-street-food": "Michelin Guide: Taipei 2019 Bib Gourmand street food",
+    "https://www.easycard.com.tw/en/easycard?cls=1521769569&id=1521769904": "EasyCard: card and price information",
+    "https://www.tymetro.com.tw/tymetro-new/en/_images/document/travel-guide/price.pdf": "Taoyuan Airport MRT: official fare table",
+    "https://guide.michelin.com/us/en/taipei-region/taipei/restaurant/fang-chia": "Michelin Guide: Fang Chia listing",
+    "https://www.travel.taipei/en/pictorial/article/20097/": "Taipei tourism: night-market food guide",
+    "https://www.dgpa.gov.tw/information?uid=353&pid=13028": "Government calendar for 2027 (public holidays)"
+   }
+  },
+  "zh": {
+   "askTitle": "改成你自己的日期、同行者和预算，得到同样以吃为主的台北行程",
+   "runTitle": "来自吉隆坡的两位朋友，每人 700 美元的台北美食周末",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期与晚数",
+     "value": "2027 年 10 月 22 日(周五)到 24 日(周日)"
+    },
+    {
+     "key": "origin",
+     "label": "出发地",
+     "value": "吉隆坡"
+    },
+    {
+     "key": "travellers",
+     "label": "同行者及护照、饮食需要",
+     "value": "两位朋友，持马来西亚护照"
+    },
+    {
+     "key": "flights",
+     "label": "抵离机场与航班时间",
+     "value": "周五上午抵达，周日晚上离开"
+    },
+    {
+     "key": "budget",
+     "label": "预算及币种、是否含机票",
+     "value": "每人约 700 美元，不含机票"
+    },
+    {
+     "key": "room",
+     "label": "房间和床型需要",
+     "value": "",
+     "placeholder": "例如：一间两张单人床的房间"
+    }
+   ],
+   "template": "请安排轻松的台北旅行：{dates}，从{origin}出发，同行者及护照、饮食需要{travellers}，抵离机场与航班时间{flights}，预算及币种、是否含机票{budget}，房间和床型需要{room}。按区域安排吃饭，标清菜单日期和交通估算，遇到雨天或排队要有替代方案，也要留够机场时间。列出入境核对事项和每人预算。只做计划，不预订、不联系、不付款、不提交表格。",
+   "phases": [
+    {
+     "title": "核对美食店铺、酒店、机场捷运票价和夜市营业时间",
+     "note": "菜单和价格、酒店报价、机场捷运票价、夜市营业日",
+     "judgment": "一位同事撤回了自己先前的说法：它最初称酒店官方价格为“新台币 4,500–7,500 元”，但在酒店可正常访问的官网上无法再次找到，于是换成自己实际打开过的页面价格，并标明这是过去的报价、不是 2027 年的价格。"
+    },
+    {
+     "title": "起草行程，含酒店、交通、入境规定和入台登记表",
+     "note": "路线、酒店、交通和入境指引的初稿"
+    },
+    {
+     "title": "补完票价、食物价格和酒店报价的核对"
+    },
+    {
+     "title": "写出行程页面和标注查询日期的资料清单",
+     "note": "最终行程页面，以及带查询日期的资料清单",
+     "judgment": "它没有把一家摊位过去的名气搬到 2027 年：方家鸡肉饭被写成 2019 年米其林必比登推介的小吃，并标明这是历史奖项，无法确认现在仍在榜。"
+    },
+    {
+     "title": "检查总额、日期，以及在干净浏览器里页面的显示",
+     "judgment": "它发现了一个日期陷阱：2027 年 10 月 25 日(周一)在政府办公日历上是放假日，周末因此变成长周末，行程里提醒了排队更久、房价可能更高。"
+    }
+   ],
+   "workers": [
+    "在中山一带找两三家有双床房的酒店，记下看到的价格、看到的日期和来源",
+    "查早餐店、牛肉面店和夜市小吃摊的带日期菜单价格与营业时间，并核对米其林必比登的收录情况"
+   ],
+   "chipNames": {
+    "https://www.travel.taipei/en/information/taoyuanmetro/": "台北旅游网:桃园机场捷运",
+    "https://www.travel.taipei/en/attraction/details/1691": "台北旅游网:饶河街夜市",
+    "https://tianjin.dandyhotel.com.tw/en/rooms-e/": "丹迪旅店天津店:官方房型页",
+    "https://www.hotelscombined.com.tw/Hotel/Dandy_Hotel_Tianjin_Branch.htm": "丹迪旅店天津店:订房网站上的房价",
+    "https://www.boca.gov.tw/cp-149-4486-7785a-2.html": "领事事务局:马来西亚护照入境规定",
+    "https://twac.immigration.gov.tw/": "台湾入国登记表官方网站",
+    "https://english.metro.taipei/cp.aspx?n=BECC2E7AC426F659&s=98639C1CC8FAE752": "台北捷运:路线图与行车时间",
+    "https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/ticket.php": "桃园机场捷运:购票信息",
+    "https://guide.michelin.com/us/en/article/news-and-views/taipei-2019-bib-gourmand-street-food": "米其林指南:台北 2019 必比登街头小吃",
+    "https://www.easycard.com.tw/en/easycard?cls=1521769569&id=1521769904": "悠游卡:卡片与价格说明",
+    "https://www.tymetro.com.tw/tymetro-new/en/_images/document/travel-guide/price.pdf": "桃园机场捷运:官方票价表",
+    "https://guide.michelin.com/us/en/taipei-region/taipei/restaurant/fang-chia": "米其林指南:方家鸡肉饭",
+    "https://www.travel.taipei/en/pictorial/article/20097/": "台北旅游网:夜市美食介绍",
+    "https://www.dgpa.gov.tw/information?uid=353&pid=13028": "行政院人事行政总处:2027 年办公日历(放假日)"
+   }
+  }
+ }
+}

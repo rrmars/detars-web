@@ -1,0 +1,218 @@
+{
+ "slug": "affordable-7-day-meal-plan-grocery-budget-chicago",
+ "startedAt": "2026-11-05",
+ "activeSec": 1985,
+ "stats": {
+  "searches": 34,
+  "pages": 43,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 34,
+   "end": 722,
+   "chips": [
+    "https://www.walmart.com/ip/10314925?selected=true",
+    "https://www.walmart.com/ip/10414680?from=%2Fsearch",
+    "https://www.walmart.com/ip/172844767",
+    "https://fdc.nal.usda.gov/download-datasets/",
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 722,
+   "end": 1361,
+   "chips": [
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/chicken-farm-table"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 5,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1361,
+   "end": 1540,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your household size, city and budget, and get the week's meals and shopping list re-planned for you",
+   "runTitle": "Two adults in Chicago on about $90 a week: seven days of meals, a shopping list by store section, and nutrition estimates",
+   "fields": [
+    {
+     "key": "people",
+     "label": "Diners",
+     "value": "2 adults"
+    },
+    {
+     "key": "city",
+     "label": "City and postcode",
+     "value": "Chicago"
+    },
+    {
+     "key": "shop",
+     "label": "Date, store and delivery",
+     "value": "Public prices from a mainstream US grocery chain's website, with the link and the date checked"
+    },
+    {
+     "key": "budget",
+     "label": "Currency and budget",
+     "value": "About USD 90 a week"
+    },
+    {
+     "key": "diet",
+     "label": "Diet, allergies, appetite or clinical targets",
+     "value": "Not vegetarian but meat only a few times a week, no nut allergies, no medical diet"
+    },
+    {
+     "key": "kitchen",
+     "label": "Equipment and storage",
+     "value": "",
+     "placeholder": "e.g. stove and oven, one fridge-freezer, no slow cooker"
+    },
+    {
+     "key": "pantry",
+     "label": "Pantry quantities",
+     "value": "",
+     "placeholder": "e.g. oil, salt, rice and common spices already at home"
+    },
+    {
+     "key": "time",
+     "label": "Prep and evening time",
+     "value": "About 30 minutes on weeknights, batch cooking on Sunday"
+    }
+   ],
+   "template": "Plan seven days of breakfast, lunch, dinner and snacks for {people} in {city}, shopping {shop} within {budget}. Use {diet}, {kitchen}, {pantry} and {time}. Give per-person and batch quantities, next-day leftovers, whole-package local prices with dated links, edible/drained yields and surplus. Include oil and snacks, traceable nutrition with raw/dry/cooked and brand limits, safe cooling/freezing/thawing and a price-rise check. Label old or failed price checks. Return an editable budget and phone-friendly cooking guide; do not buy, contact anyone, publish or submit.",
+   "phases": [
+    {
+     "title": "Check current Walmart prices item by item and look up the nutrition database",
+     "note": "Ten staples, plus eggs, dairy, chicken, frozen and fresh produce, each price tied to a product page and the time it was read",
+     "judgment": "Walmart's site defaults to a Sacramento store. It did not pass those off as Chicago prices: the delivery says outright that these are Sacramento public prices, not verified Chicago prices."
+    },
+    {
+     "title": "Plan the seven days and recipes, then build the shopping list, nutrition sheet and phone page",
+     "note": "13 recipes, two snacks a day, and a Sunday prep and freezer plan"
+    },
+    {
+     "title": "Check quantities, formulas and the phone page, then deliver",
+     "note": "A separate colleague recalculated from scratch without looking at the main result",
+     "judgment": "The reviewer did not copy the main result. It re-added every scheduled serving and the whole shopping list itself, and the totals agreed: 24 items come to $80.90, leaving $9.10 under the $90 budget, and all 563 spreadsheet formulas ran with no errors."
+    }
+   ],
+   "workers": [
+    "Looked up ten dry and canned staples on Walmart's site (oats, brown rice, wholemeal bread, beans, olive oil and so on) and saved each product page and price as evidence",
+    "Priced eggs, dairy, chicken breast, frozen vegetables and fresh produce; when the 18-egg pack was out of stock it checked a 12-egg alternative",
+    "Independent check: re-added servings and shopping quantities, recalculated the workbook formulas, then opened the page at phone width and tried each part"
+   ],
+   "chipNames": {
+    "https://www.walmart.com/ip/10314925?selected=true": "Walmart: old-fashioned oats",
+    "https://www.walmart.com/ip/10414680?from=%2Fsearch": "Walmart: frozen chicken breasts",
+    "https://www.walmart.com/ip/172844767": "Walmart: eggs",
+    "https://fdc.nal.usda.gov/download-datasets/": "USDA FoodData Central: nutrition database",
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety": "USDA: leftovers and food safety",
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/chicken-farm-table": "USDA: handling chicken safely"
+   }
+  },
+  "zh": {
+   "askTitle": "改成你家的人数、城市和预算，一周餐单和采购清单就按你的情况重排",
+   "runTitle": "芝加哥两人每周约 $90：七天餐单、分区采购清单和营养估算",
+   "fields": [
+    {
+     "key": "people",
+     "label": "用餐人数",
+     "value": "2 位成年人"
+    },
+    {
+     "key": "city",
+     "label": "城市和邮编",
+     "value": "芝加哥"
+    },
+    {
+     "key": "shop",
+     "label": "采购日期、门店和配送方式",
+     "value": "查价当天美国大型连锁超市官网上的公开价格，附链接和查价日期"
+    },
+    {
+     "key": "budget",
+     "label": "货币和金额",
+     "value": "每周约 90 美元"
+    },
+    {
+     "key": "diet",
+     "label": "饮食、过敏、食量或临床目标",
+     "value": "不吃素但每周只吃几次肉，无坚果过敏，非医疗用途"
+    },
+    {
+     "key": "kitchen",
+     "label": "厨具和储存空间",
+     "value": "",
+     "placeholder": "例如：灶台加烤箱，一台带冷冻室的冰箱，没有慢炖锅"
+    },
+    {
+     "key": "pantry",
+     "label": "家中食材数量",
+     "value": "",
+     "placeholder": "例如：家里已有食用油、盐、大米和常用香料"
+    },
+    {
+     "key": "time",
+     "label": "备餐和晚间时间",
+     "value": "工作日晚上约 30 分钟，周日可以批量备餐"
+    }
+   ],
+   "template": "请为{people}安排在{city}使用的七天早午晚餐和加餐，采购{shop}，预算{budget}。按{diet}、{kitchen}、{pantry}及{time}规划。列每人和整锅用量、次日剩餐、附日期和链接的当地整包装价格、可食及沥干出成率和余量。计入油与加餐，营养注明生干熟及品牌替代局限，给安全冷却冷冻解冻安排和涨价试算，标清旧价格或查价失败项。提供可编辑预算和手机烹饪指南；不要购买、联系、发布或提交。",
+   "phases": [
+    {
+     "title": "逐样核对沃尔玛官网现价，查营养数据库",
+     "note": "10 样主食，加上蛋奶、鸡肉、冷冻蔬菜和新鲜果蔬，每个价格都带商品页和查价时间",
+     "judgment": "沃尔玛官网默认给的是萨克拉门托门店的价格。它没有把这些价当成芝加哥价，交付说明里直接写明：这是萨克拉门托的公开价格，不是芝加哥核实过的价格。"
+    },
+    {
+     "title": "排七天餐单和食谱，做出采购清单、营养表和手机页",
+     "note": "13 个食谱、每天两次加餐，以及周日备餐和冷冻安排"
+    },
+    {
+     "title": "核对用量、公式和手机页，再交付",
+     "note": "独立同事另起一遍计算，不看主流程的结果",
+     "judgment": "复核同事没有照搬主流程的结果，自己把每顿饭的份量和整份采购清单重新加总了一遍，结果对得上：24 项合计 $80.90，比 $90 预算还剩 $9.10，工作簿 563 条公式零错误。"
+    }
+   ],
+   "workers": [
+    "在沃尔玛官网查 10 样干货和罐头主食的价格（燕麦、糙米、全麦面包、豆类、橄榄油等），逐项存下商品页和价格证据",
+    "查蛋奶、鸡胸肉、冷冻蔬菜和新鲜果蔬的价格；18 枚装鸡蛋缺货，就补查了 12 枚装的鸡蛋",
+    "独立复核：自己重新加总份量和采购量，重算工作簿公式，再用手机宽度打开页面逐项点一遍"
+   ],
+   "chipNames": {
+    "https://www.walmart.com/ip/10314925?selected=true": "沃尔玛 · 燕麦",
+    "https://www.walmart.com/ip/10414680?from=%2Fsearch": "沃尔玛 · 冷冻鸡胸肉",
+    "https://www.walmart.com/ip/172844767": "沃尔玛 · 鸡蛋",
+    "https://fdc.nal.usda.gov/download-datasets/": "美国农业部食品营养数据库",
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety": "美国农业部 · 剩菜食品安全",
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/chicken-farm-table": "美国农业部 · 鸡肉安全处理"
+   }
+  }
+ }
+}

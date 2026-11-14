@@ -1,0 +1,212 @@
+{
+ "slug": "ubud-one-month-shanghai-couple",
+ "startedAt": "2026-11-05",
+ "activeSec": 2356,
+ "stats": {
+  "searches": 39,
+  "pages": 66,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 334,
+   "end": 631,
+   "chips": [
+    "https://evisa.imigrasi.go.id/",
+    "https://jakartapusat.imigrasi.go.id/index.php/layanan/warga-negara-asing-wna/visa-republik-indonesia",
+    "https://ngurahrai.imigrasi.go.id/web/wp-content/uploads/2026/10/e33g-visa-guide-en.pdf",
+    "https://ngurahrai.imigrasi.go.id/alleviating-immigration-violations-foreign-nationals-must-go-to-immigration-office-to-extend-stay-permit/",
+    "https://balihousing.com/en/ubud/rent-98472-villa"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 631,
+   "end": 1940,
+   "chips": [
+    "https://outpostubud.spaces.nexudus.com/home?v=latest",
+    "https://www.titibatu.com/_files/ugd/dd295c_a4353b3424ba480b88bdfa5be41f6dd4.pdf",
+    "https://www.telkomsel.com/en/support/faq/what-price-tourist-prepaid-card-and-how-much-data-quota-do-i-get",
+    "https://moksaubud.com/menu/",
+    "https://denpasar.china-consulate.gov.cn/tztx/202407/P020240717647196049332.pdf"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1940,
+   "end": 2346,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own dates, passports and budget to get a month-in-Ubud plan that checks work permission first",
+   "runTitle": "Shanghai to Ubud: one month in June 2027 for a remote-working couple, about CNY 20,000",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "1–30 June 2027, one month"
+    },
+    {
+     "key": "people",
+     "label": "Both passports and work arrangements",
+     "value": "A couple from Shanghai with Chinese passports, both working remotely"
+    },
+    {
+     "key": "income",
+     "label": "Income and contract details for permission checks",
+     "value": "",
+     "placeholder": "e.g. both employed by a Chinese company, salary and contract details to share"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and separate deposit cash",
+     "value": "About CNY 20,000 for the month, excluding flights"
+    },
+    {
+     "key": "calls",
+     "label": "Call schedule",
+     "value": "Both work China hours"
+    },
+    {
+     "key": "diet",
+     "label": "Diet",
+     "value": "One of us is vegetarian"
+    },
+    {
+     "key": "mobility",
+     "label": "Mobility needs",
+     "value": "",
+     "placeholder": "e.g. no scooter riding; walking or taxis only"
+    }
+   ],
+   "template": "Plan an Ubud month for {dates}, {people}, {income}, {budget}, {calls}, {diet} and {mobility}. Compare suitable homes, safe walks and internet backups. Separate dated advertisements from confirmed totals and resolve work permission for each person before commitments. Plan only; do not contact hosts, apply, book or pay.",
+   "phases": [
+    {
+     "title": "Check Ubud rental listings and read the official entry, extension and driving-licence rules",
+     "note": "Dated monthly listings, entry cost for Chinese passports, the remote-work visa and the Bali levy",
+     "judgment": "It would not assume that a tourist entry stamp covers working remotely for a month. The long-stay remote-work visa needs a foreign employment contract and proof of income, and the run states that neither partner’s eligibility is established yet."
+    },
+    {
+     "title": "Check coworking, SIM, vegetarian food and ride costs, then build the couple’s budget",
+     "note": "Prices in rupiah and yuan, with the exchange rate labelled",
+     "judgment": "The tourist SIM showed two different official prices, Rp100,000 and Rp150,000, so it gave no single purchase price. It also dropped earlier guessed menu prices for one café that the official page did not show."
+    },
+    {
+     "title": "Write the guide and source notes, then check the pages and the budget sums",
+     "judgment": "The final plan comes to about CNY 19,547, including a visa-fee reserve for both. It says plainly that eligibility still needs confirming and that June 2027 rates and availability are unconfirmed."
+    }
+   ],
+   "workers": [
+    "Read the official Indonesian immigration pages on entry, extensions, the long-stay remote-work visa, the Bali tourist levy and driving licences for Chinese passport holders",
+    "Collected published prices for coworking spaces, the Telkomsel tourist SIM, vegetarian meals, and scooter and ride-hailing costs"
+   ],
+   "chipNames": {
+    "https://evisa.imigrasi.go.id/": "Indonesia’s official e-visa portal",
+    "https://jakartapusat.imigrasi.go.id/index.php/layanan/warga-negara-asing-wna/visa-republik-indonesia": "Immigration office: visa-on-arrival (B1) page",
+    "https://ngurahrai.imigrasi.go.id/web/wp-content/uploads/2026/10/e33g-visa-guide-en.pdf": "Immigration office: remote-work visa (E33G) guide",
+    "https://ngurahrai.imigrasi.go.id/alleviating-immigration-violations-foreign-nationals-must-go-to-immigration-office-to-extend-stay-permit/": "Immigration office: how to extend a stay",
+    "https://balihousing.com/en/ubud/rent-98472-villa": "Monthly villa listing in Ubud",
+    "https://outpostubud.spaces.nexudus.com/home?v=latest": "Outpost Ubud: coworking rates",
+    "https://www.titibatu.com/_files/ugd/dd295c_a4353b3424ba480b88bdfa5be41f6dd4.pdf": "Titi Batu club: official rate sheet",
+    "https://www.telkomsel.com/en/support/faq/what-price-tourist-prepaid-card-and-how-much-data-quota-do-i-get": "Telkomsel tourist SIM FAQ",
+    "https://moksaubud.com/menu/": "Moksa Ubud: menu",
+    "https://denpasar.china-consulate.gov.cn/tztx/202407/P020240717647196049332.pdf": "Chinese consulate in Denpasar: driving guide"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你们自己的日期、护照和预算，拿到一份先查工作许可的乌布一个月计划",
+   "runTitle": "上海到乌布：远程办公夫妻 2027 年 6 月住一个月，预算约 CNY 20,000",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 6 月 1 日至 30 日，共一个月"
+    },
+    {
+     "key": "people",
+     "label": "双方护照及工作安排",
+     "value": "来自上海的一对夫妻，持中国护照，都是远程办公"
+    },
+    {
+     "key": "income",
+     "label": "核对许可所需收入和合同信息",
+     "value": "",
+     "placeholder": "例如：两人都受雇于国内公司，可提供工资和合同信息"
+    },
+    {
+     "key": "budget",
+     "label": "预算及单独可用的押金现金",
+     "value": "一个月约 CNY 20,000，不含机票"
+    },
+    {
+     "key": "calls",
+     "label": "会议时段",
+     "value": "两人都按中国时间上班"
+    },
+    {
+     "key": "diet",
+     "label": "饮食",
+     "value": "其中一人吃素"
+    },
+    {
+     "key": "mobility",
+     "label": "出行需求",
+     "value": "",
+     "placeholder": "例如：不骑摩托，只步行或打车"
+    }
+   ],
+   "template": "帮我们规划乌布一个月：{dates}、{people}、{income}、{budget}、{calls}、{diet}和{mobility}。比较合适房源、安全步行路线和网络备份，区分历史广告与确认总价。作承诺前先分别解决工作许可。只做计划，不联系房东、不申请、不预订、不付款。",
+   "phases": [
+    {
+     "title": "查乌布的月租房源，并读官方的入境、延期和驾照规定",
+     "note": "有日期的月租房源、中国护照的入境费用、远程办公签证和巴厘岛旅游税",
+     "judgment": "它没有假定旅游入境就能在当地连续一个月远程办公。长期远程办公签证要求有境外雇佣合同和收入证明，所以这次明确写出：两人是否符合条件还没有确定。"
+    },
+    {
+     "title": "查共享办公、手机卡、素食和打车费用，再做出两人预算",
+     "note": "用印尼盾和人民币列价，并标明汇率",
+     "judgment": "游客手机卡的官方页面出现了 Rp100,000 和 Rp150,000 两个价格，所以没有给出唯一的购买价；某家咖啡馆官方页面看不到的菜价，它也把先前猜的数字删掉了。"
+    },
+    {
+     "title": "写出指南和来源说明，再检查页面和预算算式",
+     "judgment": "最终方案约 CNY 19,547，其中已为两人预留签证费用；文中明说申请资格仍需确认，2027 年 6 月的价格和空房也都没有确认。"
+    }
+   ],
+   "workers": [
+    "查了印尼移民局官方页面：中国护照的入境、延期、长期远程办公签证、巴厘岛旅游税和驾照规定",
+    "收集了共享办公空间、Telkomsel 游客手机卡、素食餐馆以及租摩托和打车的公开价格"
+   ],
+   "chipNames": {
+    "https://evisa.imigrasi.go.id/": "印尼官方电子签证网站",
+    "https://jakartapusat.imigrasi.go.id/index.php/layanan/warga-negara-asing-wna/visa-republik-indonesia": "移民局：落地签（B1）说明",
+    "https://ngurahrai.imigrasi.go.id/web/wp-content/uploads/2026/10/e33g-visa-guide-en.pdf": "移民局：远程办公签证（E33G）指南",
+    "https://ngurahrai.imigrasi.go.id/alleviating-immigration-violations-foreign-nationals-must-go-to-immigration-office-to-extend-stay-permit/": "移民局：停留延期办理方式",
+    "https://balihousing.com/en/ubud/rent-98472-villa": "乌布月租别墅房源",
+    "https://outpostubud.spaces.nexudus.com/home?v=latest": "Outpost 乌布：共享办公价格",
+    "https://www.titibatu.com/_files/ugd/dd295c_a4353b3424ba480b88bdfa5be41f6dd4.pdf": "Titi Batu 俱乐部：官方价格表",
+    "https://www.telkomsel.com/en/support/faq/what-price-tourist-prepaid-card-and-how-much-data-quota-do-i-get": "Telkomsel 游客手机卡常见问题",
+    "https://moksaubud.com/menu/": "Moksa 乌布：菜单",
+    "https://denpasar.china-consulate.gov.cn/tztx/202407/P020240717647196049332.pdf": "中国驻登巴萨总领馆：驾车指南"
+   }
+  }
+ }
+}

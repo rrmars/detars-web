@@ -1,0 +1,123 @@
+{
+ "slug": "melbourne-first-home-five-percent-deposit",
+ "startedAt": "2026-11-06",
+ "activeSec": 4358,
+ "stats": {
+  "searches": 83,
+  "pages": 41,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 50,
+   "end": 4008,
+   "chips": [
+    "https://www.sro.vic.gov.au/buying-property/land-transfer-stamp-duty/concessions-exemptions-and-waivers/first-home-buyers/first-home-buyer-duty-exemption-or-concession",
+    "https://firsthomebuyers.gov.au/HTB-thresholds",
+    "https://firsthomebuyers.gov.au/australian-government-5-percent-deposit-scheme/first-home-buyers",
+    "https://www.bendigobank.com.au/globalassets/documents/interestrates/schedule-of-lending-interest-rates.pdf",
+    "https://www.helia.com.au/the-hub/calculators-estimators/lmi-fee-estimator"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 31,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 4008,
+   "end": 4082,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 4082,
+   "end": 4248,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own deposit and income and see what a Melbourne first home really costs",
+   "runTitle": "Melbourne: a couple with AUD 48,000 saved, looking at a 2-bedroom first home",
+   "fields": [
+    {
+     "key": "price",
+     "label": "Price range",
+     "value": "A 2-bedroom apartment or townhouse in the middle-ring suburbs; example prices AUD 550k, 650k and 750k"
+    },
+    {
+     "key": "savings",
+     "label": "Savings and reserve",
+     "value": "AUD 48,000 saved"
+    },
+    {
+     "key": "income",
+     "label": "Each person’s taxable salary, super treatment and debts",
+     "value": "Combined gross income AUD 165,000"
+    },
+    {
+     "key": "spending",
+     "label": "Actual monthly spending",
+     "value": "Current rent AUD 2,700 a month"
+    },
+    {
+     "key": "history",
+     "label": "Citizenship and ownership history",
+     "value": "Couple in our early 30s, both Australian citizens, never owned property"
+    },
+    {
+     "key": "timing",
+     "label": "Purchase timing",
+     "value": "First half of 2027, buying by June 2027"
+    }
+   ],
+   "template": "Help us compare a Melbourne first home at {price} using {savings}, {income}, {spending}, {history} and {timing}. Separate settlement cash, repayments and unknown OC costs. Compare the guarantee and shared-equity routes without assuming approval. Ask before contacting anyone, submitting forms or sharing personal documents.",
+   "phases": [
+    {
+     "title": "Verify the schemes, fees, lender rates and recent sales",
+     "note": "Government help, duty and fees, lender rates and two-bedroom sales evidence",
+     "judgment": "It checked whether the couple’s AUD 165,000 income rules out Help to Buy: the 2026–27 joint ceiling is AUD 165,000 inclusive, so income alone does not exclude them, though other tests remain. It also marked every listing’s owners-corporation fee as unconfirmed, since none was published, instead of guessing."
+    },
+    {
+     "title": "Build the cost model, the guide and the source notes",
+     "note": "Upfront cash and monthly repayments at three example prices"
+    },
+    {
+     "title": "Recheck the arithmetic, recalculate the workbook and test the pages on desktop and phone",
+     "judgment": "The budget workbook was recalculated with 77 formulas and zero errors, and four changed-input scenarios were checked as well."
+    }
+   ],
+   "workers": [
+    "Checked the official scheme rules, Help to Buy limits, first-home duty and Victorian transfer and registration fees",
+    "Looked for 10 dated two-bedroom sales or listings in middle-ring suburbs, mostly priced around AUD 450–650k",
+    "Verified published variable loan rates from real lenders, the APRA 3-point serviceability buffer, lenders mortgage insurance estimates and the couple’s take-home pay"
+   ],
+   "chipNames": {
+    "https://www.sro.vic.gov.au/buying-property/land-transfer-stamp-duty/concessions-exemptions-and-waivers/first-home-buyers/first-home-buyer-duty-exemption-or-concession": "SRO Victoria: first-home buyer duty exemption or concession",
+    "https://firsthomebuyers.gov.au/HTB-thresholds": "Help to Buy: indexed thresholds",
+    "https://firsthomebuyers.gov.au/australian-government-5-percent-deposit-scheme/first-home-buyers": "5% Deposit Scheme: first-home buyer eligibility",
+    "https://www.bendigobank.com.au/globalassets/documents/interestrates/schedule-of-lending-interest-rates.pdf": "Bendigo Bank: schedule of lending rates",
+    "https://www.helia.com.au/the-hub/calculators-estimators/lmi-fee-estimator": "Helia: lenders mortgage insurance estimator"
+   }
+  }
+ }
+}

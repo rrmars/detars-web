@@ -1,0 +1,222 @@
+{
+ "slug": "manchester-first-home-buying-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 872,
+ "stats": {
+  "searches": 16,
+  "pages": 18,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 42,
+   "end": 290,
+   "chips": [
+    "https://www.nationwide.co.uk/mortgages/mortgage-rates",
+    "https://www.gov.uk/stamp-duty-land-tax/residential-property-rates",
+    "https://www.gov.uk/lifetime-isa/withdrawing-money-from-your-lifetime-isa",
+    "https://www.nationwide-intermediary.co.uk/lending-criteria/affordability",
+    "https://www.moneyhelper.org.uk/en/homes/buying-a-home/estimate-your-overall-buying-and-moving-costs"
+   ],
+   "workers": []
+  },
+  {
+   "start": 290,
+   "end": 741,
+   "chips": [
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000009/",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000006/",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000002/",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000007/",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000008/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 741,
+   "end": 845,
+   "chips": [
+    "https://www.moneyhelper.org.uk/en/homes/buying-a-home/contract-exchange-completion-when-buying-a-home",
+    "https://www.gov.uk/government/publications/fire-risk-appraisals-of-external-walls-fraews/understanding-fire-risk-appraisals-of-external-walls-in-blocks-of-flats"
+   ],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own income, savings and target area and get the same first-home budget",
+   "runTitle": "Greater Manchester first-time buyers: £72,000 combined income, £38,000 saved",
+   "fields": [
+    {
+     "key": "area",
+     "label": "Area",
+     "value": "Greater Manchester"
+    },
+    {
+     "key": "date",
+     "label": "Completion date",
+     "value": "By September 2027"
+    },
+    {
+     "key": "income",
+     "label": "Gross and take-home household income",
+     "value": "£72,000 combined gross, both employed"
+    },
+    {
+     "key": "savings",
+     "label": "Savings",
+     "value": "£38,000"
+    },
+    {
+     "key": "debts",
+     "label": "Debts and monthly spending",
+     "value": "",
+     "placeholder": "e.g. no debts, about £1,800 a month on bills and living costs"
+    },
+    {
+     "key": "reserve",
+     "label": "Cash reserve to keep",
+     "value": "",
+     "placeholder": "e.g. £6,000 kept aside after completion"
+    },
+    {
+     "key": "property",
+     "label": "Property price and tenure",
+     "value": "A 2-bedroom home"
+    },
+    {
+     "key": "lisa",
+     "label": "Lifetime ISA status and first-payment date",
+     "value": "",
+     "placeholder": "e.g. no Lifetime ISA yet, first payment in December 2026"
+    }
+   ],
+   "template": "Plan my first-home budget in {area} for {date}, with {income}, {savings}, {debts}, {reserve}, {property} and {lisa}; show upfront costs, monthly payments, a higher-rate check and next steps.",
+   "phases": [
+    {
+     "title": "Check public lending criteria, mortgage products, taxes and local price evidence",
+     "note": "Lender income rules, current rates, Stamp Duty and the Lifetime ISA",
+     "judgment": "It tested the Lifetime ISA against the couple’s timeline and gave a plain answer: a newly funded Lifetime ISA would not meet the 12-month requirement by September 2027."
+    },
+    {
+     "title": "Build the editable affordability workbook and the buying guide",
+     "note": "Deposit options, upfront costs, monthly payments and a month-by-month plan",
+     "judgment": "It labelled exactly what its area figures are: official district averages for August 2026 (released 21 October), stated plainly as not two-bedroom asking prices."
+    },
+    {
+     "title": "Recalculate and check the final files, then hand over",
+     "judgment": "The workbook was recalculated before delivery: 417 formulas, zero errors."
+    }
+   ],
+   "workers": [
+    "Researched dated price evidence for five Greater Manchester districts and the steps from mortgage approval to completion, and wrote the area guide"
+   ],
+   "chipNames": {
+    "https://www.nationwide.co.uk/mortgages/mortgage-rates": "Nationwide: current mortgage rates",
+    "https://www.gov.uk/stamp-duty-land-tax/residential-property-rates": "GOV.UK: Stamp Duty Land Tax residential rates",
+    "https://www.gov.uk/lifetime-isa/withdrawing-money-from-your-lifetime-isa": "GOV.UK: withdrawing money from a Lifetime ISA",
+    "https://www.nationwide-intermediary.co.uk/lending-criteria/affordability": "Nationwide: lending criteria and affordability",
+    "https://www.moneyhelper.org.uk/en/homes/buying-a-home/estimate-your-overall-buying-and-moving-costs": "MoneyHelper: buying and moving costs",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000009/": "ONS house prices: Trafford",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000006/": "ONS house prices: Salford",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000002/": "ONS house prices: Bury",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000007/": "ONS house prices: Stockport",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000008/": "ONS house prices: Tameside",
+    "https://www.moneyhelper.org.uk/en/homes/buying-a-home/contract-exchange-completion-when-buying-a-home": "MoneyHelper: exchange and completion",
+    "https://www.gov.uk/government/publications/fire-risk-appraisals-of-external-walls-fraews/understanding-fire-risk-appraisals-of-external-walls-in-blocks-of-flats": "GOV.UK: fire risk appraisals of external walls"
+   }
+  },
+  "zh": {
+   "askTitle": "填入你自己的收入、存款和目标区域，得到同样的首套房预算",
+   "runTitle": "大曼彻斯特首次购房者：夫妻税前合计 72,000 英镑，存款 38,000 英镑",
+   "fields": [
+    {
+     "key": "area",
+     "label": "地区",
+     "value": "大曼彻斯特"
+    },
+    {
+     "key": "date",
+     "label": "交割日期",
+     "value": "2027 年 9 月前"
+    },
+    {
+     "key": "income",
+     "label": "家庭税前及税后收入",
+     "value": "夫妻税前合计 72,000 英镑，两人都有工作"
+    },
+    {
+     "key": "savings",
+     "label": "存款",
+     "value": "38,000 英镑"
+    },
+    {
+     "key": "debts",
+     "label": "债务和每月开支",
+     "value": "",
+     "placeholder": "例如：没有债务，每月生活和账单约 1,800 英镑"
+    },
+    {
+     "key": "reserve",
+     "label": "要保留的现金",
+     "value": "",
+     "placeholder": "例如：交割后保留 6,000 英镑"
+    },
+    {
+     "key": "property",
+     "label": "房价及产权",
+     "value": "两居室"
+    },
+    {
+     "key": "lisa",
+     "label": "Lifetime ISA 状态及首次存款日期",
+     "value": "",
+     "placeholder": "例如：还没有 Lifetime ISA，计划 2026 年 12 月首次存入"
+    }
+   ],
+   "template": "请帮我规划在{area}、{date}前买首套房的预算：家庭税前及税后收入{income}、存款{savings}、债务和每月开支{debts}、要保留的现金{reserve}、房价及产权{property}、Lifetime ISA 状态及首次存款日期{lisa}；列出前期费用、月供、利率上升后的负担和下一步。",
+   "phases": [
+    {
+     "title": "核对公开的贷款标准、房贷产品、税费和本地房价依据",
+     "note": "银行的收入倍数规则、当前利率、印花税和 Lifetime ISA",
+     "judgment": "它把 Lifetime ISA 放进这对夫妻的时间表里核对，并给了明确的答案：新开立并存入的 Lifetime ISA，到 2027 年 9 月还不满 12 个月的要求。"
+    },
+    {
+     "title": "制作可编辑的购房能力表格和购房指南",
+     "note": "首付方案、前期费用、月供和逐月计划",
+     "judgment": "它写明了区域数字到底是什么：2026 年 8 月的官方区级均价（10 月 21 日发布），并明确标注“不是两居室挂牌价”。"
+    },
+    {
+     "title": "重新计算并核对最终文件，然后交付",
+     "judgment": "交付前把表格重新计算了一遍：417 个公式，零错误。"
+    }
+   ],
+   "workers": [
+    "查大曼彻斯特五个区带日期的房价证据，以及从获批贷款到交割的各个步骤，并写成区域指南"
+   ],
+   "chipNames": {
+    "https://www.nationwide.co.uk/mortgages/mortgage-rates": "Nationwide：当前房贷利率",
+    "https://www.gov.uk/stamp-duty-land-tax/residential-property-rates": "英国政府：住宅印花税税率",
+    "https://www.gov.uk/lifetime-isa/withdrawing-money-from-your-lifetime-isa": "英国政府：提取 Lifetime ISA 里的钱",
+    "https://www.nationwide-intermediary.co.uk/lending-criteria/affordability": "Nationwide：贷款标准与负担能力",
+    "https://www.moneyhelper.org.uk/en/homes/buying-a-home/estimate-your-overall-buying-and-moving-costs": "MoneyHelper：买房和搬家费用",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000009/": "英国国家统计局房价：特拉福德",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000006/": "英国国家统计局房价：索尔福德",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000002/": "英国国家统计局房价：伯里",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000007/": "英国国家统计局房价：斯托克波特",
+    "https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000008/": "英国国家统计局房价：泰姆赛德",
+    "https://www.moneyhelper.org.uk/en/homes/buying-a-home/contract-exchange-completion-when-buying-a-home": "MoneyHelper：交换合同与交割",
+    "https://www.gov.uk/government/publications/fire-risk-appraisals-of-external-walls-fraews/understanding-fire-risk-appraisals-of-external-walls-in-blocks-of-flats": "英国政府：公寓外墙火灾风险评估"
+   }
+  }
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "slug": "local-speech-to-text-five-clip-test",
+ "startedAt": "2026-11-05",
+ "activeSec": 5404,
+ "stats": {
+  "searches": 21,
+  "pages": 36,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 42,
+   "end": 2723,
+   "chips": [
+    "https://huggingface.co/ggerganov/whisper.cpp",
+    "https://alphacephei.com/vosk/models",
+    "https://www.openslr.org/12/",
+    "https://www.openslr.org/94/",
+    "https://librivox.org/poesias-by-miguel-de-unamuno/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 26,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 2723,
+   "end": 3915,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 3915,
+   "end": 4760,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 4760,
+   "end": 4970,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 4970,
+   "end": 5388,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Tell us your Mac and audio, and get a local transcription workflow that fits",
+   "runTitle": "Free speech-to-text tools on a Mac: five tools, five licensed clips, 25 timed runs",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "Computer, operating system and memory",
+     "value": "A Mac with 16 GB RAM, shared with other work"
+    },
+    {
+     "key": "language",
+     "label": "Audio language and code-switching",
+     "value": "",
+     "placeholder": "e.g. mostly English with some Spanish phrases"
+    },
+    {
+     "key": "recording",
+     "label": "Recording length and speaker setup",
+     "value": "",
+     "placeholder": "e.g. 60-minute episodes, two hosts on separate microphones"
+    },
+    {
+     "key": "privacy",
+     "label": "Privacy requirements",
+     "value": "No audio uploaded to online services, no accounts created"
+    },
+    {
+     "key": "tools",
+     "label": "Tools I can install",
+     "value": "Free, open-source tools such as whisper.cpp, faster-whisper and Vosk, small models only"
+    }
+   ],
+   "template": "Help me choose a local transcription workflow for {machine}, {language}, {recording} and {privacy}. Compare {tools}, setup effort and proofreading needs. Use this small test only where relevant; identify what needs a separate test with my permission. Do not upload audio, install packages or run models without asking.",
+   "phases": [
+    {
+     "title": "Gather five licensed clips, write reference transcripts and check each tool’s official details",
+     "note": "English studio, overlapping voices, accented speech, noise and Spanish",
+     "judgment": "It spotted that the overlapping-voices clip could not be scored fairly with ordinary word error rate, because the reference lists one speaker’s words before the other’s. That clip was kept out of the accuracy averages. The references were also marked as checked against the source text, not by ear."
+    },
+    {
+     "title": "Install the small speech models on the Mac and start timing them"
+    },
+    {
+     "title": "Finish downloading the models and run every tool on every clip, one at a time",
+     "note": "One run at a time, with no internet access during recognition"
+    },
+    {
+     "title": "Cross-check every score, then build the comparison page, spreadsheet and source list",
+     "judgment": "Every one of the 25 measured runs was recalculated a second time and matched. The write-up also says the results apply only to these five clips."
+    },
+    {
+     "title": "Check the page displays correctly and hand over the finished folder"
+    }
+   ],
+   "workers": [
+    "Built the five test clips from licensed recordings, each with a reference transcript and a note on where it came from",
+    "Checked each tool’s official pages for version, licence and Mac setup, then reviewed the test method before any runs"
+   ],
+   "chipNames": {
+    "https://huggingface.co/ggerganov/whisper.cpp": "whisper.cpp models (Hugging Face)",
+    "https://alphacephei.com/vosk/models": "Vosk small English and Spanish models",
+    "https://www.openslr.org/12/": "LibriSpeech corpus",
+    "https://www.openslr.org/94/": "Multilingual LibriSpeech (MLS)",
+    "https://librivox.org/poesias-by-miguel-de-unamuno/": "LibriVox recording of Unamuno’s poems"
+   }
+  },
+  "zh": {
+   "askTitle": "告诉我们你的 Mac 和音频情况，拿到一套合适的本地转写流程",
+   "runTitle": "Mac 上的免费语音转文字工具：五种配置、五段有授权的录音、25 次计时测试",
+   "fields": [
+    {
+     "key": "machine",
+     "label": "电脑、操作系统和内存",
+     "value": "一台 Mac，16 GB 内存，还要和其他工作共用"
+    },
+    {
+     "key": "language",
+     "label": "音频语言及混说情况",
+     "value": "",
+     "placeholder": "例如：主要是中文，夹杂少量英文"
+    },
+    {
+     "key": "recording",
+     "label": "录音长度和说话人录制方式",
+     "value": "",
+     "placeholder": "例如：每期约 60 分钟，两位主持人各用一支麦克风"
+    },
+    {
+     "key": "privacy",
+     "label": "隐私要求",
+     "value": "音频不上传任何在线服务，也不注册账号"
+    },
+    {
+     "key": "tools",
+     "label": "我能安装的工具",
+     "value": "免费开源工具，如 whisper.cpp、faster-whisper、Vosk，只用小模型"
+    }
+   ],
+   "template": "请帮我为{machine}、{language}、{recording}、{privacy}选择本地转写流程。比较{tools}、安装成本和校对工作量。只在适用处参考这次小测试，指出哪些还需征得我同意后另测。未经询问，不上传音频、不安装软件包、不运行模型。",
+   "phases": [
+    {
+     "title": "备齐五段有授权的录音，写好参考文字稿，核对各工具的官方信息",
+     "note": "英语录音室、多人重叠、带口音、有噪声和西班牙语",
+     "judgment": "它发现“多人同时说话”这一段没法用普通的错字率公平打分，因为参考稿把一个人的话排在另一个人之前，于是把这段排除在准确率平均之外；参考稿也注明只对照了原文，没有用耳朵逐句听过。"
+    },
+    {
+     "title": "在 Mac 上装好小型语音模型，开始计时测试"
+    },
+    {
+     "title": "把模型下载完，让每个工具逐段、一次一个地跑完全部录音",
+     "note": "一次只跑一个，识别时不联网"
+    },
+    {
+     "title": "交叉核对每项得分，再生成对比页面、表格和来源清单",
+     "judgment": "25 次正式测试的结果都被重新计算了一遍，并且全部吻合；文中还明确写了结论只适用于这五段录音。"
+    },
+    {
+     "title": "检查页面显示是否正常，交付完整文件夹"
+    }
+   ],
+   "workers": [
+    "用有授权的录音做出五段测试音频，每段配参考文字稿，并注明出处",
+    "查了各工具官方页面上的版本、许可和 Mac 安装方式，并在正式测试前审阅测试方法"
+   ],
+   "chipNames": {
+    "https://huggingface.co/ggerganov/whisper.cpp": "whisper.cpp 模型（Hugging Face）",
+    "https://alphacephei.com/vosk/models": "Vosk 小型英语和西班牙语模型",
+    "https://www.openslr.org/12/": "LibriSpeech 语料库",
+    "https://www.openslr.org/94/": "多语种 LibriSpeech（MLS）",
+    "https://librivox.org/poesias-by-miguel-de-unamuno/": "LibriVox 乌纳穆诺诗集朗读"
+   }
+  }
+ }
+}

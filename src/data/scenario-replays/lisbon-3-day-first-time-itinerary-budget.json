@@ -1,0 +1,163 @@
+{
+ "slug": "lisbon-3-day-first-time-itinerary-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1927,
+ "stats": {
+  "searches": 19,
+  "pages": 32,
+  "colleagues": 1,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 167,
+   "end": 783,
+   "chips": [
+    "https://www.carris.pt/en/buy/prices-table/",
+    "https://www.metrolisboa.pt/en/buy/",
+    "https://www.cp.pt/info/en/prices-lisbon-urban-trains",
+    "https://www.lisboa.pt/temas/turismo/taxa-turistica",
+    "https://mosteirojeronimos.torrebelem.gov.pt/visitar"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 2,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 783,
+   "end": 1821,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1821,
+   "end": 1918,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own dates, budget and interests and get the same sourced 3-day Lisbon plan with every estimate labelled",
+   "runTitle": "A solo traveller’s first Lisbon weekend on EUR 450, 21–23 May 2027",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Dates",
+     "value": "Friday 21 May to Sunday 23 May 2027, arriving in the morning and leaving at night"
+    },
+    {
+     "key": "flights",
+     "label": "Arrival and departure flights and terminals",
+     "value": "",
+     "placeholder": "e.g. land at Lisbon airport at 09:30, depart at 21:00 on Sunday"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency",
+     "value": "EUR 450, excluding flights"
+    },
+    {
+     "key": "travellers",
+     "label": "Travellers and accommodation preferences",
+     "value": "a solo traveller in their 20s, in a hostel or budget hotel"
+    },
+    {
+     "key": "interests",
+     "label": "Walking comfort and interests",
+     "value": "viewpoints, tram 28 or alternatives, Belém, pastéis de nata and tascas, one day trip (Sintra or Cascais) and free or cheap things"
+    }
+   ],
+   "template": "Plan my first Lisbon visit for {dates}, with {flights}, {budget}, {travellers} and {interests}. Leave time for rests, separate estimates from bookable prices, and suggest an easier option if weather, queues or transport change. Help me decide what to check before booking; do not book or pay for anything.",
+   "phases": [
+    {
+     "title": "Check current fares, hostel prices and sight details from public sources",
+     "note": "Metro, Carris and train fares, the city tourist tax, Belém opening hours and hostel listings",
+     "judgment": "It would not turn a hostel’s advertised “from” price into a May quote. The listing gave no dates or room type, so the budget uses a labelled allowance of €55 per night instead, and two hostels’ conflicting city-tax wording was left as unresolved."
+    },
+    {
+     "title": "Write the day-by-day plan and a dated source list",
+     "note": "Viewpoints and tram on Friday, Cascais on Saturday, Belém on Sunday",
+     "judgment": "Where it could not open a source, it said so. The weekend train timetable would not load, so no departure times are presented as checked, and the pastel de nata price is marked as an estimate rather than an observed menu price."
+    },
+    {
+     "title": "Check the budget sums, links and page on screen"
+    }
+   ],
+   "workers": [
+    "Looked up what 2–3 central Lisbon hostels publicly show for price and city tax, and noted which prices had no dates attached"
+   ],
+   "chipNames": {
+    "https://www.carris.pt/en/buy/prices-table/": "Carris price table",
+    "https://www.metrolisboa.pt/en/buy/": "Metro de Lisboa tickets and fares",
+    "https://www.cp.pt/info/en/prices-lisbon-urban-trains": "CP fares for Lisbon urban trains",
+    "https://www.lisboa.pt/temas/turismo/taxa-turistica": "City of Lisbon tourist tax",
+    "https://mosteirojeronimos.torrebelem.gov.pt/visitar": "Jerónimos Monastery visiting information"
+   }
+  },
+  "zh": {
+   "askTitle": "填上你自己的日期、预算和兴趣，就能得到同样有来源、估算全部标明的里斯本三日行程",
+   "runTitle": "一个人第一次去里斯本：450 欧元预算，2027 年 5 月 21–23 日",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "日期",
+     "value": "2027 年 5 月 21 日（周五）到 23 日（周日），周五上午到、周日晚上走"
+    },
+    {
+     "key": "flights",
+     "label": "抵达和返程航班及航站楼",
+     "value": "",
+     "placeholder": "例如：周五 09:30 降落里斯本机场，周日 21:00 起飞"
+    },
+    {
+     "key": "budget",
+     "label": "预算和币种",
+     "value": "450 欧元，不含机票"
+    },
+    {
+     "key": "travellers",
+     "label": "同行人数和住宿偏好",
+     "value": "一个人，二十多岁，住青旅或经济型酒店"
+    },
+    {
+     "key": "interests",
+     "label": "步行体力和兴趣",
+     "value": "观景台、28 路电车或替代方案、贝伦、葡式蛋挞和小餐馆、一次一日游（辛特拉或卡斯凯什）、免费或便宜的去处"
+    }
+   ],
+   "template": "请帮我安排第一次去里斯本的旅行：日期{dates}，抵达和返程航班及航站楼{flights}，预算和币种{budget}，同行人数和住宿偏好{travellers}，步行体力和兴趣{interests}。留出休息时间，分清估算和可订实价；天气、排队或交通变化时，给我轻松些的替代方案，并提醒订之前问清什么。只做计划，不预订、不付款。",
+   "phases": [
+    {
+     "title": "查当前车费、青旅价格和景点信息",
+     "note": "地铁、公交和火车票价，市政旅游税，贝伦的开放时间和青旅报价",
+     "judgment": "它没有把青旅网页上的“起”字价格直接当成五月的报价。那个价格没有日期和房型，预算里改用标明是估算的每晚 55 欧元；两家青旅关于城市税的说法互相矛盾，也当作未解决来处理。"
+    },
+    {
+     "title": "写出逐日行程和带日期的来源",
+     "note": "周五观景台和电车，周六卡斯凯什，周日贝伦",
+     "judgment": "打不开的来源它都照实说明：周末火车时刻表打不开，所以没有把任何发车时间当成已核实；蛋挞价格也标成估算，不是从菜单上看到的实价。"
+    },
+    {
+     "title": "检查预算算术、链接和页面显示"
+    }
+   ],
+   "workers": [
+    "查 2–3 家市中心青旅公开的价格和城市税，并记下哪些价格没有标日期"
+   ],
+   "chipNames": {
+    "https://www.carris.pt/en/buy/prices-table/": "Carris 公交票价表",
+    "https://www.metrolisboa.pt/en/buy/": "里斯本地铁票务与票价",
+    "https://www.cp.pt/info/en/prices-lisbon-urban-trains": "CP 里斯本城郊火车票价",
+    "https://www.lisboa.pt/temas/turismo/taxa-turistica": "里斯本市政旅游税",
+    "https://mosteirojeronimos.torrebelem.gov.pt/visitar": "热罗尼莫斯修道院参观信息"
+   }
+  }
+ }
+}

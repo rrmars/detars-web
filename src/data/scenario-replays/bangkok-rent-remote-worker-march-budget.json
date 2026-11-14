@@ -1,0 +1,177 @@
+{
+ "slug": "bangkok-rent-remote-worker-march-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1667,
+ "stats": {
+  "searches": 32,
+  "pages": 29,
+  "colleagues": 3,
+  "parallel": 3,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 29,
+   "end": 1211,
+   "chips": [
+    "https://london.thaiembassy.org/en/page/destination-thailand-visa",
+    "https://osos.boi.go.th/EN/faq-group/35/The-notification-of-residence-of-foreign-nationals-within-24/",
+    "https://www.ocpb.go.th/news_view.php?nid=11970",
+    "https://pdpa.mwa.co.th/services/users-should-know/users-service-rate/service-rate/",
+    "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1211,
+   "end": 1503,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1503,
+   "end": 1581,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same condo, lease and visa groundwork for Bangkok",
+   "runTitle": "A UK remote software contractor in Bangkok: a one-bedroom condo for THB 25,000–35,000 a month",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "Arrival date and length of stay",
+     "value": "From 1 March 2027, for 6–12 months"
+    },
+    {
+     "key": "budget",
+     "label": "Housing and living budget",
+     "value": "Housing of about THB 25,000–35,000 a month"
+    },
+    {
+     "key": "work",
+     "label": "Work and client location",
+     "value": "Remote software contractor"
+    },
+    {
+     "key": "areas",
+     "label": "Preferred areas",
+     "value": "A one-bedroom condo near BTS or MRT in Ari, On Nut, Phrom Phong, Ratchada or Ekkamai"
+    },
+    {
+     "key": "internet",
+     "label": "Internet needs",
+     "value": "Good internet, in a building with a gym and pool"
+    }
+   ],
+   "template": "Help me plan a Bangkok move for {arrival}, with {budget}, {work}, {areas} and {internet}; compare lease terms, upfront cash, monthly bills and questions to settle before paying.",
+   "phases": [
+    {
+     "title": "Check current condo listings and the official visa and tenancy sources",
+     "note": "Five areas, the visa route, address registration, rental-contract rules and utility rates",
+     "judgment": "It did not repeat the common “one-month deposit cap”. The official 2025 rule limits advance rent plus deposit to three months, and only for landlords with at least three rental units, so a private owner may not be covered. It also dropped listings whose pages failed to load and flagged one advert that showed two different prices (THB 25,000 and 28,000)."
+    },
+    {
+     "title": "Write the guide page and the dated source list",
+     "note": "Neighbourhoods, listings, lease terms, visa, inspection checklist and monthly budget",
+     "judgment": "No advert could confirm that the flat would be free from 1 March 2027, so the guide says so openly and marks lease terms and facilities the adverts did not state, instead of filling the gaps."
+    },
+    {
+     "title": "Run the final content, link and screen-size checks once"
+    }
+   ],
+   "workers": [
+    "Found and read exact rental listings for one-bedroom condos in Ari and On Nut",
+    "Found and read exact listings in Phrom Phong, Ekkamai and Ratchada, and checked that each page still loads",
+    "Read the official guidance on the Destination Thailand Visa, address registration (TM30), the 2025 rental-contract rules and water tariffs"
+   ],
+   "chipNames": {
+    "https://london.thaiembassy.org/en/page/destination-thailand-visa": "Royal Thai Embassy London: Destination Thailand Visa",
+    "https://osos.boi.go.th/EN/faq-group/35/The-notification-of-residence-of-foreign-nationals-within-24/": "Board of Investment: address notification (TM30) for foreign nationals",
+    "https://www.ocpb.go.th/news_view.php?nid=11970": "Office of the Consumer Protection Board: residential rental contract rules",
+    "https://pdpa.mwa.co.th/services/users-should-know/users-service-rate/service-rate/": "Metropolitan Waterworks Authority: water tariff",
+    "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate": "AP Thai: Rhythm Ekkamai Estate condominium"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的搬家情况，得到同样的曼谷公寓、租约和签证准备",
+   "runTitle": "在曼谷工作的英国远程软件承包人：月租 25,000–35,000 泰铢的一居室公寓",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "抵达日期和停留时间",
+     "value": "2027 年 3 月 1 日起，停留 6–12 个月"
+    },
+    {
+     "key": "budget",
+     "label": "住房及生活预算",
+     "value": "住房每月约 25,000–35,000 泰铢"
+    },
+    {
+     "key": "work",
+     "label": "工作和客户所在地",
+     "value": "远程软件承包人"
+    },
+    {
+     "key": "areas",
+     "label": "偏好区域",
+     "value": "靠近 BTS 或 MRT 的一居室公寓，区域可选 Ari、On Nut、Phrom Phong、Ratchada 或 Ekkamai"
+    },
+    {
+     "key": "internet",
+     "label": "网络需求",
+     "value": "网络要好，楼里有健身房和泳池"
+    }
+   ],
+   "template": "请按{arrival}、{budget}、{work}、{areas}和{internet}，帮我规划搬到曼谷的安排；比较租期、入住现金、每月账单，以及付款前要问清的问题。",
+   "phases": [
+    {
+     "title": "核对当前的公寓房源，以及官方的签证和租赁来源",
+     "note": "五个区域、签证途径、住址登记、租赁合同规定和水电费率",
+     "judgment": "它没有重复常见的“押金最多一个月”的说法。官方 2025 年的规定是预付租金加押金合计不超过三个月，而且只适用于名下至少有三套出租房的房东，所以私人业主未必受此约束。它还剔除了页面打不开的房源，并标出一条同时出现两种价格（25,000 和 28,000 泰铢）的广告。"
+    },
+    {
+     "title": "撰写指南页面和带日期的来源清单",
+     "note": "区域、房源、租约、签证、看房清单和每月预算",
+     "judgment": "没有一条广告能确认房子 2027 年 3 月 1 日起可入住，所以指南如实写明，并把广告中没写的租约条款和设施标为待确认，而不是自己补上。"
+    },
+    {
+     "title": "最后一次性完成内容、链接和屏幕尺寸检查"
+    }
+   ],
+   "workers": [
+    "查找并阅读 Ari 和 On Nut 一居室公寓的具体出租房源",
+    "查找并阅读 Phrom Phong、Ekkamai 和 Ratchada 的具体房源，并确认每个页面仍能打开",
+    "查阅官方关于泰国目的地签证、住址登记（TM30）、2025 年租赁合同规定和水费标准的说明"
+   ],
+   "chipNames": {
+    "https://london.thaiembassy.org/en/page/destination-thailand-visa": "泰国驻伦敦大使馆：目的地签证",
+    "https://osos.boi.go.th/EN/faq-group/35/The-notification-of-residence-of-foreign-nationals-within-24/": "投资促进委员会：外国人住址通报（TM30）",
+    "https://www.ocpb.go.th/news_view.php?nid=11970": "消费者保护委员会办公室：住宅租赁合同规定",
+    "https://pdpa.mwa.co.th/services/users-should-know/users-service-rate/service-rate/": "大都会水务局：水费标准",
+    "https://www.apthai.com/en/condominium/rhythm-ekkamai-estate": "AP Thai：Rhythm Ekkamai Estate 公寓"
+   }
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "hong-kong-family-bno-uk-ilr-window-fees-and-earned-settlement",
+ "startedAt": "2026-11-07",
+ "activeSec": 1016,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 0,
+  "parallel": 0,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 1016,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your family’s arrival dates, ages and travel record to get the same ILR window, fee example and university-fee check",
+   "runTitle": "A Hong Kong family on BN(O) visas: when they can settle in the UK, what it costs, and what the changes mean",
+   "fields": [
+    {
+     "key": "entry",
+     "label": "Entry date of each person",
+     "value": "Arrived in the UK on BN(O) visas in March 2022"
+    },
+    {
+     "key": "family",
+     "label": "Adults and children, with ages",
+     "value": "Two adults (44 and 42) and two children (15 and 11)"
+    },
+    {
+     "key": "travel",
+     "label": "Travel record",
+     "value": "",
+     "placeholder": "e.g. 2 trips to Hong Kong, 18 days in 2024 and 12 days in 2025"
+    },
+    {
+     "key": "year",
+     "label": "Year your child starts university",
+     "value": "2029"
+    }
+   ],
+   "template": "Help me plan UK settlement for my family on BN(O) visas. We arrived on {entry} and are {family}. Work out the earliest ILR application date for each of us, list the days we have spent outside the UK from {travel}, rebuild the fee example for our situation in GBP, check whether a child will turn 18 before the citizenship application, and show how the university fee status of our child starting in {year} depends on when ILR is granted. Mark anything unconfirmed, flag where the B1 versus B2 English question affects us, and ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official settlement rules, fees and announced changes, build the guide and check every figure",
+     "note": "Earliest settlement dates, English-test level, fee example in GBP, the announced changes and university fee status",
+     "judgment": "When two official sources disagreed about the English level for Hong Kong BN(O) holders, it did not pick one: a report of a March ministerial statement says B1 stays, while the government’s 2 November 2026 response says B2 unless exempt. It stated that the rule in force today is B1, marked the question unresolved, and said that applying at the earliest allowed date gives the least exposure."
+    }
+   ],
+   "workers": [],
+   "chipNames": {}
+  }
+ }
+}

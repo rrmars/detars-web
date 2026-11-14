@@ -1,0 +1,121 @@
+{
+ "slug": "barcelona-four-days-for-two",
+ "startedAt": "2026-11-05",
+ "activeSec": 1696,
+ "stats": {
+  "searches": 54,
+  "pages": 69,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 26,
+   "end": 1220,
+   "chips": [
+    "https://sagradafamilia.org/en/faqs",
+    "https://parkguell.barcelona/en/planning-your-visit/prices-and-times",
+    "https://www.tmb.cat/en/barcelona-fares-metro-bus/t-casual",
+    "https://travel-europe.europa.eu/etias",
+    "https://atc.gencat.cat/en/tributs/ieet/quota-tributaria/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1220,
+   "end": 1568,
+   "chips": [
+    "http://mossos.gencat.cat/ca/inici/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1568,
+   "end": 1650,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own dates, budget and must-see places to get the same timed-ticket route, full room bill and entry-rule check for Barcelona",
+   "runTitle": "Four days in Barcelona for a Chicago couple on about EUR 1,800 (May 2027)",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "Travellers and passport nationalities",
+     "value": "A couple from Chicago, US passports"
+    },
+    {
+     "key": "dates",
+     "label": "Dates and flight times",
+     "value": "Arriving Thursday 6 May 2027 in the morning, leaving Monday 10 May 2027 in the morning"
+    },
+    {
+     "key": "budget",
+     "label": "Budget, excluding or including flights",
+     "value": "About EUR 1,800 for two, excluding flights"
+    },
+    {
+     "key": "hotel",
+     "label": "Hotel quotes",
+     "value": "",
+     "placeholder": "e.g. a quote for 4 nights from your shortlisted hotel"
+    },
+    {
+     "key": "access",
+     "label": "Walking or access needs",
+     "value": "",
+     "placeholder": "e.g. no stairs, or about 10,000 steps a day at most"
+    },
+    {
+     "key": "places",
+     "label": "Must-see places",
+     "value": "Sagrada Família, Park Güell and one Gaudí house; Gothic Quarter and El Born; a beach afternoon; a Montjuïc or Tibidabo view; tapas and one nice dinner"
+    }
+   ],
+   "template": "Plan a relaxed Barcelona trip for {travellers} on {dates}, with {budget}, {hotel}, {access} and {places}. Group the route around timed visits, compare the full room bill and tourist tax, and distinguish dated samples from confirmed prices. Check entry rules and ETIAS applicability for my actual dates, and do not invent a standalone Hola fare. Include a beach or rain alternative and a usable reserve. Plan only; do not book, create accounts, contact anyone or pay.",
+   "phases": [
+    {
+     "title": "Check official ticket, transport, tourist-tax, hotel and entry information",
+     "note": "Gaudí ticket windows and prices, transport passes, airport transfers, hotels for the exact nights, entry rules for US passports",
+     "judgment": "It did not take hotel “from” prices at face value: one hotel’s page advertised from €138 a night, but for the actual May nights the booking page showed €1,463 for four nights, so it was ruled out. A €917 offer was left out of the plan as a normal price because the page had applied a members’ discount."
+    },
+    {
+     "title": "Build the four-day route and a budget that adds up",
+     "note": "Day-by-day plan, where to stay, full cost table",
+     "judgment": "It would not call ETIAS either required or unnecessary for May 2027: the official EU site says applications are not open yet, so the guide marks it unconfirmed and tells you to recheck. It also did not invent a stand-alone fare for the Barcelona travel pass; the only priced option it could verify is a bundle with the airport bus, labelled as that."
+    },
+    {
+     "title": "Write the pages and check links, dates, layout and the budget arithmetic"
+    }
+   ],
+   "workers": [
+    "Checked the official entry rules for US passports and the EU border systems, plus the hotel tourist tax in force for May 2027",
+    "Looked up prices for 2–3 named hotels near Universitat and Passeig de Gràcia for the exact nights, plus a tapas place and a nice dinner"
+   ],
+   "chipNames": {
+    "https://sagradafamilia.org/en/faqs": "Sagrada Família: ticket FAQs",
+    "https://parkguell.barcelona/en/planning-your-visit/prices-and-times": "Park Güell: prices and opening times",
+    "https://www.tmb.cat/en/barcelona-fares-metro-bus/t-casual": "TMB: T-casual transport ticket",
+    "https://travel-europe.europa.eu/etias": "EU travel authorisation page (ETIAS)",
+    "https://atc.gencat.cat/en/tributs/ieet/quota-tributaria/": "Catalonia tourist tax rates",
+    "http://mossos.gencat.cat/ca/inici/": "Catalan police (Mossos d’Esquadra)"
+   }
+  }
+ }
+}

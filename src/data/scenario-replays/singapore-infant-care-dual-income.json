@@ -1,0 +1,204 @@
+{
+ "slug": "singapore-infant-care-dual-income",
+ "startedAt": "2026-11-07",
+ "activeSec": 1473,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 25,
+   "end": 225,
+   "chips": [
+    "https://file.go.gov.sg/ecda-subsidy-table-cc-ifc.pdf",
+    "https://www.ecda.gov.sg/parents/preschool-subsidies/infant-and-childcare-subsidy-scheme/overview",
+    "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession",
+    "https://www.myfirstskool.com/fees/",
+    "https://skool4kidz.com.sg/fees-subsidies/"
+   ],
+   "workers": []
+  },
+  {
+   "start": 225,
+   "end": 740,
+   "chips": [
+    "https://www.ecda.gov.sg/parents/choosing-a-preschool/aop",
+    "https://www.ecda.gov.sg/parents/choosing-a-preschool/pop",
+    "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/provision-of-subsidized-services"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 740,
+   "end": 1338,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 8,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own family and compare infant care, a helper and grandparent help in the same way",
+   "runTitle": "Tampines, baby due February 2027: infant care, a helper or grandparents on S$11,500 a month?",
+   "fields": [
+    {
+     "key": "baby",
+     "label": "Baby’s due/birth date, citizenship and birth order",
+     "value": "Baby due February 2027; one parent is a Singapore citizen and the other a Singapore PR"
+    },
+    {
+     "key": "parents",
+     "label": "Parents’ applicant and employment details, including bonus-inclusive income",
+     "value": "Dual income, combined gross household income S$11,500 a month; both return to full-time work when the baby is about 6 months old"
+    },
+    {
+     "key": "places",
+     "label": "Home and work locations and collection hours",
+     "value": "Home in Tampines"
+    },
+    {
+     "key": "fees",
+     "label": "Written fees, subsidy award and place or start-date status",
+     "value": "",
+     "placeholder": "e.g. a centre’s written infant fee of S$1,300 a month and a place offered from August 2027"
+    },
+    {
+     "key": "cda",
+     "label": "Available Baby Gift and CDA balances",
+     "value": "",
+     "placeholder": "e.g. S$3,000 Baby Bonus cash gift received and S$0 in the CDA so far"
+    },
+    {
+     "key": "backup",
+     "label": "Willing backup adults",
+     "value": "",
+     "placeholder": "e.g. the baby’s grandmother, three weekdays a week"
+    }
+   ],
+   "template": "Help us compare infant care, a helper and grandparent support using {baby}, {parents}, {places}, {fees}, {cda} and {backup}. Separate recurring cost, upfront cash and finite grants; make a leave-to-work calendar and a delayed-place backup. Ask before contacting anyone, submitting forms or sharing personal documents.",
+   "phases": [
+    {
+     "title": "Check current and announced subsidy rules, centre fees and the helper and grandparent options",
+     "note": "Infant-care subsidies, Baby Bonus, helper levy, centre fees near Tampines",
+     "judgment": "It found that the 2027 rules change the family’s numbers. Official tables already list new infant-care subsidies from 1 January 2027: S$600 Basic plus S$100 Additional, S$700 a month at their income. It also corrected a figure it had been handed: the 2027 per-person income ceiling is S$3,400, not S$3,750."
+    },
+    {
+     "title": "Write the guide and source list, with the centre shortlist, fee caps and timeline",
+     "judgment": "The monthly fee is stated as conditional: it holds only if the baby is a citizen, the working parent qualifies, full subsidy is approved and the centre charges GST. It found no cut to 2027 infant fee caps, so current caps are a planning basis, not a centre quote."
+    },
+    {
+     "title": "Recompute every money figure independently and check the page on desktop and phone",
+     "judgment": "An independent reviewer recomputed the numbers: all 42 calculation checks passed, covering 75 money amounts. It did not give a blanket pass either, keeping on record that some pages were read through a browser that was not provably fresh and signed-out."
+    }
+   ],
+   "workers": [
+    "Found Tampines infant-care centres and the full-day infant fees they publish on their own pages, with the date of each fee",
+    "Read the official subsidy tables, fee caps and 2027 announcements, and worked out the monthly cost at this household income",
+    "Independently recomputed every money figure in the guide and checked claims against the source list"
+   ],
+   "chipNames": {
+    "https://file.go.gov.sg/ecda-subsidy-table-cc-ifc.pdf": "ECDA subsidy table, new rates from 1 Jan 2027",
+    "https://www.ecda.gov.sg/parents/preschool-subsidies/infant-and-childcare-subsidy-scheme/overview": "ECDA infant and childcare subsidy: who qualifies",
+    "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession": "MOM: foreign domestic worker levy concession",
+    "https://www.myfirstskool.com/fees/": "My First Skool: fee guide",
+    "https://skool4kidz.com.sg/fees-subsidies/": "Skool4Kidz: fees and subsidies",
+    "https://www.ecda.gov.sg/parents/choosing-a-preschool/aop": "ECDA: Anchor Operator fee caps",
+    "https://www.ecda.gov.sg/parents/choosing-a-preschool/pop": "ECDA: Partner Operator fee caps",
+    "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/provision-of-subsidized-services": "IRAS: GST on subsidised childcare"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你们家的情况，用同样的方式比较婴儿托管、请女佣和祖辈帮忙",
+   "runTitle": "住在 Tampines，宝宝 2027 年 2 月出生：家庭月收入 11,500 新元，选婴儿托管、女佣还是祖辈帮忙？",
+   "fields": [
+    {
+     "key": "baby",
+     "label": "宝宝预产期或出生日期、公民身份和胎次",
+     "value": "宝宝预产期 2027 年 2 月；一位家长是新加坡公民，另一位是永久居民"
+    },
+    {
+     "key": "parents",
+     "label": "父母申请人和工作资料及含花红收入",
+     "value": "双职工，家庭月总收入 11,500 新元（税前）；宝宝约 6 个月大时两人都回到全职工作"
+    },
+    {
+     "key": "places",
+     "label": "住家工作地点和接送时间",
+     "value": "住在 Tampines"
+    },
+    {
+     "key": "fees",
+     "label": "书面收费、补贴批额及学位开始日期状态",
+     "value": "",
+     "placeholder": "例如：某托婴中心书面报价每月 1,300 新元，学位 2027 年 8 月开始"
+    },
+    {
+     "key": "cda",
+     "label": "可用 Baby Gift 和 CDA 余额",
+     "value": "",
+     "placeholder": "例如：已收到 3,000 新元婴儿花红现金，CDA 目前余额 0 新元"
+    },
+    {
+     "key": "backup",
+     "label": "愿意帮忙的后备成人",
+     "value": "",
+     "placeholder": "例如：宝宝的外婆，每周三个工作日"
+    }
+   ],
+   "template": "请根据{baby}、{parents}、{places}、{fees}、{cda}及{backup}，比较婴儿托管、女佣和祖辈支持。分开持续费用、前期现金和有限津贴，排出休假到复工的日历，并准备学位延迟方案。联系任何人、提交表格或分享个人资料前，先问我们。",
+   "phases": [
+    {
+     "title": "查证现行和已公布的补贴规则、托婴中心收费，以及女佣和祖辈照顾的选项",
+     "note": "婴儿托管补贴、婴儿花红、女佣税、Tampines 一带的中心收费",
+     "judgment": "它发现 2027 年的新规会改变这个家庭的数字：官方表格已列出 2027 年 1 月 1 日起的新婴儿托管补贴，基本补贴 600 新元加额外补贴 100 新元，按他们的收入每月共 700 新元。它还纠正了别人给的一个数字：2027 年人均收入上限是 3,400 新元，不是 3,750 新元。"
+    },
+    {
+     "title": "写出指南和来源清单，附中心候选名单、收费上限和时间表",
+     "judgment": "每月费用写明是有条件的：宝宝须是公民、工作的家长须符合资格、补贴须全额获批、中心须收消费税才成立。它没有找到 2027 年婴儿托管收费上限下调的消息，因此现有上限只作规划参考，不是中心报价。"
+    },
+    {
+     "title": "独立重算每一笔金额，并检查电脑和手机上的页面",
+     "judgment": "独立复核的同事重新计算了数字：42 项计算检查全部通过，涉及 75 个金额。他也没有给出笼统的“全部通过”，而是保留记录：部分网页是通过无法证明处于干净状态的浏览器读取的。"
+    }
+   ],
+   "workers": [
+    "找出 Tampines 一带的婴儿托管中心及其官网公布的全日婴儿收费，并记下每项收费的日期",
+    "读取官方补贴表、收费上限和 2027 年公告，算出这个收入水平下的每月费用",
+    "独立重算指南里的每一笔金额，并对照来源清单检查说法"
+   ],
+   "chipNames": {
+    "https://file.go.gov.sg/ecda-subsidy-table-cc-ifc.pdf": "早期儿童发展局补贴表（2027 年 1 月起新标准）",
+    "https://www.ecda.gov.sg/parents/preschool-subsidies/infant-and-childcare-subsidy-scheme/overview": "婴幼儿托管补贴：谁符合资格",
+    "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession": "人力部：外籍女佣税优惠",
+    "https://www.myfirstskool.com/fees/": "My First Skool：收费指南",
+    "https://skool4kidz.com.sg/fees-subsidies/": "Skool4Kidz：收费与补贴",
+    "https://www.ecda.gov.sg/parents/choosing-a-preschool/aop": "早期儿童发展局：主要营办商收费上限",
+    "https://www.ecda.gov.sg/parents/choosing-a-preschool/pop": "早期儿童发展局：伙伴营办商收费上限",
+    "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/provision-of-subsidized-services": "税务局：受补贴托管服务的消费税"
+   }
+  }
+ }
+}

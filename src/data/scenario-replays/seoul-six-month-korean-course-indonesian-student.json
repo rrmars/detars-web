@@ -1,0 +1,208 @@
+{
+ "slug": "seoul-six-month-korean-course-indonesian-student",
+ "startedAt": "2026-11-07",
+ "activeSec": 1976,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 18,
+   "end": 583,
+   "chips": [
+    "https://www.studyinkorea.go.kr/cmm/life/residenceAndStayInfo.do",
+    "https://www.visaforkorea-in.com/en-US/visa-center/fee",
+    "https://www.visaforkorea-in.com/en-US/visa-guide",
+    "https://sites.google.com/view/koreanembassy/장기-비자/일반연수d-4",
+    "https://sites.google.com/view/koreanembassy/참고사항/일정한-대학-안내"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 583,
+   "end": 1090,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1090,
+   "end": 1855,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 14,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own study plan and get the same funding-gap check before you commit",
+   "runTitle": "Jakarta to Seoul: six months of Korean-language study on IDR 95 million, and whether it is enough",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "Nationality and residence",
+     "value": "Indonesian, living in Jakarta"
+    },
+    {
+     "key": "institute",
+     "label": "Institute, campus, offer and course dates",
+     "value": "Accepted (visa pending) at a university Korean-language institute in Seoul; spring term from March 2027, two 10-week terms"
+    },
+    {
+     "key": "dates",
+     "label": "Arrival and departure",
+     "value": "",
+     "placeholder": "e.g. fly in 27 February 2027, fly home 31 August 2027"
+    },
+    {
+     "key": "savings",
+     "label": "Total savings including already-paid costs",
+     "value": "IDR 95 million in total, for tuition, flights, deposit and the first six months of living"
+    },
+    {
+     "key": "sponsor",
+     "label": "Committed sponsor support and financial-proof documents",
+     "value": "",
+     "placeholder": "e.g. parents will sponsor IDR 60 million, with bank statements for the last three months"
+    },
+    {
+     "key": "terms",
+     "label": "Written tuition, housing and insurance terms",
+     "value": "",
+     "placeholder": "e.g. tuition KRW 5.9m per term; dormitory deposit KRW 500,000"
+    },
+    {
+     "key": "limits",
+     "label": "Comfort and risk limits",
+     "value": "",
+     "placeholder": "e.g. no shared rooms with more than two people; keep IDR 10 million spare"
+    }
+   ],
+   "template": "Help me plan Korean-language study using {nationality}, {institute}, {dates}, {savings}, {sponsor}, {terms} and {limits}. Separate spending, refundable/tied-up cash and financial proof; show the funding gap, visa/document calendar and arrival setup. Do not assume work income. Ask before contacting anyone, submitting forms or sharing documents.",
+   "phases": [
+    {
+     "title": "Read the official visa, school, housing and settling-in sources",
+     "note": "Visa rules, fees, work limits, residence card and health insurance",
+     "judgment": "It kept the uncertain parts uncertain: work is allowed only after six months in Korea, not on arrival, and the insurance premium it found is the 2026 figure (KRW 79,320 a month) with 2027 marked as not yet verified."
+    },
+    {
+     "title": "Write the guide and source list with the six-month arithmetic",
+     "note": "A clear yes or no on the budget up front, then visa, housing, setup and a month-by-month budget",
+     "judgment": "The guide opens with a straight “No”: its worked Yonsei example needs IDR 166,680,310, which leaves IDR 71,680,310 short of her IDR 95 million."
+    },
+    {
+     "title": "Audit every figure and claim on its own, and test desktop and phone layouts",
+     "judgment": "The independent audit recomputed every figure with no errors, but still asked for two claims to be backed with evidence or labelled as assumptions. An early lookup that was not done in a fresh, signed-out browser was disclosed in the sources rather than hidden."
+    }
+   ],
+   "workers": [
+    "Read the official sources on the residence card, phone and bank set-up, and national health insurance",
+    "Researched the D-4 student visa for Indonesians: required documents, fees, financial proof and when part-time work is allowed",
+    "Recomputed every money figure and checked the guide’s claims against its sources, without redoing the research"
+   ],
+   "chipNames": {
+    "https://www.studyinkorea.go.kr/cmm/life/residenceAndStayInfo.do": "Study in Korea: residence and stay information",
+    "https://www.visaforkorea-in.com/en-US/visa-center/fee": "Korea Visa Application Center: fees",
+    "https://www.visaforkorea-in.com/en-US/visa-guide": "Korea Visa Application Center: visa guide",
+    "https://sites.google.com/view/koreanembassy/장기-비자/일반연수d-4": "Korean Embassy: D-4 language study visa",
+    "https://sites.google.com/view/koreanembassy/참고사항/일정한-대학-안내": "Korean Embassy: designated universities page"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的留学计划，在做决定前先得到同样的资金缺口检查",
+   "runTitle": "雅加达到首尔：用 9500 万印尼盾读六个月韩语，够不够",
+   "fields": [
+    {
+     "key": "nationality",
+     "label": "国籍及居住地",
+     "value": "印度尼西亚籍，住在雅加达"
+    },
+    {
+     "key": "institute",
+     "label": "学校、校区、录取及课程日期",
+     "value": "已被首尔一所大学的韩语学院录取（签证待办）；2027 年 3 月春季学期开始，计划读两个 10 周的学期"
+    },
+    {
+     "key": "dates",
+     "label": "入境与离境时间",
+     "value": "",
+     "placeholder": "例如：2027 年 2 月 27 日入境，8 月 31 日回国"
+    },
+    {
+     "key": "savings",
+     "label": "包括已付款项的全部存款",
+     "value": "共 9500 万印尼盾，用于学费、机票、押金和前六个月的生活"
+    },
+    {
+     "key": "sponsor",
+     "label": "已承诺资助及财力证明材料",
+     "value": "",
+     "placeholder": "例如：父母资助 6000 万印尼盾，有近三个月的银行流水"
+    },
+    {
+     "key": "terms",
+     "label": "书面学费、住房及保险条款",
+     "value": "",
+     "placeholder": "例如：学费每学期 590 万韩元；宿舍押金 50 万韩元"
+    },
+    {
+     "key": "limits",
+     "label": "舒适度与风险底线",
+     "value": "",
+     "placeholder": "例如：不接受三人及以上合住；要留 1000 万印尼盾备用"
+    }
+   ],
+   "template": "请按{nationality}、{institute}、{dates}、{savings}、{sponsor}、{terms}和{limits}，帮我规划韩语进修。分开消费、可退或被占用的现金、财力证明，列出资金缺口、签证材料日历和抵达安顿顺序。不预设兼职收入；联系他人、递交表格或分享材料前先问我。",
+   "phases": [
+    {
+     "title": "阅读官方的签证、学校、住房和安顿资料",
+     "note": "签证规则、费用、打工限制、居留证和健康保险",
+     "judgment": "不确定的地方它就保持不确定：入境后满六个月才可以打工，不是一到就能打；找到的保险费是 2026 年的数字（每月 79,320 韩元），2027 年的标明尚未核实。"
+    },
+    {
+     "title": "写指南和来源清单，附六个月预算算式",
+     "note": "开头就给预算的是或否，然后是签证、住房、安顿和逐月预算",
+     "judgment": "指南开头就直接回答“不够”：以延世大学为例，需要 166,680,310 印尼盾，比她的 9500 万还差 71,680,310 印尼盾。"
+    },
+    {
+     "title": "独立审核每个数字和说法，并在电脑和手机宽度下测试页面",
+     "judgment": "独立审核重算了每个数字，没有错误，但仍要求两处说法补上证据或标明是假设；一次未在干净浏览环境中完成的早期查阅，也如实写在来源里，没有隐藏。"
+    }
+   ],
+   "workers": [
+    "读官方资料：居留证、手机和银行开通、国民健康保险",
+    "查印尼公民的 D-4 学生签证：所需材料、费用、财力证明和何时可以兼职",
+    "重算每个金额，逐条对照来源核对指南里的说法，不重做调研"
+   ],
+   "chipNames": {
+    "https://www.studyinkorea.go.kr/cmm/life/residenceAndStayInfo.do": "Study in Korea：居留与停留信息",
+    "https://www.visaforkorea-in.com/en-US/visa-center/fee": "韩国签证申请中心：费用",
+    "https://www.visaforkorea-in.com/en-US/visa-guide": "韩国签证申请中心：签证指南",
+    "https://sites.google.com/view/koreanembassy/장기-비자/일반연수d-4": "韩国驻印尼使馆：D-4 语言研修签证",
+    "https://sites.google.com/view/koreanembassy/참고사항/일정한-대학-안내": "韩国驻印尼使馆：指定大学说明页"
+   }
+  }
+ }
+}

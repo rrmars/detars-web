@@ -1,0 +1,234 @@
+{
+ "slug": "malaysia-home-sambal-online-launch",
+ "startedAt": "2026-11-07",
+ "activeSec": 2908,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 44,
+   "end": 572,
+   "chips": [
+    "https://www.kpdn.gov.my/images/2024/awam/p-u-a-20241224-p.u.-a-449.pdf",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Regulation+1985+Updated+August+2026+PU+A+48-2026_1.pdf",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Garis+Panduan+Keselamatan+Makanan+Home-Based+Food+2026_Rev+2_Kemaskini+Oktober+2026.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 9,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 572,
+   "end": 1234,
+   "chips": [
+    "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Hygiene+Regulation+2009+as+of+19032024.pdf",
+    "https://hq.moh.gov.my/fsq/mesti",
+    "https://www.mbsa.gov.my/ms-my/mbsa/pengurusan/jabatan/Halaman/jab_perkhidmatan_bandar.aspx",
+    "https://hq.moh.gov.my/fsq/pendaftaran-premis-makanan"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1234,
+   "end": 2753,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 22,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own recipe and kitchen, and get the same licence-first launch plan before you sell a single jar",
+   "runTitle": "A home sambal business in Shah Alam: 200 g jars online on RM 8,000",
+   "fields": [
+    {
+     "key": "locality",
+     "label": "Malaysian locality",
+     "value": "Shah Alam, Selangor"
+    },
+    {
+     "key": "capital",
+     "label": "Starting capital",
+     "value": "RM 8,000"
+    },
+    {
+     "key": "recipe",
+     "label": "Recipe and allergens",
+     "value": "",
+     "placeholder": "e.g. shrimp-paste sambal with chilli, shallots, tamarind; contains shellfish"
+    },
+    {
+     "key": "jar",
+     "label": "Jar and packed dimensions",
+     "value": "200 g jars (glass)"
+    },
+    {
+     "key": "storage",
+     "label": "Intended storage",
+     "value": "",
+     "placeholder": "e.g. room temperature, 3-month shelf life, or chilled"
+    },
+    {
+     "key": "premises",
+     "label": "Premises, landlord and strata details",
+     "value": "Home kitchen at first"
+    },
+    {
+     "key": "capacity",
+     "label": "Monthly capacity",
+     "value": "300 jars a month within six months"
+    },
+    {
+     "key": "buffer",
+     "label": "Cash buffer to keep untouched",
+     "value": "",
+     "placeholder": "e.g. RM 2,500"
+    }
+   ],
+   "template": "Help me plan a small sambal launch in {locality} with {capital}, {recipe}, {jar}, {storage}, {premises} and {capacity}. Check the premises and food-safety gates before sales. Test direct and marketplace prices with buyer-paid delivery, owner labour, actual fee deductions and an untouched {buffer}. Separate published tariffs from allowances, list the approvals, shelf-life evidence and glass-compatible courier quotes still needed, and ask before contacting anyone, sharing details, registering or submitting forms.",
+   "phases": [
+    {
+     "title": "Read the official rules on registration, food safety, halal and platform fees",
+     "note": "Business registration, food-premises rules, labelling, halal and courier terms",
+     "judgment": "It would not guess the council's answer. The home-kitchen permission from the local council (MBSA) could not be confirmed, so it was left as an open gate: “do not assume residential production allowed.” It also corrected itself on labelling: wet sambal likely counts as a sauce, so nutrition and date marking are probably required."
+    },
+    {
+     "title": "Build the cost model and the launch guide",
+     "note": "Per-jar costs, break-even, platform fees and a month-by-month calendar",
+     "judgment": "Gaps are marked rather than filled. The exact Shopee commission for sambal could not be confirmed, so fees are shown as planning scenarios, the RM 18 and RM 20 prices are labelled model outputs and not market-tested demand, and the new courier terms (30 October 2026) that prohibit glass are flagged."
+    },
+    {
+     "title": "Independent check of every figure and a layout test on desktop and phone",
+     "judgment": "A separate colleague recomputed the money on its own: 85 checks passed, with RM 8,000 startup, RM 1,882.80 monthly surplus and a 58-jar break-even all reconciling. It also caught one outdated line about Shopee terms and noted that the research process was not fully done in a fresh, signed-out browser, which the guide discloses."
+    }
+   ],
+   "workers": [
+    "Read the official rules on business registration, home-food premises, food-handler training, labelling and food-safety certification",
+    "Checked halal certification for a micro food business: who is eligible, what it costs and whether a home kitchen can qualify",
+    "Collected Shopee and TikTok Shop seller commissions, payment fees and courier rules for glass jars",
+    "Recomputed every money figure from scratch and checked the guide's claims against its source list"
+   ],
+   "chipNames": {
+    "https://www.kpdn.gov.my/images/2024/awam/p-u-a-20241224-p.u.-a-449.pdf": "Malaysia halal and labelling order (KPDN)",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Regulation+1985+Updated+August+2026+PU+A+48-2026_1.pdf": "Food Regulations 1985 (updated August 2026)",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Garis+Panduan+Keselamatan+Makanan+Home-Based+Food+2026_Rev+2_Kemaskini+Oktober+2026.pdf": "Ministry of Health home-based food safety guideline (Oct 2026)",
+    "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx": "SSM EzBiz business registration",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Hygiene+Regulation+2009+as+of+19032024.pdf": "Food Hygiene Regulations 2009",
+    "https://hq.moh.gov.my/fsq/mesti": "MeSTI food-safety certification",
+    "https://www.mbsa.gov.my/ms-my/mbsa/pengurusan/jabatan/Halaman/jab_perkhidmatan_bandar.aspx": "MBSA city services department",
+    "https://hq.moh.gov.my/fsq/pendaftaran-premis-makanan": "Food premises registration (Ministry of Health)"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的配方和厨房，在卖出第一罐之前先拿到同样“先过许可关”的开卖计划",
+   "runTitle": "沙阿南的家庭参巴生意：用 8,000 令吉在网上卖 200 克罐装",
+   "fields": [
+    {
+     "key": "locality",
+     "label": "马来西亚地区",
+     "value": "雪兰莪州沙阿南"
+    },
+    {
+     "key": "capital",
+     "label": "起步资金",
+     "value": "8,000 令吉"
+    },
+    {
+     "key": "recipe",
+     "label": "配方和过敏原",
+     "value": "",
+     "placeholder": "例如：虾米参巴，含辣椒、红葱头、罗望子；含甲壳类过敏原"
+    },
+    {
+     "key": "jar",
+     "label": "罐子及完整包裹尺寸",
+     "value": "200 克玻璃罐"
+    },
+    {
+     "key": "storage",
+     "label": "储存条件",
+     "value": "",
+     "placeholder": "例如：常温保存、保质期三个月，或冷藏"
+    },
+    {
+     "key": "premises",
+     "label": "场所情况（地址用途、房东及分层管理限制）",
+     "value": "先用家里的厨房"
+    },
+    {
+     "key": "capacity",
+     "label": "每月产能",
+     "value": "六个月内做到每月 300 罐"
+    },
+    {
+     "key": "buffer",
+     "label": "要原封不动保留的现金缓冲",
+     "value": "",
+     "placeholder": "例如：2,500 令吉"
+    }
+   ],
+   "template": "帮我规划在{locality}小规模卖参巴，资金为{capital}，产品是{recipe}，使用{jar}，计划{storage}，场所情况为{premises}，每月产能为{capacity}。先检查场所和食品安全关卡，再安排销售。按买家付运费测试直销和平台价格，计入本人劳动及真实扣费，并保留{buffer}。分清公布费率和预算，列出尚需确认的审批、保质期依据及可寄玻璃罐的快递报价；联系他人、分享资料、注册或交表前先问我。",
+   "phases": [
+    {
+     "title": "查官方规定：商业登记、食品安全、清真认证和平台收费",
+     "note": "商业登记、食品场所规定、标签、清真和快递条款",
+     "judgment": "它没有替市政厅“猜答案”。家用厨房能否开工的市政厅（MBSA）许可没能确认，就把它列为待解决的一关，并写明“不要默认住宅可以生产”。它还自己纠正了标签问题：带汁的参巴很可能算酱料，营养标签和日期标示多半是必需的。"
+    },
+    {
+     "title": "建立成本模型，写出开卖指南",
+     "note": "每罐成本、保本点、平台费用和逐月计划",
+     "judgment": "查不到的地方没有硬填。参巴在 Shopee 的确切佣金没能确认，所以费用按“规划情景”呈现；18 令吉和 20 令吉的定价被标成模型推算而非市场验证；快递公司 2026 年 10 月 30 日更新、禁寄玻璃的条款也被特别标出。"
+    },
+    {
+     "title": "独立核对每个数字，并在电脑和手机上测试版面",
+     "judgment": "另一位同事独立重算了所有金额：85 项核对全部通过，8,000 令吉起步分配、每月盈余 1,882.80 令吉、保本 58 罐都对得上。它还抓出一句关于 Shopee 条款的过时表述，并指出研究过程没能完全证明是在干净的浏览器里进行的，指南里已如实披露。"
+    }
+   ],
+   "workers": [
+    "查商业登记、家庭食品场所、食品从业员培训、标签和食品安全认证的官方规定",
+    "查微型食品企业的清真认证：谁有资格、费用多少、家用厨房能不能申请",
+    "收集 Shopee 和 TikTok Shop 的卖家佣金、支付费用，以及寄玻璃罐的快递规定",
+    "从头重算每一笔金额，并对照来源清单核对指南里的说法"
+   ],
+   "chipNames": {
+    "https://www.kpdn.gov.my/images/2024/awam/p-u-a-20241224-p.u.-a-449.pdf": "马来西亚清真与标签相关命令（KPDN）",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Regulation+1985+Updated+August+2026+PU+A+48-2026_1.pdf": "1985 年食品法规（2026 年 8 月更新）",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Garis+Panduan+Keselamatan+Makanan+Home-Based+Food+2026_Rev+2_Kemaskini+Oktober+2026.pdf": "卫生部家庭食品安全指南（2026 年 10 月）",
+    "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/EzBiz-Online.aspx": "SSM EzBiz 商业登记",
+    "https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Hygiene+Regulation+2009+as+of+19032024.pdf": "2009 年食品卫生法规",
+    "https://hq.moh.gov.my/fsq/mesti": "MeSTI 食品安全认证",
+    "https://www.mbsa.gov.my/ms-my/mbsa/pengurusan/jabatan/Halaman/jab_perkhidmatan_bandar.aspx": "莎阿南市政厅城市服务部门",
+    "https://hq.moh.gov.my/fsq/pendaftaran-premis-makanan": "食品场所登记（卫生部）"
+   }
+  }
+ }
+}

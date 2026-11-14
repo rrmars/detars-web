@@ -1,0 +1,118 @@
+{
+ "slug": "running-watch-first-half-marathon",
+ "startedAt": "2026-11-05",
+ "activeSec": 1696,
+ "stats": {
+  "searches": 34,
+  "pages": 36,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 51,
+   "end": 1174,
+   "chips": [
+    "https://coros.com/us/pace3",
+    "https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-14A987C8-260E-4D95-828B-E4B9A40896FA.html",
+    "https://us.amazfit.com/products/active-2-round",
+    "https://us.suunto.com/products/suunto-run-all-black",
+    "https://www.polar.com/us-en/pacer"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1174,
+   "end": 1487,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1487,
+   "end": 1644,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own race, routine, budget and phone to get the same price-checked running-watch shortlist",
+   "runTitle": "A first half marathon in Austin: running watches under USD 250 for an Android phone",
+   "fields": [
+    {
+     "key": "race",
+     "label": "Race and date",
+     "value": "First half marathon, April 2027"
+    },
+    {
+     "key": "routine",
+     "label": "Weekly running routine",
+     "value": "Beginner in Austin, Texas, running 3–4 times a week"
+    },
+    {
+     "key": "phone",
+     "label": "Phone",
+     "value": "Android phone"
+    },
+    {
+     "key": "budget",
+     "label": "Checkout budget",
+     "value": "Under USD 250"
+    },
+    {
+     "key": "routes",
+     "label": "Routes and GPS challenges",
+     "value": "",
+     "placeholder": "e.g. downtown streets with tall buildings, or a tree-covered trail"
+    },
+    {
+     "key": "prefs",
+     "label": "Music, screen and coaching preferences",
+     "value": "",
+     "placeholder": "e.g. no music on the watch, bright screen, a plan that adapts to me"
+    }
+   ],
+   "template": "Compare running watches for {race}, {routine}, {phone}, {budget}, {routes} and {prefs}. Separate published specs from hands-on reviewers' findings, check exact offers and taxes, and explain which features I can skip. Research only; do not create accounts or buy anything.",
+   "phases": [
+    {
+     "title": "Check US prices, stock, official specs and review caveats for five candidates",
+     "note": "Official pages and retailers for price and availability, then hands-on reviews",
+     "judgment": "It did not let old review complaints stand as today’s facts: early problems with the Suunto Run’s heart-rate reading were treated as launch-era, since later software updates changed it and no one had retested it. It also dropped the Polar Pacer because the official US price was above the budget, and flagged that Suunto’s $199 coupon had not been tested at checkout."
+    },
+    {
+     "title": "Write the practical shortlist and a dated source list",
+     "note": "Comparison table, two recommended watches, what a beginner can skip paying for",
+     "judgment": "It kept two different things apart that listings blur: how many satellite systems a watch uses is not the same as dual-frequency GPS. It also labelled the choice of two watches as editorial judgment, not measurement, and said plainly that it had not tested any watch itself."
+    },
+    {
+     "title": "Check content, links and layout, then deliver both files"
+    }
+   ],
+   "workers": [
+    "Checked current US offers and official specs for the COROS PACE 3 and the Amazfit Active 2, and what hands-on reviewers found",
+    "Checked US prices, stock and official specs for the Polar Pacer and the Suunto Run against the budget"
+   ],
+   "chipNames": {
+    "https://coros.com/us/pace3": "COROS PACE 3: US store page and specs",
+    "https://www8.garmin.com/manuals/webhelp/GUID-607F08F6-33FC-40BF-9727-84E54043D82D/EN-US/GUID-14A987C8-260E-4D95-828B-E4B9A40896FA.html": "Garmin Forerunner 165: battery manual",
+    "https://us.amazfit.com/products/active-2-round": "Amazfit Active 2 Round: official specs",
+    "https://us.suunto.com/products/suunto-run-all-black": "Suunto Run: US store page",
+    "https://www.polar.com/us-en/pacer": "Polar Pacer: official US page"
+   }
+  }
+ }
+}

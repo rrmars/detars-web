@@ -1,0 +1,128 @@
+{
+ "slug": "yucatan-five-day-road-trip",
+ "startedAt": "2026-11-05",
+ "activeSec": 1149,
+ "stats": {
+  "searches": 54,
+  "pages": 42,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 21,
+   "end": 671,
+   "chips": [
+    "https://optics.marine.usf.edu/projects/SaWS/pdf/Sargassum_outlook_2026_bulletin10_USF.pdf",
+    "https://www.inah.gob.mx/zonas/515-zona-arqueologica-de-coba",
+    "https://international.ado.com.mx/ado-bus/cancun-airport-to-playa-del-carmen",
+    "https://visitax.gob.mx/sitio/",
+    "https://dosojospark.com/nicte-ha/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 7,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 671,
+   "end": 995,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 995,
+   "end": 1106,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own dates and budget and compare Playa, Cancún and Tulum with real prices",
+   "runTitle": "Houston to the Mexican Caribbean: five days in March on about USD 2,400 for two",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "Travellers, actual passports and mobility or swimming needs",
+     "value": "a couple from Houston, Texas"
+    },
+    {
+     "key": "dates",
+     "label": "Travel dates",
+     "value": "Wednesday 17 to Monday 22 March 2027"
+    },
+    {
+     "key": "origin",
+     "label": "Departure airport in Texas",
+     "value": "",
+     "placeholder": "e.g. Houston Bush Intercontinental (IAH)"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival airport and flight times",
+     "value": "",
+     "placeholder": "e.g. Cancún (CUN), landing 11:30, flying home at 14:00"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and exclusions",
+     "value": "about USD 2,400 for two, excluding flights"
+    }
+   ],
+   "template": "Plan a Mexican Caribbean trip for {travellers} on {dates}, flying from {origin} to {arrival}, with {budget}. Compare Playa, Cancún and Tulum; keep daylight transport and flexible beach days. Verify current entry rules and the latest US advisory, obtain date-specific full hotel and transport prices, and separate published fees from estimates. Include one ruin and one suitable cenote without rushing. Plan only; do not book, contact anyone, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Check current official fares, ruin fees, transport and public hotel rates",
+     "note": "Bus and train fares, visitor tax, ruins, cenotes, hotels, sargassum and advisories",
+     "judgment": "It caught that the common advice “you can’t climb Cobá” is out of date: the heritage institute’s current page lists controlled summit access. It also refused to present Cobá’s MX$210 ticket as the all-in cost, because a separate community charge is not verified."
+    },
+    {
+     "title": "Build the five-day plan and a balanced budget",
+     "judgment": "It wrote the gaps into the plan instead of smoothing them over: no verified March hotel prices, the latest US advisory page blocked, and some early research done in a saved browser profile before being rechecked in a fresh private window."
+    },
+    {
+     "title": "Write the plan and source list, then have them independently checked",
+     "judgment": "The reviewer recalculated all 14 budget rows (MX$43,200, or US$2,400, including a MX$5,214 contingency) and found nothing that contradicted the disclosures. It also said plainly that it had not re-checked outside sources or how the page looks."
+    }
+   ],
+   "workers": [
+    "Read the official bus and train fares and timings from the airport to Playa del Carmen, and the Quintana Roo visitor tax",
+    "Compared Cobá and Chichén Itzá on official fees, hours and rules, and found cenote entry prices",
+    "Looked up central Playa del Carmen hotels and public room rates for the travel dates",
+    "Read the finished plan, recalculated the budget rows and cross-checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://optics.marine.usf.edu/projects/SaWS/pdf/Sargassum_outlook_2026_bulletin10_USF.pdf": "University of South Florida sargassum outlook bulletin",
+    "https://www.inah.gob.mx/zonas/515-zona-arqueologica-de-coba": "Mexico’s heritage institute: Cobá archaeological zone",
+    "https://international.ado.com.mx/ado-bus/cancun-airport-to-playa-del-carmen": "ADO bus: Cancún airport to Playa del Carmen",
+    "https://visitax.gob.mx/sitio/": "Quintana Roo visitor tax (Visitax) portal",
+    "https://dosojospark.com/nicte-ha/": "Nicte-Ha cenote at Parque Dos Ojos"
+   }
+  }
+ }
+}

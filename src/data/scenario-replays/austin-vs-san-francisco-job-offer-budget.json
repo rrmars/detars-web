@@ -1,0 +1,223 @@
+{
+ "slug": "austin-vs-san-francisco-job-offer-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1815,
+ "stats": {
+  "searches": 24,
+  "pages": 23,
+  "colleagues": 2,
+  "parallel": 0,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 50,
+   "end": 911,
+   "chips": [
+    "https://www.ftb.ca.gov/about-ftb/newsroom/tax-news/2026/10.html",
+    "https://www.ssa.gov/cola/factsheets/2027.html",
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill",
+    "https://www.zumper.com/rent-research/national-rent-report",
+    "https://www.sfmta.com/fares/monthly-adult-ages-19-64"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": false,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 911,
+   "end": 1404,
+   "chips": [
+    "https://www.irs.gov/publications/p15b",
+    "https://www.ssa.gov/cola/factsheets/2027.html"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1404,
+   "end": 1759,
+   "chips": [],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own two offers and see which one leaves more each month",
+   "runTitle": "Austin USD 125,000 or San Francisco USD 155,000: which job leaves a single engineer better off?",
+   "fields": [
+    {
+     "key": "offers",
+     "label": "Offers and cities",
+     "value": "Software engineer choosing between Austin, Texas and San Francisco, California"
+    },
+    {
+     "key": "start",
+     "label": "Start date and household",
+     "value": "Starting 1 February 2027; single, no children, renting"
+    },
+    {
+     "key": "pay",
+     "label": "Salary, bonus and equity",
+     "value": "Base salary USD 125,000 in Austin and USD 155,000 in San Francisco"
+    },
+    {
+     "key": "tax",
+     "label": "Tax situation",
+     "value": "",
+     "placeholder": "e.g. filing single, no other income, no state tax paid elsewhere"
+    },
+    {
+     "key": "benefits",
+     "label": "Benefits and retirement",
+     "value": "Standard 401(k) match of 4%, putting in 6% of pay, and employer health insurance"
+    },
+    {
+     "key": "rent",
+     "label": "Rent",
+     "value": "",
+     "placeholder": "e.g. a 1-bedroom at USD 1,500 a month in Austin and USD 4,400 in San Francisco"
+    },
+    {
+     "key": "office",
+     "label": "Office and transport",
+     "value": "",
+     "placeholder": "e.g. hybrid three days a week; own car in Austin, transit pass in San Francisco"
+    },
+    {
+     "key": "debts",
+     "label": "Debts",
+     "value": "",
+     "placeholder": "e.g. USD 18,000 student loan, USD 300 a month"
+    },
+    {
+     "key": "moving",
+     "label": "Moving cash",
+     "value": "",
+     "placeholder": "e.g. USD 6,000 saved for the move and first month’s deposit"
+    }
+   ],
+   "template": "Compare {offers} for {start}, with {pay}, {tax}, {benefits}, {rent}, {office}, {debts} and {moving}. Show take-home pay, everyday spending, retirement separately, first-year timing and the salary or rent that would change the choice. Keep original currencies; do not contact, apply, buy or publish.",
+   "phases": [
+    {
+     "title": "Check tax figures and city cost sources as of 5 November 2026",
+     "note": "Tax rules for 2027 where published; rent, utilities, transport and food in both cities",
+     "judgment": "Where 2027 income-tax figures were not yet published, it used 2026 values and labelled them as stand-ins, rather than passing them off as 2027 rules. The 2027 payroll-tax and California disability-insurance figures were published and are used as such."
+    },
+    {
+     "title": "Build the editable workbook, a one-page summary and the source notes"
+    },
+    {
+     "title": "Recalculate everything, find the break-even salary and inspect the files",
+     "judgment": "A separate reviewer redid the tax arithmetic band by band and matched the break-even: San Francisco would need a base of about $194,866 to match Austin. It was also open about the limit of its check: it did not re-verify online whether each tax figure was officially published."
+    }
+   ],
+   "workers": [
+    "Collected dated rent listings and rent-index figures, utilities, transport and food costs for a single renter in both cities",
+    "Independently audited the workbook, summary and sources: redid the tax arithmetic and checked the labels"
+   ],
+   "chipNames": {
+    "https://www.ftb.ca.gov/about-ftb/newsroom/tax-news/2026/10.html": "California Franchise Tax Board: 2026 tax news",
+    "https://www.ssa.gov/cola/factsheets/2027.html": "Social Security Administration: 2027 figures",
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill": "IRS: 2026 inflation adjustments",
+    "https://www.zumper.com/rent-research/national-rent-report": "Zumper national rent report",
+    "https://www.sfmta.com/fares/monthly-adult-ages-19-64": "SFMTA: monthly adult transit pass",
+    "https://www.irs.gov/publications/p15b": "IRS Publication 15-B: employer benefits"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的两份工作邀约，看看哪一份每月剩得更多",
+   "runTitle": "奥斯汀 125,000 美元还是旧金山 155,000 美元：哪份工作让单身工程师更宽裕？",
+   "fields": [
+    {
+     "key": "offers",
+     "label": "工作邀约和城市",
+     "value": "软件工程师，在得克萨斯州奥斯汀和加利福尼亚州旧金山两份工作之间选择"
+    },
+    {
+     "key": "start",
+     "label": "入职日期及家庭情况",
+     "value": "2027 年 2 月 1 日入职；单身、没有孩子、租房"
+    },
+    {
+     "key": "pay",
+     "label": "工资、奖金和股权",
+     "value": "奥斯汀底薪 125,000 美元，旧金山底薪 155,000 美元"
+    },
+    {
+     "key": "tax",
+     "label": "税务情况",
+     "value": "",
+     "placeholder": "例如：单身报税，没有其他收入"
+    },
+    {
+     "key": "benefits",
+     "label": "福利及退休安排",
+     "value": "标准的 4% 401(k) 雇主匹配，自己供款 6%，雇主提供医疗保险"
+    },
+    {
+     "key": "rent",
+     "label": "房租",
+     "value": "",
+     "placeholder": "例如：奥斯汀一居室每月 1,500 美元，旧金山每月 4,400 美元"
+    },
+    {
+     "key": "office",
+     "label": "办公室和交通",
+     "value": "",
+     "placeholder": "例如：每周三天到办公室；奥斯汀自己开车，旧金山买公交月票"
+    },
+    {
+     "key": "debts",
+     "label": "债务",
+     "value": "",
+     "placeholder": "例如：18,000 美元学生贷款，每月还 300 美元"
+    },
+    {
+     "key": "moving",
+     "label": "搬家现金",
+     "value": "",
+     "placeholder": "例如：为搬家和首月押金存了 6,000 美元"
+    }
+   ],
+   "template": "请比较我的{offers}，入职日期及家庭情况{start}，工资、奖金和股权{pay}，税务情况{tax}，福利及退休安排{benefits}，房租{rent}，办公室和交通{office}，债务{debts}，搬家现金{moving}。列出到手工资、日常开支、单独的退休储蓄、首年时间差，以及哪些工资或房租变化会改变选择。保留原币种，不要联系、申请、购买或发布。",
+   "phases": [
+    {
+     "title": "查证截至 2026 年 11 月 5 日的税率资料和两座城市的生活成本来源",
+     "note": "已公布的 2027 年税务规则；两座城市的房租、水电、交通和饮食",
+     "judgment": "2027 年所得税数字尚未公布的部分，它用 2026 年的数字并标明是替代值，没有冒充 2027 年的规则。2027 年的工资税和加州残疾保险数字已经公布，按公布值使用。"
+    },
+    {
+     "title": "建立可编辑的比较表格、一页摘要和来源说明"
+    },
+    {
+     "title": "全部重新计算，找出持平薪资，并检查交付文件",
+     "judgment": "另一位复核的同事把税额逐档重新算了一遍，持平薪资也对得上：旧金山底薪要约 194,866 美元，才能和奥斯汀打平。他也说明了自己检查的界限：没有上网重新核实每个税务数字是否已正式公布。"
+    }
+   ],
+   "workers": [
+    "收集两座城市单身租客的房租报价和租金指数、水电、交通和饮食成本，并标明日期",
+    "独立审核表格、摘要和来源：重算税额，并检查各项标注"
+   ],
+   "chipNames": {
+    "https://www.ftb.ca.gov/about-ftb/newsroom/tax-news/2026/10.html": "加州税务局：2026 年税务新闻",
+    "https://www.ssa.gov/cola/factsheets/2027.html": "美国社会保障局：2027 年数据",
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill": "美国国税局：2026 年通胀调整",
+    "https://www.zumper.com/rent-research/national-rent-report": "Zumper 全美租金报告",
+    "https://www.sfmta.com/fares/monthly-adult-ages-19-64": "旧金山市交通局：成人月票",
+    "https://www.irs.gov/publications/p15b": "美国国税局第 15-B 号出版物：雇主福利"
+   }
+  }
+ }
+}

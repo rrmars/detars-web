@@ -1,0 +1,153 @@
+{
+ "slug": "toronto-student-rent-deposit-safety",
+ "startedAt": "2026-11-05",
+ "activeSec": 1162,
+ "stats": {
+  "searches": 32,
+  "pages": 42,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 20,
+   "end": 385,
+   "chips": [
+    "https://www.ontario.ca/page/guide-ontarios-standard-lease",
+    "https://www.ontario.ca/laws/statute/06r17",
+    "https://tribunalsontario.ca/documents/ltb/Brochures/Guide%20to%20RTA%20%28English%29.html",
+    "https://www.ohrc.on.ca/en/policy-human-rights-and-rental-housing/v-identifying-discrimination-rental-housing",
+    "https://www.tps.ca/fraud/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 385,
+   "end": 938,
+   "chips": [
+    "https://www.georgebrown.ca/current-students/services/residence/residence-life/rates-payment-options",
+    "https://www.ttc.ca/Fares-and-passes",
+    "https://www.hoem.ca/"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 938,
+   "end": 1121,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own country, campus and rent ceiling to get a Toronto room-search plan with scam checks",
+   "runTitle": "A Nigerian student starting at George Brown in September 2027: a room in Toronto for about CAD 1,300 a month",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country you are applying from",
+     "value": "Nigeria"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival date",
+     "value": "September 2027"
+    },
+    {
+     "key": "programme",
+     "label": "Programme and exact campus",
+     "value": "two-year diploma at George Brown College, near the downtown campuses"
+    },
+    {
+     "key": "rent",
+     "label": "Rent ceiling in CAD",
+     "value": "about CAD 1,300 a month"
+    },
+    {
+     "key": "funds",
+     "label": "Total monthly funds",
+     "value": "",
+     "placeholder": "e.g. CAD 2,000 a month in total for rent, food, transit and phone"
+    },
+    {
+     "key": "age",
+     "label": "Age",
+     "value": "",
+     "placeholder": "e.g. 19"
+    },
+    {
+     "key": "bedroom",
+     "label": "Private or shared bedroom needs",
+     "value": "a room or a shared apartment"
+    },
+    {
+     "key": "offers",
+     "label": "Offers or lease terms you already have",
+     "value": "",
+     "placeholder": "e.g. a room offered at CAD 1,100 a month with a 12-month lease"
+    }
+   ],
+   "template": "Help me plan a Toronto room search from {country} for {arrival}, studying {programme}, with {rent}, {funds}, {age}, {bedroom} and {offers}. Separate rent from bills, compare the exact commute and landing buffer, and identify deposit, RTA-coverage and scam checks to recheck before payment. Keep unknown costs and availability explicit. Plan only; do not contact landlords, apply, share my documents or pay.",
+   "phases": [
+    {
+     "title": "Research live listings, Ontario tenant rules, college housing and transit prices",
+     "note": "Tenant law, scam warnings, residence fees, transit pass",
+     "judgment": "It said where it could not confirm a rule instead of filling the gap: whether voluntary prepaid rent is allowed turns on case law it could not read, so it did not claim that all prepayment is illegal. It also noted that having no Canadian credit history does not by itself justify a landlord demanding a guarantor."
+    },
+    {
+     "title": "Write the practical guide and a dated source list",
+     "note": "13 current ads, deposits, scam checks and monthly budgets",
+     "judgment": "It kept last year’s price from posing as next year’s: the college residence fee it found, CAD 11,556.88, covers September 2026 to April 2027, so the guide does not present it as a September 2027 quote, and where the current residence agreement could not be retrieved it used no older contract in its place."
+    },
+    {
+     "title": "Check the content, links and page layout, then deliver",
+     "judgment": "An independent reviewer went back to three original pages itself, the college’s residence rates, one listing and the transit fare-cap page, and confirmed the figures without finding any correction."
+    }
+   ],
+   "workers": [
+    "Read Ontario government and tribunal sources on the standard lease, which deposits a landlord may ask for, and how to verify a landlord",
+    "Found at least 12 current public room and shared-apartment listings within CAD 1,300 and a sensible transit ride to the downtown campuses, and saved the page text for each",
+    "Looked up George Brown residence fees and terms, purpose-built student housing prices, campus locations and official transit fares and student passes",
+    "Independently re-read the finished guide and source list, re-opened original pages to confirm key figures, and re-did the budget arithmetic"
+   ],
+   "chipNames": {
+    "https://www.ontario.ca/page/guide-ontarios-standard-lease": "Ontario government: guide to the standard lease",
+    "https://www.ontario.ca/laws/statute/06r17": "Residential Tenancies Act, 2006",
+    "https://tribunalsontario.ca/documents/ltb/Brochures/Guide%20to%20RTA%20%28English%29.html": "Landlord and Tenant Board: guide to the Residential Tenancies Act",
+    "https://www.ohrc.on.ca/en/policy-human-rights-and-rental-housing/v-identifying-discrimination-rental-housing": "Ontario Human Rights Commission: discrimination in rental housing",
+    "https://www.tps.ca/fraud/": "Toronto Police Service: fraud",
+    "https://www.georgebrown.ca/current-students/services/residence/residence-life/rates-payment-options": "George Brown College: residence rates and payment options",
+    "https://www.ttc.ca/Fares-and-passes": "TTC: fares and passes",
+    "https://www.hoem.ca/": "HOEM student residence"
+   }
+  }
+ }
+}

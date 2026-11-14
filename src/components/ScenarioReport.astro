@@ -3,6 +3,7 @@ import { render } from "astro:content";
 import { scenarioDate, scenarioDomain, type Scenario } from "@/lib/scenarios";
 import { scenarioCopy } from "@/lib/scenario-i18n";
 import { withLocale } from "@/lib/site";
+import ScenarioReplay from "@/components/ScenarioReplay.astro";
 
 type Props = { entry: Scenario };
 const { entry } = Astro.props;
@@ -20,6 +21,7 @@ const audience = typeof d.audience === "string" ? d.audience : d.audience[d.loca
     <p class="meta"><span>{copy.producer}</span><span>·</span><span>{copy.originalResearch} · <time datetime={d.publishedAt?.toISOString()}>{scenarioDate(d.publishedAt, d.locale)}</time></span></p>
     {audience && <p class="audience">{audience}</p>}
   </header>
+  <ScenarioReplay slug={d.slug} locale={d.locale} />
   <p class="scroll-hint">{copy.scrollHint}</p>
   <div class="prose report-body"><Content /></div>
   <div class="request-tools" data-request-tools hidden>

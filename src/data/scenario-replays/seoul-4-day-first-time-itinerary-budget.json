@@ -1,0 +1,208 @@
+{
+ "slug": "seoul-4-day-first-time-itinerary-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1523,
+ "stats": {
+  "searches": 44,
+  "pages": 34,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 36,
+   "end": 524,
+   "chips": [
+    "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y",
+    "https://www.k-eta.go.kr/portal/guide/viewetaapplication.do",
+    "https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN",
+    "https://www.airportrailroad.com/train/normal/fare",
+    "https://english.visitseoul.net/seoul-transportation"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 1,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 524,
+   "end": 1162,
+   "chips": [
+    "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1570512",
+    "https://royal.khs.go.kr/ENG/contents/E101010000.do?schGroupCode=gbg&schGroupCodeNm=Gyeongbokgung",
+    "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286",
+    "https://www.kayak.com/Seoul-Hotels-Holiday-Inn-Express-Seoul-Hongdae.4078899.ksp"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1162,
+   "end": 1445,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own dates, passports and budget and get the same Seoul plan, with entry rules checked first",
+   "runTitle": "Hong Kong to Seoul: two friends, four days in April 2027, about USD 1,200 each",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "Travel dates",
+     "value": "Thursday 15 April to Sunday 18 April 2027"
+    },
+    {
+     "key": "travellers",
+     "label": "Travellers and passport types",
+     "value": "Two friends in their late 20s, flying in from Hong Kong"
+    },
+    {
+     "key": "flights",
+     "label": "Flights and airport terminal",
+     "value": "Land in the morning of 15 April and leave in the evening of 18 April"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and currency",
+     "value": "About USD 1,200 per person, excluding flights"
+    },
+    {
+     "key": "rooms",
+     "label": "Room needs",
+     "value": "",
+     "placeholder": "e.g. one twin room for the two of us"
+    },
+    {
+     "key": "walking",
+     "label": "Walking comfort",
+     "value": "",
+     "placeholder": "e.g. up to 15,000 steps a day, no steep climbs"
+    },
+    {
+     "key": "interests",
+     "label": "Food, shopping and nightlife priorities",
+     "value": "Food markets and street food, one palace, one hike or nature spot, a nightlife neighbourhood and some shopping"
+    }
+   ],
+   "template": "Plan my Seoul trip for {dates}, with {travellers}, {flights}, {budget}, {rooms}, {walking} and {interests}. Make the route manageable, separate price examples from quotes for my dates, and show entry checks, rainy-day swaps and airport buffers. Plan only; do not book or pay.",
+   "phases": [
+    {
+     "title": "Check entry rules, airport and city transport, hotel prices and blossom timing",
+     "note": "K-ETA rules for Hong Kong passports, airport trains and a few Hongdae hotel prices",
+     "judgment": "It would not promise visa-free entry. The official K-ETA exemption for Hong Kong passports ends on 31 December 2026 and nothing official yet covers April 2027, so the plan says to re-check and, unless an extension appears, get K-ETA approval before boarding."
+    },
+    {
+     "title": "Write the day-by-day plan, the cost table and the source notes",
+     "note": "Daily routes, a budget with contingency and dated sources",
+     "judgment": "Hotel prices are only examples. The L7 Hongdae price (US$335 a night) came from an undated search listing that the page itself would not confirm, so it is marked unconfirmed and the US$121-a-night option is the one to start from."
+    },
+    {
+     "title": "Final check of the files, the budget sums and the page layout",
+     "judgment": "It said plainly what it could not finish: the layout and budget checks passed, but the screenshot step timed out, so how the page looks was not fully inspected."
+    }
+   ],
+   "workers": [
+    "Found hotel options around Hongdae, with the prices shown publicly and the date each was seen",
+    "Read Korea’s official entry pages for Hong Kong passport holders: the K-ETA exemption and its end date, the fee and the arrival card"
+   ],
+   "chipNames": {
+    "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y": "K-ETA: notice on the temporary exemption",
+    "https://www.k-eta.go.kr/portal/guide/viewetaapplication.do": "K-ETA: how to apply",
+    "https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN": "Korea e-Arrival Card portal",
+    "https://www.airportrailroad.com/train/normal/fare": "Airport Railroad: all-stop train fares",
+    "https://english.visitseoul.net/seoul-transportation": "Visit Seoul: getting around",
+    "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1570512": "Korea Tourism Organization: cherry blossom forecast",
+    "https://royal.khs.go.kr/ENG/contents/E101010000.do?schGroupCode=gbg&schGroupCodeNm=Gyeongbokgung": "Gyeongbokgung Palace: official visitor information",
+    "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286": "Visit Seoul: Gwangjang Market",
+    "https://www.kayak.com/Seoul-Hotels-Holiday-Inn-Express-Seoul-Hongdae.4078899.ksp": "Holiday Inn Express Hongdae: public price listing"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的日期、护照和预算，得到同样的首尔行程，并先查清入境规定",
+   "runTitle": "香港到首尔：两位朋友，2027 年 4 月四天，每人约 1,200 美元",
+   "fields": [
+    {
+     "key": "dates",
+     "label": "旅行日期",
+     "value": "2027 年 4 月 15 日（周四）至 4 月 18 日（周日）"
+    },
+    {
+     "key": "travellers",
+     "label": "同行人数和护照种类",
+     "value": "两位 20 代后期的朋友，从香港出发"
+    },
+    {
+     "key": "flights",
+     "label": "航班及机场航站楼",
+     "value": "4 月 15 日上午到达，4 月 18 日晚上离开"
+    },
+    {
+     "key": "budget",
+     "label": "预算和币种",
+     "value": "每人约 1,200 美元，不含机票"
+    },
+    {
+     "key": "rooms",
+     "label": "房间需求",
+     "value": "",
+     "placeholder": "例如：两人住一间双床房"
+    },
+    {
+     "key": "walking",
+     "label": "可接受的步行强度",
+     "value": "",
+     "placeholder": "例如：每天最多走 15,000 步，不爬陡坡"
+    },
+    {
+     "key": "interests",
+     "label": "餐饮、购物及夜生活偏好",
+     "value": "美食市场和街头小吃、一座宫殿、一处登山或自然景点、一个夜生活区，再加一点购物"
+    }
+   ],
+   "template": "请按{dates}、{travellers}、{flights}、{budget}、{rooms}、{walking}和{interests}，帮我安排首尔旅行。路线别太赶，分清价格例子和我的日期实际报价，列出入境核查、雨天替换及机场缓冲。只做计划，不预订、不付款。",
+   "phases": [
+    {
+     "title": "核对入境规定、机场与市内交通、酒店价格和花期",
+     "note": "香港护照的 K-ETA 规定、机场铁路和弘大几家酒店的价格",
+     "judgment": "它没有轻率承诺免签入境。香港护照的官方 K-ETA 豁免只到 2026 年 12 月 31 日，2027 年 4 月目前没有官方说法，所以方案提醒出发前再核对；若没有延期，就要在登机前办好 K-ETA。"
+    },
+    {
+     "title": "写出逐日行程、费用表和来源说明",
+     "note": "每日路线、含备用金的预算和带日期的来源",
+     "judgment": "酒店价格只是示例。弘大 L7 的 335 美元一晚来自一条没有入住日期的搜索结果，页面本身也无法确认，所以标为未确认，建议先从 121 美元一晚的那家看起。"
+    },
+    {
+     "title": "最后核对文件、预算算式和页面排版",
+     "judgment": "它直说了没做完的部分：排版和预算核对通过，但截图步骤超时，页面的实际外观没能完整检查。"
+    }
+   ],
+   "workers": [
+    "找出弘大一带的酒店选项，记下公开可见的价格和查看日期",
+    "读韩国官方对香港护照持有人的入境页面：K-ETA 豁免及到期日、费用和入境卡"
+   ],
+   "chipNames": {
+    "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y": "K-ETA：临时豁免公告",
+    "https://www.k-eta.go.kr/portal/guide/viewetaapplication.do": "K-ETA：申请方式",
+    "https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN": "韩国电子入境卡（e-Arrival Card）",
+    "https://www.airportrailroad.com/train/normal/fare": "机场铁路：普通列车票价",
+    "https://english.visitseoul.net/seoul-transportation": "Visit Seoul：首尔交通",
+    "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1570512": "韩国观光公社：樱花预报",
+    "https://royal.khs.go.kr/ENG/contents/E101010000.do?schGroupCode=gbg&schGroupCodeNm=Gyeongbokgung": "景福宫：官方参观信息",
+    "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286": "Visit Seoul：广藏市场",
+    "https://www.kayak.com/Seoul-Hotels-Holiday-Inn-Express-Seoul-Hongdae.4078899.ksp": "弘大智选假日酒店：公开价格页"
+   }
+  }
+ }
+}

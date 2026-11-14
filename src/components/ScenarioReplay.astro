@@ -1,0 +1,222 @@
+---
+// "Use your own situation" form + compressed real-run replay shown above a scenario guide.
+import { clock, replayCopy, scenarioReplay } from "@/lib/scenario-replay";
+import type { AnyLocale } from "@/lib/site";
+
+type Props = { slug: string; locale: AnyLocale };
+const { slug, locale } = Astro.props;
+const found = scenarioReplay(slug, locale);
+const copy = replayCopy(locale);
+const domain = (url: string) => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return url; } };
+const fill = (template: string, fields: { key: string; label: string; value: string }[]) =>
+  template.replace(/\{(\w+)\}/g, (_, key) => {
+    const f = fields.find((x) => x.key === key);
+    return f?.value || `[${f?.label ?? key}]`;
+  });
+---
+
+{found && copy && (() => {
+  const { data, text } = found;
+  return (
+    <>
+      <section class="rp-card rp-ask" data-replay-ask data-template={text.template} data-copied={copy.copied} data-copy-fail={copy.copyFail}>
+        <p class="rp-eyebrow">{copy.askEyebrow}</p>
+        <h2>{text.askTitle}</h2>
+        <p class="rp-sub">{copy.askSub}</p>
+        <div class="rp-fields">
+          {text.fields.map((f) => (
+            <label class="rp-field"><span>{f.label}</span>
+              <input data-key={f.key} data-label={f.label} value={f.value} placeholder={f.placeholder ?? ""} />
+            </label>
+          ))}
+        </div>
+        <p class="rp-prompt" aria-label={copy.formLabel} data-prompt>{fill(text.template, text.fields)}</p>
+        <div class="rp-actions">
+          <button type="button" class="rp-btn" data-copy>{copy.copy}</button>
+          <a class="rp-ghost" href="#replay">{copy.seeRun}</a>
+          <span class="rp-note" role="status" data-status></span>
+        </div>
+      </section>
+
+      <section class="rp-card" id="replay" data-replay data-total={data.activeSec}
+        data-play={copy.play} data-playing={copy.playing} data-replay-label={copy.replay}>
+        <p class="rp-eyebrow">{copy.runEyebrow} · {data.startedAt}</p>
+        <h2>{text.runTitle}</h2>
+        <p class="rp-headline">{copy.summary(data.activeSec, data.stats).join(" · ")}</p>
+        <div class="rp-bar">
+          <button type="button" class="rp-btn" data-play-btn>{copy.play}</button>
+          <div class="rp-track"><i data-prog></i></div>
+          <span class="rp-clock" data-clock>{clock(data.activeSec)}</span><span class="rp-total">/ {clock(data.activeSec)}</span>
+        </div>
+        <ol class="rp-phases" data-phases>
+          {data.phases.map((p, i) => {
+            const t = text.phases[i] ?? { title: "" };
+            return (
+              <li class="rp-phase on" data-end={p.end}>
+                <div class="rp-ph-head"><time>{clock(p.start)}</time><span class="rp-dot"></span><h3>{t.title}</h3></div>
+                <div class="rp-ph-body">
+                  {t.note && <p>{t.note}</p>}
+                  {p.workers.length > 0 && (
+                    <ul class="rp-lane">
+                      {p.workers.map((w) => (
+                        <li>
+                          <b>{copy.colleague} {w.n}</b><span>{text.workers[w.n - 1]}</span><em>{copy.minutes(w.minutes)}</em>
+                          {w.parallel && <i class="rp-par">{copy.parallel}</i>}
+                          {w.review && <i class="rp-rev">{copy.review}</i>}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                  {p.chips.length > 0 && (
+                    <div class="rp-chips">
+                      {p.chips.map((url) => <a class="rp-chip" href={url} target="_blank" rel="noopener nofollow">{text.chipNames[url] ?? domain(url)}</a>)}
+                    </div>
+                  )}
+                  {t.judgment && <div class="rp-judge"><b>{copy.judgment}</b>{t.judgment}</div>}
+                </div>
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+      <p class="rp-divider">{copy.divider}</p>
+    </>
+  );
+})()}
+
+<script>
+  document.querySelectorAll<HTMLElement>("[data-replay-ask]").forEach((ask) => {
+    const template = ask.dataset.template ?? "";
+    const inputs = [...ask.querySelectorAll<HTMLInputElement>("input[data-key]")];
+    const prompt = ask.querySelector<HTMLElement>("[data-prompt]");
+    const status = ask.querySelector<HTMLElement>("[data-status]");
+    const text = (mark: boolean) => {
+      const frag = document.createDocumentFragment();
+      let last = 0;
+      for (const m of template.matchAll(/\{(\w+)\}/g)) {
+        frag.append(template.slice(last, m.index));
+        const input = inputs.find((i) => i.dataset.key === m[1]);
+        const value = input?.value.trim();
+        const node = document.createElement("mark");
+        node.textContent = value || `[${input?.dataset.label ?? m[1]}]`;
+        if (!value) node.className = "rp-empty";
+        frag.append(mark ? node : node.textContent);
+        last = (m.index ?? 0) + m[0].length;
+      }
+      frag.append(template.slice(last));
+      return frag;
+    };
+    const render = () => prompt?.replaceChildren(text(true));
+    inputs.forEach((i) => i.addEventListener("input", render));
+    render();
+    ask.querySelector("[data-copy]")?.addEventListener("click", async () => {
+      const holder = document.createElement("div");
+      holder.append(text(false));
+      try { await navigator.clipboard.writeText(holder.textContent ?? ""); if (status) status.textContent = ask.dataset.copied ?? ""; }
+      catch { if (status) status.textContent = ask.dataset.copyFail ?? ""; }
+    });
+  });
+
+  document.querySelectorAll<HTMLElement>("[data-replay]").forEach((root) => {
+    const list = root.querySelector<HTMLElement>("[data-phases]");
+    const btn = root.querySelector<HTMLButtonElement>("[data-play-btn]");
+    const prog = root.querySelector<HTMLElement>("[data-prog]");
+    const clockEl = root.querySelector<HTMLElement>("[data-clock]");
+    if (!list || !btn || !prog || !clockEl) return;
+    const phases = [...list.children] as HTMLElement[];
+    const total = Number(root.dataset.total) || 1;
+    const fmt = (t: number) => `${String(Math.floor(t / 60)).padStart(2, "0")}:${String(Math.floor(t % 60)).padStart(2, "0")}`;
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    let timer: number | undefined;
+    let idx = 0;
+    let played = false;
+    const show = (i: number) => {
+      phases.forEach((p, j) => { p.classList.toggle("on", j <= i); p.classList.toggle("now", j === i); });
+      const end = Number(phases[i].dataset.end);
+      prog.style.width = `${Math.min(100, (end / total) * 100)}%`;
+      clockEl.textContent = fmt(end);
+    };
+    const finish = () => {
+      window.clearInterval(timer); timer = undefined; idx = phases.length;
+      phases.forEach((p) => { p.classList.add("on"); p.classList.remove("now"); });
+      prog.style.width = "100%"; clockEl.textContent = fmt(total); btn.textContent = root.dataset.replayLabel ?? "";
+    };
+    const play = () => {
+      played = true; idx = 0; list.classList.add("playing");
+      btn.textContent = root.dataset.playing ?? "";
+      show(idx);
+      timer = window.setInterval(() => { idx += 1; if (idx >= phases.length) finish(); else show(idx); }, 2200);
+    };
+    finish();
+    btn.textContent = root.dataset.play ?? "";
+    btn.addEventListener("click", () => (timer ? finish() : play()));
+    if (!reduce && "IntersectionObserver" in window) {
+      const io = new IntersectionObserver((entries) => {
+        if (entries.some((e) => e.isIntersecting) && !played) { io.disconnect(); play(); }
+      }, { threshold: 0.35 });
+      io.observe(list);
+    }
+  });
+</script>
+
+<style>
+  .rp-card { margin: 28px 0; padding: 28px 30px; border: 1px solid var(--line2); border-radius: 18px; background: linear-gradient(180deg, #ffffff09, #ffffff03); }
+  .rp-card h2 { margin: 4px 0 8px; font-size: clamp(20px, 2.4vw, 26px); line-height: 1.3; letter-spacing: -.01em; }
+  .rp-eyebrow { margin: 0; font-family: var(--mono); font-size: 12px; letter-spacing: .08em; color: var(--accent); text-transform: uppercase; }
+  .rp-sub { margin: 0 0 18px; color: var(--muted); font-size: 15px; line-height: 1.7; }
+  .rp-ask { border-color: #ff6a3d59; }
+  .rp-fields { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 10px 14px; margin-bottom: 16px; }
+  .rp-field { display: flex; flex-direction: column; gap: 5px; font-size: 13px; color: var(--muted); }
+  .rp-field input { background: #00000059; border: 1px solid var(--line2); border-radius: 9px; color: var(--text); padding: 9px 11px; font: inherit; font-size: 14px; min-width: 0; }
+  .rp-field input:focus { outline: none; border-color: var(--accent); }
+  .rp-field input::placeholder { color: #f7f1ec52; }
+  .rp-prompt { white-space: pre-wrap; background: #00000066; border: 1px dashed #ffffff24; border-radius: 12px; padding: 14px 16px; font-size: 14px; line-height: 1.75; color: var(--text); margin: 0 0 14px; overflow-wrap: anywhere; }
+  .rp-prompt :global(mark) { background: #ff6a3d2e; color: #ffb59c; border-radius: 4px; padding: 0 3px; }
+  .rp-prompt :global(mark.rp-empty) { background: transparent; color: var(--faint); border: 1px dashed #ffffff33; }
+  .rp-actions, .rp-bar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .rp-btn { cursor: pointer; border: 0; border-radius: 999px; padding: 9px 18px; background: var(--accent); color: #170a05; font: inherit; font-weight: 600; font-size: 14px; }
+  .rp-ghost { color: var(--text); border: 1px solid var(--line2); border-radius: 999px; padding: 8px 16px; font-size: 14px; text-decoration: none; }
+  .rp-note { color: var(--accent2); font-size: 13px; }
+  .rp-headline { margin: 2px 0 18px; font-size: 15px; color: var(--text); line-height: 1.6; }
+  .rp-track { flex: 1; min-width: 120px; height: 4px; border-radius: 4px; background: #ffffff14; overflow: hidden; }
+  .rp-track i { display: block; height: 100%; width: 100%; background: var(--accent); transition: width .2s linear; }
+  .rp-clock, .rp-total { font-family: var(--mono); font-size: 13px; color: var(--muted); }
+  .rp-total { color: var(--faint); margin-left: -6px; }
+  .rp-phases { list-style: none; margin: 20px 0 6px; padding: 0; position: relative; }
+  .rp-phases::before { content: ""; position: absolute; left: 62px; top: 8px; bottom: 8px; width: 1px; background: var(--line2); }
+  .rp-phase { padding: 0 0 22px; transition: opacity .5s; }
+  .rp-phases.playing .rp-phase { opacity: .18; }
+  .rp-phases.playing .rp-phase.on { opacity: 1; }
+  .rp-ph-head { display: grid; grid-template-columns: 48px 30px 1fr; align-items: center; }
+  .rp-ph-head time { font-family: var(--mono); font-size: 12px; color: var(--faint); }
+  .rp-dot { width: 11px; height: 11px; border-radius: 50%; border: 2px solid var(--line2); background: var(--bg); justify-self: center; margin-left: -2px; position: relative; z-index: 1; }
+  .rp-phase.on .rp-dot { border-color: var(--accent); background: var(--accent); }
+  .rp-phase.now .rp-dot { box-shadow: 0 0 0 6px #ff6a3d2e; }
+  .rp-ph-head h3 { margin: 0; font-size: 17px; color: var(--text); }
+  .rp-ph-body { margin-left: 78px; }
+  .rp-ph-body > p { margin: 6px 0 0; font-size: 14px; color: var(--muted); line-height: 1.6; }
+  .rp-lane { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+  .rp-lane li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; padding: 8px 12px; border: 1px solid var(--line2); border-radius: 10px; background: #ffffff05; font-size: 14px; color: var(--text); transition: opacity .5s, transform .5s; }
+  .rp-lane b { font-family: var(--mono); font-size: 11px; font-weight: 500; color: var(--faint); min-width: 52px; }
+  .rp-lane span { flex: 1; min-width: 180px; line-height: 1.55; }
+  .rp-lane em { font-style: normal; font-family: var(--mono); font-size: 12px; color: var(--faint); }
+  .rp-lane i { font-style: normal; font-size: 11px; padding: 1px 8px; border-radius: 999px; }
+  .rp-par { color: #8fb8ff; border: 1px solid #8fb8ff59; }
+  .rp-rev { color: #46d39a; border: 1px solid #46d39a59; }
+  .rp-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .rp-chip { font-size: 12px; padding: 4px 10px; border-radius: 999px; border: 1px solid #46d39a59; color: #46d39a; text-decoration: none; }
+  .rp-chip:hover { background: #46d39a14; }
+  .rp-judge { margin-top: 12px; padding: 12px 14px; border-left: 3px solid var(--accent); background: #ff6a3d12; border-radius: 0 10px 10px 0; font-size: 15px; line-height: 1.7; color: var(--text); transition: transform .5s, opacity .5s; }
+  .rp-judge b { display: block; font-family: var(--mono); font-size: 11px; letter-spacing: .08em; color: var(--accent); font-weight: 500; margin-bottom: 2px; }
+  .rp-phases.playing .rp-phase:not(.on) .rp-judge { opacity: 0; transform: translateY(8px); }
+  .rp-phases.playing .rp-phase:not(.on) .rp-lane li { opacity: 0; transform: translateX(-6px); }
+  .rp-divider { margin: 44px 0 8px; padding-top: 18px; border-top: 1px dashed var(--line2); color: var(--faint); font-size: 13px; font-family: var(--mono); }
+  @media (max-width: 720px) {
+    .rp-card { padding: 20px 16px; }
+    .rp-phases::before { left: 52px; }
+    .rp-ph-head { grid-template-columns: 40px 26px 1fr; }
+    .rp-ph-body { margin-left: 0; padding-left: 66px; }
+    .rp-lane span { min-width: 0; flex-basis: 100%; }
+  }
+  @media (prefers-reduced-motion: reduce) { .rp-phase, .rp-judge, .rp-lane li, .rp-track i { transition: none; } }
+</style>

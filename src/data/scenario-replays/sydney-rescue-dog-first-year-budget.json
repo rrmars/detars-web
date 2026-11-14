@@ -1,0 +1,129 @@
+{
+ "slug": "sydney-rescue-dog-first-year-budget",
+ "startedAt": "2026-11-06",
+ "activeSec": 1295,
+ "stats": {
+  "searches": 31,
+  "pages": 53,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 39,
+   "end": 913,
+   "chips": [
+    "https://www.nsw.gov.au/housing-and-construction/rules/pets-rentals",
+    "https://www.rspcansw.org.au/adoption-or-foster/adoption-process/adoption-fees/",
+    "https://www.petregistry.olg.nsw.gov.au/pets/nsw-pet-registry/registration-and-permit-fees/pet-registration-fees",
+    "https://www.innerwest.nsw.gov.au/dogs/dog-exercise-areas",
+    "https://kip.com.au/locations/marrickville/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 8,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 913,
+   "end": 1038,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1038,
+   "end": 1226,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own suburb, work days and savings and get the same first-year dog budget before you adopt",
+   "runTitle": "Sydney's inner west: can a hybrid-working couple afford a rescue dog in the first year?",
+   "fields": [
+    {
+     "key": "home",
+     "label": "Sydney suburb and rental type",
+     "value": "Marrickville, renting a 2-bedroom apartment"
+    },
+    {
+     "key": "schedule",
+     "label": "Office days and door-to-door absences",
+     "value": "Both work hybrid, 3 days a week in the office"
+    },
+    {
+     "key": "surplus",
+     "label": "Comfortable monthly surplus",
+     "value": "",
+     "placeholder": "e.g. $800 a month"
+    },
+    {
+     "key": "savings",
+     "label": "Separate emergency savings",
+     "value": "",
+     "placeholder": "e.g. $5,000"
+    },
+    {
+     "key": "dog",
+     "label": "Dog's assessed needs",
+     "value": "Medium-sized rescue dog, adopted in early 2027"
+    }
+   ],
+   "template": "Help us plan for an adult rescue dog in {home}. Our office days and door-to-door absences are {schedule}, our comfortable monthly surplus is {surplus}, and our separate emergency savings are {savings}. Compare rental/strata steps, a realistic budget and suitable daytime care for {dog}. Separate published prices from allowances and list what we must confirm with the rescue, vet, insurer and care provider. Draft any questions for us to send; do not submit forms, contact anyone or make commitments on our behalf.",
+   "phases": [
+    {
+     "title": "Check the NSW rental pet rules, shelter fees, registration and local care prices in public sources",
+     "note": "Rental rules, adoption fees, registration, vet, training, daycare and insurance prices",
+     "judgment": "It caught a price that would have flattered the budget: a Marrickville daycare's $26 a day is a three-day introductory pack, not an ongoing rate, so the guide says the regular price is unconfirmed."
+    },
+    {
+     "title": "Build the first-year and ongoing budgets and the guide, with every calculation shown",
+     "note": "Year one, year two onwards, office-day care options and a fostering suggestion",
+     "judgment": "It showed how much the answer swings with daycare instead of giving one comfortable number: one daycare day a week costs $9,123.61 in year one and $7,593.61 a year after, while three days a week lifts year one to $15,363.61. Emergency savings stay separate."
+    },
+    {
+     "title": "Independent arithmetic check and page tests at desktop and phone widths",
+     "judgment": "The independent recount passed with no double counting of the emergency savings, and it caught a date the sources did not support: the guide said the Fair Trading page was “updated 8 October 2026”. It now says the page was checked on 6 November 2026."
+    }
+   ],
+   "workers": [
+    "Read the official NSW rules on tenants keeping pets, the pet registry fees and the Inner West off-leash areas",
+    "Collected current adoption fees and inclusions from Sydney rescues, plus what they say about leaving dogs alone and fostering",
+    "Collected published prices for vet visits, training, dog walking, daycare and pet insurance",
+    "Recomputed the budget independently and checked the report against its sources"
+   ],
+   "chipNames": {
+    "https://www.nsw.gov.au/housing-and-construction/rules/pets-rentals": "NSW Government: pets in rental homes",
+    "https://www.rspcansw.org.au/adoption-or-foster/adoption-process/adoption-fees/": "RSPCA NSW: adoption fees",
+    "https://www.petregistry.olg.nsw.gov.au/pets/nsw-pet-registry/registration-and-permit-fees/pet-registration-fees": "NSW Pet Registry: registration fees",
+    "https://www.innerwest.nsw.gov.au/dogs/dog-exercise-areas": "Inner West Council: dog exercise areas",
+    "https://kip.com.au/locations/marrickville/": "Kip Marrickville: daycare prices"
+   }
+  }
+ }
+}

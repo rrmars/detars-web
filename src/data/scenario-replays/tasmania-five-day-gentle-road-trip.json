@@ -1,0 +1,194 @@
+{
+ "slug": "tasmania-five-day-gentle-road-trip",
+ "startedAt": "2026-11-05",
+ "activeSec": 1384,
+ "stats": {
+  "searches": 53,
+  "pages": 29,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 34,
+   "end": 881,
+   "chips": [
+    "https://parks.tas.gov.au/explore-our-parks/know-before-you-go/park-passes-and-entry-fees",
+    "https://mona.net.au/visit",
+    "https://portarthur.org.au/whats-on/generaladmission/",
+    "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay-lookout",
+    "https://drivecarhire.com.au/about/faq/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 6,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 881,
+   "end": 1211,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1211,
+   "end": 1345,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own dates, budget and drivers to get a Tasmania road trip with the costs and drive times checked",
+   "runTitle": "Melbourne to Tasmania: five gentle days for two on about AUD 2,600",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "Travellers and walking comfort",
+     "value": "A couple from Melbourne; easy-to-moderate walks"
+    },
+    {
+     "key": "dates",
+     "label": "Dates and flight times",
+     "value": "Fly into Hobart Fri 19 Feb 2027, out of Launceston Wed 24 Feb 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget, with or without flights",
+     "value": "About AUD 2,600 for two, excluding flights"
+    },
+    {
+     "key": "rooms",
+     "label": "Room quotes you already have",
+     "value": "",
+     "placeholder": "e.g. Hobart, 3 nights at AUD 190 a night"
+    },
+    {
+     "key": "drivers",
+     "label": "Driver ages, licence documents and experience",
+     "value": "",
+     "placeholder": "e.g. two drivers aged 30 and 32, Australian licences, comfortable on country roads"
+    },
+    {
+     "key": "pickup",
+     "label": "Rental pickup and return times",
+     "value": "",
+     "placeholder": "e.g. pick up 11:00 at Hobart Airport, return by 11:00 at Launceston Airport"
+    }
+   ],
+   "template": "Plan a gentle Tasmania trip for {travellers} on {dates}, with {budget}, {rooms}, {drivers} and {pickup}. Compare Hobart, the Tasman Peninsula, Swansea, Freycinet and Launceston without Cradle Mountain's long detour. Check complete room/car costs, park passes, weather alternatives and uphill walking limits. Plan only; do not book, sign up, contact suppliers or pay.",
+   "phases": [
+    {
+     "title": "Check official entry prices, drive times, places to stay and rental-car costs",
+     "note": "Park pass, MONA, Port Arthur, Wineglass Bay, one-way car hire",
+     "judgment": "It caught a price trap before budgeting: Swansea Motor Inn advertises a room from $125, but the same booking grid showed $322 for the 22 February night, so it did not budget $125. It also ruled out Cradle Mountain as a side trip: about 2 h 56 min and 259 km more driving."
+    },
+    {
+     "title": "Build the day-by-day itinerary and a budget that adds up, with source notes",
+     "note": "An independent check of the dates, sums and route came along the way",
+     "judgment": "The independent colleague recalculated the budget (AUD 2,466.35 plus a 133.65 buffer makes 2,600) and said plainly that the room prices are undated “from” rates that cannot prove the trip fits AUD 2,600. The plan is therefore labelled conditional, not guaranteed."
+    },
+    {
+     "title": "Final check of both files and saving them in the folder"
+    }
+   ],
+   "workers": [
+    "Collected driving times for every leg from a named route planner, weighed up the Cradle Mountain detour, and checked car-rental costs including the one-way fee",
+    "Found six places to stay across Hobart, Swansea and Launceston, with the prices they publish and what each price does and doesn’t cover",
+    "Independently checked the finished itinerary for dates, sums and whether the route is realistic"
+   ],
+   "chipNames": {
+    "https://parks.tas.gov.au/explore-our-parks/know-before-you-go/park-passes-and-entry-fees": "Tasmania parks pass and entry fees (Parks and Wildlife Service)",
+    "https://mona.net.au/visit": "MONA visitor information",
+    "https://portarthur.org.au/whats-on/generaladmission/": "Port Arthur general admission",
+    "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay-lookout": "Wineglass Bay Lookout (Parks and Wildlife Service)",
+    "https://drivecarhire.com.au/about/faq/": "Drive Car Hire FAQ: one-way rentals"
+   }
+  },
+  "zh": {
+   "askTitle": "填上你自己的日期、预算和驾驶员，得到一份花费和车程都核对过的塔斯马尼亚自驾行程",
+   "runTitle": "墨尔本出发：两人塔斯马尼亚五天轻松游，预算约 2,600 澳元",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "旅客人数和步行体力",
+     "value": "来自墨尔本的一对夫妻；轻松到中等强度的步道"
+    },
+    {
+     "key": "dates",
+     "label": "日期及航班时间",
+     "value": "2027 年 2 月 19 日（周五）飞抵霍巴特，2 月 24 日（周三）从朗塞斯顿离开"
+    },
+    {
+     "key": "budget",
+     "label": "预算金额及是否含机票",
+     "value": "两人约 2,600 澳元，不含机票"
+    },
+    {
+     "key": "rooms",
+     "label": "已有的房间报价",
+     "value": "",
+     "placeholder": "例如：霍巴特 3 晚，每晚 190 澳元"
+    },
+    {
+     "key": "drivers",
+     "label": "驾驶员年龄、驾照证件和经验",
+     "value": "",
+     "placeholder": "例如：两位驾驶员 30 岁和 32 岁，持澳大利亚驾照，熟悉乡间道路"
+    },
+    {
+     "key": "pickup",
+     "label": "取还车时间",
+     "value": "",
+     "placeholder": "例如：11:00 在霍巴特机场取车，次日 11:00 前在朗塞斯顿机场还车"
+    }
+   ],
+   "template": "请为{travellers}规划{dates}的轻松塔斯马尼亚旅行，预算{budget}，房间报价{rooms}，驾驶员{drivers}，取还车时间{pickup}。比较霍巴特、塔斯曼半岛、斯旺西、Freycinet 和朗塞斯顿，不加摇篮山长途绕行。核对住宿与租车全价、公园通票、天气替代和上坡步道限制。只做计划；不要预订、注册、联系供应商或付款。",
+   "phases": [
+    {
+     "title": "核对官方门票价格、车程、住处和租车费用",
+     "note": "国家公园通票、MONA、亚瑟港、酒杯湾、异地租车",
+     "judgment": "编预算前先识破了一个价格陷阱：斯旺西 Swansea Motor Inn 标着房价 125 澳元起，但同一份订房日历里 2 月 22 日那晚显示 322 澳元，所以没有按 125 澳元做预算。它还否掉了摇篮山这个顺路点：要多开约 2 小时 56 分钟、259 公里。"
+    },
+    {
+     "title": "做出逐日行程和加得起来的预算，并附来源说明",
+     "note": "途中有一位同事独立检查了日期、金额和路线",
+     "judgment": "独立检查的同事重算了预算（2,466.35 澳元加 133.65 澳元缓冲，正好 2,600 澳元），并直说住宿价格是没标日期的“起价”，不能证明这趟行程真能控制在 2,600 澳元内，所以计划标注为“有条件”，而不是保证。"
+    },
+    {
+     "title": "最后检查两份文件，并存到指定文件夹"
+    }
+   ],
+   "workers": [
+    "用指定的路线规划网站查了每一段路的车程，比较了摇篮山绕行的代价，并核对租车费用，包括异地还车费",
+    "在霍巴特、斯旺西和朗塞斯顿找了六个住处，记下它们公布的价格以及每个价格包含和不包含什么",
+    "独立检查成稿，核对日期、金额，以及路线是否现实"
+   ],
+   "chipNames": {
+    "https://parks.tas.gov.au/explore-our-parks/know-before-you-go/park-passes-and-entry-fees": "塔斯马尼亚国家公园通票和门票（公园管理局）",
+    "https://mona.net.au/visit": "MONA 参观信息",
+    "https://portarthur.org.au/whats-on/generaladmission/": "亚瑟港普通门票",
+    "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay-lookout": "酒杯湾观景台（公园管理局）",
+    "https://drivecarhire.com.au/about/faq/": "Drive 租车常见问题：异地还车"
+   }
+  }
+ }
+}

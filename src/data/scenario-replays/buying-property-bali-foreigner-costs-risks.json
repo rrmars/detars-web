@@ -1,0 +1,229 @@
+{
+ "slug": "buying-property-bali-foreigner-costs-risks",
+ "startedAt": "2026-11-05",
+ "activeSec": 2460,
+ "stats": {
+  "searches": 67,
+  "pages": 76,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 32,
+   "end": 389,
+   "chips": [
+    "https://jdih.atrbpn.go.id/peraturan/detail/1109/keputusan-menteri-agraria-dan-tata-ruang-kepala-badan-pertanahan-nasional-nomor-1241-sk-hk-02-ix-2022-tahun-2022",
+    "https://peraturan.bpk.go.id/Download/154522/PP%20Nomor%2018%20Tahun%202021.pdf",
+    "https://www.baliprov.go.id/web/gubernur-koster-batasi-akses-oss-untuk-pma-di-sejumlah-kbli-lindungi-umkm-lokal-dari-persaingan-tidak-sehat",
+    "https://pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-persewaan-tanah-danatau-bangunan",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/income-received-from-overseas"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 389,
+   "end": 1349,
+   "chips": [
+    "https://jdih-baliprov-go-id.s3.ap-southeast-3.amazonaws.com/uploads/produk-hukum/peraturan/signed/2026/perda/2026pd00514.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAU75RXJDFSI7PNLQY%2F20261105%2Fap-southeast-3%2Fs3%2Faws4_request&X-Amz-Date=20261105T061400Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=d25362a64f2b265626fd648a2c2d0258056f3921ac593d032d55af6bb41e1949",
+    "https://jdih.kemenkeu.go.id/api/download/ad276b82-94bd-4197-b409-af33e2842cd6/2024pmkeuangan131.pdf",
+    "https://peraturan.bpk.go.id/Details/344913/perda-kab-badung-no-8-tahun-2025",
+    "https://jordanlegal.id/insights/villa-rental-licence-bali-kbli/"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 4,
+     "parallel": true,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1349,
+   "end": 2226,
+   "chips": [
+    "https://jdih.badungkab.go.id/storage/produk-hukum/peraturan-perundang-undangan/2023/perda/2023perda5103007.pdf"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2226,
+   "end": 2393,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "zh": {
+   "askTitle": "换成你的国籍、预算和自住晚数，产权、税费和出租现实就按你的情况重算",
+   "runTitle": "新加坡公民在巴厘岛买房：预算约 $300,000，自住几个月、其余时间出租",
+   "fields": [
+    {
+     "key": "area",
+     "label": "巴厘岛地区及房产",
+     "value": "Canggu/Pererenan 或 Uluwatu 一带的小型别墅或公寓"
+    },
+    {
+     "key": "cash",
+     "label": "总现金",
+     "value": "最多约 30 万美元"
+    },
+    {
+     "key": "status",
+     "label": "国籍和税务居民身份",
+     "value": "新加坡公民"
+    },
+    {
+     "key": "year",
+     "label": "计划购买年份",
+     "value": "2027 年"
+    },
+    {
+     "key": "nights",
+     "label": "自住晚数",
+     "value": "每年几个月"
+    },
+    {
+     "key": "rental",
+     "label": "出租安排",
+     "value": "其余时间出租"
+    }
+   ],
+   "template": "请为我比较{area}：总现金{cash}，国籍和税务居民身份{status}，计划{year}购买，自住{nights}，出租安排{rental}。分清租赁与产权、全包现金、不同税务情况、合法出租要求、租期耗损和无法出租的支出；列付款前需取得的书面答复，包括仍待确认的 2027 规则。广告只当卖方说法，不当作合法投资认证或回报保证；不要替我联系中介、提交表格、开户或付款。",
+   "phases": [
+    {
+     "title": "读印尼官方法规，查外国人能持有什么、怎么出租、怎么交税",
+     "note": "土地部令、投资法规、巴厘省政府公告，以及新加坡税局对境外收入的规定",
+     "judgment": "有一家律所的摘要，把巴厘岛公寓的外国人购买价格下限写成 30 亿印尼盾（和雅加达混在一起）。它翻开官方部令原文第 3 页核对，实际是 20 亿。"
+    },
+    {
+     "title": "找并核对预算内的在售房源",
+     "note": "8 套在售房源，广告标价 $175,000–248,000",
+     "judgment": "房源广告只当卖方说法。它逐套打开页面，把对不上的地方记了下来：一套公寓页面写着建筑许可（IMB）还在办理中，一套的土地和建筑面积前后矛盾；剩余租期页面上没有的，就不推算，标成待确认。"
+    },
+    {
+     "title": "搭购置成本和出租收益模型，写 HTML 摘要",
+     "note": "购房税费、年持有成本，以及可改参数的出租情景（自住 90 晚）"
+    },
+    {
+     "title": "核对公式和页面，交付",
+     "judgment": "独立复核的同事把工作簿拷到隔离副本里重算，发现存着的公式结果全是 0（用预览打开会显示成本为零），还发现出租条件不成立时，保本房价会算出一个看似可达的数字。保本公式随后加上了“无法保本”的分支，最终 234 条公式重算无报错。"
+    }
+   ],
+   "workers": [
+    "读印尼官方法规原文，查外国人能持有哪种产权（租赁权、Hak Pakai、PT PMA、代持），哪些做法行不通",
+    "找 8 套预算内的在售房源（Canggu/Pererenan 4 套、Uluwatu 4 套），逐套打开页面记价格、产权和租期",
+    "查短租是否合法、要什么许可，以及购房税、年度税和租金所得税",
+    "独立复核财务模型：改参数做边界测试，核对工作簿和网页里的数字一致"
+   ],
+   "chipNames": {
+    "https://jdih.atrbpn.go.id/peraturan/detail/1109/keputusan-menteri-agraria-dan-tata-ruang-kepala-badan-pertanahan-nasional-nomor-1241-sk-hk-02-ix-2022-tahun-2022": "土地部令 1241/2022（外国人购房价格下限）",
+    "https://peraturan.bpk.go.id/Download/154522/PP%20Nomor%2018%20Tahun%202021.pdf": "政府条例 PP 18/2021",
+    "https://www.baliprov.go.id/web/gubernur-koster-batasi-akses-oss-untuk-pma-di-sejumlah-kbli-lindungi-umkm-lokal-dari-persaingan-tidak-sehat": "巴厘省政府：限制外资 OSS 申请",
+    "https://pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-persewaan-tanah-danatau-bangunan": "印尼税务局：租金所得税",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/income-received-from-overseas": "新加坡税局：境外收入",
+    "https://jdih-baliprov-go-id.s3.ap-southeast-3.amazonaws.com/uploads/produk-hukum/peraturan/signed/2026/perda/2026pd00514.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAU75RXJDFSI7PNLQY%2F20261105%2Fap-southeast-3%2Fs3%2Faws4_request&X-Amz-Date=20261105T061400Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=d25362a64f2b265626fd648a2c2d0258056f3921ac593d032d55af6bb41e1949": "巴厘省 2026 年地方条例（PDF）",
+    "https://jdih.kemenkeu.go.id/api/download/ad276b82-94bd-4197-b409-af33e2842cd6/2024pmkeuangan131.pdf": "财政部条例 PMK 131/2024（增值税）",
+    "https://peraturan.bpk.go.id/Details/344913/perda-kab-badung-no-8-tahun-2025": "Badung 县 2025 年第 8 号地方条例",
+    "https://jordanlegal.id/insights/villa-rental-licence-bali-kbli/": "Jordan Legal：别墅出租执照",
+    "https://jdih.badungkab.go.id/storage/produk-hukum/peraturan-perundang-undangan/2023/perda/2023perda5103007.pdf": "Badung 县 2023 年地方条例（PDF）"
+   }
+  },
+  "en": {
+   "askTitle": "Swap in your own citizenship, budget and owner nights, and the ownership, tax and rental picture is rebuilt for you",
+   "runTitle": "A Singapore citizen buying in Bali: about USD 300,000, a few months of own use, the rest rented out",
+   "fields": [
+    {
+     "key": "area",
+     "label": "Bali location and properties",
+     "value": "A small villa or apartment in Canggu/Pererenan or Uluwatu"
+    },
+    {
+     "key": "cash",
+     "label": "Currency and total cash",
+     "value": "Up to about USD 300,000"
+    },
+    {
+     "key": "status",
+     "label": "Citizenship and tax residence",
+     "value": "Singapore citizen"
+    },
+    {
+     "key": "year",
+     "label": "Purchase year",
+     "value": "2027"
+    },
+    {
+     "key": "nights",
+     "label": "Owner nights",
+     "value": "A few months a year"
+    },
+    {
+     "key": "rental",
+     "label": "Rental plan",
+     "value": "Rent out the rest of the time"
+    }
+   ],
+   "template": "Compare {area} for my {cash}, {status}, {year}, {nights} and {rental}. Separate lease and title rights, all-in cash, tax alternatives, lawful rental requirements, lease depletion and a no-rental downside; list written checks before paying, including unresolved 2027 rules. Treat adverts as claims, not cleared investments or promised returns. Do not contact agents, submit forms, open accounts or pay for me.",
+   "phases": [
+    {
+     "title": "Read Indonesia’s official rules on what a foreigner can hold, how it can be rented out and how it is taxed",
+     "note": "Land ministry decision, investment rules, a Bali government notice and Singapore’s tax rules on overseas income",
+     "judgment": "One law firm’s summary put the foreigner price floor for a Bali apartment at IDR 3bn (lumped in with Jakarta). It opened page 3 of the official ministerial decision and found the real figure is IDR 2bn."
+    },
+    {
+     "title": "Find and check for-sale listings within budget",
+     "note": "8 listings advertised at USD 175,000–248,000",
+     "judgment": "Adverts were treated as the seller’s claims. It opened each listing and logged what did not add up: one apartment page says the building permit is still in process, and one listing’s land and building areas contradict each other. Remaining lease years not shown on the page were not guessed; they are marked as unconfirmed."
+    },
+    {
+     "title": "Build the purchase-cost and rental-yield model and an HTML summary",
+     "note": "Taxes and fees, annual holding costs and editable rental scenarios (90 owner nights)"
+    },
+    {
+     "title": "Check formulas and pages, then deliver",
+     "judgment": "The independent colleague recalculated the workbook in an isolated copy and found that the stored formula results were all zero (a preview would show zero costs), and that the breakeven rate looked achievable even when lawful rental was switched off. The breakeven formula was then given a “no breakeven” branch, and all 234 formulas recalculated without errors."
+    }
+   ],
+   "workers": [
+    "Read Indonesia’s official texts on what foreigners can hold (leasehold, Hak Pakai, PT PMA, nominees) and which routes do not work",
+    "Found 8 for-sale listings in budget (4 in Canggu/Pererenan, 4 in Uluwatu) and opened each to record price, title and lease terms",
+    "Checked whether short-term rental is lawful and what licences it needs, plus purchase taxes, annual taxes and tax on rental income",
+    "Independently reviewed the financial model: stress-tested the inputs and checked the workbook and web page agree"
+   ],
+   "chipNames": {
+    "https://jdih.atrbpn.go.id/peraturan/detail/1109/keputusan-menteri-agraria-dan-tata-ruang-kepala-badan-pertanahan-nasional-nomor-1241-sk-hk-02-ix-2022-tahun-2022": "Land ministry Decision 1241/2022 (foreign purchase price floors)",
+    "https://peraturan.bpk.go.id/Download/154522/PP%20Nomor%2018%20Tahun%202021.pdf": "Government Regulation PP 18/2021",
+    "https://www.baliprov.go.id/web/gubernur-koster-batasi-akses-oss-untuk-pma-di-sejumlah-kbli-lindungi-umkm-lokal-dari-persaingan-tidak-sehat": "Bali provincial government: foreign-investment OSS restrictions",
+    "https://pajak.go.id/id/peraturan/pajak-penghasilan-atas-penghasilan-dari-persewaan-tanah-danatau-bangunan": "Indonesian tax office: income tax on property rental",
+    "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/income-received-from-overseas": "IRAS: income received from overseas",
+    "https://jdih-baliprov-go-id.s3.ap-southeast-3.amazonaws.com/uploads/produk-hukum/peraturan/signed/2026/perda/2026pd00514.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAU75RXJDFSI7PNLQY%2F20261105%2Fap-southeast-3%2Fs3%2Faws4_request&X-Amz-Date=20261105T061400Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=d25362a64f2b265626fd648a2c2d0258056f3921ac593d032d55af6bb41e1949": "Bali provincial regulation, 2026 (PDF)",
+    "https://jdih.kemenkeu.go.id/api/download/ad276b82-94bd-4197-b409-af33e2842cd6/2024pmkeuangan131.pdf": "Finance ministry regulation PMK 131/2024 (VAT)",
+    "https://peraturan.bpk.go.id/Details/344913/perda-kab-badung-no-8-tahun-2025": "Badung regency regulation 8/2025",
+    "https://jordanlegal.id/insights/villa-rental-licence-bali-kbli/": "Jordan Legal: villa rental licensing",
+    "https://jdih.badungkab.go.id/storage/produk-hukum/peraturan-perundang-undangan/2023/perda/2023perda5103007.pdf": "Badung regency regulation, 2023 (PDF)"
+   }
+  }
+ }
+}

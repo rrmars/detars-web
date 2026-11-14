@@ -1,0 +1,84 @@
+{
+ "slug": "medellin-developer-spain-teleworker-visa-bogota-consulate",
+ "startedAt": "2026-11-07",
+ "activeSec": 1523,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 1523,
+   "chips": [
+    "https://www.inclusion.gob.es/web/migraciones/teletrabajo-de-caracter-internacional",
+    "https://www.inclusion.gob.es/web/unidadgrandesempresas/teletrabajadores",
+    "https://www.exteriores.gob.es/Consulados/bogota/es/ServiciosConsulares/Paginas/index.aspx?scca=Visados&scco=Colombia&scd=31&scs=Visados+Nacionales+-+Visado+de+teletrabajo+de+car%C3%A1cter+internacional",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2022-21739"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own situation and get the same visa-income and budget check before you move",
+   "runTitle": "Medellín developer and partner moving to Spain on the teleworker visa, Valencia or Málaga",
+   "fields": [
+    {
+     "key": "from",
+     "label": "City in Colombia",
+     "value": "Medellín"
+    },
+    {
+     "key": "to",
+     "label": "City in Spain",
+     "value": "Valencia or Málaga"
+    },
+    {
+     "key": "me",
+     "label": "Age, occupation, type of income and who the clients are",
+     "value": "30, backend developer working remotely as a contractor for a US company, USD 5,800 a month"
+    },
+    {
+     "key": "partner",
+     "label": "Partner or family and how the relationship is documented",
+     "value": "Partner Laura (29, freelance graphic designer, about USD 1,500 a month); not married, living together for 4 years"
+    }
+   ],
+   "template": "Help me plan a move from {from} to {to} on the teleworker visa. I am {me}, moving with {partner}. Check the income threshold on both readings of the SMI, the partner proof the Bogotá consulate asks for, and what I should ask a Spanish and a Colombian adviser about tax and Social Security. Rebuild the monthly budget with my own rent, income and savings figures, and flag anything unconfirmed. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Research the visa rules, partner proof, rents, insurance and exchange rates, then write up and check the guide",
+     "note": "Income rule on both readings, partner papers, Valencia versus Málaga, monthly budget",
+     "judgment": "The official pages give the income rule only as percentages of the minimum wage (200% for the applicant, 75% for a partner), with no euro amounts. So it worked out both readings itself, €3,917.38 and €3,357.75, and said that which base the authorities use is unresolved."
+    }
+   ],
+   "workers": [
+    "Collected dated rent examples and coworking prices in Valencia and Málaga and checked the rental deposit rules",
+    "Looked up official exchange rates, private health-insurance prices and flight fares from Colombia"
+   ],
+   "chipNames": {
+    "https://www.inclusion.gob.es/web/migraciones/teletrabajo-de-caracter-internacional": "Ministry of Inclusion: international teleworking",
+    "https://www.inclusion.gob.es/web/unidadgrandesempresas/teletrabajadores": "Ministry of Inclusion: teleworker applications",
+    "https://www.exteriores.gob.es/Consulados/bogota/es/ServiciosConsulares/Paginas/index.aspx?scca=Visados&scco=Colombia&scd=31&scs=Visados+Nacionales+-+Visado+de+teletrabajo+de+car%C3%A1cter+internacional": "Spanish consulate in Bogotá: teleworker visa",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2022-21739": "Spanish Official Gazette (BOE): teleworker visa legislation"
+   }
+  }
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "slug": "amsterdam-first-rent-budget",
+ "startedAt": "2026-11-05",
+ "activeSec": 1146,
+ "stats": {
+  "searches": 54,
+  "pages": 30,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 26,
+   "end": 365,
+   "chips": [
+    "https://zoek.officielebekendmakingen.nl/stcrt-2026-35093.html",
+    "https://www.volkshuisvestingnederland.nl/wat-betekent-de-wet-betaalbare-huur-voor-mij/info/veelgestelde-vragen",
+    "https://www.amsterdam.nl/en/housing/housing-permit/",
+    "https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/ik-kom-in-nederland-werken-30-procent-regeling-aanvragen",
+    "https://download.belastingdienst.nl/belastingdienst/docs/nieuwsbrief-loonheffingen-2027-lh2091t72fd.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 365,
+   "end": 943,
+   "chips": [
+    "https://www.government.nl/themes/building-and-housing/housing/rented-housing/step-by-step-plan-for-tenants",
+    "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/woning-huren/woning-huren-waarborgsom",
+    "https://www.volkshuisvestingnederland.nl/documenten/2026/10/07/de-maximale-huurprijsgrenzen-zelfstandige-woningen-per-1-januari-2027",
+    "https://www.huurcommissie.nl/actueel/nieuws/2026/10/29/aanpassingen-puntentelling-woningwaarderingsstelsel-per-1-januari-2027",
+    "https://www.government.nl/documents/question-and-answer/health-insurance/when-do-i-need-to-take-out-health-insurance-if-i-come-to-live-in-the-netherlands"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 13,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 943,
+   "end": 1010,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 2,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1010,
+   "end": 1098,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own jobs, salary and start date to get a first-rental plan with real ads and costs",
+   "runTitle": "Moving to Amsterdam for work in April 2027: a couple’s first rental on about EUR 2,200 a month",
+   "fields": [
+    {
+     "key": "workplaces",
+     "label": "Workplaces",
+     "value": "Amsterdam (the couple is moving there for work)"
+    },
+    {
+     "key": "arrival",
+     "label": "Arrival date",
+     "value": "1 April 2027"
+    },
+    {
+     "key": "salary",
+     "label": "Each person’s gross salary and holiday-pay treatment",
+     "value": "EUR 95,000 a year combined, gross"
+    },
+    {
+     "key": "employment",
+     "label": "Employment start and probation terms",
+     "value": "Starting 1 April 2027; one partner has a Dutch highly-skilled-migrant permit"
+    },
+    {
+     "key": "ceiling",
+     "label": "Basic-rent or all-in ceiling",
+     "value": "About EUR 2,200 a month"
+    },
+    {
+     "key": "cash",
+     "label": "Moving cash",
+     "value": "",
+     "placeholder": "e.g. EUR 8,000 for deposit and moving costs"
+    },
+    {
+     "key": "commute",
+     "label": "Commute and furnishing needs",
+     "value": "",
+     "placeholder": "e.g. under 40 minutes to work by train, unfurnished is fine"
+    }
+   ],
+   "template": "Plan our first rental near {workplaces} for {arrival}, with {salary}, {employment}, {ceiling}, {cash} and {commute}. Compare the full bills, income filters and registration for both adults; flag WWS, permit and tax questions and a temporary-stay fallback. Plan only; do not contact, apply, reserve or pay.",
+   "phases": [
+    {
+     "title": "Check the official rental, registration and 2027 tax rules",
+     "note": "Rent limits, deposit and agency-fee rules, address registration and the 2027 expat tax allowance",
+     "judgment": "It caught that the “30% ruling” is not 30% for this couple: the tax office’s 4 November 2026 newsletter says a new starter on 1 April 2027 gets a maximum of 27%, and EUR 95,000 of combined income cannot show eligibility, since the salary test applies to one person."
+    },
+    {
+     "title": "Collect and check live listings across five areas",
+     "note": "More official tenant rules, and the first listing searches"
+    },
+    {
+     "title": "Write the guide and the source list, and check them",
+     "judgment": "A separate colleague who had not written the guide re-ran the take-home pay maths on its own, getting EUR 5,042.62, 6,317.01 and 6,197.90 a month as in the guide, and confirmed that the budget adds up to EUR 3,925 and that the short stays and unconfirmed registration are disclosed."
+    },
+    {
+     "title": "Fill the listing gaps and confirm 12 current ads across four areas",
+     "judgment": "It would not stretch the count to five areas: no 2-room apartment in Zaandam could be confirmed, so the guide counts four areas, marks two ads as short stays, and says the 12 ads are a snapshot, not twelve homes confirmed for April."
+    }
+   ],
+   "workers": [
+    "Checked what the tax office currently publishes about the 2027 expat tax allowance, the salary conditions and how to apply, and worked out take-home pay examples",
+    "Found current individual rental ads in Haarlem, Zaandam and Diemen with rent, size, furnishing and the date each was seen",
+    "Read the official Dutch rental rules: the points system and rent limits, deposit, agency fees, and address registration",
+    "Reviewed the finished guide and source list on its own, re-ran the take-home pay maths and compared the listing details with the saved pages"
+   ],
+   "chipNames": {
+    "https://zoek.officielebekendmakingen.nl/stcrt-2026-35093.html": "Official gazette: 2027 rent and income limits",
+    "https://www.volkshuisvestingnederland.nl/wat-betekent-de-wet-betaalbare-huur-voor-mij/info/veelgestelde-vragen": "Housing ministry: what the Affordable Rent Act means for you",
+    "https://www.amsterdam.nl/en/housing/housing-permit/": "City of Amsterdam: housing permit",
+    "https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/ik-kom-in-nederland-werken-30-procent-regeling-aanvragen": "Tax Administration: applying for the expat tax allowance",
+    "https://download.belastingdienst.nl/belastingdienst/docs/nieuwsbrief-loonheffingen-2027-lh2091t72fd.pdf": "Tax Administration: 2027 payroll newsletter",
+    "https://www.government.nl/themes/building-and-housing/housing/rented-housing/step-by-step-plan-for-tenants": "Government of the Netherlands: step-by-step plan for tenants",
+    "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/woning-huren/woning-huren-waarborgsom": "Government of the Netherlands: rental deposit rules",
+    "https://www.volkshuisvestingnederland.nl/documenten/2026/10/07/de-maximale-huurprijsgrenzen-zelfstandige-woningen-per-1-januari-2027": "Housing ministry: maximum rents from 1 January 2027",
+    "https://www.huurcommissie.nl/actueel/nieuws/2026/10/29/aanpassingen-puntentelling-woningwaarderingsstelsel-per-1-januari-2027": "Rent Tribunal: points system changes from 2027",
+    "https://www.government.nl/documents/question-and-answer/health-insurance/when-do-i-need-to-take-out-health-insurance-if-i-come-to-live-in-the-netherlands": "Government of the Netherlands: when to take out health insurance"
+   }
+  }
+ }
+}

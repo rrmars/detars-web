@@ -1,0 +1,219 @@
+{
+ "slug": "best-laptop-under-70000-indian-students",
+ "startedAt": "2026-11-05",
+ "activeSec": 1886,
+ "stats": {
+  "searches": 72,
+  "pages": 60,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 24,
+   "end": 375,
+   "chips": [
+    "https://www.lenovo.com/in/en/d/students-offer/",
+    "https://www.asus.com/in/microsite/campus-connect/",
+    "https://www.croma.com/lp-education-store",
+    "https://www.aboutamazon.in/news/retail/amazon-great-indian-festival-2026-deals",
+    "https://stories.flipkart.com/announcement/flipkart-brings-student-focused-tech-deals-with-back-to-campus-2026-sale"
+   ],
+   "workers": []
+  },
+  {
+   "start": 375,
+   "end": 1355,
+   "chips": [
+    "https://www.msi.com/page/service-location-new",
+    "https://www.asus.com/in/microsite/service-center-locator/",
+    "https://www.dell.com/en-in/learn/services/lp/support-services-for-home"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1355,
+   "end": 1807,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own course and budget and get the same kind of laptop comparison",
+   "runTitle": "A B.Tech student in India, ₹70,000 maximum: which laptop to buy now, and whether to wait for the sales",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country and currency",
+     "value": "India, ₹ (INR)"
+    },
+    {
+     "key": "course",
+     "label": "Course, college and start date",
+     "value": "B.Tech in computer science, starting July 2027"
+    },
+    {
+     "key": "deadline",
+     "label": "Buy-by deadline",
+     "value": "",
+     "placeholder": "e.g. before the end of June 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget including taxes, delivery, fees, accessories and warranty",
+     "value": "₹70,000 maximum"
+    },
+    {
+     "key": "pins",
+     "label": "Home and college PIN codes",
+     "value": "",
+     "placeholder": "e.g. home 560001, college 600036"
+    },
+    {
+     "key": "proof",
+     "label": "Student proof and eligible cards (no card numbers)",
+     "value": "",
+     "placeholder": "e.g. admission letter once issued; one HDFC credit card"
+    },
+    {
+     "key": "workload",
+     "label": "Workloads and settings",
+     "value": "Coding, light ML coursework, online classes and a few games; commutes by metro, so weight matters a bit"
+    },
+    {
+     "key": "dept",
+     "label": "Department requirements link",
+     "value": "",
+     "placeholder": "e.g. a link to the college’s laptop requirements page"
+    }
+   ],
+   "template": "Help me choose a laptop in {country} for {course} by {deadline}, within {budget}. Use {pins}, {proof}, {workload} and {dept}. Compare 3–5 exact SKUs: seller, condition, CPU/GPU, RAM layout, SSD, screen, weight, charging and warranty. Date and link normal prices, MRP and optional installation; separate bank, EMI, student, coupon, exchange and delayed-cashback terms. Calculate upfront totals without assumed savings. Separate exact-SKU tests, family reviews, owner stories and earlier/current checks; flag blocked pages, uncertain battery hours and local service. Recommend buy or wait; do not purchase, apply, contact sellers or publish.",
+   "phases": [
+    {
+     "title": "Collect current Indian listings, exact configurations and offer conditions"
+    },
+    {
+     "title": "Check Indian reviewer and owner reports and service coverage, then draw up the shortlist",
+     "judgment": "It would not let a loose match through: Flipkart mixes several Samsung model codes, and only two are confirmed by Samsung as the same machine, so the rest are flagged unresolved. An HP price that could not be found on the store any more was marked stale, not recommended."
+    },
+    {
+     "title": "Build the comparison page and spreadsheet, then check them",
+     "judgment": "The independent reviewer caught a contradiction: the table called the Croma Vivobook the second pick while the ranking put it third. It was corrected, and the missing graphics and charging details were added to the page."
+    }
+   ],
+   "workers": [
+    "Searched Amazon.in and Flipkart for portable and graphics-card laptop candidates, with exact specifications and prices",
+    "Checked Croma and the official brand stores for candidates under the budget, and their student terms",
+    "Gathered Indian reviews and owner reports for each likely model, on battery, heat, build and service",
+    "Independently reviewed the finished comparison page and spreadsheet against the research notes"
+   ],
+   "chipNames": {
+    "https://www.lenovo.com/in/en/d/students-offer/": "Lenovo India: student offer",
+    "https://www.asus.com/in/microsite/campus-connect/": "ASUS India: Campus Connect student programme",
+    "https://www.croma.com/lp-education-store": "Croma: education store",
+    "https://www.aboutamazon.in/news/retail/amazon-great-indian-festival-2026-deals": "Amazon India: Great Indian Festival 2026 deals",
+    "https://stories.flipkart.com/announcement/flipkart-brings-student-focused-tech-deals-with-back-to-campus-2026-sale": "Flipkart: back-to-campus student deals",
+    "https://www.msi.com/page/service-location-new": "MSI: service locations",
+    "https://www.asus.com/in/microsite/service-center-locator/": "ASUS India: service-centre locator",
+    "https://www.dell.com/en-in/learn/services/lp/support-services-for-home": "Dell India: home support services"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的专业和预算，得到同样的笔记本对比",
+   "runTitle": "印度理工科新生，预算最多 7 万卢比：现在买哪台笔记本，还是等促销",
+   "fields": [
+    {
+     "key": "course",
+     "label": "国家币种、课程学校及开学日、购买截止日",
+     "value": "印度，卢比；计算机科学 B.Tech，2027 年 7 月开学"
+    },
+    {
+     "key": "budget",
+     "label": "含税、配送、收费、配件、保修的总预算",
+     "value": "最多 70,000 卢比"
+    },
+    {
+     "key": "pins",
+     "label": "家庭和学校邮编",
+     "value": "",
+     "placeholder": "例如：家 560001，学校 600036"
+    },
+    {
+     "key": "proof",
+     "label": "学生证明及合资格银行卡(不含卡号)",
+     "value": "",
+     "placeholder": "例如：录取通知书(下发后)；一张 HDFC 信用卡"
+    },
+    {
+     "key": "workload",
+     "label": "工作负载和设置",
+     "value": "写代码、跑轻量机器学习课程、上网课、偶尔玩游戏；地铁通勤，重量有一点要紧"
+    },
+    {
+     "key": "dept",
+     "label": "院系要求链接",
+     "value": "",
+     "placeholder": "例如：学校笔记本配置要求页面的链接"
+    }
+   ],
+   "template": "请为{course}选笔记本，预算{budget}，家庭和学校邮编{pins}，当前学生证明及合资格银行卡{proof}，工作负载和设置{workload}，院系要求链接{dept}。比 3–5 个精确 SKU 的卖家、成色、CPU、GPU、内存布局、SSD、屏幕、重量、充电和保修；售价、MRP、可选安装附日期链接，分清银行、EMI、学生、券、换购和延迟返现，按不假定优惠算当日总额。分开对应机型测试、系列评测、用户个案及前后查价，说明页面受阻、续航和本地维修待确认之处，给现在买或等待建议。不购买、申请、联系或发布。",
+   "phases": [
+    {
+     "title": "收集印度各平台的现价、精确配置和优惠条件"
+    },
+    {
+     "title": "核对印度评测与机主反馈、售后覆盖，并列出候选",
+     "judgment": "它不放过似是而非的匹配：Flipkart 上混着多个三星型号后缀，三星只确认其中两个是同一台机器，其余标为待确认；一款在商店里再也找不到的惠普价格，被标成“已过期”，没有被推荐。"
+    },
+    {
+     "title": "生成对比网页和表格，并做检查",
+     "judgment": "独立复核的同事抓到一处矛盾：表格里把 Croma 的 Vivobook 叫“第二推荐”，排名却是第三。已更正，并把缺少的显卡和充电信息补进了网页。"
+    }
+   ],
+   "workers": [
+    "在 Amazon.in 和 Flipkart 搜轻薄本与带独显的候选，记下精确配置和价格",
+    "核对 Croma 和各品牌官方商店里预算内的候选机型及学生优惠条款",
+    "收集印度评测与机主对各候选型号的反馈：续航、发热、做工和售后",
+    "对照调研笔记，独立复核做好的对比网页和表格"
+   ],
+   "chipNames": {
+    "https://www.lenovo.com/in/en/d/students-offer/": "联想印度:学生优惠",
+    "https://www.asus.com/in/microsite/campus-connect/": "华硕印度:Campus Connect 学生计划",
+    "https://www.croma.com/lp-education-store": "Croma:教育专区",
+    "https://www.aboutamazon.in/news/retail/amazon-great-indian-festival-2026-deals": "亚马逊印度:2026 年大节促销",
+    "https://stories.flipkart.com/announcement/flipkart-brings-student-focused-tech-deals-with-back-to-campus-2026-sale": "Flipkart:返校学生优惠",
+    "https://www.msi.com/page/service-location-new": "微星:服务网点",
+    "https://www.asus.com/in/microsite/service-center-locator/": "华硕印度:服务中心查询",
+    "https://www.dell.com/en-in/learn/services/lp/support-services-for-home": "戴尔印度:家用支持服务"
+   }
+  }
+ }
+}

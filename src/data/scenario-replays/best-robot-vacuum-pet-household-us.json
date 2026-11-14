@@ -1,0 +1,264 @@
+{
+ "slug": "best-robot-vacuum-pet-household-us",
+ "startedAt": "2026-11-05",
+ "activeSec": 3377,
+ "stats": {
+  "searches": 62,
+  "pages": 91,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 59,
+   "end": 629,
+   "chips": [
+    "https://vacuumwars.com/best-robot-vacuum-under-600/",
+    "https://www.rtings.com/robot-vacuum/reviews/best/pet-hair",
+    "https://vacuumwars.com/eufy-omni-c28-review/",
+    "https://www.techgearlab.com/reviews/smart-home/robot-vacuum/roborock-qrevo-s5v",
+    "https://www.techradar.com/home/robot-vacuums/for-a-brand-that-made-robot-vacuums-accessible-my-faith-in-ecovacs-is-shaken-after-using-the-deebot-t90-pro-omni"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 629,
+   "end": 1618,
+   "chips": [
+    "https://vacuumwars.com/eufy-e25-robot-vacuum-review/",
+    "https://service.eufy.com/article-description/Omni-C28-Robot-Vacuum-Smart-Home-Compatibility",
+    "https://support.dreametech.com/hc/en-us/articles/16817306585871-Dreame-Bot-L40s-Ultra-AE-Robot-Vacuum-and-Mop-User-Manual-US-Version?name=articles",
+    "https://support.roborock.com/hc/en-us/articles/360030815691-Can-robot-cleaner-work-without-Wi-Fi",
+    "https://vacuumwars.com/eufy-c28-omni-review/"
+   ],
+   "workers": [
+    {
+     "n": 2,
+     "minutes": 30,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 34,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1618,
+   "end": 3105,
+   "chips": [
+    "https://service.eufy.com/article-description/eufy-E25-E28-Robot-Vacuum-s-Matter-Integration-FAQ",
+    "https://www.ecovacs.com/us/shop/accessories/buddy-kit-t90-pro-omni",
+    "https://www.eufy.com/products/bundle-t2353111-1-t290qar0-1?variant=44994893906106",
+    "https://www.walmart.com/ip/DREAME-Robot-Vacuum-Mop-25000Pa-Suction-TriCut-Anti-Tangle-100-Days-Auto-Empty-Pet-Hair-Capets-Friendly-MopExtend-Tech-Edge-Cleaning-Smart-Obstacle-A/20146867109"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 3,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 3105,
+   "end": 3300,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your home, pets and budget, and get the same sourced robot-vacuum comparison with three-year costs",
+   "runTitle": "US apartment with a long-haired cat: a robot vacuum under USD 600 that avoids cables and cloud accounts",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country and ZIP code",
+     "value": "United States"
+    },
+    {
+     "key": "date",
+     "label": "Buy-by date",
+     "value": "",
+     "placeholder": "e.g. before Black Friday, 27 November"
+    },
+    {
+     "key": "budget",
+     "label": "Budget, before tax or all-in",
+     "value": "under USD 600"
+    },
+    {
+     "key": "home",
+     "label": "Cleanable area, floors, and rug pile, thickness and fringe",
+     "value": "1,100 sq ft apartment, hardwood floors, two area rugs"
+    },
+    {
+     "key": "pets",
+     "label": "Pets and shedding",
+     "value": "a long-haired cat that sheds a lot"
+    },
+    {
+     "key": "hazards",
+     "label": "Loose hazards on the floor",
+     "value": "cables"
+    },
+    {
+     "key": "cords",
+     "label": "Can you secure the cords?",
+     "value": "",
+     "placeholder": "e.g. yes for the desk cords, not for the TV stand"
+    },
+    {
+     "key": "privacy",
+     "label": "Camera, account, offline-map and local-control needs",
+     "value": "does not need a cloud account to work, if possible"
+    }
+   ],
+   "template": "Compare robot vacuums for {country}, buying by {date}, within {budget}. My home has {home}, {pets}, {hazards} and {cords}. I need {privacy}. Compare exact versions, sellers, condition, bundles and dated offers; check coupons without redeeming them. Link independent tests and methods without mixing sibling versions or averaging incompatible results; use owner replies as experiences, not failure rates, and do not claim hands-on testing. Show three-year low/base/high wear costs using whole packs, component-driven kits and included-spare/bag credits; state electricity/fluid assumptions, exclude repairs and flag uncertain compatibility. Check key policies and offers, date the results and mark unavailable information. Recommend a choice, show budget risks and supervised return-window checks. Do not buy, create accounts, contact sellers or publish.",
+   "phases": [
+    {
+     "title": "Collect current US prices and read independent lab tests and owner reports for each exact model",
+     "note": "Retailer and maker prices, measured hair-pickup and obstacle tests, owner threads",
+     "judgment": "It did not crown the model with the best lab result. The T90 aced hair pickup and obstacle tests, but a three-month home review reported missed fur and tangles, so the report calls it a trial pick and shows both sides."
+    },
+    {
+     "title": "Check each maker’s manuals and privacy pages for offline use, and price the replacement parts",
+     "note": "Account, camera and offline rules from the makers’ own documents; bags, brushes, filters and mop parts",
+     "judgment": "It would not promise an account-free robot: none of the models was verified to work fully offline for maps and schedules. The eufy E25 does support Matter, but setup still goes through its app and an account, and the report says so."
+    },
+    {
+     "title": "Build the sourced comparison page and the spreadsheet with the three-year cost math",
+     "judgment": "An independent colleague re-did the cost sums and found one model’s mop-pad count was halved. The base three-year cost for that model went from $1,168 to $1,240 and the high case from $1,660 to $1,822, ranking unchanged, and both files were rebuilt."
+    },
+    {
+     "title": "Check the finished files and save them to the folder you asked for"
+    }
+   ],
+   "workers": [
+    "Found independent measured tests and owner threads for the exact model versions, noting where they disagree",
+    "Checked current prices and stock on retailer and maker pages, plus replacement-part prices and coupons, without redeeming any",
+    "Read the makers’ manuals and privacy pages for offline use, cameras, accounts and smart-home support",
+    "Independently re-checked the three-year cost calculations and the delivered files"
+   ],
+   "chipNames": {
+    "https://vacuumwars.com/best-robot-vacuum-under-600/": "Vacuum Wars: best robot vacuums under $600",
+    "https://www.rtings.com/robot-vacuum/reviews/best/pet-hair": "RTINGS: best for pet hair",
+    "https://vacuumwars.com/eufy-omni-c28-review/": "Vacuum Wars: eufy C28 review",
+    "https://www.techgearlab.com/reviews/smart-home/robot-vacuum/roborock-qrevo-s5v": "TechGearLab: Roborock Qrevo S5V",
+    "https://www.techradar.com/home/robot-vacuums/for-a-brand-that-made-robot-vacuums-accessible-my-faith-in-ecovacs-is-shaken-after-using-the-deebot-t90-pro-omni": "TechRadar: Ecovacs Deebot T90 Pro Omni review",
+    "https://vacuumwars.com/eufy-e25-robot-vacuum-review/": "Vacuum Wars: eufy E25 review",
+    "https://service.eufy.com/article-description/Omni-C28-Robot-Vacuum-Smart-Home-Compatibility": "eufy support: C28 smart-home compatibility",
+    "https://support.dreametech.com/hc/en-us/articles/16817306585871-Dreame-Bot-L40s-Ultra-AE-Robot-Vacuum-and-Mop-User-Manual-US-Version?name=articles": "Dreame L40s Ultra AE user manual",
+    "https://support.roborock.com/hc/en-us/articles/360030815691-Can-robot-cleaner-work-without-Wi-Fi": "Roborock support: working without Wi-Fi",
+    "https://vacuumwars.com/eufy-c28-omni-review/": "Vacuum Wars: eufy C28 Omni review",
+    "https://service.eufy.com/article-description/eufy-E25-E28-Robot-Vacuum-s-Matter-Integration-FAQ": "eufy support: Matter on the E25",
+    "https://www.ecovacs.com/us/shop/accessories/buddy-kit-t90-pro-omni": "Ecovacs: T90 Pro Omni accessory kit",
+    "https://www.eufy.com/products/bundle-t2353111-1-t290qar0-1?variant=44994893906106": "eufy: E25 with accessory kit",
+    "https://www.walmart.com/ip/DREAME-Robot-Vacuum-Mop-25000Pa-Suction-TriCut-Anti-Tangle-100-Days-Auto-Empty-Pet-Hair-Capets-Friendly-MopExtend-Tech-Edge-Cleaning-Smart-Obstacle-A/20146867109": "Walmart: Dreame robot vacuum listing"
+   }
+  },
+  "zh": {
+   "askTitle": "把家里的情况、宠物和预算换成你的，扫地机器人就按你的情况重新比，附三年花费",
+   "runTitle": "美国公寓、一只长毛猫：600 美元以内、不被电线绊住、尽量不用云账号的扫地机器人",
+   "fields": [
+    {
+     "key": "country",
+     "label": "国家和邮编",
+     "value": "美国"
+    },
+    {
+     "key": "date",
+     "label": "购买日期",
+     "value": "",
+     "placeholder": "例如：11 月 27 日黑五之前"
+    },
+    {
+     "key": "budget",
+     "label": "预算，税前还是到手",
+     "value": "600 美元以内"
+    },
+    {
+     "key": "home",
+     "label": "可清洁面积、地板及地毯绒高、厚度和流苏",
+     "value": "1,100 平方英尺的公寓，硬木地板，两块地毯"
+    },
+    {
+     "key": "pets",
+     "label": "宠物和掉毛程度",
+     "value": "一只掉毛很多的长毛猫"
+    },
+    {
+     "key": "hazards",
+     "label": "地面散落的风险",
+     "value": "电线"
+    },
+    {
+     "key": "cords",
+     "label": "能否固定电线",
+     "value": "",
+     "placeholder": "例如：书桌的线可以固定，电视柜的不行"
+    },
+    {
+     "key": "privacy",
+     "label": "摄像头、账户、离线地图和本地控制方面的要求",
+     "value": "尽量不需要云端账号也能用"
+    }
+   ],
+   "template": "请比较适合{country}、{date}前购买的扫地机器人，预算{budget}。我家{home}，有{pets}、{hazards}，我{cords}。隐私要求是{privacy}。比较具体版本、卖家、成色、套装和有日期的报价；核对优惠码但不要兑换。附独立测试及方法链接，不移用同系列其他版本成绩，不平均不同方法的百分比；用户回复只作经历，不当故障率，也别声称亲测。按零件需求和整包购买计算三年低、基础、高磨损成本，抵扣随附备件和袋子，写明电费和清洁液假设，排除维修并标出兼容性不明处。复查重要政策和报价，注明日期及查不到的信息。给出推荐、预算风险和退货期内的看护检查。不要购买、建账户、联系卖家或发布。",
+   "phases": [
+    {
+     "title": "查清美国当前售价，并读各款具体型号的独立实测和车主反馈",
+     "note": "零售商和厂商的报价、吸毛发和避障的实测、车主讨论帖",
+     "judgment": "它没有把实验室成绩最好的型号直接评为首选。T90 的吸毛发和避障测试成绩很好，但一份三个月的家用评测提到漏毛、缠绕，所以报告把它写成“可试用的选择”，两边的说法都摆出来。"
+    },
+    {
+     "title": "查各厂商的说明书和隐私页（离线能否用），并给替换耗材定价",
+     "note": "厂商自己文件里的账号、摄像头和离线规则；尘袋、刷子、滤网和拖布的价格",
+     "judgment": "它不肯承诺有哪台能完全不用账号：没有一款被证实能在离线时保存地图和定时。eufy E25 确实支持 Matter，但设置仍要通过它的 App 和账号，报告里照实写明。"
+    },
+    {
+     "title": "做出带来源的对比页和算好三年花费的表格",
+     "judgment": "独立同事把花费重算了一遍，发现某一款的拖布垫用量只算了一半：这一款三年基础花费从 1,168 美元改成 1,240 美元，高磨损情形从 1,660 美元改成 1,822 美元，排名不变，两份文件也重新生成。"
+    },
+    {
+     "title": "检查成品文件，存到你指定的文件夹"
+    }
+   ],
+   "workers": [
+    "找各款具体型号的独立实测和车主讨论帖，并标出彼此矛盾的地方",
+    "核对零售商和厂商页面上的当前价格与库存，以及替换耗材价格和优惠码（只查看，没有使用）",
+    "读厂商的说明书和隐私页，查离线使用、摄像头、账号和智能家居支持",
+    "独立复核三年花费的算法和交付的文件"
+   ],
+   "chipNames": {
+    "https://vacuumwars.com/best-robot-vacuum-under-600/": "Vacuum Wars：600 美元以内最佳扫地机器人",
+    "https://www.rtings.com/robot-vacuum/reviews/best/pet-hair": "RTINGS：吸宠物毛发最佳",
+    "https://vacuumwars.com/eufy-omni-c28-review/": "Vacuum Wars：eufy C28 评测",
+    "https://www.techgearlab.com/reviews/smart-home/robot-vacuum/roborock-qrevo-s5v": "TechGearLab：石头 Qrevo S5V",
+    "https://www.techradar.com/home/robot-vacuums/for-a-brand-that-made-robot-vacuums-accessible-my-faith-in-ecovacs-is-shaken-after-using-the-deebot-t90-pro-omni": "TechRadar：科沃斯 Deebot T90 Pro Omni 评测",
+    "https://vacuumwars.com/eufy-e25-robot-vacuum-review/": "Vacuum Wars：eufy E25 评测",
+    "https://service.eufy.com/article-description/Omni-C28-Robot-Vacuum-Smart-Home-Compatibility": "eufy 支持页：C28 智能家居兼容性",
+    "https://support.dreametech.com/hc/en-us/articles/16817306585871-Dreame-Bot-L40s-Ultra-AE-Robot-Vacuum-and-Mop-User-Manual-US-Version?name=articles": "追觅 L40s Ultra AE 用户手册",
+    "https://support.roborock.com/hc/en-us/articles/360030815691-Can-robot-cleaner-work-without-Wi-Fi": "石头支持页：不连 Wi-Fi 能否使用",
+    "https://vacuumwars.com/eufy-c28-omni-review/": "Vacuum Wars：eufy C28 Omni 评测",
+    "https://service.eufy.com/article-description/eufy-E25-E28-Robot-Vacuum-s-Matter-Integration-FAQ": "eufy 支持页：E25 的 Matter 支持",
+    "https://www.ecovacs.com/us/shop/accessories/buddy-kit-t90-pro-omni": "科沃斯：T90 Pro Omni 配件套装",
+    "https://www.eufy.com/products/bundle-t2353111-1-t290qar0-1?variant=44994893906106": "eufy：E25 配件套装",
+    "https://www.walmart.com/ip/DREAME-Robot-Vacuum-Mop-25000Pa-Suction-TriCut-Anti-Tangle-100-Days-Auto-Empty-Pet-Hair-Capets-Friendly-MopExtend-Tech-Edge-Cleaning-Smart-Obstacle-A/20146867109": "沃尔玛：追觅扫地机器人商品页"
+   }
+  }
+ }
+}

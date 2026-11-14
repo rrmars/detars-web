@@ -1,0 +1,123 @@
+{
+ "slug": "uk-video-editing-laptop-under-1500",
+ "startedAt": "2026-11-06",
+ "activeSec": 5883,
+ "stats": {
+  "searches": 50,
+  "pages": 5,
+  "colleagues": 2,
+  "parallel": 2,
+  "reviewer": false
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 5451,
+   "chips": [
+    "https://www.apple.com/macbook-air/specs/",
+    "https://helpx.adobe.com/premiere/desktop/get-started/technical-requirements/hardware-accelerated-decoding-and-encoding.html",
+    "https://cdrdv2-public.intel.com/773553/onevpl_developer-reference-media-intel-hardware_1.1-772607-773553.pdf",
+    "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-0-powered-by-nvidia-blackwell/",
+    "https://www.johnlewis.com/browse/apple/apple-m5/_/N-1z13zz4Zq46q"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 73,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 68,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 5451,
+   "end": 5788,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 5788,
+   "end": 5917,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own camera and budget and get the same exact-offer comparison, with a test plan for your footage",
+   "runTitle": "Bristol videographer: a travelling 4K editing laptop for £1,500 or less",
+   "fields": [
+    {
+     "key": "offers",
+     "label": "Exact UK laptop offers",
+     "value": "",
+     "placeholder": "e.g. a John Lewis MacBook Air listing and a Currys RTX 5060 laptop, with links"
+    },
+    {
+     "key": "budget",
+     "label": "All-in budget",
+     "value": "£1,500 maximum, including any essential upgrade"
+    },
+    {
+     "key": "camera",
+     "label": "Sony camera and recording mode",
+     "value": "Sony camera, 4K H.264 and H.265 footage"
+    },
+    {
+     "key": "resolve",
+     "label": "Resolve edition and version",
+     "value": "DaVinci Resolve (free version), sometimes Premiere Pro"
+    },
+    {
+     "key": "delivery",
+     "label": "Delivery resolution and frame rate",
+     "value": "",
+     "placeholder": "e.g. 4K at 25 fps for web delivery"
+    },
+    {
+     "key": "extras",
+     "label": "Charger, reader, storage and backup needs",
+     "value": "An external SSD for storage"
+    },
+    {
+     "key": "timeline",
+     "label": "My typical timeline",
+     "value": "",
+     "placeholder": "e.g. a 10-minute edit with 3 camera angles and light colour grading"
+    }
+   ],
+   "template": "Help me compare {offers} within {budget} for {camera}, {resolve} and {delivery}. Include {extras}, check the delivered basket, and outline a native/proxy test for {timeline}. Ask before buying, contacting sellers or sharing files.",
+   "phases": [
+    {
+     "title": "Check UK prices, chip and editor support, and independent measurements from public sources",
+     "note": "Apple, Intel and NVIDIA documentation, Resolve and Premiere codec pages, UK shop prices",
+     "judgment": "It would not accept a vendor shortcut. Intel’s overview says “10th Gen and newer” can decode 10-bit 4:2:2 video, but Intel’s own detailed table marks only one 10th-generation family, so chips are judged one by one. For the MacBook, Apple’s page does not prove 4:2:2 support, so real playback is flagged as untested."
+    },
+    {
+     "title": "Write the comparison page and the dated source list, with clear recommendations and uncertainties",
+     "judgment": "It checked the MacBook’s £1,199 price on John Lewis’s own page and set aside tempting search-result prices that were unavailable or much higher there. The three Windows offers and the SSD are labelled provisional, not confirmed bargains. The total is £1,457.99: £1,199 plus a £59 charger and a £199.99 SSD."
+    },
+    {
+     "title": "Test the page at desktop and phone width, then deliver the files"
+    }
+   ],
+   "workers": [
+    "Checked which Apple, Intel and NVIDIA chips decode Sony-style 10-bit 4:2:2 H.265 in hardware, and what Resolve’s free and Studio editions support",
+    "Looked for three or four exact UK Windows laptops with NVIDIA graphics under £1,500 and checked public prices, stock and screen limits"
+   ],
+   "chipNames": {
+    "https://www.apple.com/macbook-air/specs/": "Apple: MacBook Air specifications",
+    "https://helpx.adobe.com/premiere/desktop/get-started/technical-requirements/hardware-accelerated-decoding-and-encoding.html": "Adobe: hardware-accelerated decoding in Premiere",
+    "https://cdrdv2-public.intel.com/773553/onevpl_developer-reference-media-intel-hardware_1.1-772607-773553.pdf": "Intel: media capabilities by hardware generation",
+    "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-0-powered-by-nvidia-blackwell/": "NVIDIA: Video Codec SDK 13.0 for Blackwell",
+    "https://www.johnlewis.com/browse/apple/apple-m5/_/N-1z13zz4Zq46q": "John Lewis: MacBook Air M5 listings"
+   }
+  }
+ }
+}

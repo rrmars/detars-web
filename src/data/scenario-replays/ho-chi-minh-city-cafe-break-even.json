@@ -1,0 +1,145 @@
+{
+ "slug": "ho-chi-minh-city-cafe-break-even",
+ "startedAt": "2026-11-07",
+ "activeSec": 2895,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 31,
+   "end": 523,
+   "chips": [
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-so-141-2026-nd-cp-nang-nguong-doanh-thu-khong-phai-chiu-thue-len-1-ty-dong-119260504154326455.htm",
+    "https://congbao.hochiminhcity.gov.vn/cong-bao/van-ban/quyet-dinh/so/5083-qd-ubnd/ngay/12-08-2026/noi-dung/49890",
+    "https://thongtin.vietnam.vn/en/giam-thue-gia-tri-gia-tang-tu-01-7-2025-den-het-31-12-2026",
+    "https://primeminister.chinhphu.vn/regional-minimum-wage-to-increase-by-72-from-january-1-2026-111251111092833451.htm",
+    "https://batdongsanonline.vn/CHO-THUE-MAT-BANG-KINH-DOANH-LE-VAN-SY-QUAN-3-178050/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 11,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 10,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 523,
+   "end": 2347,
+   "chips": [
+    "https://en.baochinhphu.vn/regional-minimum-wages-to-rise-by-78-percent-from-2027-111261103161845526.htm",
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep-119250702175708554.htm",
+    "https://baochinhphu.vn/tiep-tuc-ap-dung-nghi-dinh-15-2018-nd-cp-ve-an-toan-thuc-pham-cho-den-khi-co-quy-dinh-moi-102260408123934123.htm",
+    "https://www.vcpmc.org/"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 18,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 2347,
+   "end": 2744,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own café plan and get the same stress test before you sign a lease",
+   "runTitle": "Melbourne to Ho Chi Minh City: a 40-seat specialty café on AUD 120,000",
+   "fields": [
+    {
+     "key": "structure",
+     "label": "Citizenship and proposed structure",
+     "value": "Vietnamese-Australian dual citizen; household business vs single-member LLC"
+    },
+    {
+     "key": "site",
+     "label": "Site layout and all-in rent",
+     "value": "40 seats in District 3 or Binh Thanh"
+    },
+    {
+     "key": "cash",
+     "label": "Cash available after private living costs",
+     "value": "AUD 120,000 to invest"
+    },
+    {
+     "key": "demand",
+     "label": "Paid-demand results and realised ticket",
+     "value": "",
+     "placeholder": "e.g. a 3-week pop-up: 60 paid cups a day at VND 55,000 each"
+    },
+    {
+     "key": "fitout",
+     "label": "Itemised fit-out and procurement quotes",
+     "value": "",
+     "placeholder": "e.g. espresso machine quote VND 250m, carpentry quote VND 300m"
+    },
+    {
+     "key": "staffing",
+     "label": "Staffing and opening hours",
+     "value": "",
+     "placeholder": "e.g. 4 staff on shifts, open 7:00–22:00 daily"
+    }
+   ],
+   "template": "Test my Ho Chi Minh City café plan using {structure}, {site}, {cash}, {demand}, {fitout} and {staffing}. Separate operating cash from investment return, stress-test the reserve, and list the legal and site checks still needed before a lease. Ask before contacting anyone or sharing documents.",
+   "phases": [
+    {
+     "title": "Read the official rules and gather dated rent, fit-out and wage examples",
+     "note": "Legal structure and tax, plus dated rent and equipment costs",
+     "judgment": "It corrected a threshold it could easily have got wrong: the tax-free revenue threshold for a household business is VND 1bn, not 500m (Decree 141 amends 68/2026)."
+    },
+    {
+     "title": "Build the guide and a break-even model with the arithmetic shown",
+     "note": "Break-even in transactions per day, start-up budget in VND and AUD, risk section",
+     "judgment": "The rent figures are labelled as examples, not market prices: every listing it found dates from 2024 (District 3 at VND 27–28m a month, Binh Thanh at 30m and 50m), so the 32m rent assumption is marked as a screening figure."
+    },
+    {
+     "title": "Independent check of every number, plus desktop and phone layout tests",
+     "judgment": "The independent colleague recomputed the figures on its own: 153 numbers, zero discrepancies. It also pushed one point back: under the supplier stress case operating cash stays positive, but monthly profit is –VND 3.56m once depreciation and a provisional tax reserve are counted."
+    }
+   ],
+   "workers": [
+    "Read Vietnam’s official rules on legal structure, dual-citizen investment, tax, e-invoicing, minimum wage and insurance",
+    "Collected dated rent listings for District 3 and Binh Thanh, plus fit-out and equipment costs, barista pay and bean and milk prices",
+    "Checked which permits a 40-seat café needs: food safety, fire rules, business registration and music licensing",
+    "Recomputed every money figure on its own and checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-so-141-2026-nd-cp-nang-nguong-doanh-thu-khong-phai-chiu-thue-len-1-ty-dong-119260504154326455.htm": "Decree 141/2026: household tax-free revenue threshold",
+    "https://congbao.hochiminhcity.gov.vn/cong-bao/van-ban/quyet-dinh/so/5083-qd-ubnd/ngay/12-08-2026/noi-dung/49890": "Ho Chi Minh City Decision 5083/QĐ-UBND",
+    "https://thongtin.vietnam.vn/en/giam-thue-gia-tri-gia-tang-tu-01-7-2025-den-het-31-12-2026": "VAT reduction in force until 31 Dec 2026",
+    "https://primeminister.chinhphu.vn/regional-minimum-wage-to-increase-by-72-from-january-1-2026-111251111092833451.htm": "Regional minimum wage from 2026 (Government news)",
+    "https://batdongsanonline.vn/CHO-THUE-MAT-BANG-KINH-DOANH-LE-VAN-SY-QUAN-3-178050/": "District 3 rent listing example",
+    "https://en.baochinhphu.vn/regional-minimum-wages-to-rise-by-78-percent-from-2027-111261103161845526.htm": "Regional minimum wages from 2027 (Government news)",
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep-119250702175708554.htm": "Decree 168/2025 on business registration",
+    "https://baochinhphu.vn/tiep-tuc-ap-dung-nghi-dinh-15-2018-nd-cp-ve-an-toan-thuc-pham-cho-den-khi-co-quy-dinh-moi-102260408123934123.htm": "Decree 15/2018 on food safety stays in force",
+    "https://www.vcpmc.org/": "VCPMC music licensing"
+   }
+  }
+ }
+}

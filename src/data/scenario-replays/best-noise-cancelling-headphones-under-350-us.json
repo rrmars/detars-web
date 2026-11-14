@@ -1,0 +1,202 @@
+{
+ "slug": "best-noise-cancelling-headphones-under-350-us",
+ "startedAt": "2026-11-05",
+ "activeSec": 2763,
+ "stats": {
+  "searches": 58,
+  "pages": 67,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 35,
+   "end": 1133,
+   "chips": [
+    "https://www.bose.com/p/headphones/bose-quietcomfort-headphones-2nd-gen/QC2G-HEADPHONEARN.html",
+    "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm6-b",
+    "https://www.soundcore.com/products/d1406-space-2-pro-over-ear-headphones-for-clear-calls",
+    "https://www.rtings.com/headphones/reviews/bose/quietcomfort-headphones-2nd-gen",
+    "https://support.microsoft.com/en-us/windows/hardware/bluetooth/configuring-bluetooth-le-audio-quality-settings-on-windows-11"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 14,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1133,
+   "end": 2061,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 6,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 2061,
+   "end": 2682,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own devices, commute and budget to get a shortlist built the same careful way",
+   "runTitle": "US commuter with glasses: noise-cancelling headphones under $350 for calls, flights and an iPhone plus Windows laptop",
+   "fields": [
+    {
+     "key": "country",
+     "label": "Country",
+     "value": "United States"
+    },
+    {
+     "key": "date",
+     "label": "Buy-by date",
+     "value": "",
+     "placeholder": "e.g. by 20 November 2026"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and whether it includes tax and shipping",
+     "value": "Under USD 350"
+    },
+    {
+     "key": "zip",
+     "label": "ZIP code",
+     "value": "",
+     "placeholder": "e.g. 60614"
+    },
+    {
+     "key": "devices",
+     "label": "Phone, laptop and call apps",
+     "value": "An iPhone and a Windows laptop"
+    },
+    {
+     "key": "details",
+     "label": "Commute, flights, calls, glasses, wear time and music",
+     "value": "A 90-minute subway commute every day, a few flights a year, a lot of calls (mic quality and multipoint pairing matter), wears glasses, needs comfort for 3+ hours; over-ear and earbuds both considered"
+    }
+   ],
+   "template": "Find noise-cancelling headphones in {country} by {date}, within {budget}, for ZIP {zip}. My devices and apps are {devices}; my commute, flights, calls, glasses, wear time, ear fit and music needs are {details}. Separate sellers, exact versions and new/refurbished/open-box condition. Check dated cash prices, delivery and opened-product returns; cart buttons are not stock confirmation. Separate independent tests, maker claims, owner posts and your judgment, and state test settings only when available. Verify multipoint and USB audio/mic support. If scoring, show components, weights and method; keep fit and stock as deciding checks. Give a conditional shortlist, unavailable information and a return-window test plan. Do not buy, add to carts, contact anyone or claim hands-on testing.",
+   "phases": [
+    {
+     "title": "Check current prices, lab reviews and owner reports for each model",
+     "note": "Maker and retailer pages, lab test pages and owner forums",
+     "judgment": "Two tempting deals were checked and set aside: a $149.95 JBL lead turned out to be an open-box unit, and the $199.99 Sony WH-1000XM5 was out of stock for delivery, available only for pickup at one store. Neither is presented as a nationwide deal."
+    },
+    {
+     "title": "Build the sourced comparison page and the scored workbook, with an independent audit",
+     "note": "Scores come with their weights and method",
+     "judgment": "An independent reviewer judged the shortlist defensible, and also sent back fixes: a label said six scoring dimensions when there were seven, and two owner-post details whose forum threads could not be re-opened needed a direct link or softer wording."
+    },
+    {
+     "title": "Check the files, then deliver the shortlist and buy-now advice",
+     "judgment": "On buy now or wait it gave a split answer, not one blanket call: Bose’s $219 price (a sale running to 8 November) is worth taking now if comfort comes first, while for Sony and Soundcore it suggests waiting for better prices."
+    }
+   ],
+   "workers": [
+    "Opened the maker and retailer pages for each model and recorded the price, stock and delivery as read on 5 November",
+    "Found the independent lab reviews for ten models and noted their noise-cancelling, battery and microphone results",
+    "Collected dated owner posts on comfort with glasses, reliability, app updates and multipoint pairing",
+    "Independently audited the sources and the scoring logic before delivery"
+   ],
+   "chipNames": {
+    "https://www.bose.com/p/headphones/bose-quietcomfort-headphones-2nd-gen/QC2G-HEADPHONEARN.html": "Bose QuietComfort Headphones (2nd Gen)",
+    "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm6-b": "Sony WF-1000XM6 product page",
+    "https://www.soundcore.com/products/d1406-space-2-pro-over-ear-headphones-for-clear-calls": "Soundcore Space 2 Pro",
+    "https://www.rtings.com/headphones/reviews/bose/quietcomfort-headphones-2nd-gen": "RTINGS review: Bose QuietComfort Headphones (2nd Gen)",
+    "https://support.microsoft.com/en-us/windows/hardware/bluetooth/configuring-bluetooth-le-audio-quality-settings-on-windows-11": "Microsoft: Bluetooth LE Audio quality settings on Windows 11"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的设备、通勤和预算，就能得到同样认真核对的候选清单",
+   "runTitle": "戴眼镜的美国通勤族：350 美元以内的降噪耳机，要能打电话、坐飞机，还要配 iPhone 和 Windows 笔记本",
+   "fields": [
+    {
+     "key": "country",
+     "label": "国家",
+     "value": "美国"
+    },
+    {
+     "key": "date",
+     "label": "购买截止日",
+     "value": "",
+     "placeholder": "例如：2026 年 11 月 20 日前"
+    },
+    {
+     "key": "budget",
+     "label": "预算及是否含税运费",
+     "value": "350 美元以内"
+    },
+    {
+     "key": "zip",
+     "label": "邮编",
+     "value": "",
+     "placeholder": "例如：60614"
+    },
+    {
+     "key": "devices",
+     "label": "手机、电脑和通话应用",
+     "value": "一部 iPhone 和一台 Windows 笔记本"
+    },
+    {
+     "key": "details",
+     "label": "通勤、飞行、通话、眼镜、连续佩戴和音乐偏好",
+     "value": "每天坐地铁通勤 90 分钟，一年坐几次飞机，电话很多（麦克风质量和多点连接很重要），戴眼镜，要连续戴 3 小时以上也舒服；头戴式和入耳式都考虑"
+    }
+   ],
+   "template": "请帮我在{country}、{date}前挑降噪耳机，预算{budget}，邮编{zip}。设备和应用是{devices}；通勤、飞行、通话、眼镜、连续佩戴、耳部贴合和音乐偏好为{details}。分开比较卖家、确切版本及全新、翻新、开箱成色。核对带日期的现金价格、配送和拆封后退货规则，不把购物车按钮当有货确认。区分独立测试、厂商标称、用户反馈和你的判断，只在查到时写明测试条件。核实多点连接及 USB 音频和麦克风支持。如评分，列出分项、权重和方法；仍以贴合度和库存作决定。给出有条件的候选、查不到的信息及退货期试用计划。不要购买、加入购物车、联系任何人或声称亲测。",
+   "phases": [
+    {
+     "title": "核对每款耳机当前的价格、实验室评测和用户反馈",
+     "note": "厂商和零售商页面、实验室测试页、用户论坛",
+     "judgment": "有两个诱人的优惠被查验后搁置：一条 149.95 美元的 JBL 线索其实是开箱二手品；199.99 美元的索尼 WH-1000XM5 无法配送，只能在一家门店自取。两个都没有当作全美通行的优惠写进去。"
+    },
+    {
+     "title": "做带来源的对比页和评分工作簿，并请独立同事审查",
+     "note": "评分附带权重和方法",
+     "judgment": "独立复核同事认为候选清单站得住，同时退回了修改：有处标签写“六个评分维度”而实际是七个；另有两处用户帖细节，原论坛帖子打不开重核，需要补上直接链接或改成更谨慎的措辞。"
+    },
+    {
+     "title": "检查文件，交付候选清单和买不买的建议",
+     "judgment": "“现在买还是等”它没有一刀切：Bose 的 219 美元价格（促销到 11 月 8 日）如果优先看舒适度，值得现在入手；索尼和 Soundcore 则建议等更好的价格。"
+    }
+   ],
+   "workers": [
+    "打开每款耳机的厂商和零售商页面，记下 11 月 5 日读到的价格、库存和配送",
+    "找到十款耳机的独立实验室评测，整理降噪、续航和麦克风测试结果",
+    "收集带日期的用户帖子：戴眼镜舒不舒服、可靠性、应用更新和多点连接",
+    "交付前独立审查资料来源和评分逻辑"
+   ],
+   "chipNames": {
+    "https://www.bose.com/p/headphones/bose-quietcomfort-headphones-2nd-gen/QC2G-HEADPHONEARN.html": "Bose QuietComfort 头戴式耳机（第二代）",
+    "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm6-b": "索尼 WF-1000XM6 产品页",
+    "https://www.soundcore.com/products/d1406-space-2-pro-over-ear-headphones-for-clear-calls": "Soundcore Space 2 Pro",
+    "https://www.rtings.com/headphones/reviews/bose/quietcomfort-headphones-2nd-gen": "RTINGS 评测：Bose QuietComfort 头戴式耳机（第二代）",
+    "https://support.microsoft.com/en-us/windows/hardware/bluetooth/configuring-bluetooth-le-audio-quality-settings-on-windows-11": "微软：Windows 11 蓝牙 LE Audio 音质设置"
+   }
+  }
+ }
+}

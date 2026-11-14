@@ -1,0 +1,158 @@
+{
+ "slug": "london-four-days-with-teens",
+ "startedAt": "2026-11-05",
+ "activeSec": 1457,
+ "stats": {
+  "searches": 46,
+  "pages": 37,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 25,
+   "end": 805,
+   "chips": [
+    "https://tfl.gov.uk/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps",
+    "https://www.gov.uk/eta/apply?trk=article-ssr-frontend-pulse_little-text-block",
+    "https://arsenaldirect.arsenal.com/c/Audio-Tour/tour/p/STADIUM",
+    "https://www.britishmuseum.org/visit",
+    "https://www.darlingtonhotel.com/tariffs/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 805,
+   "end": 1343,
+   "chips": [],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  },
+  {
+   "start": 1343,
+   "end": 1374,
+   "chips": [],
+   "workers": []
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own family, dates and budget and get the same costed London plan",
+   "runTitle": "Toronto to London: four days with two teenagers on about GBP 1,800",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "Travellers, ages, passports and mobility needs",
+     "value": "Two adults and two teenagers aged 14 and 16, travelling on Canadian passports"
+    },
+    {
+     "key": "dates",
+     "label": "Dates and actual airports/flight times",
+     "value": "Arriving Friday morning, 9 July 2027, and leaving Monday evening, 12 July 2027"
+    },
+    {
+     "key": "budget",
+     "label": "Budget and exclusions",
+     "value": "About GBP 1,800 for the family, excluding flights"
+    }
+   ],
+   "template": "Plan London for {travellers} on {dates}, within {budget}. Compare rooms with suitable bedding and full family totals; show age-specific transport, stadium and theatre costs, plus free rain alternatives. Cost the Studio Tour as a separate trade-off, not an automatic extra. Separate dated examples from confirmed quotes and flag entry requirements. Plan only: do not book, contact anyone, create accounts or pay.",
+   "phases": [
+    {
+     "title": "Check official fares, attraction prices, entry rules and family room rates",
+     "note": "Transport caps, Arsenal and the British Museum, theatre day seats, hotels",
+     "judgment": "It spotted that the Arsenal stadium-tour page contradicts itself: the ticket table says £36 adult and £26 child, while a banner on the same page says “from £34”. It budgeted with the table (£36 for the 16-year-old, £26 for the 14-year-old) and called it today’s price, not a July 2027 quote."
+    },
+    {
+     "title": "Build the day-by-day plan with a cost table that adds up",
+     "judgment": "The independent colleague recomputed the £186.90 transport total, the £1,580.90 allocation and the £219.10 reserve, plus both Studio Tour alternatives, and found them correct. It also confirmed that current prices, future prices and hotel “from” rates were kept apart."
+    },
+    {
+     "title": "Check dates, links and desktop and phone layout, then hand over the files",
+     "judgment": "The hand-over states its limits plainly: hotel prices are advertised “from” rates rather than July quotes, and a few early page reads happened before switching to a fresh browser, which is disclosed."
+    }
+   ],
+   "workers": [
+    "Found family rooms for four in London and noted the price seen, the date seen and the occupancy rules",
+    "Checked current prices and hours for the Arsenal tour and the British Museum, plus free Harry Potter stops and cheap theatre seats",
+    "Independently audited the finished plan for sums, calendar dates, scheduling clashes and anything the family asked for that was missing"
+   ],
+   "chipNames": {
+    "https://tfl.gov.uk/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps": "TfL pay-as-you-go fare caps",
+    "https://www.gov.uk/eta/apply?trk=article-ssr-frontend-pulse_little-text-block": "UK Electronic Travel Authorisation (ETA): how to apply",
+    "https://arsenaldirect.arsenal.com/c/Audio-Tour/tour/p/STADIUM": "Arsenal Emirates Stadium Tour tickets",
+    "https://www.britishmuseum.org/visit": "British Museum visitor information",
+    "https://www.darlingtonhotel.com/tariffs/": "Darlington Hyde Park hotel tariffs"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的家庭、日期和预算，拿到同样带费用的伦敦行程",
+   "runTitle": "多伦多到伦敦：带两个青少年玩四天，预算约 1,800 英镑",
+   "fields": [
+    {
+     "key": "travellers",
+     "label": "人数、年龄、护照及行动需求",
+     "value": "两位大人和两个青少年（14 岁和 16 岁），持加拿大护照"
+    },
+    {
+     "key": "dates",
+     "label": "日期和真实机场航班时间",
+     "value": "2027 年 7 月 9 日（周五）上午抵达，7 月 12 日（周一）晚上离开"
+    },
+    {
+     "key": "budget",
+     "label": "预算及不含项目",
+     "value": "全家约 1,800 英镑，不含机票"
+    }
+   ],
+   "template": "请按{travellers}、{dates}、{budget}规划伦敦。比较床位合适的房间及全家完整房账，按年龄算交通、球场和演出费用，并安排免费的雨天替代。影城单独算取舍，不自动加项；区分有日期的示例与已确认报价，并提示入境要求。只做规划，不预订、不联系、不开户、不付款。",
+   "phases": [
+    {
+     "title": "核对官方票价、景点价格、入境规定和家庭房价",
+     "note": "交通封顶、阿森纳和大英博物馆、剧院日场票、酒店",
+     "judgment": "它发现阿森纳球场参观页面自相矛盾：票价表写成人 36 英镑、儿童 26 英镑，同一页的横幅却写“34 英镑起”。它按票价表做预算（16 岁按成人 36 英镑，14 岁按儿童 26 英镑），并注明这是当下价格，不是 2027 年 7 月的报价。"
+    },
+    {
+     "title": "做出逐日行程，并列出一张加得起来的费用表",
+     "judgment": "独立复核的同事把交通 186.90 英镑、分配 1,580.90 英镑、预留 219.10 英镑，以及两种影城方案都重算了一遍，结果都对。它还确认当前价格、未来价格和酒店“起”的标价被分开标注。"
+    },
+    {
+     "title": "检查日期、链接以及电脑和手机版面，再交付文件",
+     "judgment": "交付时把局限讲得很清楚：酒店价格是官网标出的“起”价而不是 7 月报价，另有少量早期页面是在换用新的浏览器之前读取的，这一点也已写明。"
+    }
+   ],
+   "workers": [
+    "找出伦敦可住四个人的家庭房，并记下看到的价格、看到的日期和入住人数规定",
+    "核对阿森纳球场参观和大英博物馆当前的价格与开放时间，另查免费的哈利·波特取景点和便宜的剧院票",
+    "独立审查成稿：算术、日期、行程冲突，以及家人要求里有没有漏掉的"
+   ],
+   "chipNames": {
+    "https://tfl.gov.uk/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps": "伦敦交通局（TfL）刷卡每日封顶票价",
+    "https://www.gov.uk/eta/apply?trk=article-ssr-frontend-pulse_little-text-block": "英国电子旅行授权（ETA）申请说明",
+    "https://arsenaldirect.arsenal.com/c/Audio-Tour/tour/p/STADIUM": "阿森纳酋长球场参观票价",
+    "https://www.britishmuseum.org/visit": "大英博物馆参观信息",
+    "https://www.darlingtonhotel.com/tariffs/": "Darlington Hyde Park 酒店房价"
+   }
+  }
+ }
+}

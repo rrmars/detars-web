@@ -1,0 +1,187 @@
+{
+ "slug": "hcmc-family-health-insurance-newborn",
+ "startedAt": "2026-11-07",
+ "activeSec": 2987,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 47,
+   "end": 1483,
+   "chips": [
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-bao-hiem-y-te-11924122017211787.htm",
+    "https://pacificcross.com.vn/foundation-series/",
+    "https://pacificcross.com.vn/our-prices/",
+    "https://www.fvhospital.com/en/fv-thomson-maternity/delivery-packages/",
+    "https://www.vinmec.com/vie/bai-viet/bang-gia-dich-vu-thai-san-tron-goi-tai-vinmec-vi"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 24,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 24,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 19,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1483,
+   "end": 2169,
+   "chips": [
+    "https://baovietonline.com.vn/en/product-personal/1/bao-viet-an-gia-insurance"
+   ],
+   "workers": []
+  },
+  {
+   "start": 2169,
+   "end": 2809,
+   "chips": [
+    "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-ve-dang-ky-khai-sinh-thuong-tru-cap-the-bao-hiem-y-te-cho-tre-em-duoi-6-tuoi-tu-thang-9-2026-119260901170341732.htm",
+    "https://xaydungchinhsach.chinhphu.vn/huong-dan-muc-huong-bao-hiem-y-te-theo-luong-co-so-moi-01-7-2026-119260722152725353.htm"
+   ],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 11,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Swap in your own family details and get the same health-cover comparison before the baby arrives",
+   "runTitle": "Thu Duc City, Ho Chi Minh City: family health cover for a baby due March 2027",
+   "fields": [
+    {
+     "key": "ages",
+     "label": "Ages, nationalities and residence/contract status",
+     "value": "Tom: British, 37, on a Vietnamese work permit; Anh: Vietnamese, 34; living in Thu Duc City, Ho Chi Minh City"
+    },
+    {
+     "key": "month",
+     "label": "Baby due month",
+     "value": "March 2027"
+    },
+    {
+     "key": "bhyt",
+     "label": "Current state health insurance (BHYT) details",
+     "value": "Tom’s employer provides basic Vietnamese social health insurance only"
+    },
+    {
+     "key": "budget",
+     "label": "Private-premium budget and separate birth/emergency savings",
+     "value": "About USD 5,000 a year for private cover"
+    }
+   ],
+   "template": "Help compare HCMC family health cover for {ages}, a baby due {month}, {bhyt} and {budget}. Prioritize inpatient protection, establish baby’s BHYT eligibility and keep this pregnancy’s self-pay delivery separate. Flag unverified premiums, newborn acceptance, NICU, hospital billing and evacuation terms. Ask before contacting anyone, sharing medical information or applying.",
+   "phases": [
+    {
+     "title": "Read the official insurance rules, insurer price tables and hospital delivery prices",
+     "note": "State health insurance, private plans and hospital packages",
+     "judgment": "It caught two price tables from the same insurer that disagree (for the Standard plan with outpatient, VND 33.07m on the product page vs VND 30.29m on the price page), so they are shown as examples rather than verified annual offers. It also refused to promise free state cover for a mixed-nationality baby: that eligibility is left marked as unresolved."
+    },
+    {
+     "title": "Write the guide: recommendation first, then a cost table with the arithmetic shown",
+     "judgment": "The recommendation is stated up front but marked conditional: current annual premiums and whether insurers accept a newborn are still unconfirmed, and this pregnancy’s delivery is treated as self-paid."
+    },
+    {
+     "title": "Independent check of every money figure and date, plus desktop and phone layout tests",
+     "judgment": "The independent colleague recomputed every money figure, currency conversion and waiting-period date, and all passed. It also asked for two wording fixes: the registration timeline must not imply adding an internal two-day step, and the vaccination text must mention a separate VND 3m allowance."
+    }
+   ],
+   "workers": [
+    "Read the official rules on state health insurance: who is eligible, what it pays for a birth, and how a baby is registered",
+    "Compared local and international private plans: published family premiums, maternity waiting periods and newborn cover",
+    "Looked up delivery and newborn prices and direct-billing arrangements at FV, Vinmec, Raffles and other hospitals",
+    "Recalculated every money figure and date on its own, then checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-bao-hiem-y-te-11924122017211787.htm": "Law amending the Health Insurance Law",
+    "https://pacificcross.com.vn/foundation-series/": "Pacific Cross Foundation plans",
+    "https://pacificcross.com.vn/our-prices/": "Pacific Cross price list",
+    "https://www.fvhospital.com/en/fv-thomson-maternity/delivery-packages/": "FV Hospital delivery packages",
+    "https://www.vinmec.com/vie/bai-viet/bang-gia-dich-vu-thai-san-tron-goi-tai-vinmec-vi": "Vinmec maternity package prices",
+    "https://baovietonline.com.vn/en/product-personal/1/bao-viet-an-gia-insurance": "Bao Viet An Gia plan",
+    "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-ve-dang-ky-khai-sinh-thuong-tru-cap-the-bao-hiem-y-te-cho-tre-em-duoi-6-tuoi-tu-thang-9-2026-119260901170341732.htm": "Birth registration and child health cards (from Sept 2026)",
+    "https://xaydungchinhsach.chinhphu.vn/huong-dan-muc-huong-bao-hiem-y-te-theo-luong-co-so-moi-01-7-2026-119260722152725353.htm": "Health insurance benefit levels (from 1 July 2026)"
+   }
+  },
+  "zh": {
+   "askTitle": "换成你自己的家庭情况，在宝宝出生前拿到同样的医疗保障对比",
+   "runTitle": "胡志明市守德市：为 2027 年 3 月出生的宝宝选家庭医疗保障",
+   "fields": [
+    {
+     "key": "ages",
+     "label": "年龄、国籍、居住和合同身份",
+     "value": "Tom：英国籍，37 岁，持越南工作许可；Anh：越南籍，34 岁；住在胡志明市守德市"
+    },
+    {
+     "key": "month",
+     "label": "预产期月份",
+     "value": "2027 年 3 月"
+    },
+    {
+     "key": "bhyt",
+     "label": "现有 BHYT（越南国家医保）详情",
+     "value": "Tom 的雇主只提供基本的越南社会医疗保险"
+    },
+    {
+     "key": "budget",
+     "label": "私人保费预算和另备的生育应急储蓄",
+     "value": "私人保障预算每年约 5,000 美元"
+    }
+   ],
+   "template": "帮我比较胡志明市家庭医疗保障，情况是{ages}、宝宝预产期{month}、{bhyt}及{budget}。优先住院保障，厘清宝宝 BHYT 资格，这次怀孕的自费分娩另列。标明保费、新生儿承保、NICU、医院结算和转运条款中尚未核实的部分。联系他人、分享医疗信息或申请前先问我。",
+   "phases": [
+    {
+     "title": "阅读官方保险规定、保险公司价目表和医院分娩价格",
+     "note": "国家医保、私人计划和医院套餐",
+     "judgment": "它发现同一家保险公司的两张价目表互相矛盾（标准计划含门诊，产品页 3307.1 万越南盾，价目页 3028.8 万），因此只当作示例，不当作已核实的年度报价。它也没有承诺“父母国籍不同的宝宝一定能享受国家医保”，这一资格被标为尚未确定。"
+    },
+    {
+     "title": "写成指南：先给结论，再列出带计算过程的费用表",
+     "judgment": "结论放在最前面，但标明是有条件的：目前的年度保费以及保险公司是否接受新生儿都还没确认，这次怀孕的分娩按自费处理。"
+    },
+    {
+     "title": "独立核对每一个金额和日期，并测试电脑与手机版面",
+     "judgment": "独立复核的同事把每个金额、币种换算和等待期日期重算了一遍，全部通过。它还要求改两处措辞：登记时限不能让人误以为要再加上内部的两天环节，疫苗一段要写明另有 300 万越南盾的补贴。"
+    }
+   ],
+   "workers": [
+    "阅读国家医保的官方规定：谁能参保、生育能报销什么、宝宝怎么登记",
+    "比较本地和国际私人计划：公开的家庭保费、生育等待期和新生儿保障",
+    "查 FV、Vinmec、Raffles 等医院的分娩和新生儿价格，以及直接结算安排",
+    "独立重算每个金额和日期，并对照来源清单检查各项说法"
+   ],
+   "chipNames": {
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-bao-hiem-y-te-11924122017211787.htm": "《医疗保险法》修正案全文",
+    "https://pacificcross.com.vn/foundation-series/": "Pacific Cross Foundation 系列计划",
+    "https://pacificcross.com.vn/our-prices/": "Pacific Cross 价目表",
+    "https://www.fvhospital.com/en/fv-thomson-maternity/delivery-packages/": "FV 医院分娩套餐",
+    "https://www.vinmec.com/vie/bai-viet/bang-gia-dich-vu-thai-san-tron-goi-tai-vinmec-vi": "Vinmec 产科套餐价格",
+    "https://baovietonline.com.vn/en/product-personal/1/bao-viet-an-gia-insurance": "宝越 An Gia 计划",
+    "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-ve-dang-ky-khai-sinh-thuong-tru-cap-the-bao-hiem-y-te-cho-tre-em-duoi-6-tuoi-tu-thang-9-2026-119260901170341732.htm": "出生登记与儿童医保卡（2026 年 9 月起）",
+    "https://xaydungchinhsach.chinhphu.vn/huong-dan-muc-huong-bao-hiem-y-te-theo-luong-co-so-moi-01-7-2026-119260722152725353.htm": "医保待遇水平（2026 年 7 月起）"
+   }
+  }
+ }
+}

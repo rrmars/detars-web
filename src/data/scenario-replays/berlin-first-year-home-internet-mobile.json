@@ -1,0 +1,192 @@
+{
+ "slug": "berlin-first-year-home-internet-mobile",
+ "startedAt": "2026-11-07",
+ "activeSec": 2435,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 30,
+   "end": 838,
+   "chips": [
+    "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html",
+    "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Roaming/start.html",
+    "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034",
+    "https://www.telekom.de/netz/glasfaseranschluss",
+    "https://www.vodafone.de/media/downloads/pdf/PIB-GigaZuhause_Kabel_150.pdf"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 12,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 838,
+   "end": 1371,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 1371,
+   "end": 2278,
+   "chips": [
+    "https://www.vodafone.de/freikarten/callya-allnet-flat-s/"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 16,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Change the boxes to your own move and get the same kind of internet and mobile plan",
+   "runTitle": "A new arrival in Berlin on an EU Blue Card: home internet and mobile for the first year, March 2027",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "Arrival date",
+     "value": "1 March 2027"
+    },
+    {
+     "key": "area",
+     "label": "Area and address readiness",
+     "value": "Friedrichshain, Berlin (a typical address)"
+    },
+    {
+     "key": "lease",
+     "label": "Lease length",
+     "value": "",
+     "placeholder": "e.g. a 12-month lease"
+    },
+    {
+     "key": "phone",
+     "label": "Exact regional phone model",
+     "value": "",
+     "placeholder": "e.g. iPhone 15, bought in China (dual SIM with eSIM)"
+    },
+    {
+     "key": "docs",
+     "label": "Documents and payment setup",
+     "value": "Chinese passport with an EU Blue Card; a German bank account shortly after arrival, no SCHUFA history"
+    },
+    {
+     "key": "needs",
+     "label": "Needs",
+     "value": "Working from home two days a week (video calls), evening streaming and weekly calls to family in China"
+    }
+   ],
+   "template": "Help me plan Berlin internet and mobile for {arrival}, {area} and {lease}. My phone is {phone}, my documents/payment setup are {docs}, and I need {needs}. Compare prepaid and ready home connections, count the actual renewal dates, and separate introductory prices from the full commitment. Flag unresolved passport acceptance, fees and China telephone rates. Ask before entering personal data, contacting providers, ordering or paying.",
+   "phases": [
+    {
+     "title": "Read the primary-source rules and tariffs for home internet, mobile and newcomers",
+     "judgment": "It corrected its own earlier draft: the O2 fibre page explicitly waives the €599.99 development fee with a 24-month order, so the report was changed to match and the price-list claims it could not support were dropped."
+    },
+    {
+     "title": "Build the guide and source list with first-year cost scenarios that can be reproduced"
+    },
+    {
+     "title": "Independently check the arithmetic and claims, and inspect the layout on desktop and phone",
+     "judgment": "The independent reviewer recomputed all 50 money figures and they passed. It listed what still could not pass, such as conflicting O2 offer terms and unverified China phone rates, and the guide discloses these instead of marking them done."
+    }
+   ],
+   "workers": [
+    "Read the public tariff, contract-summary and set-up sources for home internet: cable, DSL, fibre and 5G",
+    "Checked official mobile tariffs, sign-up steps and international-call conditions for a newcomer with a Chinese passport",
+    "Independently recomputed every money figure and checked the claims against the source list"
+   ],
+   "chipNames": {
+    "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html": "Bundesnetzagentur: internet and phone contracts",
+    "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Roaming/start.html": "Bundesnetzagentur: roaming",
+    "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034": "Verbraucherzentrale: your rights when moving",
+    "https://www.telekom.de/netz/glasfaseranschluss": "Telekom: fibre connection",
+    "https://www.vodafone.de/media/downloads/pdf/PIB-GigaZuhause_Kabel_150.pdf": "Vodafone: product information sheet, cable 150",
+    "https://www.vodafone.de/freikarten/callya-allnet-flat-s/": "Vodafone: CallYa Allnet Flat S"
+   }
+  },
+  "zh": {
+   "askTitle": "把格子换成你自己的搬家情况，得到同样的宽带和手机方案",
+   "runTitle": "持欧盟蓝卡初到柏林：2027 年 3 月起第一年的家庭宽带与手机",
+   "fields": [
+    {
+     "key": "arrival",
+     "label": "抵达日期",
+     "value": "2027 年 3 月 1 日"
+    },
+    {
+     "key": "area",
+     "label": "区域和地址就绪情况",
+     "value": "柏林弗里德里希斯海因(典型地址)"
+    },
+    {
+     "key": "lease",
+     "label": "租期",
+     "value": "",
+     "placeholder": "例如：12 个月租约"
+    },
+    {
+     "key": "phone",
+     "label": "手机的准确地区型号",
+     "value": "",
+     "placeholder": "例如：国行 iPhone 15(双卡加 eSIM)"
+    },
+    {
+     "key": "docs",
+     "label": "证件和付款准备",
+     "value": "中国护照加欧盟蓝卡；抵达后不久开德国银行账户，没有 SCHUFA 记录"
+    },
+    {
+     "key": "needs",
+     "label": "需求",
+     "value": "每周居家办公两天(视频会议)、晚上看流媒体、每周联系中国家人"
+    }
+   ],
+   "template": "帮我规划 {arrival}、{area}、{lease} 的柏林宽带和手机。我的手机是 {phone}，证件和付款准备为 {docs}，需求是 {needs}。比较预付费和已就绪家庭线路，按实际续费日计算，区分优惠价和完整承诺期。标明未解决的护照接受、费用及中国电话费率。输入个人资料、联系运营商、下单或付款前先问我。",
+   "phases": [
+    {
+     "title": "查阅家庭宽带、手机和新移民的一手规则与资费",
+     "judgment": "它纠正了自己早先的草稿：O2 的光纤页面明确写了签 24 个月合约免收 599.99 欧元的建设费，于是报告据此改正，并删去了没有依据的价目表说法。"
+    },
+    {
+     "title": "做出指南和来源清单，附可复现的第一年成本方案"
+    },
+    {
+     "title": "独立核对计算和说法，并在电脑和手机上检查版面",
+     "judgment": "独立复核的同事把 50 个金额全部重算，通过；同时列出仍然过不了关的地方，例如 O2 的优惠条款互相矛盾、拨打中国的话费未能核实，指南如实写明，而不是标成已通过。"
+    }
+   ],
+   "workers": [
+    "读家庭宽带(有线电视网、DSL、光纤、5G)的公开资费、合同摘要和开通说明",
+    "核对持中国护照的新移民可用的手机官方资费、开通步骤和国际通话条件",
+    "独立重算每个金额，并对照来源清单核查说法"
+   ],
+   "chipNames": {
+    "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html": "联邦网络局:网络与电话合同",
+    "https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Roaming/start.html": "联邦网络局:漫游",
+    "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034": "消费者保护中心:搬家时的合同权利",
+    "https://www.telekom.de/netz/glasfaseranschluss": "德国电信:光纤接入",
+    "https://www.vodafone.de/media/downloads/pdf/PIB-GigaZuhause_Kabel_150.pdf": "沃达丰:有线 150 产品信息表",
+    "https://www.vodafone.de/freikarten/callya-allnet-flat-s/": "沃达丰:CallYa Allnet Flat S"
+   }
+  }
+ }
+}

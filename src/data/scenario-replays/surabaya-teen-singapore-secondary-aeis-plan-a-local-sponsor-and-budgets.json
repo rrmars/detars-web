@@ -1,0 +1,158 @@
+{
+ "slug": "surabaya-teen-singapore-secondary-aeis-plan-a-local-sponsor-and-budgets",
+ "startedAt": "2026-11-07",
+ "activeSec": 794,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 6,
+  "parallel": 5,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 0,
+   "end": 150,
+   "chips": [
+    "https://www.moe.gov.sg/international-students/aeis",
+    "https://www.moe.gov.sg/financial-matters/fees",
+    "https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/government--government-aided--independent-schools",
+    "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/default.aspx",
+    "https://www.sais.edu.sg/admissions/fees"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 3,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 2,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 150,
+   "end": 623,
+   "chips": [
+    "https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/foreign-system-schools-and-privately-funded-schools",
+    "https://www.sginhome.com/en/homestay",
+    "https://www.globalpropertyguide.com/asia/singapore/2-bed-rent",
+    "https://sis.sch.id/fees"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 4,
+     "minutes": 5,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 5,
+     "minutes": 4,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 623,
+   "end": 794,
+   "chips": [],
+   "workers": [
+    {
+     "n": 6,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Put in your own child, city and budget to compare the three schooling routes with your numbers",
+   "runTitle": "Surabaya to Singapore: a 13-year-old’s secondary school options on IDR 1.4 billion a year",
+   "fields": [
+    {
+     "key": "city",
+     "label": "City you would stay in",
+     "value": "Surabaya"
+    },
+    {
+     "key": "age",
+     "label": "Child’s age",
+     "value": "13"
+    },
+    {
+     "key": "year",
+     "label": "Starting year",
+     "value": "January 2028"
+    },
+    {
+     "key": "budget",
+     "label": "Annual budget in IDR",
+     "value": "IDR 1.4 billion per year, all-in"
+    },
+    {
+     "key": "sponsor",
+     "label": "Singapore Citizen or PR aged 21 or older as a sponsor",
+     "value": "",
+     "placeholder": "e.g. yes / no / unsure"
+    },
+    {
+     "key": "parent",
+     "label": "Can a parent move to Singapore",
+     "value": "",
+     "placeholder": "e.g. can / cannot"
+    }
+   ],
+   "template": "Help me compare a Singapore government school through AEIS, a private school in Singapore and staying in {city} for my child, aged {age}, starting in {year}. Our budget is {budget}, we can or cannot name a Singapore Citizen or PR aged 21 or older as a sponsor {sponsor}, and a parent {parent} move to Singapore. Rebuild the yearly budget for each option with my numbers and the current exchange rate, mark anything unconfirmed or assumed, show what happens if my child is not placed through AEIS, and list what I still need to ask MOE and ICA. Ask before contacting anyone or paying anything.",
+   "phases": [
+    {
+     "title": "Read the official school, pass and fee pages, plus private-school fees and exchange rates",
+     "note": "Admissions exam, school fees, student pass rules, exchange rate and private-school fees",
+     "judgment": "It found a deal-breaker early: a government school’s student pass needs a local sponsor who is a Singapore citizen or PR aged 21 or older, and no official page says whether a homestay host or guardian qualifies, so it says plainly that the main plan is not available to a family with no such contact."
+    },
+    {
+     "title": "Write the guide, source list and four yearly budgets",
+     "note": "Recommendation, timeline, fee comparison, guardian options and a budget for each route",
+     "judgment": "It would not present guesses as facts: the 2028 school fees and the 2028 exam dates are not published yet, so the guide uses the 2027 fee and shows July to September 2027 only as an inference from the 2026 pattern, marked unconfirmed."
+    },
+    {
+     "title": "Independent check of every money figure and claim, then fix and re-check the page",
+     "judgment": "A separate colleague recomputed every figure and raised eight wording and disclosure issues, such as an unsourced “four to five years” and a budget range that mixed a steady-year low with a year-one high. All eight were fixed and the arithmetic was re-run."
+    }
+   ],
+   "workers": [
+    "Found the monthly school and miscellaneous fees that Indonesian students pay at Singapore government secondary schools",
+    "Looked up the Rupiah-to-Singapore-dollar rate from Bank Indonesia and the current goods and services tax rate",
+    "Read the official admissions-exam pages: who can sit, test dates and fees, which level she would sit, placement, and what happens if she does not pass",
+    "Read the immigration rules for a child’s Student’s Pass, the local sponsor requirement, and the pass for an accompanying parent",
+    "Collected private-school fees, Surabaya international-school fees, and rent, homestay and living-cost examples, marking anything unofficial",
+    "Recomputed every money figure on its own and checked each claim in the guide against the source list"
+   ],
+   "chipNames": {
+    "https://www.moe.gov.sg/international-students/aeis": "Ministry of Education: AEIS admissions exercise",
+    "https://www.moe.gov.sg/financial-matters/fees": "Ministry of Education: school fees by student type",
+    "https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/government--government-aided--independent-schools": "Immigration and Checkpoints Authority: Student’s Pass for government schools",
+    "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/default.aspx": "Bank Indonesia: SGD exchange rate",
+    "https://www.sais.edu.sg/admissions/fees": "Stamford American International School: fees",
+    "https://www.ica.gov.sg/information-and-e-services/long-term-visit-and-study/student-s-pass/student's-pass-application-renewal/foreign-system-schools-and-privately-funded-schools": "Immigration and Checkpoints Authority: Student’s Pass for private schools",
+    "https://www.sginhome.com/en/homestay": "Homestay agent page (not an official source)",
+    "https://www.globalpropertyguide.com/asia/singapore/2-bed-rent": "Rent medians for Singapore (third-party, in USD)",
+    "https://sis.sch.id/fees": "Surabaya Intercultural School: fees page"
+   }
+  }
+ }
+}

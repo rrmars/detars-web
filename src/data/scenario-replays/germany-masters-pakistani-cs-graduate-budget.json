@@ -1,0 +1,134 @@
+{
+ "slug": "germany-masters-pakistani-cs-graduate-budget",
+ "startedAt": "2026-11-07",
+ "activeSec": 2513,
+ "stats": {
+  "searches": null,
+  "pages": null,
+  "colleagues": 3,
+  "parallel": 2,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 38,
+   "end": 1437,
+   "chips": [
+    "https://pakistan.diplo.de/pk-en/service/2-study-visa-seite-1676104",
+    "https://www.uni-assist.de/en/tools/info-country-by-country/details-country/country/pk/",
+    "https://www.tum.de/en/studies/application/grade-conversion-formula-for-grades-earned-outside-germany",
+    "https://www.baden-wuerttemberg.de/en/service/press/press-release/pid/tuition-fees-for-international-students-and-second-degree",
+    "https://www.daad.de/en/studying-in-germany/living-in-germany/finances/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 17,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 15,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1437,
+   "end": 1872,
+   "chips": [
+    "https://www.uni-passau.de/en/apply/requirements-for-study/english"
+   ],
+   "workers": []
+  },
+  {
+   "start": 1872,
+   "end": 2339,
+   "chips": [
+    "https://help.expatrio.com/en-US/article/kb-360001034432"
+   ],
+   "workers": [
+    {
+     "n": 3,
+     "minutes": 10,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own degree, funds and exchange rate and see whether a German master’s fits your budget",
+   "runTitle": "Pakistani CS graduate, German master’s from October 2027: is PKR 3.5 million enough?",
+   "fields": [
+    {
+     "key": "intake",
+     "label": "Intake",
+     "value": "Winter semester (October) 2027"
+    },
+    {
+     "key": "degree",
+     "label": "Degree, university, CGPA and official degree-award minimum",
+     "value": "4-year BS in Computer Science, finished in 2026, CGPA 3.2/4.0"
+    },
+    {
+     "key": "credits",
+     "label": "Module credits, project weight and class rank",
+     "value": "",
+     "placeholder": "e.g. 136 credit hours, final-year project 6 credits, rank 12 of 90"
+    },
+    {
+     "key": "english",
+     "label": "English evidence (test, date, scores)",
+     "value": "",
+     "placeholder": "e.g. IELTS Academic 6.5 taken in March 2026"
+    },
+    {
+     "key": "funding",
+     "label": "Funding available now, monthly savings and protected reserve",
+     "value": "Family can contribute PKR 3.5 million"
+    },
+    {
+     "key": "fx",
+     "label": "Bank exchange rate",
+     "value": "",
+     "placeholder": "e.g. PKR 325 per euro from my bank"
+    }
+   ],
+   "template": "Help me plan a German public-university CS or Data Science master’s for {intake}. I hold {degree} in Pakistan, with {credits}, English evidence {english} and funding {funding}. Compare suitable academic gates, confirm intake-specific dates and document rules, and calculate first-year spending, blocked funds and accessible arrival cash at {fx}. Flag unverified requirements and missing funding. Ask before contacting anyone, sharing documents, applying or paying.",
+   "phases": [
+    {
+     "title": "Check programme, visa and cost rules on official pages",
+     "note": "University admissions pages, the German mission, uni-assist and DAAD",
+     "judgment": "It did not invent a visa-appointment wait: the German mission publishes no number, only that “ongoing demand still exceeds our capacity”, and the guide says so. It also found that the APS certificate is not routinely required for Pakistan-earned degrees."
+    },
+    {
+     "title": "Write the guide with a yes or no on the budget, and the source log",
+     "note": "Programme table, timeline, visa checklist, first-year budget in EUR and PKR",
+     "judgment": "It gave a plain answer: PKR 3.5 million is not enough. At an assumed PKR 325 per euro the first year needs €17,257 (PKR 5,608,525), PKR 2,108,525 more than the family funds, and the 2027 visa fee and blocked-account amount are labelled as not yet confirmed."
+    },
+    {
+     "title": "Independently verify the calculations and sources, and test the page on desktop and phone",
+     "judgment": "The independent reviewer re-ran all the arithmetic, passing 18 budget rows and all three grade conversions, and still found content gaps: a university’s independent-project requirement and a Pakistan-specific scholarship restriction had been left out. These were listed as remaining issues."
+    }
+   ],
+   "workers": [
+    "Checked seven English-taught master’s programmes at public universities against their own admissions pages: entry grades, language scores and application windows",
+    "Read the German mission’s visa pages for Pakistan: documents, the APS question, blocked-account amount, part-time work and health insurance",
+    "Independently recomputed every money figure and grade conversion and checked each claim against the source list"
+   ],
+   "chipNames": {
+    "https://pakistan.diplo.de/pk-en/service/2-study-visa-seite-1676104": "German Embassy Islamabad: study visa",
+    "https://www.uni-assist.de/en/tools/info-country-by-country/details-country/country/pk/": "uni-assist: requirements for Pakistan",
+    "https://www.tum.de/en/studies/application/grade-conversion-formula-for-grades-earned-outside-germany": "TUM: grade conversion for non-German grades",
+    "https://www.baden-wuerttemberg.de/en/service/press/press-release/pid/tuition-fees-for-international-students-and-second-degree": "Baden-Württemberg: tuition for international students",
+    "https://www.daad.de/en/studying-in-germany/living-in-germany/finances/": "DAAD: living costs in Germany",
+    "https://www.uni-passau.de/en/apply/requirements-for-study/english": "University of Passau: English requirements",
+    "https://help.expatrio.com/en-US/article/kb-360001034432": "Expatrio help: blocked account"
+   }
+  }
+ }
+}

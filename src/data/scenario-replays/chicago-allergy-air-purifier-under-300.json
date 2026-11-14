@@ -1,0 +1,134 @@
+{
+ "slug": "chicago-allergy-air-purifier-under-300",
+ "startedAt": "2026-11-05",
+ "activeSec": 2774,
+ "stats": {
+  "searches": 43,
+  "pages": 45,
+  "colleagues": 4,
+  "parallel": 3,
+  "reviewer": true
+ },
+ "phases": [
+  {
+   "start": 23,
+   "end": 1360,
+   "chips": [
+    "https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home",
+    "https://ww2.arb.ca.gov/resources/fact-sheets/indoor-air-cleaners-and-wildfire-smoke-faq-0",
+    "https://ahamverifide.org/ahams-air-filtration-standards/",
+    "https://levoit.com/products/vital-200s-p-smart-air-purifier",
+    "https://www.winixamerica.com/product/5520/"
+   ],
+   "workers": [
+    {
+     "n": 1,
+     "minutes": 22,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 2,
+     "minutes": 1,
+     "parallel": true,
+     "review": false
+    },
+    {
+     "n": 3,
+     "minutes": 2,
+     "parallel": true,
+     "review": false
+    }
+   ]
+  },
+  {
+   "start": 1360,
+   "end": 2611,
+   "chips": [],
+   "workers": []
+  },
+  {
+   "start": 2611,
+   "end": 2803,
+   "chips": [],
+   "workers": [
+    {
+     "n": 4,
+     "minutes": 1,
+     "parallel": false,
+     "review": true
+    }
+   ]
+  }
+ ],
+ "text": {
+  "en": {
+   "askTitle": "Enter your own room, noise needs and budget and get the same checked air-purifier comparison",
+   "runTitle": "Chicago renter with dust and pollen allergies: air purifiers under $300 for a 300 sq ft bedroom",
+   "fields": [
+    {
+     "key": "zip",
+     "label": "Chicago ZIP code",
+     "value": "Chicago (renter); no ZIP given"
+    },
+    {
+     "key": "room",
+     "label": "Room area and ceiling height",
+     "value": "A 300 sq ft bedroom"
+    },
+    {
+     "key": "layout",
+     "label": "Open-door layout",
+     "value": "",
+     "placeholder": "e.g. bedroom door usually open to the hallway"
+    },
+    {
+     "key": "noise",
+     "label": "Noise tolerance",
+     "value": "",
+     "placeholder": "e.g. must be near-silent on the setting I sleep on"
+    },
+    {
+     "key": "budget",
+     "label": "Budget including or excluding tax",
+     "value": "Under USD 300"
+    },
+    {
+     "key": "month",
+     "label": "Purchase month",
+     "value": "March 2027"
+    }
+   ],
+   "template": "Compare US air purifiers for my {zip}, {room}, {layout}, {noise} and {budget}. Check exact model revisions, per-speed noise and CADR evidence, genuine filter costs, delivered totals and return terms for {month}. Keep ozone/ionizer limits and unknowns clear. Plan only; do not buy, create accounts or contact sellers.",
+   "phases": [
+    {
+     "title": "Check public prices, specifications, filters, and safety and sizing guidance",
+     "note": "EPA and California guidance on ozone and ionizers, plus each maker’s own pages",
+     "judgment": "A researcher was asked for two models and reported that neither could be recommended as a current purchase: Winix’s 5510 product page is gone, and Honeywell’s store lists its model as discontinued. They refused to treat old indexed prices as live offers, and a follow-up found a replacement that could be verified, the Winix 5520 at $259.99, in stock."
+    },
+    {
+     "title": "Write the practical comparison page and a dated source list",
+     "note": "Six models, sizing, safety, two recommendations",
+     "judgment": "It flagged where the budget is tight: the stronger Core 600S-P is $299.99, so it only fits under $300 before tax. It also flagged the airflow limits at quiet settings and that March 2027 prices are uncertain."
+    },
+    {
+     "title": "Check the calculations, links and final files",
+     "judgment": "The independent reviewer found one sentence that was too sweeping, that all six models clear the sizing target, when the figures for two brands with their ionizers switched off were not established. They proposed rewording it to say only what the published figures show."
+    }
+   ],
+   "workers": [
+    "Read Levoit’s current product pages, manuals and genuine replacement-filter prices",
+    "Checked Coway’s product pages and manuals, its published specifications and the price of genuine filters",
+    "Looked for current offers and published specifications for the Winix and Honeywell models",
+    "Independently reviewed the finished comparison page and source list for claims the evidence does not support"
+   ],
+   "chipNames": {
+    "https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home": "EPA: guide to air cleaners in the home",
+    "https://ww2.arb.ca.gov/resources/fact-sheets/indoor-air-cleaners-and-wildfire-smoke-faq-0": "California Air Resources Board: indoor air cleaners and wildfire smoke",
+    "https://ahamverifide.org/ahams-air-filtration-standards/": "AHAM Verifide: air filtration standards",
+    "https://levoit.com/products/vital-200s-p-smart-air-purifier": "Levoit: Vital 200S-P product page",
+    "https://www.winixamerica.com/product/5520/": "Winix: 5520 product page"
+   }
+  }
+ }
+}
