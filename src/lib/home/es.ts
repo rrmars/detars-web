@@ -11,7 +11,7 @@ export const homeEs: HomeCopy = {
   futureKicker: "El futuro que estamos construyendo",
   futureH2: "Más en tu dispositivo.<br>Más posibilidades para ti.",
   futureP: "Entrenamos nuestro propio modelo de privacidad, y funciona en tu dispositivo: con la Privacidad automática activada, nombres, teléfonos, documentos de identidad y otros datos sensibles se convierten en marcadores en tu equipo antes de llegar a cualquier modelo en la nube, y se restauran localmente cuando vuelven los resultados. Un modelo local también hace trabajo real en tu dispositivo, y se vuelve más capaz a medida que los modelos mejoran. A medida que la potencia de cálculo se hace más accesible, trabajamos hacia un DeTars que haga más en tu propio dispositivo, donde la IA local y la nube hagan cada una lo que mejor saben hacer, con tu privacidad en el centro.",
-  futureViz: { device: "Tu dispositivo", privacy: "Modelo de privacidad · anonimiza en tu equipo", local: "Modelo local · hace el trabajo, cada vez más capaz", cloud: "Modelos en la nube · los que elijas", wire: "solo salen marcadores ⟦PERSONA_1⟧" },
+  futureViz: { device: "Tu dispositivo", privacy: "Modelo de privacidad · anonimiza en tu equipo", local: "Modelo local · hace el trabajo, cada vez más capaz", cloud: "Modelos en la nube · los que elijas", wire: "solo salen marcadores ⟦PERSON_1⟧" },
   proof: [
     { n: "Días", l: "una tarea puede durar días · los proyectos siguen avanzando" },
     { n: "Todos", l: "los modelos principales · cambia cuando quieras" },

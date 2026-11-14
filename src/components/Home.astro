@@ -1,5 +1,6 @@
 ---
 import HomeFuture from "@/components/HomeFuture.astro";
+import HomePrivacy from "@/components/HomePrivacy.astro";
 import HomeLive from "@/components/HomeLive.astro";
 import HomePacks from "@/components/HomePacks.astro";
 import { homeCopy } from "@/lib/home-copy";
@@ -28,6 +29,9 @@ const dl = (route: string) => withLocale(locale, route);
 
 <!-- FUTURE DIRECTION -->
 <HomeFuture t={t} />
+
+<!-- PRIVACY MODEL -->
+<HomePrivacy locale={locale} />
 
 <!-- HOOK -->
 <section class="band shell hook">
