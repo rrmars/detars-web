@@ -85,19 +85,7 @@ export const pagesDe: Record<PageKey, PageContent> = {
         ] }]
       }
     ],
-    cta: { label: "Den Beweis ansehen →", route: "/proof" }
-  },
-  proof: {
-    title: "Der Beweis | DeTars hat sich selbst geschrieben",
-    description: "DeTars ist eine Anwendung mit 1,17 Millionen Codezeilen für Mac und Windows — geschrieben von der eigenen Engine. Eine unzuverlässige KI kann keine funktionierende Kopie ihrer selbst bauen.",
-    kicker: "Der Beweis",
-    h1: "Es hat <span class='o'>sich selbst hervorgebracht.</span>",
-    answer: "Der stärkste Beweis steht nicht auf einer Folie. DeTars — eine App mit 1,17 Millionen Codezeilen, die auf deinem Rechner läuft — wurde von seiner eigenen Engine geschrieben. Eine unzuverlässige KI kann keine 1,17 Millionen Zeilen funktionierenden Code schreiben. Das Produkt ist die Demo.",
-    sections: [
-      { h2: "Warum das die ultimative Demo ist", blocks: [{ type: "p", html: "Wir <b>sagen</b> nicht, unsere KI könne anspruchsvolle Arbeit leisten — sie hat die anspruchsvollste Arbeit erledigt: sich selbst gebaut. Das ist kein Benchmark, den man austricksen kann, sondern eine funktionierende Anwendung, die du ausführen kannst. Und die Zahl lässt sich direkt im Code zählen — keine Präsentationsrhetorik." }] },
-      { h2: "Was sich daraus ergibt", blocks: [{ type: "p", html: "Zusammen ergeben die sechs Zuverlässigkeitseigenschaften keinen weiteren Chatbot — sondern den <b>Personal Computer</b> des Zeitalters persönlicher KI: ein privates KI-Team, das dir gehört, immer aktiv ist, sich aus jedem Chatfenster steuern lässt und sich bei dir meldet. Und sein Vorsprung wächst: Das Gedächtnis lernt dich kennen, die Zuverlässigkeit wird Woche für Woche robuster, und Souveränität bekommt regulatorischen Rückenwind." }] }
-    ],
-    cta: { label: "Hol es auf deinen eigenen Rechner →", route: "/download" }
+    cta: { label: "Echte Anwendungsfälle ansehen →", route: "/scenarios" }
   },
   download: {
     title: "DeTars herunterladen | macOS und Windows",

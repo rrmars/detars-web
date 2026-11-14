@@ -235,5 +235,5 @@ export const homeDe: HomeCopy = {
   closeH2: "DeTars ist dein dauerhaftes, unabhängiges Terminal.<br><span class='grad'>KI auf deiner Seite.</span>",
   closeP: "Damit du Dinge schaffst und besser lebst.<br>Ein persönliches KI-Team, das im Hintergrund arbeitet, Anweisungen über deine gewohnten Chat-Apps entgegennimmt und sich von selbst bei dir meldet.",
   closePrimary: "Hol es auf deinen eigenen Rechner →",
-  closeSecondary: "Die technische Geschichte lesen"
+  closeSecondary: "Echte Anwendungsfälle ansehen"
 };

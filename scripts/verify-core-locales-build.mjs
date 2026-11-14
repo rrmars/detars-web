@@ -14,7 +14,7 @@ const switchLinks = html => links(html.match(/<div class="lang-pop"[\s\S]*?<\/di
 const canonical = html => html.match(/<link rel="canonical" href="([^"]+)"/)?.[1]?.replace(/\/$/, '');
 const sitemap = fs.readdirSync(dist).filter(f => /^sitemap.*\.xml$/.test(f)).map(f => fs.readFileSync(path.join(dist, f), 'utf8')).join('\n');
 const packSlugs = ['summon', 'destiny', 'ai-video', 'investing', 'research', 'coding', 'data-studio', 'talking-head', 'pet-care'];
-const pages = ['', 'how-it-works', 'reliable', 'proof', 'download', 'faq', 'about', 'updates', 'research', 'packs', 'privacy', ...packSlugs.map(s => `packs/${s}`)];
+const pages = ['', 'how-it-works', 'reliable', 'download', 'faq', 'about', 'updates', 'research', 'packs', 'privacy', ...packSlugs.map(s => `packs/${s}`)];
 const englishResearch = read('research');
 const englishReportLinks = links(englishResearch).filter(href => /^\/research\/[^/#]+\/?$/.test(href));
 assert.ok(englishReportLinks.length > 0, 'real English research articles exist');

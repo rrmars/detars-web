@@ -241,5 +241,5 @@ export const homeZhHant: HomeCopy = {
   closeH2: "DeTars 是永久的第三方終端夥伴。<br><span class='grad'>站在你這邊的 AI。</span>",
   closeP: "幫你把事做成，也把日子過好。<br>一支為你服務的私人 AI 團隊：在背景推進工作，透過你常用的聊天應用接受指令，並主動跟進。",
   closePrimary: "在你的電腦上擁有它 →",
-  closeSecondary: "讀它的技術故事"
+  closeSecondary: "看真實場景"
 };

@@ -241,5 +241,5 @@ export const homeJa: HomeCopy = {
   closeH2: "DeTarsは、あなたの永続的なサードパーティ端末。<br><span class='grad'>あなたの味方になるAI。</span>",
   closeP: "やりたいことを形にし、毎日をよりよくするお手伝い。<br>バックグラウンドで働き、いつものチャットアプリから指示を受け、自らフォローアップする、あなた専属のAIチーム。",
   closePrimary: "あなたのマシンで手に入れる →",
-  closeSecondary: "技術的な物語を読む"
+  closeSecondary: "実際の活用シーンを見る"
 };

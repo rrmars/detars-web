@@ -45,7 +45,6 @@ export const footerGroups: { title: Record<Locale, string>; items: FooterItem[] 
     title: { en: "Why DeTars", zh: "为什么", "zh-Hant": "為什麼", ja: "DeTars とは", fr: "Pourquoi DeTars", es: "Por qué DeTars" , "ko": "왜 DeTars인가", "pt-BR": "Por que DeTars", "de": "Warum DeTars" },
     items: [
       { route: "/reliable", label: { en: "Why it's reliable", zh: "靠得住", "zh-Hant": "靠得住", ja: "信頼性", fr: "Fiabilité", es: "Fiabilidad" , "ko": "믿을 수 있는 이유", "pt-BR": "Por que é confiável", "de": "Warum es zuverlässig ist" } },
-      { route: "/proof", label: { en: "It wrote itself", zh: "它写了自己", "zh-Hant": "它寫了自己", ja: "自分を書いた", fr: "Il s'est écrit", es: "Se escribió solo" , "ko": "스스로 작성한 제품", "pt-BR": "Ele escreveu a si mesmo", "de": "Es hat sich selbst geschrieben" } },
       { route: "/about", label: { en: "About", zh: "关于", "zh-Hant": "關於", ja: "DeTars について", fr: "À propos", es: "Acerca de" , "ko": "소개", "pt-BR": "Sobre", "de": "Über uns" } }
     ]
   },

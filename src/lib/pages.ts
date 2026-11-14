@@ -50,7 +50,6 @@ export type PageContent = {
 export const pageRoutes = [
   "how-it-works",
   "reliable",
-  "proof",
   "download",
   "faq",
   "about",

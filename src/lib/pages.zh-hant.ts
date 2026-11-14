@@ -123,39 +123,7 @@ export const pagesZhHant: Record<PageKey, PageContent> = {
         ]
       }
     ],
-    cta: { label: "看證據 →", route: "/proof" }
-  },
-
-  proof: {
-    title: "證據 | DeTars 自己寫出了自己",
-    description: "DeTars 是一個 117 萬行、能在 Mac/Windows 上跑的軟體——用它自己的引擎寫出來的。一個靠不住的 AI,寫不出能跑的自己。",
-    kicker: "證據",
-    h1: "它,<span class='o'>幹出了它自己。</span>",
-    answer:
-      "最硬的證明不在簡報上。DeTars——這個 117 萬行、能在你電腦上跑的軟體——是它自己的引擎寫出來的。一個靠不住的 AI,寫不出 117 萬行能跑的程式碼。產品本身就是 demo。",
-    sections: [
-      {
-        h2: "為什麼這是最極致的 demo",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "我們不是「說」我們的 AI 能幹硬活——它幹了最硬的活:它造出了自己。這不是能刷的榜,是一個你能跑起來的軟體。而且這個數字,你可以當場在程式碼庫裡數出來,不是簡報修辭。"
-          }
-        ]
-      },
-      {
-        h2: "合起來是什麼",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "把六條可靠性疊起來,你得到的不是又一個聊天機器人,而是個人 AI 時代的那台<b>個人電腦</b>:一支你擁有、永遠在線、隨時能在任何聊天視窗指揮、還會主動回來找你的私人 AI 團隊。而護城河會自己越變越厚:記憶越用越懂你、可靠性每週更硬、主權與監管是順風。"
-          }
-        ]
-      }
-    ],
-    cta: { label: "在你的電腦上擁有它 →", route: "/download" }
+    cta: { label: "看真實場景 →", route: "/scenarios" }
   },
 
   download: {

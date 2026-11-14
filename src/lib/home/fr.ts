@@ -241,5 +241,5 @@ export const homeFr: HomeCopy = {
   closeH2: "DeTars est votre terminal tiers permanent.<br><span class='grad'>L’IA de votre côté.</span>",
   closeP: "Pour vous aider à concrétiser vos projets et à mieux vivre.<br>Une équipe d’IA personnelle qui travaille en arrière-plan, reçoit vos consignes via vos applications de chat habituelles et assure le suivi avec vous.",
   closePrimary: "Possédez-la sur votre machine →",
-  closeSecondary: "Lire l'histoire technique"
+  closeSecondary: "Voir des cas réels"
 };

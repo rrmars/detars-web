@@ -126,40 +126,7 @@ export const pagesEs: Record<PageKey, PageContent> = {
         ]
       }
     ],
-    cta: { label: "Mira la prueba →", route: "/proof" }
-  },
-
-  proof: {
-    title: "La prueba | DeTars se escribió a sí misma",
-    description:
-      "DeTars es una aplicación de 1,17 millones de líneas que corre en Mac y Windows — escrita por su propio motor. Una IA poco fiable no puede construir una copia funcional de sí misma.",
-    kicker: "La prueba",
-    h1: "Se produjo a <span class='o'>sí misma.</span>",
-    answer:
-      "La prueba más fuerte no está en una diapositiva. DeTars — una app de 1,17 millones de líneas que corre en tu máquina — la escribió su propio motor. Una IA poco fiable no puede escribir 1,17 millones de líneas de código funcional. El producto es la demo.",
-    sections: [
-      {
-        h2: "Por qué esta es la demo definitiva",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "No <b>decimos</b> que nuestra IA puede con el trabajo duro — hizo el trabajo más duro que existe: se construyó a sí misma. Eso no es un benchmark que puedas amañar; es una aplicación funcional que puedes ejecutar. Y la cifra se puede contar en el código, en el acto — no es retórica de presentación."
-          }
-        ]
-      },
-      {
-        h2: "A qué suma todo esto",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "Apila las seis propiedades de fiabilidad y no obtienes otro chatbot — obtienes el <b>ordenador personal</b> de la era de la IA personal: un equipo de IA privado que tú posees, siempre activo, comandable desde cualquier ventana de chat, que vuelve a ti. Y su foso se acumula: la memoria llega a conocerte, la fiabilidad se endurece cada semana, la soberanía cabalga la regulación como viento a favor."
-          }
-        ]
-      }
-    ],
-    cta: { label: "Tenla en tu máquina →", route: "/download" }
+    cta: { label: "Ver escenarios reales →", route: "/scenarios" }
   },
 
   download: {

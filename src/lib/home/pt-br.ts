@@ -191,5 +191,5 @@ export const homePtBr: HomeCopy = {
   closeH2: "O DeTars é seu terminal independente permanente.<br><span class='grad'>IA do seu lado.</span>",
   closeP: "Para ajudar você a realizar seus projetos e viver melhor.<br>Uma equipe pessoal de IA que trabalha em segundo plano, recebe instruções pelos aplicativos de conversa que você usa e mantém você a par do andamento.",
   closePrimary: "Tenha o seu na sua máquina →",
-  closeSecondary: "Leia a história técnica"
+  closeSecondary: "Ver cenários reais"
 };

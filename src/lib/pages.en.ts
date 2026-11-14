@@ -126,40 +126,7 @@ export const pagesEn: Record<PageKey, PageContent> = {
         ]
       }
     ],
-    cta: { label: "See the proof →", route: "/proof" }
-  },
-
-  proof: {
-    title: "The proof | DeTars wrote itself",
-    description:
-      "DeTars is a 1.17-million-line application that runs on Mac and Windows — written by its own engine. An unreliable AI can't build a working copy of itself.",
-    kicker: "The proof",
-    h1: "It produced <span class='o'>itself.</span>",
-    answer:
-      "The strongest proof isn't on a slide. DeTars — a 1.17-million-line app that runs on your machine — was written by its own engine. An unreliable AI cannot write 1.17M lines of working code. The product is the demo.",
-    sections: [
-      {
-        h2: "Why this is the ultimate demo",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "We don't <b>say</b> our AI can do hard work — it did the hardest work there is: it built itself. That's not a benchmark you can game; it's a working application you can run. And the number is countable in the codebase, on the spot — not slide-deck rhetoric."
-          }
-        ]
-      },
-      {
-        h2: "What it adds up to",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "Stack the six reliability properties and you don't get another chatbot — you get the <b>personal computer</b> of the personal-AI era: a private AI team you own, always on, commandable from any chat window, that comes back to you. And its moat compounds: memory gets to know you, reliability hardens weekly, sovereignty rides regulation as a tailwind."
-          }
-        ]
-      }
-    ],
-    cta: { label: "Own it on your machine →", route: "/download" }
+    cta: { label: "See real scenarios →", route: "/scenarios" }
   },
 
   download: {

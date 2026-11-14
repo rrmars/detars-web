@@ -223,5 +223,5 @@ export const homeKo: HomeCopy = {
   closeH2: "DeTars는 당신의 영구적인 서드파티 터미널입니다.<br><span class='grad'>당신의 편에 서는 AI.</span>",
   closeP: "일을 해내고, 더 나은 일상을 살아가도록 돕습니다.<br>백그라운드에서 일하고, 평소 사용하는 채팅 앱으로 지시를 받으며, 먼저 진행 상황을 알려주는 개인 AI 팀입니다.",
   closePrimary: "당신의 컴퓨터에서 소유하기 →",
-  closeSecondary: "기술 이야기 읽기"
+  closeSecondary: "실제 활용 사례 보기"
 };

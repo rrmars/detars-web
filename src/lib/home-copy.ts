@@ -300,7 +300,7 @@ const en: HomeCopy = {
   closeH2: "DeTars is your permanent third-party terminal.<br><span class='grad'>AI on your side.</span>",
   closeP: "Helping you get things done—and live better.<br>A personal AI team that works in the background, takes direction through the chat apps you use, and follows up with you.",
   closePrimary: "Own it on your machine →",
-  closeSecondary: "Read the technical story"
+  closeSecondary: "See real scenarios"
 };
 
 const zh: HomeCopy = {
@@ -544,7 +544,7 @@ const zh: HomeCopy = {
   closeH2: "DeTars 是永久的第三方终端伙伴。<br><span class='grad'>站在你这边的 AI。</span>",
   closeP: "帮你把事做成，也把日子过好。<br>一支为你服务的私人 AI 团队：在后台推进工作，通过你常用的聊天应用接受指令，并主动跟进。",
   closePrimary: "在你的电脑上拥有它 →",
-  closeSecondary: "读它的技术故事"
+  closeSecondary: "看真实场景"
 };
 
 export const homeCopy: Record<Locale, HomeCopy> = { en, zh, "zh-Hant": homeZhHant, ja: homeJa, fr: homeFr, es: homeEs, ko: homeKo, "pt-BR": homePtBr, de: homeDe };

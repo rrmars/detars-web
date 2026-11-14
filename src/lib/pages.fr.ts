@@ -126,40 +126,7 @@ export const pagesFr: Record<PageKey, PageContent> = {
         ]
       }
     ],
-    cta: { label: "Voir la preuve →", route: "/proof" }
-  },
-
-  proof: {
-    title: "La preuve | DeTars s'est écrite elle-même",
-    description:
-      "DeTars est une application de 1,17 million de lignes qui tourne sur Mac et Windows — écrite par son propre moteur. Une IA peu fiable ne peut pas bâtir une copie fonctionnelle d'elle-même.",
-    kicker: "La preuve",
-    h1: "Elle s'est produite <span class='o'>elle-même.</span>",
-    answer:
-      "La preuve la plus forte n'est pas sur une slide. DeTars — une appli de 1,17 million de lignes qui tourne sur votre machine — a été écrite par son propre moteur. Une IA peu fiable ne peut pas écrire 1,17 M de lignes de code fonctionnel. Le produit est la démo.",
-    sections: [
-      {
-        h2: "Pourquoi c'est la démo ultime",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "On ne <b>dit</b> pas que notre IA sait faire du travail dur — elle a fait le travail le plus dur qui soit : elle s'est construite elle-même. Ce n'est pas un benchmark qu'on peut truquer ; c'est une application fonctionnelle que vous pouvez exécuter. Et le chiffre se compte dans le code source, sur-le-champ — pas de la rhétorique de slide."
-          }
-        ]
-      },
-      {
-        h2: "Ce que tout cela donne au total",
-        blocks: [
-          {
-            type: "p",
-            html:
-              "Empilez les six propriétés de fiabilité et vous n'obtenez pas un énième chatbot — vous obtenez l'<b>ordinateur personnel</b> de l'ère de l'IA personnelle : une équipe d'IA privée qui vous appartient, toujours active, pilotable depuis n'importe quelle fenêtre de chat, et qui revient vers vous. Et son fossé se cumule : la mémoire apprend à vous connaître, la fiabilité se durcit chaque semaine, la souveraineté fait de la régulation un vent porteur."
-          }
-        ]
-      }
-    ],
-    cta: { label: "Possédez-la sur votre machine →", route: "/download" }
+    cta: { label: "Voir des cas réels →", route: "/scenarios" }
   },
 
   download: {

@@ -31,6 +31,13 @@ export default defineConfig({
       }
     })
   ],
+  // /proof was retired; old links land on the scenario library instead.
+  redirects: Object.fromEntries(
+    ["", "zh", "zh-hant", "ja", "fr", "es", "ko", "pt-br", "de"].map((seg) => [
+      seg ? `/${seg}/proof` : "/proof",
+      seg ? `/${seg}/scenarios` : "/scenarios"
+    ])
+  ),
   output: "static",
   trailingSlash: "ignore",
   vite: {
