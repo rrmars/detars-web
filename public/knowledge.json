@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-15T15:47:50Z",
+  "publishedAt": "2026-11-15T16:30:58Z",
   "scope": [
     "DeTars public product reference",
     "How to get the most out of DeTars",
@@ -238,8 +238,8 @@
         "id": "stay-in-touch",
         "locale": "zh",
         "title": "离开电脑，也能接到进展",
-        "body": "连上飞书或 Telegram 等 IM，参谋长就能在你不在电脑前时带来成果和待决事项。",
-        "prompt": "帮我连接一个 IM 渠道，让参谋长在我离开电脑时也能把项目成果和待决事项发给我。",
+        "body": "连上飞书或 Telegram 等 IM，幕僚长就能在你不在电脑前时带来成果和待决事项。",
+        "prompt": "帮我连接一个 IM 渠道，让幕僚长在我离开电脑时也能把项目成果和待决事项发给我。",
         "feature": "im"
       },
       {
