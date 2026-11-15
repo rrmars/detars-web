@@ -80,8 +80,8 @@ test("editable defaults contain 8–12 bilingual concepts, C1 providers and all 
     intl: ["openrouter", "anthropic", "openai", "google"]
   });
   assert.deepEqual(editable.localModels.map(model => [model.ramTier, model.ollamaTag, model.canDoTasks]),
-    [["xl", "qwen3:30b", true], ["mid", "qwen3:4b", false], ["low", "", false]]);
-  assert.equal(editable.localModels[2].sizeBytes, 0);
+    [["xxl", "qwen3:30b", true], ["xl", "qwen3:8b", true], ["mid", "qwen3:4b", false], ["low", "", false]]);
+  assert.equal(editable.localModels[3].sizeBytes, 0);
 });
 
 test("onboarding remains optional; rejects field drift, duplicates and invalid editable values", () => {

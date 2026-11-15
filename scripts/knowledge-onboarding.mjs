@@ -44,7 +44,7 @@ export function validateOnboarding(value) {
     if (!Array.isArray(value.localModels) || !unique(value.localModels.map(model => model?.ramTier))) fail();
     for (const model of value.localModels) {
       if (!fields(model, ["ramTier", "ollamaTag", "label", "sizeBytes", "canDoTasks"]) ||
-        !["xl", "mid", "low"].includes(model.ramTier) || !text(model.label) ||
+        !["xxl", "xl", "mid", "low"].includes(model.ramTier) || !text(model.label) ||
         typeof model.canDoTasks !== "boolean" || !Number.isSafeInteger(model.sizeBytes) || model.sizeBytes < 0 ||
         !(text(model.ollamaTag) || (model.ollamaTag === "" && model.ramTier === "low" &&
           model.sizeBytes === 0 && model.canDoTasks === false))) fail();

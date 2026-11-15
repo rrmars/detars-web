@@ -26,8 +26,9 @@
     "intl": ["openrouter", "anthropic", "openai", "google"]
   },
   "localModels": [
-    { "ramTier": "xl", "ollamaTag": "qwen3:30b", "label": "Qwen3 30B MoE · 32 GB+ · simple tasks", "sizeBytes": 18556699314, "canDoTasks": true },
-    { "ramTier": "mid", "ollamaTag": "qwen3:4b", "label": "Qwen3 4B · 16–24 GB · offline chat", "sizeBytes": 2497293931, "canDoTasks": false },
-    { "ramTier": "low", "ollamaTag": "", "label": "8 GB · local models not recommended", "sizeBytes": 0, "canDoTasks": false }
+    {"ramTier":  "xxl", "ollamaTag":  "qwen3:30b", "label":  "Qwen3 30B (MoE)", "sizeBytes":  18556699314, "canDoTasks":  true},
+    {"ramTier":  "xl", "ollamaTag":  "qwen3:8b", "label":  "Qwen3 8B", "sizeBytes":  5200000000, "canDoTasks":  true},
+    {"ramTier":  "mid", "ollamaTag":  "qwen3:4b", "label":  "Qwen3 4B", "sizeBytes":  2497293931, "canDoTasks":  false},
+    {"ramTier":  "low", "ollamaTag":  "", "label":  "8 GB · local models not recommended", "sizeBytes":  0, "canDoTasks":  false}
   ]
 }

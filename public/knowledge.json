@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-15T16:30:58Z",
+  "publishedAt": "2026-11-15T17:36:19Z",
   "scope": [
     "DeTars public product reference",
     "How to get the most out of DeTars",
@@ -309,16 +309,23 @@
     },
     "localModels": [
       {
-        "ramTier": "xl",
+        "ramTier": "xxl",
         "ollamaTag": "qwen3:30b",
-        "label": "Qwen3 30B MoE · 32 GB+ · simple tasks",
+        "label": "Qwen3 30B (MoE)",
         "sizeBytes": 18556699314,
+        "canDoTasks": true
+      },
+      {
+        "ramTier": "xl",
+        "ollamaTag": "qwen3:8b",
+        "label": "Qwen3 8B",
+        "sizeBytes": 5200000000,
         "canDoTasks": true
       },
       {
         "ramTier": "mid",
         "ollamaTag": "qwen3:4b",
-        "label": "Qwen3 4B · 16–24 GB · offline chat",
+        "label": "Qwen3 4B",
         "sizeBytes": 2497293931,
         "canDoTasks": false
       },
