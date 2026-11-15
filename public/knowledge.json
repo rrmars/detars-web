@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-12T15:47:00Z",
+  "publishedAt": "2026-11-15T15:47:50Z",
   "scope": [
     "DeTars public product reference",
     "How to get the most out of DeTars",
@@ -127,5 +127,301 @@
         }
       ]
     }
-  ]
+  ],
+  "onboarding": {
+    "tips": [
+      {
+        "id": "goal-not-steps",
+        "locale": "en",
+        "title": "Hand over a goal, not a script",
+        "body": "Say what you want finished, where the materials are and what the result should look like. Let DeTars choose the steps.",
+        "prompt": "Compare these three products using real cases and original sources, and give me a comparison I can discuss with my team.",
+        "feature": "cowork"
+      },
+      {
+        "id": "goal-not-steps",
+        "locale": "zh",
+        "title": "交代目标，别交代步骤",
+        "body": "说清要完成什么、材料在哪、成品长什么样；怎么做交给 DeTars。",
+        "prompt": "根据真实案例和原始来源比较这三款产品，给我一份能和团队讨论的对比。",
+        "feature": "cowork"
+      },
+      {
+        "id": "keep-useful-knowledge",
+        "locale": "en",
+        "title": "Keep what this project taught you",
+        "body": "Turn useful results into linked notes on your computer, ready to find and reuse next time.",
+        "prompt": "Put the three things most worth keeping from this project into my notes, and link them to my earlier notes on customer interviews.",
+        "feature": "knowledge"
+      },
+      {
+        "id": "keep-useful-knowledge",
+        "locale": "zh",
+        "title": "把成果留下，变成自己的知识",
+        "body": "让项目里值得留的结论变成电脑上的笔记，连到旧知识，下次还能接着用。",
+        "prompt": "把这个项目里最值得保留的三点放进我的笔记，连到以前关于客户访谈的记录。",
+        "feature": "knowledge"
+      },
+      {
+        "id": "correct-memory",
+        "locale": "en",
+        "title": "You can correct its memory",
+        "body": "If a preference changes or DeTars remembers something wrong, say so and ask it to update the old record.",
+        "prompt": "My preference has changed. Help me update the old record and make clear where the new preference applies.",
+        "feature": "memory"
+      },
+      {
+        "id": "correct-memory",
+        "locale": "zh",
+        "title": "记错了，直接告诉它",
+        "body": "偏好变了、记忆不对了，就让 DeTars 修正旧记录，不必每次重新解释。",
+        "prompt": "我的偏好变了，帮我更新旧记录，并说清新偏好适用于哪些场合。",
+        "feature": "memory"
+      },
+      {
+        "id": "reuse-a-skill",
+        "locale": "en",
+        "title": "Turn a good method into a Skill",
+        "body": "Weekly report templates and review checklists can become reusable Skills attached to a project.",
+        "prompt": "Look through these tasks, pick the most useful repeatable method, and turn it into a Skill for this project.",
+        "feature": "memory"
+      },
+      {
+        "id": "reuse-a-skill",
+        "locale": "zh",
+        "title": "好方法可以变成 Skill",
+        "body": "周报模板、方案结构、审阅清单都能保存成 Skill，挂到项目上重复用。",
+        "prompt": "看看这些任务，选出最值得复用的一套方法，整理成这个项目的 Skill。",
+        "feature": "memory"
+      },
+      {
+        "id": "find-past-decisions",
+        "locale": "en",
+        "title": "Ask why you decided last time",
+        "body": "You do not need to remember which conversation held a decision. Ask DeTars to find the original record.",
+        "prompt": "Why did we drop that approach last time? Find the original discussion and explain the reasons.",
+        "feature": "memory"
+      },
+      {
+        "id": "find-past-decisions",
+        "locale": "zh",
+        "title": "忘了上次为什么？问它",
+        "body": "不用记住结论藏在哪段对话里，让 DeTars 找回当时的原始记录。",
+        "prompt": "上次为什么放弃那个方案？找回原始讨论，帮我回顾当时的理由。",
+        "feature": "memory"
+      },
+      {
+        "id": "review-over-time",
+        "locale": "en",
+        "title": "Keep a question under review",
+        "body": "Some questions deserve another look as facts change. Ask for a regular review and the signals worth watching.",
+        "prompt": "Review this research every month with fresh sources, and tell me when evidence changes the main conclusions.",
+        "feature": "cron"
+      },
+      {
+        "id": "review-over-time",
+        "locale": "zh",
+        "title": "值得追的问题，持续追下去",
+        "body": "有些结论会随事实变化。交代复查节奏，也让它留意哪些信号值得再看。",
+        "prompt": "每月用新来源复查这份研究，有证据改变主要结论时告诉我。",
+        "feature": "cron"
+      },
+      {
+        "id": "stay-in-touch",
+        "locale": "en",
+        "title": "Your team can reach you away from the desk",
+        "body": "With an IM channel such as Feishu or Telegram connected, the Chief of Staff can bring you results and decisions.",
+        "prompt": "Help me connect an IM channel so the Chief of Staff can reach me with project results and decisions when I am away.",
+        "feature": "im"
+      },
+      {
+        "id": "stay-in-touch",
+        "locale": "zh",
+        "title": "离开电脑，也能接到进展",
+        "body": "连上飞书或 Telegram 等 IM，参谋长就能在你不在电脑前时带来成果和待决事项。",
+        "prompt": "帮我连接一个 IM 渠道，让参谋长在我离开电脑时也能把项目成果和待决事项发给我。",
+        "feature": "im"
+      },
+      {
+        "id": "voice-when-speaking",
+        "locale": "en",
+        "title": "Let replies speak when you do",
+        "body": "Voice replies can be always on, or respond aloud only when you speak. Longer replies can stay text-only.",
+        "prompt": "Set Chat voice replies to When I speak, and keep replies over 500 characters text-only.",
+        "feature": "voice"
+      },
+      {
+        "id": "voice-when-speaking",
+        "locale": "zh",
+        "title": "你说话时，它也用声音回答",
+        "body": "语音回复可以始终开启，也可以只在你说话时开启；长回复仍用文字。",
+        "prompt": "把 Chat 的语音回复改成“我说话时”，超过 500 字只发文字。",
+        "feature": "voice"
+      },
+      {
+        "id": "choose-a-pack",
+        "locale": "en",
+        "title": "Give specialist work a specialist canvas",
+        "body": "Use Cowork for multi-step work, and a matching Pack when you need its specialist methods and canvas.",
+        "prompt": "I want to trace where this claim comes from. Help me start in Content Research and check the original sources.",
+        "feature": "packs"
+      },
+      {
+        "id": "choose-a-pack",
+        "locale": "zh",
+        "title": "专业的活，交给专业画布",
+        "body": "多步骤的工作放进 Cowork；需要专门方法和画布时，交给对应的 Pack。",
+        "prompt": "我想追查这个说法从哪里来，帮我在内容调研里开始，核对原始来源。",
+        "feature": "packs"
+      },
+      {
+        "id": "privacy-before-start",
+        "locale": "en",
+        "title": "Set Auto privacy before the first message",
+        "body": "For other people's private details, enable Auto privacy when creating a Cowork task. Text inside images is not masked.",
+        "prompt": "Explain how to start a Cowork task with Auto privacy for client files, and which details it cannot mask.",
+        "feature": "cowork"
+      },
+      {
+        "id": "privacy-before-start",
+        "locale": "zh",
+        "title": "涉及他人隐私，开工前先开保护",
+        "body": "新建 Cowork 任务时可打开自动隐私；首条消息发出后开关锁定，图片里的文字不会脱敏。",
+        "prompt": "告诉我怎样为客户文件新建开启自动隐私的 Cowork 任务，以及哪些内容无法脱敏。",
+        "feature": "cowork"
+      }
+    ],
+    "providers": {
+      "cn": [
+        "deepseek",
+        "openrouter",
+        "moonshot",
+        "qwen",
+        "minimax",
+        "volcengine"
+      ],
+      "intl": [
+        "openrouter",
+        "anthropic",
+        "openai",
+        "google"
+      ]
+    },
+    "localModels": [
+      {
+        "ramTier": "xl",
+        "ollamaTag": "qwen3:30b",
+        "label": "Qwen3 30B MoE · 32 GB+ · simple tasks",
+        "sizeBytes": 18556699314,
+        "canDoTasks": true
+      },
+      {
+        "ramTier": "mid",
+        "ollamaTag": "qwen3:4b",
+        "label": "Qwen3 4B · 16–24 GB · offline chat",
+        "sizeBytes": 2497293931,
+        "canDoTasks": false
+      },
+      {
+        "ramTier": "low",
+        "ollamaTag": "",
+        "label": "8 GB · local models not recommended",
+        "sizeBytes": 0,
+        "canDoTasks": false
+      }
+    ],
+    "latest": [
+      {
+        "kind": "research",
+        "locale": "en",
+        "title": "Anthropic's IPO Roadshow and the AI Bubble: Real Demand, Unproven Returns",
+        "url": "https://detars.xyz/research/anthropic-ipo-ai-bubble-2026-11-11/",
+        "publishedAt": "2026-11-11"
+      },
+      {
+        "kind": "research",
+        "locale": "zh",
+        "title": "Anthropic IPO路演与AI泡沫：需求有根基，回报尚未闭环",
+        "url": "https://detars.xyz/zh/research/anthropic-ipo-ai-bubble-2026-11-11/",
+        "publishedAt": "2026-11-11"
+      },
+      {
+        "kind": "scenario",
+        "locale": "en",
+        "title": "Annecy to Geneva: should a French nurse take a Geneva hospital job from mid-2027?",
+        "url": "https://detars.xyz/scenarios/annecy-nurse-geneva-cross-border-commute-decision/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "zh",
+        "title": "珀斯新人办巴厘岛婚礼：交订金前，先守住预算",
+        "url": "https://detars.xyz/zh/scenarios/bali-wedding-60-guests-perth-couple/",
+        "publishedAt": "2026-11-07"
+      },
+      {
+        "kind": "scenario",
+        "locale": "zh-Hant",
+        "title": "BN(O) 家庭在英國：盡早申請 ILR，並留意英語程度要求",
+        "url": "https://detars.xyz/zh-hant/scenarios/hong-kong-family-bno-uk-ilr-window-fees-and-earned-settlement/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "ja",
+        "title": "大阪の看護師からオーストラリアの正看護師へ、2028年を目標に：ストリームBを想定し、NCLEXは大阪で受け、英語を最大のリスクと考える",
+        "url": "https://detars.xyz/ja/scenarios/japanese-nurse-australia-ahpra-stream-b-nclex-osaka-english-scores-and-budget/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "fr",
+        "title": "D'Annecy à Genève : une infirmière française doit-elle accepter un poste hospitalier à Genève à la mi-2027 ?",
+        "url": "https://detars.xyz/fr/scenarios/annecy-nurse-geneva-cross-border-commute-decision/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "es",
+        "title": "Working holiday en Nueva Zelanda desde Argentina en 2027: soliciten el día que abre la convocatoria, los dos, y revisen cuánto duran USD 9,000",
+        "url": "https://detars.xyz/es/scenarios/argentine-couple-new-zealand-working-holiday-apply-at-opening-and-runway/",
+        "publishedAt": "2026-11-07"
+      },
+      {
+        "kind": "scenario",
+        "locale": "id",
+        "title": "Gaji dan Penghasilan Sampingan di Jakarta: Periksa Pajak Keluarga Dahulu",
+        "url": "https://detars.xyz/id/scenarios/jakarta-salary-side-income-tax-check/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "pt-BR",
+        "title": "Do Brasil para Portugal ou Dublin: residência CPLP ou estudo e trabalho num curso de inglês, para um casal com BRL 95.000",
+        "url": "https://detars.xyz/pt-br/scenarios/brazilian-couple-portugal-cplp-vs-ireland/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "vi",
+        "title": "Thu nhập USD ở Thành phố Hồ Chí Minh chưa từng khai: xác nhận phân loại trước; thuế minh họa khoảng VND 3.209.920 so với khoảng VND 198.984.000 một năm, đăng ký không bảo đảm kết quả",
+        "url": "https://detars.xyz/vi/scenarios/hcmc-developer-foreign-income-tax-register-a-household-business-comparison-and-open-issues/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "th",
+        "title": "นำเงินออมเก่ากลับกรุงเทพฯ: แยกเงินต้นออกจากผลตอบแทนใหม่",
+        "url": "https://detars.xyz/th/scenarios/bangkok-old-savings-remittance-tax/",
+        "publishedAt": "2026-11-08"
+      },
+      {
+        "kind": "scenario",
+        "locale": "ko",
+        "title": "서울 직장인 연말정산: 연금 납입 전에 쓸 수 있는 현금부터 확인하세요",
+        "url": "https://detars.xyz/ko/scenarios/seoul-year-end-tax-pension-cash-check/",
+        "publishedAt": "2026-11-08"
+      }
+    ]
+  }
 }

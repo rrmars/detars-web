@@ -2,6 +2,7 @@ import { readFile, realpath } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import path from "node:path";
 import YAML from "yaml";
+import { validateOnboarding } from "./knowledge-onboarding.mjs";
 
 // Standalone publisher mirror of the desktop Bundle v1 contract. No private repo dependency.
 export function validateKnowledge(value, rawBytes = Buffer.byteLength(JSON.stringify(value))) {
@@ -33,6 +34,7 @@ export function validateKnowledge(value, rawBytes = Buffer.byteLength(JSON.strin
   });
   if (replaced.includes("{{")) fail();
   validateSkills(value.skills, keys, fail);
+  validateOnboarding(value.onboarding);
   return value;
 }
 

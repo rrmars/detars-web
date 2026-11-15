@@ -2,9 +2,11 @@ import { readdir, readFile, realpath, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { validateKnowledge } from "./validate-knowledge.mjs";
+import { readOnboardingSources } from "./knowledge-onboarding.mjs";
 
 // content/skills/<name>/{SKILL.md,references/*.md} is the source; public/knowledge.json
-// carries it as `skills`. Edit the Markdown, then run `npm run sync:knowledge-skills`.
+// carries it as `skills`. C1 onboarding combines content/onboarding.json and article metadata.
+// Edit sources, then run `npm run sync:knowledge-skills`; builds also sync before checking.
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const contentDir = path.join(root, "content", "skills");
 const bundlePath = path.join(root, "public", "knowledge.json");
@@ -48,6 +50,8 @@ export async function main(args = process.argv.slice(2)) {
   const check = args.includes("--check");
   const bundle = JSON.parse(await readFile(bundlePath, "utf8"));
   const sources = await readSkillSources();
+  const onboarding = await readOnboardingSources(root);
+  const onboardingChanged = !sameFiles(bundle.onboarding, onboarding);
   let factoryNames = [];
   try {
     const snapshot = JSON.parse(await readFile(new URL("./factory-skill-names.json", import.meta.url), "utf8"));
@@ -71,14 +75,14 @@ export async function main(args = process.argv.slice(2)) {
     return { name, updatedAt: now, sourceUrl: SOURCE_URL, files };
   });
   if (check) {
-    if (changed) {
-      console.error("public/knowledge.json skills differ from content/skills; run npm run sync:knowledge-skills");
+    if (changed || onboardingChanged) {
+      console.error("public/knowledge.json skills or onboarding differ from sources; run npm run sync:knowledge-skills");
       process.exitCode = 1;
     } else console.log(`knowledge skills in sync: ${skills.length}`);
     return;
   }
-  if (!changed) return console.log("knowledge skills unchanged");
-  const next = { ...bundle, publishedAt: now };
+  if (!changed && !onboardingChanged) return console.log("knowledge skills and onboarding unchanged");
+  const next = { ...bundle, publishedAt: now, onboarding };
   if (skills.length) next.skills = skills;
   else delete next.skills;
   const text = JSON.stringify(next, null, 2) + "\n";

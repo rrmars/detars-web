@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node --test scripts/*.test.mjs",
     "dev": "astro dev",
-    "build": "npm run check:knowledge && npm run check:model-tiers && npm run check:model-pricing && astro build",
+    "build": "npm run sync:knowledge-skills && npm run check:knowledge && npm run check:model-tiers && npm run check:model-pricing && astro build",
     "preview": "astro preview",
     "check": "npm run check:knowledge && npm run check:model-tiers && npm run check:model-pricing && astro check",
     "check:knowledge": "node scripts/validate-knowledge.mjs && node scripts/build-knowledge-skills.mjs --check",

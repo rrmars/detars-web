@@ -17,8 +17,18 @@ async function fixture(t) {
   await mkdir(path.join(root, "public"));
   await mkdir(path.join(root, "content", "skills"), { recursive: true });
   await symlink(path.join(site, "node_modules"), path.join(root, "node_modules"), process.platform === "win32" ? "junction" : "dir");
-  for (const file of ["build-knowledge-skills.mjs", "validate-knowledge.mjs", "factory-skill-names.json"]) {
+  await mkdir(path.join(root, "scripts", "scenarios"));
+  for (const file of ["build-knowledge-skills.mjs", "validate-knowledge.mjs", "knowledge-onboarding.mjs", "factory-skill-names.json", "scenarios/content.mjs", "scenarios/public-copy.mjs"]) {
     await copyFile(path.join(site, "scripts", file), path.join(root, "scripts", file));
+  }
+  await copyFile(path.join(site, "content", "onboarding.json"), path.join(root, "content", "onboarding.json"));
+  for (const collection of ["research", "scenarios"]) await mkdir(path.join(root, "src", "content", collection), { recursive: true });
+  // Only the selected article metadata is needed to reproduce the real bundle, not every article body.
+  for (const item of JSON.parse(bundleBytes).onboarding.latest) {
+    const slug = new URL(item.url).pathname.split("/").filter(Boolean).at(-1);
+    const dir = path.join(root, "src", "content", item.kind === "research" ? "research" : "scenarios", item.locale);
+    await mkdir(dir, { recursive: true });
+    await writeFile(path.join(dir, `${slug}.md`), `---\n${JSON.stringify({ ...item, slug })}\n---\nArticle.\n`);
   }
   const bundlePath = path.join(root, "public", "knowledge.json");
   await writeFile(bundlePath, bundleBytes);
@@ -69,6 +79,44 @@ test("check detects edited Markdown without writing; publish copies exact source
   const next = JSON.parse(await readFile(f.bundlePath, "utf8"));
   assert.equal(next.skills[0].files.find(f => f.path === "SKILL.md").markdown, edited);
   assert.equal(f.run("--check").status, 0);
+});
+
+test("edited onboarding and new articles reach the bundle without changing documents or Skills", async t => {
+  const f = await fixture(t);
+  const original = JSON.parse(bundleBytes);
+  const dataPath = path.join(f.root, "content", "onboarding.json");
+  const editable = JSON.parse(await readFile(dataPath, "utf8"));
+  editable.tips[0].title = "An editable tip";
+  await writeFile(dataPath, JSON.stringify(editable));
+  const article = path.join(f.root, "src", "content", "research", "en", "new-report.mdx");
+  await writeFile(article, '---\ntitle: New report\nlocale: en\npublishedAt: 2099-01-01\ndraft: false\n---\nReport.\n');
+  assert.equal(f.run("--check").status, 1);
+  assert.deepEqual(await readFile(f.bundlePath), bundleBytes);
+  const result = f.run();
+  assert.equal(result.status, 0, result.stderr);
+  const next = JSON.parse(await readFile(f.bundlePath, "utf8"));
+  assert.equal(next.onboarding.tips[0].title, "An editable tip");
+  assert.equal(next.onboarding.latest.find(item => item.kind === "research" && item.locale === "en").url, "https://detars.xyz/research/new-report/");
+  assert.deepEqual(next.documents, original.documents);
+  assert.deepEqual(next.skills, original.skills);
+  assert.equal(f.run("--check").status, 0);
+});
+
+test("invalid onboarding and missing article sources fail without replacing the published bundle", async t => {
+  const f = await fixture(t);
+  const dataPath = path.join(f.root, "content", "onboarding.json");
+  const editable = await readFile(dataPath, "utf8");
+  await writeFile(dataPath, '{"tips":42,"providers":{},"localModels":[]}');
+  for (const args of [[], ["--check"]]) {
+    assert.notEqual(f.run(...args).status, 0);
+    assert.deepEqual(await readFile(f.bundlePath), bundleBytes);
+  }
+  await writeFile(dataPath, editable);
+  await rm(path.join(f.root, "src", "content", "research"), { recursive: true });
+  const result = f.run();
+  assert.notEqual(result.status, 0);
+  assert.match(result.stderr, /ENOENT/);
+  assert.deepEqual(await readFile(f.bundlePath), bundleBytes);
 });
 
 for (const location of ["root", "references"]) {
